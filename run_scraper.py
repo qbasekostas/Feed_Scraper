@@ -15,8 +15,8 @@ if not USERNAME or not PASSWORD:
 LOGIN_URL = "https://www.sat-universe.com/index.php?login/login"
 THREAD_URLS = [
     "https://www.sat-universe.com/index.php?threads/greece-cyprus-north-macedonia-football-feeds-10%C2%B0e-7%C2%B0e-15%C2%B0w-0-8%C2%B0w-etc.274535/",
-    "https://www.sat-universe.com/index.php?threads/basketball-cba-wcba-lnb-tbl-euroleague-nba-feeds-7%C2%B0e-10%C2%B0e-16%C2%B0e-62%C2%B0e-100-5%C2%B0e-110-5%C2%B0e.259695/page-959/",
-    "https://www.sat-universe.com/index.php?threads/uefa-champions-league-europa-league-super-cup-u16-u17-u19-u21-etc-3-1%C2%B0e-7%C2%B0e-10%C2%B0e-16%C2%B0e-8%C2%B0w-0-8%C2%B0w.242891/page-509/",
+    "https://www.sat-universe.com/index.php?threads/basketball-cba-wcba-lnb-tbl-euroleague-nba-feeds-7%C2%B0e-10%C2%B0e-16%C2%B0e-62%C2%B0e-100-5%C2%B0e-110-5%C2%B0e.259695/",
+    "https://www.sat-universe.com/index.php?threads/uefa-champions-league-europa-league-super-cup-u16-u17-u19-u21-etc-3-1%C2%B0e-7%C2%B0e-10%C2%B0e-16%C2%B0e-8%C2%B0w-0-8%C2%B0w.242891/",
     "https://www.sat-universe.com/index.php?threads/wrestling-wwe-tna-aew-impact-wosw-all-brands-all-events-keys-only-plz-no-chat-use-encryption-chat-for-chat.278606/"
 ]
 FEEDS_FILE = "feeds.txt"
