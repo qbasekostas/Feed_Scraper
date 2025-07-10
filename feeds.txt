@@ -1,0 +1,29 @@
+Eutelsat 7B-7C @ 07.0E
+10964
+V
+ertical 14400 | 4:2:2 | 8PSK
+ID:
+THN2 FEED B SAT M
+Event:
+UEFA Women’s Euro 2025
+Norway
+vs
+Iceland
+Kick-off 19:00 GMT, 10 July 2025, Arena Thun, Thun
+#CW:
+B1 00 77 28 52 57 8E 37
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10964
+V
+ertical 14400 | 4:2:2 | 8PSK
+ID:
+4GNV2 FEED B SAT B
+Event:
+UEFA Women’s Euro 2025
+Finland
+vs
+Switzerland
+Kick-off 19:00 GMT, 10 July 2025, Stade de Genève, Geneva
+#CW:
+A1 00 77 18 52 57 8E 37
