@@ -1,3 +1,15 @@
+Eutelsat 16A @ 16.0E
+11126 Horizontal 7200 | 4:2:0 | 8PSK | H265
+ID: RAI ITA 887
+Event:
+UEFA Women’s Euro 2025
+Italia
+vs
+Spagna
+Kick‑off 19:00 GMT, 11 July 2025, Berna
+CW:
+D6 75 3C 87 88 A1 B4 DD
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10964
 V
