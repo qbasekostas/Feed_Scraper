@@ -1,0 +1,99 @@
+Eutelsat 16A @ 16.0E
+11126 Horizontal 7200 | 4:2:0 | 8PSK | H265
+ID: RAI ITA 887
+Event:
+UEFA Women’s Euro 2025
+Italia
+vs
+Spagna
+Kick‑off 19:00 GMT, 11 July 2025, Berna
+CW:
+D6 75 3C 87 88 A1 B4 DD
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10964
+Vertical 14400 | 4:2:2 | 8PSK
+ID:
+THN2 FEED B SAT M
+Event:
+UEFA Women’s Euro 2025
+Norway
+vs
+Iceland
+Kick-off 19:00 GMT, 10 July 2025, Arena Thun, Thun
+#CW:
+B1 00 77 28 52 57 8E 37
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10964
+Vertical 14400 | 4:2:2 | 8PSK
+ID:
+4GNV2 FEED B SAT B
+Event:
+UEFA Women’s Euro 2025
+Finland
+vs
+Switzerland
+Kick-off 19:00 GMT, 10 July 2025, Stade de Genève, Geneva
+#CW:
+A1 00 77 18 52 57 8E 37
+---FEED-SEPARATOR---
+UEFA Europa League - 1st Qualifying Round (1st Leg)
+Legia Warsaw v Aktobe
+ST: 20:00
+7°E
+11672
+H
+9600
+DVB-S2-
+4:2:2
+-8PSK
+ID:  POL-111
+CW:
+10 87 67 FE CA 20 25 0F
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+FC Spartak Trnava vs BK Häcken
+12676 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: ID: HUN-021-2
+#CW: 12 54 AD 13 CE 34 25 27
+---FEED-SEPARATOR---
+UEFA Europa League - 1st Qualifying Round (1st Leg)
+Levski Sofia v Hapoel Be'er Sheva
+ST: 18:30
+7°E
+11189
+V
+6900
+DVB-S2-
+4:2:0
+-8PSK
+ID:ATV Broadcast Solutions
+CW:
+20 13 87 BA 47 65 41 ED
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11188 Horizontal 7200 | 4:2:0 | 8PSK
+ID:
+HUN-017/LINE1
+Event:
+UEFA Europa League - 1st Qualifying Round (1st Leg)
+Paks v CFR Cluj
+#CW:
+71 DD DD 2B EE 18 03 09
+---FEED-SEPARATOR---
+UEFA Europa League - 1st Qualifying Round (1st Leg)
+AEK Larnaka v Partizan Belgrade
+ST: 17:30
+7°E
+12643
+H
+9875
+DVB-S2-
+4:2:0
+-8PSK
+ID:UECL MATCH 11 EUROP
+CW:
+E2 71 21 74 B3 BB 9D 0B
