@@ -19,7 +19,10 @@ THREAD_URLS = [
     "https://www.sat-universe.com/index.php?threads/uefa-champions-league-europa-league-super-cup-u16-u17-u19-u21-etc-3-1%C2%B0e-7%C2%B0e-10%C2%B0e-16%C2%B0e-8%C2%B0w-0-8%C2%B0w.242891/",
     "https://www.sat-universe.com/index.php?threads/uefa-international-football-euro-qualifiers-friendlies-preseason-continental-cup-hybrid-legends-etc-please-state-if-4-2-0-or-4-2-2.276471/",
     "https://www.sat-universe.com/index.php?threads/fifa-internationals-fifa-world-cup-2014-2018-2022-2026-qualifiers-friendlies-world-club-championship-7%C2%B0e-10%C2%B0e-etc.240056/",
-    "https://www.sat-universe.com/index.php?threads/wrestling-wwe-tna-aew-impact-wosw-all-brands-all-events-keys-only-plz-no-chat-use-encryption-chat-for-chat.278606/"
+    "https://www.sat-universe.com/index.php?threads/basketball-fta-feeds.298604/",
+    "https://www.sat-universe.com/index.php?threads/greece-football-fta.311066/",
+    "https://www.sat-universe.com/index.php?threads/english-scotish-welsh-irish-football-please-state-if-420-or-422-28-2%C2%B0e-23-5%C2%B0e-10%C2%B0e-7%C2%B0e-100-5%C2%B0e-0-8%C2%B0west.252475/",
+    "https://www.sat-universe.com/index.php?threads/fifa-uefa-international-football-euro-qualifiers-world-cup-qualifiers-friendlies-c-ku-please-state-if-4-2-0-or-4-2-2.276471/"
 ]
 FEEDS_FILE = "feeds.txt"
 PAGES_TO_SCRAPE = 2
