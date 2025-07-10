@@ -12,8 +12,7 @@ D6 75 3C 87 88 A1 B4 DD
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10964
-V
-ertical 14400 | 4:2:2 | 8PSK
+Vertical 14400 | 4:2:2 | 8PSK
 ID:
 THN2 FEED B SAT M
 Event:
@@ -27,8 +26,7 @@ B1 00 77 28 52 57 8E 37
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10964
-V
-ertical 14400 | 4:2:2 | 8PSK
+Vertical 14400 | 4:2:2 | 8PSK
 ID:
 4GNV2 FEED B SAT B
 Event:
