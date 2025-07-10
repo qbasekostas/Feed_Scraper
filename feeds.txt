@@ -39,3 +39,43 @@ Switzerland
 Kick-off 19:00 GMT, 10 July 2025, Stade de Genève, Geneva
 #CW:
 A1 00 77 18 52 57 8E 37
+---FEED-SEPARATOR---
+UEFA Europa League - 1st Qualifying Round (1st Leg)
+Levski Sofia v Hapoel Be'er Sheva
+ST: 18:30
+7°E
+11189
+V
+6900
+DVB-S2-
+4:2:0
+-8PSK
+ID:ATV Broadcast Solutions
+CW:
+20 13 87 BA 47 65 41 ED
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11188
+H
+orizontal 7200 | 4:2:0 | 8PSK
+ID:
+HUN-017/LINE1
+Event:
+UEFA Europa League - 1st Qualifying Round (1st Leg)
+Paks v CFR Cluj
+#CW:
+71 DD DD 2B EE 18 03 09
+---FEED-SEPARATOR---
+UEFA Europa League - 1st Qualifying Round (1st Leg)
+AEK Larnaka v Partizan Belgrade
+ST: 17:30
+7°E
+12643
+H
+9875
+DVB-S2-
+4:2:0
+-8PSK
+ID:UECL MATCH 11 EUROP
+CW:
+E2 71 21 74 B3 BB 9D 0B
