@@ -40,6 +40,13 @@ Kick-off 19:00 GMT, 10 July 2025, Stade de Genève, Geneva
 #CW:
 A1 00 77 18 52 57 8E 37
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12676 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  UEFA EL TNV HCN
+#CW: 12 54 AD 13 CE 34 25 27
+---FEED-SEPARATOR---
 UEFA Europa League - 1st Qualifying Round (1st Leg)
 Levski Sofia v Hapoel Be'er Sheva
 ST: 18:30
