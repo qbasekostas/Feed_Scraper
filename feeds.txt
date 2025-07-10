@@ -40,10 +40,56 @@ Kick-off 19:00 GMT, 10 July 2025, Stade de Genève, Geneva
 #CW:
 A1 00 77 18 52 57 8E 37
 ---FEED-SEPARATOR---
+Akrem said:
+UEFA Europa League - 1st Qualifying Round (1st Leg)
+Legia Warsaw v Aktobe
+ST: 20:00
+7°E
+11672
+V
+9600
+DVB-S2-
+4:2:2
+-8PSK
+ID:  POL-111
+CW:
+10 87 67 FE CA 20 25 0F
+Click to expand...
+11672
+H
+9600
+---FEED-SEPARATOR---
+Albahraniy said:
 Eutelsat 7B/7C @ 7.0E
+FC Spartak Trnava vs BK Häcken
 12676 H 7200
 DVB-S2 - 1080P - 8PSK
-4.2.2
+4.2.0
+ID:  UEFA EL TNV HCN
+#CW: 12 54 AD 13 CE 34 25 27
+Click to expand...
+ID: HUN-021-2
+4:2:0
+---FEED-SEPARATOR---
+UEFA Europa League - 1st Qualifying Round (1st Leg)
+Legia Warsaw v Aktobe
+ST: 20:00
+7°E
+11672
+V
+9600
+DVB-S2-
+4:2:2
+-8PSK
+ID:  POL-111
+CW:
+10 87 67 FE CA 20 25 0F
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+FC Spartak Trnava vs BK Häcken
+12676 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
 ID:  UEFA EL TNV HCN
 #CW: 12 54 AD 13 CE 34 25 27
 ---FEED-SEPARATOR---
