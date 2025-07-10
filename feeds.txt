@@ -11,7 +11,7 @@ CW:
 D6 75 3C 87 88 A1 B4 DD
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
-10964
+10982
 V
 ertical 14400 | 4:2:2 | 8PSK
 ID:
