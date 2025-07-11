@@ -30,11 +30,7 @@ PAGES_TO_SCRAPE = 2
 # --- ΣΥΝΑΡΤΗΣΗ ΓΙΑ ΤΗ ΔΙΟΡΘΩΣΗ ΤΗΣ ΜΟΡΦΟΠΟΙΗΣΗΣ (ΕΝΗΜΕΡΩΜΕΝΗ) ---
 def format_post_text(post_text):
     """
-    Διορθώνει τη μορφοποίηση του κειμένου ενός post.
-    - Ενώνει το 'V' και το 'ertical' που βρίσκονται σε ξεχωριστές γραμμές.
-    - Αντικαθιστά τα 'H' και 'V' με 'Horizontal' και 'Vertical'.
-    - Συνδυάζει τη γραμμή της πόλωσης με την προηγούμενη γραμμή συχνότητας/symbol rate.
-    - Ενώνει τη γραμμή '#CW:' με την επόμενη γραμμή που περιέχει το κλειδί.
+    Διορθώνει και ενοποιεί τη μορφοποίηση του κειμένου ενός post.
     """
     lines = post_text.split('\n')
     processed_lines = []
@@ -44,19 +40,16 @@ def format_post_text(post_text):
 
         # Περίπτωση 1: Διόρθωση του 'V' / 'ertical'
         if line.upper() == 'V' and i + 1 < len(lines) and lines[i+1].strip().lower().startswith('ertical'):
+            rest_of_line = lines[i+1].strip()[len('ertical'):].strip()
             if processed_lines:
-                rest_of_line = lines[i+1].strip()[len('ertical'):].strip()
                 prev_line = processed_lines.pop()
                 processed_lines.append(f"{prev_line} Vertical {rest_of_line}")
-                i += 2
-                continue
             else:
-                rest_of_line = lines[i+1].strip()[len('ertical'):].strip()
                 processed_lines.append(f"Vertical {rest_of_line}")
-                i += 2
-                continue
+            i += 2
+            continue
 
-        # Περίπτωση 2: Αντικατάσταση 'H'/'V'
+        # Περίπτωση 2: Αντικατάσταση 'H'/'V' σε γραμμή πόλωσης
         parts = line.split()
         if processed_lines and len(parts) > 1 and parts[0].upper() in ['H', 'V'] and parts[1].isdigit():
             polarization = "Horizontal" if parts[0].upper() == 'H' else "Vertical"
@@ -65,24 +58,36 @@ def format_post_text(post_text):
             processed_lines.append(f"{prev_line} {polarization} {rest_of_line}")
             i += 1
             continue
-            
-        # --- NEA ΔΙΟΡΘΩΣΗ ΓΙΑ ΤΟ #CW: ---
-        # Αν η γραμμή τελειώνει με #CW: και δεν είναι η τελευταία γραμμή του post
-        if line.upper().endswith('#CW:') and i + 1 < len(lines):
-            next_line = lines[i+1].strip()
-            # Ένας απλός έλεγχος αν η επόμενη γραμμή μοιάζει με κλειδί (π.χ. περιέχει κενά)
-            if ' ' in next_line and len(next_line) > 10:
-                # Ενώνει την τρέχουσα γραμμή (#CW:) με την επόμενη (το κλειδί)
-                combined_line = f"{line} {next_line}"
-                processed_lines.append(combined_line)
-                i += 2 # Προσπερνάμε 2 γραμμές αφού τις ενώσαμε
-                continue # Συνεχίζουμε στην επόμενη επανάληψη
 
-        processed_lines.append(line)
+        # --- ΕΝΙΑΙΑ ΛΟΓΙΚΗ ΓΙΑ ΤΟ CW ---
+        # Ελέγχει για όλες τις παραλλαγές του "CW" (π.χ., "#CW:", "CW :", "CW")
+        temp_line = line.upper().replace("#", "").replace(":", "").strip()
+        if temp_line == 'CW':
+            # Το κλειδί είναι στην επόμενη γραμμή
+            if i + 1 < len(lines):
+                key = lines[i+1].strip()
+                # Έλεγχος αν η επόμενη γραμμή μοιάζει με κλειδί
+                if ' ' in key and len(key) > 10:
+                    processed_lines.append(f"CW: {key}")
+                    i += 2 # Προσπερνάμε 2 γραμμές (τη "CW" και το κλειδί)
+                    continue
+        
+        # Ελέγχει αν το κλειδί είναι στην ίδια γραμμή με το "CW"
+        if line.upper().lstrip().startswith('#CW:') or line.upper().lstrip().startswith('CW:'):
+            key = line.split(':', 1)[1].strip()
+            if key: # Αν υπάρχει κλειδί μετά την άνω και κάτω τελεία
+                processed_lines.append(f"CW: {key}")
+                i += 1
+                continue
+
+        # Αν δεν ταιριάζει κανένας κανόνας, προσθέτει τη γραμμή ως έχει
+        processed_lines.append(lines[i])
         i += 1
 
-    return "\n".join(processed_lines)
+    # Επιστρέφει τις γραμμές, φιλτράροντας τυχόν κενές που δημιουργήθηκαν
+    return "\n".join(filter(str.strip, processed_lines))
 # -----------------------------------------------------------
+
 
 def main():
     print(f"Smart Scraping process started. Will check last {PAGES_TO_SCRAPE} pages for today's posts...")
@@ -152,15 +157,12 @@ def main():
                         if is_today:
                             wrapper = post.find('div', class_='bbWrapper')
                             if wrapper:
-                                # --- ΕΝΣΩΜΑΤΩΣΗ ΤΗΣ ΔΙΟΡΘΩΣΗΣ ---
-                                original_post_text = wrapper.get_text(separator='\n', strip=True)
-                                # Εφαρμόζουμε τη διόρθωση της μορφοποίησης
+                                original_post_text = wrapper.get_text(separator='\n', strip=False) # Get text with newlines
                                 corrected_post_text = format_post_text(original_post_text)
                                 
                                 if corrected_post_text not in todays_posts:
                                     print(f"    + Found a post from '{post_date_str}'")
                                     todays_posts.append(corrected_post_text)
-                                # ---------------------------------
 
             except Exception as e:
                 print(f"!!! Failed during scraping for thread {thread_url}: {e}")
