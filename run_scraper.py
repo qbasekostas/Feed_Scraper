@@ -27,13 +27,14 @@ THREAD_URLS = [
 FEEDS_FILE = "feeds.txt"
 PAGES_TO_SCRAPE = 2
 
-# --- ΝΕΑ ΣΥΝΑΡΤΗΣΗ ΓΙΑ ΤΗ ΔΙΟΡΘΩΣΗ ΤΗΣ ΜΟΡΦΟΠΟΙΗΣΗΣ ---
+# --- ΣΥΝΑΡΤΗΣΗ ΓΙΑ ΤΗ ΔΙΟΡΘΩΣΗ ΤΗΣ ΜΟΡΦΟΠΟΙΗΣΗΣ (ΕΝΗΜΕΡΩΜΕΝΗ) ---
 def format_post_text(post_text):
     """
     Διορθώνει τη μορφοποίηση του κειμένου ενός post.
     - Ενώνει το 'V' και το 'ertical' που βρίσκονται σε ξεχωριστές γραμμές.
     - Αντικαθιστά τα 'H' και 'V' με 'Horizontal' και 'Vertical'.
     - Συνδυάζει τη γραμμή της πόλωσης με την προηγούμενη γραμμή συχνότητας/symbol rate.
+    - Ενώνει τη γραμμή '#CW:' με την επόμενη γραμμή που περιέχει το κλειδί.
     """
     lines = post_text.split('\n')
     processed_lines = []
@@ -64,8 +65,20 @@ def format_post_text(post_text):
             processed_lines.append(f"{prev_line} {polarization} {rest_of_line}")
             i += 1
             continue
+            
+        # --- NEA ΔΙΟΡΘΩΣΗ ΓΙΑ ΤΟ #CW: ---
+        # Αν η γραμμή τελειώνει με #CW: και δεν είναι η τελευταία γραμμή του post
+        if line.upper().endswith('#CW:') and i + 1 < len(lines):
+            next_line = lines[i+1].strip()
+            # Ένας απλός έλεγχος αν η επόμενη γραμμή μοιάζει με κλειδί (π.χ. περιέχει κενά)
+            if ' ' in next_line and len(next_line) > 10:
+                # Ενώνει την τρέχουσα γραμμή (#CW:) με την επόμενη (το κλειδί)
+                combined_line = f"{line} {next_line}"
+                processed_lines.append(combined_line)
+                i += 2 # Προσπερνάμε 2 γραμμές αφού τις ενώσαμε
+                continue # Συνεχίζουμε στην επόμενη επανάληψη
 
-        processed_lines.append(lines[i])
+        processed_lines.append(line)
         i += 1
 
     return "\n".join(processed_lines)
