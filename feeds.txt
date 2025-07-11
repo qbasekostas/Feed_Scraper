@@ -1,7 +1,5 @@
 Eutelsat 7B-7C @ 07.0E
-12686
-V
-ertical 7120 | 4:2:0 | 8PSK
+12686 Vertical 7120 | 4:2:0 | 8PSK
 ID:
 Pitch Wrexham v Melborne
 Event:
@@ -11,8 +9,7 @@ Kick-off 09:30 GMT, 11 July 2025, Marvel Stadium, Melbourne
 23 21 CC 10 DD 24 22 23
 ---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
-3905
-H 7119
+3905 Horizontal 7119
 DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_24_SDI (SES)
