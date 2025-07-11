@@ -1,0 +1,11 @@
+Eutelsat 7B-7C @ 07.0E
+12686
+V
+ertical 7120 | 4:2:0 | 8PSK
+ID:
+Pitch Wrexham v Melborne
+Event:
+Club Friendly — Melbourne Victory vs Wrexham AFC
+Kick-off 09:30 GMT, 11 July 2025, Marvel Stadium, Melbourne
+#CW:
+23 21 CC 10 DD 24 22 23
