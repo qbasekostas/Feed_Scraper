@@ -27,6 +27,50 @@ THREAD_URLS = [
 FEEDS_FILE = "feeds.txt"
 PAGES_TO_SCRAPE = 2
 
+# --- ΝΕΑ ΣΥΝΑΡΤΗΣΗ ΓΙΑ ΤΗ ΔΙΟΡΘΩΣΗ ΤΗΣ ΜΟΡΦΟΠΟΙΗΣΗΣ ---
+def format_post_text(post_text):
+    """
+    Διορθώνει τη μορφοποίηση του κειμένου ενός post.
+    - Ενώνει το 'V' και το 'ertical' που βρίσκονται σε ξεχωριστές γραμμές.
+    - Αντικαθιστά τα 'H' και 'V' με 'Horizontal' και 'Vertical'.
+    - Συνδυάζει τη γραμμή της πόλωσης με την προηγούμενη γραμμή συχνότητας/symbol rate.
+    """
+    lines = post_text.split('\n')
+    processed_lines = []
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+
+        # Περίπτωση 1: Διόρθωση του 'V' / 'ertical'
+        if line.upper() == 'V' and i + 1 < len(lines) and lines[i+1].strip().lower().startswith('ertical'):
+            if processed_lines:
+                rest_of_line = lines[i+1].strip()[len('ertical'):].strip()
+                prev_line = processed_lines.pop()
+                processed_lines.append(f"{prev_line} Vertical {rest_of_line}")
+                i += 2
+                continue
+            else:
+                rest_of_line = lines[i+1].strip()[len('ertical'):].strip()
+                processed_lines.append(f"Vertical {rest_of_line}")
+                i += 2
+                continue
+
+        # Περίπτωση 2: Αντικατάσταση 'H'/'V'
+        parts = line.split()
+        if processed_lines and len(parts) > 1 and parts[0].upper() in ['H', 'V'] and parts[1].isdigit():
+            polarization = "Horizontal" if parts[0].upper() == 'H' else "Vertical"
+            rest_of_line = " ".join(parts[1:])
+            prev_line = processed_lines.pop()
+            processed_lines.append(f"{prev_line} {polarization} {rest_of_line}")
+            i += 1
+            continue
+
+        processed_lines.append(lines[i])
+        i += 1
+
+    return "\n".join(processed_lines)
+# -----------------------------------------------------------
+
 def main():
     print(f"Smart Scraping process started. Will check last {PAGES_TO_SCRAPE} pages for today's posts...")
     
@@ -40,7 +84,6 @@ def main():
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36'
         })
         
-        # LOGIN
         try:
             print("Attempting to login...")
             login_page = session.get(LOGIN_URL)
@@ -58,11 +101,10 @@ def main():
             print(f"Login process failed: {e}")
             exit(1)
 
-        # ΕΠΕΞΕΡΓΑΣΙΑ ΚΑΘΕ THREAD
         for thread_url in THREAD_URLS:
             try:
                 print("\n" + "="*50)
-                print(f"Processing thread: {thread_url.split('/')[-2][:50]}...") # Συντομευμένο όνομα
+                print(f"Processing thread: {thread_url.split('/')[-2][:50]}...")
                 main_thread_page = session.get(thread_url)
                 soup = BeautifulSoup(main_thread_page.text, 'html.parser')
                 
@@ -90,8 +132,6 @@ def main():
                         
                         post_date_str = date_element.get_text(strip=True)
                         
-                        # --- Η ΔΙΟΡΘΩΣΗ ΕΙΝΑΙ ΕΔΩ ---
-                        # Ελέγχουμε αν η ημερομηνία είναι "Today", "minutes ago", "hour ago" ή ταιριάζει με τη σημερινή
                         is_today = False
                         if "Today" in post_date_str or "minutes ago" in post_date_str or "hour ago" in post_date_str or "Just now" in post_date_str or today_str in post_date_str:
                              is_today = True
@@ -99,11 +139,15 @@ def main():
                         if is_today:
                             wrapper = post.find('div', class_='bbWrapper')
                             if wrapper:
-                                post_text = wrapper.get_text(separator='\n', strip=True)
-                                if post_text not in todays_posts:
+                                # --- ΕΝΣΩΜΑΤΩΣΗ ΤΗΣ ΔΙΟΡΘΩΣΗΣ ---
+                                original_post_text = wrapper.get_text(separator='\n', strip=True)
+                                # Εφαρμόζουμε τη διόρθωση της μορφοποίησης
+                                corrected_post_text = format_post_text(original_post_text)
+                                
+                                if corrected_post_text not in todays_posts:
                                     print(f"    + Found a post from '{post_date_str}'")
-                                    todays_posts.append(post_text)
-                        # ---------------------------
+                                    todays_posts.append(corrected_post_text)
+                                # ---------------------------------
 
             except Exception as e:
                 print(f"!!! Failed during scraping for thread {thread_url}: {e}")
@@ -111,7 +155,6 @@ def main():
         
         print("="*50)
 
-    # Αντικαθιστούμε το αρχείο ΜΟΝΟ με τα σημερινά posts
     if todays_posts:
         todays_posts.reverse()
         with open(FEEDS_FILE, 'w', encoding='utf-8') as f:
