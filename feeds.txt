@@ -23,6 +23,46 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 23 21 CC 10 DD 24 22 23
 ---FEED-SEPARATOR---
+Albahraniy said:
+UEFA Women’s Euro 2025
+Eutelsat 7B/7C @ 7.0E
+10982 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: WF2 FEED B SAT M
+CW: B1 10 77 38 52 57 8E 37
+Click to expand...
+ID: SIO2 FEED B SAT M 
+Portugal W - Belgium W
+---FEED-SEPARATOR---
+Albahraniy said:
+UEFA Women’s Euro 2025
+Eutelsat 7B/7C @ 7.0E
+10964 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: 4BRN2 FEED B SAT M
+CW: A1 10 77 28 52 57 8E 37
+Click to expand...
+Italy W - Spain W
+---FEED-SEPARATOR---
+Event : EuropeEuro Women - Round 3
+Teams : Portugal W 
+ Belgium W
+Eutelsat 10E
+ C BAND
+3893 V/H 7500
+ID: FIFA CWC 2
+CW: F5 DA D0 9F 41 8E 86 55
+---FEED-SEPARATOR---
+UEFA Women’s European Championships
+Italy W vs. Spain W
+10°E C-BAND
+TP: 3902 R/V 7500
+DVB-S2. 4:2:0 8PSK
+ID: MD3
+CW: F5 DA D0 9F 41 8E 86 55
+---FEED-SEPARATOR---
 UEFA Women’s Euro 2025
 Eutelsat 7B/7C @ 7.0E
 10982 V 14400
