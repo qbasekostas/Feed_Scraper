@@ -1,3 +1,10 @@
+Club Friendly | Ajax (Ned) - Aarhus (Den)
+Thor 5/6/7 & Intelsat 10-02 @ 0.8W
+11508 V 7201
+ID:NLEMG HOL317-1 (EMG Connectivity)
+1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
+CW: 50 F1 70 B1 12 20 25 57
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12564 H 10000 | 4:2:0 | 8PSK
 ID: 
