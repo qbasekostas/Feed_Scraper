@@ -62,6 +62,22 @@ UEFA
 Women's EURO 2025 - "Unknown Teams" 
 CW: B1 20 77 48 52 57 8E 37
 ---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+10983 V 14400
+ LCE2 FEED B SAT M (Medialink)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+32.091
+ Mbit/Sec|8PSK DVB-S2 HD
+UEFA 
+Women's EURO 2025 - "Unknown Teams" 
+CW: B1 20 77 48 52 57 8E 37
+Click to expand...
+Poland W - Denmark W
+---FEED-SEPARATOR---
 FIBA Women's Asia Cup 2025 - China vs Indonesia (tomorrow)
 100.5°E
 3916 H 7200
