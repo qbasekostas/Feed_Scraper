@@ -27,64 +27,73 @@ THREAD_URLS = [
 FEEDS_FILE = "feeds.txt"
 PAGES_TO_SCRAPE = 2
 
-# --- ΣΥΝΑΡΤΗΣΗ ΓΙΑ ΤΗ ΔΙΟΡΘΩΣΗ ΤΗΣ ΜΟΡΦΟΠΟΙΗΣΗΣ (ΕΝΗΜΕΡΩΜΕΝΗ) ---
+
+# --- ΣΥΝΑΡΤΗΣΗ ΓΙΑ ΤΗ ΔΙΟΡΘΩΣΗ (ΕΝΗΜΕΡΩΜΕΝΗ ΛΟΓΙΚΗ) ---
 def format_post_text(post_text):
     """
     Διορθώνει και ενοποιεί τη μορφοποίηση του κειμένου ενός post.
+    Ειδικα, διορθώνει τις λανθασμενα "σπασμενες" γραμμες πολωσης.
     """
-    lines = post_text.split('\n')
+    lines = post_text.splitlines()
     processed_lines = []
     i = 0
     while i < len(lines):
-        line = lines[i].strip()
+        # Τρίβουμε τα κενά από την αρχή και το τέλος για ασφαλείς ελέγχους
+        current_line = lines[i].strip()
 
-        # Περίπτωση 1: Διόρθωση του 'V' / 'ertical'
-        if line.upper() == 'V' and i + 1 < len(lines) and lines[i+1].strip().lower().startswith('ertical'):
-            rest_of_line = lines[i+1].strip()[len('ertical'):].strip()
-            if processed_lines:
-                prev_line = processed_lines.pop()
-                processed_lines.append(f"{prev_line} Vertical {rest_of_line}")
-            else:
-                processed_lines.append(f"Vertical {rest_of_line}")
-            i += 2
-            continue
+        # --- ΝΕΑ ΛΟΓΙΚΗ: Ελεγχος για τη "σπασμένη" γραμμή πόλωσης ---
+        # Ελέγχουμε αν έχουμε μπροστά μας τουλάχιστον 3 γραμμές
+        if i + 2 < len(lines):
+            # Παίρνουμε τις τρεις υποψήφιες γραμμές
+            freq_line = current_line
+            pol_char_line = lines[i+1].strip()
+            rest_of_params_line = lines[i+2].strip()
 
-        # Περίπτωση 2: Αντικατάσταση 'H'/'V' σε γραμμή πόλωσης
-        parts = line.split()
-        if processed_lines and len(parts) > 1 and parts[0].upper() in ['H', 'V'] and parts[1].isdigit():
-            polarization = "Horizontal" if parts[0].upper() == 'H' else "Vertical"
-            rest_of_line = " ".join(parts[1:])
-            prev_line = processed_lines.pop()
-            processed_lines.append(f"{prev_line} {polarization} {rest_of_line}")
-            i += 1
-            continue
+            # ΠΕΡΙΠΤΩΣΗ 1: HORIZONTAL
+            # Ελέγχουμε αν το μοτίβο είναι: Αριθμός -> "H" -> "orizontal ..."
+            if freq_line.isdigit() and pol_char_line.upper() == 'H' and rest_of_params_line.lower().startswith('orizontal'):
+                # Παίρνουμε το υπόλοιπο της τρίτης γραμμής, αφαιρώντας το λανθασμένο "orizontal"
+                params = rest_of_params_line[len('orizontal'):].strip()
+                # Συνθέτουμε τη νέα, διορθωμένη γραμμή
+                new_line = f"{freq_line} H {params}"
+                processed_lines.append(new_line)
+                # Αυξάνουμε τον δείκτη κατά 3 για να προσπεράσουμε τις 3 γραμμές που επεξεργαστήκαμε
+                i += 3
+                continue
 
-        # --- ΕΝΙΑΙΑ ΛΟΓΙΚΗ ΓΙΑ ΤΟ CW ---
-        # Ελέγχει για όλες τις παραλλαγές του "CW" (π.χ., "#CW:", "CW :", "CW")
-        temp_line = line.upper().replace("#", "").replace(":", "").strip()
+            # ΠΕΡΙΠΤΩΣΗ 2: VERTICAL
+            # Ελέγχουμε αν το μοτίβο είναι: Αριθμός -> "V" -> "ertical ..."
+            if freq_line.isdigit() and pol_char_line.upper() == 'V' and rest_of_params_line.lower().startswith('ertical'):
+                params = rest_of_params_line[len('ertical'):].strip()
+                new_line = f"{freq_line} V {params}"
+                processed_lines.append(new_line)
+                i += 3
+                continue
+        
+        # --- ΥΠΑΡΧΟΥΣΑ ΛΟΓΙΚΗ ΓΙΑ ΤΟ CW (παραμένει ως έχει) ---
+        # Αν δεν βρέθηκε το παραπάνω μοτίβο, συνεχίζουμε με τους υπόλοιπους ελέγχους
+        temp_line = current_line.upper().replace("#", "").replace(":", "").strip()
         if temp_line == 'CW':
-            # Το κλειδί είναι στην επόμενη γραμμή
             if i + 1 < len(lines):
                 key = lines[i+1].strip()
-                # Έλεγχος αν η επόμενη γραμμή μοιάζει με κλειδί
                 if ' ' in key and len(key) > 10:
                     processed_lines.append(f"CW: {key}")
-                    i += 2 # Προσπερνάμε 2 γραμμές (τη "CW" και το κλειδί)
+                    i += 2
                     continue
         
-        # Ελέγχει αν το κλειδί είναι στην ίδια γραμμή με το "CW"
-        if line.upper().lstrip().startswith('#CW:') or line.upper().lstrip().startswith('CW:'):
-            key = line.split(':', 1)[1].strip()
-            if key: # Αν υπάρχει κλειδί μετά την άνω και κάτω τελεία
-                processed_lines.append(f"CW: {key}")
+        if current_line.upper().lstrip().startswith('#CW:') or current_line.upper().lstrip().startswith('CW:'):
+            key_part = current_line.split(':', 1)
+            if len(key_part) > 1 and key_part[1].strip():
+                processed_lines.append(f"CW: {key_part[1].strip()}")
                 i += 1
                 continue
 
-        # Αν δεν ταιριάζει κανένας κανόνας, προσθέτει τη γραμμή ως έχει
+        # Αν δεν ταιριάζει κανένας ειδικός κανόνας, προσθέτει την τρέχουσα γραμμή ως έχει
+        # (Χρησιμοποιούμε την αρχική γραμμή από τη λίστα για να διατηρηθούν τυχόν αρχικά κενά αν χρειάζεται)
         processed_lines.append(lines[i])
         i += 1
 
-    # Επιστρέφει τις γραμμές, φιλτράροντας τυχόν κενές που δημιουργήθηκαν
+    # Ενώνουμε τις γραμμές, φιλτράροντας τυχόν εντελώς κενές γραμμές
     return "\n".join(filter(str.strip, processed_lines))
 # -----------------------------------------------------------
 
@@ -129,9 +138,11 @@ def main():
                 last_page_num = 1
                 page_nav = soup.find('ul', class_='pageNav-main')
                 if page_nav:
-                    last_page_link = page_nav.find_all('li')[-1].a
-                    if last_page_link and last_page_link.text.isdigit():
-                        last_page_num = int(last_page_link.text)
+                    last_page_links = page_nav.find_all('li')
+                    if last_page_links:
+                        last_page_text = last_page_links[-1].get_text(strip=True)
+                        if last_page_text.isdigit():
+                            last_page_num = int(last_page_text)
                 print(f"Thread has {last_page_num} pages.")
 
                 start_page = max(1, last_page_num - PAGES_TO_SCRAPE + 1)
@@ -157,10 +168,10 @@ def main():
                         if is_today:
                             wrapper = post.find('div', class_='bbWrapper')
                             if wrapper:
-                                original_post_text = wrapper.get_text(separator='\n', strip=False) # Get text with newlines
+                                original_post_text = wrapper.get_text(separator='\n', strip=False)
                                 corrected_post_text = format_post_text(original_post_text)
                                 
-                                if corrected_post_text not in todays_posts:
+                                if corrected_post_text and corrected_post_text not in todays_posts:
                                     print(f"    + Found a post from '{post_date_str}'")
                                     todays_posts.append(corrected_post_text)
 
