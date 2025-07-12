@@ -1,7 +1,5 @@
 Eutelsat 7B-7C @ 07.0E
-12564 
-H
-orizontal 10000 | 4:2:0 | 8PSK
+12564 H 10000 | 4:2:0 | 8PSK
 ID: 
 PAN-NOR
 Event: 
