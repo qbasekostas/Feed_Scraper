@@ -12,7 +12,7 @@ Teams : Sweden W
  Germany W
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
-10965 Vertical 14400
+10965 V 14400
  4ZRH2 FEED B SAT M (Media Link)
 MPEG4-
 4:2:2
