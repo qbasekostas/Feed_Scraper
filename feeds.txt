@@ -1,3 +1,28 @@
+Eutelsat 7B-7C @ 07.0E
+12564 
+H
+orizontal 10000 | 4:2:0 | 8PSK
+ID: 
+PAN-NOR
+Event: 
+Club Friendly — Panathinaikos vs Sporting Braga
+Kick-off 13:00 GMT, 12 July 2025, Kaiserwinkl Arena, Schwaz, Austria
+CW: AA 11 21 DC BC CA 16 9C
+---FEED-SEPARATOR---
+Event : EuropeEuro Women - Round 3
+Teams : Sweden W 
+ Germany W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10965 Vertical 14400
+ 4ZRH2 FEED B SAT M (Media Link)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: A1 20 77 38 52 57 8E 37
+---FEED-SEPARATOR---
 FIBA Women's Asia Cup 2025 - China vs Indonesia (tomorrow)
 100.5°E
 3916 H 7200
