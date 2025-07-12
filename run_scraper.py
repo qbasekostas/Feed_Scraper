@@ -32,37 +32,28 @@ PAGES_TO_SCRAPE = 2
 def format_post_text(post_text):
     """
     Διορθώνει και ενοποιεί τη μορφοποίηση του κειμένου ενός post.
-    Ειδικα, διορθώνει τις λανθασμενα "σπασμενες" γραμμες πολωσης.
+    1. Διορθώνει τις "σπασμένες" γραμμές πόλωσης.
+    2. Τυποποιεί τις λέξεις 'HORIZONTAL'/'VERTICAL' στα γράμματα 'H'/'V'.
     """
     lines = post_text.splitlines()
     processed_lines = []
     i = 0
     while i < len(lines):
-        # Τρίβουμε τα κενά από την αρχή και το τέλος για ασφαλείς ελέγχους
         current_line = lines[i].strip()
 
-        # --- ΝΕΑ ΛΟΓΙΚΗ: Ελεγχος για τη "σπασμένη" γραμμή πόλωσης ---
-        # Ελέγχουμε αν έχουμε μπροστά μας τουλάχιστον 3 γραμμές
+        # --- ΚΑΝΟΝΑΣ 1: Ένωση "σπασμένων" γραμμών ---
         if i + 2 < len(lines):
-            # Παίρνουμε τις τρεις υποψήφιες γραμμές
             freq_line = current_line
             pol_char_line = lines[i+1].strip()
             rest_of_params_line = lines[i+2].strip()
 
-            # ΠΕΡΙΠΤΩΣΗ 1: HORIZONTAL
-            # Ελέγχουμε αν το μοτίβο είναι: Αριθμός -> "H" -> "orizontal ..."
             if freq_line.isdigit() and pol_char_line.upper() == 'H' and rest_of_params_line.lower().startswith('orizontal'):
-                # Παίρνουμε το υπόλοιπο της τρίτης γραμμής, αφαιρώντας το λανθασμένο "orizontal"
                 params = rest_of_params_line[len('orizontal'):].strip()
-                # Συνθέτουμε τη νέα, διορθωμένη γραμμή
                 new_line = f"{freq_line} H {params}"
                 processed_lines.append(new_line)
-                # Αυξάνουμε τον δείκτη κατά 3 για να προσπεράσουμε τις 3 γραμμές που επεξεργαστήκαμε
                 i += 3
                 continue
 
-            # ΠΕΡΙΠΤΩΣΗ 2: VERTICAL
-            # Ελέγχουμε αν το μοτίβο είναι: Αριθμός -> "V" -> "ertical ..."
             if freq_line.isdigit() and pol_char_line.upper() == 'V' and rest_of_params_line.lower().startswith('ertical'):
                 params = rest_of_params_line[len('ertical'):].strip()
                 new_line = f"{freq_line} V {params}"
@@ -70,8 +61,22 @@ def format_post_text(post_text):
                 i += 3
                 continue
         
-        # --- ΥΠΑΡΧΟΥΣΑ ΛΟΓΙΚΗ ΓΙΑ ΤΟ CW (παραμένει ως έχει) ---
-        # Αν δεν βρέθηκε το παραπάνω μοτίβο, συνεχίζουμε με τους υπόλοιπους ελέγχους
+        # --- ΝΕΟΣ ΚΑΝΟΝΑΣ 2: Τυποποίηση λέξεων (π.χ. 'VERTICAL' -> 'V') ---
+        parts = current_line.split()
+        # Ελέγχουμε αν η γραμμή έχει τη μορφή: Αριθμός Λέξη Αριθμός... (π.χ. 10965 VERTICAL 14400)
+        if len(parts) >= 3 and parts[0].isdigit() and parts[1].isalpha() and parts[2].isdigit():
+            if parts[1].upper() == 'VERTICAL':
+                parts[1] = 'V'
+                processed_lines.append(" ".join(parts))
+                i += 1
+                continue
+            elif parts[1].upper() == 'HORIZONTAL':
+                parts[1] = 'H'
+                processed_lines.append(" ".join(parts))
+                i += 1
+                continue
+
+        # --- ΚΑΝΟΝΑΣ 3: Επεξεργασία CW ---
         temp_line = current_line.upper().replace("#", "").replace(":", "").strip()
         if temp_line == 'CW':
             if i + 1 < len(lines):
@@ -88,12 +93,10 @@ def format_post_text(post_text):
                 i += 1
                 continue
 
-        # Αν δεν ταιριάζει κανένας ειδικός κανόνας, προσθέτει την τρέχουσα γραμμή ως έχει
-        # (Χρησιμοποιούμε την αρχική γραμμή από τη λίστα για να διατηρηθούν τυχόν αρχικά κενά αν χρειάζεται)
+        # Αν δεν ταιριάζει κανένας κανόνας, προσθέτει την τρέχουσα γραμμή ως έχει
         processed_lines.append(lines[i])
         i += 1
 
-    # Ενώνουμε τις γραμμές, φιλτράροντας τυχόν εντελώς κενές γραμμές
     return "\n".join(filter(str.strip, processed_lines))
 # -----------------------------------------------------------
 
