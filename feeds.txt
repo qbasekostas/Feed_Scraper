@@ -1,3 +1,27 @@
+Eutelsat 7B-7C @ 07.0E
+10982 V 14400 | 4:2:2 | 8PSK
+ID: 
+4SGL2 FEED B SAT M
+Event: 
+UEFA Women’s Euro 2025 — Group Stage
+England
+ vs 
+Wales
+Kick-off 19:00 GMT, 13 July 2025, Stadion St. Gallen, St. Gallen
+CW: B1 30 77 58 52 57 8E 37
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10964 V 14400 | 4:2:2 | 8PSK
+ID: 
+4BSL2 FEED B SAT M
+Event: 
+UEFA Women’s Euro 2025 — Group Stage
+Netherlands
+ vs 
+France
+Kick-off 19:00 GMT, 13 July 2025, St. Jakob‑Park, Basel
+CW: A1 30 77 48 52 57 8E 37
+---FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10973 V 9600
 ID: POL-098_MAIN
