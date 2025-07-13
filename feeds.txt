@@ -1,3 +1,18 @@
+orangebirds said:
+Event : Club Friendly Match - Preston North End vs Liverpool
+100.5°E
+3926 H 7500 and 3985 V 7500
+ID : ENC 21
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+Click to expand...
+28.2 EAST
+12581 V 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: 
+itv sport - Preston vs Liverpool 
+CW: A9 24 B2 7F BC 1C BA 92
+---FEED-SEPARATOR---
 Event : Club Friendly Match - Preston North End vs Liverpool
 100.5°E
 3926 H 7500 and 3985 V 7500
