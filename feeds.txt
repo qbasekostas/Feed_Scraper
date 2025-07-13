@@ -1,3 +1,10 @@
+55W INTELSAT 34 C 
+4150V7200 
+ID: FIFA CWC 2025 
+DVB-S2 4.2.0 1080I 
+PSG VS CHELSEA
+CW: FE 45 90 D3 81 99 3C 56
+---FEED-SEPARATOR---
 orangebirds said:
 Event : Club Friendly Match - Preston North End vs Liverpool
 100.5°E
