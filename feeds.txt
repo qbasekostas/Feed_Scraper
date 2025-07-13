@@ -1,3 +1,25 @@
+FaDeL® said:
+			Eutelsat 10A @ 10.0E C-Band
+Fréq: 3895- L - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID FIFA CWC
+FIFA Club World Cup
+Fluminense vs Chelsea
+CW: F5 DA D0 9F 41 8E 86 55
+Click to expand...
+Chelsea vs. PSG
+now
+---FEED-SEPARATOR---
+FIFA Club World Cup - Play Offs - Semi-finals
+Chelsea vs. PSG
+03°E C-BAND
+TP: 3818 R/V 7199
+DVB-S2. 
+4:2:0
+ 8PSK
+LK UHD ENC 2
+CW: 13 07 81 9B 0F 7F DB 69
+---FEED-SEPARATOR---
 55W INTELSAT 34 C 
 4150V7200 
 ID: FIFA CWC 2025 
