@@ -1,3 +1,13 @@
+Eutelsat 16A  16° E
+10973 V 9600
+ID: POL-098_MAIN
+Event: 
+Basketball 3x3: 3x3 City Tour - Bielsko-Biala 2025
+4.2.0- DVB-S2 - 8PSK
+CW: 20 25 C0 05 7A 03 EA 67
+Thanks 
+@xachik
+---FEED-SEPARATOR---
 FIBA Women's Asia Cup 2025 
 it's Japan vs Lebanon
 and
