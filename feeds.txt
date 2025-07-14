@@ -1,6 +1,0 @@
-AsiaSat 5 - 100.5 E - CBand
-TP : 3915  H 7200
-ID: CHN-SZ
-DVB S2 - 8PSK - 1080p - H.264 - 4:2:0
-CW : 29 21 49 93 1A AA CD 91
-FIBA Women's Asia Cup 2025
