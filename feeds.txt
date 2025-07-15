@@ -1,3 +1,11 @@
+Club Friendly Match - Sydney FC vs Wrexham AFC
+100.5°E
+3925 H 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 21 43 CC 30 AA 23 23 F0
+---FEED-SEPARATOR---
 FIBA Women's Asia Cup 2025
 Indonesia vs New Zealand
 Japan vs Australia
