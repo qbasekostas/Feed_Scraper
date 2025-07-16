@@ -1,3 +1,29 @@
+Scottish League Cup - Round 2
+Kilmarnock v Livingston
+ ST: 19:45
+7°E
+11170 
+H
+ 7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:GCUK Enc 5
+CW: CA 34 BB B9 83 BB 18 56
+---FEED-SEPARATOR---
+Friendly Club Match
+Sporting Lisbon v Celtic
+ ST: 19:30
+10°E
+11303 
+V
+ 7200
+DVB-S2-
+4:2:0
+- PSK
+ID: Main
+CW: DB 20 25 20 16 07 DB F8
+---FEED-SEPARATOR---
 Friendly Club Match
 Panathinaikos v Westerlo
  ST: 19:00
