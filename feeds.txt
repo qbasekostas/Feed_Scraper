@@ -6,3 +6,15 @@ Event:
 UEFA Womens Euro 2025 - Quarter Final
     Sweden v England
 CW: A1 70 77 88 52 57 8E 37
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11144 H 7200 | 4:2:0 | 8PSK
+ID: 
+GC Encoder 10 (GlobeCast UK)
+Event: 
+UEFA Europa League 2025–26 — First Qualifying Round (Second Leg)
+FC Aktobe
+ vs 
+Legia Warsaw
+Kick‑off 16:00 GMT, Aktobe
+CW: 20 25 31 76 05 FE EC EF
