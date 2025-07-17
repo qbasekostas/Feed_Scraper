@@ -1,0 +1,8 @@
+Eutelsat 7B-7C @ 07.0E
+10964 V 14400 | 4:2:2 | 8PSK
+ID: 
+ZRH2 FEED B SAT M
+Event: 
+UEFA Womens Euro 2025 - Quarter Final
+    Sweden v England
+CW: A1 70 77 88 52 57 8E 37
