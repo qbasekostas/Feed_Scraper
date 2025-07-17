@@ -40,6 +40,15 @@ Legia Warsaw
 Kick‑off 16:00 GMT, Aktobe
 CW: 20 25 31 76 05 FE EC EF
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10996 V 7200 | 4:2:0 | 8PSK
+ID:
+ YSM 019 01
+Event: 
+UEFA Europa League - 1st Qualifying Round (2nd Leg) 
+    Partizan Belgrade v AEK Larnaka
+CW: 12 34 AB F1 CD 56 78 9B
+---FEED-SEPARATOR---
 Moroccan Basketball League Playoffs - Semifinal
 AS Salé vs IR Tanger
 21.6E
