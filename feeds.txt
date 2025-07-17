@@ -1,4 +1,13 @@
 Eutelsat 7B-7C @ 07.0E
+11460 V 7200 | 4:2:0 | 8PSK
+ID:
+ E-289
+Event: 
+Friendly Club Match
+    Fenerbahçe v Portimonense
+CW: 17 07 20 3E 25 AB CD 9D
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 10964 V 14400 | 4:2:2 | 8PSK
 ID: 
 ZRH2 FEED B SAT M
