@@ -7,6 +7,19 @@ UEFA Womens Euro 2025 - Quarter Final
     Sweden v England
 CW: A1 70 77 88 52 57 8E 37
 ---FEED-SEPARATOR---
+UEFA Europa League - 1st Qualifying Round (2nd Leg) [0-0]
+CFR Cluj v Paks
+ ST: 18:30
+1°W
+12540 
+V 
+6660
+DVB-S2-
+4:2:0
+-8PSK
+ID:B 191 DGI
+CW: 17 07 20 3E 25 AB CD 9D
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11144 H 7200 | 4:2:0 | 8PSK
 ID: 
