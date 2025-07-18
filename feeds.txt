@@ -1,3 +1,16 @@
+Eutelsat 7B-7C @ 07.0E
+10964 V 14400 |
+4:2:2
+ | 8PSK
+ID: 
+BRN2 FEED B SAT M
+Event: 
+UEFA Womens Euro 2025 - Quarter Final
+Spain W
+Switzerland W
+22 A8 97 65 A7 01 7B FB  #CW: 
+A1 80 77 98 52 57 8E 37
+---FEED-SEPARATOR---
 FIBA Women's Asia Cup 2025
 7th Place - Indonesia vs Lebanon
 Quarterfinal - Japan vs New Zealand
