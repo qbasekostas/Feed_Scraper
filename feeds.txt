@@ -1,3 +1,11 @@
+16E
+11097 H 7200
+ID: LASK - Hajduk (MTI)
+4:2:0
+Club Friendly - 
+LASK (Aut) vs Hajduk Split (Cro)
+CW: 18 19 DA 0B DD 8C CE 37
+---FEED-SEPARATOR---
 7E
 12676 V 7200
 4.2.0
