@@ -1,3 +1,11 @@
+7E
+12676 V 7200
+4.2.0
+ID: ENC 22
+Club Friendly
+Como (Ita) - Lille (Fra)
+CW: BA C2 34 B0 DA CE E1 89
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10964 V 14400 |
 4:2:2
