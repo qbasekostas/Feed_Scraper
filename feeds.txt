@@ -1,5 +1,13 @@
 Club Friendly
 Blackburn Rovers vs Everton
+7e
+11181 V 7200
+DVB-S2 4:2:0 8PSK
+ID:  IKOMG (IKOMG)
+FTA
+---FEED-SEPARATOR---
+Club Friendly
+Blackburn Rovers vs Everton
 13E
 12437 H 27500
 DVB-S2 4:2:0 8PSK
@@ -49,6 +57,19 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID: ENC 4 HOL-162 (multi-link.tv)
 1920x1080 |21.780Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
+---FEED-SEPARATOR---
+sattechtips said:
+			16E
+11097 H 7200
+ID: LASK - Hajduk (MTI)
+4:2:0
+Club Friendly -
+LASK (Aut) vs Hajduk Split (Cro)
+CW: 18 19 DA 0B DD 8C CE 37
+Click to expand...
+Today
+Club Friendly -
+LASK (Aut) vs Union Berlin (Ger)
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11522 V 7200 | 4:2:0 | 8PSK
