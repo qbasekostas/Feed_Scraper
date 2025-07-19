@@ -1,3 +1,11 @@
+Eutelsat 7B-7C @ 07.0E
+12685 V 7120 | 4:2:0 | 8PSK
+ID: Pitch Preseason Wrexham V Wellington
+Event:
+orangebirds said:
+CW: 13 14 CC F3 AA 23 42 0F
+Click to expand...
+---FEED-SEPARATOR---
 Club Friendly Match - Wellington Phoenix vs Wrexham AFC
 100.5°E
 3933 H 7120
