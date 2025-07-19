@@ -31,6 +31,39 @@ CW: 4C 2A 83 F9 5B 79 B9 8D
 Scottish League Cup 
 Stirling Albion v Hearts
 ---FEED-SEPARATOR---
+Friendly Club Match
+Westerlo v Samsunspor
+ ST: 18:00
+7°E
+11683 
+H  
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:Westerlo vs Samsunspor
+---FEED-SEPARATOR---
+28.2E
+12691 V 10000 
+4:2:0
+DVB-S2 - 8PSK
+ID E 268 Via 1
+Friendly Club Match
+Peralada (Esp)
+ vs 
+Espanyol (Esp)
+---FEED-SEPARATOR---
+Friendly Match 
+SD Tarazona vs SD Huesca
+7°E
+11523 
+V 
+ 7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:Unname
+---FEED-SEPARATOR---
 28.2E
 12703 V 7200 
 4:2:0
