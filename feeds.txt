@@ -22,6 +22,14 @@ ID:Man United v Leeds United (IKOMG)
 1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10726 H 7200
+DVB-S2 8PSK FEC 3/4
+HD (1920*1080) 4:2:0 FTA
+ID: 
+Westerlo vs Samsunspor
+Reading v Tottenham Hotspur (Friendly)
+---FEED-SEPARATOR---
 7e
 11692 H 7200
 4:2:0
