@@ -22,6 +22,17 @@ ID:Man United v Leeds United (IKOMG)
 1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12633 V 7200 | 4:2:0 | 8PSK
+ID: 
+PAN-NOR
+Event:
+Club Friendly
+Zalaegerszegi TE
+ vs 
+Leicester City
+Kick-off 16:30 GMT, ZTE Arena, Zalaegerszeg
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10726 H 7200
 DVB-S2 8PSK FEC 3/4
@@ -65,16 +76,6 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID: ENC 4 HOL-162 (multi-link.tv)
 1920x1080 |21.780Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
----FEED-SEPARATOR---
-8.0°W
-12671 V 4800
-4:2:0
-ID: Orion feed-1
-12677 V 4800
-4:2:0
-ID: Orion feed-2
-CW: 20 25 FE 43 ED 15 08 0A
-UEFA Women’s Euro 2025: France - Germany
 ---FEED-SEPARATOR---
 Club Friendly Match - Celtic vs Newcastle United
 100.5°E
@@ -131,6 +132,16 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 13 14 CC F3 AA 23 42 0F
 ---FEED-SEPARATOR---
+8.0°W
+12671 V 4800
+4:2:0
+ID: Orion feed-1
+12677 V 4800
+4:2:0
+ID: Orion feed-2
+CW: 20 25 FE 43 ED 15 08 0A
+UEFA Women’s Euro 2025: France - Germany
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10964 V 14400 | 4:2:2 | 8PSK
 ID: 
@@ -142,6 +153,16 @@ France
 Germany
 Kick-off 19:00 GMT, 19 July 2025, St. Jakob‑Park, Basel
 CW: A1 90 77 A8 52 57 8E 37
+---FEED-SEPARATOR---
+19.2E
+11573 V 7200
+4.2.0
+ID: ROU015 FIBA U19 WC MAIN
+2025 FIBA Under-19 Women's Basketball World Cup
+Australia - Canada
+Argentina U-19 - Brazil U-19
+USA U-19 - Spain U-19
+CW: 38 4A B6 38 99 5B 29 1D
 ---FEED-SEPARATOR---
 FIBA Women's Asia Cup 2025
 5th Place - Philippines vs New Zealand
