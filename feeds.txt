@@ -66,6 +66,24 @@ ID: ENC 4 HOL-162 (multi-link.tv)
 1920x1080 |21.780Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
+8.0°W
+12671 V 4800
+4:2:0
+ID: Orion feed-1
+12677 V 4800
+4:2:0
+ID: Orion feed-2
+CW: 20 25 FE 43 ED 15 08 0A
+UEFA Women’s Euro 2025: France - Germany
+---FEED-SEPARATOR---
+Club Friendly Match - Celtic vs Newcastle United
+100.5°E
+3976 V 7500
+ID : ENC 10
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: F1 E9 31 0B 97 7D 5A 6E
+---FEED-SEPARATOR---
 sattechtips said:
 			16E
 11097 H 7200
