@@ -31,6 +31,14 @@ CW: 4C 2A 83 F9 5B 79 B9 8D
 Scottish League Cup 
 Stirling Albion v Hearts
 ---FEED-SEPARATOR---
+28.2E
+12703 V 7200 
+4:2:0
+DVB-S2 - 8PSK
+ID WPA D-322 Main
+Friendly Club Match
+ FSV Frankfurt v Eintracht Frankfurt 
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12633 V 7200 | 4:2:0 | 8PSK
 ID: 
@@ -157,19 +165,6 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 13 14 CC F3 AA 23 42 0F
----FEED-SEPARATOR---
-Friendly Club Match
-Diósgyör v Košice
- ST: 17:00
-7°E
-12643 
-V 
-7200
-DVB-S2-
-4:2:0
-- 8PSK
-ID:STVR DVTK KOSICE
-CW: 13 24 AE E5 CA 37 25 26
 ---FEED-SEPARATOR---
 8.0°W
 12671 V 4800
