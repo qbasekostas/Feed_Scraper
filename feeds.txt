@@ -148,6 +148,13 @@ DVB-S2-
 - 8PSK
 ID:A1PRO Via1
 ---FEED-SEPARATOR---
+7E
+11597 V 7200
+ID: E-95 MAIN
+Club friendly
+Sevilla Fc vs Sunderland AFC
+CW: 19 07 20 40 25 FA CA E9
+---FEED-SEPARATOR---
 Club Friendly Match - Reading vs Tottenham Hotspur
 100.5°E
 3933 H 7500
