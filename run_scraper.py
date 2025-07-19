@@ -23,6 +23,7 @@ THREAD_URLS = [
     "https://www.sat-universe.com/index.php?threads/uefa-international-football-euro-qualifiers-friendlies-preseason-continental-cup-hybrid-legends-etc-please-state-if-4-2-0-or-4-2-2.276471/",
     "https://www.sat-universe.com/index.php?threads/fifa-internationals-fifa-world-cup-2014-2018-2022-2026-qualifiers-friendlies-world-club-championship-7%C2%B0e-10%C2%B0e-etc.240056/",
     "https://www.sat-universe.com/index.php?threads/fifa-uefa-international-football-euro-qualifiers-world-cup-qualifiers-friendlies-c-ku-please-state-if-4-2-0-or-4-2-2.276471/",
+    "https://www.sat-universe.com/index.php?threads/fifa-inter-football-hybrid-club-not-for-club-vs-club-from-same-country-spain-england-portugal-etc-have-there-own-threads.277750/",
     "https://www.sat-universe.com/index.php?threads/english-scotish-welsh-irish-football-please-state-if-420-or-422-28-2%C2%B0e-23-5%C2%B0e-10%C2%B0e-7%C2%B0e-100-5%C2%B0e-0-8%C2%B0west.252475/",
     "https://www.sat-universe.com/index.php?threads/uk-eng-scot-wales-ire-premier-lge-championship-sheild-fa-cup-friendlies-league-cup-3-1%C2%B0e-7%C2%B0e-10%C2%B0e-100-5%C2%B0e.265788/",
     "https://www.sat-universe.com/index.php?threads/spain-football-please-include-4-2-0-or-4-2-2-info-in-your-post.249958/",
