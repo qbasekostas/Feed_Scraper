@@ -6,6 +6,35 @@ DVB-S2 4:2:0 8PSK
 ID: Service 03
 FTA
 ---FEED-SEPARATOR---
+Friendly Club Match
+Man United v Leeds United
+Eutelsat 7A/7B/7C @ 7.0E
+12686 H 7201
+ID:Man United v Leeds United (IKOMG)
+1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
+CW: FTA
+---FEED-SEPARATOR---
+7e
+11692 H 7200
+4:2:0
+ID: SF Match
+Hansa Rostock vs Aston Villa
+FTA
+---FEED-SEPARATOR---
+Hansa Rostock vs Aston Villa
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 04
+FTA
+---FEED-SEPARATOR---
+7E
+12676 H 7200
+ID: NLFLEV_HOL-090 CH-C
+Club Frendly
+BSV Kickers Emden vs Werder Bremen @ 14:30 GMT
+FTA
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 11287 V 7200 | 4:2:0 | 8PSK
 ID: 
@@ -19,14 +48,6 @@ Eutelsat 7A/7B/7C @ 7.0E
 12548 H 10002
 ID: ENC 4 HOL-162 (multi-link.tv)
 1920x1080 |21.780Mb/Sec |8PSK |4:2:0 HD
-CW: FTA
----FEED-SEPARATOR---
-Friendly Club Match
-Man United v Leeds United
-Eutelsat 7A/7B/7C @ 7.0E
-12686 H 7201
-ID:Man United v Leeds United (IKOMG)
-1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
