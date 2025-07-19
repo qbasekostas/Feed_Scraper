@@ -1,4 +1,16 @@
 Eutelsat 7B-7C @ 07.0E
+11522 V 7200 | 4:2:0 | 8PSK
+ID: 
+2Sat HOL89 Main
+Event: 
+Club Friendly
+Ajax
+ vs 
+KV Mechelen
+Kick-off 13:30 GMT, Mechelen (Sportpark Bovenmolen)
+CW: 19 07 50 70 F1 DC DC A9
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12685 V 7120 | 4:2:0 | 8PSK
 ID: 
 Pitch Preseason Wrexham V Wellington
