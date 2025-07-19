@@ -22,6 +22,15 @@ ID:Man United v Leeds United (IKOMG)
 1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
+1W
+11486 V 15000 
+4:2:2
+DVBS-2 8PSK
+ID No name
+CW: 4C 2A 83 F9 5B 79 B9 8D
+Scottish League Cup 
+Stirling Albion v Hearts
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12633 V 7200 | 4:2:0 | 8PSK
 ID: 
@@ -77,6 +86,23 @@ ID: ENC 4 HOL-162 (multi-link.tv)
 1920x1080 |21.780Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
+Club Friendly Match - Reading vs Tottenham Hotspur
+100.5°E
+3933 H 7500
+ID : ENC 09
+DVB-S2 8PSK 
+4:2:2
+ 1080i
+SID : 1
+CW: 28 A5 D1 9E F3 73 5C C2
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12643 V 7200 | 4:2:0 | 8PSK
+ID: STVR DVTK KOSICE
+Event: Friendly Club Match
+    Diósgyör v Košice
+CW: 13 24 AE E5 CA 37 25 26
+---FEED-SEPARATOR---
 Club Friendly Match - Celtic vs Newcastle United
 100.5°E
 3976 V 7500
@@ -131,6 +157,19 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 13 14 CC F3 AA 23 42 0F
+---FEED-SEPARATOR---
+Friendly Club Match
+Diósgyör v Košice
+ ST: 17:00
+7°E
+12643 
+V 
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:STVR DVTK KOSICE
+CW: 13 24 AE E5 CA 37 25 26
 ---FEED-SEPARATOR---
 8.0°W
 12671 V 4800
