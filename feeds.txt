@@ -127,6 +127,18 @@ ID: ENC 4 HOL-162 (multi-link.tv)
 1920x1080 |21.780Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
+Friendly Club Match
+Farense v Real Betis
+ ST: 19:00
+7°E
+11588 
+V 
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:A1PRO Via1
+---FEED-SEPARATOR---
 Club Friendly Match - Reading vs Tottenham Hotspur
 100.5°E
 3933 H 7500
