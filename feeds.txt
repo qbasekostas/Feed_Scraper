@@ -1,0 +1,7 @@
+Club Friendly Match - Wellington Phoenix vs Wrexham AFC
+100.5°E
+3933 H 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 13 14 CC F3 AA 23 42 0F
