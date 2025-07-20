@@ -1,3 +1,11 @@
+Feed Intelsat 34/55.5° W
+4100 H 7200
+DVBS2 8PSK FEC: 3/4
+MPEG4/4:2:0
+Id.: Unname
+Fútbol Masculino/Amistoso
+SK Rapid Viena vs. 1. Fußballclub Union Berlin
+---FEED-SEPARATOR---
 FIBA Women's Asia Cup 2025
 3rd Place - South Korea vs China
 Final - Australia vs Japan
