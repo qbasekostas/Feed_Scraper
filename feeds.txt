@@ -6,6 +6,15 @@ Id.: Unname
 Fútbol Masculino/Amistoso
 SK Rapid Viena vs. 1. Fußballclub Union Berlin
 ---FEED-SEPARATOR---
+FIBA U-19 Women's World Cup 2025
+3rd Place: Spain vs Canada
+FINAL: USA vs Australia
+19.2E
+11574 V 7200
+DVB-S2 4:2:0 8PSK
+ID: ROU015 FIBA U19 WC MAIN
+CW: 89 B1 50 8A 36 BC 65 57
+---FEED-SEPARATOR---
 FIBA Women's Asia Cup 2025
 3rd Place - South Korea vs China
 Final - Australia vs Japan
