@@ -6,6 +6,13 @@ Id.: Unname
 Fútbol Masculino/Amistoso
 SK Rapid Viena vs. 1. Fußballclub Union Berlin
 ---FEED-SEPARATOR---
+7E
+12634 V 7200
+ID: LINZ
+Club Friendly
+Galatasaray vs Admira Wacker M.
+CW: 13 74 AE 35 CA 37 27 28
+---FEED-SEPARATOR---
 FIBA U-19 Women's World Cup 2025
 3rd Place: Spain vs Canada
 FINAL: USA vs Australia
