@@ -1,7 +1,0 @@
-Club Friendly
-Sporting Lisbon (Portugal) vs Sunderland (England)
-10E
-11306 V 7200
-DVB-S2 4:2:0 8PSK
-ID: Main
-CW: DB 20 25 20 21 07 DB 03
