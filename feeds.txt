@@ -1,3 +1,11 @@
+Eutelsat 7B-7C @ 07.0E
+11126 V 7200 | 4:2:0 | 8PSK
+ID:
+ ITA-229 Main
+Event: 
+Club Friendly
+Napoli (Ita) - Arezzo (Ita)
+---FEED-SEPARATOR---
 Club Friendly
 Napoli (Ita) - Arezzo (Ita)
 Eutelsat 7A/7B/7C @ 7.0E
@@ -38,3 +46,18 @@ England
 Italy
 Kick-off 19:00 GMT, Geneva
 CW: A2 20 77 39 52 57 8E 37
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11523 V 7200 | 4:2:0 | 8PSK
+ID: 
+A1PRO Via1 (Net 1)
+Event: UEFA Champions League - 2nd Qualifying Round (1st Leg)
+Lincoln Red Imps vs Red Star Belgrade
+---FEED-SEPARATOR---
+16E
+12569 H 7200
+ID: CZE-012-M-PLZEN-SERVETTE
+4:2:0
+CW: A4 58 DD D9 F6 AA 78 18
+UEFA Champions League - 2nd Qualifying Round (1st Leg)
+Viktoria Plzen vs Servette
