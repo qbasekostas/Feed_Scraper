@@ -1,4 +1,13 @@
 Eutelsat 7B-7C @ 07.0E
+11172 H 7200 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 5
+Event: 
+Scottish League Cup - Round 4
+    Motherwell v Greenock Morton
+CW: CA 34 BB B9 83 BB 18 56
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 11126 V 7200 | 4:2:0 | 8PSK
 ID:
  ITA-229 Main
@@ -71,6 +80,17 @@ Italy
 Kick-off 19:00 GMT, Geneva
 CW: A2 20 77 39 52 57 8E 37
 ---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+12677 H 7200 | 4:2:0 | 8PSK
+ID:
+ Slovan
+Event: 
+UEFA Champions League - 2nd Qualifying Round (1st Leg)
+    Slovan Bratislava v Zrinjski
+Click to expand...
+PLS KAY?
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12677 H 7200 | 4:2:0 | 8PSK
 ID:
@@ -101,6 +121,38 @@ ID:
 A1PRO Via1 (Net 1)
 Event: UEFA Champions League - 2nd Qualifying Round (1st Leg)
 Lincoln Red Imps vs Red Star Belgrade
+---FEED-SEPARATOR---
+Eutelsat 33E @ 33.1E
+11129 V 8020 | 4:2:0 |
+DVB-S2x
+ 16APSK
+ID: 
+POL-062
+Event: 
+UEFA Champions League - 2nd Qualifying Round (1st Leg)
+    Shkëndija v FCSB
+CW: CA CA 23 B7 23 C2 A3 88
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+12677 H 7200 | 4:2:0 | 8PSK
+ID:
+ Slovan
+Event: 
+UEFA Champions League - 2nd Qualifying Round (1st Leg)
+    Slovan Bratislava v Zrinjski
+Click to expand...
+31 F4 5D 48 D8 12 82 99  #CW: 
+11 14 AE D3 CF 54 72 95
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11163 H 7200 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 4
+Event: 
+UEFA Champions League - 2nd Qualifying Round (1st Leg)
+    Rangers v Panathinaikos
+CW: EE 29 BD D4 38 BA 46 38
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11145 H 7200 | 4:2:0 | 8PSK
