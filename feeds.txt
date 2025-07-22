@@ -5,3 +5,17 @@ E386 FEED 3 (Service Provider)
 Event: 
 Club Friendly — Celta Vigo vs Nacional da Madeira
 Kick-off 10:30 GMT, Vigo
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10964 V 14400 |
+4:2:2
+ | 8PSK
+ID:
+ GNV2 FEED B SAT B
+Event: 
+UEFA Women’s Euro 2025 — Semi‑Final
+England
+ vs 
+Italy
+Kick-off 19:00 GMT, Geneva
+CW: A2 20 77 39 52 57 8E 37
