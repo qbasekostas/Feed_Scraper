@@ -1,4 +1,15 @@
 Eutelsat 7B-7C @ 07.0E
+12686 H 7200 | 4:2:0 | 8PSK
+ID: 
+LINZ
+Event: 
+Club Friendly — Pre-season
+FC Metalist 1925 Kharkiv
+ vs 
+Borussia Mönchengladbach
+Kick-off 16:00 GMT, Rottach-Egern
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 11559 V 4800 | 4:2:0 | 8PSK
 ID: 
 E386 FEED 3 (Service Provider)
