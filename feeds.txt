@@ -72,6 +72,14 @@ Kick-off 19:00 GMT, Geneva
 CW: A2 20 77 39 52 57 8E 37
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
+12677 H 7200 | 4:2:0 | 8PSK
+ID:
+ Slovan
+Event: 
+UEFA Champions League - 2nd Qualifying Round (1st Leg)
+    Slovan Bratislava v Zrinjski
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12646 H 7200 | 4:2:0 | 8PSK
 ID: 
 LAT-001 M
