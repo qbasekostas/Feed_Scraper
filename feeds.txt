@@ -1,3 +1,11 @@
+Club Friendly
+Napoli (Ita) - Arezzo (Ita)
+Eutelsat 7A/7B/7C @ 7.0E
+12523 V 7501
+ID:ITA349 Dimaro (Service Provider)
+1920x1080 |16.330Mb/Sec |8PSK |4:2:2 HD
+CW: FTA
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12686 H 7200 | 4:2:0 | 8PSK
 ID: 
