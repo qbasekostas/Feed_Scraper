@@ -93,6 +93,15 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 24 11 CD 02 DC 22 11 0F
 ---FEED-SEPARATOR---
+Astra 2 @ 28.2E
+12582 V 7200 | 4:2:0 | 8PSK
+ID: 
+Race
+Event: 
+UEFA Champions League - 2nd Qualifying Round (1st Leg)
+    Shelbourne v Qarabagh
+CW: FF 42 20 61 25 EE AA BD
+---FEED-SEPARATOR---
 UEFA Conference Europa League Qualifiers
 Silkeborg (Denmark) v KA Akureyrar (Iceland)
 7E
