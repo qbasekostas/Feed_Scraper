@@ -1,3 +1,5 @@
+delet my post dup
+---FEED-SEPARATOR---
 AhmedCeNa said:
 Club Friendly
 Al Ahli (Saudi Arabia) vs Como (Italia)
@@ -50,6 +52,15 @@ Qatar National Team vs Metalist 1925 Kharkiv
 DVB-S2 4:2:0 8PSK
 ID: QAT-MKH
 FTA
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11522 V 7200 | 4:2:0 | 8PSK
+ID: 
+E-289
+Event: 
+Friendly Club Match
+Fenerbahçe v Al Ittihad
+CW: 23 07 20 4A 25 FA CA E9
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11009 V 7200 | 4:2:0 | 8PSK
