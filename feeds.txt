@@ -1,3 +1,11 @@
+Club Friendly
+Al Ahli (Saudi Arabia) vs Como (Italia)
+7E
+11460 V 7200
+DVB-S2 4:2:0 8PSK
+ID: AL AHLI vs COMO
+FTA
+---FEED-SEPARATOR---
 Hybrid Friendly
 Qatar National Team vs Metalist 1925 Kharkiv
 7E
