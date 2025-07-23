@@ -1,0 +1,31 @@
+Eutelsat 7B-7C @ 07.0E
+12676 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Arsenal v Milan
+Event: 
+Club Friendly — Arsenal vs AC Milan
+Kick-off 11:30 GMT, National Stadium, Singapore
+(FTA Now , Will be encrypted with following Key : )
+orangebirds said:
+CW: 24 11 CD 02 DC 22 11 0F
+Click to expand...
+---FEED-SEPARATOR---
+Womens Euro 2025 Semi-Final: Germany - Spain
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+10965 V 14400
+ZRH2 FEED B SAT B (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: A2 30 77 49 52 57 8E 37
+---FEED-SEPARATOR---
+Event: Club Friendly Match - Arsenal vs AC Milan
+100.5°E
+3933 H 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 24 11 CD 02 DC 22 11 0F
