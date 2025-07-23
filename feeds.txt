@@ -1,0 +1,25 @@
+Friendly Club Match - National Stadium, Singapore
+Arsenal v AC Milan
+Eutelsat 7A-7B 7.0E - 12676 Vertical 7120 4.2.0 
+ID: Pitch - Arsenal v Milan
+CW: 24 11 CD 02 DC 22 11 0F
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12676 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Arsenal v Milan
+Event: 
+Club Friendly — Arsenal vs AC Milan
+Kick-off 11:30 GMT, National Stadium, Singapore
+(FTA Now , Will be encrypted with following Key : )
+orangebirds said:
+CW: 24 11 CD 02 DC 22 11 0F
+Click to expand...
+---FEED-SEPARATOR---
+Event: Club Friendly Match - Arsenal vs AC Milan
+100.5°E
+3933 H 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 24 11 CD 02 DC 22 11 0F
