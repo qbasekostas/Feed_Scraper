@@ -1,3 +1,40 @@
+AhmedCeNa said:
+Club Friendly
+Al Ahli (Saudi Arabia) vs Como (Italia)
+Click to expand...
+21.6E
+12573 H 7200
+DVB-S2 4:2:0 8PSK
+ID: SAU-033-A
+FTA
+---FEED-SEPARATOR---
+Event : World Club Friendly
+Teams :Fenerbahce (Tur) 
+ Al Ittihad (Sau)
+Eutelsat 10A @ 10.0°E 
+( KU-BAND )
+11304 V 7200
+   E-95 MAIN (Mediapro Portugal)
+MPEG4-4.2.0 1920x1080 |16.360 Mbit/Sec |8PSK| DVB-S2 HD
+CW:
+FTA
+---FEED-SEPARATOR---
+Club Friendly
+Al Ittihad (Saudi Arabia) vs Fenerbahce (Turkey)
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 02
+FTA
+---FEED-SEPARATOR---
+Eutelsat 21B @ 21.6E
+11627 H 7200 | 4:2:0 | 8PSK
+ID: 
+Service- 1A
+Event: 
+Friendly Club Match
+    Fenerbahçe v Al Ittihad
+---FEED-SEPARATOR---
 Club Friendly
 Al Ahli (Saudi Arabia) vs Como (Italia)
 7E
