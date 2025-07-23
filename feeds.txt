@@ -55,3 +55,11 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 24 11 CD 02 DC 22 11 0F
+---FEED-SEPARATOR---
+UEFA Conference Europa League Qualifiers
+Silkeborg (Denmark) v KA Akureyrar (Iceland)
+7E
+11145 H 7200
+DVB-S2 4:2:0 8PSK
+ID: DNK37 ENC1
+CW: 2C CF 4A 45 85 9D A5 C7
