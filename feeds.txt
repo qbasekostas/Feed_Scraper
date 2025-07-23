@@ -51,6 +51,15 @@ DVB-S2 4:2:0 8PSK
 ID: QAT-MKH
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11009 V 7200 | 4:2:0 | 8PSK
+ID: 
+IMG A EU (CM5000)
+Event: 
+Club Friendly — Como 1907 vs Al‑Ahli (Jeddah)
+Kick‑off 18:30 GMT, Como, Italy
+CW: BA C2 34 B0 DA CE E1 89
+---FEED-SEPARATOR---
 Event :WorldClub Friendly
 Teams : Galatasaray (Tur) 
  Cagliari (Ita)
