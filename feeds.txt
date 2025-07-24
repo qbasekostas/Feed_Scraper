@@ -1,3 +1,22 @@
+Club Friendly Match - Ajax Amsterdam (Ned) vs Celtic (Sco)
+100.5°E
+3860 V 30000
+ID : IMG Asia
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+FTA
+---FEED-SEPARATOR---
+Astra 4A @ 4.9E
+12603 H 7200 | 4:2:0 | 8PSK
+ID: 
+EST-004 Main
+Event: 
+UEFA Europa Conference League 2025–26 — Second Qualifying Round (First Leg)
+Paide Linnameeskond (Estonia)
+ vs 
+AIK Solna (Sweden)
+Kick‑off 15:30 GMT, 24 July 2025, Kadriorg Stadium, Tallinn
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11128 V 9700 | 4:2:0 | 8PSK
 ID: 
