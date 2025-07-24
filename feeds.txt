@@ -17,6 +17,24 @@ Paide Linnameeskond (Estonia)
 AIK Solna (Sweden)
 Kick‑off 15:30 GMT, 24 July 2025, Kadriorg Stadium, Tallinn
 ---FEED-SEPARATOR---
+Event : EuropeConference League - Qualification - Quarter-finals
+Teams : Paks (Hun)  
+ Maribor (Slo)
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11154 V 7200
+   HUN-017/LINE1 (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 91 5A BD A8 D4 CC 31 D1
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+7E
+11128 V 9874
+4:2:0
+ID: UIKI-027 (INA TV)
+Aris Limassol vs Puskás Akadémia
+CW: E2 71 21 74 B3 BB 9D 0B
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12677 H 6900 | 4:2:0 | 8PSK
 ID: 
