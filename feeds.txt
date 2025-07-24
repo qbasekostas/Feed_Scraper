@@ -4,7 +4,17 @@ ID:
 GCUK Enc 2
 Event: 
 UEFA Conference League - 2nd Qualifying Round (1st Leg)
-    Hammarby v Sporting Charleroi
+Hammarby v Sporting Charleroi
+CW: DB E4 32 F1 4F 79 8A 52
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11140 V 9700 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 1
+Event: 
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+Hammarby v Sporting Charleroi
+CW: DB E4 32 F1 4F 79 8A 52
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12646 H 6900 | 4:2:0 | 8PSK
