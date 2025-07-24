@@ -15,6 +15,22 @@ Friendly Club Match - Como Cup
     Celtic v Ajax
 CW: BA C2 34 B0 DA CE E1 89
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10958 V 4935 | 4:2:0 | 8PSK
+ID: 
+MNE-001 main
+Event: 
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+    Decic Tuzi v Rapid Vienna
+---FEED-SEPARATOR---
+Astra 4A @ 4.9E
+12603 H 3600 | 4:2:0 | 8PSK
+ID: 
+ALB-007 RTSH
+Event:  
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+    Vllaznia Shkodër v Víkingur Reykjavík
+---FEED-SEPARATOR---
 Eutelsat 16Ac@ 16.0E
 12557 H 4935 | 4:2:0 | 8PSK
 ID: BIH007 M
@@ -138,6 +154,32 @@ Cherno More Varna (Bulgaria)
 İstanbul Başakşehir (Turkey)
 Kick-off 17:00 GMT, 24 July 2025
 CW: 31 26 54 AB 90 28 73 2B
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11608 H 7200 | 4:2:0 | 8PSK
+ID: 
+OViB
+Event: 
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+    Vardar Skopje v Lausanne Sport
+CW: 20 25 AA EF DD 20 25 22
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+7E
+12634 V 6974
+4:2:0
+ID: David 1 (SRG SSR)
+Lugano v CFR Cluj
+CW: AB BE 12 7B 89 C2 EF 3A
+---FEED-SEPARATOR---
+Turksat 3/4/5 @ 42.0E
+10983 V 6600 | 4:2:0 | 8PSK
+ID: 
+AYM 2
+Event: 
+UEFA Europa League - 2nd Qualifying Round (1st Leg)
+    Besiktas v Shakhtar Donetsk
+CW: 00 53 53 A6 13 61 61 D5
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12547 H 9700 |
