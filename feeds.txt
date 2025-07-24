@@ -6,6 +6,15 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11009 V 7200 | 4:2:0 | 8PSK
+ID: 
+IMG A EU (CM5000)
+Event: 
+Friendly Club Match - Como Cup
+    Celtic v Ajax
+CW: BA C2 34 B0 DA CE E1 89
+---FEED-SEPARATOR---
 Eutelsat 16Ac@ 16.0E
 12557 H 4935 | 4:2:0 | 8PSK
 ID: BIH007 M
@@ -24,6 +33,36 @@ Paide Linnameeskond (Estonia)
 AIK Solna (Sweden)
 Kick‑off 15:30 GMT, 24 July 2025, Kadriorg Stadium, Tallinn
 ---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 16A @ 16.0E
+10985 V 9600 | 4:2:2 | 8PSK
+ID: pol-053_enc2
+Event:
+CW: 20 25 CA 0F E5 52 31 68
+Click to expand...
+UEFA Conference League Qualifiers - 2nd round match: Raków Częstochowa - MSK Żilina
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+10985 V 9600 |
+4:2:2
+ | 8PSK
+ID: 
+pol-053_enc2
+Event: 
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+    Raków Czestochowa v MSK Zilina
+CW: 20 25 CA 0F E5 52 31 68
+---FEED-SEPARATOR---
+Event :EuropeConference League - Qualification - Quarter-finals
+Teams : Levski Sofia (Bul) 
+ Braga (Por)
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12686 H 6900
+ Levski-BragaBUL006 Main (TV1)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 30 92 87 49 95 41 45 1B
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 7E
 12643 V 7200
@@ -31,6 +70,16 @@ Eutelsat 7B-7C @ 07.0E
 ID: YSM-021 main
 Novi Pazar v Jagiellonia
 CW: 20 25 CC 11 CC 20 24 10
+---FEED-SEPARATOR---
+Event :EuropeConference League - Qualification - Quarter-finals
+Teams : Cherno More (Bul) 
+ Basaksehir (Tur)
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12645 H 6900
+   CHM vs IST BUL007 Main (TV1 )
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 31 26 54 AB 90 28 73 2B
 ---FEED-SEPARATOR---
 Event : EuropeConference League - Qualification - Quarter-finals
 Teams : Paks (Hun)  
