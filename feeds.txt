@@ -1,0 +1,38 @@
+Eutelsat 7B-7C @ 07.0E
+11128 V 9700 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 2
+Event: 
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+    Hammarby v Sporting Charleroi
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12646 H 6900 | 4:2:0 | 8PSK
+ID: 
+CHMC vs IST BUL007 Main
+Event: 
+UEFA Europa Conference League Qualifying — Second Round (First Leg)
+Cherno More Varna (Bulgaria)
+ vs 
+İstanbul Başakşehir (Turkey)
+Kick-off 17:00 GMT, 24 July 2025
+CW: 31 26 54 AB 90 28 73 2B
+---FEED-SEPARATOR---
+Hotbird @ 13.0E
+12437 H 27500 | 4:2:0 | 8PSK
+ID: 
+Service 02
+Event: 
+FIBA 3x3 Women’s Series — Jakarta 2025
+Date:
+ 24 July 2025
+Location:
+ East Parking Plaza, Gelora Bung Karno Complex, Senayan, Jakarta, Indonesia
+---FEED-SEPARATOR---
+Friendly Match - China vs Venezuela
+100.5°E
+3867 H 7200
+ID : Service-1
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 20 25 CD 12 07 EF 24 1A
