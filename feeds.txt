@@ -33,14 +33,15 @@ Paide Linnameeskond (Estonia)
 AIK Solna (Sweden)
 Kick‑off 15:30 GMT, 24 July 2025, Kadriorg Stadium, Tallinn
 ---FEED-SEPARATOR---
-Super Saiyan said:
-			Eutelsat 16A @ 16.0E
-10985 V 9600 | 4:2:2 | 8PSK
-ID: pol-053_enc2
-Event:
-CW: 20 25 CA 0F E5 52 31 68
-Click to expand...
-UEFA Conference League Qualifiers - 2nd round match: Raków Częstochowa - MSK Żilina
+Event :EuropeConference League - Qualification - Quarter-finals
+Teams : Kosice (Svk)  
+ Neman (Blr)
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11190 V 7200
+  UEFA-CL-KOS-NMN (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 37 14 BC 07 CF 57 81 A7
 ---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 10985 V 9600 |
@@ -137,6 +138,26 @@ Cherno More Varna (Bulgaria)
 İstanbul Başakşehir (Turkey)
 Kick-off 17:00 GMT, 24 July 2025
 CW: 31 26 54 AB 90 28 73 2B
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12547 H 9700 |
+4:2:2
+ | 8PSK
+ID: 
+OTE 1
+Event: 
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+    AEK Athens 
+CW: DD 11 23 11 FF CA 13 DC
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12652 V 7200 | 4:2:0 | 8PSK
+ID: 
+YSM-016 M
+Event: 
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+    Radnicki 1923 v KÍ Klaksvík
+CW: 20 25 CC 11 CC 20 24 10
 ---FEED-SEPARATOR---
 Hotbird @ 13.0E
 12437 H 27500 | 4:2:0 | 8PSK
