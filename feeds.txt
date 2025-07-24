@@ -6,6 +6,13 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 16Ac@ 16.0E
+12557 H 4935 | 4:2:0 | 8PSK
+ID: BIH007 M
+Event: 
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+    FK Sarajevo v Universitatea Craiova
+---FEED-SEPARATOR---
 Astra 4A @ 4.9E
 12603 H 7200 | 4:2:0 | 8PSK
 ID: 
@@ -16,6 +23,14 @@ Paide Linnameeskond (Estonia)
  vs 
 AIK Solna (Sweden)
 Kick‑off 15:30 GMT, 24 July 2025, Kadriorg Stadium, Tallinn
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+7E
+12643 V 7200
+4:2:0
+ID: YSM-021 main
+Novi Pazar v Jagiellonia
+CW: 20 25 CC 11 CC 20 24 10
 ---FEED-SEPARATOR---
 Event : EuropeConference League - Qualification - Quarter-finals
 Teams : Paks (Hun)  
