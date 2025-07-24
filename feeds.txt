@@ -1,5 +1,5 @@
 Hotbird @ 13.0E
-12437 H 7200 | 4:2:0 | 8PSK
+12437 H 27500 | 4:2:0 | 8PSK
 ID: 
 Service 02
 Event: 
