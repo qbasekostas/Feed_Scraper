@@ -34,6 +34,14 @@ ID: Arab Basketball
 Champions
 FTA
 ---FEED-SEPARATOR---
+FRIENDLY INTERNATIONAL MATCH .BEIRUT CUP
+Lebanon  vs  Syria
+30.5E
+11684 V 3330
+4.2.0 HD
+ID: TL-SNG5-A
+CW: 13 12 12 37 12 12 13 37
+---FEED-SEPARATOR---
 Friendly Match - China vs Venezuela (Game 2)
 100.5°E
 4116 H 7200
