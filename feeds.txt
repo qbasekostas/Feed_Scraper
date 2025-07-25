@@ -1,0 +1,35 @@
+Eutelsat 7B-7C @ 07.0E
+12654 V 10000 | 4:2:0 | 8PSK
+ID: 
+NLFLEV_HOL-090 CH-C
+Event: 
+Club Friendly — Olympiacos Piraeus (Greece) vs Norwich City (England)
+Kick-off 10:00 GMT, Piraeus
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12686 H 7200 | 4:2:0 | 8PSK
+ID: 
+LEI v KAR MAIN
+Event: 
+Club Friendly — Pre-season Match
+Karpaty Lviv (Ukraine)
+ vs 
+Leicester City (England)
+Kick-off 09:30 GMT, Klagenfurt Training Camp, Austria
+---FEED-SEPARATOR---
+Arab Basketball Champions League
+Algeria vs  Tunisia
+30.5E
+12705 H 5000
+4.2.0 HD
+ID: Arab Basketball 
+Champions
+FTA
+---FEED-SEPARATOR---
+Friendly Match - China vs Venezuela (Game 2)
+100.5°E
+4116 H 7200
+ID : Service-1
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 20 25 CD 12 07 EF 25 1B
