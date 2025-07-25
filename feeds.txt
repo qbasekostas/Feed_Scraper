@@ -1,4 +1,12 @@
 Eutelsat 7B-7C @ 07.0E
+12634 V 7200 | 4:2:0 | 8PSK
+ID:
+ UKI-1462-Main
+Event: 
+Club Friendly — FC Köln (Germany) vs Leicester City (England)
+Kick-off 15:00 GMT, 25 July 2025, Merkur Arena Graz, Austria
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12654 V 10000 | 4:2:0 | 8PSK
 ID: 
 NLFLEV_HOL-090 CH-C
