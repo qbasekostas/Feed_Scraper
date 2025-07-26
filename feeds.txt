@@ -42,6 +42,15 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: FTA
 ---FEED-SEPARATOR---
+16e
+12548 H 7200
+4:2:0
+ID: 
+POR09 ENEX H264 DOUBLE
+Friendly
+Benfica (Por)
+Fenerbahce (Tur)
+---FEED-SEPARATOR---
 Eutelsat 21B @ 21.6E
 11627 H 7200 | 4:2:0 | 8PSK
 ID: 
