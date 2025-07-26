@@ -34,13 +34,25 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: FTA
 ---FEED-SEPARATOR---
+7.0°E
+11163 V 7200
+4:2:0
+ID: FCK-ROM
+#FTA
+Friendly Match: Kaiserslautern - Roma
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
-11126 V 7200 | 4:2:0 | 8PSK
-ID: 
-ITA-229 Main
-Event: 
-Friendly Club Match
-    Napoli v Catanzaro
+12634 V 7200 | 4:2:0 | 8PSK
+ID: E289
+Event:
+---FEED-SEPARATOR---
+Club Friendly
+Napoli (Ita) - Catanzaro (Ita)
+Eutelsat 7A/7B/7C @ 7.0E
+12523 V 7501
+ID:ITA349 Dimaro (Service Provider)
+1920x1080 |16.330Mb/Sec |8PSK |4:2:2 HD
+CW: FTA
 ---FEED-SEPARATOR---
 Super Saiyan said:
 			Event: 
