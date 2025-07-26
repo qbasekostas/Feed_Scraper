@@ -14,12 +14,6 @@ Event:
 Friendly Club Match
     Luton Town v Tottenham Hotspur
 ---FEED-SEPARATOR---
-Friendly Club Match - US Summer Series (New Jersey)
-Everton v Bournemouth
-Eutelsat 7B/7C 7.0E - 12727 Vertcal 7500 4:2:0
-ID:ENC 5
-CW: CA 11 B4 8F 92 CF ED 4E
----FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11172 V 7200 | 4:2:0 | 8PSK
 ID: 
