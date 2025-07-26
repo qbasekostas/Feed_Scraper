@@ -1,3 +1,13 @@
+Event :WorldClub Friendly
+Teams : Liverpool (Eng) 
+ AC Milan (Ita)
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11607 V 7120
+ Pitch Liverpool V Milan (NEP Connect)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 42 21 DA 3D AC 12 41 FF
+---FEED-SEPARATOR---
 Friendly Match - China vs Bosnia & Herzegovina
 100.5°E
 3774 H 7200
