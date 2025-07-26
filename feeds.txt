@@ -137,6 +137,14 @@ AZ Alkmaar vs Olympiacos
 ID: HOL-110 ENC-1 (multi-link.tv)
 No encryption
 ---FEED-SEPARATOR---
+Eutelsat 7A @ 7E
+12677 V 7200 DVB-S2 8PSK
+MPEG 4| 4:2:0 | HDTV
+ID: ENC 2
+Event: 
+International COMO CUP:  Al Ahli v Celtic
+CW: BA C2 34 B0 DA CE E1 89
+---FEED-SEPARATOR---
 Event: Club Friendly Match - Stoke City vs Wolverhampton Wanderers
 100.5°E
 3967 V 7500
