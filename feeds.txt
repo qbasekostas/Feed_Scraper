@@ -1,4 +1,14 @@
 Event :WorldClub Friendly
+Teams : RB Leipzig (Ger) 
+ Toulouse (Fra)
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12686 H 7200
+    RBL vs FCT (Acher TV D-395)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: FTA
+---FEED-SEPARATOR---
+Event :WorldClub Friendly
 Teams : Liverpool (Eng) 
  AC Milan (Ita)
 Eutelsat 7A/7B/7C @ 7.0°E 
