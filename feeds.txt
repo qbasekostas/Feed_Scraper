@@ -1,7 +1,0 @@
-Feed Intelsat 34/55.5°W
-4100 H 7200
-DVBS2 8PSK FEC: 3/4
-MPEG4/4:2:0
-Id.: PSSI TELEPORT
-Fútbol Masculino/Amistoso
-Nottingham Forest Football Club vs. Fulham Football Club
