@@ -34,6 +34,18 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: FTA
 ---FEED-SEPARATOR---
+Super Saiyan said:
+			Event: 
+Club Friendly
+Schalke 04 v Sevilla FC
+26 July 2025, 15:00 GMT, Gelsenkirchen
+Click to expand...
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 04
+FTA
+---FEED-SEPARATOR---
 Eutelsat 21B @ 21.6E
 11627 H 7200 | 4:2:0 | 8PSK
 ID: 
