@@ -1,3 +1,11 @@
+7E
+11606 V 7200 | 4:2:0 | 8PSK
+ID: 
+E-95 MAIN (Mediapro Portugal)
+Event: 
+International Club Friendly
+Nottingham Forest v Fulham
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11522 V 7200 | 4:2:0 | 8PSK
 ID: 
@@ -136,6 +144,13 @@ AZ Alkmaar vs Olympiacos
 12548 H 10000
 ID: HOL-110 ENC-1 (multi-link.tv)
 No encryption
+---FEED-SEPARATOR---
+Eutelsat 7A @ 7E
+12685 H 7500 DVB-S2 8PSK
+MPEG 4| 4:2:2 | HDTV
+ID: TUR-119 Main (HDPROTEK)
+Galatasaray v Strasbourg
+CW: B2 6B E7 04 DF C2 5A FB
 ---FEED-SEPARATOR---
 Eutelsat 7A @ 7E
 12677 V 7200 DVB-S2 8PSK
