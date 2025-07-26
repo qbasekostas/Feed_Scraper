@@ -1,0 +1,7 @@
+Friendly Match - China vs Bosnia & Herzegovina
+100.5°E
+3774 H 7200
+ID : DSNG-NJ
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 20 25 CD 12 07 EE 25 1A
