@@ -1,0 +1,116 @@
+Eutelsat 7B-7C @ 07.0E
+11172 V 7200 | 4:2:0 | 8PSK
+ID: 
+WPA D-322 Main
+Event: 
+Club Friendly
+Schalke 04 v Sevilla FC
+26 July 2025, 15:00 GMT, Gelsenkirchen
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+11246 H 7200 | 4:2:0 | 8PSK
+ID: 
+ita 390 M
+Event: 
+International Club Friendly
+SK St. Johann v Al Nassr
+26 July 2025, 13:30 GMT, Saalfelden im Pongau
+---FEED-SEPARATOR---
+Event :WorldClub Friendly
+Teams : RB Leipzig (Ger) 
+ Toulouse (Fra)
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12686 H 7200
+    RBL vs FCT (Acher TV D-395)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: FTA
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12726 V 7200 | 4:2:0 | 8PSK
+ID: ITA 560 C
+Event: 
+Friendly Football - TORINO FC 1906 vs Cremonese
+CLEAR/FTA
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11522 V 7200 | 4:2:0 | 8PSK
+ID: 
+Luton v Tottenham
+Event: 
+Friendly Club Match
+    Luton Town v Tottenham Hotspur
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11171 H 7200
+  UKI-1462-Main (Service Provider)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+FRIENDLY Football: Qatar v Udinese Calcio
+26/7/2025 - Waldstadoin , Mittersill 
+CW: FTA
+---FEED-SEPARATOR---
+Hotbird @ 13.0E
+12437 H 27500 | 4:2:0 | 8PSK
+ID: 
+Service 02
+Event: 
+Friendly Club Match
+    Nice v St Pauli
+---FEED-SEPARATOR---
+Event :WorldClub Friendly
+Teams : OGC NICE 
+  FC ST .PAULI
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11683 H 7200
+    IKOMG (IKOMG)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: FTA
+---FEED-SEPARATOR---
+Club Friendly
+AZ Alkmaar vs Olympiacos
+7e
+12548 H 10000
+ID: HOL-110 ENC-1 (multi-link.tv)
+No encryption
+---FEED-SEPARATOR---
+Event: Club Friendly Match - Stoke City vs Wolverhampton Wanderers
+100.5°E
+3967 V 7500
+ID : ENC 09
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 54 A9 85 82 C6 19 42 21
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3935 H 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+CW : 42 21 DA 3D AC 12 41 FF
+Liverpool vs AC Milan
+---FEED-SEPARATOR---
+Event :WorldClub Friendly
+Teams : Liverpool (Eng) 
+ AC Milan (Ita)
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11607 V 7120
+ Pitch Liverpool V Milan (NEP Connect)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 42 21 DA 3D AC 12 41 FF
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7500
+PMT PID: 1001, SID: 1 @ ENC 4 (*unnamed-1*)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 3B 05 11 51 4E B9 5F 66
+Luton vs Tottenham​
+---FEED-SEPARATOR---
+Friendly Match - China vs Bosnia & Herzegovina
+100.5°E
+3774 H 7200
+ID : DSNG-NJ
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 20 25 CD 12 07 EE 25 1A
