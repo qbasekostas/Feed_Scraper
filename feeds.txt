@@ -34,6 +34,22 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: FTA
 ---FEED-SEPARATOR---
+Eutelsat 21B @ 21.6E
+11627 H 7200 | 4:2:0 | 8PSK
+ID: 
+Service- 1A
+Event: 
+International Club Friendly
+Al Ahli v Celtic
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+11246 H 7200 | 4:2:0 | 8PSK
+ID: 
+ Al-Ahli vs Celtic (Service Provider)
+Event: 
+International Club Friendly
+Al Ahli v Celtic
+---FEED-SEPARATOR---
 7.0°E
 11163 V 7200
 4:2:0
