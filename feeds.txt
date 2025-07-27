@@ -1,7 +1,9 @@
 Eutelsat 7B-7C @ 07.0E
 11153 H 7200 | 4:2:0 | 8PSK
-ID: GCUK Enc 5
-Event:Scottish League Cup - Round 5
+ID: 
+GCUK Enc 5
+Event:
+Scottish League Cup - Round 5
     St Mirren v Ayr United
 CW: CA 34 BB B9 83 BB 18 56
 ---FEED-SEPARATOR---
