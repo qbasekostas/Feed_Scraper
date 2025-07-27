@@ -1,4 +1,11 @@
 Eutelsat 7B-7C @ 07.0E
+11153 H 7200 | 4:2:0 | 8PSK
+ID: GCUK Enc 5
+Event:Scottish League Cup - Round 5
+    St Mirren v Ayr United
+CW: CA 34 BB B9 83 BB 18 56
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 11523 V 7120 | 4:2:0 | 8PSK
 ID: 
 Pre Season Friendlies - Arsenal v Newcastle (NEP Connect)
@@ -13,6 +20,14 @@ ID : ID : BT_SES_4_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: 24 11 CD 02 DC 22 11 0F
 Arsenal vs Newcastle
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11172 V 7200 | 4:2:0 | 8PSK
+ID: 
+WPA D-322 Main
+Event: 
+Friendly Club Match
+    Bochum v Bayer Leverkusen
 ---FEED-SEPARATOR---
 International Club Friendly
 Mallorca (Esp) - Shabab Al-Ahli Dubai (Uae)
