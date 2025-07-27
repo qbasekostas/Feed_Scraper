@@ -7,6 +7,13 @@ Friendly Club Match - National Stadium, Singapore
     Arsenal v Newcastle United
 CW: 24 11 CD 02 DC 22 11 0F
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3895 H 7120
+ID : ID : BT_SES_4_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 24 11 CD 02 DC 22 11 0F
+Arsenal vs Newcastle
+---FEED-SEPARATOR---
 International Club Friendly
 Mallorca (Esp) - Shabab Al-Ahli Dubai (Uae)
 Eutelsat 7A/7B/7C @ 7.0E
@@ -14,23 +21,6 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID:FCK-ROM (*unnamed-1*)
 1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
 CW: Fta
----FEED-SEPARATOR---
-Event :World Club Friendly
-Teams : Arsenal (Eng) 
- Newcastle (Eng)
-Eutelsat 7A/7B/7C @ 7.0°E 
-( KU-BAND )
-11523 V 7120
-  Pre Season Friendlies - Arsenal v Newcastle (NEP Connect)
-MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
-CW: 24 11 CD 02 DC 22 11 0F
----FEED-SEPARATOR---
-AsiaSat 5 - 100.5 E - CBand
-TP : 3895 H 7120
-ID : ID : BT_SES_4_SDI
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-CW: 24 11 CD 02 DC 22 11 0F
-Arsenal vs Newcastle
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10964 V 14400 |
@@ -42,3 +32,14 @@ Event:
 UEFA Womens Euro 2025 - FINAL
     England v Spain
 CW: A2 70 77 89 52 57 8E 37
+---FEED-SEPARATOR---
+orangebirds said:
+Friendly Match - China vs Bosnia & Herzegovina
+100.5°E
+3774 H 7200
+ID : DSNG-NJ
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 20 25 CD 12 07 EE 25 1A
+Click to expand...
+New TP : 4135 H 7200
