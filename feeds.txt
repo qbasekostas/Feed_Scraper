@@ -39,6 +39,14 @@ ID:FCK-ROM (*unnamed-1*)
 1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
 CW: Fta
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11009 V 7200 | 4:2:0 | 8PSK
+ID: 
+IMG A EU 
+Event: 
+Club Friendly — Como 1907 vs Ajax
+CW: BA C2 34 B0 DA CE E1 89
+---FEED-SEPARATOR---
 Event :Europe Euro Women - Play Offs - Final
 Teams : England W 
  Spain W
@@ -68,6 +76,19 @@ Event:
 UEFA Womens Euro 2025 - FINAL
     England v Spain
 CW: A2 70 77 89 52 57 8E 37
+---FEED-SEPARATOR---
+Friendly Club Match - Como Cup Final
+Como v Ajax
+ ST: 19:00
+7°E
+11010 
+V
+ 7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:IMG A EU
+CW: BA C2 34 B0 DA CE E1 89
 ---FEED-SEPARATOR---
 orangebirds said:
 Friendly Match - China vs Bosnia & Herzegovina
