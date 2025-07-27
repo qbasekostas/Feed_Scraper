@@ -1,3 +1,11 @@
+International Club Friendly
+Mallorca (Esp) - Shabab Al-Ahli Dubai (Uae)
+Eutelsat 7A/7B/7C @ 7.0E
+11163 V 7201
+ID:FCK-ROM (*unnamed-1*)
+1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
+CW: Fta
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10964 V 14400 |
 4:2:2
