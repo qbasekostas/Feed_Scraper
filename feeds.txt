@@ -39,14 +39,6 @@ ID:FCK-ROM (*unnamed-1*)
 1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
 CW: Fta
 ---FEED-SEPARATOR---
-Eutelsat 7B-7C @ 07.0E
-11009 V 7200 | 4:2:0 | 8PSK
-ID: 
-IMG A EU 
-Event: 
-Club Friendly — Como 1907 vs Ajax
-CW: BA C2 34 B0 DA CE E1 89
----FEED-SEPARATOR---
 Event :Europe Euro Women - Play Offs - Final
 Teams : England W 
  Spain W
