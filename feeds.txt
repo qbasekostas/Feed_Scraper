@@ -1,0 +1,10 @@
+Eutelsat 7B-7C @ 07.0E
+10964 V 14400 |
+4:2:2
+ | 8PSK
+ID:
+ BSL2 FEED B SAT B
+Event: 
+UEFA Womens Euro 2025 - FINAL
+    England v Spain
+CW: A2 70 77 89 52 57 8E 37
