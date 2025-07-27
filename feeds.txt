@@ -22,6 +22,16 @@ ID:FCK-ROM (*unnamed-1*)
 1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
 CW: Fta
 ---FEED-SEPARATOR---
+Event :Europe Euro Women - Play Offs - Final
+Teams : England W 
+ Spain W
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+10977 V 7200
+  CRO-024 Bckup (Media Link)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 1E AD B1 7C B7 FB A0 52
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10964 V 14400 |
 4:2:2
