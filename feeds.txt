@@ -1,0 +1,25 @@
+SES 5 @ 05.0E
+3865 
+R
+ight 7200 | 4:2:0 | 8PSK
+ID: 
+AFROBASKET FIBA ABIDJAN MAIN (Mediapro Portugal)
+Event: 
+FIBA Women’s AfroBasket 2025
+Uganda
+ v 
+Senegal
+28 July 2025, 12:00 GMT, Abidjan
+Mozambique
+ v 
+Nigeria
+28 July 2025, 15:00 GMT, Abidjan
+Angola
+ v 
+Côte d’Ivoire
+28 July 2025, 18:00 GMT, Abidjan
+Cameroon
+ v 
+Mali
+28 July 2025, 21:00 GMT, Abidjan
+CW: B2 FE 1C CC EC 19 2F 34
