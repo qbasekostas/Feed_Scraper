@@ -1,3 +1,11 @@
+Moroccan Basketball League Playoffs - FINAL, Game 3
+AS Salé vs FUS Rabat
+21.6E
+11595 H 5000
+DVB-S2 4:2:0 8PSK
+ID: MRCOO5 BAKUP
+CW: FE ED 28 13 07 20 25 4C
+---FEED-SEPARATOR---
 SES 5 @ 05.0E
 3865 
 R
