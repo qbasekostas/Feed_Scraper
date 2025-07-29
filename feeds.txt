@@ -59,6 +59,18 @@ UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]
 Iberia 1999 vs FCI Levadia
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11023 H 7200 | 4:2:0 | 8PSK
+ID: 
+YSM 019 01
+Event:
+UEFA Champions League Qualification – Second Round (2nd Leg)
+Red Star Belgrade
+ v 
+Lincoln Red Imps
+29 July 2025, 19:00 GMT, Belgrade
+CW: 12 34 AB F1 CD 56 78 9B
+---FEED-SEPARATOR---
 Friendly Match - China vs Bosnia & Herzegovina (Game 2)
 100.5°E
 4135 H 7200
