@@ -1,3 +1,11 @@
+Premier League Stories
+100.5°E
+3914 V 7200
+ID : ENC 1
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 33 3A 44 B1 4B 29 82 F6
+---FEED-SEPARATOR---
 Friendly Match - China vs Bosnia & Herzegovina (Game 2)
 100.5°E
 4135 H 7200
