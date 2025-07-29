@@ -6,6 +6,18 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 33 3A 44 B1 4B 29 82 F6
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12654 V 10000 | 4:2:0 | 8PSK
+ID: 
+NLFLEV_HOL-090 CH-C
+Event: 
+Club Friendly Games
+NAC Breda
+ v 
+Volos NPS
+29 July 2025, 17:00 GMT, Sportpark V.V. Victoria ’03, Breda
+CW: CC 12 15 F3 FF BA 11 CA
+---FEED-SEPARATOR---
 Friendly Match - China vs Bosnia & Herzegovina (Game 2)
 100.5°E
 4135 H 7200
