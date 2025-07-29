@@ -18,6 +18,14 @@ Volos NPS
 29 July 2025, 17:00 GMT, Sportpark V.V. Victoria ’03, Breda
 CW: CC 12 15 F3 FF BA 11 CA
 ---FEED-SEPARATOR---
+46E
+11057 H 4800
+ID: URG-001 (georgia)
+4:2:0
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]
+Iberia 1999 vs FCI Levadia
+FTA
+---FEED-SEPARATOR---
 Friendly Match - China vs Bosnia & Herzegovina (Game 2)
 100.5°E
 4135 H 7200
