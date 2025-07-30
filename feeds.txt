@@ -1,4 +1,15 @@
 Eutelsat 7B-7C @ 07.0E
+12686 H 7200 | 4:2:0 | 8PSK
+ID: 
+WPA D-322 Main
+Event: 
+Club Friendly Games
+Sportfreunde Siegen
+ v 
+Borussia Dortmund
+30 July 2025, 16:30 GMT, Leimbachstadion, Siegen
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12677 H 7200 | 4:2:0 | 8PSK
 ID: 
 EHF Final4 BCKP
