@@ -1,3 +1,30 @@
+Eutelsat 10B @ 10.0E
+10722 V 15000 |
+4:2:2
+ | 8PSK
+ID: 
+OVERON 1
+Event: 
+J.League World Challenge
+Yokohama F. Marinos
+ v 
+Liverpool FC
+30 July 2025, 10:30 GMT, Yokohama
+CW: 4B 41 10 9C 3B E1 D1 ED
+(Sorry for being late , didn't expect this)
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12726 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pre Season Friendlies - K L
+Event: 
+Club Friendly Games
+Team K League XI
+ v 
+Newcastle United
+30 July 2025, 11:00 GMT, Suwon
+CW: 12 24 DD 13 CC 12 42 20
+---FEED-SEPARATOR---
 Club Friendly Match - K League All-Stars vs Newcastle United
 100.5°E
 3967 V 7200
