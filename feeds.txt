@@ -27,6 +27,14 @@ CW: 12 24 DD 13 CC 12 42 20
 ---FEED-SEPARATOR---
 Club Friendly Match - K League All-Stars vs Newcastle United
 100.5°E
+3933 H 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 25 42 CC 33 DD 22 31 30
+---FEED-SEPARATOR---
+Club Friendly Match - K League All-Stars vs Newcastle United
+100.5°E
 3967 V 7200
 ID : ktsat mp4 enc1
 DVB-S2 8PSK 4:2:0 1080i
@@ -35,3 +43,17 @@ CW: 25 42 CC 33 DD 22 31 30
 Thanks 
 @HBO
  !
+---FEED-SEPARATOR---
+Super Saiyan said:
+			SES 5 @ 05.0E
+3865 
+R
+ight 7200 | 4:2:0 | 8PSK
+ID: 
+AFROBASKET FIBA ABIDJAN MAIN (Mediapro Portugal)
+Event: 
+FIBA Women’s AfroBasket 2025
+CW: B2 FE 1C CC EC 19 2F 34
+Click to expand...
+New key:  
+61 A9 A7 B1 F6 56 5B A7
