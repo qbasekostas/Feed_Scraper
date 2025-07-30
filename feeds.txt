@@ -1,3 +1,25 @@
+Eutelsat 7B-7C @ 07.0E
+12677 H 7200 | 4:2:0 | 8PSK
+ID: 
+EHF Final4 BCKP
+Event: 
+Club Friendly Games
+RCD Mallorca
+ v 
+Olympique Lyonnais
+30 July 2025, 15:30 GMT, Kufstein Stadium, Austria
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11665 H 7200 | 4:2:0 | 8PSK
+ID: 
+UKI-1462-Main
+Event: 
+Club Friendly Games
+Al Nassr
+ v 
+Toulouse FC
+30 July 2025, 15:30 GMT, Untersberg-Arena, Grödig, Austria
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10722 V 15000 |
 4:2:2
