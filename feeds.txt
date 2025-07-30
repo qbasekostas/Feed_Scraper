@@ -42,6 +42,23 @@ Al Nassr
 Toulouse FC
 30 July 2025, 15:30 GMT, Untersberg-Arena, Grödig, Austria
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3935 H 7500
+PMT PID: 32, SID: 5 @ DUBOU5 (Setanta)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+Wolves vs Lens
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12677 H 7200 | 4:2:0 | 8PSK
+ID: 
+OU8-INERLACE
+Event: 
+Club Friendly Games
+Coventry City (England)
+ v 
+Real Betis (Spain)
+30 July 2025, 18:00 GMT, Coventry Building Society Arena, Coventry
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11692 H 7200 | 4:2:0 | 8PSK
 ID:
@@ -158,6 +175,42 @@ ID:  Iceland (kuklis)
 UEFA Champions League - 2nd Qualifying Round (2nd Leg) [1-7]
 Breidablik v Lech Poznan
 ---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 16A @ 16.0E
+10985 V 9580 | 4:2:0 | 8PSK
+ID: 
+Iceland
+Event: 
+UEFA Champions League Qualification – Second Round (2nd Leg)
+Breiðablik
+ v 
+Lech Poznań
+30 July 2025, 18:30 GMT, Kópavogsvöllur Stadium, Kópavogur, Iceland
+CW: 10 91 62 03 CA EF 25 DE
+Click to expand...
+SR: 9590
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+10985 V 9580 | 4:2:0 | 8PSK
+ID: 
+Iceland
+Event: 
+UEFA Champions League Qualification – Second Round (2nd Leg)
+Breiðablik
+ v 
+Lech Poznań
+30 July 2025, 18:30 GMT, Kópavogsvöllur Stadium, Kópavogur, Iceland
+CW: 10 91 62 03 CA EF 25 DE
+---FEED-SEPARATOR---
+16E
+12574 H 9700 S2 
+QPSK
+ID: SNG ABC 1 (*unnamed-1*)
+4.2.0- DVB-S2 - 8PSK
+UEFA Champions League - 2nd Qualifying Round (2nd Leg) [0-2]
+Panathinaikos v Rangers
+CW: BB 44 AA A9 55 BB 55 65
+---FEED-SEPARATOR---
 Hellasat 3 @ 39.0E
 12644 H 5000 | 4:2:0 | 8PSK
 ID: 
@@ -170,6 +223,12 @@ KF Shkendija
 30 July 2025, 17:30 GMT, Arena Națională, Bucharest
 CW: 30 07 25 5C EF EF EF CD
 ---FEED-SEPARATOR---
+Hellas Sat 3 - 4 (39.0°E)
+Fréquence: 12644 - Pol: H - SR: 5000 - FEC: -    
+Catégorie: Sport - Football    
+Transmis en: MPEG-4 crypté    
+FCSB x Shkendija
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12646 H 6900 | 4:2:0 | 8PSK
 ID: 
@@ -181,6 +240,14 @@ Ludogorets Razgrad
 HNK Rijeka
 30 July 2025, 17:30 GMT, Huvepharma Arena, Razgrad
 CW: 13 20 98 CB 56 74 23 ED
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12677 V 7500 | 4:2:0 | 8PSK
+ID:
+  RBS-BER Worldfeed (RedBull MediaHous
+UEFA Champions League - 2nd Qualifying Round (2nd Leg) [4-1]
+Salzburg vs Brann
+CW: 53 DB CA F8 45 32 BD 34
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11126 V 7200 | 4:2:0 | 8PSK
