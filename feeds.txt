@@ -1,4 +1,15 @@
 Eutelsat 7B-7C @ 07.0E
+11172 H 7200 | 4:2:0 | 8PSK
+ID: 
+E-94 main (MEDIAPRO EU
+Event: 
+Club Friendly Games
+Fulham
+ v 
+Al‑Ittihad Jeddah
+30 July 2025, 17:00 GMT, Cascade Resort Lagos - Campo 1, Portugal
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12686 H 7200 | 4:2:0 | 8PSK
 ID: 
 WPA D-322 Main
