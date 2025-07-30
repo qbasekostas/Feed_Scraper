@@ -103,7 +103,7 @@ V
 DVB-S2-
 4:2:2
 -8PSK
-ID: TUR-129 Backup
+ID: TUR-119 Main
 CW: AA 30 DE B8 7C C2 5A 98
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
@@ -173,25 +173,11 @@ UEFA Champions League - 2nd Qualifying Round (2nd Leg) [1-1]
 ID:  Iceland (kuklis)
 4.2.0- DVB-S2 - 8PSK
 UEFA Champions League - 2nd Qualifying Round (2nd Leg) [1-7]
+now advised not fta.
 Breidablik v Lech Poznan
 ---FEED-SEPARATOR---
-Super Saiyan said:
-			Eutelsat 16A @ 16.0E
-10985 V 9580 | 4:2:0 | 8PSK
-ID: 
-Iceland
-Event: 
-UEFA Champions League Qualification – Second Round (2nd Leg)
-Breiðablik
- v 
-Lech Poznań
-30 July 2025, 18:30 GMT, Kópavogsvöllur Stadium, Kópavogur, Iceland
-CW: 10 91 62 03 CA EF 25 DE
-Click to expand...
-SR: 9590
----FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
-10985 V 9580 | 4:2:0 | 8PSK
+10985 V 9590 | 4:2:0 | 8PSK
 ID: 
 Iceland
 Event: 
@@ -222,12 +208,6 @@ FCSB
 KF Shkendija
 30 July 2025, 17:30 GMT, Arena Națională, Bucharest
 CW: 30 07 25 5C EF EF EF CD
----FEED-SEPARATOR---
-Hellas Sat 3 - 4 (39.0°E)
-Fréquence: 12644 - Pol: H - SR: 5000 - FEC: -    
-Catégorie: Sport - Football    
-Transmis en: MPEG-4 crypté    
-FCSB x Shkendija
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12646 H 6900 | 4:2:0 | 8PSK
