@@ -73,6 +73,25 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : AD5E9AA5CB073103
 Seoul vs Barcelona
 ---FEED-SEPARATOR---
+Event: EuropeEuropa League - Qualification - Quarter-finals
+Teams : Hacken (Swe) 
+ Anderlecht (Bel)
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11180 V 7200
+  SWE-035 BKH - RSCA BRAVIDA ARENA (Mobilelinks)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: FTA
+---FEED-SEPARATOR---
+1.0 West
+12542 V 6000  (possible later 6600) | 4:2:0 | 8PSK
+ID: 
+B 191 DGI
+Event: 
+UEFA Conference League - 2nd Qualifying Round (2nd Leg)
+Universitatea Cluj v Ararat-Armenia
+CW: 31 07 20 58 25 AB C3 93
+---FEED-SEPARATOR---
 Super Saiyan said:
 			SES 5 @ 05.0E
 3865 
