@@ -8,3 +8,10 @@ RCD Mallorca
  v 
 Parma Calcio 1913
 31 July 2025, 09:00 GMT, Wörgl, Austria
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4165 H 7200
+ID : TXout-3 RXout-11
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : AD5E9AA5CB073103
+Seoul vs Barcelona
