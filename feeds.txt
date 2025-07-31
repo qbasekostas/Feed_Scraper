@@ -1,11 +1,3 @@
-changkhongocnghech said:
-			Correct: 12437 
-H
- 27500
-Thanks !!!
-Click to expand...
-yep, sorry typo while writing
----FEED-SEPARATOR---
 fusillo said:
 			13.0°E
 12437 V 27500
@@ -56,6 +48,20 @@ RCD Mallorca
  v 
 Parma Calcio 1913
 31 July 2025, 09:00 GMT, Wörgl, Austria
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4145 H 7200
+PMT PID: 2048, SID: 1 @ TXout-1 RXout-9 (*unnamed-1*)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : AD5E9AA5CB073103
+Seoul vs Barcelona
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3935 H 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 1341CC20AA2422F0
+Arsenal vs Tottenham (maybe)
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 4165 H 7200
