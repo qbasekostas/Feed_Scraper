@@ -73,6 +73,14 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : AD5E9AA5CB073103
 Seoul vs Barcelona
 ---FEED-SEPARATOR---
+46E
+11066 H 9999
+ID: 
+CBC-01
+4:2:0
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-0]
+Sabah vs Petrocub
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11126 V 7200 | 4:2:0 | 8PSK
 ID: 
