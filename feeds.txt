@@ -137,6 +137,19 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: FTA
 ---FEED-SEPARATOR---
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
+Universitatea Craiova v FK Sarajevo
+ ST: 18:30
+1°W
+12533 
+V 
+6000 (possible later 6600)
+DVB-S2-
+4:2:0
+-8PSK
+ID: backup
+CW: 31 07 20 58 25 AB C2 92
+---FEED-SEPARATOR---
 7e
 11189 V 7200
 ID: CZE 041 A (CET 21)
@@ -144,17 +157,6 @@ ID: CZE 041 A (CET 21)
 CW: 31 07 AC E4 20 AB 25 F0
 UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
 Sparta Prague v Aktobe
----FEED-SEPARATOR---
-Akrem said:
-			UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
-Universitatea Craiova v FK Sarajevo
- ST: 18:30
-Click to expand...
-UEFA Conference League - 2nd Qualifying Round
-cluj 
-v
- lugano i guess
-cluj stadium
 ---FEED-SEPARATOR---
 UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-0]
 Universitatea Cluj v Ararat-Armenia
@@ -192,7 +194,7 @@ ID:
 HUN-017/LINE1
 Event: 
 UEFA Conference League - 2nd Qualifying Round (2nd Leg)
-Györ v Pyunik
+Puskás Akadémia FC (Hun) - Aris Limassol FC (Cyp)
 CW: 20 25 ED 32 52 CF FA 1B
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E 
@@ -226,6 +228,30 @@ CFR Cluj v Lugano
 ST: 18:30
 CW: 31 07 20 58 25 AB C3 93
 ---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+10985 V 9600 |
+4:2:2
+ | 8PSK
+ID: 
+POL-90 HDa
+Event: 
+UEFA Europa League - 2nd Qualifying Round (2nd Leg) 
+Legia Warsaw v Baník Ostrava
+CW: 10 91 43 E4 CA 90 25 7F
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+11135 H 7200 | 4:2:0 | 8PSK
+ID: 
+HUN-017/LINE1
+Event: 
+UEFA Conference League - 2nd Qualifying Round (2nd Leg)
+Györ v Pyunik
+CW: 20 25 ED 32 52 CF FA 1B
+Click to expand...
+Wrong info 
+Puskás Akadémia FC (Hun) - Aris Limassol FC (Cyp)
+---FEED-SEPARATOR---
 Event :Europe Conference League - Qualification - Quarter-finals
 Teams : Lausanne (Sui) 
   Vardar (Mkd)
@@ -243,19 +269,6 @@ ID: BER-AEK (UKI-1324
 CW: F6 A7 B8 55 C9 D0 E1 7A
 UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]
 Hapoel Be'er Sheva v AEK Athens
----FEED-SEPARATOR---
-UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
-Universitatea Craiova v FK Sarajevo
- ST: 18:30
-1°W
-12533 
-V 
-6000 (possible later 6600)
-DVB-S2-
-4:2:0
--8PSK
-ID: backup
-CW: 31 07 20 58 25 AB C2 92
 ---FEED-SEPARATOR---
 Super Saiyan said:
 			SES 5 @ 05.0E
