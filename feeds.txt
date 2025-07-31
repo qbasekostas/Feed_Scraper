@@ -228,6 +228,30 @@ CFR Cluj v Lugano
 ST: 18:30
 CW: 31 07 20 58 25 AB C3 93
 ---FEED-SEPARATOR---
+Event:
+Europe Europa League - Qualification - Quarter-finals
+Teams :CFR Cluj (Rou) 
+ Lugano (Sui)
+0,8W
+12540 V 6000
+B 191 DGI
+CW: 31 07 20 58 25 AB C3 93
+---FEED-SEPARATOR---
+UEFA CONFERENCE LEAGUES
+U CLUJ VS ARARAT
+0,8W
+12526 V 6000
+B115DGS
+CW: 31 07 20 58 25 AB C1 91
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11022 H 7200 | 4:2:0 | 8PSK
+ID:
+ YSM 019_02
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-0]
+Partizan Belgrade vs Oleksandria
+CW: 12 34 AB F1 CD 56 78 9B
+---FEED-SEPARATOR---
 7e
 11460 V 9874
 ID: Service 1 (EBUER)
