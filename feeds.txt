@@ -228,6 +228,23 @@ CFR Cluj v Lugano
 ST: 18:30
 CW: 31 07 20 58 25 AB C3 93
 ---FEED-SEPARATOR---
+7e
+11460 V 9874
+ID: Service 1 (EBUER)
+4:2:2
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-0]
+Rapid Vienna v Decic Tuzi
+CW: FE ED 31 1C 07 AB CD 7F
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11692 H 7200 | 4:2:0 | 8PSK
+ID: 
+ZIL vs RCZ MAIN (ONmedia)
+Event: 
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) 
+MSK Zilina v Raków Czestochowa
+CW: 38 17 FF 4E FC 65 91 F2
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 10985 V 9600 |
 4:2:2
@@ -238,19 +255,6 @@ Event:
 UEFA Europa League - 2nd Qualifying Round (2nd Leg) 
 Legia Warsaw v Baník Ostrava
 CW: 10 91 43 E4 CA 90 25 7F
----FEED-SEPARATOR---
-Super Saiyan said:
-			Eutelsat 7B-7C @ 07.0E
-11135 H 7200 | 4:2:0 | 8PSK
-ID: 
-HUN-017/LINE1
-Event: 
-UEFA Conference League - 2nd Qualifying Round (2nd Leg)
-Györ v Pyunik
-CW: 20 25 ED 32 52 CF FA 1B
-Click to expand...
-Wrong info 
-Puskás Akadémia FC (Hun) - Aris Limassol FC (Cyp)
 ---FEED-SEPARATOR---
 Event :Europe Conference League - Qualification - Quarter-finals
 Teams : Lausanne (Sui) 
