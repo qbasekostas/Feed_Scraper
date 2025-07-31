@@ -1,4 +1,15 @@
 Eutelsat 7B-7C @ 07.0E
+11580 V 7200 | 4:2:0 | 8PSK
+ID: 
+OU1 SF
+Event: 
+Club Friendly Games
+AS Monaco
+ v 
+Torino FC
+31 July 2025, 09:30 GMT, Torino
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12646 H 7200 | 4:2:0 | 8PSK
 ID: 
 MAL-OLY
