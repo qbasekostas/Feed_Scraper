@@ -1,15 +1,3 @@
-Eutelsat 7B-7C @ 07.0E
-12726 V 7120 | 4:2:0 | 8PSK
-ID: 
-Pitch - Arsenal v Tottenham
-Event: 
-Club Friendly Games
-Arsenal
- v 
-Tottenham Hotspur
-31 July 2025, 11:30 GMT, Kai Tak Sports Park, Hong Kong
-CW: 13 41 CC 20 AA 24 22 F0
----FEED-SEPARATOR---
 fusillo said:
 			13.0°E
 12437 V 27500
@@ -61,6 +49,18 @@ RCD Mallorca
 Parma Calcio 1913
 31 July 2025, 09:00 GMT, Wörgl, Austria
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12726 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Arsenal v Tottenham
+Event: 
+Club Friendly Games
+Arsenal
+ v 
+Tottenham Hotspur
+31 July 2025, 11:30 GMT, Kai Tak Sports Park, Hong Kong
+CW: 13 41 CC 20 AA 24 22 F0
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 4145 H 7200
 PMT PID: 2048, SID: 1 @ TXout-1 RXout-9 (*unnamed-1*)
@@ -81,3 +81,16 @@ ID : TXout-3 RXout-11
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : AD5E9AA5CB073103
 Seoul vs Barcelona
+---FEED-SEPARATOR---
+Super Saiyan said:
+			SES 5 @ 05.0E
+3865 
+R
+ight 7200 | 4:2:0 | 8PSK
+ID: 
+AFROBASKET FIBA ABIDJAN MAIN (Mediapro Portugal)
+Event: 
+FIBA Women’s AfroBasket 2025
+Click to expand...
+NEW: 
+6A 3F BE 67 26 DC 9B 9D
