@@ -40,6 +40,20 @@ RCD Mallorca
 Parma Calcio 1913
 31 July 2025, 09:00 GMT, Wörgl, Austria
 ---FEED-SEPARATOR---
+Event : World Club Friendly
+Teams :AS Roma (Ita) 
+ Cannes (Fra)
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12522 V 7500
+    ITA 494 MAIN (M-Three satcom)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+16.091 
+Mbit/Sec|8PSK DVB-S2 HD
+CW: AB C4 01 70 55 72 DE A5
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12726 V 7120 | 4:2:0 | 8PSK
 ID: 
@@ -81,6 +95,17 @@ CBC-01
 UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-0]
 Sabah vs Petrocub
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12677 H 7200
+   LTU-005 b/u (Satgate)
+Event :
+Europe Conference League - Qualification - Quarter-finals
+Teams :Banga (Ltu) 
+ Rosenborg (Nor)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: FTA
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11126 V 7200 | 4:2:0 | 8PSK
 ID: 
@@ -99,6 +124,23 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: FTA
 ---FEED-SEPARATOR---
+7e
+12703 V 7200
+ID: TUR 136 A (TRT)
+4:2:0
+CW: 14 52 CA 30 BB 31 24 10
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-0]
+Istanbul Basaksehir v Cherno More Varna
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12606 V  9600
+ID: POL 068 CH2 (Polsat)
+Event: 
+UEFA Conference League Qualifiers - 2nd round second leg: Jagiellonia Białystok - FK Novi Pazar
+4.2.2
+- DVB-S2 - 8PSK
+CW: 20 25 AB F0 CD 31 07 05
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11135 H 7200 | 4:2:0 | 8PSK
 ID: 
@@ -107,6 +149,18 @@ Event:
 UEFA Conference League - 2nd Qualifying Round (2nd Leg)
 Györ v Pyunik
 CW: 20 25 ED 32 52 CF FA 1B
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12594 V 9600
+  POL 068 CH1 (Polsat)
+MPEG4-
+4:2.2
+ HD 1920x1080 |
+19.016
+ Mbit/Sec | 8PSK | DVB-S2 HD
+UEFA Conference League Qualifiers - 2nd round second leg: Jagiellonia Białystok - FK Novi Pazar
+CW: 20 24 AB EF CD 1E CA B5
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12686 H 7200 | 4:2:0 | 8PSK
