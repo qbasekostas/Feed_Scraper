@@ -124,6 +124,44 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: FTA
 ---FEED-SEPARATOR---
+Akrem said:
+			UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
+Universitatea Craiova v FK Sarajevo
+ ST: 18:30
+Click to expand...
+UEFA Conference League - 2nd Qualifying Round
+cluj 
+v
+ lugano i guess
+cluj stadium
+---FEED-SEPARATOR---
+Super Saiyan said:
+			1.0 West
+12542 V 6000  (possible later 6600) | 4:2:0 | 8PSK
+ID: 
+B 191 DGI
+Event: 
+UEFA Conference League - 2nd Qualifying Round (2nd Leg)
+Universitatea Cluj v Ararat-Armenia
+CW: 31 07 20 58 25 AB C3 93
+Click to expand...
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
+Universitatea Craiova v FK Sarajevo
+ ST: 18:30
+---FEED-SEPARATOR---
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-0]
+Universitatea Cluj v Ararat-Armenia
+ ST: 18:00
+1°W
+12526 
+V 
+6000 (possible later 6600) 
+DVB-S2-
+4:2:0
+-8PSK
+ID: B115DGS
+CW: 31 07 20 58 25 AB C1 91
+---FEED-SEPARATOR---
 7e
 12703 V 7200
 ID: TUR 136 A (TRT)
@@ -179,6 +217,27 @@ Event:
 UEFA Conference League - 2nd Qualifying Round (2nd Leg)
 Universitatea Cluj v Ararat-Armenia
 CW: 31 07 20 58 25 AB C3 93
+---FEED-SEPARATOR---
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
+Universitatea Craiova v FK Sarajevo
+ ST: 18:30
+1°W
+12533 
+V 
+6000 (possible later 6600)
+DVB-S2-
+4:2:0
+-8PSK
+ID: backup
+CW: 31 07 20 58 25 AB C2 92
+---FEED-SEPARATOR---
+7e
+11189 V 7200
+ID: CZE 041 A (CET 21)
+4:2:0
+CW: 31 07 AC E4 20 AB 25 F0
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
+Sparta Prague v Aktobe
 ---FEED-SEPARATOR---
 Super Saiyan said:
 			SES 5 @ 05.0E
