@@ -73,6 +73,14 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : AD5E9AA5CB073103
 Seoul vs Barcelona
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11126 V 7200 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 9
+Event: 
+UEFA Europa League - 2nd Qualifying Round (2nd Leg) 
+Shakhtar Donetsk v Besiktas
+---FEED-SEPARATOR---
 Event: EuropeEuropa League - Qualification - Quarter-finals
 Teams : Hacken (Swe) 
  Anderlecht (Bel)
@@ -82,6 +90,24 @@ Eutelsat 7A/7B/7C @ 7.0°E
   SWE-035 BKH - RSCA BRAVIDA ARENA (Mobilelinks)
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: FTA
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11135 H 7200 | 4:2:0 | 8PSK
+ID: 
+HUN-017/LINE1
+Event: 
+UEFA Conference League - 2nd Qualifying Round (2nd Leg)
+Györ v Pyunik
+CW: 20 25 ED 32 52 CF FA 1B
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12686 H 7200 | 4:2:0 | 8PSK
+ID: 
+UEFA CL TNV - HIB
+Event: 
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) 
+Spartak Trnava v Hibernians
+CW: 45 17 AB 07 FF 71 72 E2
 ---FEED-SEPARATOR---
 1.0 West
 12542 V 6000  (possible later 6600) | 4:2:0 | 8PSK
