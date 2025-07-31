@@ -1,3 +1,15 @@
+Eutelsat 7B-7C @ 07.0E
+12726 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Arsenal v Tottenham
+Event: 
+Club Friendly Games
+Arsenal
+ v 
+Tottenham Hotspur
+31 July 2025, 11:30 GMT, Kai Tak Sports Park, Hong Kong
+CW: 13 41 CC 20 AA 24 22 F0
+---FEED-SEPARATOR---
 fusillo said:
 			13.0°E
 12437 V 27500
@@ -61,7 +73,7 @@ TP : 3935 H 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 1341CC20AA2422F0
-Arsenal vs Tottenham (maybe)
+Arsenal vs Tottenham 
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 4165 H 7200
