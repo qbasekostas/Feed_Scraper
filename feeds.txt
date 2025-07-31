@@ -87,6 +87,19 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : AD5E9AA5CB073103
 Seoul vs Barcelona
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11588 V 7200 | 4:2:0 | 8PSK
+ID: MACCABI-TORPEDO
+Event: UEFA Conference League - 2nd Qualifying Round (2nd Leg) 
+    Torpedo-BelAZ
+---FEED-SEPARATOR---
+7e
+11522 V 7200
+ID: ROU015 MAIN (ROSVA)
+4:2:0
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [2-1]
+Beitar Jerusalem vs Sutjeska
+---FEED-SEPARATOR---
 46E
 11066 H 9999
 ID: 
@@ -124,6 +137,14 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: FTA
 ---FEED-SEPARATOR---
+7e
+11189 V 7200
+ID: CZE 041 A (CET 21)
+4:2:0
+CW: 31 07 AC E4 20 AB 25 F0
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
+Sparta Prague v Aktobe
+---FEED-SEPARATOR---
 Akrem said:
 			UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
 Universitatea Craiova v FK Sarajevo
@@ -134,20 +155,6 @@ cluj
 v
  lugano i guess
 cluj stadium
----FEED-SEPARATOR---
-Super Saiyan said:
-			1.0 West
-12542 V 6000  (possible later 6600) | 4:2:0 | 8PSK
-ID: 
-B 191 DGI
-Event: 
-UEFA Conference League - 2nd Qualifying Round (2nd Leg)
-Universitatea Cluj v Ararat-Armenia
-CW: 31 07 20 58 25 AB C3 93
-Click to expand...
-UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
-Universitatea Craiova v FK Sarajevo
- ST: 18:30
 ---FEED-SEPARATOR---
 UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-0]
 Universitatea Cluj v Ararat-Armenia
@@ -213,10 +220,29 @@ CW: 45 17 AB 07 FF 71 72 E2
 12542 V 6000  (possible later 6600) | 4:2:0 | 8PSK
 ID: 
 B 191 DGI
-Event: 
-UEFA Conference League - 2nd Qualifying Round (2nd Leg)
-Universitatea Cluj v Ararat-Armenia
+Event:UEFA
+ Europa League - 2nd Qualifying Round (2nd Leg) [0-0]
+CFR Cluj v Lugano
+ST: 18:30
 CW: 31 07 20 58 25 AB C3 93
+---FEED-SEPARATOR---
+Event :Europe Conference League - Qualification - Quarter-finals
+Teams : Lausanne (Sui) 
+  Vardar (Mkd)
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12645 H 6974
+   Muolen: Do-Jass Mete (SRG SSR)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 20 25 20 65 25 BB CD AD
+---FEED-SEPARATOR---
+7e
+12644 V 7500
+ID: BER-AEK (UKI-1324
+4:2:0
+CW: F6 A7 B8 55 C9 D0 E1 7A
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-1]
+Hapoel Be'er Sheva v AEK Athens
 ---FEED-SEPARATOR---
 UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
 Universitatea Craiova v FK Sarajevo
@@ -230,14 +256,6 @@ DVB-S2-
 -8PSK
 ID: backup
 CW: 31 07 20 58 25 AB C2 92
----FEED-SEPARATOR---
-7e
-11189 V 7200
-ID: CZE 041 A (CET 21)
-4:2:0
-CW: 31 07 AC E4 20 AB 25 F0
-UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-2]
-Sparta Prague v Aktobe
 ---FEED-SEPARATOR---
 Super Saiyan said:
 			SES 5 @ 05.0E
