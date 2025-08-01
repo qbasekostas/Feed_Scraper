@@ -9,6 +9,13 @@ German 2. Bundesliga - Week 1 - Season Opener
 Schalke 04 v Hertha Berlin
 CW: B2 CF EC 6D 4E D1 B3 D2
 ---FEED-SEPARATOR---
+Friendly Match 
+FC Augsburg VS Crystal Palace
+Eutelsat 7B - 7C (7.0°E)    
+11664 - H - 7200 -4:2:0
+Name : OU 1 SF 
+FTA
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12677 
 Horizontal 7200 | 4:2:0 | 8PSK
