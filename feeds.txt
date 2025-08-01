@@ -34,6 +34,16 @@ ID: Service- 1A
 4:2:0
 CW: FTA
 ---FEED-SEPARATOR---
+42e
+11469 V 6800
+4:2:2
+ID: 
+TUR 137-A
+CW: 58 73 00 CB 00 58 73 CB
+Club Friendly
+Genclerbirligi (Tur)
+Ankaragucu (Tur)
+---FEED-SEPARATOR---
 Super Saiyan said:
 			SES 5 @ 05.0E
 3865 
