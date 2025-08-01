@@ -1,3 +1,15 @@
+Eutelsat 7B-7C @ 07.0E
+12677 
+Horizontal 7200 | 4:2:0 | 8PSK
+ID: WPA 
+D-322 Main
+Event: 
+Club Friendly Games
+Fortuna Sittard (Netherlands)
+ v 
+Bayer Leverkusen (Germany)
+1 August 2025, 17:00 GMT, Sittard
+---FEED-SEPARATOR---
 armanb said:
 			Club Friendly Games
 Bremen.vs .Hoffenheim
