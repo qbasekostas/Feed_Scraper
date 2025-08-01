@@ -144,6 +144,14 @@ Club Friendly
 Genclerbirligi (Tur)
 Ankaragucu (Tur)
 ---FEED-SEPARATOR---
+Moroccan Basketball League Playoffs - FINALS, Game 5 (2-2)
+AS Salé vs FUS Rabat
+21.6E
+11580 H 5000
+DVB-S2 4:2:0 8PSK
+ID: MRCOO5 MAIN
+CW: FE ED 01 EC 08 20 25 4D
+---FEED-SEPARATOR---
 Friendly International  Match 
 Lithuania VS Estonia
 ​
