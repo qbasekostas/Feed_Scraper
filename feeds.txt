@@ -18,6 +18,16 @@ German 2. Bundesliga - Week 1 - Season Opener
 Schalke 04 v Hertha Berlin
 CW: B2 CF EC 6D 4E D1 B3 D2
 ---FEED-SEPARATOR---
+16e
+12729 V 10000
+4:2:2
+Service Name: 
+1ARBROATHvAYR-BBC
+Provider 
+Name: UKI1693
+Arbroath
+Ayr
+---FEED-SEPARATOR---
 16E
 12722 V 2000 
 4:2:0
@@ -26,15 +36,39 @@ ID: 3ARBROATH-AYR-BET
 Scottish Championship - Week 1
 Arbroath v Ayr United
 ---FEED-SEPARATOR---
-A.ElSadek said:
-Friendly Match 
-FC Augsburg VS Crystal Palace
-Eutelsat 7B - 7C (7.0°E)    
-11664 - H - 7200 -4:2:0
-Name : OU 1 SF 
-FTA
-Click to expand...
-thx for the end
+English League One - Week 1
+Luton Town v AFC Wimbledon
+ ST: 20:00
+7°E
+11459 
+V 
+7120
+DVB-S2-
+4:2:0
+- 8PSK
+ID:  Pitch EFL Luton Town v Wim
+CW: 48 4D EE 83 F5 25 21 3B
+---FEED-SEPARATOR---
+Scottish Championship - Week 1
+Arbroath v Ayr United
+ ST: 19:45
+7°E
+11126  
+V 
+ 7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:GCUK Enc 5
+CW: EB 92 FC 79 11 FD 94 A2
+---FEED-SEPARATOR---
+EFL League One - Luton Town vs AFC Wimbledon
+100.5°E
+3994 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 48 4D EE 83 F5 25 21 3B
 ---FEED-SEPARATOR---
 Friendly Match 
 FC Augsburg VS Crystal Palace
