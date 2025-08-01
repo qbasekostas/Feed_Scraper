@@ -83,6 +83,15 @@ ID: Service- 1A
 4:2:0
 CW: FTA
 ---FEED-SEPARATOR---
+Club Friendly 
+​
+Samsunspor - Türkiye VS USL Dunkerque - France
+​
+Türksat 3A - 4A (42.0°E)    
+12576 - H - 5000 - MPEG-4.2.0 
+Name : OZGE MEDYA BACK
+ CW : 01 08 20 29 25 00 00 25
+---FEED-SEPARATOR---
 42e
 11469 V 6800
 4:2:2
