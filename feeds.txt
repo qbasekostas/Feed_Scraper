@@ -1,3 +1,12 @@
+Astra 2 @ 28.2E
+12703 V 7200 | 4:2:0 | 8PSK
+ID: 
+D-528 (rt1.tv)
+Event: 
+German 3. Liga - Week 1 - Season Opener
+Rot-Weiss Essen v 1860 Munich
+CW: 01 08 AC B5 DC 39 00 15
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11056 V 9875 |
 4:2:2
