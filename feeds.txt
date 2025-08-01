@@ -9,6 +9,16 @@ German 2. Bundesliga - Week 1 - Season Opener
 Schalke 04 v Hertha Berlin
 CW: B2 CF EC 6D 4E D1 B3 D2
 ---FEED-SEPARATOR---
+A.ElSadek said:
+Friendly Match 
+FC Augsburg VS Crystal Palace
+Eutelsat 7B - 7C (7.0°E)    
+11664 - H - 7200 -4:2:0
+Name : OU 1 SF 
+FTA
+Click to expand...
+thx for the end
+---FEED-SEPARATOR---
 Friendly Match 
 FC Augsburg VS Crystal Palace
 Eutelsat 7B - 7C (7.0°E)    
@@ -73,6 +83,13 @@ CW: 58 73 00 CB 00 58 73 CB
 Club Friendly
 Genclerbirligi (Tur)
 Ankaragucu (Tur)
+---FEED-SEPARATOR---
+Friendly International  Match 
+Lithuania VS Estonia
+​
+Eutelsat 7B - 7C (7.0°E)  
+12728 - Vertical - 7200 -  MPEG-4.2.0 -  Name : LAT-002
+CW : BA 23 DE BB 81 CD 72 C0
 ---FEED-SEPARATOR---
 Super Saiyan said:
 			SES 5 @ 05.0E
