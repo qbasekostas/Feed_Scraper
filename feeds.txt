@@ -1,3 +1,11 @@
+Eutelsat 7B / 7C @ 7° E
+12546 H 7200
+ID: MAL-OLY
+DVB-S2 8PSK | 4:2:0
+Club Friendly Games
+Bremen.vs .Hoffenheim
+FTA
+---FEED-SEPARATOR---
 CLUB FRIENDLY
 Elche (Esp) VS Al Ahli SC (Sau
 7.0E
