@@ -18,6 +18,14 @@ German 2. Bundesliga - Week 1 - Season Opener
 Schalke 04 v Hertha Berlin
 CW: B2 CF EC 6D 4E D1 B3 D2
 ---FEED-SEPARATOR---
+16E
+12722 V 2000 
+4:2:0
+DVB-S2 8PSK
+ID: 3ARBROATH-AYR-BET
+Scottish Championship - Week 1
+Arbroath v Ayr United
+---FEED-SEPARATOR---
 A.ElSadek said:
 Friendly Match 
 FC Augsburg VS Crystal Palace
