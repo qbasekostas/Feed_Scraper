@@ -1,4 +1,15 @@
 Eutelsat 7B-7C @ 07.0E
+11056 V 9875 |
+4:2:2
+ | 8PSK
+ID: 
+D565 GLKN 4C12 B
+Event: 
+German 2. Bundesliga - Week 1 - Season Opener
+Schalke 04 v Hertha Berlin
+CW: B2 CF EC 6D 4E D1 B3 D2
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12677 
 Horizontal 7200 | 4:2:0 | 8PSK
 ID: WPA 
