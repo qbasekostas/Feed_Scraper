@@ -1,3 +1,22 @@
+Astra 1 @ 19.2E
+11428 V 7200 | 4:2:0 | 8PSK
+ID: 
+D510feed1
+Event: 
+German 3. Liga - Week 1
+Osnabrück v Alemannia Aachen
+CW: 02 08 AC B6 DC 39 05 1A
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+TP: 11059 H 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 1080P - 8PSK
+ID: Fal3Enc1
+Bundesliga 2
+Darmstadt
+Bochum
+CW: 20 18 AB E3 BA 81 02 3D
+---FEED-SEPARATOR---
 Astra 2 @ 28.2E
 12703 V 7200 | 4:2:0 | 8PSK
 ID: 
@@ -6,6 +25,16 @@ Event:
 German 3. Liga - Week 1 
 Energie Cottbus v Saarbrücken
 CW: 02 08 AC B6 DC 39 03 18
+---FEED-SEPARATOR---
+Event: England League One - Round 1
+Teams :Cardiff 
+ Peterborough
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11607 V 7120
+ Pitch EFL - Cardiff v Peterborough (NEP Connect)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: B6 B6 C4 30 C3 12 D3 A8
 ---FEED-SEPARATOR---
 EFL League One - Match TBC
 100.5°E
@@ -30,6 +59,16 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: B6 B6 C4 30 C3 12 D3 A8
+---FEED-SEPARATOR---
+Event :World Club Friendly
+Teams : RB Leipzig (Ger) 
+  Atalanta (Ita)
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12546 H 7200
+ RBL-ATA
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: FTA
 ---FEED-SEPARATOR---
 Club Friendly
 Sparta Rotterdam vs OFI Crete
