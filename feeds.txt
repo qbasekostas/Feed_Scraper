@@ -1,3 +1,33 @@
+Any problems with 7E Bundesliga 2 feeds?
+---FEED-SEPARATOR---
+Astra 2 @ 28.2E
+12722 H 7200 | 4:2:0 | 8PSK
+ID: 
+D-361
+Event: 
+German 3. Liga - Week 1
+SV Waldhof Mannheim v Verl
+CW: 02 08 AC B6 DC 39 02 17
+---FEED-SEPARATOR---
+Astra 2 @ 28.2E
+12713 H 7200 | 4:2:0 | 8PSK
+ID: 
+D-473 (rt1.tv)
+Event: 
+German 3. Liga - Week 1
+Ingolstadt v 
+Jahn Regensburg
+CW: 02 08 AC B6 DC 39 01 16
+---FEED-SEPARATOR---
+Astra 1 @ 19.2E
+11604 H 7200 | 4:2:0 | 8PSK
+ID: 
+D-467 Hoffenheim
+Event:
+German 3. Liga - Week 1
+    Hoffenheim II v TSV Havelse
+CW: 02 08 AC B6 DC 39 04 19
+---FEED-SEPARATOR---
 Astra 1 @ 19.2E
 11428 V 7200 | 4:2:0 | 8PSK
 ID: 
@@ -59,6 +89,14 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: B6 B6 C4 30 C3 12 D3 A8
+---FEED-SEPARATOR---
+Club Friendly
+Union Berlin (Germany) vs Espanyol (Spain)
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 04
+FTA
 ---FEED-SEPARATOR---
 Event :World Club Friendly
 Teams : RB Leipzig (Ger) 
