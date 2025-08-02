@@ -180,6 +180,26 @@ Elche CF (Spain)
 Al Ain FC (UAE)
 2 August 2025, 8:00 GMT, San Pedro del Pinatar
 ---FEED-SEPARATOR---
+Club Friendly
+Borussia Mönchengladbach (Germany) vs Valencia (Spain)
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 02
+FTA
+---FEED-SEPARATOR---
+Friendly Club Match
+Marseille v Sevilla
+ ST: 19:00
+7°E
+12676 
+H  
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID: OU5_INTERLACE
+---FEED-SEPARATOR---
 21,6°  E
 11629 H 7200
 DVB-S2 8PSK FEC 3/4
@@ -261,6 +281,19 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: 
 FTA
+---FEED-SEPARATOR---
+Friendly Club Match
+Mönchengladbach v Valencia
+ ST: 19:30
+7°E
+12547 
+H 
+9875
+DVB-S2-
+4:2:0
+- 8PSK
+ID:MĀnchengladbach
+CW: 02 08 AC B6 DC 19 90 85
 ---FEED-SEPARATOR---
 Club Friendly Games
 FC Twente Enschede
