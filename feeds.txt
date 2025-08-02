@@ -167,6 +167,24 @@ Elche CF (Spain)
 Al Ain FC (UAE)
 2 August 2025, 8:00 GMT, San Pedro del Pinatar
 ---FEED-SEPARATOR---
+AhmedCeNa said:
+Club Friendly
+Union Berlin (Germany) vs Espanyol (Spain)
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 04
+FTA
+Click to expand...
+Same event
+Feed Intelsat 34/55.5° W
+4100 H 7200
+DVBS2 8PSK FEC: 3/4
+MPEG4/4:2:0
+Id.: PSSI TELEPORT
+Fútbol Masculino/Amistoso
+1. Fußballclub Union Berlin vs. RCD Espanyol de Barcelona
+---FEED-SEPARATOR---
 Event :World Club Friendly
 Teams : Southampton (Eng) 
   Brighton (Eng)
