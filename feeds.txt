@@ -1,3 +1,12 @@
+Astra 2 @ 28.2E
+12703 V 7200 | 4:2:0 | 8PSK
+ID: 
+D-167 (rt1.tv)
+Event: 
+German 3. Liga - Week 1 
+Energie Cottbus v Saarbrücken
+CW: 02 08 AC B6 DC 39 03 18
+---FEED-SEPARATOR---
 EFL League One - Match TBC
 100.5°E
 3986 V 7120
@@ -21,6 +30,13 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: B6 B6 C4 30 C3 12 D3 A8
+---FEED-SEPARATOR---
+Club Friendly
+Sparta Rotterdam vs OFI Crete
+7е
+12679 H 10000
+ID: NLFLEV_HOL-090 CH-C
+Biss Key: AB2112DECCBB149B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10985 H 7200 | 4:2:0 | 8PSK
