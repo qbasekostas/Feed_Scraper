@@ -1,3 +1,14 @@
+Eutelsat 7B-7C @ 07.0E
+10985 H 7200 | 4:2:0 | 8PSK
+ID: 
+E-95 (Mediapro Portugal)
+Event: 
+Club Friendly Games
+Elche CF (Spain)
+ v 
+Al Ain FC (UAE)
+2 August 2025, 8:00 GMT, San Pedro del Pinatar
+---FEED-SEPARATOR---
 Intelsat 34 55w 
 3792 H 10000
 CW.C5 0E B1 84 5D F8 9D F2
