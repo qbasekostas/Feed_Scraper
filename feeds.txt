@@ -63,6 +63,16 @@ German 3. Liga - Week 1
 Energie Cottbus v Saarbrücken
 CW: 02 08 AC B6 DC 39 03 18
 ---FEED-SEPARATOR---
+bayuware said:
+Hotbird 13B ( 13E )
+10802 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: GCUK Enc 4
+Click to expand...
+CW: EB 81 EA 56 48 DB 36 59
+Scottish Premiership - Week 1
+    Motherwell v Rangers
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11460 V 7120 | 4:2:0 | 8PSK
 ID: 
@@ -169,6 +179,26 @@ Al Ain FC (UAE)
 ---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event :World Club Friendly
+Teams : Southampton (Eng) 
+  Brighton (Eng)
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11684 H 7200
+   OU1 SF (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 
+FTA
+Click to expand...
+Same event
+Feed SES 14/47.5° W
+4148 L 7200
+DVBS2 8PSK
+Id.: E-25 HD TV2GO
+Fútbol masculino amistoso
+Southampton Football Club vs. Brighton & Hove Albion Football Club
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event :World Club Friendly
 Teams : Dortmund (Ger) 
   Lille (Fra)
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -244,3 +274,8 @@ Intelsat 34 55w
 CW.C5 0E B1 84 5D F8 9D F2
 ID.URU VS  ARG CLMAIN
 Copa América Feminina 2025
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12686 H 7200 | 4:2:0 | 8PSK
+ID: ITA_315_Car1
+Event: Trentino Basket Cup - Senegal v Italy
