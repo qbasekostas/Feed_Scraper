@@ -1,3 +1,12 @@
+Astra 1 @ 19.2E
+11441 V 7200 | 4:2:0 | 8PSK
+ID: 
+D-528
+Event: 
+German 3. Liga - Week 1
+Duisburg v Stuttgart II
+CW: 02 08 AC B6 DC 39 06 1B
+---FEED-SEPARATOR---
 Astra 2 @ 28.2E
 12722 H 7200 | 4:2:0 | 8PSK
 ID: 
@@ -75,7 +84,7 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: B6 B6 C4 30 C3 12 D3 A8
 ---FEED-SEPARATOR---
-EFL League One - Match TBC
+EFL League One - Bradford City vs Wycombe Wanderers
 100.5°E
 3986 V 7120
 ID : BT_SES_22_SDI
@@ -83,7 +92,7 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 58 30 C2 4A 4C 4C 25 BD
 ---FEED-SEPARATOR---
-EFL League One - Match TBC
+EFL League Two - Barnet vs Fleetwood Town
 100.5°E
 3967 V 7120
 ID : BT_SES_6_SDI
@@ -157,6 +166,17 @@ Elche CF (Spain)
  v 
 Al Ain FC (UAE)
 2 August 2025, 8:00 GMT, San Pedro del Pinatar
+---FEED-SEPARATOR---
+Event :World Club Friendly
+Teams : Southampton (Eng) 
+  Brighton (Eng)
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11684 H 7200
+   OU1 SF (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 
+FTA
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11666 H 10000 | 4:2:0 | 8PSK
