@@ -167,6 +167,27 @@ Elche CF (Spain)
 Al Ain FC (UAE)
 2 August 2025, 8:00 GMT, San Pedro del Pinatar
 ---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event :World Club Friendly
+Teams : Dortmund (Ger) 
+  Lille (Fra)
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12555 H 7200
+  WPA D-322 Main (WPA D-322 Main)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW:
+FTA
+Click to expand...
+Sam event
+Feed Intelsat 21/58° W
+4094 H 7200
+DVBS2 8PSK-S2 FEC: 3/4
+MPEG4/4:2:0
+Id.: Unname
+Fútbol Masculino/Amistoso
+Borussia Dortmund vs. Lille Olympique Sporting Club
+---FEED-SEPARATOR---
 AhmedCeNa said:
 Club Friendly
 Union Berlin (Germany) vs Espanyol (Spain)
