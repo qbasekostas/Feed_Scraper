@@ -54,6 +54,17 @@ German 3. Liga - Week 1
 Energie Cottbus v Saarbrücken
 CW: 02 08 AC B6 DC 39 03 18
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11460 V 7120 | 4:2:0 | 8PSK
+ID: 
+EFL - Bradtford City v Wycombe
+Event: 
+English League One - Week 1
+Bradford City v Wycombe Wanderers
+orangebirds said:
+CW: 58 30 C2 4A 4C 4C 25 BD
+Click to expand...
+---FEED-SEPARATOR---
 Event: England League One - Round 1
 Teams :Cardiff 
  Peterborough
