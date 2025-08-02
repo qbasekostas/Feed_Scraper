@@ -52,7 +52,7 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 37 3B 23 95 9C A2 AA E8
 ---FEED-SEPARATOR---
-EFL League One - Match TBC
+EFL League One - Cardiff City vs Peterborough United
 100.5°E
 3994 V 7120
 ID : BT_SES_24_SDI
