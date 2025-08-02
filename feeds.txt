@@ -247,6 +247,20 @@ MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: 
 FTA
 ---FEED-SEPARATOR---
+Club Friendly Games
+FC Twente Enschede
+Udinese Calcio
+​
+7°E
+11522 
+V  
+7120
+DVB-S2-
+4:2:0
+- 8PSK
+ID: FC Twente vs Udinese HOL75
+CW: 11 AC D3 90 23 9A 51 0E
+---FEED-SEPARATOR---
 Friendly Club Match
 Galatasaray v Lazio
  ST: 19:00
