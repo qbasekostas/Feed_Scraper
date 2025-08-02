@@ -217,6 +217,19 @@ MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: 
 FTA
 ---FEED-SEPARATOR---
+Friendly Club Match
+Galatasaray v Lazio
+ ST: 19:00
+7°E
+11189 
+V 
+7500
+DVB-S2-
+4:2:2
+- 8PSK
+ID:TUR-119 Main
+CW: 2D EA D8 EF DE A2 5A DA
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11666 H 10000 | 4:2:0 | 8PSK
 ID: 
