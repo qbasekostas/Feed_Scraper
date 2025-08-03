@@ -54,6 +54,15 @@ SID : 1
 CW: 22 79 83 1E 3F 45 2F B3
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
+11126 V 7200 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 3 (GlobeCast UK)
+Event: 
+Scottish Premiership - Week 1
+Falkirk v Dundee United
+CW: EB 81 EA 56 48 DB 36 59
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 11460 V 7120 | 4:2:0 | 8PSK
 ID: 
 Pitch - Stockport v Bolton
@@ -87,6 +96,15 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 23 22 DD 22 CC 24 21 11
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11666 H 10000 | 4:2:0 | 8PSK
+ID: 
+HOL-110 ENC-1
+Event: 
+Friendly Club Match
+    ADO Den Haag v Olympiacos
+CW: CD 15 12 F4 FD BA 11 C8
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11692 H 7120 | 4:2:0 | 8PSK
