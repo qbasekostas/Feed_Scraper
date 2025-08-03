@@ -1,4 +1,13 @@
 Astra 2 @ 28.2E
+12644 H 7200 | 4:2:0 | 8PSK
+ID: 
+D-361 (rt1.tv)
+Event: 
+German 3. Liga - Week 1
+Wehen Wiesbaden v SSV Ulm
+CW: 03 08 AC B7 DC 39 07 1C
+---FEED-SEPARATOR---
+Astra 2 @ 28.2E
 12520 H 7200 | 4:2:0 | 8PSK
 ID: D-528 (rt1.tv)
 Event: German 3. Liga - Week 1
@@ -89,6 +98,46 @@ Stockport County v Bolton Wanderers
 orangebirds said:
 CW: 22 79 83 1E 3F 45 2F B3
 Click to expand...
+---FEED-SEPARATOR---
+xachik said:
+7e
+11597 V 7200
+4:2:0
+ID: 
+POR 33 ENC 1
+Friendly Club
+Video FTA
+FC Porto (Por)
+Atl. Madrid (Esp)
+Click to expand...
+audio encryption
+---FEED-SEPARATOR---
+7e
+11597 V 7200
+4:2:0
+ID: 
+POR 33 ENC 1
+Friendly Club
+Video FTA
+FC Porto (Por)
+Atl. Madrid (Esp)
+---FEED-SEPARATOR---
+mikeisyou said:
+			Friendly Club Match
+Girona vs Wolves
+28°E
+12692 H 9600
+DVB-S2-4:2:0- 8PSK
+ID: E414 Feed Main
+Click to expand...
+Double post
+---FEED-SEPARATOR---
+Friendly Club Match
+Girona vs Wolves
+28°E
+12692 H 9600
+DVB-S2-4:2:0- 8PSK
+ID: E414 Feed Main
 ---FEED-SEPARATOR---
 Akrem said:
 			Friendly Club Match
