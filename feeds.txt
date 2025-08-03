@@ -1,4 +1,11 @@
 Astra 2 @ 28.2E
+12520 H 7200 | 4:2:0 | 8PSK
+ID: D-528 (rt1.tv)
+Event: German 3. Liga - Week 1
+Viktoria Köln v Schweinfurt 05
+CW: 03 08 AC B7 DC 39 08 1D
+---FEED-SEPARATOR---
+Astra 2 @ 28.2E
 12703 V 7200 | 4:2:0 | 8PSK
 ID: 
 D-167 (rt1.tv)
@@ -83,6 +90,21 @@ orangebirds said:
 CW: 22 79 83 1E 3F 45 2F B3
 Click to expand...
 ---FEED-SEPARATOR---
+7°E
+12573
+ H
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:E-95
+---FEED-SEPARATOR---
+Astra 2 @ 28.2E
+12694 V 9600 | 4:2:0 | 8PSK
+ID: E414 Feed Main
+Event:Friendly Club Match
+    Girona v Wolves
+---FEED-SEPARATOR---
 Club Friendly Match - Newcastle United vs Tottenham Hotspur
 100.5°E
 3994 V 7200
@@ -106,6 +128,19 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 23 22 DD 22 CC 24 21 11
+---FEED-SEPARATOR---
+Friendly Club Match
+Brest v Napoli
+ ST: 18:00
+7°E
+12643 
+V  
+7200
+DVB-S2-
+4:2:2
+- 8PSK
+ID:ITA 302
+CW: AB C4 01 70 95 62 DE D5
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11666 H 10000 | 4:2:0 | 8PSK
