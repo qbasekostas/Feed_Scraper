@@ -1,0 +1,23 @@
+Club Friendly Match - Newcastle United vs Tottenham Hotspur
+100.5°E
+3994 V 7200
+ID : ktsat mp4 enc1
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 23 22 DD 22 CC 24 21 11
+---FEED-SEPARATOR---
+Club Friendly Match - Daegu FC vs FC Barcelona (tomorrow)
+100.5°E
+4166 H 7120
+ID : TXout-1 RXout-9
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: AD 5E 9A A5 CB 08 04 D7
+---FEED-SEPARATOR---
+Club Friendly Match - Newcastle United vs Tottenham Hotspur
+100.5°E
+3933 H 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 23 22 DD 22 CC 24 21 11
