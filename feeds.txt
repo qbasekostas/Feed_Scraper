@@ -99,19 +99,6 @@ orangebirds said:
 CW: 22 79 83 1E 3F 45 2F B3
 Click to expand...
 ---FEED-SEPARATOR---
-xachik said:
-7e
-11597 V 7200
-4:2:0
-ID: 
-POR 33 ENC 1
-Friendly Club
-Video FTA
-FC Porto (Por)
-Atl. Madrid (Esp)
-Click to expand...
-audio encryption
----FEED-SEPARATOR---
 7e
 11597 V 7200
 4:2:0
@@ -122,37 +109,7 @@ Video FTA
 FC Porto (Por)
 Atl. Madrid (Esp)
 ---FEED-SEPARATOR---
-mikeisyou said:
-			Friendly Club Match
-Girona vs Wolves
-28°E
-12692 H 9600
-DVB-S2-4:2:0- 8PSK
-ID: E414 Feed Main
-Click to expand...
-Double post
----FEED-SEPARATOR---
-Friendly Club Match
-Girona vs Wolves
-28°E
-12692 H 9600
-DVB-S2-4:2:0- 8PSK
-ID: E414 Feed Main
----FEED-SEPARATOR---
-Akrem said:
-			Friendly Club Match
-7°E
-12573
- H
-7200
-DVB-S2-
-4:2:0
-- 8PSK
-ID:E-95
-Click to expand...
-al sadd-al ettifaq
----FEED-SEPARATOR---
-Friendly Club Match
+Friendly Club Match Al Sadd-Al Ettifaq
 7°E
 12573
  H
