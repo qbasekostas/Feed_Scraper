@@ -1,3 +1,12 @@
+Astra 2 @ 28.2E
+12703 V 7200 | 4:2:0 | 8PSK
+ID: 
+D-167 (rt1.tv)
+Event: 
+German 3. Liga - Week 1
+Erzgebirge Aue v Hansa Rostock
+CW: 03 08 AC B7 DC 39 07 1C
+---FEED-SEPARATOR---
 1.0 West
 11485 V 15000 |
 4:2:2
