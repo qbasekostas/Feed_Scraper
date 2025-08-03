@@ -60,6 +60,16 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 22 79 83 1E 3F 45 2F B3
 ---FEED-SEPARATOR---
+7°E
+11126
+ V 
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:GCUK Enc 3
+CW: EB 81 EA 56 48 DB 36 59
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11135 V 7200 | 4:2:0 | 8PSK
 ID: 
@@ -90,6 +100,20 @@ orangebirds said:
 CW: 22 79 83 1E 3F 45 2F B3
 Click to expand...
 ---FEED-SEPARATOR---
+Akrem said:
+			Friendly Club Match
+7°E
+12573
+ H
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:E-95
+Click to expand...
+al sadd-al ettifaq
+---FEED-SEPARATOR---
+Friendly Club Match
 7°E
 12573
  H
@@ -128,6 +152,21 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 23 22 DD 22 CC 24 21 11
+---FEED-SEPARATOR---
+Akrem said:
+CW: AB C4 01 70 95 62 DE D5
+Click to expand...
+Friendly Club Match
+Brest v Napoli 
+ ST: 18:00
+7°E
+11144
+ V 
+7200
+DVB-S2-
+4:2:2
+- 8PSK
+ID:ITA555
 ---FEED-SEPARATOR---
 Friendly Club Match
 Brest v Napoli
