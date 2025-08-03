@@ -1,3 +1,14 @@
+Eutelsat 7B-7C @ 07.0E
+11460 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Stockport v Bolton
+Event: 
+English League One - Week 1
+Stockport County v Bolton Wanderers
+orangebirds said:
+CW: 22 79 83 1E 3F 45 2F B3
+Click to expand...
+---FEED-SEPARATOR---
 1.0 West
 11485 V 15000 |
 4:2:2
@@ -59,3 +70,14 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 23 22 DD 22 CC 24 21 11
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11692 H 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Pre Season Friendly
+Event: 
+Friendly Club Match
+Tottenham Hotspur v Newcastle United
+orangebirds said:
+CW: 23 22 DD 22 CC 24 21 11
+Click to expand...
