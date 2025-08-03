@@ -54,6 +54,16 @@ SID : 1
 CW: 22 79 83 1E 3F 45 2F B3
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
+11135 V 7200 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 4 (GlobeCast UK)
+Event: 
+Scottish Premiership - Week 1
+Celtic v St Mirren
+CW: EB 81 EA 56 48 DB 36 59
+New #CW: AB 37 CF B1 47 EB 69 9B
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 11126 V 7200 | 4:2:0 | 8PSK
 ID: 
 GCUK Enc 3 (GlobeCast UK)
