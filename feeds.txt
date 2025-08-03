@@ -1,13 +1,39 @@
 1.0 West
-11500 V 7200 | 4:2:2 | 8PSK
-ID: *unnamed-1*
-Event:
+11485 V 15000 |
+4:2:2
+ | 8PSK
+ID: 
+*unnamed-1*
+Event: 
+Scottish Premiership – 1st Round
+Falkirk v Dundee United
+3 August 2025, 13:00 GMT
 CW: 03 D6 FC D5 D8 1F 7D 74
 ---FEED-SEPARATOR---
 1.0 West
-11508 V 7200 | 4:2:2 | 8PSK
-ID: *unnamed-1*
-Event:
+11500 V 7200 |
+4:2:2
+ | 8PSK
+ID: 
+*unnamed-1*
+Event: 
+Scottish Premiership – 1st Round
+Falkirk v Dundee United
+3 August 2025, 13:00 GMT
+CW: 03 D6 FC D5 D8 1F 7D 74
+---FEED-SEPARATOR---
+1.0 West
+11508 V 7200 |
+4:2:2
+ | 8PSK
+ID: 
+*unnamed-1*
+Event: 
+Scottish Premiership – 1st Round
+Celtic
+ v 
+St Mirren
+3 August 2025, 15:30 GMT, Celtic Park, Glasgow
 CW: 03 D6 FC D5 D8 1F 7D 74
 ---FEED-SEPARATOR---
 Club Friendly Match - Newcastle United vs Tottenham Hotspur
