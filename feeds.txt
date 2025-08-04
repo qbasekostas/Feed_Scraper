@@ -42,3 +42,42 @@ SID : 1
 orangebirds said:
 CW: AD 5E 9A A5 CB 08 04 D7
 Click to expand...
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12677 V 7200 | 4:2:0 | 8PSK
+ID: 
+TUR-142 M
+Event: 
+FIBA Asia Cup 2025
+New Zealand
+ v 
+Iraq
+5 August 2025, 08:00 GMT, Jeddah
+Jordan
+ v 
+India
+5 August 2025, 11:00 GMT, Jeddah
+China
+ v 
+Saudi Arabia
+5 August 2025, 15:00 GMT, Jeddah
+Chinese Taipei
+ v 
+Philippines
+5 August 2025, 18:00 GMT, Jeddah
+Abo Saeid Satellite said:
+CW: B2 F7 55 FE 61 6C DB A8
+Click to expand...
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12686 V 7200
+   SAU-031 main (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: B2 F7 55 FE 61 6C DB A8
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+12678 V 7200
+   TUR-142 M (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: B2 F7 55 FE 61 6C DB A8
