@@ -1,3 +1,43 @@
+Scottish Premiership - Week 1
+Hearts v Aberdeen
+ ST: 20:00
+7°E
+11126 
+V 
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:GCUK Enc 5
+CW: FE 99 FB 92 57 BC 23 36
+---FEED-SEPARATOR---
+believing_boy said:
+Friendly Club Match - Anfield Stadium (Match 2 of 2)
+Liverpool v Athletic Bilbao
+Eutelsat 7B/7C 7.0E - 11523 Vertical 7200 4:2:0
+ID:IKOMG
+Free To air
+Click to expand...
+ALSO
+21.6E
+11628 H 7200
+4.2.0
+ID: Service- 1A
+---FEED-SEPARATOR---
+21.6E
+12564 H 7200
+4.2.0
+ID: SAU-033-(QADSIYAH VS SEVILLA)
+Club Friendlies
+Sevilla FC - Al Qadsiah FC
+FTA
+---FEED-SEPARATOR---
+Friendly Club Match - Anfield Stadium (Match 2 of 2)
+Liverpool v Athletic Bilbao
+Eutelsat 7B/7C 7.0E - 11523 Vertical 7200 4:2:0
+ID:IKOMG
+Free To air
+---FEED-SEPARATOR---
 Friendly Club Match 
 UD Leiria
 Al-Ittihad Jeddah
