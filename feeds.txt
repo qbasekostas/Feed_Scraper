@@ -1,3 +1,21 @@
+orangebirds said:
+Club Friendly Match - Daegu FC vs FC Barcelona (another feed)
+100.5°E
+4147 H 7120
+ID : TXout-1 RXout-9
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+Click to expand...
+orangebirds said:
+Club Friendly Match - Daegu FC vs FC Barcelona
+100.5°E
+4166 H 7120
+New ID : TXout-3 RXout-11
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+Click to expand...
+SR 7200
+---FEED-SEPARATOR---
 Club Friendly Match - Daegu FC vs FC Barcelona (another feed)
 100.5°E
 4147 H 7120
