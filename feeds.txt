@@ -1,3 +1,10 @@
+7.0°E
+12523 V 7500
+4:2:2
+ID: ITA 555
+CW: A4 B0 C1 15 D0 E0 F8 A8
+Napoli - Casertana
+---FEED-SEPARATOR---
 Club Friendly Match - Daegu FC vs FC Barcelona
 100.5°E
 4166 H 7120
