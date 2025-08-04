@@ -1,24 +1,6 @@
-orangebirds said:
 Club Friendly Match - Daegu FC vs FC Barcelona (another feed)
 100.5°E
-4147 H 7120
-ID : TXout-1 RXout-9
-DVB-S2 8PSK 4:2:0 1080i
-SID : 1
-Click to expand...
-orangebirds said:
-Club Friendly Match - Daegu FC vs FC Barcelona
-100.5°E
-4166 H 7120
-New ID : TXout-3 RXout-11
-DVB-S2 8PSK 4:2:0 1080i
-SID : 1
-Click to expand...
-SR 7200
----FEED-SEPARATOR---
-Club Friendly Match - Daegu FC vs FC Barcelona (another feed)
-100.5°E
-4147 H 7120
+4147 H 7200
 ID : TXout-1 RXout-9
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
@@ -43,10 +25,32 @@ orangebirds said:
 CW: AD 5E 9A A5 CB 08 04 D7
 Click to expand...
 ---FEED-SEPARATOR---
-Eutelsat 7B-7C @ 07.0E
-12677 V 7200 | 4:2:0 | 8PSK
-ID: 
-TUR-142 M
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12686 V 7200
+   SAU-031 main (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: B2 F7 55 FE 61 6C DB A8
+Event: 
+AsiaAsia Cup - Round 1
+Teams :New Zealand 
+ Iraq
+ 5 August 2025, 08:00 GMT, Jeddah
+Teams :Jordan  
+  India
+ 5 August 2025, 11:00 GMT, Jeddah
+Teams :China 
+ Saudi Arabia
+ 5 August 2025, 15:00 GMT, Jeddah
+Teams :Chinese Taipei 
+ Philippines
+ 5 August 2025, 18:00 GMT, Jeddah
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+12678 V 7200
+   TUR-142 M (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: B2 F7 55 FE 61 6C DB A8
 Event: 
 FIBA Asia Cup 2025
 New Zealand
@@ -65,19 +69,3 @@ Chinese Taipei
  v 
 Philippines
 5 August 2025, 18:00 GMT, Jeddah
-Abo Saeid Satellite said:
-CW: B2 F7 55 FE 61 6C DB A8
-Click to expand...
----FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0°E 
-( KU-BAND )
-12686 V 7200
-   SAU-031 main (*unnamed-1*)
-MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
-CW: B2 F7 55 FE 61 6C DB A8
----FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
-12678 V 7200
-   TUR-142 M (*unnamed-1*)
-MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
-CW: B2 F7 55 FE 61 6C DB A8
