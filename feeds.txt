@@ -11,6 +11,62 @@ DVB-S2-
 ID:GCUK Enc 5
 CW: FE 99 FB 92 57 BC 23 36
 ---FEED-SEPARATOR---
+Akrem said:
+			Friendly Club Match
+Sevilla FC - Al Qadsiah FC
+7°E
+11579
+ V 
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:IKOMG
+Click to expand...
+ALSO
+ 13°E
+12438 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 03
+FTA
+---FEED-SEPARATOR---
+Akrem said:
+			Friendly Club Match
+UD Leiria
+Al-Ittihad Jeddah
+7°E
+11459
+ V 
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:E-95
+Click to expand...
+ALSO
+13°E
+12438 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 02
+FTA
+---FEED-SEPARATOR---
+Friendly Club Match
+Sevilla v Al Qadisiyah
+Eutelsat 7A-7B 7.0E - 11579 Vertical 7200 4.2.0
+ID:IKOMG
+Free to air
+---FEED-SEPARATOR---
+Friendly Club Match
+Sevilla FC - Al Qadsiah FC
+7°E
+11579
+ V 
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:IKOMG
+---FEED-SEPARATOR---
 believing_boy said:
 Friendly Club Match - Anfield Stadium (Match 2 of 2)
 Liverpool v Athletic Bilbao
