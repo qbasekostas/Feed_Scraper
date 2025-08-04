@@ -1,3 +1,15 @@
+Friendly Club Match 
+UD Leiria
+Al-Ittihad Jeddah
+7°E
+11459
+ V 
+7200
+DVB-S2-
+4:2:0
+- 8PSK
+ID:E-95
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3935 H 7500
 PMT PID: 5009, SID: 8 @ DUBOU8 (Setanta)
