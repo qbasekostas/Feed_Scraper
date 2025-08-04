@@ -139,6 +139,14 @@ orangebirds said:
 CW: AD 5E 9A A5 CB 08 04 D7
 Click to expand...
 ---FEED-SEPARATOR---
+Friendly Basketball Match
+France vs Montenegro
+8W
+12672 V 7200
+DVB-S2 4:2:0 8PSK
+ID: VEENEESPACE BASKET
+FTA
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E 
 ( KU-BAND )
 12686 V 7200
