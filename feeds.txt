@@ -1,3 +1,9 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3935 H 7500
+PMT PID: 5009, SID: 8 @ DUBOU8 (Setanta)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+Liverpool vs Ath Bilbao
+---FEED-SEPARATOR---
 Club Friendly Match - Daegu FC vs FC Barcelona (another feed)
 100.5°E
 4147 H 7200
