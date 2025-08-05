@@ -1,0 +1,32 @@
+Frindly Club Match
+AlAIN - ALAHLY
+Eutelsat 7A/7B/7C @ 7.0E
+11523 V 7201
+ID: E-95 (Mediapro Portugal)
+1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
+CW: FTA
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12686 V 7200
+   SAU-031 main (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: B2 F7 55 FE 61 6C DB A8
+Event: 
+AsiaAsia Cup - Round 1
+Teams :New Zealand 
+ Iraq
+ 5 August 2025, 08:00 GMT, Jeddah
+Teams :Jordan  
+  India
+ 5 August 2025, 11:00 GMT, Jeddah
+Teams :China 
+ Saudi Arabia
+ 5 August 2025, 15:00 GMT, Jeddah
+Teams :Chinese Taipei 
+ Philippines
+ 5 August 2025, 18:00 GMT, Jeddah
+Click to expand...
+New CW: 
+E0 D5 F3 A8 42 E1 B2 D5
