@@ -49,6 +49,15 @@ MPEG4-
  Mbit/Sec | 8PSK | DVB-S2 HD
 CW: 70 82 E7 D9 AF 26 61 36
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11021 V 7200 | 4:2:0 | 8PSK
+ID:
+ UKR-018 Main
+Event: 
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Dynamo Kyiv v Pafos FC
+CW: 8F 42 75 46 DE 2A 4C 54
+---FEED-SEPARATOR---
 Eutelsat 7B / 7C @ 7° E
 11021 H 9875
 ID:SAU-032 - MAIN
