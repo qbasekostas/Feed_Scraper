@@ -11,6 +11,15 @@ DVB-S2-
 ID:Empoli-Sassuolo
 CW: 70 82 E7 D9 AF 26 61 36
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12703 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Caraboa Cup Accrington
+Event: 
+English League Cup - Preliminary Round
+Accrington Stanley v Oldham Athletic
+CW: 24 11 CD 02 DC 22 21 1F
+---FEED-SEPARATOR---
 Club Friendly
 Bayer Leverkusen v Pisa SC
 13E
@@ -61,6 +70,19 @@ MPEG4-
 16.016
  Mbit/Sec | 8PSK | DVB-S2 HD
 CW: 70 82 E7 D9 AF 26 61 36
+---FEED-SEPARATOR---
+archiesat said:
+			16E
+12718 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Rangers v Viktoria Plzen
+Click to expand...
++
+12729 V 10000 
+4:2:0
 ---FEED-SEPARATOR---
 16E
 12718 V 10000 
