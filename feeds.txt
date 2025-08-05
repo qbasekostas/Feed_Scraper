@@ -71,6 +71,15 @@ UEFA Champions League - 3rd Qualifying Round (1st Leg)
 Rangers v Viktoria Plzen
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
+11136 V 7200 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 4
+Event: 
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Rangers v Viktoria Plzen
+CW: CA 15 A3 82 3E BC AB A5
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 11126 V 7200 | 4:2:0 | 8PSK
 ID: 
 Malmo FF-FC CPH
