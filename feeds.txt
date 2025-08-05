@@ -119,6 +119,17 @@ UEFA Champions League - 3rd Qualifying Round (1st Leg)
 Dynamo Kyiv v Pafos FC
 CW: 8F 42 75 46 DE 2A 4C 54
 ---FEED-SEPARATOR---
+Astra 2 @ 28.2E
+12510 H 7200 | 4:2:0 | 8PSK
+ID: 
+E-266 8MM Via2
+Event: 
+FIBA EuroBasket 2025 Preparation
+Spain
+ v 
+Portugal
+5 August, 19:00 GMT, Málaga
+---FEED-SEPARATOR---
 Eutelsat 7B / 7C @ 7° E
 11021 H 9875
 ID:SAU-032 - MAIN
