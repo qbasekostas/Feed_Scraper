@@ -15,6 +15,13 @@ ID: E-95 (Mediapro Portugal)
 1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
+11021 H 9875
+ID:SAU-032 - MAIN
+DVB-S2 8PSK | 4:2:0
+FIBA Asia Cup 2025
+CW: :A0 32 BA 8C 09 08 04 15
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Eutelsat 7A/7B/7C @ 7.0°E 
 ( KU-BAND )
