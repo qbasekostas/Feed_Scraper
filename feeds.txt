@@ -1,3 +1,11 @@
+Club Friendly
+Bayer Leverkusen v Pisa SC
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 02
+FTA
+---FEED-SEPARATOR---
 Frindly Club Match
 AlAIN - ALAHLY
 Eutelsat 
@@ -14,6 +22,32 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID: E-95 (Mediapro Portugal)
 1920x1080 |15.680Mb/Sec |8PSK |4:2:0 HD
 CW: FTA
+---FEED-SEPARATOR---
+Event :
+World Club Friendly
+Teams : Bayer Leverkusen (Ger) 
+ Pisa (Ita)
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12677 H 7200
+  WPA D-322 Main (WPA D-322 Main)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: B2 F7 55 FE 61 6C DB A8
+---FEED-SEPARATOR---
+Event: 
+World Club Friendly
+Teams : Empoli (Ita) 
+ Sassuolo (Ita)
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12523 V 7500
+   EMPOLI-SASSUOLO (ITA_570)
+MPEG4-
+4:2.2
+ HD 1920x1080 |
+16.016
+ Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 70 82 E7 D9 AF 26 61 36
 ---FEED-SEPARATOR---
 Eutelsat 7B / 7C @ 7° E
 11021 H 9875
