@@ -1,5 +1,14 @@
 Frindly Club Match
 AlAIN - ALAHLY
+Eutelsat 
+21,6°E
+11629 H 7200
+ID: Service-1A
+1920x1080 |8PSK |4:2:0 HD
+CW: FTA
+---FEED-SEPARATOR---
+Frindly Club Match
+AlAIN - ALAHLY
 Eutelsat 7A/7B/7C @ 7.0E
 11523 V 7201
 ID: E-95 (Mediapro Portugal)
