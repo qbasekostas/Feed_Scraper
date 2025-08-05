@@ -1,3 +1,16 @@
+Friendly Club Match
+Empoli v Sassuolo
+ ST: 17:30
+7°E
+12522 
+V 
+7500
+DVB-S2-
+4:2:2
+-8PSK
+ID:Empoli-Sassuolo
+CW: 70 82 E7 D9 AF 26 61 36
+---FEED-SEPARATOR---
 Club Friendly
 Bayer Leverkusen v Pisa SC
 13E
@@ -48,6 +61,15 @@ MPEG4-
 16.016
  Mbit/Sec | 8PSK | DVB-S2 HD
 CW: 70 82 E7 D9 AF 26 61 36
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11126 V 7200 | 4:2:0 | 8PSK
+ID: 
+Malmo FF-FC CPH
+Event: 
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Malmö v FC Copenhagen
+CW: 20 F8 B6 CE AC 8F 01 3C
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11021 V 7200 | 4:2:0 | 8PSK
