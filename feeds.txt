@@ -9,6 +9,38 @@ Thanks
 @HBO
  !
 ---FEED-SEPARATOR---
+KLDY said:
+Satellite Position:
+ 7E
+Frequency:
+12678 H 7200
+Modulation:
+DVB-S QPSK | FEC: 3/4
+ID:
+ PMT PID: 480, SID: 1 @ D347_FB_Balingen (Schawa TV)
+Event:
+ TSG BALINGEN VS AL-HILAL SFC
+FTA
+Click to expand...
+ALSO
+ 13°E
+12438 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 04
+FTA
+---FEED-SEPARATOR---
+Satellite Position:
+ 7E
+Frequency:
+12678 H 7200
+Modulation:
+DVB-S QPSK | FEC: 3/4
+ID:
+ PMT PID: 480, SID: 1 @ D347_FB_Balingen (Schawa TV)
+Event:
+ TSG BALINGEN VS AL-HILAL SFC
+FTA
+---FEED-SEPARATOR---
 Satellite Position:
 7.0°E - Eutelsat 7E
 Frequency:
