@@ -9,6 +9,20 @@ Thanks
 @HBO
  !
 ---FEED-SEPARATOR---
+Satellite Position:
+7.0°E - Eutelsat 7E
+Frequency:
+11071 H 7199
+Modulation:
+DVB-S2 8PSK | FEC: 3/4 | 4:2:0 
+ID:
+PMT PID: 2048, SID: 1 @ IMG A EU (Eurovision Services)
+Event:
+PRE-Season Friendly ASTON VILLA VS AS ROMA
+Wednesday August 6th 2025. Kick-off is 7:30pm BST
+(CW):
+71 71 31 13 99 88 14 35
+---FEED-SEPARATOR---
 FIBA Asia Cup 2025
 7°E
 12685 
