@@ -9,10 +9,25 @@ Thanks
 @HBO
  !
 ---FEED-SEPARATOR---
-Eutelsat 7B-7C @ 07.0E
+7E
+11559 V 4800
+ID: E-385 FEED 1
+Club Friendly
+Real Oviedo vs Deportivo La Coruna
+FTA
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
 11135 H 7200 | 4:2:0 | 8PSK
 ID: Service 01
 Event:
+Click to expand...
+Betis - Como
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11135 H 7200 | 4:2:0 | 8PSK
+ID: Service 01
+Event: Betis - Como
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11126 H 7200 | 4:2:0 | 8PSK
@@ -73,6 +88,14 @@ ID:
 Event:
  TSG BALINGEN VS AL-HILAL SFC
 FTA
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11522 V 7200 | 4:2:0 | 8PSK
+ID: GCUK Enc 1
+Event: 
+Friendly Club Match
+    Arsenal v Villarreal
+CW: BE B4 CD 3F D1 CE AA 49
 ---FEED-SEPARATOR---
 Event Club Friendly Match - Arsenal vs Villareal
 100.5°E
