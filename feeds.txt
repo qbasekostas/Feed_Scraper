@@ -9,6 +9,39 @@ Thanks
 @HBO
  !
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11135 H 7200 | 4:2:0 | 8PSK
+ID: Service 01
+Event:
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11126 H 7200 | 4:2:0 | 8PSK
+ID: 
+MThree 622 FEED-1
+Event: 
+Club Friendly
+Alavés
+ v 
+Huesca
+6 August 2025, 17:00 GMT
+---FEED-SEPARATOR---
+KLDY said:
+Satellite Position:
+ 7E
+Frequency:
+12678 H 7200
+Modulation:
+DVB-S QPSK | FEC: 3/4
+ID:
+ PMT PID: 480, SID: 1 @ D347_FB_Balingen (Schawa TV)
+Event:
+ TSG BALINGEN VS AL-HILAL SFC
+FTA
+Click to expand...
+21E
+11624 H 7200
+ID: Service-1A
+---FEED-SEPARATOR---
 KLDY said:
 Satellite Position:
  7E
@@ -41,6 +74,14 @@ Event:
  TSG BALINGEN VS AL-HILAL SFC
 FTA
 ---FEED-SEPARATOR---
+Event Club Friendly Match - Arsenal vs Villareal
+100.5°E
+3907 H 7500
+ID : BT_SES_10_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 59 01 8D E7 41 CA 26 31
+---FEED-SEPARATOR---
 Satellite Position:
 7.0°E - Eutelsat 7E
 Frequency:
@@ -54,6 +95,43 @@ PRE-Season Friendly ASTON VILLA VS AS ROMA
 Wednesday August 6th 2025. Kick-off is 7:30pm BST
 (CW):
 71 71 31 13 99 88 14 35
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11145 V 7200 | 4:2:0 | 8PSK
+ID: 
+F489 MAIN
+Event: 
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Nice v Benfica
+CW: EE DD 20 EB 25 06 08 33
+---FEED-SEPARATOR---
+7e
+12695 V 7500
+4:2:0
+ID:  RBS-BRU Worldfeed (RedBull MediaHouse)
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Salzburg vs Club Brugge
+CW: 43 DC BA D9 43 25 AD 15
+---FEED-SEPARATOR---
+Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)  
+Frequency: 12540 - Pol: V - SR: 6660 - FEC: -
+Category: Sport - Basketball
+Transmitted in: MPEG-4
+ID: B 191 DGI
+World Cup - Qualification 2027
+Romania
+Hungary
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12643 V 7200 | 4:2:0 | 8PSK
+ID: 
+GRE VS BEL A
+Event: 
+International Basketball Friendly
+Greece
+ v 
+Belgium
+CW: 8F 75 B6 BA 77 89 C3 C3
 ---FEED-SEPARATOR---
 FIBA Asia Cup 2025
 7°E
