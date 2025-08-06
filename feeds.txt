@@ -111,6 +111,15 @@ Wednesday August 6th 2025. Kick-off is 7:30pm BST
 (CW):
 71 71 31 13 99 88 14 35
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11608 H 7200 | 4:2:0 | 8PSK
+ID: 
+2Sat HOL307 MAIN
+Event: 
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Feyenoord v Fenerbahçe
+CW: F3 07 CB C5 06 EA 08 F8
+---FEED-SEPARATOR---
 16E
 10973 V 9600
 ID: POL 030 (Provider)
