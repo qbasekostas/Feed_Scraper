@@ -16,14 +16,6 @@ Club Friendly
 Real Oviedo vs Deportivo La Coruna
 FTA
 ---FEED-SEPARATOR---
-Super Saiyan said:
-			Eutelsat 7B-7C @ 07.0E
-11135 H 7200 | 4:2:0 | 8PSK
-ID: Service 01
-Event:
-Click to expand...
-Betis - Como
----FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11135 H 7200 | 4:2:0 | 8PSK
 ID: Service 01
@@ -118,6 +110,23 @@ PRE-Season Friendly ASTON VILLA VS AS ROMA
 Wednesday August 6th 2025. Kick-off is 7:30pm BST
 (CW):
 71 71 31 13 99 88 14 35
+---FEED-SEPARATOR---
+16E
+10973 V 9600
+ID: POL 030 (Provider)
+4:2:2
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Lech Poznan v Red Star Belgrade
+CW: 20 25 CA 0F E5 86 40 AB
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12685 H 6900 | 4:2:0 | 8PSK
+ID: 
+ATV Broadcast Solutions (*unnamed-1*)
+Event:
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Ludogorets vs Ferencváros
+CW: 29 03 49 75 87 65 12 FE
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11145 V 7200 | 4:2:0 | 8PSK
