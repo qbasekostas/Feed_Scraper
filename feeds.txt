@@ -1,3 +1,12 @@
+Eutelsat 7B-7C @ 07.0E
+12704 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch EFL - Port Vale v Cardiff
+orangebirds said:
+EFL League One - Port Vale vs Cardiff City
+CW: 4F 4E 43 E0 92 B2 21 65
+Click to expand...
+---FEED-SEPARATOR---
 EFL League One - Port Vale vs Cardiff City
 100.5°E
 3994 V 7120
@@ -21,6 +30,20 @@ ID:  E-289 (Mediapro Portugal)
 Club Friendly
 Rio Ave v Al Nassr
 FTA
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12645 H 7200 | 4:2:2 | 8PSK
+ID: Service 1
+Event: UEFA Conference League - 3rd Qualifying Round (1st Leg)
+    Rapid Vienna v Dundee United
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12634 V 7200 | 4:2:0 | 8PSK
+ID: 
+YSM-013M
+Event: 
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Partizan Belgrade v Hibernian
 ---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 12564 H 4935 | 4:2:0 | 8PSK
@@ -105,30 +128,6 @@ St. Patrick's vs  Besiktas
 ID: St patricks vs Besiktas
 CW: 13 3A 1A 67 CE 45 55 68
 ---FEED-SEPARATOR---
-Super Saiyan said:
-			1.0 West
-12542 V 6600 | 4:2:0 | 8PSK
-ID: 
-B 191 DGI
-Event: 
-UEFA Europa League - 3rd Qualifying Round (1st Leg)
-CFR Cluj v Sporting Braga
-CW: 07 08 20 2F 25 AB C1 91
-Click to expand...
-12542 V 6660
----FEED-SEPARATOR---
-Super Saiyan said:
-			1.0 West
-12528 V 6600 | 4:2:0 | 8PSK
-ID: 
-backup
-Event: 
-UEFA Conference League - 3rd Qualifying Round (1st Leg)
-Universitatea Craiova v Spartak Trnava
-CW: 07 08 20 2F 25 AB C2 92
-Click to expand...
-12528 V 6660
----FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12654 V 9600 | 4:2:0 | 8PSK
 ID: 
@@ -137,18 +136,6 @@ Event:
 UEFA Europa League - 3rd Qualifying Round (1st Leg)
 Panathinaikos v Shakhtar Donetsk
 CW: 44 BB 22 21 CC 55 AA CB
----FEED-SEPARATOR---
-sattechtips said:
-			16E
-10985 V 9600
-ID: POL 030 (Provider)
-4:2:2
-UEFA Conference League - 3rd Qualifying Round (1st Leg)
-Raków Czestochowa v Maccabi Haifa
-CW: DC AE 20 AA 25 BB 08 E8
-Click to expand...
-New: 
-10 92 51 F3 CA 25 EF DE
 ---FEED-SEPARATOR---
 sattechtips said:
 			16E
