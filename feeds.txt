@@ -1,4 +1,21 @@
 Eutelsat 7B-7C @ 07.0E
+12704 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - The FA Community Shield
+Event: 
+FA Community Shield Final
+ (TEST FEED)
+CW: 67 DA AA EB 31 07 08 40
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11522 V 7200 | 4:2:0 | 8PSK
+ID:
+ IKOMG
+Event: 
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+AIK Stockholm v Györ
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 11460 V 7200 | 4:2:0 | 8PSK
 ID: 
 CBC-01
@@ -6,6 +23,8 @@ Event:
 UEFA Conference League - 3rd Qualifying Round (1st Leg)
 Araz v Omonia Nicosia
 ---FEED-SEPARATOR---
+UEFA Conference League -
+AEK Larnaca vs Legia
 7.0E
 11128 V 9875
 4.2.0 HD
@@ -49,6 +68,49 @@ UEFA Europa League - 3rd Qualifying Round (1st Leg)
 CFR Cluj v Sporting Braga
 CW: 07 08 20 2F 25 AB C1 91
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12686 H 7200 | 4:2:0 | 8PSK
+ID: 
+DNK47 ENC 1
+Event: 
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Silkeborg v Jagiellonia
+CW: 1B 4F C3 2D FD 2A E5 0C
+---FEED-SEPARATOR---
+1.0 West
+12528 V 6600 | 4:2:0 | 8PSK
+ID: 
+backup
+Event: 
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Universitatea Craiova v Spartak Trnava
+CW: 07 08 20 2F 25 AB C2 92
+---FEED-SEPARATOR---
+UEFA Europa League
+Hacken vs  Bran
+7.0E
+12545 H 7200
+4.2.0 HD
+ID: SWE -043 BK Hac-Bra
+CW: 7C 8D 9E A7 0F 12 34 55
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12555 H 7200 | 4:2:0 | 8PSK
+ID: 
+paok vs wolfsberger
+Event: 
+UEFA Europa League - 3rd Qualifying Round (1st Leg)
+PAOK Thessaloniki v Wolfsberger AC
+CW: 30 21 12 63 12 20 93 C5
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12677 H 6900 | 4:2:0 | 8PSK
+ID: 
+ATV Broadcast Solutions (*unnamed-1*)
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Levski Sofia v Sabah
+CW: 41 23 56 BA 98 70 21 29
+---FEED-SEPARATOR---
 FIBA Asia Cup 2025
 Eutelsat 7B/7C @ 7.0E
 12676 V 7200
@@ -56,6 +118,15 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:TUR-142 M 
 CW: 12 1B 1C 49 DD 4E FB 26
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12695 V 7200 | 4:2:0 | 8PSK
+ID: 
+TUR 126 A
+Event: 
+FIBA EuroBasket 2025 Preparation Game
+Turkey v Lithuania
+CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12685 V 7200
