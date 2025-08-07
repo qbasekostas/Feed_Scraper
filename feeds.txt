@@ -23,6 +23,14 @@ Event:
 UEFA Conference League - 3rd Qualifying Round (1st Leg)
 Araz v Omonia Nicosia
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12677 H 6900 | 4:2:0 | 8PSK
+ID: 
+ATV Broadcast Solutions (*unnamed-1*)
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Levski Sofia v Sabah
+CW: 41 23 56 BA 98 70 21 29
+---FEED-SEPARATOR---
 UEFA Conference League -
 AEK Larnaca vs Legia
 7.0E
@@ -48,8 +56,6 @@ UEFA Conference League - 3rd Qualifying Round (1st Leg)
 Aris Limassol v AEK Athens
 CW: E2 31 21 34 D3 BA 8B 18
 ---FEED-SEPARATOR---
-Sorry bad double post
----FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12546 H 7200 | 4:2:0 | 8PSK
 ID
@@ -67,6 +73,14 @@ Event:
 UEFA Europa League - 3rd Qualifying Round (1st Leg)
 CFR Cluj v Sporting Braga
 CW: 07 08 20 2F 25 AB C1 91
+---FEED-SEPARATOR---
+16E
+12547 H 7200
+ID: SNG 022 MAIN (PRO.TV)
+4:2:2
+UEFA Europa League - 3rd Qualifying Round (1st Leg)
+FCSB vs Drita
+CW: 03 09 20 2C 07 12 22 3B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12686 H 7200 | 4:2:0 | 8PSK
@@ -102,14 +116,6 @@ Event:
 UEFA Europa League - 3rd Qualifying Round (1st Leg)
 PAOK Thessaloniki v Wolfsberger AC
 CW: 30 21 12 63 12 20 93 C5
----FEED-SEPARATOR---
-Eutelsat 7B-7C @ 07.0E
-12677 H 6900 | 4:2:0 | 8PSK
-ID: 
-ATV Broadcast Solutions (*unnamed-1*)
-UEFA Conference League - 3rd Qualifying Round (1st Leg)
-Levski Sofia v Sabah
-CW: 41 23 56 BA 98 70 21 29
 ---FEED-SEPARATOR---
 FIBA Asia Cup 2025
 Eutelsat 7B/7C @ 7.0E
