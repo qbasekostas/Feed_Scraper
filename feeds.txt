@@ -7,6 +7,17 @@ UEFA Conference League - 3rd Qualifying Round (1st Leg)
 Araz v Omonia Nicosia
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
+11188 V 9875 | 4:2:0 | 8PSK
+ID: 
+UIKI-027
+Event: 
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Aris Limassol v AEK Athens
+CW: E2 31 21 34 D3 BA 8B 18
+---FEED-SEPARATOR---
+Sorry bad double post
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12546 H 7200 | 4:2:0 | 8PSK
 ID
 : SWE-043 BK Hac-Bra
