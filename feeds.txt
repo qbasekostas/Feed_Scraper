@@ -6,6 +6,20 @@ Event:
 UEFA Conference League - 3rd Qualifying Round (1st Leg)
 Araz v Omonia Nicosia
 ---FEED-SEPARATOR---
+7.0E
+11128 V 9875
+4.2.0 HD
+ID: AEK vs LEGIA W
+CW: E2 81 21 84 B3 BA 9A 07
+---FEED-SEPARATOR---
+16E
+10985 V 9600
+ID: POL 030 (Provider)
+4:2:2
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Raków Czestochowa v Maccabi Haifa
+CW: DC AE 20 AA 25 BB 08 E8
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11188 V 9875 | 4:2:0 | 8PSK
 ID: 
