@@ -24,6 +24,19 @@ FA Community Shield Final
  (TEST FEED)
 CW: 67 DA AA EB 31 07 08 40
 ---FEED-SEPARATOR---
+sattechtips said:
+			7E
+11163 V 7200
+ID:  E-289 (Mediapro Portugal)
+Club Friendly
+Rio Ave v Al Nassr
+FTA
+Click to expand...
++
+21.5E
+11627 H 7200
+ID: Service- 1A (Service Provider)
+---FEED-SEPARATOR---
 7E
 11163 V 7200
 ID:  E-289 (Mediapro Portugal)
@@ -32,10 +45,14 @@ Rio Ave v Al Nassr
 FTA
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
-12645 H 7200 | 4:2:2 | 8PSK
-ID: Service 1
-Event: UEFA Conference League - 3rd Qualifying Round (1st Leg)
-    Rapid Vienna v Dundee United
+12645 H 7200 |
+4:2:2
+ | 8PSK
+ID: 
+Service 1
+Event: 
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Rapid Vienna v Dundee United
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12634 V 7200 | 4:2:0 | 8PSK
