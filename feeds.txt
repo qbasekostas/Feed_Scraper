@@ -1,3 +1,20 @@
+Eutelsat 7B-7C @ 07.0E
+11460 V 7200 | 4:2:0 | 8PSK
+ID: 
+CBC-01
+Event: 
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Araz v Omonia Nicosia
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12546 H 7200 | 4:2:0 | 8PSK
+ID
+: SWE-043 BK Hac-Bra
+Event: 
+UEFA Europa League - 3rd Qualifying Round (1st Leg)
+BK Häcken v Brann
+CW: 7C 8D 9E A7 0F 12 34 55
+---FEED-SEPARATOR---
 1.0 West
 12542 V 6600 | 4:2:0 | 8PSK
 ID: 
