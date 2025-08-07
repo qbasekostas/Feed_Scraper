@@ -1,3 +1,11 @@
+EFL League One - Port Vale vs Cardiff City
+100.5°E
+3994 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 4F 4E 43 E0 92 B2 21 65
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12704 V 7120 | 4:2:0 | 8PSK
 ID: 
@@ -6,6 +14,13 @@ Event:
 FA Community Shield Final
  (TEST FEED)
 CW: 67 DA AA EB 31 07 08 40
+---FEED-SEPARATOR---
+7E
+11163 V 7200
+ID:  E-289 (Mediapro Portugal)
+Club Friendly
+Rio Ave v Al Nassr
+FTA
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11522 V 7200 | 4:2:0 | 8PSK
@@ -74,6 +89,23 @@ UEFA Europa League - 3rd Qualifying Round (1st Leg)
 CFR Cluj v Sporting Braga
 CW: 07 08 20 2F 25 AB C1 91
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12643 V 6975 | 4:2:0 | 8PSK
+ID: 
+FB Lausanne - Astana
+Event: 
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Lausanne Sport v Astana
+CW: 20 25 20 65 25 BB CD AD
+---FEED-SEPARATOR---
+16E
+12556 H 7200
+ID:  CZE-012-M-SPARTA-ARARAT
+4:2:0
+UEFA Conference League - 3rd Qualifying Round (1st Leg)
+Sparta Prague v Ararat-Armenia
+CW: 24 BD 15 F6 3E 41 DA 59
+---FEED-SEPARATOR---
 16E
 12547 H 7200
 ID: SNG 022 MAIN (PRO.TV)
@@ -99,14 +131,6 @@ Event:
 UEFA Conference League - 3rd Qualifying Round (1st Leg)
 Universitatea Craiova v Spartak Trnava
 CW: 07 08 20 2F 25 AB C2 92
----FEED-SEPARATOR---
-UEFA Europa League
-Hacken vs  Bran
-7.0E
-12545 H 7200
-4.2.0 HD
-ID: SWE -043 BK Hac-Bra
-CW: 7C 8D 9E A7 0F 12 34 55
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12555 H 7200 | 4:2:0 | 8PSK
