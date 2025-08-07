@@ -1,0 +1,17 @@
+FIBA Asia Cup 2025
+Eutelsat 7B/7C @ 7.0E
+12676 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:TUR-142 M 
+CW: 12 1B 1C 49 DD 4E FB 26
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12685 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: SAU-031 main
+Albahraniy said:
+FIBA Asia Cup 2025
+CW: 12 1B 1C 49 DD 4E FB 26
+Click to expand...
