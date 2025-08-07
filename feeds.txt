@@ -1,3 +1,12 @@
+1.0 West
+12542 V 6600 | 4:2:0 | 8PSK
+ID: 
+B 191 DGI
+Event: 
+UEFA Europa League - 3rd Qualifying Round (1st Leg)
+CFR Cluj v Sporting Braga
+CW: 07 08 20 2F 25 AB C1 91
+---FEED-SEPARATOR---
 FIBA Asia Cup 2025
 Eutelsat 7B/7C @ 7.0E
 12676 V 7200
