@@ -1,0 +1,17 @@
+Eutelsat 7B/7C @ 7.0E
+11189 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:TUR-142 M
+Albahraniy said:
+FIBA Asia Cup 2025
+CW: C3 E7 29 D3 65 3D 2A CC
+Click to expand...
+---FEED-SEPARATOR---
+FIBA Asia Cup 2025
+Eutelsat 7B/7C @ 7.0E
+12685 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  SAU-031 main
+CW: C3 E7 29 D3 65 3D 2A CC
