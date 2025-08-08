@@ -1,15 +1,22 @@
-HBO said:
-			AsiaSat 5 - 100.5 E - CBand
-TP : 3933 H 7500
-PMT PID: 1000, SID: 1 @ Direkt (Intinor)
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-Chelsea vs Bayer Leverkusen
-Click to expand...
+Verdeoro said:
 ALSO
- 13°E
+13°E
 12438 H 27500
 DVB-S2 4:2:0 8PSK
 ID: Service 02
+FTA
+Click to expand...
+Match:  
+Monaco vs Internazionale
+Thanks !!!
+---FEED-SEPARATOR---
+Hotbird @ 13.0E
+12438 H 27500
+DVB-S2 4:2:0 8PSK
+ID: 
+Service 02
+Event:
+ Friendly Club Match - Monaco vs Inter
 FTA
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
