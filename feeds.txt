@@ -1,10 +1,29 @@
 16E
+12727 V 2000 
+4:2:0
+DVB-S2 16APSK
+ID: Service 01
+Scottish Championship - Week 2
+Ross County v St Johnstone
+---FEED-SEPARATOR---
+16E
 12708 V 10000 
 4:2:0
 DVB-S2 16APSK
 ID: Uki-1592
 Scottish Championship - Week 2
 Ross County v St Johnstone
+---FEED-SEPARATOR---
+7.0E
+12704 
+V 
+7120 4:2:0
+DVBS2 8PSK
+ID: 
+Pitch EFL - Birmingham v Ipswich
+CW: DD 2A 34 3B 05 35 C3 FD
+English Championship - Week 1
+Birmingham City v Ipswich Town
 ---FEED-SEPARATOR---
 Hotbird @ 13.0E
 12438 H 27500
@@ -20,6 +39,14 @@ TP : 3933 H 7500
 PMT PID: 1000, SID: 1 @ Direkt (Intinor)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 Chelsea vs Bayer Leverkusen
+---FEED-SEPARATOR---
+7E
+12696 - Vertical - SR: 7120
+ID: Pitch - Newcastle v RCD Esp
+CW: 24 21 AD F2 DA 35 33 42
+Friendly Match 
+Newcastle United VS Espanyol
+​
 ---FEED-SEPARATOR---
 7E
 12640 - Vertical - 10000 - 4:2:0 
