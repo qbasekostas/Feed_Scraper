@@ -9,10 +9,21 @@ Ross County v St Johnstone
 16E
 12708 V 10000 
 4:2:0
+12718 V 10000
+4:2:0
 DVB-S2 16APSK
 ID: Uki-1592
 Scottish Championship - Week 2
 Ross County v St Johnstone
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10737 H 7200 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 3 (GlobeCast UK)
+Event:
+Scottish Championship - Week 2
+Ross County v St Johnstone
+CW: C3 AA EF 5C 22 45 12 79
 ---FEED-SEPARATOR---
 7.0E
 12704 
