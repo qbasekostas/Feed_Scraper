@@ -1,6 +1,27 @@
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3933 H 7500
+PMT PID: 1000, SID: 1 @ Direkt (Intinor)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+Chelsea vs Bayer Leverkusen
+Click to expand...
+ALSO
+ 13°E
+12438 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 02
+FTA
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3933 H 7500
+PMT PID: 1000, SID: 1 @ Direkt (Intinor)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+Chelsea vs Bayer Leverkusen
+---FEED-SEPARATOR---
 7E
 12640 - Vertical - 10000 - 4:2:0 
 Name : HOL-110 ENC-1
+Al-Taawoun - Saudi Arabia VS Olympiacos - Greece
 CW :  CC 32 14 12 FF AA 12 BB
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
