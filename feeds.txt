@@ -1,4 +1,49 @@
-EFL Championship - Stoke City vs Derby
+28.2E
+12722 H 7200 
+4:2:0
+DVB-S2 - 8PSK
+ID D-167 Backup Havelse 3 Bund
+CW: 09 08 AC BD DC 05 08 E9
+German 3. Liga - Week 2
+TSV Havelse v Rot-Weiss Essen
+---FEED-SEPARATOR---
+28.2E
+12713 H 7200 
+4:2:0
+DVB-S2 - 8PSK
+ID TSV 1860 Mn
+CW: 09 08 AC BD DC 05 07 E8
+German 3. Liga - Week 2
+1860 Munich v Osnabrück
+---FEED-SEPARATOR---
+28.2E
+12633 H 7200 
+4:2:0
+DVB-S2 - 8PSK
+ID D-109
+CW: 09 08 AC BD DC 05 05 E6
+German 3. Liga - Week 2
+Alemannia Aachen v Hoffenheim II
+---FEED-SEPARATOR---
+28.2E
+12624 H 7200 
+4:2:0
+DVB-S2 - 8PSK
+ID MD02 TV06 Saarbruecken
+CW: 09 08 AC BD DC 05 04 E5
+German 3. Liga - Week 2
+Saarbrücken v Viktoria Cologne
+---FEED-SEPARATOR---
+28.2E
+12643 H 7200 
+4:2:0
+DVB-S2 - 8PSK
+ID D-361 Ulm
+CW: 09 08 AC BD DC 05 06 E7
+German 3. Liga - Week 2
+SSV Ulm v Erzgebirge Aue
+---FEED-SEPARATOR---
+EFL Championship - Stoke City vs Derby County
 100.5°E
 3986 V 7120
 ID : BT_SES_22_SDI
@@ -30,6 +75,20 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: EB EA 25 FA 26 C7 99 86
+---FEED-SEPARATOR---
+Club Friendly Match - Leeds United vs AC Milan
+100.5°E
+3933 H 7200
+ID : DUBOU8
+DVB-S2 8PSK 4:2:0 1080i
+FTA
+---FEED-SEPARATOR---
+Club Friendly Match - Wolverhampton Wanderers vs Celta Vigo
+100.5°E
+3916 H 7200
+ID : SRT6
+DVB-S2 8PSK 4:2:0 1080i
+FTA
 ---FEED-SEPARATOR---
 Hotbird @ 13.0E
 12438 H 27500
