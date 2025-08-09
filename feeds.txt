@@ -1,3 +1,18 @@
+EFL Championship - Stoke City vs Derby
+100.5°E
+3986 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 86 88 31 3F 1A 45 63 C2
+---FEED-SEPARATOR---
+0.8°W
+11464 V 7200
+4:2:0
+ID: unnamed
+SPL: Livingston F.C. vs Falkirk 
+CW: FA A4 41 DF A1 EF 49 D9
+---FEED-SEPARATOR---
 orangebirds said:
 EFL Championship - Southampton vs Wrexham
 DVB-S2 8PSK 4:2:0 1080i
@@ -15,6 +30,15 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: EB EA 25 FA 26 C7 99 86
+---FEED-SEPARATOR---
+Hotbird @ 13.0E
+12438 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 04
+FTA
+club friendly
+Werder Bremen (Ger)
+Udinese (Ita)
 ---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
