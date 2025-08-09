@@ -226,6 +226,29 @@ Event:
 Man United v Fiorentina
  (MUTV Feed)
 ---FEED-SEPARATOR---
+omid1348 said:
+Club Friendlies
+Nottingham Forest F.C. - Al Qadsiah FC
+Click to expand...
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 03
+FTA
+---FEED-SEPARATOR---
+21.6E
+11628 H 7200
+4.2.0
+ID: Service- 1A
+Club Friendlies
+Nottingham Forest F.C. - Al Qadsiah FC
+FTA
+---FEED-SEPARATOR---
+7e
+11588 v 7200
+id: ikomg
+al qadsiah nott forest
+---FEED-SEPARATOR---
 orangebirds said:
 Club Friendly Match - Wolverhampton Wanderers vs Celta Vigo
 100.5°E
@@ -358,8 +381,16 @@ Eutelsat 7B-7C @ 07.0E
 ID: GCUK Enc 2
 Event: 
 Friendly Club Match
-Arsenal v Villarreal
+Arsenal v Ath Bilbao
 CW: DE 13 FF F0 73 DA 12 5F
+---FEED-SEPARATOR---
+ecomm bx CUP
+Eutelsat 7B/7C @ 7.0E
+11187 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: ecomm bx CUP
+CW: E2 81 D1 34 B3 BA 9D 0A
 ---FEED-SEPARATOR---
 FIBA Asia Cup 2025
 Eutelsat 7B/7C @ 7.0E
