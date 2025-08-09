@@ -264,6 +264,15 @@ ID: Service 02
 FTA
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
+11126 H 7200 |
+4:2:2
+ | 8PSK
+ID: F34/1/PRIV  DIRTY RENNESvGENOA
+Event: 
+Rennes v Genoa
+CW: 09 08 AB BC DA 24 12 10
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12704 V 7120 | 4:2:0 | 8PSK
 ID: 
 Pitch - Sela Cup - Newcastle v Atletico Madrid
