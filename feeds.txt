@@ -52,6 +52,13 @@ CW: 09 08 AC BD DC 05 06 E7
 German 3. Liga - Week 2
 SSV Ulm v Erzgebirge Aue
 ---FEED-SEPARATOR---
+0.8°W
+11657 V 9600
+4:2:2
+ID: Vitel Path 1
+#FTA
+SSE Airtricity Women's Premier Division: Shamrock Rovers FC - Galway United FC
+---FEED-SEPARATOR---
 fusillo said:
 			28.2°E
 12590 V 7200
@@ -72,6 +79,19 @@ Oldham v Colchester
 4:2:0
 ID: Oldham v Colchester
 #FTA
+---FEED-SEPARATOR---
+orangebirds said:
+EFL Championship - Sheffield United vs Bristol City
+100.5°E
+3994 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+New CW : 
+95 3E 42 15 1C B5 75 46
+Click to expand...
+7e
+11524 v 7120
 ---FEED-SEPARATOR---
 EFL Championship - Sheffield United vs Bristol City
 100.5°E
@@ -323,6 +343,14 @@ ID : BT_SES_10_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: E7 E3 CA 94 59 47 11 B1
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12573 H 7200 | 4:2:0 | 8PSK
+ID: GCUK Enc 2
+Event: 
+Friendly Club Match
+Arsenal v Villarreal
+CW: DE 13 FF F0 73 DA 12 5F
 ---FEED-SEPARATOR---
 FIBA Asia Cup 2025
 Eutelsat 7B/7C @ 7.0E
