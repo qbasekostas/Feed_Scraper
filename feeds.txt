@@ -6,6 +6,14 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: EB EA 25 FA 26 C7 99 86
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11460 V 7200 | 4:2:0 | 8PSK
+ID: 
+Manchester United vs Fiorentina
+Event: 
+Man United v Fiorentina
+ (MUTV Feed)
+---FEED-SEPARATOR---
 FIBA Asia Cup 2025
 Eutelsat 7B/7C @ 7.0E
 12685 V 7200
