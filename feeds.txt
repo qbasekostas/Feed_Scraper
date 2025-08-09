@@ -226,6 +226,13 @@ Event:
 Man United v Fiorentina
  (MUTV Feed)
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11190 - Horizontal- 7200 
+Name : OU6match
+FTA
+Friendly Match 
+olympique Marseille VS Aston Villa F.C
+---FEED-SEPARATOR---
 omid1348 said:
 Club Friendlies
 Nottingham Forest F.C. - Al Qadsiah FC
