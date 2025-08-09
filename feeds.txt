@@ -49,6 +49,17 @@ SSV Ulm v Erzgebirge Aue
 ID: Oldham v Colchester
 #FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12726 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch -  EFL Stoke City v Derby
+Event:
+ EFL Championship - 
+Stoke City vs Derby County
+orangebirds said:
+CW: 86 88 31 3F 1A 45 63 C2
+Click to expand...
+---FEED-SEPARATOR---
 EFL Championship - Stoke City vs Derby County
 100.5°E
 3986 V 7120
@@ -143,6 +154,28 @@ Manchester United vs Fiorentina
 Event: 
 Man United v Fiorentina
  (MUTV Feed)
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+11135 H 7200 | 4:2:0 | 8PSK
+ID: Everton FC vs AS Roma
+Event:
+Click to expand...
+Feed SES 14/47.5° W
+4167 L 7200
+DVBS2 8PSK
+MPEG4 4:2:0
+Id.:  T/A SRT to SES-14
+Fútbol masculino amistoso
+Everton Football Club vs. Associazione Sportiva Roma
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11135 H 7200 | 4:2:0 | 8PSK
+ID: 
+Everton FC vs AS Roma
+Event: 
+Friendly Club Match
+Everton v Roma
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11588 V 7200 | 4:2:0 | 8PSK
