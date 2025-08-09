@@ -6,6 +6,22 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: EB EA 25 FA 26 C7 99 86
 ---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+11460 V 7200 | 4:2:0 | 8PSK
+ID: 
+Manchester United vs Fiorentina
+Event: 
+Man United v Fiorentina
+ (MUTV Feed)
+Click to expand...
+ALSO
+Hotbird @ 13.0E
+12438 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 03
+FTA
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11460 V 7200 | 4:2:0 | 8PSK
 ID: 
