@@ -1,4 +1,13 @@
 28.2E
+12731 H 7200 
+4:2:0
+DVB-S2 - 8PSK
+ID D-437
+CW: 09 08 AC BD DC 05 09 EA
+German 3. Liga - Week 2
+SC Verl v Wehen Wiesbaden
+---FEED-SEPARATOR---
+28.2E
 12722 H 7200 
 4:2:0
 DVB-S2 - 8PSK
@@ -43,11 +52,35 @@ CW: 09 08 AC BD DC 05 06 E7
 German 3. Liga - Week 2
 SSV Ulm v Erzgebirge Aue
 ---FEED-SEPARATOR---
+fusillo said:
+			28.2°E
+12590 V 7200
+4:2:0
+ID: Oldham v Colchester
+#FTA
+Click to expand...
+Also
+28.2E
+12609 v 7200 
+4:2:0
+DVB-S2 8PSK
+ID: 
+Oldham v Colchester
+---FEED-SEPARATOR---
 28.2°E
 12590 V 7200
 4:2:0
 ID: Oldham v Colchester
 #FTA
+---FEED-SEPARATOR---
+EFL Championship - Sheffield United vs Bristol City
+100.5°E
+3994 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+New CW : 
+95 3E 42 15 1C B5 75 46
 ---FEED-SEPARATOR---
 1.0 West
 11508 V 7200 | 4:2:0 | 8PSK
