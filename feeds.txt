@@ -49,6 +49,15 @@ SSV Ulm v Erzgebirge Aue
 ID: Oldham v Colchester
 #FTA
 ---FEED-SEPARATOR---
+1.0 West
+11508 V 7200 | 4:2:0 | 8PSK
+ID: 
+*unnamed-1*
+Event: 
+Scottish Premiership - Week 2
+Livingston v Falkirk
+CW: FA A4 41 DF A1 EF 49 D9
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12726 V 7120 | 4:2:0 | 8PSK
 ID: 
@@ -155,6 +164,34 @@ Event:
 Man United v Fiorentina
  (MUTV Feed)
 ---FEED-SEPARATOR---
+Feed Intelsat 21/58° W
+4075 H 7200
+DVBS2 8PSK FEC: 3/4
+MPEG4/4:2:0
+Id.: PSSI TELEPORT 5
+Fútbol Masculino/Amistoso
+West Ham United Football Club vs. Lille Olympique Sporting Club
+---FEED-SEPARATOR---
+xachik said:
+Hotbird @ 13.0E
+12438 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 04
+FTA
+View attachment 86893
+club friendly
+Werder Bremen (Ger)
+Udinese (Ita)
+Click to expand...
+Same Event
+Feed Intelsat 34/55.5° W
+4100 H 7200
+DVBS2 8PSK FEC: 3/4
+MPEG4/4:2:0
+Id.: PSSI TELEPORT
+Fútbol Masculino/Amistoso
+Werder Bremen vs. Udinese Calcio
+---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
 11135 H 7200 | 4:2:0 | 8PSK
@@ -183,7 +220,7 @@ ID:
 IKOMG
 Event: 
 Friendly Club Match
-West Ham United v Lille
+Burnley vs Lazio
 ---FEED-SEPARATOR---
 Club Friendly
 Brighton Hove & Albion (Eng) vs Wolfsburg (Ger)
@@ -192,6 +229,22 @@ Brighton Hove & Albion (Eng) vs Wolfsburg (Ger)
 DVB-S2 4:2:0 8PSK
 ID: Service 02
 FTA
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12704 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Sela Cup - Newcastle v Atletico Madrid
+Event: Club Friendly Match - 
+Newcastle United vs Atlético de Madrid
+CW: 13 13 CA F0 AD 21 42 10
+---FEED-SEPARATOR---
+Event: Club Friendly Match - Newcastle United vs Atlético de Madrid
+100.5°E
+3905 V 7120
+ID : BT_SES_6_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 34 32 DD 43 AA 24 22 F0
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12644 V 7200 |
