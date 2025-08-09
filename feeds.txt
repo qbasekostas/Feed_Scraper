@@ -226,6 +226,24 @@ Event:
 Man United v Fiorentina
  (MUTV Feed)
 ---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3935 H 7500
+PMT PID: 1000, SID: 1 @ Direkt (Intinor)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+Palermo vs Man City
+Click to expand...
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: Service 04
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3935 H 7500
+PMT PID: 1000, SID: 1 @ Direkt (Intinor)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+Palermo vs Man City
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11190 - Horizontal- 7200 
 Name : OU6match
@@ -382,6 +400,13 @@ ID : BT_SES_10_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: E7 E3 CA 94 59 47 11 B1
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11070 V 7200 | 4:2:0 | 8PSK
+ID: 
+E327 BU
+Event: Granada v Al Ain
+CW: 56 54 10 BA 14 96 30 DA
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12573 H 7200 | 4:2:0 | 8PSK
