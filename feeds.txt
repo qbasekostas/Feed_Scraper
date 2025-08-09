@@ -197,6 +197,23 @@ Event:
 Man United v Fiorentina
  (MUTV Feed)
 ---FEED-SEPARATOR---
+orangebirds said:
+Club Friendly Match - Wolverhampton Wanderers vs Celta Vigo
+100.5°E
+3916 H 7200
+ID : SRT6
+DVB-S2 8PSK 4:2:0 1080i
+FTA
+Click to expand...
+Same event
+Feed SES 14/47.5° W
+4130 L 7200
+DVBS2 8PSK
+MPEG4 4:2:0
+Id.:  E-28 HD TV2GO
+Fútbol masculino amistoso
+Wolverhampton Wanderers Football Club vs. Real Club Celta de Vigo
+---FEED-SEPARATOR---
 Feed Intelsat 21/58° W
 4075 H 7200
 DVBS2 8PSK FEC: 3/4
@@ -298,6 +315,14 @@ Event:
 Friendly Club Match
 Napoli v Girona
 CW: AB C4 01 70 95 62 DE D5
+---FEED-SEPARATOR---
+Event Name = Arsenal vs Athletic Bilbao
+100.5°E
+3914 V 7500
+ID : BT_SES_10_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: E7 E3 CA 94 59 47 11 B1
 ---FEED-SEPARATOR---
 FIBA Asia Cup 2025
 Eutelsat 7B/7C @ 7.0E
