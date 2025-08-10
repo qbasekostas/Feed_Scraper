@@ -137,6 +137,14 @@ Event:
 Friendly Club Match - Chelsea vs Milan
  FTA
 ---FEED-SEPARATOR---
+28.2E
+12692 V 10000 
+4:2:2
+DVB-S2 16APSK
+ID: EDS807HD.1
+Friendly Club Match
+Barcelona v Como
+---FEED-SEPARATOR---
 7E
 11543 V 7200
 ID: E-269 via2
