@@ -1,3 +1,13 @@
+Eutelsat 7B-7C @ 07.0E
+12703 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - EFL Leicester City v Sheffield
+orangebirds said:
+EFL Championship - 
+Leicester City vs Sheffield Wednesday
+CW: 23 52 BE 33 34 23 93 EA
+Click to expand...
+---FEED-SEPARATOR---
 EFL Championship - Leicester City vs Sheffield Wednesday
 100.5°E
 3994 V 7120
@@ -26,7 +36,7 @@ CW: BC 4C D1 D9 28 72 CF 69
 7E
 12634 V 7200
 4.2.0
-ID: Unname
+ID: Unname- BT
 FA Community Shield - Final
 Crystal Palace F.C. - Liverpool FC
 CW: 93 7E 75 86 93 B9 7C C8
@@ -94,6 +104,14 @@ Service 04
 Event:
 Friendly Club Match - Chelsea vs Milan
  FTA
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0°E
+10720 H 7200
+ID:Borussia Dortmund vs Juventus
+DVB-S2 8PSK | 4:2:0
+CLUB FRIENDLY
+Dortmund vs Juventus
+CW: 8D 9E 0F 3A 12 34 56 9C
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3933 H 7500
