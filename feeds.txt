@@ -1,0 +1,23 @@
+Eutelsat 7B-7C @ 07.0E
+12686 V 7200 | 4:2:0 | 8PSK
+ID: 
+SAU-031 main
+Event: 
+FIBA Asia Cup 2025
+Qatar
+ v 
+Australia
+10 August 2025, 08:00 GMT, King Abdullah Sports City Hall, Jeddah
+Guam
+ v 
+Japan
+10 August 2025, 11:10 GMT, King Abdullah Sports City Hall, Jeddah
+South Korea
+ v 
+Lebanon
+10 August 2025, 15:00 GMT, King Abdullah Sports City Hall, Jeddah
+Syria
+ v 
+Iran
+10 August 2025, 18:00 GMT, King Abdullah Sports City Hall, Jeddah
+CW: 7F 55 56 2A 84 A8 DB 07
