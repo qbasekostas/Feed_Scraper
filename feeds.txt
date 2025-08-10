@@ -1,3 +1,12 @@
+Eutelsat 10B @ 10.0E
+10737 H 7200 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 3 (GlobeCast UK)
+Event: 
+Scottish Premiership - Week 2
+Aberdeen v Celtic
+CW: EC 95 CA 4B 16 DF 86 7B
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12703 V 7120 | 4:2:0 | 8PSK
 ID: 
