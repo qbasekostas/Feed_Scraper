@@ -1,3 +1,11 @@
+EFL Championship - Leicester City vs Sheffield Wednesday
+100.5°E
+3994 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 23 52 BE 33 34 23 93 EA
+---FEED-SEPARATOR---
 Eutelsat 3B @ 3.1E
 10969 H 7500 | 4:2:0 | 8PSK
 ID:
@@ -49,6 +57,14 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
+11692 H 7200
+ID:SUI25 HD 1
+DVB-S2 8PSK | 4:2:0
+CLUB FRIENDLY
+Aarau (Sui) vs Al Hilal (Sau)
+FTA
 ---FEED-SEPARATOR---
 Eutelsat 7B / 7C @ 7° E
 11606 V 7200
