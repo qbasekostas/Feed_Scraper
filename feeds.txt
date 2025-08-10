@@ -1,3 +1,20 @@
+Eutelsat 3B @ 3.1E
+10969 H 7500 | 4:2:0 | 8PSK
+ID:
+ *unnamed-1*
+Event: 
+English FA Community Shield - FINAL (Wembley Stadium)
+Crystal Palace v Liverpool
+CW: BC 4C D1 D9 28 72 CF 69
+---FEED-SEPARATOR---
+7E
+12634 V 7200
+4.2.0
+ID: Unname
+FA Community Shield - Final
+Crystal Palace F.C. - Liverpool FC
+CW: 93 7E 75 86 93 B9 7C C8
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10737 H 7200 | 4:2:0 | 8PSK
 ID: 
@@ -25,6 +42,14 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
+11606 V 7200
+ID:Chelaea AC v Milan
+DVB-S2 8PSK | 4:2:0
+CLUB FRIENDLY
+Chelsea vs Milan
+FTA
+---FEED-SEPARATOR---
 Hotbird @ 13.0E
 12438 H 27500
 DVB-S2 4:2:0 8PSK
@@ -33,6 +58,13 @@ Service 04
 Event:
 Friendly Club Match - Chelsea vs Milan
  FTA
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3933 H 7500
+ID : ENC 1
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 6E 39 02 A9 52 D1 B5 D8
+Chelsea vs AC Milan
 ---FEED-SEPARATOR---
 Eutelsat 7B / 7C @ 7° E
 11189 H 7200
