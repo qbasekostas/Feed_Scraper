@@ -1,3 +1,10 @@
+28.2°E
+12572 V 7500
+4:2:2
+ID: Gigatel HD
+#FTA
+Cymru Premier League: Colwyn Bay Football - Connah's Quay
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12703 V 7120 | 4:2:0 | 8PSK
 ID: 
@@ -68,6 +75,14 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Eutelsat 21B @ 21.6° E
+12564 H 7200
+ID:SAU-033-(Al Nassr VS UD Almeria)
+DVB-S2 8PSK | 4:2:0
+CLUB FRIENDLY
+Almería vs Al-Nassr
+FTA
+---FEED-SEPARATOR---
 Eutelsat 7B / 7C @ 7° E
 11587 V 7200
 ID:E-378 FEED1
@@ -113,6 +128,13 @@ Event:
 Friendly Club Match - Chelsea vs Milan
  FTA
 ---FEED-SEPARATOR---
+28.2°E
+12581 V 7200
+4:2:0
+ID: WPA D-322 Main
+#FTA
+Borussia Dortmund - Juventus
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10720 H 7200
 ID:Borussia Dortmund vs Juventus
@@ -147,6 +169,14 @@ DVB-S2 8PSK |
 CLUB FRIENDLY
 Napoli (Ita) vs Sorrento (Ita)
 CW: A4 B0 C2 16 D1 E0 F2 A3
+---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
+12573 H 7200
+ID:LAT-002
+DVB-S2 8PSK | 4:2:0
+FRIENDLY INTERNATIONAL
+Lithuania vs Georgia
+CW: BA 23 DE BB 81 CD 72 C0
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12686 V 7200 | 4:2:0 | 8PSK
