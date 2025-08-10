@@ -128,6 +128,16 @@ Event:
 Friendly Club Match - Chelsea vs Milan
  FTA
 ---FEED-SEPARATOR---
+Icone said:
+CLUB FRIENDLY
+Almería vs Al-Nassr
+Click to expand...
+7E
+11606 V 7200
+DVB-S2 4:2:0 8PSK
+ID: FEED1 AL-NASSR VS ALMERIA
+FTA
+---FEED-SEPARATOR---
 28.2°E
 12581 V 7200
 4:2:0
