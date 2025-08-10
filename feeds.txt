@@ -68,6 +68,14 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
+11587 V 7200
+ID:E-378 FEED1
+DVB-S2 8PSK | 4:2:0
+CLUB FRIENDLY
+Almería vs Al-Nassr
+FTA
+---FEED-SEPARATOR---
 Eutelsat 21B @ 21.6E
 12573 H 7200 | 4:2:0 | 8PSK
 ID: 
@@ -112,6 +120,17 @@ DVB-S2 8PSK | 4:2:0
 CLUB FRIENDLY
 Dortmund vs Juventus
 CW: 8D 9E 0F 3A 12 34 56 9C
+---FEED-SEPARATOR---
+Friendly Match - Borussia Dortmund vs Juventus
+100.5°E
+3916 H 7500
+ID : ENC 14
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: D8 57 7A A9 14 0E A2 C4
+Thanks 
+@HBO
+ !
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3933 H 7500
