@@ -1,3 +1,12 @@
+German 3. Liga
+Stuttgart II vs Ingolstadt
+28.2E
+12712 H 7200 
+4:2:0
+DVB-S2 - 8PSK
+ID: D-361 Stuttgart
+10 08 AC C4 DC 05 06 E7
+---FEED-SEPARATOR---
 28.2°E
 12572 V 7500
 4:2:2
