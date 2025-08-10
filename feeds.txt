@@ -25,6 +25,15 @@ Event:
 Friendly Club Match - Chelsea vs Milan
  FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
+11189 H 7200
+ID:ITA 555
+DVB-S2 8PSK | 
+4:2:2
+CLUB FRIENDLY
+Napoli (Ita) vs Sorrento (Ita)
+CW: A4 B0 C2 16 D1 E0 F2 A3
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12686 V 7200 | 4:2:0 | 8PSK
 ID: 
