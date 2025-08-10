@@ -1,3 +1,21 @@
+Eutelsat 7B-7C @ 07.0E
+12703 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - EFL Highlights 2025
+Event: 
+EFL Highlights
+orangebirds said:
+CW: 53 23 CF 45 32 88 42 FC
+Click to expand...
+---FEED-SEPARATOR---
+Event: EFL International Show #01
+100.5°E
+3994 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
 Hotbird @ 13.0E
 12438 H 27500
 DVB-S2 4:2:0 8PSK
