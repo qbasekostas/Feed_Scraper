@@ -1,3 +1,12 @@
+Hotbird @ 13.0E
+12438 H 27500
+DVB-S2 4:2:0 8PSK
+ID: 
+Service 04
+Event:
+Friendly Club Match - Chelsea vs Milan
+ FTA
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12686 V 7200 | 4:2:0 | 8PSK
 ID: 
