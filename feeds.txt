@@ -6,11 +6,6 @@ Event:
 FA Community Shield Final Highlights
 CW: AC 44 FF EF BC 11 08 D5
 ---FEED-SEPARATOR---
-Eutelsat 7B-7C @ 07.0E
-11101 H 16960 | 4:2:2 | 16APSK | DVB-S2x
-ID: SCUP Y
-Event: UEFA Super Cup - PSG v Tottenham (TEST FEED)
----FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
 12686 V 7200 | 4:2:0 | 8PSK
