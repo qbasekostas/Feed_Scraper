@@ -1,7 +1,7 @@
 Eutelsat 7B-7C @ 07.0E
 12676 V 7120 | 4:2:0 | 8PSK
 ID: 
-Pitch - The FA Community Shield 
+Pitch - The FA Community Shield
 Event: 
 FA Community Shield Final Highlights
 CW: AC 44 FF EF BC 11 08 D5
