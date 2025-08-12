@@ -1,30 +1,62 @@
+Eutelsat 7B / 7C @ 7° E
+11522 V 7120
+ID: Pitch - Carabao CUP
+DVB-S2 8PSK | 4:2:0
+EFL Cup
+Bromley vs Ipswich
+CW: 21 42 CA 2D AC 23 54 23
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12726 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Carabao Cup - Round 1
+Event: 
+English League Cup - 1st Round
+Watford v Norwich City
+CW: 24 22 CD 13 DD 22 42 41
+---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
+12704 V 7120
+ID: Pitch - Carabao CUP
+DVB-S2 8PSK | 4:2:0
+EFL Cup
+CW: 34 32 CC 32 DD 32 53 62
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12694 V 7120 | 4:2:0 | 8PSK
+ID: Pitch - Carabao Cup
+Event: 
+English League Cup - 1st Round
+Wrexham v Hull City
+CW: 13 12 AD D2 DC 21 14 11
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3915 V 7120
 ID: BT_SES_14_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 2142CA2DAC235423
-EFL Cup
+EFL Cup : Bromley vs Ipswich
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3935 H 7120
 ID: BT_SES_24_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 13 12 AD D2 DC 21 14 11
-EFL Cup
+EFL Cup : Northampton vs Southampton
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3925 H 7120
 ID: BT_SES_22_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 24 22 CD 13 DD 22 42 41
-EFL Cup
+EFL Cup : Watford vs Norwich
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3905 V 7120
 ID: BT_SES_16_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 3432CC32DD325362
-EFL Cup
+EFL Cup : Wrexham vs Hull
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11692 H 7200 | 4:2:0 | 8PSK
@@ -66,6 +98,14 @@ DVB-S2 8PSK | 4:2:0
 CHAMPIONS LEAGUE - QUALIFICATION - SEMI-FINALS
 Club Brugge KV (Bel) vs Salzburg (Aut)
 FTA
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11022 H 7200 | 4:2:0 | 8PSK
+ID:
+ YSM 019_02
+UEFA Champions League - 3rd Qualifying Round (2nd Leg) [3-1]
+Red Star Belgrade vs Lech Poznan
+CW: 12 34 AB F1 CD 56 78 9B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11682 H 7200 | 4:2:0 | 8PSK
