@@ -1,4 +1,12 @@
 Eutelsat 7B-7C @ 07.0E
+11692 H 7200 | 4:2:0 | 8PSK
+ID: 
+IKOMG
+Event: 
+Friendly Club Match
+WSG Tirol v Real Madrid
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12686 H 7200 | 4:2:0 | 8PSK
 ID: 
 WSG-Real
@@ -23,6 +31,15 @@ DVB-S2 8PSK | 4:2:0
 CHAMPIONS LEAGUE - QUALIFICATION - SEMI-FINALS
 Club Brugge KV (Bel) vs Salzburg (Aut)
 FTA
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11145 V 7200 | 4:2:0 | 8PSK
+ID: 
+PAPHOS vs DYNAMO
+Event: 
+UEFA Champions League - 3rd Qualifying Round (2nd Leg) 
+Pafos FC v Dynamo Kyiv
+CW: E2 71 21 74 B3 BB 9D 0B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11460 V 7200 | 4:2:0 | 8PSK
