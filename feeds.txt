@@ -1,3 +1,14 @@
+Eutelsat 7B-7C @ 07.0E
+12677 H 7500 |
+4:2:2
+ | 8PSK
+ID: 
+TUR-118 MAIN
+Event: 
+UEFA Champions League - 3rd Qualifying Round (2nd Leg)
+Fenerbahçe v Feyenoord
+CW: 3D 78 4A FF 55 20 AF 24
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 			Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
 12678 V 7200
