@@ -74,6 +74,12 @@ Event:
 Friendly Club Match
 WSG Tirol v Real Madrid
 ---FEED-SEPARATOR---
+Friendly Club Match
+Monza v Inter Milan
+Eutelsat 7A-7B 7.0E - 12523 Vertical 7500 4.2.0
+ID:ENC1 S9 MPEG4 HD
+CW: AF 1E 2A F7 6C B3 8A A9
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand 
 TP : 3915 H 7500
 ID: ENC 21
