@@ -1,3 +1,11 @@
+Eutelsat 7B-7C @ 07.0E
+12686 H 7200 | 4:2:0 | 8PSK
+ID: 
+WSG-Real
+Event: 
+Friendly Club Match
+WSG Tirol v Real Madrid
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16° E
 11097 H 7200
 11106 H 7200
@@ -7,6 +15,14 @@ DVB-S2 8PSK | 4:2:0
 CHAMPIONS LEAGUE - QUALIFICATION - SEMI-FINALS
 Club Brugge KV (Bel) vs Salzburg (Aut)
 FTA
+---FEED-SEPARATOR---
+7E
+11185 V 17140 S2X 16APSK
+ID: UKI-1462
+4:2:2
+UEFA Super Cup - FINAL - Tomorrow
+PSG  vs Tottenham Hotspur
+CW: AD BE 56 C1 48 2E BA 30
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12677 H 7500 |
