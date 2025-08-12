@@ -24,6 +24,23 @@ CHAMPIONS LEAGUE - QUALIFICATION - SEMI-FINALS
 Club Brugge KV (Bel) vs Salzburg (Aut)
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11460 V 7200 | 4:2:0 | 8PSK
+ID: 
+SNG HUN-019 Line1
+Event: 
+UEFA Champions League - 3rd Qualifying Round (2nd Leg) 
+Ferencváros v Ludogorets
+CW: FC 12 34 42 AF E6 5F F4
+---FEED-SEPARATOR---
+16E
+12548 H 7200
+4.2.0
+ID: CZE-041-M-PLAZEN-RANGERS
+UEFA Champions League - Third Qualifying Round
+FC Viktoria Plzeň - Rangers F.C.
+CW: BD 11 C2 90 7A F4 5E CC
+---FEED-SEPARATOR---
 7E
 11185 V 17140 S2X 16APSK
 ID: UKI-1462
