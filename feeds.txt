@@ -6,6 +6,14 @@ Event:
 Friendly Club Match
 WSG Tirol v Real Madrid
 ---FEED-SEPARATOR---
+46E
+11060 H 9999
+ID: 
+CBC-01
+4:2:0
+UEFA Champions League - 3rd Qualifying Round (2nd Leg) [1-0]
+Qarabagh vs Shkëndija
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16° E
 11097 H 7200
 11106 H 7200
@@ -34,6 +42,15 @@ Event:
 UEFA Champions League - 3rd Qualifying Round (2nd Leg)
 Fenerbahçe v Feyenoord
 CW: 3D 78 4A FF 55 20 AF 24
+---FEED-SEPARATOR---
+FIBA Asia Cup 2025
+Eutelsat 36.0ºE
+12565 H  11427
+DVB-
+S2X
+  4:2:2  16APSK
+ID: SAU-032 - MAIN
+CW: A0 32 BA 8C 09 08 04 15
 ---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 			Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
