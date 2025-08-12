@@ -20,6 +20,7 @@ Eutelsat 7B / 7C @ 7° E
 ID: Pitch - Carabao CUP
 DVB-S2 8PSK | 4:2:0
 EFL Cup
+Wrexham vs Hull
 CW: 34 32 CC 32 DD 32 53 62
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
@@ -27,7 +28,7 @@ Eutelsat 7B-7C @ 07.0E
 ID: Pitch - Carabao Cup
 Event: 
 English League Cup - 1st Round
-Wrexham v Hull City
+Northampton vs Southampton
 CW: 13 12 AD D2 DC 21 14 11
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
