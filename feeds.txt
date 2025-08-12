@@ -1,3 +1,15 @@
+Abo Saeid Satellite said:
+			Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+12678 V 7200
+   TUR-142 M (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: B2 F7 55 FE 61 6C DB A8
+Event: 
+FIBA Asia Cup 2025
+Click to expand...
+New CW: 
+78 3E 60 16 38 13 92 DD
+---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
 12686 V 7200 | 4:2:0 | 8PSK
