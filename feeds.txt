@@ -11,6 +11,16 @@ DVB-S2 8PSK | 4:2:2
 CW: 10 67 FF 76 E4 54 50 88
 ---FEED-SEPARATOR---
 Eutelsat 7B / 7C @ 7° E
+12677 V 7200
+ID:TUR-142 M
+DVB-S2 8PSK | 4:2:0
+FIBA Asia Cup 2025
+Australia vs Philippines
+Next Match
+Iran vs Chinese Taipei
+CW: FE 90 84 12 AA 5C 10 16
+---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
 12685 V 7200
 ID:SAU-031 main
 DVB-S2 8PSK | 4:2:0
