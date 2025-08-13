@@ -22,14 +22,41 @@ TP : 3905 V 7120
 ID: BT_SES_22_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 21 44 AA 0F DD 34 55 66
-EFL Cup :
+EFL Cup : Birmingham vs Sheffield Utd
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3915 V 7120
 ID: BT_SES_24_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 11 34 DC 21 CA 24 22 10
-EFL Cup :
+EFL Cup : Huddersfield vs Leicester
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12704 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Carabao Cup - Round 1
+HBO said:
+CW: 21 44 AA 0F DD 34 55 66
+EFL Cup : 
+Birmingham vs Sheffield Utd
+Click to expand...
+---FEED-SEPARATOR---
+28.2E
+12633  V 7200 
+4:2:0
+DVBS-2 8PSK
+ID: Sat B/up Birmingham  City v Sheffield
+CW: A9 24 B2 7F BC 1C BA 92
+EFL Cup : Birmingham vs Sheffield Utd
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12694 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - Carabao Cup
+HBO said:
+CW: 11 34 DC 21 CA 24 22 10
+EFL Cup : Huddersfield vs Leicester
+Click to expand...
 ---FEED-SEPARATOR---
 Eutelsat 7B / 7C @ 7° E
 11460 V 7200
