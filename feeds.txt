@@ -48,6 +48,21 @@ CONFERENCE LEAGUE - QUALIFICATION - SEMI-FINALS
  Basaksehir (Tur) vs Viking (Nor)
 CW: 58 73 00 CB 00 58 73 CB
 ---FEED-SEPARATOR---
+FIBA WC, EU Pre-Qualifiers, Second Round, Group E
+Romania
+​
+North Macedonia
+​
+1°W
+12526 
+V  
+6660
+DVB-S2-
+4:2:0
+-8PSK
+ID:B 191 DGI
+CW: 13 08 20 3B 25 AB CD 9D
+---FEED-SEPARATOR---
 Eutelsat 7B / 7C @ 7° E
 12677 V 7200
 ID:TUR-142 M
