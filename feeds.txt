@@ -1,3 +1,10 @@
+Bundesliga Magazine Season 2025/2026
+100.5E
+4153 V 9874
+ID = Fi15_GNVE
+4:2:0
+CW = 75 F0 C2 27 57 9A 53 44
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10732 V 34000
 ID:OVERON 2
