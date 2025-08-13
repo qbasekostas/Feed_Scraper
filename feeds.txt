@@ -1,0 +1,21 @@
+Eutelsat 10B @ 10.0°E
+10732 V 34000
+ID:OVERON 2
+DVB-S2 8PSK | 4:2:2
+CW: A1 EC B8 45 FC D1 71 3E
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0°E
+10732 V 34000
+ID:OVERON 1
+DVB-S2 8PSK | 4:2:2
+CW: 10 67 FF 76 E4 54 50 88
+---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
+12685 V 7200
+ID:SAU-031 main
+DVB-S2 8PSK | 4:2:0
+FIBA Asia Cup 2025
+Australia vs Philippines
+Next Match
+Iran vs Chinese Taipei
+CW: FE 90 84 12 AA 5C 10 16
