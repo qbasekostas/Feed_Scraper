@@ -74,6 +74,15 @@ UEFA Conference League - 3rd Qualifying Round (2nd Leg)
 Györ v AIK Stockholm
 CW: FC 12 34 42 AF E6 5F F4
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11592 V 9875 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 9 (GlobeCast UK)
+Event: 
+UEFA Europa League - 3rd Qualifying Round (2nd Leg)
+Shakhtar Donetsk v Panathinaikos
+CW: EA 54 DE 1C 34 1A 1A 68
+---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
 12686 V 7200 | 4:2:0 | 8PSK
