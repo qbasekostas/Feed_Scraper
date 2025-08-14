@@ -57,6 +57,23 @@ CONFERENCE LEAGUE - QUALIFICATION - SEMI-FINALS
 FC Astana (Kaz) vs Lausanne (Sui)
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12725 V 5000 | 4:2:0 | 8PSK
+ID: SNG MEDYA 2/A
+Event: 
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) 
+Besiktas v St Patrick's Athletic
+CW: 00 53 53 A6 13 61 61 D5
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11172 V 7200 | 4:2:0 | 8PSK
+ID: 
+SNG HUN-019 Line1
+Event: 
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) 
+Györ v AIK Stockholm
+CW: FC 12 34 42 AF E6 5F F4
+---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
 12686 V 7200 | 4:2:0 | 8PSK
