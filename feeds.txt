@@ -1,0 +1,19 @@
+Carabao Cup
+Highlights
+Eutelsat 7B/7C @ 7.0E
+12694 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Pitch - Carabao Cup - Round 1 Highlights
+Albahraniy said:
+CW: 11 14 CD F2 DC 22 21 1F
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3905 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI
+Carabao Cup
+ Highlights
+CW: 11 14 CD F2 DC 22 21 1F
