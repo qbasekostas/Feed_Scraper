@@ -105,6 +105,46 @@ UEFA Conference League - 3rd Qualifying Round (2nd Leg)
 Györ v AIK Stockholm
 CW: FC 12 34 42 AF E6 5F F4
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11139 V 9690 | 4:2:0 | 8PSK
+ID: 
+Service-1
+Event: 
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) 
+AEK Athens v Aris Limassol
+CW: CC 33 BB BA 55 AA 77 76
+---FEED-SEPARATOR---
+Akrem said:
+			UEFA Conference League - 3rd Qualifying Round (2nd Leg) [2-2]
+AEK Athens v Aris Limassol
+ ST: 19:00
+7°E
+12572
+ H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:BER-AEK
+CW: 22 22 A4 E8 1C B0 13 DF
+Click to expand...
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-0]
+Maccabi Haifa vs Raków Czestochowa
+---FEED-SEPARATOR---
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-0]
+v 
+Raków Czestochowa
+ ST: 19:00
+7°E
+12572
+ H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:BER-AEK
+CW: 22 22 A4 E8 1C B0 13 DF
+---FEED-SEPARATOR---
 7E
 11683 H 7200
 ID: YSM-016 M (*unnamed-1*)
@@ -162,6 +202,12 @@ Event:
 UEFA Europa League - 3rd Qualifying Round (2nd Leg)
 Shakhtar Donetsk v Panathinaikos
 CW: EA 54 DE 1C 34 1A 1A 68
+---FEED-SEPARATOR---
+7e
+12522 V 7200
+ID: ITA 671 (*unnamed-1*)
+4:2:0
+Italy vs Argentina
 ---FEED-SEPARATOR---
 Super Saiyan said:
 CW: 3A 27 43 A4 9F AA 79 C2
