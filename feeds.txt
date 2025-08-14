@@ -105,6 +105,45 @@ UEFA Conference League - 3rd Qualifying Round (2nd Leg)
 Györ v AIK Stockholm
 CW: FC 12 34 42 AF E6 5F F4
 ---FEED-SEPARATOR---
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) [2-0]
+Hibernian v Partizan Belgrade
+ ST: 20:00
+7°E
+11459 
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:GCUK Enc 4
+CW: CA BB 35 BA 5E AC C2 CC
+---FEED-SEPARATOR---
+UEFA Europa League - 3rd Qualifying Round (2nd Leg) [1-4]
+Legia Warsaw v AEK Larnaka
+ ST: 20:00
+7°E
+11604  
+V  
+9600
+DVB-S2-
+4:2:2
+-8PSK
+ID:  POL-111
+CW: 10 94 43 E7 CA E7 25 D6
+---FEED-SEPARATOR---
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-3]
+Spartak Trnava v Universitatea Craiova
+ ST: 19:30
+7°E
+11579 
+V  
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID: LIVE_BROADCASTING_LINE
+CW: 54 17 AD 18 DE 31 75 84
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11139 V 9690 | 4:2:0 | 8PSK
 ID: 
