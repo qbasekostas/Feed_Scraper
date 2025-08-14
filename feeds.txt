@@ -50,6 +50,14 @@ Name : ITA302 A
 CW : AB C4 01 70 95 62 DE D5
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
+12643 V 7200 | 4:2:0 | 8PSK
+ID: 
+Vaduz-Alkamar
+Event: 
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) 
+Vaduz v AZ Alkmaar
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12635 V 7200 | 4:2:0 | 8PSK
 ID: 
 UEFA EL WAC PKT
