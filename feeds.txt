@@ -1,3 +1,11 @@
+Friendly matches for clubs
+Eutelsat 7B/7C @ 7.0E
+12645 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:ITA302 A
+CW: AB C4 01 70 95 62 DE D5
+---FEED-SEPARATOR---
 Carabao Cup
 Highlights
 Eutelsat 7B/7C @ 7.0E
@@ -17,6 +25,13 @@ ID: BT_SES_22_SDI
 Carabao Cup
  Highlights
 CW: 11 14 CD F2 DC 22 21 1F
+---FEED-SEPARATOR---
+Friendly Club Match
+Napoli VS Olympiacos
+Eutelsat 7A  7.0E
+12646 - Horizontal - 7200 - 4:2:2
+Name : ITA302 A
+CW : AB C4 01 70 95 62 DE D5
 ---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
