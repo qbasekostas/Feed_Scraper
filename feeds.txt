@@ -17,3 +17,13 @@ ID: BT_SES_22_SDI
 Carabao Cup
  Highlights
 CW: 11 14 CD F2 DC 22 21 1F
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+12686 V 7200 | 4:2:0 | 8PSK
+ID: 
+SAU-031 main
+Event: 
+FIBA Asia Cup 2025
+Click to expand...
+CW: 3A 27 43 A4 9F AA 79 C2
