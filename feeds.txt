@@ -49,6 +49,13 @@ Eutelsat 7A  7.0E
 Name : ITA302 A
 CW : AB C4 01 70 95 62 DE D5
 ---FEED-SEPARATOR---
+7e
+11522 V 7200
+ID:  Dundee utd vs Rapid vienna (Service Provider)
+4:2:0
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) [2-2]
+Dundee United vs Rapid Vienna
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12643 V 7200 | 4:2:0 | 8PSK
 ID: 
@@ -97,6 +104,35 @@ Event:
 UEFA Conference League - 3rd Qualifying Round (2nd Leg) 
 Györ v AIK Stockholm
 CW: FC 12 34 42 AF E6 5F F4
+---FEED-SEPARATOR---
+7E
+11683 H 7200
+ID: YSM-016 M (*unnamed-1*)
+4:2:0
+UEFA Europa League - 3rd Qualifying Round (2nd Leg) [2-1]
+Maccabi Tel Aviv vs Hamrun Spartans
+CW: 44 74 A4 5C 1C B0 13 DF
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12677 H 6900 | 4:2:0 | 8PSK
+ID: 
+ATV Broadcast Solutions (*unnamed-1*)
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) [1-0]
+Arda vs Kauno Zalgiris
+CW: 90 17 82 29 67 34 51 EC
+---FEED-SEPARATOR---
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-3]
+Riga vs
+ ST: 18:30
+7°E
+11692
+ H   
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:ROU015 MAIN
+CW: 52 74 A4 6A 1C B0 13 DF
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11126 V 9875 | 4:2:0 | 8PSK
