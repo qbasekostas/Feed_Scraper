@@ -26,12 +26,36 @@ Carabao Cup
  Highlights
 CW: 11 14 CD F2 DC 22 21 1F
 ---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
+11189 V 7200
+ID: D347_FB_Balingen
+DVB-S2 8PSK | 4:2:0
+CLUB FRIENDLY
+Mannheim (Ger) vs Al Hilal (Sau)
+FTA
+---FEED-SEPARATOR---
 Friendly Club Match
 Napoli VS Olympiacos
 Eutelsat 7A  7.0E
 12646 - Horizontal - 7200 - 4:2:2
 Name : ITA302 A
 CW : AB C4 01 70 95 62 DE D5
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10977 V 7200 | 4:2:0 | 8PSK
+ID: 
+CBC-01
+Event: 
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) 
+Sabah v Levski Sofia
+---FEED-SEPARATOR---
+Eutelsat 7B / 7C @ 7° E
+11580 V 7200
+ID:Lausanne vs Astane
+DVB-S2 8PSK | 4:2:0
+CONFERENCE LEAGUE - QUALIFICATION - SEMI-FINALS
+FC Astana (Kaz) vs Lausanne (Sui)
+FTA
 ---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
