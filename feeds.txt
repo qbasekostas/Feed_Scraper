@@ -26,6 +26,14 @@ Carabao Cup
  Highlights
 CW: 11 14 CD F2 DC 22 21 1F
 ---FEED-SEPARATOR---
+21,6°E
+11629 H 7200
+DVB-S2 8PSK FEC 3/4
+HD (1920*1080) 4:2:0 
+FTA
+ID: HILAL KSA vs WALDHOF MANNHEIM
+Club Friendly
+---FEED-SEPARATOR---
 Eutelsat 7B / 7C @ 7° E
 11189 V 7200
 ID: D347_FB_Balingen
@@ -40,6 +48,14 @@ Eutelsat 7A  7.0E
 12646 - Horizontal - 7200 - 4:2:2
 Name : ITA302 A
 CW : AB C4 01 70 95 62 DE D5
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12635 V 7200 | 4:2:0 | 8PSK
+ID: 
+UEFA EL WAC PKT
+Event: 
+UEFA Europa League - 3rd Qualifying Round (2nd Leg) 
+Wolfsberger AC v PAOK Thessaloniki
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10977 V 7200 | 4:2:0 | 8PSK
@@ -75,10 +91,22 @@ Györ v AIK Stockholm
 CW: FC 12 34 42 AF E6 5F F4
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
-12594 V 9600 | 4:2:2 | 8PSK
-ID: POL 068 CH1
+11126 V 9875 | 4:2:0 | 8PSK
+ID:
+ OMONOIAvsARAZ
 Event: 
 UEFA Conference League - 3rd Qualifying Round (2nd Leg) 
+Omonia Nicosia v Araz
+CW: E2 31 21 34 D3 BA CC 59
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12606 V 9600 |
+4:2:2
+ | 8PSK
+ID:
+ POL-080 BIALYSTOK
+Event: 
+UEFA Conference League - 3rd Qualifying Round (2nd Leg)
 Jagiellonia v Silkeborg
 CW: 20 25 AB F0 CD 1E CA B5
 ---FEED-SEPARATOR---
@@ -90,6 +118,19 @@ Event:
 UEFA Europa League - 3rd Qualifying Round (2nd Leg)
 Shakhtar Donetsk v Panathinaikos
 CW: EA 54 DE 1C 34 1A 1A 68
+---FEED-SEPARATOR---
+Super Saiyan said:
+CW: 3A 27 43 A4 9F AA 79 C2
+Click to expand...
+FIBA Asia Cup 2025
+7°E
+12676
+ V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:TUR-142M
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11180 V 7200 | 4:2:2 | 8PSK
