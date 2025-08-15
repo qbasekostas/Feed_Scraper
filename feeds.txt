@@ -57,6 +57,17 @@ German Cup (DFB-Pokal) - Round 1
 Sonnenhof Großaspach v Bayer Leverkusen
 CW: 95 53 E3 CB ED 5C F0 39
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10732 V 34000 |
+4:2:2
+ | 8PSK
+ID: 
+OVERON 2
+Event: 
+Spanish La Liga (Primera) - Week 1
+Villarreal v Real Oviedo
+CW: A1 EC B8 45 FC D1 71 3E
+---FEED-SEPARATOR---
 LaLiga - Girona vs Rayo Vallecano
 100.5°E
 3840 H 30000
@@ -96,6 +107,14 @@ ID:
  SUPPONOR RUSIA 2
 49 43 35 54 B2 7F 1C D0
 CW: 15 F4 52 5B B7 EB 67 09
+---FEED-SEPARATOR---
+19.2°E
+11934 V 29700
+ID: CANAL+
+Event: England Premier League, Round 1
+4.2.0- DVB-S2 - 8PSK
+LIVERPOOL VS BOURNEMOUTH
+FTA
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10737 H 7200 | 4:2:0 | 8PSK
