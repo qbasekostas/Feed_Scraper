@@ -57,6 +57,21 @@ German Cup (DFB-Pokal) - Round 1
 Sonnenhof Großaspach v Bayer Leverkusen
 CW: 95 53 E3 CB ED 5C F0 39
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,22Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 1
+Teams: Villarreal CF vs Real Oviedo
+Time / Kickoff: 02.30 JKT-TH / 03.30 MY-SG / 19.30 GMT / 21.30 CET
+Icone said:
+CW: A1 EC B8 45 FC D1 71 3E
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10732 V 34000 |
 4:2:2
