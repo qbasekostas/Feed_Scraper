@@ -1,4 +1,15 @@
 Eutelsat 7B-7C @ 07.0E
+11105 H 9875 |
+4:2:2
+ | 8PSK
+ID: 
+Fi01_DECBC
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Arminia Bielefeld v Werder Bremen
+CW: F3 78 69 D4 2F B7 B9 9F
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 11021 H 9875 |
 4:2:2
  | 8PSK
