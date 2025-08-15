@@ -1,3 +1,33 @@
+Eutelsat 7B-7C @ 07.0E
+11021 H 9875 |
+4:2:2
+ | 8PSK
+ID: 
+D451_GTLH_1M12_1
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Gütersloh v Union Berlin
+CW: 0D 26 D4 07 2F D1 D9 D9
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11009 H 9875 |
+4:2:2
+ | 8PSK
+ID: 
+D451_GTLH_1K12_SKY
+Event: 
+German Cup (DFB-Pokal) - Round 1
+ Gütersloh v Union Berlin
+CW: 68 0B 36 A9 DA 8C F7 5D
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10997 H 9875 | 4:2:2 | 8PSK
+ID: Fi15_GNVE
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Sonnenhof Großaspach v Bayer Leverkusen
+CW: 95 53 E3 CB ED 5C F0 39
+---FEED-SEPARATOR---
 Eutelsat 10A @ 10.0°E
 10734 
 V
