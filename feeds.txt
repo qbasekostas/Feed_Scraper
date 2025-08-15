@@ -1,3 +1,21 @@
+Eutelsat 16A @ 16.0E
+10978 H 7200 | 4:2:0 | 8PSK
+ID: Fal6 Enc1
+Event: 
+German Cup (DFB-Pokal) - Round 1
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10986 H 9875 |
+4:2:2
+ | 8PSK
+ID: 
+Fi16_GNVE
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Saarbrücken v Magdeburg
+CW: F6 D4 45 0F 0B DD 98 80
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11105 H 9875 |
 4:2:2
