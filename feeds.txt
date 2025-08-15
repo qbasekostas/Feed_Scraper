@@ -97,6 +97,15 @@ ID:
 49 43 35 54 B2 7F 1C D0
 CW: 15 F4 52 5B B7 EB 67 09
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10737 H 7200 | 4:2:0 | 8PSK
+ID: 
+GCUK Enc 3 (GlobeCast UK)
+Event: 
+Scottish League Cup - Round of 16
+Celtic v Falkirk
+CW: CA 45 51 60 1D 3E EB 46
+---FEED-SEPARATOR---
 England Premier League, Round 1
 Eutelsat 7B/7C @ 7.0E
 11513 V 6666
