@@ -97,11 +97,20 @@ ID:
 49 43 35 54 B2 7F 1C D0
 CW: 15 F4 52 5B B7 EB 67 09
 ---FEED-SEPARATOR---
+England Premier League, Round 1
+Eutelsat 7B/7C @ 7.0E
+11513 V 6666
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:BeIN - EPL Unilateral - Liverpool FC v AFC Bournemouth
+CW: 55 CB 74 94 4D BB 55 5D
+---FEED-SEPARATOR---
+LITHUANIA VS SLOVENIA
 Eutelsat 7B/7C @ 7.0E
 12676 V 7200
 DVB-S2 - 1080P - 8PSK
 4.2.0
-ID:LAT-002
+ID: LAT-002
 Icone said:
 CW: BA 23 DE BB 81 CD 72 C0
 Click to expand...
