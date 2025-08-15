@@ -57,6 +57,18 @@ German Cup (DFB-Pokal) - Round 1
 Sonnenhof Großaspach v Bayer Leverkusen
 CW: 95 53 E3 CB ED 5C F0 39
 ---FEED-SEPARATOR---
+LaLiga - Girona vs Rayo Vallecano
+100.5°E
+3840 H 30000
+ID : OVERON 1
+DVB-S2 8PSK 
+4:2:2
+ 1080i
+SID : 43 (2B)
+Icone said:
+CW: 10 67 FF 76 E4 54 50 88
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 10A @ 10.0°E
 10734 
 V
@@ -84,3 +96,12 @@ ID:
  SUPPONOR RUSIA 2
 49 43 35 54 B2 7F 1C D0
 CW: 15 F4 52 5B B7 EB 67 09
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12676 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:LAT-002
+Icone said:
+CW: BA 23 DE BB 81 CD 72 C0
+Click to expand...
