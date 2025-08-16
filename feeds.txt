@@ -28,6 +28,16 @@ German Cup (DFB-Pokal) - Round 1
 Pirmasens v Hamburg
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11021 H 9876 |
+4:2:2
+ | 8PSK
+ID: 
+D-571_1 MAIN
+Event: 
+German Cup (DFB-Pokal) - Round 1
+CW: A8 83 04 2F 0F 5A 25 8E
+---FEED-SEPARATOR---
 Event :GermanyDFB Pokal - 1/32-finals
 Teams :Lubeck 
  Darmstadt
@@ -352,8 +362,6 @@ Thor 5/6/7 & Intelsat 10-02 @ 0.8W
 ID:UKI1836 AVP P2 (Service Provider)
 1920x1080 |8PSK |4:2:0 HD
 CW: B1 1F CF 9F E6 91 1F 96
----FEED-SEPARATOR---
-Hi any cricket hunderd ball feed,plz
 ---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
