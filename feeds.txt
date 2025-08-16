@@ -425,6 +425,16 @@ ID:UKI1836 AVP P2 (Service Provider)
 1920x1080 |8PSK |4:2:0 HD
 CW: B1 1F CF 9F E6 91 1F 96
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11188 H 7200 |
+4:2:2
+ | 8PSK
+ID: 
+BOL-CRE
+Event: 
+Friendly - Bologne v OFI Crete
+CW: B0 1B 3D 08 70 BD E6 13
+---FEED-SEPARATOR---
 10E
 10721 H 7200
 4.2.0
