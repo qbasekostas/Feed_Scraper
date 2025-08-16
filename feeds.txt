@@ -432,6 +432,14 @@ ID: Inter Milan vs Olympiakos
 Club Friendlies
 CW: 8D 9E 0F 3A 12 34 56 9C
 ---FEED-SEPARATOR---
+Basketball Friendly
+France vs Spain
+8W
+12672 V 7200
+DVB-S2 4:2:0 8PSK
+ID: Accorarena BASKET
+FTA
+---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
 12686 V 7200 | 4:2:0 | 8PSK
