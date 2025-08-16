@@ -1,3 +1,25 @@
+Eutelsat 7B-7C @ 07.0E
+11021 H 9876 |
+4:2:2
+ | 8PSK
+ID: 
+PS vs HSV Basis DFB
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Pirmasens v Hamburg
+CW: A7 C6 F7 64 B4 A2 CF 25
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11009 H 9876 |
+4:2:2
+ | 8PSK
+ID: 
+PS vs HSV sky live
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Pirmasens v Hamburg
+CW: 86 16 1E BA 43 22 66 CB
+---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3840 H 30000
 DVB-S2 - 1080P - 8PSK
@@ -47,6 +69,13 @@ ID: OVERON 1
 Event: 
 Spanish La Liga (Primera) - Week 1
 CW: 57 32 C8 51 85 ED A4 16
+---FEED-SEPARATOR---
+0.8°W
+11656 V 7200
+4:2:0
+ID: UKI-1646 ITV wrexham
+CW: A9 24 B2 7F BC 1C BA 92
+ELF Championship: Wrexham - West Bromwich
 ---FEED-SEPARATOR---
 EFL Championship - Wrexham vs West Bromwich
 100.5°E
