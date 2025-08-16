@@ -28,6 +28,15 @@ German Cup (DFB-Pokal) - Round 1
 Pirmasens v Hamburg
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
+German Super Cup - FINAL (MHP-Arena, Stuttgart)
+Stuttgart v Bayern Munich
+ST: 19:30
+10°E C-BAND
+TP:3904 V/H 3750
+ Signal-7 (*unnamed-1*)
+4.2.0
+#CW : F6 4D FD 40 F3 B1 26 CA  
+---FEED-SEPARATOR---
 MAXED007 said:
 #CW : B9 CA BD 5E E0 F1 23 F4
 Click to expand...
