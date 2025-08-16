@@ -28,6 +28,20 @@ German Cup (DFB-Pokal) - Round 1
 Pirmasens v Hamburg
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
+Event :Germany DFB Pokal - 1/32-finals
+Teams : Cottbus 
+ Hannover
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10973 H 9875
+ Fi16_GNVE (CM5000)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+22.680 
+Mbit/Sec|8PSK DVB-S2 HD
+CW: 40 32 D3 45 D5 E3 D5 8D
+---FEED-SEPARATOR---
 German Cup (DFB-Pokal) - Round 1
 Norderstedt v St Pauli
 ST: 14:30
