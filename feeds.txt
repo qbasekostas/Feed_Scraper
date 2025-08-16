@@ -413,6 +413,16 @@ Click to expand...
 New #CW:
 2E 86 33 E7 55 AD CE D0
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+12727 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+LAT-002
+Provider: All Media Latvia 
+Friendly,Exhibition Games Men 
+Latvia M - Slovenia M (17:00)
+CW: BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11140 V 9875 | 4:2:0 | 8PSK
 ID: SAU-032 - MAIN
