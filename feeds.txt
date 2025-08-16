@@ -28,6 +28,12 @@ German Cup (DFB-Pokal) - Round 1
 Pirmasens v Hamburg
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+10985 H 9875
+  Fi10_GNVE (EBUER)
+MPEG4-4:2:2 HD 1920x1080 |22.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: FD 00 3C 39 B6 D5 02 8D
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10960 V 9875 | 4:2:2 | 8PSK
 ID: DFB Pokal SKY Bahlingen-Heidenheim
@@ -42,6 +48,21 @@ ID: DFB Pokal Basis Balingen-Heidenheim
 DFB Pokal
  Bahlinger  vs  Heidenheim
 CW: 15 7C BC 4D 59 EC 36 7B
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11093 H 9875
+   Fi02_DECBC (EBUER)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+22.680 
+Mbit/Sec|8PSK DVB-S2 HD
+Event :
+Germany DFB Pokal - 1/32-finals
+Teams : Sandhausen 
+ RB Leipzig
+CW: FF 56 DE 33 76 D7 9E EB
 ---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3840 H 30000
