@@ -29,6 +29,16 @@ Pirmasens v Hamburg
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
 Event :Germany DFB Pokal - 1/32-finals
+Teams : BFC Dynamo 
+ Bochum
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+10960 H 9875
+  D171-1 (Betamobil)
+MPEG4-4:2:0 HD 1920x1080 |22.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 67 E0 4A 91 EA 2C C6 DC
+---FEED-SEPARATOR---
+Event :Germany DFB Pokal - 1/32-finals
 Teams : Hemelingen 
  Wolfsburg
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -129,6 +139,42 @@ DVB-S2 8PSK
 ID: Oldham v Swindon
 English League Two - Week 3
 Oldham Athletic v Swindon Town
+---FEED-SEPARATOR---
+1W
+10974 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID Thunder V Mavericks DR
+English Championship - Week 2
+Wrexham v West Bromwich Albion
+Video Free to Air
+---FEED-SEPARATOR---
+EFL Championship - Blackburn Rovers vs Birmingham City
+100.5°E
+3986 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 32 73 CE 73 32 E4 35 4B
+---FEED-SEPARATOR---
+fusillo said:
+			0.8°W
+11656 V 7200
+4:2:0
+ID: UKI-1646 ITV wrexham
+CW: A9 24 B2 7F BC 1C BA 92
+ELF Championship: Wrexham - West Bromwich
+Click to expand...
+1W
+10974 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID Thunder V Mavericks DR
+CW: A9 24 B2 7F BC 1C BA 92
+Audio
+English Championship - Week 2
+Wrexham v West Bromwich Albion
+Video Free to Air
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12726 V 7120 | 4:2:0 | 8PSK
