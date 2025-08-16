@@ -28,6 +28,18 @@ German Cup (DFB-Pokal) - Round 1
 Pirmasens v Hamburg
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
+German Cup (DFB-Pokal) - Round 1
+Norderstedt v St Pauli
+ST: 14:30
+03°E C-BAND
+TP:3775 H/V 3750
+ID
+FB
+DVB S2 1080i 4.2.0
+#CW : B9 CA BD 5E E0 F1 23 F4
+---FEED-SEPARATOR---
+delet my post dup
+---FEED-SEPARATOR---
 Event :Germany DFB Pokal - 1/32-finals
 Teams : BFC Dynamo 
  Bochum
@@ -148,6 +160,16 @@ ID Thunder V Mavericks DR
 English Championship - Week 2
 Wrexham v West Bromwich Albion
 Video Free to Air
+---FEED-SEPARATOR---
+Event: EnglandChampionship - Round 2
+Teams : Blackburn  
+ Birmingham
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11523 V 7120
+   Pitch - EFL - Blackburn v Birmingham (NEP CONNECT)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 32 73 CE 73 32 E4 35 4B
 ---FEED-SEPARATOR---
 EFL Championship - Blackburn Rovers vs Birmingham City
 100.5°E
