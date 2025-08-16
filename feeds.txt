@@ -28,6 +28,21 @@ German Cup (DFB-Pokal) - Round 1
 Pirmasens v Hamburg
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10960 V 9875 | 4:2:2 | 8PSK
+ID: DFB Pokal SKY Bahlingen-Heidenheim
+Event: German Cup (DFB-Pokal) - Round 1
+    Bahlingen v Heidenheim
+CW: 86 16 1E BA 43 22 66 CB
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11068 - V - 9874
+MPEG 4 - 4:2:2 - DVB-S2
+ID: DFB Pokal Basis Balingen-Heidenheim
+DFB Pokal
+ Bahlinger  vs  Heidenheim
+CW: 15 7C BC 4D 59 EC 36 7B
+---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3840 H 30000
 DVB-S2 - 1080P - 8PSK
@@ -121,3 +136,10 @@ FIBA Asia Cup 2025
 Click to expand...
 New #CW:
 2E 86 33 E7 55 AD CE D0
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11140 V 9875 | 4:2:0 | 8PSK
+ID: SAU-032 - MAIN
+Event: 
+FIBA Asia Cup 2025
+CW: A0 32 BA 8C 09 08 04 15
