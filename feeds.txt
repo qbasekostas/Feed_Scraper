@@ -1,4 +1,12 @@
 Eutelsat 7B-7C @ 07.0E
+11080 H 9875 | 4:2:2 | 8PSK
+ID: Fi17_GNVE (EBUER)
+Event: 
+German Cup (DFB-Pokal) - Round 1
+BFC Dynamo v Bochum
+CW: D3 F4 91 58 05 B6 41 FC
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 11021 H 9876 |
 4:2:2
  | 8PSK
@@ -92,3 +100,14 @@ Thor 5/6/7 & Intelsat 10-02 @ 0.8W
 ID:UKI1836 AVP P2 (Service Provider)
 1920x1080 |8PSK |4:2:0 HD
 CW: B1 1F CF 9F E6 91 1F 96
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+12686 V 7200 | 4:2:0 | 8PSK
+ID: 
+SAU-031 main
+Event: 
+FIBA Asia Cup 2025
+Click to expand...
+New #CW:
+2E 86 33 E7 55 AD CE D0
