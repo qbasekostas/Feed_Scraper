@@ -2,6 +2,17 @@ Asiasat 5 (100.5°E) C BAND
 3840 H 30000
 DVB-S2 - 1080P - 8PSK
 4:2:2
+ID:OVERON 2
+Super Saiyan said:
+			Event: 
+Spanish La Liga (Primera) - Week 1
+CW: DD 7C 50 A9 88 99 D4 F5
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
 ID:OVERON 1 
 Super Saiyan said:
 			Event: 
