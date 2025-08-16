@@ -1,9 +1,0 @@
-Eutelsat 7B-7C @ 07.0E
-11188 H 7200 |
-4:2:2
- | 8PSK
-ID: 
-BOL-CRE
-Event: 
-Friendly - Bologne v OFI Crete
-CW: B0 1B 3D 08 70 BD E6 13
