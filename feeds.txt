@@ -48,6 +48,14 @@ Event:
 Spanish La Liga (Primera) - Week 1
 CW: 57 32 C8 51 85 ED A4 16
 ---FEED-SEPARATOR---
+EFL Championship - Wrexham vs West Bromwich
+100.5°E
+3994 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: CC 45 32 43 59 22 0A 85
+---FEED-SEPARATOR---
 England Premier League - Round 1
 Aston Villa - Newcastle
 Thor 5/6/7 & Intelsat 10-02 @ 0.8W
