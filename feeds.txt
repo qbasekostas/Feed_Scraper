@@ -1,0 +1,35 @@
+Eutelsat 10B @ 10.0E
+10733 V 34000 | 4:2:2 | 8PSK
+ID: SUPPONOR AFRICA 2
+Event: 
+Spanish La Liga (Primera) - Week 1
+CW: DF EB 6E 38 A9 FE 71 18
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10733 V 34000 | 4:2:2 | 8PSK
+ID: OVERON 3
+Event: 
+Spanish La Liga (Primera) - Week 1
+CW: C7 76 B7 F4 92 72 EE F2
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10733 V 34000 | 4:2:2 | 8PSK
+ID: OVERON 2
+Event: 
+Spanish La Liga (Primera) - Week 1
+CW: DD 7C 50 A9 88 99 D4 F5
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10733 V 34000 | 4:2:2 | 8PSK
+ID: OVERON 1
+Event: 
+Spanish La Liga (Primera) - Week 1
+CW: 57 32 C8 51 85 ED A4 16
+---FEED-SEPARATOR---
+England Premier League - Round 1
+Aston Villa - Newcastle
+Thor 5/6/7 & Intelsat 10-02 @ 0.8W
+11499 V 7200
+ID:UKI1836 AVP P2 (Service Provider)
+1920x1080 |8PSK |4:2:0 HD
+CW: B1 1F CF 9F E6 91 1F 96
