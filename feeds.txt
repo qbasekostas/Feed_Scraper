@@ -28,6 +28,14 @@ German Cup (DFB-Pokal) - Round 1
 Pirmasens v Hamburg
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
+7e
+10961 V 9875
+4:2:2
+ID: D565 STGT 2A12 M
+German Super Cup - FINAL (MHP-Arena, Stuttgart)
+Stuttgart v Bayern Munich
+CW: B0 25 08 DD BC 35 9A 8B
+---FEED-SEPARATOR---
 German Super Cup - FINAL (MHP-Arena, Stuttgart)
 Stuttgart v Bayern Munich
 ST: 19:30
