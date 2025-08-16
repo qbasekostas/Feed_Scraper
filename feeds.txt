@@ -28,6 +28,37 @@ German Cup (DFB-Pokal) - Round 1
 Pirmasens v Hamburg
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
+Event :Germany DFB Pokal
+VfB Lubeck vs Darmstadt
+Eutelsat 7A @ 7.0°E
+11010 H
+ 9876
+1920x1080 
+|
+ 18 Mb/Sec 
+|
+ 4:2:2
+ID:
+  D571-2 Sky LÃ¼beck
+2E 3F 98 57 22 4A 3F 3F
+CW: 86 16 1E BA 43 22 66 CB
+---FEED-SEPARATOR---
+Event :Germany DFB Pokal
+Sportfreunde Lotte vs Freiburg
+Eutelsat 7A @ 7.0°E
+10998 
+H
+ 9876
+1920x1080 
+|
+ 7.21 Mb/Sec 
+|
+ 4:2:2
+ID:
+ D451_LOTTE_1E12_1
+89 61 74 10 46 46 6B 7F
+CW: 0F FA 0B 14 39 63 1A B6
+---FEED-SEPARATOR---
 Event :Germany DFB Pokal - 1/32-finals
 Teams : Cottbus 
  Hannover
@@ -174,6 +205,14 @@ ID Thunder V Mavericks DR
 English Championship - Week 2
 Wrexham v West Bromwich Albion
 Video Free to Air
+---FEED-SEPARATOR---
+EPL
+Sund V W Ham
+16E
+11106H
+7200
+ID PL sund. 
+CW 16 08 AD CB FC 16 87 99
 ---FEED-SEPARATOR---
 Event: EnglandChampionship - Round 2
 Teams : Blackburn  
