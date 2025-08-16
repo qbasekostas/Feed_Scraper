@@ -138,8 +138,6 @@ FB
 DVB S2 1080i 4.2.0
 #CW : B9 CA BD 5E E0 F1 23 F4
 ---FEED-SEPARATOR---
-delet my post dup
----FEED-SEPARATOR---
 Event :Germany DFB Pokal - 1/32-finals
 Teams : BFC Dynamo 
  Bochum
@@ -410,6 +408,13 @@ Thor 5/6/7 & Intelsat 10-02 @ 0.8W
 ID:UKI1836 AVP P2 (Service Provider)
 1920x1080 |8PSK |4:2:0 HD
 CW: B1 1F CF 9F E6 91 1F 96
+---FEED-SEPARATOR---
+10E
+10721 H 7200
+4.2.0
+ID: Inter Milan vs Olympiakos
+Club Friendlies
+CW: 8D 9E 0F 3A 12 34 56 9C
 ---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
