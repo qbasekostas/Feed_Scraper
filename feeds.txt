@@ -316,6 +316,14 @@ English Championship - Week 2
 Wrexham v West Bromwich Albion
 Video Free to Air
 ---FEED-SEPARATOR---
+10E
+10738 H 7200
+4.2.0
+ID: GCUK Enc  3
+Scottish League Cup
+Rangers F.C. - Alloa Athletic F.C.
+CW: CA 45 51 60 1D 3E EB 46
+---FEED-SEPARATOR---
 EPL
 Sund V W Ham
 16E
