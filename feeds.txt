@@ -3,7 +3,7 @@ Eutelsat 7B-7C @ 07.0E
 ID: Fi17_GNVE (EBUER)
 Event: 
 German Cup (DFB-Pokal) - Round 1
-BFC Dynamo v Bochum
+FC Eintracht Norderstedt 03 vs FC St.Pauli
 CW: D3 F4 91 58 05 B6 41 FC
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
@@ -77,6 +77,16 @@ ID: OVERON 1
 Event: 
 Spanish La Liga (Primera) - Week 1
 CW: 57 32 C8 51 85 ED A4 16
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12726 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch - EFL - Wrexham v West Bromwich
+orangebirds said:
+EFL Championship - 
+Wrexham vs West Bromwich
+CW: CC 45 32 43 59 22 0A 85
+Click to expand...
 ---FEED-SEPARATOR---
 0.8°W
 11656 V 7200
