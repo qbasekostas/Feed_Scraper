@@ -1,3 +1,14 @@
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:OVERON 1 
+Super Saiyan said:
+			Event: 
+Spanish La Liga (Primera) - Week 1
+CW: 57 32 C8 51 85 ED A4 16
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10733 V 34000 | 4:2:2 | 8PSK
 ID: SUPPONOR AFRICA 2
