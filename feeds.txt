@@ -38,6 +38,14 @@ German Cup (DFB-Pokal) - Round 1
 CW: AC DC 27 AF 06 AB BA 6B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
+10973 H 9875 | 4:2:2 | 8PSK
+ID: D565 HAL 1C12 M
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Hallescher FC v Augsburg
+CW: 5A 61 53 0E C8 96 F7 55
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 10985 H 9875 |
 4:2:2
  | 8PSK
@@ -175,6 +183,13 @@ LaLiga
 Celta de Vigo vs Getafe
 CW: 4B D9 2F 53 9D 6E 24 2F
 ---FEED-SEPARATOR---
+28.2E
+12520 H 7120 4:2:0
+DVBS-2 16APSK
+ID Cloudbass
+Scottish SWPL 1 -  Week 1
+Hibernian v Aberdeen
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12726 V 7120 | 4:2:0 | 8PSK
 ID: Pitch - EFL Ipswich v Southampton
@@ -210,6 +225,13 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11514 V 6666 | 4:2:0 | 8PSK
+ID: BeIN - EPL Unilateral - Man United
+Event: beIN Reporters for 
+Manchester United v Arsenal
+CW: CC 84 74 C4 4D 47 B5 49
 ---FEED-SEPARATOR---
 1W
 11674 V 7200 
