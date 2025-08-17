@@ -1,4 +1,32 @@
 LaLiga
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 3
+CW: EB 17 9B 9D 95 EF 49 CD
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 1
+FaDeL® said:
+LaLiga 
+Celta de Vigo vs Getafe
+CW: 4B D9 2F 53 9D 6E 24 2F
+Click to expand...
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 2
+FaDeL® said:
+LaLiga Athletic Bilbao vs Sevilla
+CW: B5 15 D9 A3 51 29 00 7A
+Click to expand...
+---FEED-SEPARATOR---
+LaLiga
  Athletic Bilbao vs Sevilla
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
