@@ -189,6 +189,15 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+1W
+11674 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID No Name
+CW: 92 9B 1A 47 0B 54 D6 35
+Scottish League Cup - Round of 16
+Livingston v Hibernian
+---FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12594 V  9600
 ID: POL-080 POL-FIN
