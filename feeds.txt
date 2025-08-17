@@ -37,6 +37,31 @@ Event:
 German Cup (DFB-Pokal) - Round 1
 CW: AC DC 27 AF 06 AB BA 6B
 ---FEED-SEPARATOR---
+7E
+11009 H 9875
+4.2.2
+ID: D565 HAL 1K12 M
+DFB-Pokal
+Hallescher FC - FC Augsburg
+CW: 90 C9 25 7E 1F E3 11 13
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+10985 H 9875 |
+4:2:2
+ | 8PSK
+ID: 
+HOM vs KSV Basis DFB
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Homburg v Holstein Kiel
+CW: 25 DA FE FD AC CD A9 22
+Click to expand...
+NOW
+11021 H 9875
+4.2.2
+ID: HOM vs KSV Basis DFB
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10996 H 9875 | 4:2:2 | 8PSK
 ID: Fi15_GNVE
