@@ -190,6 +190,22 @@ German Cup (DFB-Pokal) - Round 1
 Atlas Delmenhorst v Mönchengladbach
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |9,23Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 1
+Teams: RCD Espanyol vs Atlético de Madrid
+Time / Kickoff: 02.30 JKT-TH / 03.30 MY-SG / 19.30 GMT / 21.30 CET
+FaDeL® said:
+#CW:
+EF DE 3D 0A AB 19 05 C9
+Click to expand...
+---FEED-SEPARATOR---
 FaDeL® said:
 			EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
