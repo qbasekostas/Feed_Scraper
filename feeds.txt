@@ -1,3 +1,17 @@
+Eutelsat 7B-7C @ 07.0E
+11021 H 9875 | 4:2:2 | 8PSK
+ID: UKI-1462_2
+Event: 
+German Cup (DFB-Pokal) - Round 1
+CW: 86 16 1E BA 43 22 66 CB
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11009 H 9875 | 4:2:2 | 8PSK
+ID: UKI-1462_1
+Event: 
+German Cup (DFB-Pokal) - Round 1
+CW: AC DC 27 AF 06 AB BA 6B
+---FEED-SEPARATOR---
 LaLiga
 Asiasat 5 (100.5°E) C BAND
 3840 H 30000
@@ -50,6 +64,16 @@ ID:OVERON 1
 LaLiga 
 Celta de Vigo vs Getafe
 CW: 4B D9 2F 53 9D 6E 24 2F
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12726 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Pitch - EFL Highlights
+orangebirds said:
+EFL Highlights
+CW: 53 23 CF 45 32 88 42 FC
+Click to expand...
 ---FEED-SEPARATOR---
 EFL Championship - Ipswich Town vs Southampton
 100.5°E
