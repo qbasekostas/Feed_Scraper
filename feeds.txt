@@ -165,6 +165,27 @@ German Cup (DFB-Pokal) - Round 1
 Atlas Delmenhorst v Mönchengladbach
 CW: 86 16 1E BA 43 22 66 CB
 ---FEED-SEPARATOR---
+FaDeL® said:
+			EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 1
+LaLiga
+Athletic Bilbao vs Sevilla
+CW: EF DE 3D 0A AB 19 05 C9
+Click to expand...
+Event : SpainLaLiga - Round 1
+Teams : Espanyol 
+ Atl. Madrid
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 1
+LaLiga
+Athletic Bilbao vs Sevilla
+CW: EF DE 3D 0A AB 19 05 C9
+---FEED-SEPARATOR---
 orangebirds said:
 LaLiga - Espanyol vs Atletico Madrid
 100.5°E
