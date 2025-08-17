@@ -37,6 +37,18 @@ Event:
 German Cup (DFB-Pokal) - Round 1
 CW: AC DC 27 AF 06 AB BA 6B
 ---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+10973 H 9875 | 4:2:2 | 8PSK
+ID: D565 HAL 1C12 M
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Hallescher FC v Augsburg
+CW: 5A 61 53 0E C8 96 F7 55
+Click to expand...
+NEW 
+CW: 86 16 1E BA 43 22 66 CB
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10973 H 9875 | 4:2:2 | 8PSK
 ID: D565 HAL 1C12 M
