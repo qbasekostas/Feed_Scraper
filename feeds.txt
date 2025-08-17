@@ -206,19 +206,6 @@ FaDeL® said:
 EF DE 3D 0A AB 19 05 C9
 Click to expand...
 ---FEED-SEPARATOR---
-FaDeL® said:
-			EUTELSAT 10A (10°E)
-Fréq:10731 - V - 34000
-MPEG 4 - 4:2:2 - DVB-S2
-ID:OVERON 1
-LaLiga
-Athletic Bilbao vs Sevilla
-CW: EF DE 3D 0A AB 19 05 C9
-Click to expand...
-Event : SpainLaLiga - Round 1
-Teams : Espanyol 
- Atl. Madrid
----FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
