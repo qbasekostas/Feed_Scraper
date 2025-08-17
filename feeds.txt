@@ -1,4 +1,15 @@
 Eutelsat 7B-7C @ 07.0E
+11068 V 9875 |
+4:2:2
+ | 8PSK
+ID: 
+D535 4E12 DLMH-1
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Atlas Delmenhorst v Mönchengladbach
+CW: E2 B1 13 A6 49 EA F6 29
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 11021 H 9875 | 4:2:2 | 8PSK
 ID: UKI-1462_2
 Event: 
@@ -90,3 +101,24 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+12676 V 7200 | 4:2:0 | 8PSK
+Click to expand...
+Super Saiyan said:
+ID: TUR-142 M
+Event: 
+FIBA Asia Cup 2025
+Click to expand...
+CW: 79 29 8D 2F 8F F2 D7 58
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+12686 V 7200 | 4:2:0 | 8PSK
+ID: 
+SAU-031 main
+Event: 
+FIBA Asia Cup 2025
+Click to expand...
+CW: 79 29 8D 2F 8F F2 D7 58
