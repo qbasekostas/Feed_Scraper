@@ -37,6 +37,28 @@ Event:
 German Cup (DFB-Pokal) - Round 1
 CW: AC DC 27 AF 06 AB BA 6B
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10985 H 9875 |
+4:2:2
+ | 8PSK
+ID: 
+HOM vs KSV Basis DFB
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Homburg v Holstein Kiel
+CW: 25 DA FE FD AC CD A9 22
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10985 H 9875 |
+4:2:2
+ | 8PSK
+ID: 
+HOM vs KSV sky live
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Homburg v Holstein Kiel
+CW: 86 16 1E BA 43 22 66 CB
+---FEED-SEPARATOR---
 German Cup (DFB-Pokal)
 FC Lokomotive Leipzig vs FC Schalke 04
 16.0E
