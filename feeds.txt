@@ -50,3 +50,19 @@ ID:OVERON 1
 LaLiga 
 Celta de Vigo vs Getafe
 CW: 4B D9 2F 53 9D 6E 24 2F
+---FEED-SEPARATOR---
+EFL Championship - Ipswich Town vs Southampton
+100.5°E
+3986 V 7120
+ID : BT_SES_16_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: BD 37 C3 B7 27 14 41 7C
+---FEED-SEPARATOR---
+EFL Highlights
+100.5°E
+3994 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 53 23 CF 45 32 88 42 FC
