@@ -37,6 +37,20 @@ Event:
 German Cup (DFB-Pokal) - Round 1
 CW: AC DC 27 AF 06 AB BA 6B
 ---FEED-SEPARATOR---
+Event :GermanyDFB Pokal - 1/32-finals
+Teams :ZFC Meuselwitz 
+ Karlsruher SC
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11081 V 9875
+  ITA 415_1  (Live Images)
+MPEG4-
+4:2:2
+ HD 1920x1080 
+|22.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: DE B9 DF 76 1B 57 CC 3E
+---FEED-SEPARATOR---
 Blau-Weiss Lohne vs SpVgg Greuther Fürth
 Eutelsat 7B/7C @ 7.0E
 11092 V 9875
