@@ -96,6 +96,21 @@ Italian Cup (Coppa Italia) - 1st Round
 Audace Cerignola v Hellas Verona
 CW: AB C1 88 F4 20 25 AB F0
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,01Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 1
+Teams: Elche CF vs Real Betis
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Super Saiyan said:
+CW: D9 6D 0D 53 AE AF FE 5B
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10732 V 34000 |
 4:2:0 
