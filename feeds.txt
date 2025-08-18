@@ -1,3 +1,13 @@
+Eutelsat 7B-7C @ 07.0E
+11104 H 9875 | 4:2:2 | 8PSK
+ID: Fi11_GNVE (CM5000)
+Event: 
+German Cup (DFB-Pokal) - Round 1
+Rot-Weiss Essen v 
+Borussia
+Dortmund
+CW: F1 0F ED ED 0A C7 1D EE
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11010  Horizontal  9874,854
 ID: FI16_ GNVE
