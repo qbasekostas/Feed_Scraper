@@ -1,3 +1,13 @@
+Eutelsat 7B-7C @ 07.0E
+10996 H 9875 |
+4:2:2
+ | 8PSK
+ID: 
+Fi17_GNVE
+Event: 
+German Cup (DFB-Pokal) - Round 1
+CW: B4 C3 B0 27 C2 6F 27 58
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10732 V 34000 |
 4:2:0 
