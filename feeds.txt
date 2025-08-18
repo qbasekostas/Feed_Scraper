@@ -1,3 +1,21 @@
+German Cup (DFB-Pokal) - Round 1
+Rot-Weiss Essen v Borussia Dortmund
+ST: 19:45
+03°E C-BAND
+TP:3779 H/V 3750
+DFB
+DVB S2 1080i
+ 4.2.0
+#CW : B9 CA BD 5E E0 F1 23 F4
+---FEED-SEPARATOR---
+German Cup (DFB-Pokal) - Round 1
+Rot-Weiss Essen v Borussia Dortmund
+Eutelsat 16A (16.0°E)
+10974 H 3599
+DVB-S2 4:2:0 HD
+ID: Fal4 Enc1
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11104 H 9875 | 4:2:2 | 8PSK
 ID: Fi11_GNVE (CM5000)
