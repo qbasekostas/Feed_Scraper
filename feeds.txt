@@ -8,6 +8,17 @@ Event:
 German Cup (DFB-Pokal) - Round 1
 CW: B4 C3 B0 27 C2 6F 27 58
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12560 H 9600 |
+4:2:2
+ | 8PSK
+ID: 
+ITA555 A
+Event: 
+Italian Cup (Coppa Italia) - 1st Round
+Audace Cerignola v Hellas Verona
+CW: AB C1 88 F4 20 25 AB F0
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10732 V 34000 |
 4:2:0 
@@ -29,3 +40,11 @@ Event:
 Spanish La Liga (Primera) - Week 1
 Elche v Real Betis
 CW: D9 6D 0D 53 AE AF FE 5B
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12644 H 9600 | 4:2:0 | 8PSK
+ID: SNG ATLAS-SAT 1
+Event: 
+Greek Cup - 1st Round Qualifier
+    Niki Volou v Panetolikos
+CW: AA BB 44 A9 55 CC AA CB
