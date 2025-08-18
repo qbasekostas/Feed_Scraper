@@ -1,5 +1,16 @@
 Eutelsat 10B @ 10.0E
 10732 V 34000 |
+4:2:0 
+| 8PSK
+ID: 
+LIGA HYPERMOTION 1
+Event: 
+Spanish La Liga 2 - Week 1
+Sporting Gijón v Córdoba
+CW: EE 0D DE D9 53 09 B6 12
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10732 V 34000 |
 4:2:2
  | 8PSK
 ID: 
