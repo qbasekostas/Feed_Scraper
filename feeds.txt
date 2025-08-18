@@ -38,6 +38,42 @@ Event:
 German Cup (DFB-Pokal) - Round 1
 CW: B4 C3 B0 27 C2 6F 27 58
 ---FEED-SEPARATOR---
+Eutelsat 33E @ 33.0E
+11148 H 9600 | 4:2:2 | 8PSK
+ID: SPEZIA_SAMP
+Event: 
+Italian Cup (Coppa Italia) - 1st Round
+Spezia v Sampdoria
+CW: 10 BF 39 08 7D F0 FB 68
+---FEED-SEPARATOR---
+Eutelsat 33E @ 33.0E
+11136 H 9600 |
+4:2:2
+ | 8PSK
+ID: SPEZIA_samp
+Event: 
+Italian Cup (Coppa Italia) - 1st Round
+Spezia v Sampdoria
+CW: 10 BF 39 08 7D F0 FB 68
+---FEED-SEPARATOR---
+Eutelsat 33E @ 33.0E
+11107 H 9600 |
+4:2:2
+ | 8PSK
+ID: ITA 81 B
+Event: 
+Italian Cup (Coppa Italia) - 1st Round
+Audace Cerignola v Hellas Verona
+CW: AB C1 88 F4 20 25 AB F0
+---FEED-SEPARATOR---
+Eutelsat 33E @ 33.0E
+11095 H 9600 | 4:2:2 | 8PSK
+ID: ITA 81 A
+Event: 
+Italian Cup (Coppa Italia) - 1st Round
+Audace Cerignola v Hellas Verona
+CW: AB C1 88 F4 20 25 AB F0
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12574 H 9600 |
 4:2:2
