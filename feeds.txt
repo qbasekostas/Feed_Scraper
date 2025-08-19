@@ -114,6 +114,17 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 C7 D3 24 60 A5 D6 EB B3  #CW:21 4B E3 4F 45 A3 21 09   
 Walsall vs Grimsby
 ---FEED-SEPARATOR---
+C L Instant highlights
+7°E
+10997 
+H 
+9875
+DVB-S2-
+4:2:2
+- 8PSK
+ID:Fi01_GBIV
+CW: A7 65 44 50 45 61 E0 86
+---FEED-SEPARATOR---
 UEFA Champions League - Play-Off Round (1st Leg)
 Red Star Belgrade v Pafos FC
  ST: 20:00
