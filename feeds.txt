@@ -1,0 +1,8 @@
+Eutelsat 7B-7C @ 07.0E
+12548 H 9600 | 4:2:0 | 8PSK
+ID: 
+SNG ABC 1
+Event: 
+Greek Cup - 1st Round Qualifier
+Kalamata v AEL Larissa
+CW: 22 BB 44 21 CC 55 AA CB
