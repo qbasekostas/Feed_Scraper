@@ -61,6 +61,15 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 46 (2E)
 CW: 18 8B 48 EB 49 0C 8D E2
 ---FEED-SEPARATOR---
+30W Hispasat 
+12092H30000
+ID: ENC 203-ICRT
+MPEG 4 - 4:2:0 - DVB-S2
+La Liga
+Real Madrid 
+ Osasuna
+CW: 33 42 AC 21 CF 22 14 05
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -85,12 +94,38 @@ LaLiga
  Real Madrid vs Osasuna
 CW: 0F C8 AA 81 6C FD DD 46
 ---FEED-SEPARATOR---
+English League Two - Week 4
+Walsall v Grimsby Town
+ ST: 20:00
+7°E
+12726 
+V 
+7120
+DVB-S2-
+4:2:0
+- 8PSK
+ID:  PITCH Walsall v Grimsby
+CW: 21 4B E3 4F 45 A3 21 09
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3995 V 7120
 ID: BT_SES_22_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 C7 D3 24 60 A5 D6 EB B3  #CW:21 4B E3 4F 45 A3 21 09   
-𝐄𝐅𝐋 𝐋𝐞𝐚𝐠𝐮𝐞 𝐎𝐧𝐞
+Walsall vs Grimsby
+---FEED-SEPARATOR---
+UEFA Champions League - Play-Off Round (1st Leg)
+Red Star Belgrade v Pafos FC
+ ST: 20:00
+7°E
+12640  
+V 
+4937
+DVB-S2-
+4:2:0
+- 8PSK
+ID: YSM-012 Main
+CW: 20 25 CC 11 CC 20 24 10
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11022 H 7200 | 4:2:0 | 8PSK
