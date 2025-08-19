@@ -1,4 +1,12 @@
 Eutelsat 7B-7C @ 07.0E
+11022 H 7200 | 4:2:0 | 8PSK
+ID: 
+GVA_Fi06
+Event: 
+FIBA Afrobasket 2025 - 
+Tunisia v Cape Verde
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 12548 H 9600 | 4:2:0 | 8PSK
 ID: 
 SNG ABC 1
