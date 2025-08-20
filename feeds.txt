@@ -1,3 +1,23 @@
+Eutelsat 7B-7C @ 07.0E
+12726 V 7120 | 4:2:0 | 8PSK
+ID: 
+Pitch- EFL Bolton v Reading
+Event:
+English League One - Week 4
+Bolton Wanderers v Reading
+CW: 99 FE 13 AA 55 2D C1 43
+---FEED-SEPARATOR---
+Gevs999 said:
+Türksat 3A - 4A (42.0°E)
+11478
+ - Pol: 
+V
+ - SR: 
+6800
+Fenerbahçe-Benfica
+Click to expand...
+CW: 25 67 00 8C 00 25 67 8C
+---FEED-SEPARATOR---
 Event :Europe Champions League - Qualification - Final
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
