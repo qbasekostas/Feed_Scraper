@@ -1,3 +1,23 @@
+Event :WorldFriendly International
+Teams : Lithuania 
+ Turkey
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12646 H 7200
+   LAT-002 (All Media Latvia)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
+Event :WorldFriendly International
+Teams : Greece 
+ RB Latvia
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11127 H 7200
+  GRE VS LAT MAIN (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: BA 20 21 FB 22 08 25 4F
+---FEED-SEPARATOR---
 Greek Cup - Qualifying Round
 Panionios vs Iraklis
 7e
