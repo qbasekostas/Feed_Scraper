@@ -1,3 +1,15 @@
+Event :Europe Champions League - Qualification - Final
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10998 H 9875
+  Fi01_GBIV (EBUER)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.007 
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 83 AD D2 02 F1 9A 69 F4
+---FEED-SEPARATOR---
 Event :WorldFriendly International
 Teams : Lithuania 
  Turkey
