@@ -16,22 +16,6 @@ England League One, Round 4
  Bolton Wanderers vs Reading
 CW: 99 FE 13 AA 55 2D C1 43
 ---FEED-SEPARATOR---
-Abo Saeid Satellite said:
-Event :Europe Champions League - Qualification - Final
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-10998 H 9875
-  Fi01_GBIV (EBUER)
-MPEG4-
-4:2:2
- HD 1920x1080 |
-22.007 
- Mbit/Sec|8PSK DVB-S2 HD
-CW: 83 AD D2 02 F1 9A 69 F4
-Click to expand...
-Feed changed to 
-4:2:0
----FEED-SEPARATOR---
 Gevs999 said:
 Türksat 3A - 4A (42.0°E)
 11478
@@ -49,7 +33,7 @@ Eutelsat 7A/7B/7C @ 7.0°E
 10998 H 9875
   Fi01_GBIV (EBUER)
 MPEG4-
-4:2:2
+4:2:0
  HD 1920x1080 |
 22.007 
  Mbit/Sec|8PSK DVB-S2 HD
