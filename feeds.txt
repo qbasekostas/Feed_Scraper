@@ -41,3 +41,36 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: SWE-043 BK Ha-CFR CI
 CW: 12 8D 9E 3D 0F 12 34 55
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
+Jagiellonia vs. Dinamo City
+Eutelsat 7B/7C @ 7.0°E
+12594 - V - 9600 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: POL 103
+CW: 20 25 AB F0 CD 1E CA B5
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
+Strasbourg vs. Brøndby
+Eutelsat 7B/7C @ 7.0°E
+11190 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: F386 VIA STORIA/1
+CW: 21 08 20 49 25 FF DA FE
+---FEED-SEPARATOR---
+UEFA Europa League - Play-Off Round (1st Leg)
+Rijeka vs. PAOK Thessaloniki
+Eutelsat 7B/7C @ 7.0°E
+12646 - H - 7500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: CRO-005 Main RIJ-PAOK
+CW: 12 34 AB F1 CD 20 25 12
