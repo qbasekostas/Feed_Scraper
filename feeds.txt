@@ -1,4 +1,12 @@
 28.2E
+12572 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID World Feed Shel v Lin
+UEFA Conference League - Play-Off (1st Leg)
+Shelbourne v Linfield
+---FEED-SEPARATOR---
+28.2E
 12585 V 9600 
 4:2:0
 DVBS-2 8PSK
