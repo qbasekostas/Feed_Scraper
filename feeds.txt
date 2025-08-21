@@ -64,6 +64,46 @@ Eutelsat 7B/7C @ 7.0°E
 ID: SWE-043 BK Ha-CFR CI
 CW: 12 8D 9E 3D 0F 12 34 55
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11126 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:UEFA EL SLB - YBB
+CW: 52 27 AE 27 AD 67 32 46
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
+Shkëndija vs. Ludogorets
+Eutelsat 7B/7C @ 7.0°E
+11460 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVB
+CW: 20 25 AA EF DD 20 25 22
+---FEED-SEPARATOR---
+UEFA Europa League - Play-Off Round (1st Leg)
+Panathinaikos vs.  Samsunspor
+Eutelsat 7B/7C @ 7.0°E
+12654 - V - 9600 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SNG ABC 1
+CW: 12 34 BB 01 CC 56 78 9A
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
+Levski Sofia vs. AZ Alkmaar
+Eutelsat 7B/7C @ 7.0°E
+11181 - V - 6900 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: ATV Broadcast Solutions
+CW: 90 12 38 DA 45 69 23 D1
+---FEED-SEPARATOR---
 UEFA Conference League - Play-Off Round (1st Leg)
 Raków Czestochowa vs. Arda
 Eutelsat 7B/7C @ 7.0°E
