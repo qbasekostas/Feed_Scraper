@@ -54,6 +54,17 @@ ID: SWE-043 BK Ha-CFR CI
 CW: 12 8D 9E 3D 0F 12 34 55
 ---FEED-SEPARATOR---
 UEFA Conference League - Play-Off Round (1st Leg)
+Sparta Prague vs.  FC Riga
+Eutelsat 7B/7C @ 7.0°E
+12677 - H - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: CZE-041-M
+CW: 12 35 BD 04 A5 DA 42 C1
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
 Istanbul Basaksehir vs. Universitatea Craiova
 Eutelsat 7B/7C @ 7.0°E
 12686 - V - 7200 
