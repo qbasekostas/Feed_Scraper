@@ -30,6 +30,8 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: GC Encoder 10
 CW: 2D E4 44 55 AC DB B1 38
+NEW: 
+DC EA 34 FA 11 CD 33 11
 ---FEED-SEPARATOR---
 UEFA Conference League - Play-Off Round (1st Leg)
 Anderlecht vs. AEK Athens
@@ -64,6 +66,47 @@ Eutelsat 7B/7C @ 7.0°E
 ID: SWE-043 BK Ha-CFR CI
 CW: 12 8D 9E 3D 0F 12 34 55
 ---FEED-SEPARATOR---
+UEFA Europa League - Play-Off Round (1st Leg)
+Aberdeen vs. FCSB
+Eutelsat 7B/7C @ 7.0°E
+11606 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 4
+CW: CE 5A B2 DA 2C DB C2 C9
+---FEED-SEPARATOR---
+yun said:
+			New key?
+Click to expand...
+DCEA34FA11CD3311
+---FEED-SEPARATOR---
+Dani Sat said:
+UEFA Conference League - Play-Off Round (1st Leg)
+Shakhtar Donetsk vs. Servette
+Eutelsat 7B/7C @ 7.0°E
+11597 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GC Encoder 10
+CW: 2D E4 44 55 AC DB B1 38
+Click to expand...
+NEW: DC EA 34 FA 11 CD 33 11
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+UEFA Europa Conference League
+FC Lausanne-Sport vs Beşiktaş
+12643 V 6974
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Lausanne: FB UECL
+CW: 20 25 45 8A BB 33 AD 9B
+---FEED-SEPARATOR---
+UEFA Europa League
+ŠK Slovan Bratislava vs Young Boys
 Eutelsat 7B/7C @ 7.0E
 11126 V 7200
 DVB-S2 - 1080P - 8PSK
@@ -79,7 +122,7 @@ Eutelsat 7B/7C @ 7.0°E
 4:2:0
  | H.264
 1920*1080 | DVB-S2 | 8PSK
-ID: OVB
+ID: OViB
 CW: 20 25 AA EF DD 20 25 22
 ---FEED-SEPARATOR---
 UEFA Europa League - Play-Off Round (1st Leg)
@@ -170,16 +213,13 @@ Eutelsat 7B/7C @ 7.0°E
 ID: CRO-005 Main RIJ-PAOK
 CW: 12 34 AB F1 CD 20 25 12
 ---FEED-SEPARATOR---
-Dani Sat said:
-UEFA Europa League - Play-Off Round (1st Leg)
-Anderlecht vs. AEK Athens
-Eutelsat 7B/7C @ 7.0°E
-11552 - V - 7200 
-|
-4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: BEL68 - Enc: 1 AND-ATH
-CW: FB 25 CC EC 08 AA 21 D3
-Click to expand...
-CW is not working?!
+SATELLITE Name : Eutelsat 16 (16.0°E)
+KU Band
+FREQUENCY: 10997V SR7200
+DVB-S2 8PSK
+Format 4:2:0
+Event
+ Friendly game from Belgrade Arena
+Serbia - Slovenia
+1080p HD FORMAT
+CW: 20 25 CC 11 CC 20 24 10
