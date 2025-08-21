@@ -1,4 +1,26 @@
 UEFA Conference League - Play-Off Round (1st Leg)
+Shakhtar Donetsk vs. Servette
+Eutelsat 7B/7C @ 7.0°E
+11597 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GC Encoder 10
+CW: 2D E4 44 55 AC DB B1 38
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
+Anderlecht vs. AEK Athens
+Eutelsat 7B/7C @ 7.0°E
+11552 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: BEL68 - Enc: 1 AND-ATH
+CW: FB 25 CC EC 08 AA 21 D3
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
 Györ vs.  Rapid Vienna
 Eutelsat 7B/7C @ 7.0°E
 11181 - H - 7200 
