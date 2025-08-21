@@ -1,0 +1,10 @@
+UEFA Conference League - Play-Off Round (1st Leg)
+BK Häcken vs. CFR Cluj
+Eutelsat 7B/7C @ 7.0°E
+12686 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SWE-043 BK Ha-CFR CI
+CW: 12 8D 9E 3D 0F 12 34 55
