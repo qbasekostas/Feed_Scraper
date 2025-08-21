@@ -1,4 +1,15 @@
 UEFA Conference League - Play-Off Round (1st Leg)
+Wolfsberger AC vs. Omonia Nicosia
+Eutelsat 7B/7C @ 7.0°E
+11588 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: WOL-NIK
+FTA
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
 Shakhtar Donetsk vs. Servette
 Eutelsat 7B/7C @ 7.0°E
 11597 - V - 7200 
@@ -43,6 +54,17 @@ ID: SWE-043 BK Ha-CFR CI
 CW: 12 8D 9E 3D 0F 12 34 55
 ---FEED-SEPARATOR---
 UEFA Conference League - Play-Off Round (1st Leg)
+Istanbul Basaksehir vs. Universitatea Craiova
+Eutelsat 7B/7C @ 7.0°E
+12686 - V - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: TUR 126 A
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
 Jagiellonia vs. Dinamo City
 Eutelsat 7B/7C @ 7.0°E
 12594 - V - 9600 
@@ -74,3 +96,17 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: CRO-005 Main RIJ-PAOK
 CW: 12 34 AB F1 CD 20 25 12
+---FEED-SEPARATOR---
+Dani Sat said:
+UEFA Europa League - Play-Off Round (1st Leg)
+Anderlecht vs. AEK Athens
+Eutelsat 7B/7C @ 7.0°E
+11552 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: BEL68 - Enc: 1 AND-ATH
+CW: FB 25 CC EC 08 AA 21 D3
+Click to expand...
+CW is not working?!
