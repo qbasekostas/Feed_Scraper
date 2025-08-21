@@ -1,3 +1,14 @@
+UEFA Europa League - Play-Off Round (1st Leg)
+Zrinjski vs. Utrecht
+Eutelsat 7B/7C @ 7.0°E
+12634 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: BIH-003-2
+FTA
+---FEED-SEPARATOR---
 UEFA Conference League - Play-Off Round (1st Leg)
 Wolfsberger AC vs. Omonia Nicosia
 Eutelsat 7B/7C @ 7.0°E
@@ -52,6 +63,17 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: SWE-043 BK Ha-CFR CI
 CW: 12 8D 9E 3D 0F 12 34 55
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
+Raków Czestochowa vs. Arda
+Eutelsat 7B/7C @ 7.0°E
+11137 - V - 9600 
+|
+4:2:2 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: POL 030
+CW: 10 96 01 A7 CA 30 25 1F
 ---FEED-SEPARATOR---
 UEFA Conference League - Play-Off Round (1st Leg)
 Sparta Prague vs.  FC Riga
