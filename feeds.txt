@@ -1,4 +1,15 @@
 UEFA Conference League - Play-Off Round (1st Leg)
+Györ vs.  Rapid Vienna
+Eutelsat 7B/7C @ 7.0°E
+11181 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SNG HUN-019 Line1
+CW: 20 25 DD 22 AA FF DA 83
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
 BK Häcken vs. CFR Cluj
 Eutelsat 7B/7C @ 7.0°E
 12686 - H - 7200 
