@@ -1,3 +1,11 @@
+28.2E
+12585 V 9600 
+4:2:0
+DVBS-2 8PSK
+ID RTE Shel v Lin
+UEFA Conference League - Play-Off (1st Leg)
+Shelbourne v Linfield
+---FEED-SEPARATOR---
 UEFA Europa League - Play-Off Round (1st Leg)
 Zrinjski vs. Utrecht
 Eutelsat 7B/7C @ 7.0°E
@@ -66,6 +74,28 @@ Eutelsat 7B/7C @ 7.0°E
 ID: SWE-043 BK Ha-CFR CI
 CW: 12 8D 9E 3D 0F 12 34 55
 ---FEED-SEPARATOR---
+16e
+10985 V 9600
+4:2:2
+ID: 
+POL-78 ENC 1
+Europa League
+Lech Poznan (Pol)
+Genk (Bel)
+3D 0D 9A 64 C1 0D 56 52  #CW: 
+07 8C AE 41 21 08 25 4E
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (1st Leg)
+Hibernian vs. Legia Warsaw
+Eutelsat 7B/7C @ 7.0°E
+11523 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Hibernian vs Legia Warsaw
+CW: A1 B2 C3 16 D4 E5 F6 AF
+---FEED-SEPARATOR---
 UEFA Europa League - Play-Off Round (1st Leg)
 Aberdeen vs. FCSB
 Eutelsat 7B/7C @ 7.0°E
@@ -76,25 +106,6 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: GCUK Enc 4
 CW: CE 5A B2 DA 2C DB C2 C9
----FEED-SEPARATOR---
-yun said:
-			New key?
-Click to expand...
-DCEA34FA11CD3311
----FEED-SEPARATOR---
-Dani Sat said:
-UEFA Conference League - Play-Off Round (1st Leg)
-Shakhtar Donetsk vs. Servette
-Eutelsat 7B/7C @ 7.0°E
-11597 - V - 7200 
-|
-4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: GC Encoder 10
-CW: 2D E4 44 55 AC DB B1 38
-Click to expand...
-NEW: DC EA 34 FA 11 CD 33 11
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 UEFA Europa Conference League
@@ -114,7 +125,7 @@ DVB-S2 - 1080P - 8PSK
 ID:UEFA EL SLB - YBB
 CW: 52 27 AE 27 AD 67 32 46
 ---FEED-SEPARATOR---
-UEFA Conference League - Play-Off Round (1st Leg)
+UEFA Europa League - Play-Off Round (1st Leg)
 Shkëndija vs. Ludogorets
 Eutelsat 7B/7C @ 7.0°E
 11460 - V - 7200 
