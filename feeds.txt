@@ -1,5 +1,6 @@
 German 1. Bundesliga - Week 1
-Bayern Munich vs. RB Leipzig
+Bayern Munich vs. RB Leipzig 
+(Reporters Feed)
 Eutelsat 7B/7C @ 7.0°E
 11009 - V - 9875 
 |
@@ -61,6 +62,15 @@ Eutelsat 7B/7C @ 7.0°E
 ID: FCM vs RBL Basic DFL
 CW: 0D 21 9A C8 E3 0E E6 D7
 ---FEED-SEPARATOR---
+10E
+11248 H 9600
+11260 h 9600
+4.2.2
+ID: ITA727ENC 1/ Enc2
+Serie B
+Delfino Pescara 1936 - Cesena FC
+CW: BC 01 20 DD 25 22 08 4F
+---FEED-SEPARATOR---
 Serie B
 Pescara x Cesena
 7.0E
@@ -93,6 +103,36 @@ DVB-S2 - 1080P - 8PSK
 4:2:2
 ID: OVERON 1
 CW: 75 ED 94 F6 69 7B A9 8D
+---FEED-SEPARATOR---
+16E
+12692 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship - Week 3
+Raith Rovers v Dunfermline Athletic
+---FEED-SEPARATOR---
+orangebirds said:
+EFL Championship - Derby County vs Bristol City
+100.5°E
+3984 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 52 59 26 D1 33 AE D3 B4
+Click to expand...
+7E
+11523 V 7120
+4.2.0
+ID: Pitch - EFL Derby v Bristol
+---FEED-SEPARATOR---
+EFL Championship - Derby County vs Bristol City
+100.5°E
+3984 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 52 59 26 D1 33 AE D3 B4
 ---FEED-SEPARATOR---
 ACORPOLIS
 ITALY VS GERMANY 
