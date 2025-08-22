@@ -1,3 +1,31 @@
+Astra 28.2E
+German Football - Dont understand language 
+12519H 7200
+ID Unnamed
+CW 22 08 AC D6 DC 39 09 1E
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 1
+Bayern Munich vs. RB Leipzig
+Eutelsat 16A @ 16.0°E
+10981 - H - 3600 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: F6-2 4.5MH
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+German 2. Bundesliga - Week 3
+Elversberg vs. Kaiserslautern
+Eutelsat 16A @ 16.0°E
+10977 - H - 3600 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: F5-1 4.5MH
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 1
 Bayern Munich vs. RB Leipzig
 Eutelsat 7B/7C @ 7.0°E
