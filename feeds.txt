@@ -1,5 +1,29 @@
+German 1. Bundesliga - Week 1
+Bayern Munich vs. RB Leipzig
+Eutelsat 7B/7C @ 7.0°E
+11009 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: FCM vs RBL CambeIN
+CW: 03 BA 08 C5 55 25 CC 46
+---FEED-SEPARATOR---
+nadz123 said:
+			Astra 28.2E
+German Football - Dont understand language 
+12519H 7200
+ID Unnamed
+CW 22 08 AC D6 DC 39 09 1E
+Click to expand...
+3.league 
+Wehen vs essen 
+Sent from my 2201116PG using Tapatalk
+---FEED-SEPARATOR---
 Astra 28.2E
 German Football - Dont understand language 
+Game: Wehen vs Essen Thanks 
+@mehdik2
 12519H 7200
 ID Unnamed
 CW 22 08 AC D6 DC 39 09 1E
@@ -37,6 +61,14 @@ Eutelsat 7B/7C @ 7.0°E
 ID: FCM vs RBL Basic DFL
 CW: 0D 21 9A C8 E3 0E E6 D7
 ---FEED-SEPARATOR---
+Serie B
+Pescara x Cesena
+7.0E
+12522 V 7500
+4.2.2 HD
+ID: ITA 81 A
+CW: BC 01 20 DD 25 22 08 4F
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 10732 V 34000
 MPEG 4 4:2:2 DVB-S2
@@ -61,3 +93,11 @@ DVB-S2 - 1080P - 8PSK
 4:2:2
 ID: OVERON 1
 CW: 75 ED 94 F6 69 7B A9 8D
+---FEED-SEPARATOR---
+ACORPOLIS
+ITALY VS GERMANY 
+7.0E
+11126 H 7200
+4.2.0 HD
+ID: GRE VS ITA MAIN
+CW: BA 20 21 FB 22 08 25 4F
