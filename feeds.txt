@@ -1,0 +1,8 @@
+LALIGA
+Real Betis vs Deportivo Alavés
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 1
+CW: 75 ED 94 F6 69 7B A9 8D
