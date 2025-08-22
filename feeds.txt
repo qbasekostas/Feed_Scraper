@@ -1,3 +1,19 @@
+EUTELSAT 10A (10°E)
+10732 V 34000
+MPEG 4 4:2:2 DVB-S2
+ID: LIGA HYPERMOTION 1
+CW: F8 3D D0 05 2E E5 28 3B
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+10732 V 34000
+MPEG 4 4:2:2 DVB-S2
+Albahraniy said:
+LALIGA
+Real Betis vs Deportivo Alavés
+ID: OVERON 1
+CW: 75 ED 94 F6 69 7B A9 8D
+Click to expand...
+---FEED-SEPARATOR---
 LALIGA
 Real Betis vs Deportivo Alavés
 Asiasat 5 (100.5°E) C BAND
