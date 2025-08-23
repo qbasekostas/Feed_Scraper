@@ -1,3 +1,12 @@
+Bundesliga, Round 1
+Bayer 04 Leverkusen vs TSG Hoffenheim
+Eutelsat 7B/7C @ 7.0E
+10999 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: GVA_Fi08
+CW: 84 9B 56 75 DC 25 D3 D4
+---FEED-SEPARATOR---
 28.2E
 12643 H 7200 
 4:2:2
@@ -57,26 +66,25 @@ MPEG 4 - 4:2:0 - DVB-S2
 ID: LIGA HYPERMOTION 2
 CW: 4A 1F 15 7E 1A D1 61 4C
 ---FEED-SEPARATOR---
-lp45qsl said:
-Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)
-Fréquence: 
-11499
- - Pol: 
-V
- - SR: 
-7200
- - FEC: 
--
-Catégorie: 
-Sport - Football
-Transmis en: 
-MPEG-4 crypté
-ℹManchester City-Tottenham Hotspur
-Click to expand...
-BISS 2 (2610)
-						BISS-CA FEEDS (BISS2 CAID 2610)
-12735 V 7200 SWITCHED ID with still reduced Signal now for WWE : ) OLD CW POSTED HERE => WWE Smackdown CW
-					www.sat-universe.com
+English Championship - Week 3
+Norwich City vs. Middlesbrough 
+Eutelsat 7B/7C @ 7.0°E
+12695 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch - EFL - Norwich City
+CW: 15 55 FE 68 DE 31 43 52
+---FEED-SEPARATOR---
+England Premier League, Round 2
+Manchester City vs Tottenham Hotspur
+Eutelsat 7B/7C @ 7.0E
+11514 V 6666
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: BEIN MEDIA Arsenal
+CW: 33 CB 77 75 7D BA 85 BC
 ---FEED-SEPARATOR---
 Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)
 Fréquence: 
