@@ -47,3 +47,10 @@ Fréq:10731 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
 ID: LIGA HYPERMOTION 2
 CW: 4A 1F 15 7E 1A D1 61 4C
+---FEED-SEPARATOR---
+7e
+12725 V 7120
+id: PITCH Clarlton v Leicester City
+CW: 39 08 42 83 55 21 77 ED
+championship
+charlton leicester
