@@ -1,3 +1,12 @@
+28.2E
+12643 H 7200 
+4:2:2
+DVB-S2 - 8PSK
+ID No name
+CW: 23 08 AC D7 DC 59 09 3E
+German 3. Liga - Week 3
+Hoffenheim II v Energie Cottbus
+---FEED-SEPARATOR---
 Spanish La Liga - Week 2
 Levante vs. Barcelona
 Eutelsat 10B @ 10.0°E
@@ -47,6 +56,42 @@ Fréq:10731 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
 ID: LIGA HYPERMOTION 2
 CW: 4A 1F 15 7E 1A D1 61 4C
+---FEED-SEPARATOR---
+lp45qsl said:
+Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)
+Fréquence: 
+11499
+ - Pol: 
+V
+ - SR: 
+7200
+ - FEC: 
+-
+Catégorie: 
+Sport - Football
+Transmis en: 
+MPEG-4 crypté
+ℹManchester City-Tottenham Hotspur
+Click to expand...
+BISS 2 (2610)
+						BISS-CA FEEDS (BISS2 CAID 2610)
+12735 V 7200 SWITCHED ID with still reduced Signal now for WWE : ) OLD CW POSTED HERE => WWE Smackdown CW
+					www.sat-universe.com
+---FEED-SEPARATOR---
+Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)
+Fréquence: 
+11499
+ - Pol: 
+V
+ - SR: 
+7200
+ - FEC: 
+-
+Catégorie: 
+Sport - Football
+Transmis en: 
+MPEG-4 crypté
+ℹManchester City-Tottenham Hotspur
 ---FEED-SEPARATOR---
 7e
 12725 V 7120
