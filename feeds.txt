@@ -52,6 +52,22 @@ CW: 23 08 AC D7 DC 59 09 3E
 German 3. Liga - Week 3
 Hoffenheim II v Energie Cottbus
 ---FEED-SEPARATOR---
+Italian Serie BKT - Week 1
+Palermo vs. Reggiana
+Eutelsat 7B/7C @ 7.0°E
+11127 - H -7200 
+|
+4:2:2
+ | H.264
+ID: ITA 689 M
+11136 - H - 7200 
+|
+4:2:2
+ | H.264
+ID: ITA 689 BK
+1920*1080 | DVB-S2 | 8PSK
+CW: BE 3D 0F 0A 10 EA 03 FD
+---FEED-SEPARATOR---
 Albahraniy said:
 Eutelsat 7B/7C @ 7.0E
 12522 V 7500
