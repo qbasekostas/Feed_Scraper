@@ -82,6 +82,17 @@ DVB-S2 - 1080P - 8PSK
 ID: ITA 671
 CW: BC 01 20 DD 25 23 08 50
 ---FEED-SEPARATOR---
+Spanish La Liga - Week 2
+Levante vs. Barcelona
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 5E DE 7E BA BC 3E C0 BA
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 2 
@@ -224,6 +235,14 @@ MPEG 4 - 4:2:0 - DVB-S2
 ID: LIGA HYPERMOTION 2
 CW: 4A 1F 15 7E 1A D1 61 4C
 ---FEED-SEPARATOR---
+0,8°W
+11658 V 9600
+DVB-S2 8PSK FEC 3/4
+HD (1920*1080) 4:2:2 FTA
+ID: Vitel Path 1
+Ireland : Woman National Competitie
+Athlone Town - Shelbourne
+---FEED-SEPARATOR---
 English Championship - Week 3
 Norwich City vs. Middlesbrough 
 Eutelsat 7B/7C @ 7.0°E
@@ -268,6 +287,29 @@ ID:BT_SES_22_SDI (SES)
 England Championship
 Clarlton v Leicester City
 CW: 39 08 42 83 55 21 77 ED
+---FEED-SEPARATOR---
+Intercontinental Under 20
+Flamengo vs Barcelona 
+47.5W C 
+TP:3818 H 7500 
+ID:FLA vs BAR PORT-87\000.ts
+Using PID: 512
+PID: 200h  B8h-Crypt8:AF D4 32 98 AF 7F 89 82  [E] Count:1541844
+CW: A1 A2 43 86 CA 21 E4 CF Thank to HBO for Key
+HD 4.2.2
+---FEED-SEPARATOR---
+Under-20 Intercontinental Cup - FINAL
+Barcelona U-20 vs. Flamengo U-20
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OCC 1
+CW: BA 22 EA C6 18 AA 00 C2
+NEW: 
+EE DE BB 87 AA 55 33 32
 ---FEED-SEPARATOR---
 FIBA AFROBASKET 2025 COMPETITION AFRICA
 Eutelsat 7B/7C @ 7.0E
