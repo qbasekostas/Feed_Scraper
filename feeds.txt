@@ -1,3 +1,28 @@
+Dani Sat said:
+German 1. Bundesliga - Week 1
+St Pauli vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+10984- V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D535_HMBG_2E12_2
+CW: B2 B4 9C 02 27 6F 3A D0
+Click to expand...
+new cw :
+CW: CB 36 C9 CA EF D9 02 CA
+---FEED-SEPARATOR---
+Dani Sat said:
+German 1. Bundesliga - Week 1
+St Pauli vs. Borussia Dortmund
+CW: B2 B4 9C 02 27 6F 3A D0
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0E
+11080 V 9876
+ID: D535_HMBG_4G12_1 (*unnamed-1*)
+1920x1080 |21.510Mb/Sec |8PSK |4:2:2 HD
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 1
 St Pauli vs. Borussia Dortmund
 Eutelsat 7B/7C @ 7.0°E
