@@ -319,6 +319,17 @@ England Championship
 Clarlton v Leicester City
 CW: 39 08 42 83 55 21 77 ED
 ---FEED-SEPARATOR---
+Feed Futbol 
+Intercontinental Sub 20
+Flamengo vs Barcelona 
+47.5W C 
+Tp:3809 H 7500
+ID:FLAMENGO VS BARCELONA
+Using PID: 1110
+PID: 456h  B8h-Crypt8:A9 A6 46 A6 6C 1C 2F 1E  [E] Count:134619
+CW: 77 1A DF 70 C4 55 CA E3
+HD 4.2.2
+---FEED-SEPARATOR---
 Intercontinental Under 20
 Flamengo vs Barcelona 
 47.5W C 
