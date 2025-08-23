@@ -86,24 +86,27 @@ DVB-S2 - 1080P - 8PSK
 ID: BEIN MEDIA Arsenal
 CW: 33 CB 77 75 7D BA 85 BC
 ---FEED-SEPARATOR---
-Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)
-Fréquence: 
-11499
- - Pol: 
-V
- - SR: 
-7200
- - FEC: 
--
-Catégorie: 
-Sport - Football
-Transmis en: 
-MPEG-4 crypté
-ℹManchester City-Tottenham Hotspur
----FEED-SEPARATOR---
 7e
 12725 V 7120
 id: PITCH Clarlton v Leicester City
 CW: 39 08 42 83 55 21 77 ED
 championship
 charlton leicester
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3993 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_24_SDI (SES)
+England Championship, Round 3 
+Norwich City vs Middlesbrough
+CW: 15 55 FE 68 DE 31 43 52
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3984 V 7119
+DVB-S2 - 4K - 8PSK
+4:2:0
+ID:BT_SES_22_SDI (SES)
+England Championship
+Clarlton v Leicester City
+CW: 39 08 42 83 55 21 77 ED
