@@ -1,3 +1,47 @@
+Spanish La Liga - Week 2
+Levante vs. Barcelona
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR MENA 1
+CW: F9 69 E8 4A 6C 23 0D 9C
+---FEED-SEPARATOR---
+Spanish La Liga - Week 2
+Levante vs. Barcelona
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: BE CA DD 65 92 23 06 BB
+---FEED-SEPARATOR---
+Spanish La Liga - Week 2
+Atlético Madrid vs.  Elche
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 96 04  74 0E F1 B6 48 EF
+---FEED-SEPARATOR---
+Spanish La Liga - Week 2
+Mallorca v Celta Vigo
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 22 32 CC 20 60 27 8D 14
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
