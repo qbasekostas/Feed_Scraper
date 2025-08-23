@@ -16,6 +16,21 @@ CW: 23 08 AC D7 DC 59 09 3E
 German 3. Liga - Week 3
 Hoffenheim II v Energie Cottbus
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,54Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 2
+Teams: RCD Mallorca vs RC Celta
+Time / Kickoff: 22.00 JKT-TH / 23.00 MY-SG / 15.00 GMT / 17.00 CET
+Dani Sat said:
+CW: 22 32 CC 20 60 27 8D 14
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Week 2
 Levante vs. Barcelona
 Eutelsat 10B @ 10.0°E
@@ -110,3 +125,11 @@ ID:BT_SES_22_SDI (SES)
 England Championship
 Clarlton v Leicester City
 CW: 39 08 42 83 55 21 77 ED
+---FEED-SEPARATOR---
+FIBA AFROBASKET 2025 COMPETITION AFRICA
+Eutelsat 7B/7C @ 7.0E
+10986 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: GVA_Fi07
+CW: 21 E4 10 15 48 B2 B9 B3
