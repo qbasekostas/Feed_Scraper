@@ -251,6 +251,21 @@ MPEG 4 - 4:2:0 - DVB-S2
 ID: LIGA HYPERMOTION 2
 CW: 4A 1F 15 7E 1A D1 61 4C
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,54Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 2
+Teams: Levante UD vs FC Barcelona
+Time / Kickoff: 02.30 JKT-TH / 03.30 MY-SG / 19.30 GMT / 21.30 CET
+Dani Sat said:
+CW: 5E DE 7E BA BC 3E C0 BA
+Click to expand...
+---FEED-SEPARATOR---
 0,8°W
 11658 V 9600
 DVB-S2 8PSK FEC 3/4
