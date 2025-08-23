@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 1
+St Pauli vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+10984- V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D535_HMBG_2E12_2
+CW: B2 B4 9C 02 27 6F 3A D0
+---FEED-SEPARATOR---
 Bundesliga, Round 1
 Bayer 04 Leverkusen vs TSG Hoffenheim
 Eutelsat 7B/7C @ 7.0E
@@ -15,6 +26,36 @@ ID No name
 CW: 23 08 AC D7 DC 59 09 3E
 German 3. Liga - Week 3
 Hoffenheim II v Energie Cottbus
+---FEED-SEPARATOR---
+Albahraniy said:
+Eutelsat 7B/7C @ 7.0E
+12522 V 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: ITA 671
+CW: BC 01 20 DD 25 23 08 50
+Click to expand...
+Italian football serie B
+Entella-Juve Stabia
+---FEED-SEPARATOR---
+Albahraniy said:
+Eutelsat 7B/7C @ 7.0E
+12522 V 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: ITA 671
+CW: BC 01 20 DD 25 23 08 50
+Click to expand...
+Italian football serie B
+Catanzaro VS Carrarese
+---FEED-SEPARATOR---
+Serie B
+Eutelsat 7B/7C @ 7.0E
+12522 V 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: ITA 671
+CW: BC 01 20 DD 25 23 08 50
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
