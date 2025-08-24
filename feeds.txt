@@ -1,3 +1,14 @@
+Eutelsat 7B-7C @ 07.0E
+11022 H 9875 |
+4:2:0 
+| 8PSK
+ID: 
+Fi12_GNVE (ESSA)
+Event: 
+German 1. Bundesliga - Week 1
+Mainz 05 v FC Cologne
+CW: B9 84 51 8E 3D FA D1 08
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10733 V 34000 |
 4:2:0
