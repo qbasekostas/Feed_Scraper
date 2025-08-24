@@ -1,0 +1,36 @@
+Eutelsat 10B @ 10.0E
+10733 V 34000 |
+4:2:0
+ | 8PSK
+ID: 
+LIGA HYPERMOTION 1
+Event: 
+Spanish La Liga 2 - Week 2
+Deportivo La Coruña v Burgos
+CW: 63 B3 D8 EE C7 ED 19 CD
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10733 V 34000 |
+4:2:2
+ | 8PSK
+ID: 
+OVERON 3
+Event: 
+Spanish La Liga (Primera) - Week 2
+CW: A1 8B 1B 47 BE 3F 7E 7B
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10733 V 34000 |
+4:2:2
+ | 8PSK
+ID: 
+OVERON 2
+Event: 
+Spanish La Liga (Primera) - Week 2
+CW: 94 DD 3A AB BE DA 6D 05
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10733 V 34000 | 4:2:2 | 8PSK
+ID: OVERON 1
+Event:
+CW: 16 27 E8 25 57 90 87 6E
