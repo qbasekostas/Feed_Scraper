@@ -1,3 +1,14 @@
+28.2e
+12722 H 7200
+4:2:2
+ID: 
+D415feed1
+3rd League Germany
+Aue
+TSV Havelse
+0C 0B C1 A1 58 26 2E CB  #CW: 
+24 08 AC D8 DC 29 09 0E
+---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
 11022 H 9875 |
@@ -121,6 +132,13 @@ ID: OVERON 1
 Event:
 CW: 16 27 E8 25 57 90 87 6E
 ---FEED-SEPARATOR---
+28.2E
+12520 H 7120 4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish SWPL 1 - Week 2
+Rangers v Hearts
+---FEED-SEPARATOR---
 1.0 West
 11467 V 15000 | 4:2:0 | 8PSK
 ID: 
@@ -149,3 +167,8 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 Recurring CW : 
 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+7e
+11096 H 7200
+Fi14_GNVE
+FIBA Afrobasket 2025 
