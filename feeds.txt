@@ -24,6 +24,22 @@ German 1. Bundesliga - Week 1
 Mainz 05 v FC Cologne
 CW: B9 84 51 8E 3D FA D1 08
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,14Mb/Sec |8PSK|
+ 4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 2
+Teams: CA Osasuna vs Valencia CF
+Time / Kickoff: 22.00 JKT-TH / 23.00 MY-SG / 15.00 GMT / 17.00 CET
+Super Saiyan said:
+#CW:
+16 27 E8 25 57 90 87 6E
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Week 2
 Real Oviedo vs. Real Madrid
 Eutelsat 10B @ 10.0°E
