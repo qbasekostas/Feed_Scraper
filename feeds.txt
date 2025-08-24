@@ -35,6 +35,17 @@ ID: OVERON 1
 Event:
 CW: 16 27 E8 25 57 90 87 6E
 ---FEED-SEPARATOR---
+Scottish Premiership - Week 3
+St Mirren vs. Rangers
+Eutelsat 10B @ 10.0°E
+10739 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 3
+CW: 32 BB CE BB 55 DA DA 09
+---FEED-SEPARATOR---
 EFL Highlights
 100.5°E
 3994 V 7120
