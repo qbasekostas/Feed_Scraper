@@ -242,6 +242,17 @@ Recurring CW :
 Fi14_GNVE
 FIBA Afrobasket 2025 
 ---FEED-SEPARATOR---
+Greek Super League 1 - Week 1
+PAOK Thessaloniki vs. AEL Larissa
+Eutelsat 7A/B/C @ 7.0°E
+12546 - H - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID:  PAOK VS AEL
+CW: 7B 40 4A 05 87 47 92 60
+---FEED-SEPARATOR---
 Greek Super League 1
 AEK vs Panserraikos
 7e
