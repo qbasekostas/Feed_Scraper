@@ -1,9 +1,24 @@
-Eutelsat 7B-7C @ 07.0E
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
 11022 H 9875 |
 4:2:0 
 | 8PSK
 ID: 
 Fi12_GNVE (ESSA)
+Event: 
+German 1. Bundesliga - Week 1
+Mainz 05 v FC Cologne
+CW: B9 84 51 8E 3D FA D1 08
+Click to expand...
+4:2:2 Now
++ New ID: GVA_Fi01
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11022 H 9875 |
+4:2:2 
+| 8PSK
+ID: 
+GVA_Fi01
 Event: 
 German 1. Bundesliga - Week 1
 Mainz 05 v FC Cologne
