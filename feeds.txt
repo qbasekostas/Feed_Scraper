@@ -46,6 +46,21 @@ German 1. Bundesliga - Week 1
 Mainz 05 v FC Cologne
 CW: B9 84 51 8E 3D FA D1 08
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,24Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 2
+Teams: Real Oviedo vs Real Madrid
+Time / Kickoff: 02.30 JKT-TH / 03.30 MY-SG / 19.30 GMT / 21.30 CET
+Dani Sat said:
+CW: 58 CD E8 0D 9A 34 BB 89
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Week 2
 Real Oviedo vs. Real Madrid
 Eutelsat 10B @ 10.0°E
