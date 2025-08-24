@@ -1,4 +1,15 @@
 28.2e
+12713 H 7200
+4:2:2
+ID: 
+D415feed1
+3rd League Germany
+Mannheim
+Viktoria Koln
+4F 97 1B EB D1 4A C1 76  #CW: 
+24 08 AC D8 DC 39 09 1E
+---FEED-SEPARATOR---
+28.2e
 12722 H 7200
 4:2:2
 ID: 
@@ -34,6 +45,64 @@ Event:
 German 1. Bundesliga - Week 1
 Mainz 05 v FC Cologne
 CW: B9 84 51 8E 3D FA D1 08
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,95Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 2
+Teams: Real Sociedad vs RCD Espanyol
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 19.30 CET
+Super Saiyan said:
+#CW:
+A1 8B 1B 47 BE 3F 7E 7B
+Click to expand...
+---FEED-SEPARATOR---
+LaLiga - Real Oviedo vs Real Madrid
+100.5°E
+3914 V 7500
+ID : INDIA 1
+DVB-S2 8PSK 
+4:2:2
+ 1080i
+SID : 27 (1B)
+CW: BC 67 C8 EB 9E F5 58 EB
+100.5°E
+3916 H 7500
+ID : CHINA+1
+DVB-S2 8PSK 
+4:2:2
+ 1080i
+SID : 33 (21)
+CW: 68 9C 36 3A EC 05 8D 7E
+100.5°E
+3840 H 30000
+ID : OVERON 4
+DVB-S2 8PSK 
+4:2:2
+ 1080i
+SID : 46 (2E)
+CW: 3D 90 4E 1B B2 CE 4A CA
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,94Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 2
+Teams: Villarreal CF vs Girona FC
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 19.30 CET
+Super Saiyan said:
+#CW:
+94 DD 3A AB BE DA 6D 05
+Click to expand...
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
@@ -172,3 +241,10 @@ Recurring CW :
 11096 H 7200
 Fi14_GNVE
 FIBA Afrobasket 2025 
+---FEED-SEPARATOR---
+Greek Super League 1
+AEK vs Panserraikos
+7e
+12572 H 7198
+ID: ARIS VS VOLOS MAIN
+CW: AA 8A 29 5D 15 0A 99 B8
