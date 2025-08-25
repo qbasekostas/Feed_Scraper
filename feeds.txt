@@ -30,3 +30,12 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID:  OVERON 1
 CW: FB 2C 35 5C 6D 29 93 29
+---FEED-SEPARATOR---
+Hellasat 3 @ 39.0E
+11007 V 7200 | 4:2:0 | 8PSK
+ID: 
+E394 MAIN
+Event: 
+Greek Super League 1 - Week 1
+Levadiakos v Kifisia
+CW: 74 E1 9D F2 35 CA 22 21
