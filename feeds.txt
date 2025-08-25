@@ -1,3 +1,11 @@
+16E
+CHANNEL
+  Name: "ITA 671"
+TRANSPONDER
+  11189, H, 7200 8PSK FEC Auto
+Novara Vs Inter U23  4:2:0
+CW: 50 BD 4B 58 6C B7 16 39
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
@@ -25,7 +33,7 @@ ID:  LIGA HYPERMOTION 1
 CW: 16 F2 33 3B 5C FF 15 70
 ---FEED-SEPARATOR---
 Spanish La Liga - Week 2
-Athletic Bilbao vs. Rayo Vallecano
+Sevilla vs. Getafe
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 
 |
@@ -36,7 +44,7 @@ ID:  OVERON 2
 CW: 0C AE D4 8E 20 6D 99 26
 ---FEED-SEPARATOR---
 Spanish La Liga - Week 2
-Sevilla vs. Getafe
+Athletic Bilbao vs. Rayo Vallecano
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 
 |
@@ -45,6 +53,15 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID:  OVERON 1
 CW: FB 2C 35 5C 6D 29 93 29
+---FEED-SEPARATOR---
+England Premier League, Round 2
+Newcastle United vs Liverpool 
+Eutelsat 7B/7C @ 7.0E
+11513 V 6666
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: BEIN MEDIA NEWCASTLE
+CW: CC 55 7A 9B CD 47 B5 C9
 ---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 10999 V 14400 | 4:2:2 | 8PSK
