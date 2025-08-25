@@ -1,0 +1,32 @@
+Spanish La Liga 2 - Week 2
+Albacete vs. Racing Santander
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:0 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID:  LIGA HYPERMOTION 1
+CW: 16 F2 33 3B 5C FF 15 70
+---FEED-SEPARATOR---
+Spanish La Liga - Week 2
+Athletic Bilbao vs. Rayo Vallecano
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID:  OVERON 2
+CW: 0C AE D4 8E 20 6D 99 26
+---FEED-SEPARATOR---
+Spanish La Liga - Week 2
+Sevilla vs. Getafe
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID:  OVERON 1
+CW: FB 2C 35 5C 6D 29 93 29
