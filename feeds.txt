@@ -69,6 +69,16 @@ Dani Sat said:
 CW: 0C AE D4 8E 20 6D 99 26
 Click to expand...
 ---FEED-SEPARATOR---
+3.1°E
+10960 H 7500
+ID: beIN SPORTS
+4.2.0- DVB-S2 - 8PSK
+10969 H 7500
+ID: Service-1
+4.2.0- DVB-S2 - 8PSK
+CW: BC 4C D1 D9 28 72 CF 69
+Newcastle vs Liverpool
+---FEED-SEPARATOR---
 England Premier League, Round 2
 Newcastle United vs Liverpool 
 Eutelsat 7B/7C @ 7.0E
