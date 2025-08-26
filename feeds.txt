@@ -1,3 +1,11 @@
+16E
+10978 H 7200
+4.2.0
+ID: F1-2 9MHZ
+DFB-Pokal
+Eintracht Braunschweig - VfB Stuttgart
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 EFL Cup - Match TBC
 100.5°E
 3976 V 7120
