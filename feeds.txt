@@ -15,6 +15,13 @@ DFB-Pokal
 Eintracht Braunschweig - VfB Stuttgart
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+1W
+11463 V 7000
+DVB-S2 8PSK FEC 3/4
+ID: Oldham vs ManCity u21
+Oldham vs ManCity u21
+FTA
+---FEED-SEPARATOR---
 EFL Cup - Match TBC
 100.5°E
 3976 V 7120
@@ -31,6 +38,61 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: AB CD 55 CD FF 26 08 2D
 ---FEED-SEPARATOR---
+English League Cup - 2nd Round
+Bournemouth vs. Brentford
+Eutelsat 7B/7C @ 7.0°E
+12677 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch - EFL - BOURNMOUTH V
+CW: AB BA 54 B9 DF 26 08 0D
+---FEED-SEPARATOR---
+English League Cup - 2nd Round
+Sheffield Wednesday vs. Leeds United
+Eutelsat 7B/7C @ 7.0°E
+12695 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Carabao Cup - Round 2 - Sheffield
+CW: 56 BC CC DE DE 26 08 0C
+---FEED-SEPARATOR---
+English League Cup - 2nd Round
+Sheffield Wednesday vs.⁵ Leeds United
+Eutelsat 7B/7C @ 7.0°E
+11665 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 9
+CW: 56 BC CC DE DE 26 08 0C
+---FEED-SEPARATOR---
+English League Cup - 2nd Round
+Sunderland vs. Huddersfield Town
+Eutelsat 7B/7C @ 7.0°E
+12686 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Carabao Cup - Round 2 - Sunderland
+CW: AB CD 55 CD FF 26 08 2D
+---FEED-SEPARATOR---
+English League Cup - 2nd Round
+Wolves vs. West Ham United
+Eutelsat 7B/7C @ 7.0°E
+12727 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: PITCH Wolves v West Ham Carabao
+CW: 56 AA 4D 4D F3 26 08 21
+---FEED-SEPARATOR---
 EFL Cup - Match TBC
 100.5°E
 3994 V 7120
@@ -40,6 +102,7 @@ SID : 1
 CW: 56 BC CC DE DE 26 08 0C
 ---FEED-SEPARATOR---
 EFL Cup - Match TBC
+Wolverhampton Wanderers vs West Ham United
 100.5°E
 3967 V 7120
 ID : BT_SES_8_SDI
