@@ -23,6 +23,7 @@ Oldham vs ManCity u21
 FTA
 ---FEED-SEPARATOR---
 EFL Cup - Match TBC
+AFC Bournemouth vs Brentford
 100.5°E
 3976 V 7120
 ID : BT_SES_10_SDI
@@ -31,6 +32,7 @@ SID : 1
 CW: AB BA 54 B9 DF 26 08 0D
 ---FEED-SEPARATOR---
 EFL Cup - Match TBC
+Sunderland vs Huddersfield
 100.5°E
 3986 V 7120
 ID : BT_SES_12_SDI
@@ -94,6 +96,7 @@ ID: PITCH Wolves v West Ham Carabao
 CW: 56 AA 4D 4D F3 26 08 21
 ---FEED-SEPARATOR---
 EFL Cup - Match TBC
+Sheffield Wednesday vs Leeds United
 100.5°E
 3994 V 7120
 ID : BT_SES_14_SDI
