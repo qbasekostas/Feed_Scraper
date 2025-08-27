@@ -1,3 +1,13 @@
+German Cup (DFB-Pokal) - 1st Round
+Wehen Wiesbaden v Bayern Munich
+ST: 20:45
+03°E C-BAND
+TP: 3779 H/V 3750
+ID:*unnamed-1* (*unnamed-1*) 
+DVB S2 1080i 
+4.2.0
+#CW : B9 CA DB 5E E0 F1 23 F4  
+---FEED-SEPARATOR---
 7e
 11081 H 9875
 4:2:2
