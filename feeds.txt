@@ -1,3 +1,13 @@
+7e
+11081 H 9875
+4:2:2
+ID: 
+GVA_Fi08
+DFB-Pokal
+Wehen
+Bayern Munich
+CW: CF 30 A1 A0 26 DD 02 05
+---FEED-SEPARATOR---
 7E
 12676 H 7500
 4.2.0
