@@ -226,6 +226,12 @@ HD 1920x1080 |
 10 53 13 2E 72 7E C7 19 
 CW: 54 0F 3E A1 6B 7C 6A 51
 ---FEED-SEPARATOR---
+Srbija - Estonija!
+7 east
+12677 vertikalno 7200 3/4, sa 13768 kbit/s!
+E2 32 C2 D6 6D 96 95 98
+0001:03e9
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event: Europe Euro Basket - Round 1
 Teams : Czech Republic 
