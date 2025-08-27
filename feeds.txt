@@ -14,6 +14,75 @@ DFB-Pokal
 SV Wehen Wiesbaden - FC Bayern Munich
 CW: 32 BD AC 9B 25 43 CA 32
 ---FEED-SEPARATOR---
+omid1348 said:
+			10E
+10723 V 15000
+4.2.2
+ID: OVERON 1
+LaLiga Show
+CW: FA 7E C1 39 C8 EE 4B 01
+Click to expand...
+Event: 
+Celta de Vigo vs Real Betis
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 1
+CW: FA 7E C1 39 C8 EE 4B 01
+Thanks !!!
+---FEED-SEPARATOR---
+10E
+10723 V 15000
+4.2.2
+ID: OVERON 1
+LaLiga
+ Celta de Vigo vs Real Betis Seville
+CW: FA 7E C1 39 C8 EE 4B 01
+---FEED-SEPARATOR---
+1W
+11490 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID Everton cam 4
+English League Cup - 2nd Round
+Everton v Mansfield Town
+---FEED-SEPARATOR---
+1W
+11472 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID Everton cam 3
+English League Cup - 2nd Round
+Everton v Mansfield Town
+---FEED-SEPARATOR---
+1W
+11481 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID Everton cam 2
+English League Cup - 2nd Round
+Everton v Mansfield Town
+---FEED-SEPARATOR---
+1W
+11463 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID Everton cam 1
+English League Cup - 2nd Round
+Everton v Mansfield Town
+---FEED-SEPARATOR---
+28.2E
+12577 V 14400 
+4:2:2
+DVBS-2 8PSK
+ID: UKI-1487 ITV Main Grimsby v Man U
+CW: 41 11 AE 00 DD CF FA A6
+English League Cup - 2nd Round
+Grimsby Town v Manchester United
+---FEED-SEPARATOR---
 EFL Cup
 100.5°E
 3994 V 7120
