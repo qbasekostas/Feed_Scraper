@@ -1,3 +1,19 @@
+7E
+12676 H 7500
+4.2.0
+ID: Servus TV Wiesdbaden
+DFB-Pokal
+SV Wehen Wiesbaden - FC Bayern Munich
+CW: 32 BD AC 9B 25 43 CA 32
+---FEED-SEPARATOR---
+7E
+12685 H 7500
+4.2.2
+ID: DFB Pokal
+DFB-Pokal
+SV Wehen Wiesbaden - FC Bayern Munich
+CW: 32 BD AC 9B 25 43 CA 32
+---FEED-SEPARATOR---
 EFL Cup
 100.5°E
 3994 V 7120
