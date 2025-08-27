@@ -1,3 +1,33 @@
+A.ElSadek said:
+12686 V 7200
+ID: EST-003(LAT) INT
+Click to expand...
+CW: FTA
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event: Europe Euro Basket - Round 1
+Teams : Czech Republic 
+ Portugal
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12677 V 7200
+   EST-003(LAT)DOM (Levira)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: E2 32 C2 D6 6D 96 95 98
+Click to expand...
+12686 V 7200
+ID: EST-003(LAT) INT
+---FEED-SEPARATOR---
+Event: Europe Euro Basket - Round 1
+Teams : Czech Republic 
+ Portugal
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12677 V 7200
+   EST-003(LAT)DOM (Levira)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: E2 32 C2 D6 6D 96 95 98
+---FEED-SEPARATOR---
 Event: Euro Basket - Round 1
 Teams : Great Britain 
  Lithuania
