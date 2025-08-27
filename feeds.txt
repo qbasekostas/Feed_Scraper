@@ -1,0 +1,9 @@
+Event: Euro Basket - Round 1
+Teams : Great Britain 
+ Lithuania
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12704 V 7200
+ FIBA Tamperre  (Service Provider)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: E2 32 C2 D6 6D 96 95 98
