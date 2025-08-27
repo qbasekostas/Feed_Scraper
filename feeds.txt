@@ -74,6 +74,72 @@ ID Everton cam 1
 English League Cup - 2nd Round
 Everton v Mansfield Town
 ---FEED-SEPARATOR---
+English League Cup - 2nd Round
+Grimsby Town vs.
+Manchester United
+Eutelsat 7B/7C @ 7.0°E
+12643 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: PITCH Grimsby v Man U
+CW: AA BE 60 C8 84 27 08 B3
+---FEED-SEPARATOR---
+English League Cup - 2nd Round
+Grimsby Town vs.
+Manchester United
+Eutelsat 7B/7C @ 7.0°E
+11665  - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 9
+CW: AA BE 60 C8 84 27 08 B3
+---FEED-SEPARATOR---
+English League Cup - 2nd Round
+Oxford United vs. Brighton H.A.
+Eutelsat 7B/7C @ 7.0°E
+11606 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: PITCH Oxford vs Brighton
+CW: D3 52 47 6C 9E 35 56 29
+---FEED-SEPARATOR---
+Everton v Mansfield
+Eutelsat 7B/7C @ 7.0E
+12634 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: PITCH Everton v Mansfield
+orangebirds said:
+EFL Cup
+CW: FE DA 32 0A BB 27 08 EA
+Click to expand...
+---FEED-SEPARATOR---
+Fulham v Bristol Carabao
+Eutelsat 7B/7C @ 7.0E
+12694 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  PITCH Fulham v Bristol Carabao
+orangebirds said:
+EFL Cup
+CW: FE AD 12 BD 3F 27 08 6E
+Click to expand...
+---FEED-SEPARATOR---
+7°E
+11523 V 7200
+ID: UKI-1486 ITV HD Backup G
+4.2.0
+- DVB-S2 - 8PSK
+English League Cup - 2nd Round
+ Grimsby Town v Manchester United
+CW: 14 14 BB E3 AC DA AE 34
+---FEED-SEPARATOR---
 28.2E
 12577 V 14400 
 4:2:2
@@ -83,7 +149,9 @@ CW: 41 11 AE 00 DD CF FA A6
 English League Cup - 2nd Round
 Grimsby Town v Manchester United
 ---FEED-SEPARATOR---
-EFL Cup
+English League Cup - 2nd Round
+Grimsby Town vs.
+Manchester United
 100.5°E
 3994 V 7120
 ID : BT_SES_14_SDI
@@ -91,7 +159,7 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: AA BE 60 C8 84 27 08 B3
 ---FEED-SEPARATOR---
-EFL Cup
+EFL Cup: Everton vs Mansfield Town
 100.5°E
 3984 V 7120
 ID : BT_SES_12_SDI
@@ -99,7 +167,7 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: FE DA 32 0A BB 27 08 EA
 ---FEED-SEPARATOR---
-EFL Cup
+EFL Cup: Fulham vs Bristol City
 100.5°E
 3976 V 7120
 ID : BT_SES_10_SDI
@@ -107,13 +175,22 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: FE AD 12 BD 3F 27 08 6E
 ---FEED-SEPARATOR---
-EFL Cup
+EFL: Oxford United vs Brighton & Hove Albion
 100.5°E
 3967 V 7120
 ID : BT_SES_8_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: D3 52 47 6C 9E 35 56 29
+---FEED-SEPARATOR---
+16E
+12548 H 7200
+4.2.0
+ID: Unnme
+UEFA Champions League
+Play-off
+Club Brugge KV - Rangers F.C.
+FTA
 ---FEED-SEPARATOR---
 16e
 12523 H 4800
@@ -123,6 +200,21 @@ CZE 001/2
 Champions League Women - Qualification - Second stage
 Sparta Prague W
 Nordsjaelland W
+---FEED-SEPARATOR---
+Event :EuropeChampions League - Qualification - Final
+Teams :Qarabag (Aze) 
+ Ferencvaros (Hun)
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11068 V 9875
+    LEUK_Fi01 (EUROVISION SA)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+22.091
+ Mbit/Sec|8PSK DVB-S2 HD
+10 53 13 2E 72 7E C7 19 
+CW: 54 0F 3E A1 6B 7C 6A 51
 ---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event: Europe Euro Basket - Round 1
