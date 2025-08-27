@@ -1,3 +1,44 @@
+EFL Cup
+100.5°E
+3994 V 7120
+ID : BT_SES_14_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: AA BE 60 C8 84 27 08 B3
+---FEED-SEPARATOR---
+EFL Cup
+100.5°E
+3984 V 7120
+ID : BT_SES_12_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: FE DA 32 0A BB 27 08 EA
+---FEED-SEPARATOR---
+EFL Cup
+100.5°E
+3976 V 7120
+ID : BT_SES_10_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: FE AD 12 BD 3F 27 08 6E
+---FEED-SEPARATOR---
+EFL Cup
+100.5°E
+3967 V 7120
+ID : BT_SES_8_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: D3 52 47 6C 9E 35 56 29
+---FEED-SEPARATOR---
+16e
+12523 H 4800
+4:2:2
+ID: 
+CZE 001/2
+Champions League Women - Qualification - Second stage
+Sparta Prague W
+Nordsjaelland W
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event: Europe Euro Basket - Round 1
 Teams : Czech Republic 
