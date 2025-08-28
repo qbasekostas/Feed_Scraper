@@ -41,6 +41,17 @@ Arabsat 5A at 30.5°E
 Name : SNG>11A NAJRAN
 Clear  
 ---FEED-SEPARATOR---
+UEFA Europa League - Play-Off Round (2nd Leg) [1-2]
+Samsunspor vs. Panathinaikos
+Eutelsat 7B/7C @ 7.0°E
+11595 - V - 10000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: TUR 112 A
+CW: 00 53 53 A6 13 61 61 D5
+---FEED-SEPARATOR---
 UEFA Conference League - Play-Off Round (2nd Leg) [1-1]
 Besiktas vs.  Lausanne Sport
 Eutelsat 7B/7C @ 7.0°E
@@ -70,6 +81,40 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: UEFA PLAY OFF B
 CW: E2 31 21 34 D3 BA CC 59
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11013 H 8020 |
+4:2:2
+ | 16APSK | DVB-S2X
+ID: 
+World Feed
+Event: 
+UEFA Champions League 2025/26 Draw
+CW: 82 3E 8D 4D 30 F8 8D B5
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off (2nd Leg) [2-1]
+Universitatea Craiova v Istanbul Basaksehir
+ ST: 18:30
+1°W
+12526 
+V 
+6660
+DVB-S2-
+4:2:0
+-8PSK
+ID: B 191 DGI
+CW: 28 08 20 50 25 AB C2 92
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (2nd Leg) [0-0]
+Brøndby vs. Strasbourg
+Eutelsat 7B/7C @ 7.0°E
+12644 - H - 9700 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: CHL-NOR-STO-BER
+CW: D0 82 8E E0 34 FF AE E1
 ---FEED-SEPARATOR---
 7e
 12693 V 7200
