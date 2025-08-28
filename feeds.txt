@@ -41,6 +41,17 @@ Arabsat 5A at 30.5°E
 Name : SNG>11A NAJRAN
 Clear  
 ---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (2nd Leg) [1-1]
+Servette vs. Shakhtar Donetsk
+Eutelsat 7B/7C @ 7.0°E
+12555 - H - 6975 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: David 1
+FTA
+---FEED-SEPARATOR---
 UEFA Conference League - Play-Off Round (2nd Leg) [1-2]
 Rapid Vienna vs. Györ
 Eutelsat 7B/7C @ 7.0°E
@@ -106,6 +117,14 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: UEFA PLAY OFF B
 CW: E2 31 21 34 D3 BA CC 59
+---FEED-SEPARATOR---
+16E
+11104 H 10000
+ID:  SNG 022 MAIN (PRO.TV)
+4:2:0
+UEFA Europa League - Play-Off Round (2nd Leg) [2-2]
+FCSB vs Aberdeen
+CW: AC 12 BD 7B 34 EF 21 44
 ---FEED-SEPARATOR---
 UEFA Conference League - Play-Off Round (2nd Leg) [1-1]
 AEK Athens vs. Anderlecht
@@ -183,10 +202,6 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: POL-90 Hda
 CW: 09 0C AE C3 28 08 25 55
----FEED-SEPARATOR---
-Akrem said:
-			Det
-Click to expand...
 ---FEED-SEPARATOR---
 UEFA Europa League - Play-Off Round (2nd Leg) [0-1]
 PAOK Thessaloniki vs. Rijeka
