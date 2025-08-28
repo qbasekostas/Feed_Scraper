@@ -5,3 +5,11 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID:Fi15_GNVE
 CW: 8C 51 93 70 EB 57 55 97
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12726 V 7120 | 4:2:0 | 8PSK
+ID: 
+Carabao Cup - Round 2 -HIGHLIGHTS
+Event: 
+Carabao Cup Highlights
+CW: AB C4 44 B3 1F 28 08 4F
