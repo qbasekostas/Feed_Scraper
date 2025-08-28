@@ -107,6 +107,39 @@ DVB-S2 - 1080P - 8PSK
 ID: UEFA PLAY OFF B
 CW: E2 31 21 34 D3 BA CC 59
 ---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (2nd Leg) [1-1]
+AEK Athens vs. Anderlecht
+Eutelsat 7B/7C @ 7.0°E
+12654 - V - 9700 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OTE 2
+CW: AC 21 14 E1 CB AB 12 88
+---FEED-SEPARATOR---
+UEFA Europa  League - Play-Off Round (2nd Leg) [3-0]
+Utrecht vs. Zrinjski
+Eutelsat 7B/7C @ 7.0°E
+11154 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UTRECHT - ZRINJSKI HOL075
+CW: 21 E4 A6 AB 17 3B 5A AC
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (2nd Leg) [0-1]
+Arda vs. Raków Czestochowa
+Eutelsat 7B/7C @ 7.0°E
+11136 - H - 6900 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Arda vs Rakow BUL007 Main
+CW: 23 10 89 BC 75 64 12 EB
+---FEED-SEPARATOR---
 UEFA Europa League - Play-Off Round (2nd Leg) [1-0]
 Young Boys vs.  Slovan Bratislava
 Eutelsat 7B/7C @ 7.0°E
