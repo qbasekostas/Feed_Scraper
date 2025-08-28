@@ -107,6 +107,17 @@ DVB-S2 - 1080P - 8PSK
 ID: UEFA PLAY OFF B
 CW: E2 31 21 34 D3 BA CC 59
 ---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (2nd Leg) [2-1]
+Legia Warsaw vs. Hibernian
+Eutelsat 7B/7C @ 7.0°E
+12564 - H - 9600 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: POL-90 Hda
+CW: 09 0C AE C3 28 08 25 55
+---FEED-SEPARATOR---
 Akrem said:
 			Det
 Click to expand...
