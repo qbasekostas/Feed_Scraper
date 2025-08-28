@@ -22,6 +22,48 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: AB C4 44 B3 1F 28 08 4F
 ---FEED-SEPARATOR---
+A.ElSadek said:
+Friendly Club Match
+Saudi Arabia U23 VS Yamen U23
+Arabsat 5A at 30.5°E
+10736 - Horizontal - 6000
+Name : SNG>11A NAJRAN
+Clear  
+​
+Click to expand...
+10724 - Horizontal - 6000 
+SNG 16 A 
+---FEED-SEPARATOR---
+Friendly Club Match
+Saudi Arabia U23 VS Yamen U23
+Arabsat 5A at 30.5°E
+10736 - Horizontal - 6000
+Name : SNG>11A NAJRAN
+Clear  
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (2nd Leg) [1-1]
+Besiktas vs.  Lausanne Sport
+Eutelsat 7B/7C @ 7.0°E
+12725 - V - 5000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SNG MEDYA 2/MAIN
+CW: 00 53 53 A6 13 61 61 D5
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11000 H 16960 |
+4:2:2
+ | 16APSK | DVB-S2X
+ID: 
+Main Feed
+ID: 
+Graphic Feed
+Event: 
+UEFA Champions League 2025/26 Draw
+CW: 82 3E 8D 4D 30 F8 8D B5
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 11139 V 9875
 DVB-S2 - 1080P - 8PSK
