@@ -41,6 +41,25 @@ Arabsat 5A at 30.5°E
 Name : SNG>11A NAJRAN
 Clear  
 ---FEED-SEPARATOR---
+UEFA Conference League - Play-Off Round (2nd Leg) [1-2]
+Rapid Vienna vs. Györ
+Eutelsat 7B/7C @ 7.0°E
+11151 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID:  Service 1
+FTA
+---FEED-SEPARATOR---
+UEFA Champions League - League Phase DRAW
+- UEFA Champions League Draw -
+Eutelsat 7B/7C (7.0°E)
+11541 V 7199
+DVB-S2 4.2.0 HD
+ID: E379 Feed2
+FTA / CLEAR
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 10969 H 7200 | 4:2:0 | 8PSK
 ID: UKR-018 BackUp
@@ -88,6 +107,45 @@ DVB-S2 - 1080P - 8PSK
 ID: UEFA PLAY OFF B
 CW: E2 31 21 34 D3 BA CC 59
 ---FEED-SEPARATOR---
+Akrem said:
+			Det
+Click to expand...
+---FEED-SEPARATOR---
+UEFA Europa League - Play-Off Round (2nd Leg) [0-1]
+PAOK Thessaloniki vs. Rijeka
+Eutelsat 7B/7C @ 7.0°E
+12643 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: poak vs riejka
+CW: 30 21 12 63 12 20 93 C5
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off (2nd Leg) [2-1]
+Universitatea Craiova v Istanbul Basaksehir
+ ST: 18:30
+1°W
+12540 
+V 
+6660
+DVB-S2-
+4:2:0
+-8PSK
+ID: backup
+CW: 28 08 20 50 25 AB C1 91
+---FEED-SEPARATOR---
+UEFA Europa League - Play-Off Round (2nd Leg) [1-5]
+Racing Genk vs. Lech Poznan
+Eutelsat 7B/7C @ 7.0°E
+12634 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: HOL318 Main
+CW: A3 18 FE B9 ED 28 08 1D
+---FEED-SEPARATOR---
 UEFA Europa League - Play-Off Round (2nd Leg) [0-3]
 Sigma Olomouc v Malmö
  ST: 17:30
@@ -118,8 +176,8 @@ Event:
 UEFA Champions League 2025/26 Draw
 CW: 82 3E 8D 4D 30 F8 8D B5
 ---FEED-SEPARATOR---
-UEFA Conference League - Play-Off (2nd Leg) [2-1]
-Universitatea Craiova v Istanbul Basaksehir
+UEFA Conference League - Play-Off (2nd Leg) [2-7]
+CFR Cluj v BK Häcken
  ST: 18:30
 1°W
 12526 
