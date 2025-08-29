@@ -10,6 +10,12 @@ ID: OVERON 2
 CW: F0 4A 4E 88 66 01 BF 26
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
+11542 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: E379 Feed 2
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
 11000 H 16960
 DVB-S2X
  - 16APSK - 8PSK
@@ -34,3 +40,30 @@ CW: 82 3E 8D 4D 30 F8 8D B5
 Click to expand...
 NEW
 CW: A3 3F DA BC A0 B3 EA 3D
+---FEED-SEPARATOR---
+Euro Basket
+Eutelsat 7B/7C @ 7.0E
+12634 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: FIBA Tamperre Domestic
+CW: C9 B2 D9 54 EA 13 DC D9
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12643
+ V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: FIBA Tamperre
+Albahraniy said:
+Euro Basket
+CW: C9 B2 D9 54 EA 13 DC D9
+Click to expand...
+---FEED-SEPARATOR---
+7e
+12634 V 7200
+4:2:0
+ID: 
+FIBA Tamperre Domestic
+Eurobasket
+A0 E2 2B 79 32 8B 06 B6  #CW:C9 B2 D9 54 EA 13 DC D9
