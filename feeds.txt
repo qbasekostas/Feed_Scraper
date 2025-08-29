@@ -1,3 +1,31 @@
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID: LIGA HYPERMOTION 2
+LaLiga 2
+ Real Sociedad  vs Almeria
+CW: CD FC BF 88 A4 8F 8A BD
+---FEED-SEPARATOR---
+Spanish La Liga - Week 3
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+____________________
+Valencia vs. Getafe
+ID: OVERON 1
+Albahraniy said:
+CW: F8 E2 59 33 AB 0A 06 BB
+Click to expand...
+____________________
+Elche vs. Levante
+ID: OVERON 2
+Albahraniy said:
+CW: F0 4A 4E 88 66 01 BF 26
+Click to expand...
+---FEED-SEPARATOR---
 LALIGA
 Asiasat 5 (100.5°E) C BAND
 3840 H 30000
