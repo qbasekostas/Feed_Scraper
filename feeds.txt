@@ -1,3 +1,12 @@
+28.2E
+12520 H 7200 
+4:2:0
+DVB-S2 - 8PSK
+ID D-528
+CW: 29 08 AC DD DC 10 10 FC
+German 3. Liga - Week 4
+Viktoria Cologne v Jahn Regensburg
+---FEED-SEPARATOR---
 Bundesliga 2
 Hertha Berlin  vs Elversberg
 16.0E
