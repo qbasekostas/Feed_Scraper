@@ -8,3 +8,29 @@ CW: F8 E2 59 33 AB 0A 06 BB
 4:2:2
 ID: OVERON 2
 CW: F0 4A 4E 88 66 01 BF 26
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11000 H 16960
+DVB-S2X
+ - 16APSK - 8PSK
+4.2.2
+ID: Main Feed (NL 2SAT)
+ID: Graphic Feed (NL 2SAT)
+Albahraniy said:
+NEW
+CW: A3 3F DA BC A0 B3 EA 3D
+Click to expand...
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+11013 H 8020 |
+4:2:2
+ | 16APSK | DVB-S2X
+ID: 
+World Feed
+Event: 
+UEFA Champions League 2025/26 Draw
+CW: 82 3E 8D 4D 30 F8 8D B5
+Click to expand...
+NEW
+CW: A3 3F DA BC A0 B3 EA 3D
