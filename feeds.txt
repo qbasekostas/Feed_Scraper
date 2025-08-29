@@ -1,3 +1,11 @@
+Bundesliga 2
+Hertha Berlin  vs Elversberg
+16.0E
+10978 H 7200
+4.2.0 HD
+ID: F1-1 9MHZ
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
@@ -75,6 +83,14 @@ Eutelsat 7B/7C @ 7.0E
 DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: FIBA Tamperre Domestic
+CW: C9 B2 D9 54 EA 13 DC D9
+---FEED-SEPARATOR---
+7B @ 7.0°E
+Fréq:11588- V - 7200
+ ID:    EST-003(LAT)DOM
+MPEG 4 - 4:2:0 - DVB-S2
+European Championship, Men Group A
+ Czech Republic vs Latvia
 CW: C9 B2 D9 54 EA 13 DC D9
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
