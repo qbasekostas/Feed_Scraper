@@ -49,7 +49,15 @@ DVB-S2 - 1080P - 8PSK
 ID: FIBA Tamperre Domestic
 CW: C9 B2 D9 54 EA 13 DC D9
 ---FEED-SEPARATOR---
-eurobasket match turkey - chech ?
+Eutelsat 7B/7C @ 7.0E
+11596 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: EST-003(LAT)INT (Levira)
+Albahraniy said:
+Euro Basket
+CW: C9 B2 D9 54 EA 13 DC D9
+Click to expand...
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12643
