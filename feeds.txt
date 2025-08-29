@@ -1,7 +1,35 @@
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR MENA 1
+LaLiga
+Real Madrid vs RCD Mallorca
+found CW: 
+C0 BD 89 06 7B B5 6A 9A
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 3
+LaLiga
+ Girona vs Sevilla
+found CW: 
+1A 0B 93 B8 78 87 4E 4D
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+LaLiga
+ Real Oviedo vs Real Sociedad
+CW: 6A D5 B3 F2 78 CB 4A 8D
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
 ID:OVERON 1
+LaLiga 
+Deportivo Alaves vs Atletico Madrid
 CW: D4 43 DB F2 71 DD E9 37
 ---FEED-SEPARATOR---
 10E
