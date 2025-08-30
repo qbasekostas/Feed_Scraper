@@ -1,3 +1,30 @@
+2. Bundesliga
+ VfL Bochum – Preußen Münster
+ 16.0E
+ 10974 H 3600 4:2:0
+ ID: Fal4 Enc1 
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12581  Vertical  7201,801
+ID: D-437 (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 30 08 AC E4 DC 10 11 FD
+3. Liga - Jornada 4
+Verl
+ VS 
+Duisburgo
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12643  Horizontal  7201,801
+ID:  D-528 (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 30 08  AC E4 DC 10 15 01
+3. Liga - Jornada 4
+Havelse
+ VS 
+Osnabruck
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12573  Vertical  7201,812
 ID: TSV 1860 Mn (MTI)
@@ -18,13 +45,6 @@ Saarbrücken
  vs 
 Aue
 CW: 30 08 AC E4 DC 10 13 FF
----FEED-SEPARATOR---
-2. Bundesliga
-VfL Bochum – Preußen Münster
-16.0E
-10974 H 3600 4:2:0
-ID: Fal4 Enc1 
-CW: 20 18 AB E3 BA 81 02 3D
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
@@ -74,12 +94,75 @@ ID: OVERON 3
 LaLiga
 CW: A1 8B 1B 47 BE 3F 7E 7B
 ---FEED-SEPARATOR---
+orangebirds said:
+EFL Championship - Middlesbrough vs Sheffield United
+100.5°E
+3927 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 13 49 32 8E 56 BA B3 C3
+Click to expand...
+7e
+12725 v 7120
+id: Middles V Sheff UTD
+---FEED-SEPARATOR---
+English Premier League
+Chelsea  vs Fulham
+7.0E
+11514 V 6666
+4.2.0 HD
+ID: Bein Chelsea v Fulham
+CW : 55 CB 77 97 6D 28 85 1A
+---FEED-SEPARATOR---
+EFL Championship - Middlesbrough vs Sheffield United
+100.5°E
+3927 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 13 49 32 8E 56 BA B3 C3
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12634 V 7200
 DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:  FIBA Tamperre Domestic 
 CLEAR/FTA
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11180 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: FIBA KATOWICE
+European Championship
+CW: D4 62 D7 0D 79 A7 D2 F2
+---FEED-SEPARATOR---
+Jacop said:
+EURO Basket
+CW: D4 62 D7 0D 79 A7 D2 F2
+Click to expand...
+7.0E
+11135 V 7200
+4.2.0 HD
+ID: CYPRUS INT MAIN
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11126 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  CYPRUS DOMESTIC MAIN
+European Championship
+CW: D4 62 D7 0D 79 A7 D2 F2
+---FEED-SEPARATOR---
+Jacop said:
+EURO Basket
+CW: D4 62 D7 0D 79 A7 D2 F2
+Click to expand...
+7B @ 7.0°E
+Fréq:11588- V - 7200
+ID: 
+EST-003(LAT)DOM
+MPEG 4 - 4:2:0 - DVB-S2
+European Championship
 ---FEED-SEPARATOR---
 Jacop said:
 CW: D4 62 D7 0D 79 A7 D2 F2
