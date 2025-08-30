@@ -1,3 +1,13 @@
+German 1. Bundesliga - Week 2
+Werder Bremen v Bayer Leverkusen
+ST: 15:30
+10°E C-BAND
+TP:3900 V/H 3750
+ID:Signal6
+DVB S2 1080i
+ 4.2.0
+#CW :0F FC D0 DB A4 04 EF 97
+---FEED-SEPARATOR---
 2. Bundesliga
  VfL Bochum – Preußen Münster
  16.0E
@@ -45,6 +55,20 @@ Saarbrücken
  vs 
 Aue
 CW: 30 08 AC E4 DC 10 13 FF
+---FEED-SEPARATOR---
+LaLiga
+Real Madrid vs RCD Mallorca
+EUTELSAT 10A (10°E)
+Fréq:10767 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:    SUPPONOR AFRICA 1
+CW: EB 63 0C 5A 32 40 44 B6
+ID: SUPPONOR EASTERN 1
+CW: CE 98 4F B5 63 2E 3B CC
+ID: 
+SUPPONOR RUSIA 1
+found CW: 
+01 23 1C 40 61 4B 3F EB 
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
