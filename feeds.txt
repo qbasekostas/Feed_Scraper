@@ -94,6 +94,25 @@ ID: OVERON 3
 LaLiga
 CW: A1 8B 1B 47 BE 3F 7E 7B
 ---FEED-SEPARATOR---
+Scottish Premiership - Week 4
+Livingston vs. Hearts
+Intelsat 10-02 @ 1.0°W
+11508 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 56 90 A2 88 D4 2D C1 C2
+---FEED-SEPARATOR---
+EFL Championship - Millwall vs Wrexham
+100.5°E
+3984 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 25 16 63 9E 4D 42 92 21
+---FEED-SEPARATOR---
 orangebirds said:
 EFL Championship - Middlesbrough vs Sheffield United
 100.5°E
