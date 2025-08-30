@@ -1,3 +1,24 @@
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12573  Vertical  7201,812
+ID: TSV 1860 Mn (MTI)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 30 08 AC E4 DC 10 10 FC
+3. Liga - Jornada 4
+1860 Múnich
+ VS  
+Stuttgart II
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12625  Horizontal  7201,801
+ID:   D-361 Saarbruecken (Service Provider)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Alemania
+3. Liga - Jornada 4
+Saarbrücken
+ vs 
+Aue
+CW: 30 08 AC E4 DC 10 13 FF
+---FEED-SEPARATOR---
 2. Bundesliga
 VfL Bochum – Preußen Münster
 16.0E
@@ -57,11 +78,17 @@ Eutelsat 7B/7C @ 7.0E
 12634 V 7200
 DVB-S2 - 1080P - 8PSK
 4.2.0
-ID:  FIBA Tamperre Domestic
+ID:  FIBA Tamperre Domestic 
+CLEAR/FTA
+---FEED-SEPARATOR---
 Jacop said:
-EURO Basket
 CW: D4 62 D7 0D 79 A7 D2 F2
 Click to expand...
+7B @ 7.0°E
+Fréq:11598- V - 7200
+ID:  EST-003(LAT)INT
+MPEG 4 - 4:2:0 - DVB-S2
+European Championship
 ---FEED-SEPARATOR---
 EURO Basket
 7.0E
