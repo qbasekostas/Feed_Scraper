@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 2
+Augsburg vs. Bayern Munich
+Eutelsat 16A @ 16.0°E
+10981 - H - 3600 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: F6-2 4.5MH
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 28.2E
 12592 V 7200 
 DVB-S2 - 8PSK
@@ -210,6 +221,14 @@ ID : BT_SES_22_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 13 49 32 8E 56 BA B3 C3
+---FEED-SEPARATOR---
+10E
+11270 V 7200
+4.2.0
+ID: GCUK Enc 3
+CAFA Nations Cup
+Uzbekistan - Oman
+FTA
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12634 V 7200
