@@ -102,6 +102,14 @@ Italian football serie B
 ID: ITA 555
 CW: 48 42 B3 3D 81 37 E3 9B
 ---FEED-SEPARATOR---
+Spanish third league .Tercera RFEF
+Torremolinos vs CE Europa
+7.0E 
+11553  V 4800
+4.2.0 HD
+ID: E378 CH1
+CW: AB E2 01 8E 22 EC B1 BF
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
 ID: OVERON 4
