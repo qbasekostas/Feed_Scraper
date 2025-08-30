@@ -1,3 +1,13 @@
+7.0E
+German League Bundesliga
+Augsburg vs Bayern Munich
+11083 V 14400
+4.2.2 HD
+ID: GVA-Fi08
+German League Bundesliga
+Augsburg vs Bayern Munich
+CW: 99 E6 9B 1A 38 84 20 DC
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 2
 Augsburg vs. Bayern Munich
 Eutelsat 16A @ 16.0°E
@@ -286,3 +296,14 @@ EURO Basket
 4.2.0 HD
 ID: FIBA Tamperre
 CW: D4 62 D7 0D 79 A7 D2 F2
+---FEED-SEPARATOR---
+Greek Super League 1 - Week 2
+Volos NFC vs.  Olympiacos
+Eutelsat 7B/7C @ 7.0°E
+11172 - V - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID:  VOLOS VS OSFP
+CW: 41 82 73 36 B0 5A 17 21
