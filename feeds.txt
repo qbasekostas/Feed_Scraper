@@ -53,6 +53,16 @@ ID: OVERON 3
 LaLiga
 CW: A1 8B 1B 47 BE 3F 7E 7B
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12634 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  FIBA Tamperre Domestic
+Jacop said:
+EURO Basket
+CW: D4 62 D7 0D 79 A7 D2 F2
+Click to expand...
+---FEED-SEPARATOR---
 EURO Basket
 7.0E
 12642 V 7200
