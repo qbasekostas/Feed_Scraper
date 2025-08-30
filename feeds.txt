@@ -1,3 +1,13 @@
+28.2E
+12592 V 7200 
+DVB-S2 - 8PSK
+1920x1080i 4:2:0
+Service Name: D-128 - Rostock
+Provider Name: Betamobil
+CW: 30 08 AC E4 DC 10 12 FE
+German 3. Liga - Week 4
+Hansa Rostock vs. Hoffenheim II
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 2
 Werder Bremen v Bayer Leverkusen
 ST: 15:30
@@ -55,6 +65,15 @@ Saarbrücken
  vs 
 Aue
 CW: 30 08 AC E4 DC 10 13 FF
+---FEED-SEPARATOR---
+LaLiga, Round 3
+Deportivo Alavés vs Atlético Madrid
+Asiasat 5 (100.5°E) C BAND
+4133 H 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:CHINA+1
+CW: B4 E6 10 AA 54 7F 6F 42
 ---FEED-SEPARATOR---
 LaLiga
 Real Madrid vs RCD Mallorca
