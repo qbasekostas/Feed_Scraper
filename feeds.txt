@@ -1,3 +1,11 @@
+German League Bundesliga
+Augsburg vs Bayern Munich
+7.0E
+11021 V 9875 
+4.2.0 HD
+ID: FCA-FCB Basis DFL
+CW: 1A 9A FC B0 09 F2 39 34
+---FEED-SEPARATOR---
 7.0E
 German League Bundesliga
 Augsburg vs Bayern Munich
@@ -86,6 +94,13 @@ Saarbrücken
  vs 
 Aue
 CW: 30 08 AC E4 DC 10 13 FF
+---FEED-SEPARATOR---
+Italian football serie B
+7.0E
+12522 V 7500
+4.2.2 HD
+ID: ITA 555
+CW: 48 42 B3 3D 81 37 E3 9B
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
