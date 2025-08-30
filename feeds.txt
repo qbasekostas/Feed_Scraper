@@ -312,6 +312,15 @@ EURO Basket
 ID: FIBA Tamperre
 CW: D4 62 D7 0D 79 A7 D2 F2
 ---FEED-SEPARATOR---
+Hellasat 3 @ 39.0E
+11007 V 7200 | 4:2:0 | 8PSK
+ID: 
+serres vs ofi
+Event: 
+Greek Super League 1 - Week 2
+Serres v OFI Crete
+CW: D7 2A B3 B4 2C F7 7E A1
+---FEED-SEPARATOR---
 Greek Super League 1 - Week 2
 Volos NFC vs.  Olympiacos
 Eutelsat 7B/7C @ 7.0°E
