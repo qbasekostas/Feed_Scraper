@@ -66,6 +66,22 @@ Saarbrücken
 Aue
 CW: 30 08 AC E4 DC 10 13 FF
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+ID: OVERON 4
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+CW : D5 39 E0 EE 3D 90 C2 8F
+Deportivo Alavés vs Atlético Madrid
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10767 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID:LIGA HYPERMOTION 2
+LaLiga2
+Valladolid-Cordoba
+found CW
+: 08 B1 4E 07 3D A7 74 58 
+---FEED-SEPARATOR---
 LaLiga, Round 3
 Deportivo Alavés vs Atlético Madrid
 Asiasat 5 (100.5°E) C BAND
