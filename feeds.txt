@@ -102,6 +102,26 @@ Italian football serie B
 ID: ITA 555
 CW: 48 42 B3 3D 81 37 E3 9B
 ---FEED-SEPARATOR---
+Delete...
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7500
+PMT PID: 3890, SID: 47 @ OVERON 5 (OVERON)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 41 67 E7 8F 02 88 B8 42
+Real Madrid vs. Mallorca
+---FEED-SEPARATOR---
+Spanish La Liga - Week 3
+Real Madrid vs. Mallorca
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: C6 4A 7C 8C 8D 03 5E EE
+---FEED-SEPARATOR---
 Spanish third league .Tercera RFEF
 Torremolinos vs CE Europa
 7.0E 
@@ -196,6 +216,34 @@ CW: 40 86 1C E2 2E FD B1 DC
 ID: OVERON 3
 LaLiga
 CW: A1 8B 1B 47 BE 3F 7E 7B
+---FEED-SEPARATOR---
+Spanish La Liga - Week 3
+Real Madrid vs. Mallorca
+Eutelsat 10B @ 10.0°E
+10769 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: 85 3A 82 41 C9 74 4B 88
+ID: SUPPONOR EASTERN 1
+CW: 9D BF 21 7D 7B 4A FC C1
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3985 V 7500
+ID: CHINA+1
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+CW: 15 35 8F D9 CE C4 46 D8   #[E] PID:0CE5h
+Real Madrid vs. Mallorca
+---FEED-SEPARATOR---
+30W HISPASAT
+12093H29999
+ID: ENC 203-ICRT
+DVB-S2 4.2.0 1080I 
+FÚTBOL ESPAÑOL 
+real madrid VS MALLORCA
+CW: 12 24 AB E1 CB 33 FE FC
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12686 H 7119
