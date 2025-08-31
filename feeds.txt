@@ -44,6 +44,21 @@ Schweinfurt - Wehen Wiesbaden
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OVERON 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,00Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 3
+Teams: RCD Espanyol vs CA Osasuna
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 19.30 CET
+Dani Sat said:
+CW: A1 60 F7 F8 7E 2F 17 C4
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OVERON 2 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
@@ -288,3 +303,10 @@ ID: AMERICAN FIBA MAIN
 4167V7199
 DVB-S2 4.2.0 1080I 
 CW: 3E 57 9D 32 DE AD BC 47
+---FEED-SEPARATOR---
+Greek Super League 1
+AEK vs Asteras Tripolis
+7e
+11189 H 7198
+ID: AEK VS ASTERAS (*unnamed-1*)
+CW: 03 29 83 AF BB 78 4A 7D
