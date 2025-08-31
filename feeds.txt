@@ -105,6 +105,36 @@ ID: BT_SES_24_SDI (SES)
 EFL Highlights
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+FaDeL® said:
+			Eutelsat 7B @ 7.0°E
+Fréq:11180 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: FIBA KATOWICE
+European Championship
+CW: D4 62 D7 0D 79 A7 D2 F2
+Click to expand...
+New CW : 62 F4 00 56 28 1A E1 23
+---FEED-SEPARATOR---
+Jacop said:
+7.0E
+11135 V 7200
+4.2.0 HD
+ID: CYPRUS INT MAIN
+Click to expand...
+NEW
+CW: 62 F4 00 56 28 1A E1 23
+---FEED-SEPARATOR---
+FaDeL® said:
+			Eutelsat 7B @ 7.0°E
+Fréq:11126 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  CYPRUS DOMESTIC MAIN
+European Championship
+CW: D4 62 D7 0D 79 A7 D2 F2
+Click to expand...
+NEW
+CW: 62 F4 00 56 28 1A E1 23
+---FEED-SEPARATOR---
 47W SES14 C 
 ID: AMERICAN FIBA MAIN
 4167V7199
