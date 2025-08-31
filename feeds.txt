@@ -24,6 +24,16 @@ ID: F1-1 9MHZ
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
 28.2E
+12626 H 7200
+DVB-S2 - 8PSK
+1920x1080i 4:2:0
+Service Name: D-528
+Provider Name: rt1.tv
+CW: 31 08 AC E5 DC 10 12 FE
+German 3. Liga - Week 4
+Rot Weiß Essen vs. Alemannia Aachen
+---FEED-SEPARATOR---
+28.2E
 12644 H 7200
 DVB-S2 - 8PSK
 1920x1080i 4:2:0
@@ -31,6 +41,21 @@ Service Name: D-361 Schweinfurt
 CW: 31 08 AC E5 DC 10 11 FD
 German 3. Liga - Week 4
 Schweinfurt - Wehen Wiesbaden
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,93Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 3
+Teams: Real Betis vs Athletic Club
+Time / Kickoff: 00.00 JKT-TH / 01.00 MY-SG / 17.00 GMT / 19.00 CET
+Dani Sat said:
+CW: 11 30 23 64 FC 7D 18 91
+Click to expand...
 ---FEED-SEPARATOR---
 Spanish third league .Tercera RFEF
 7.0E
