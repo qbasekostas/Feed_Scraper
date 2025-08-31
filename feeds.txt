@@ -1,3 +1,11 @@
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12572  Vertical  7201,812
+ID: D-473 (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Germany, 3. Liga
+SSV Ulm 1846 VS SV Waldhof Mannheim 07
+CW: 31 08 AC E5 DC 10 10 FC
+---FEED-SEPARATOR---
 Bundesliga 2
 Dynamo Dresden  vs Schalke
 16.0E
