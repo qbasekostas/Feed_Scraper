@@ -42,6 +42,16 @@ CW: 31 08 AC E5 DC 10 11 FD
 German 3. Liga - Week 4
 Schweinfurt - Wehen Wiesbaden
 ---FEED-SEPARATOR---
+Spanish La Liga (Primera) - Week 3
+Rayo Vallecano v Barcelona
+ST: 21:30
+10°E C-BAND
+TP:3905 V/H 3750
+ID:LA LIGA
+DVB S2 1080i 
+4.2.0
+#CW : 0F FC D0 DB A4 04 EF 97
+---FEED-SEPARATOR---
 Event: Spain - LALIGA EA SPORTS Matchday 3
 Teams: Rayo Vallecano vs FC Barcelona
 Time / Kickoff: 02.30 JKT-TH / 03.30 MY-SG / 19.30 GMT / 21.30 CET
