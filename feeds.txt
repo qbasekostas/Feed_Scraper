@@ -1,3 +1,47 @@
+Spanish La Liga - Week 3
+Rayo Vallecano vs. Barcelona
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR MENA 1
+CW: 6B 55 47 07 82 D8 4F A9
+---FEED-SEPARATOR---
+Spanish La Liga - Week 3
+Espanyol vs. Osasuna
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 3
+CW: A1 60 F7 F8 7E 2F 17 C4
+---FEED-SEPARATOR---
+Spanish La Liga - Week 3
+Real Betis vs. Athletic Bilbao
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 11 30 23 64 FC 7D 18 91
+---FEED-SEPARATOR---
+Spanish La Liga - Week 3
+Celta Vigo vs. Villarreal
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 79 B9 79 AB A1 01 41 E3
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.2
