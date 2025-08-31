@@ -57,6 +57,15 @@ ID: SUPPONOR MENA 1
 LaLiga
 CW: 91 23 D3 87 8E B7 9A DF
 ---FEED-SEPARATOR---
+1W
+10988 V 15000 
+4:2:2
+DVBS-2 8PSK
+ID No name
+CW: FD 54 AD FE 73 66 F6 CF
+Scottish Premiership  Week 4
+Rangers v Celtic
+---FEED-SEPARATOR---
 Albahraniy said:
 Asiasat 5 (100.5°E) C BAND
 3993 V 7119
