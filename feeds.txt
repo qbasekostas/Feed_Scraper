@@ -23,6 +23,20 @@ Dynamo Dresden  vs Schalke
 ID: F1-1 9MHZ
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Dani Sat said:
+Spanish La Liga - Week 3
+Celta Vigo vs. Villarreal
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 79 B9 79 AB A1 01 41 E3
+Click to expand...
+down
+---FEED-SEPARATOR---
 Spanish La Liga - Week 3
 Rayo Vallecano vs. Barcelona
 Eutelsat 10B @ 10.0°E
