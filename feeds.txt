@@ -306,6 +306,15 @@ DVB-S2 4.2.0 1080I
 CW: 3E 57 9D 32 DE AD BC 47
 ---FEED-SEPARATOR---
 Greek Super League 1
+pao vs levadiakos
+Eutelsat 7B/7C @ 7.0E
+11126 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: pao vs levadiakos 
+CW: A2 15 52 09 0B 61 7B E7
+---FEED-SEPARATOR---
+Greek Super League 1
 AEK vs Asteras Tripolis
 7e
 11189 H 7198
