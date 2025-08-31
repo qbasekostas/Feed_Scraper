@@ -1,3 +1,12 @@
+Eutelsat 7B-7C @ 07.0E
+11009 H 9875 | 4:2:0 | 8PSK
+ID: 
+Fi20_GNVE (CM5000)
+Event: 
+German 1. Bundesliga - Week 2
+Borussia Dortmund v Union Berlin
+CW: 63 13 1F 95 75 D9 C2 10
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12572  Vertical  7201,812
 ID: D-473 (rt1.tv)
@@ -64,6 +73,24 @@ CW: 79 B9 79 AB A1 01 41 E3
 ID: SUPPONOR MENA 1
 LaLiga
 CW: 91 23 D3 87 8E B7 9A DF
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11514 V 6666 | 4:2:0 | 8PSK
+ID: 
+Bein Liverpool V Arsenal
+Event: About Liverpool vs Arsenal (beIN MENA feed)
+CW: CC 33 7A 79 DD 47 55 79
+---FEED-SEPARATOR---
+Scottish Premiership - Week 4
+Dundee vs. Dundee United
+Eutelsat 10B @ 10.0°E
+11269 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 5
+CW: 32 BB CE BB 55 DA DA 09
 ---FEED-SEPARATOR---
 10E
 10737 H 7200 
