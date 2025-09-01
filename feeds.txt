@@ -6,6 +6,15 @@ Serie C
 Forlì FC - Ravenna FC
 CW: 8D E6 8F 02 07 A1 48 F0
 ---FEED-SEPARATOR---
+jsc5 said:
+			7E
+11553 V 4800
+ID: E378 CH2
+Liga Spain Terceta
+Please Biss Key !!!!
+Click to expand...
+CW: A2 2B 01 CE 34 EA BA D8
+---FEED-SEPARATOR---
 10.0°E
 10732 V 34000
 4:2:0
