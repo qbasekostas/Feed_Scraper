@@ -4,12 +4,20 @@
 ID: LIGA HYPERMOTION 1
 CW: 49 EB DD 11 8C 83 65 74
 ---FEED-SEPARATOR---
+A.ElSadek said:
+European Championship - Turkey VS Estonia  
+Click to expand...
+Eutelsat 7B ( 7.0°E)
+12677 - V - 7200
+Name :  EST-003(LAT)DOM
+CW: BD FF 31 ED 12 1B BB E8
+---FEED-SEPARATOR---
 Jacop said:
 CW: BD FF 31 ED 12 1B BB E8
 Click to expand...
 Eutelsat 7B ( 7.0°E)
 12685 - V - 7200
-EST-003(LAT)INT
+Name : EST-003(LAT)INT
 European Championship - Turkey VS Estonia  
 ---FEED-SEPARATOR---
 Jacop said:
