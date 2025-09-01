@@ -3,3 +3,19 @@
 4:2:0
 ID: LIGA HYPERMOTION 1
 CW: 49 EB DD 11 8C 83 65 74
+---FEED-SEPARATOR---
+Jacop said:
+European Championship
+CW: BD FF 31 ED 12 1B BB E8
+Click to expand...
+7.0E
+12694 V 7200
+4.2.0 HD
+ID: FIBA Tamperre Domestic
+---FEED-SEPARATOR---
+European Championship
+7.0E
+12703 V 7200
+4.2.0 HD
+ID: FIBA Tamperre
+CW: BD FF 31 ED 12 1B BB E8
