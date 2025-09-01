@@ -4,6 +4,13 @@
 ID: LIGA HYPERMOTION 1
 CW: 49 EB DD 11 8C 83 65 74
 ---FEED-SEPARATOR---
+16.0°E
+11125 H 5000
+4:2:0 - HEVC
+ID: RAI ITA 475 B
+CW: F9 09 B6 B8 92 A3 9D D2
+About Italy's World Cup Qualifiers
+---FEED-SEPARATOR---
 A.ElSadek said:
 European Championship - Turkey VS Estonia  
 Click to expand...
