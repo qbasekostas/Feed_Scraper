@@ -1,3 +1,11 @@
+CAFA NATIONS CUP 2025
+OMAN VS Kyrgyz Republic
+10.0E
+11287 H 7200
+4.2.0 HD
+ID: UZB TAS 001
+FTA
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 CW: ED C3 50 00 A3 F6 1E B7
 Click to expand...
@@ -15,11 +23,11 @@ Click to expand...
 ID: CYPRUS INT MAIN
 ---FEED-SEPARATOR---
 Event :Europe Euro Basket - Round 4
-Teams :Belgium 
- Israel
+Teams :Greece 
+ Bosnia & Herzegovina
 Eutelsat 7A/7B/7C @ 7.0°E 
 ( KU-BAND )
 12677 V 7200
   CYPRUS DOMESTIC MAIN (OVERON)
-MPEG4-4:2:2 HD 1920x1080 |16.091 Mbit/Sec|8PSK DVB-S2 HD
+MPEG4-4:2:0
 CW: ED C3 50 00 A3 F6 1E B7
