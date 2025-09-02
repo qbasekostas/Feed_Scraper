@@ -1,0 +1,25 @@
+Abo Saeid Satellite said:
+CW: ED C3 50 00 A3 F6 1E B7
+Click to expand...
+7.0E
+12694 V 7200
+4.2.0 HD
+ID: FIBA KATOWICE 
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+CW: ED C3 50 00 A3 F6 1E B7
+Click to expand...
+7.0E
+12685 V 7200
+4.2.0 HD
+ID: CYPRUS INT MAIN
+---FEED-SEPARATOR---
+Event :Europe Euro Basket - Round 4
+Teams :Belgium 
+ Israel
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12677 V 7200
+  CYPRUS DOMESTIC MAIN (OVERON)
+MPEG4-4:2:2 HD 1920x1080 |16.091 Mbit/Sec|8PSK DVB-S2 HD
+CW: ED C3 50 00 A3 F6 1E B7
