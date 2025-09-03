@@ -1,3 +1,41 @@
+Yamen U20 VS Kuwait 
+Arabsat-5A @ 30.5° E
+10736 - Horizontal - 6000
+Name : Service 01
+---FEED-SEPARATOR---
+A.ElSadek said:
+			Friendly Match
+Qatar VS Saudi Arabia U20
+Arabsat-5A @ 30.5° E
+10746 - Horizontal - 3125
+Name : SNG 16 A
+Click to expand...
+10724 - Horizontal - 6000
+Name : Service 01
+---FEED-SEPARATOR---
+Friendly Match
+Qatar VS Saudi Arabia U20
+Arabsat-5A @ 30.5° E
+10746 - Horizontal - 3125
+Name : SNG 16 A
+Reply
+---FEED-SEPARATOR---
+Findley match 
+Ukraine U17 vs. Qatar U17
+7.0E
+12541 V 7200 
+4.2.0 HD
+ID: GC Encoder 10
+CW: EC 11 DA D7 AB 45 13 03
+---FEED-SEPARATOR---
+FRIENDLY MATCH 
+Großessbach vs Stuttgart
+7.0E
+12634 V 7200
+4.2.0 HD
+ID: CHL-CZE-KOM-ODE
+CW: AB CA 25 9A 25 BC DA BB
+---FEED-SEPARATOR---
 Albahraniy said:
 NEW
 CW: 70 CF AD EC 74 EE 31 93
