@@ -1,3 +1,20 @@
+Delete
+---FEED-SEPARATOR---
+Albahraniy said:
+NEW
+CW: 70 CF AD EC 74 EE 31 93
+Click to expand...
+7.0E
+12685 V 7200
+4.2.0 HD
+ID: EST-003 (LAT) INT
+---FEED-SEPARATOR---
+FIBA EUEO Latvia 
+Eutelsat 7B (7.0°E)
+12677 - Vertical - 7200 4:2:0
+Name: EST-003 (LAT) DOM
+CW: 70 CF AD EC 74 EE 31 93
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12694 V 7200
 DVB-S2 - 1080P - 8PSK
