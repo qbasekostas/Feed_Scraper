@@ -1,0 +1,20 @@
+Eutelsat 7B/7C @ 7.0E
+12694 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:FIBA Tamperre Domestic
+Albahraniy said:
+NEW
+CW: 70 CF AD EC 74 EE 31 93
+Click to expand...
+---FEED-SEPARATOR---
+Jacop said:
+European Championship
+7.0E
+12703 V 7200
+4.2.0 HD
+ID: FIBA Tamperre
+CW: BD FF 31 ED 12 1B BB E8
+Click to expand...
+NEW
+CW: 70 CF AD EC 74 EE 31 93
