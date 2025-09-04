@@ -30,6 +30,14 @@ Friendlies
 Saudi Arabia - North Macedonia
 FTA
 ---FEED-SEPARATOR---
+Friendly Club Match
+RUSSIA VS JORDAN
+7.0E
+11666 H 9875
+4.2.2 HD
+ID: Fi18_GNVE
+FTA
+---FEED-SEPARATOR---
 Astra 1KR-1L-1M-1N ( 19.2E )
 11650 V 9602
 DVB-S2 - 4:2:2 - 8PSK
@@ -75,6 +83,14 @@ Click to expand...
 11000 V 14400
 4:2:2
 ID: KAZ008B
+---FEED-SEPARATOR---
+FIFA World Cup CONMEBOL qualifiers 2025
+47W SES14 
+3999H4999
+ID: servicio1
+DVB-S2 4.2.0 1080i
+Paraguay VS ECUADOR 
+CW: 12 34 AB F1 CD 56 78 9B
 ---FEED-SEPARATOR---
 Friendly International  (Tomorrow)
 Romania vs. Canada
