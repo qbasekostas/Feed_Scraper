@@ -45,6 +45,13 @@ Click to expand...
 4:2:2
 ID: KAZ008B
 ---FEED-SEPARATOR---
+Europe World Cup Qual. UEFA G, Round 5 Netherlands VS Poland
+Eutelsat 7B (7.0°E)
+11009 - Vertical - - 9874
+MPEG4 - 4:2:2 - DVB-S2
+Name : HOL-318 MAIN M7
+CW: 04 F8 B6 B2 AC 8F 09 44
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers -
 7.0E
 11048 V 14400
