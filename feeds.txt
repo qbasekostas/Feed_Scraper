@@ -45,6 +45,25 @@ Click to expand...
 4:2:2
 ID: KAZ008B
 ---FEED-SEPARATOR---
+delet my post dup
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers
+Eutelsat 7B/7C @ 7.0E
+11083 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:SUI76 Main MD5
+CW: 04 F8 B6 B2 AC 8F 09 44
+---FEED-SEPARATOR---
+Europe World Cup Qual. UEFA A, Round 1
+Luxembourg vs Northern Ireland
+Eutelsat 7B/7C @ 7.0E
+11065 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:2Sat HOL161 MD5 M9 Main
+CW: 04 F8 B6 B2 AC 8F 09 44
+---FEED-SEPARATOR---
 Europe World Cup Qual. UEFA G, Round 5 Netherlands VS Poland
 Eutelsat 7B (7.0°E)
 11009 - Vertical - - 9874
@@ -53,8 +72,37 @@ Name : HOL-318 MAIN M7
 CW: 04 F8 B6 B2 AC 8F 09 44
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers -
+Slovakia vs Germany
 7.0E
 11048 V 14400
 4.2.2 HD
 ID: NTF M08 M FEED BU
 CW: 04 F8 B6 B2 AC 8F 09 44
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12694 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:FIBA KATOWICE
+Albahraniy said:
+European Championship
+CW: 48 CE F0 06 AD 4E B5 B0
+Click to expand...
+---FEED-SEPARATOR---
+European Championship
+Eutelsat 7B/7C @ 7.0E
+12676 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:CYPRUS DOMESTIC MAIN
+CW: 48 CE F0 06 AD 4E B5 B0
+---FEED-SEPARATOR---
+Event: Europe EuroBasket - Round 5
+Teams : Bosnia & Herzegovina 
+ Georgia
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12686 V 7200
+  CYPRUS INT MAIN (OVERON)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 48 CE F0 06 AD 4E B5 B0
