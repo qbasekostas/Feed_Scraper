@@ -43,6 +43,17 @@ Click to expand...
 4:2:2
 ID: KAZ008B
 ---FEED-SEPARATOR---
+FIFA/CAF WC 2026 Qualifiers - Group l, Round 7
+Chad vs. Ghana
+Eutelsat 7B/7C @ 7.0°E
+10973 - V - 30000 
+|
+4:2:0
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: Vm6GVs1 CAF 01
+CW: 49 29 53 C5 EA D1 B9 74
+---FEED-SEPARATOR---
 Albahraniy said:
 Eutelsat 7B/7C @ 7.0E
 11020 H 14400
