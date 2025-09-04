@@ -76,21 +76,6 @@ Click to expand...
 4:2:2
 ID: KAZ008B
 ---FEED-SEPARATOR---
-Eutelsat 21B (21.5°E)
-Frequency: 
-12573
- - Pol: 
-H
- - SR: 
-7200
- - FEC: 
-3/4
-Category: 
-Sport - Football
-Transmitted in: 
-MPEG-2
-ℹ Saudi Arabia(N) North Macedonia
----FEED-SEPARATOR---
 Friendly International  (Tomorrow)
 Romania vs. Canada
 Intelsat 10-02 @ 1.0°W
