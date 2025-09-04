@@ -1,3 +1,12 @@
+19.2°E
+11596 V 9600
+4:2:2
+ID: AUT-34 P2-
+11650 V 9600
+4:2:2
+ID: AUT34M/ARD
+#FTA
+---FEED-SEPARATOR---
 omid1348 said:
 21.6E
 12573 H 7200
@@ -20,6 +29,16 @@ ID: SAUDI ARABIA vs NORTH MACED
 Friendlies
 Saudi Arabia - North Macedonia
 FTA
+---FEED-SEPARATOR---
+Astra 1KR-1L-1M-1N ( 19.2E )
+11650 V 9602
+DVB-S2 - 4:2:2 - 8PSK
+ID: AUT34M/ARD
+Event: 
+UEFA WC 2026 Qualifiers Group A
+ - 
+Slovakia vs Germany 
+from Bratislava, for ARD
 ---FEED-SEPARATOR---
 World Friendly Games 
 Gibraltar vs Albania
@@ -56,6 +75,21 @@ Click to expand...
 11000 V 14400
 4:2:2
 ID: KAZ008B
+---FEED-SEPARATOR---
+Eutelsat 21B (21.5°E)
+Frequency: 
+12573
+ - Pol: 
+H
+ - SR: 
+7200
+ - FEC: 
+3/4
+Category: 
+Sport - Football
+Transmitted in: 
+MPEG-2
+ℹ Saudi Arabia(N) North Macedonia
 ---FEED-SEPARATOR---
 Friendly International  (Tomorrow)
 Romania vs. Canada
