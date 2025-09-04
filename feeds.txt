@@ -1,3 +1,26 @@
+omid1348 said:
+21.6E
+12573 H 7200
+4.2.0
+ID: SAUDI ARABIA vs NORTH MACED
+Friendlies
+Saudi Arabia - North Macedonia
+FTA
+Click to expand...
+ALSO
+7E
+11523 V 7200
+4.2.0
+ID: CZE-012 Main
+---FEED-SEPARATOR---
+21.6E
+12573 H 7200
+4.2.0
+ID: SAUDI ARABIA vs NORTH MACED
+Friendlies
+Saudi Arabia - North Macedonia
+FTA
+---FEED-SEPARATOR---
 World Friendly Games 
 Gibraltar vs Albania
 Eutelsat 7B/7C @ 7.0E
@@ -33,6 +56,24 @@ Click to expand...
 11000 V 14400
 4:2:2
 ID: KAZ008B
+---FEED-SEPARATOR---
+Friendly International  (Tomorrow)
+Romania vs. Canada
+Intelsat 10-02 @ 1.0°W
+12527 - V - 6660 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: B 123 DGI
+CW: 04 09 20 2D 25 AB C1 91
+---FEED-SEPARATOR---
+FIFA World Cup European qualifiers 2025
+16.0E
+11021 V 9875
+4.2.2 HD
+ID: NFT M08 BU Feed M
+CW: 04 F8 B6 B2 AC 8F 09 44
 ---FEED-SEPARATOR---
 FIFA World Cup European qualifiers 2025
 Bulgaria vs Spain
