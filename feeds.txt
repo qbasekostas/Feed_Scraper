@@ -34,6 +34,14 @@ Click to expand...
 4:2:2
 ID: KAZ008B
 ---FEED-SEPARATOR---
+FIFA World Cup European qualifiers 2025
+Bulgaria vs Spain
+16.0E
+11104 H 9875
+4.2.2 HD
+ID: BUL 007 EQ M11
+CW: 04 F8 B6 B2 AC 8F 09 44
+---FEED-SEPARATOR---
 Bulgaria-Spain
 Eutelsat 7B/7C @ 7.0E
 11101 V 14400
@@ -45,7 +53,8 @@ FIFA/UEFA WC 2026 Qualifiers
 CW: 04 F8 B6 B2 AC 8F 09 44
 Click to expand...
 ---FEED-SEPARATOR---
-FIFA/UEFA WC 2026 Qualifiers
+FIFA World Cup European qualifiers 2025
+Tomorrow - Friday 5th Sept 2025- Switzerland vs Kosovo 19:45pm K/Off
 Eutelsat 7B/7C @ 7.0E
 11083 V 14400
 DVB-S2 - 1080P - 8PSK
