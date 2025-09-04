@@ -9,6 +9,8 @@ Eutelsat 7B/7C @ 7.0°E
 ID: NOR-044 1
 CW: 04 F8 B6 B2 AC 8F 09 44
 ---FEED-SEPARATOR---
+World Friendly Games 
+Gibraltar vs Albania
 Eutelsat 7B/7C @ 7.0E
 11020 H 14400
 DVB-S2 - 1080P - 8PSK
@@ -42,3 +44,10 @@ Click to expand...
 11000 V 14400
 4:2:2
 ID: KAZ008B
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers -
+7.0E
+11048 V 14400
+4.2.2 HD
+ID: NTF M08 M FEED BU
+CW: 04 F8 B6 B2 AC 8F 09 44
