@@ -30,6 +30,15 @@ Friendlies
 Saudi Arabia - North Macedonia
 FTA
 ---FEED-SEPARATOR---
+16E
+12690 V 8000
+12700 V 8000
+4.2.2
+ID: TVS OB1 Feed 1 / Feed 2
+World Cup Qualifiers
+Luxembourg - Northern Ireland
+FTA
+---FEED-SEPARATOR---
 Friendly Club Match
 RUSSIA VS JORDAN
 7.0E
@@ -83,6 +92,33 @@ Click to expand...
 11000 V 14400
 4:2:2
 ID: KAZ008B
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID : OCC3
+CONMEBOL World Cup Qualifiers
+CW: 25 AD FC CE B1 33 2A 0E
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID : OCC 4
+CONMEBOL World Cup Qualifiers
+CW: 48 21 35 9E 86 44 21 EB
+---FEED-SEPARATOR---
+orangebirds said:
+			ID : OCC 1
+CW: 12 58 AD 17 CB 34 EE ED
+Click to expand...
+orangebirds said:
+CONMEBOL World Cup Qualifiers - Match TBC
+ID : OCC 2
+CW: EF C5 11 C5 DA 56 76 A6
+Click to expand...
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
 ---FEED-SEPARATOR---
 CONMEBOL World Cup Qualifiers - Match TBC
 100.5°E
