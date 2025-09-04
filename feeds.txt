@@ -124,6 +124,7 @@ ID: B 123 DGI
 CW: 04 09 20 2D 25 AB C1 91
 ---FEED-SEPARATOR---
 FIFA World Cup European qualifiers 2025
+Slovakia vs Germany
 16.0E
 11021 V 9875
 4.2.2 HD
@@ -150,7 +151,10 @@ CW: 04 F8 B6 B2 AC 8F 09 44
 Click to expand...
 ---FEED-SEPARATOR---
 FIFA World Cup European qualifiers 2025
-Tomorrow - Friday 5th Sept 2025- Switzerland vs Kosovo 19:45pm K/Off
+Tomorrow - Friday 5th Sept 2025- 
+Liechtenstein vs Belgium
+​
+ 19:45pm K/Off
 Eutelsat 7B/7C @ 7.0E
 11083 V 14400
 DVB-S2 - 1080P - 8PSK
