@@ -30,7 +30,7 @@ CW: 04 F8 B6 B2 AC 8F 09 44
 FIFA/UEFA WC 2026 Qualifiers -
 Georgia - Turkey
 7.0E
-11000 V 14400
+11000 H 14400
 4.2.2 HD
 ID: TUR 112 MAIN
 CW: 04 F8 B6 B2 AC 8F 09 44
@@ -42,24 +42,3 @@ Click to expand...
 11000 V 14400
 4:2:2
 ID: KAZ008B
----FEED-SEPARATOR---
-FIFA/CAF WC 2026 Qualifiers - Group l, Round 7
-Chad vs. Ghana
-Eutelsat 7B/7C @ 7.0°E
-10973 - V - 30000 
-|
-4:2:0
- | H.264
-1920*1080 - DVB-S2 - 8PSK
-ID: Vm6GVs1 CAF 01
-CW: 49 29 53 C5 EA D1 B9 74
----FEED-SEPARATOR---
-Albahraniy said:
-Eutelsat 7B/7C @ 7.0E
-11020 H 14400
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID:E-95 - M5 - BACKUP 
-CW: 04 F8 B6 B2 AC 8F 09 44
-Click to expand...
-P1 P2 ???
