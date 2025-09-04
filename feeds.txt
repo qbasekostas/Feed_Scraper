@@ -1,14 +1,3 @@
-Friendly International
-Norway vs. Finland
-Eutelsat 7B/7C @ 7.0°E
-10997 - V - 9875 
-|
-4:2:2
- | H.264
-1920*1080 - DVB-S2 - 8PSK
-ID: NOR-044 1
-CW: 04 F8 B6 B2 AC 8F 09 44
----FEED-SEPARATOR---
 World Friendly Games 
 Gibraltar vs Albania
 Eutelsat 7B/7C @ 7.0E
@@ -45,7 +34,16 @@ Click to expand...
 4:2:2
 ID: KAZ008B
 ---FEED-SEPARATOR---
-delet my post dup
+Bulgaria-Spain
+Eutelsat 7B/7C @ 7.0E
+11101 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: EQ MD5Bulgaria-Spain MAIN (TV1)
+Albahraniy said:
+FIFA/UEFA WC 2026 Qualifiers
+CW: 04 F8 B6 B2 AC 8F 09 44
+Click to expand...
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers
 Eutelsat 7B/7C @ 7.0E
@@ -77,6 +75,17 @@ Slovakia vs Germany
 11048 V 14400
 4.2.2 HD
 ID: NTF M08 M FEED BU
+CW: 04 F8 B6 B2 AC 8F 09 44
+---FEED-SEPARATOR---
+Friendly International
+Norway vs. Finland
+Eutelsat 7B/7C @ 7.0°E
+10997 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: NOR-044 1
 CW: 04 F8 B6 B2 AC 8F 09 44
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
