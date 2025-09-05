@@ -99,6 +99,45 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: FA 33 CB F8 B6 11 A4 6B
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers 
+UKRAINE VS FRANCE 
+16.0E
+12572 H 7200
+4.2.0
+HD
+ID: POL-102 MAIN
+CW: 20 25 FE 43 ED 99 38 BE
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12681 H 14400 |
+4:2:2
+ | 8PSK
+ ID: 
+UA VS FR M FEED M
+Event: 
+FIFA/UEFA WC 2026 Qualifiers - Group D, Round 5
+    Ukraine v France
+CW: 20 25 FE 43 ED 99 38 BE
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11680 H 9875|
+ 4:2:2
+ | 8PSK
+ ID: 
+Medialink CRO-025/2
+Event: 
+FIFA/UEFA WC 2026 Qualifiers - Group B, Round 5
+Slovenia v Sweden
+CW: 10 44 DF 33 5A A0 54 4E
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group B, Round 5
+Slovenia v Sweden
+7.0E
+11668 H 9875
+4.2.2 HD
+ID: Medilink CRO 025/1
+CW: 10 44 DF 33 5A A0 54 4E
+---FEED-SEPARATOR---
 16.0°E
 11021 V 9875
 4:2:2
