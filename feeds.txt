@@ -154,7 +154,7 @@ ID: B 123 DGI (RCS-RDS BUCURESTI)
 CW: 05 09 20 2E 25 AC DC AD
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
-Fréq:111021 - V -  9874
+Fréq: 11021 - V -  9874
 MPEG 4 - 4:2:2 - DVB-S2
 ID:SUI76 Main MD5
 World Cup Qualification, UEFA
