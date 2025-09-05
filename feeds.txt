@@ -1,3 +1,26 @@
+Eutelsat 7B @ 7.0°E
+Fréq:11101 - V - 14400
+MPEG 4 - 4:2:2 - DVB-S2
+ID:    E399-1-MAIN
+World Cup Qualification, UEFA
+CW: 05 F8 B6 B3 AC 8F 09 44
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11066 - V - 14400
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  UKI-1484 BU
+World Cup Qualification, UEFA
+Ukraine vs France
+CW: 05 F8 B6 B3 AC 8F 09 44
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers
+Eutelsat 7B/7C @ 7.0E
+11047 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: YSM-021 main
+CW: 05 F8 B6 B3 AC 8F 09 44
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers
 Italy vs Estonia
 Eutelsat 7B/7C @ 7.0E
@@ -67,3 +90,11 @@ ID : ENC 2
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: FA 33 CB F8 B6 11 A4 6B
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11084 - V - 14400
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  ISL-RKS-002 - 10 - Backup
+World Cup Qualification, UEFA
+Faroe Islands vs Croatia 
+CW: 05 F8 B6 B3 AC 8F 09 44
