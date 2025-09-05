@@ -1,3 +1,11 @@
+10E
+ 11287 H 7200
+ 4.2.0
+ ID: UBZ TAS 001
+ CAFA Nations Cup
+Turkmenistan - Oman
+FTA
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11101 - V - 14400
 MPEG 4 - 4:2:2 - DVB-S2
