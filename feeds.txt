@@ -1,4 +1,13 @@
 FIFA/UEFA WC 2026 Qualifiers
+Italy vs Estonia
+Eutelsat 7B/7C @ 7.0E
+10997 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: ITA548 NTF M#4 Main
+CW: 05 F8 B6 B3 AC 8F 09 44
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers
 Denmark vs Scotland
 Eutelsat 7B/7C @ 7.0E
 11009 V 9875
