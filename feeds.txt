@@ -1,3 +1,16 @@
+Spanish La Liga 2 - Week 4
+Albacete v Mirandés
+ ST: 20:30
+10°E
+10732  
+V  
+34000
+DVB-S2-
+4:2:0
+-8PSK
+ID:LIGA HYPERMOTION 1
+CW: DB A2 FA 77 3B 48 C9 4C
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11096 - H - 7200
 MPEG 4 - 4:2:0 - DVB-S2
@@ -228,13 +241,6 @@ ID:  ISL-RKS-002 - 10 - Backup
 World Cup Qualification, UEFA
 Iceland vs Azerbaijan
 CW: 05 F8 B6 B3 AC 8F 09 44
----FEED-SEPARATOR---
-16E
-12572 H 7200
-DVB-S2- 4:2:0 -8PSK
-ID : POL_102 MAIN
-CW : 20 25 FE 43 ED 99 38 BE
-Ukraine-France
 ---FEED-SEPARATOR---
 Friendly International
 Albania U-21 v Germany U-21
