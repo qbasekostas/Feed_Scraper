@@ -1,3 +1,15 @@
+Friendly International
+Romania v Canada
+ ST: 19:00
+7°E
+12726 
+V
+ 7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:ROU-062 Bk
+---FEED-SEPARATOR---
 U21 QUALIFIERS 2027
 Czech Republic 21U vs Scotland 21U
 16.0E
