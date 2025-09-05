@@ -11,6 +11,24 @@ DVB-S2-
 ID:LIGA HYPERMOTION 1
 CW: DB A2 FA 77 3B 48 C9 4C
 ---FEED-SEPARATOR---
+7e
+11088 H 7200
+4:2:0
+ID: 
+Fi11_GNVE
+ENGLAND:   WSL
+Chelsea W
+Manchester City W
+CW: B9 54 0B 18 97 B2 4A 93
+---FEED-SEPARATOR---
+7E
+12540 V 9200
+4.2.0
+ID: A1PRO Via1
+UEFA EURO U-21 qualification
+Spain U-21  - Cyprus U-21
+FTA
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11096 - H - 7200
 MPEG 4 - 4:2:0 - DVB-S2
@@ -241,6 +259,8 @@ ID:  ISL-RKS-002 - 10 - Backup
 World Cup Qualification, UEFA
 Iceland vs Azerbaijan
 CW: 05 F8 B6 B3 AC 8F 09 44
+---FEED-SEPARATOR---
+Je voudrais savoir où est le post de Ukraine-France posté avant le mien, il n'y a rien, avant c'est le 27 juillet 2025 ?
 ---FEED-SEPARATOR---
 Friendly International
 Albania U-21 v Germany U-21
