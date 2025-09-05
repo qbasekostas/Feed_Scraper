@@ -92,9 +92,17 @@ SID : 1
 CW: FA 33 CB F8 B6 11 A4 6B
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
+Fréq:111021 - V -  9874
+MPEG 4 - 4:2:2 - DVB-S2
+ID:SUI76 Main MD5
+World Cup Qualification, UEFA
+Switzerland vs Kosovo
+CW: 05 F8 B6 B3 AC 8F 09 44
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
 Fréq:11084 - V - 14400
 MPEG 4 - 4:2:2 - DVB-S2
 ID:  ISL-RKS-002 - 10 - Backup
 World Cup Qualification, UEFA
-Faroe Islands vs Croatia 
+Iceland vs Azerbaijan
 CW: 05 F8 B6 B3 AC 8F 09 44
