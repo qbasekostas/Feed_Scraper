@@ -1,3 +1,11 @@
+U21 QUALIFIERS 2027
+Czech Republic 21U vs Scotland 21U
+16.0E
+12522 H 4800
+4.2.2 HD
+ID: CZE 046
+FTA
+---FEED-SEPARATOR---
 16E
 11104 H 10000 420 HD H.264 FTA
 ID: SNG 022 MAIN
@@ -176,6 +184,19 @@ ID:  ISL-RKS-002 - 10 - Backup
 World Cup Qualification, UEFA
 Iceland vs Azerbaijan
 CW: 05 F8 B6 B3 AC 8F 09 44
+---FEED-SEPARATOR---
+Friendly International
+Albania U-21 v Germany U-21
+ ST: 17:00
+7°E
+12509 
+V
+ 4938
+DVB-S2-
+4:2:0
+-8PSK
+ID:STA SNG HD2
+CW: AE 26 35 09 C8 8C 66 BA
 ---FEED-SEPARATOR---
 16E
 11104 H 10000 420 HD H.264 FTA
