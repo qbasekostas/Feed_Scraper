@@ -1,3 +1,12 @@
+Eutelsat 7B-7C @ 07.0E
+10965 H 14400 | 4:2:2 | 8PSK
+ ID: 
+ROU038 01 BACKUP
+Event: 
+Friendly International
+    Romania v Canada
+CW: 05 F8 B6 B3 AC 8F 09 44
+---FEED-SEPARATOR---
 7E
 11000 H 14400
 ID;LEUK_Fi01
