@@ -1,0 +1,12 @@
+7E
+11000 H 14400
+ID;LEUK_Fi01
+CW: 05 F8 B6 B3 AC 8F 09 44
+---FEED-SEPARATOR---
+Event :  Friendly Match - Australia vs New Zealand
+100.5°E
+3905 V 7200
+ID : ENC 2
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: FA 33 CB F8 B6 11 A4 6B
