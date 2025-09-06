@@ -31,6 +31,14 @@ LaLiga 2
 Real Zaragoza - Real Valladolid CF
 CW: BA 78 16 48 3A 63 2F CC
 ---FEED-SEPARATOR---
+EFL League Two - Bromley vs Gillingham
+100.5°E
+3984 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 12 46 FE 56 35 25 16 70
+---FEED-SEPARATOR---
 orangebirds said:
 EFL League Two - Newport County vs Bristol Rovers
 100.5°E
@@ -72,6 +80,18 @@ ID: GC Encoder 10
 Croatia U18 - Qatar U18
 International Friendlies
 FTA
+---FEED-SEPARATOR---
+fusillo said:
+			28.2°E
+12609 V 7200
+4:2:0
+ID: ITV Sport Backup ENG V AND
+CW: 12 64 BC 32 AC DA AE 34
+Click to expand...
+International, World Cup Qualification, UEFA Group K
+England
+vs. 
+Andorra
 ---FEED-SEPARATOR---
 28.2°E
 12609 V 7200
