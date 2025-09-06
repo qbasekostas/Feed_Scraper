@@ -24,3 +24,26 @@ Latvia - Serbia
 4:2:2
 ID: LTU-005-1
 CW: 06 F8 B6 B4 AC 8F 09 44
+---FEED-SEPARATOR---
+European Championship
+Eutelsat 7B/7C @ 7.0E
+12634 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: 
+EST-003(LAT)DOM
+Turkey
+Sweden
+CW: 90 4A 8C 66 8F 4C D5 B0
+---FEED-SEPARATOR---
+European Championship
+Eutelsat 7B/7C @ 7.0E
+12643 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: 
+EST-003(LAT)INT
+Turkey
+Sweden
+57 4A C7 11 7E 2D 36 63  #CW: 
+90 4A 8C 66 8F 4C D5 B0
