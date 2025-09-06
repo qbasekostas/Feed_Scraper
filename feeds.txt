@@ -91,6 +91,13 @@ Croatia U18 - Qatar U18
 International Friendlies
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11105 - Horizontal - 7200
+Name : ANA -1 
+CW : 36 42 CE 46 FD 4B 7A C2
+Friendly Match 
+Egypt - B VS Tunisia 
+---FEED-SEPARATOR---
 fusillo said:
 			28.2°E
 12609 V 7200
