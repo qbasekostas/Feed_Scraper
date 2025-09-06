@@ -1,3 +1,23 @@
+7e
+10982 H 14400
+4:2:2
+ID: 
+E-360 M
+World Championship - Qualification
+Armenia
+Portugal
+CW: 06 F8 B6 B4 AC 8F 09 44
+---FEED-SEPARATOR---
+7e
+10997 V 9875
+4:2:2
+ID: 
+UKI-1957 Eng v Andorra MD5 BU
+World Championship - Qualification
+England
+Andorra
+CW: 06 F8 B6 B4 AC 8F 09 44
+---FEED-SEPARATOR---
 7.0°E
 10964 H 14400
 Latvia - Serbia
