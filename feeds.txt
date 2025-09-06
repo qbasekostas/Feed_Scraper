@@ -91,6 +91,19 @@ Croatia U18 - Qatar U18
 International Friendlies
 FTA
 ---FEED-SEPARATOR---
+Astra 1KR-1L-1M-1N ( 19.2E )
+11633 H 7500
+DVB-S2 - 4:2:0 - 8PSK
+ID: AUT39 FB Linz
+11647 H 7500
+DVB-S2 - 4:2:0 - 8PSK
+ID: EQ Qualifiers
+Event: Football: European Qualifiers Group H: 
+Austria vs. Cyprus
+for ServusTV 
+CW: 25 DA CB CA 54 23 BA 31
+thanks @ Dani Sat
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 11105 - Horizontal - 7200
 Name : ANA -1 
