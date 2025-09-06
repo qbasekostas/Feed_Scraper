@@ -1,3 +1,15 @@
+16E
+11009 V 9875
+4.2.0
+ID: FFBL FCB-Leverkusen
+Frauen-Bundesliga
+FC Bayern Munich - Bayer 04 Leverkusen
+NEW CW
+: 06 09 AC BB DC 
+21
+ 25
+ 22
+---FEED-SEPARATOR---
 Ferari3000 said:
 			Eutelsat 16A (16.0E)
 11010 V 9876
