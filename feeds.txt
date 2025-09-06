@@ -5,6 +5,32 @@ ID: LIGA HYPERMOTION 2
 LaLiga 2
 CW: BA 78 16 48 3A 63 2F CC
 ---FEED-SEPARATOR---
+orangebirds said:
+EFL League Two - Newport County vs Bristol Rovers
+100.5°E
+3986 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW : 21 02 AA CD E2 31 45 58
+Click to expand...
+7E
+11588 V 7120
+4.2.0
+ID: Pitch - Newport v Bristol Rovers
+---FEED-SEPARATOR---
+orangebirds said:
+EFL League Two - Newport County vs Bristol Rovers
+100.5°E
+3986 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 21 02 AA CD E2 31 45 58
+Click to expand...
+7e
+11588 V 7120
+---FEED-SEPARATOR---
 EFL League Two - Newport County vs Bristol Rovers
 100.5°E
 3986 V 7120
