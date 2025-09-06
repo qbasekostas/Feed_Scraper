@@ -31,6 +31,16 @@ LaLiga 2
 Real Zaragoza - Real Valladolid CF
 CW: BA 78 16 48 3A 63 2F CC
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12545 H 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  Pitch - Bromley v Gillingham
+orangebirds said:
+EFL League Two - Bromley vs Gillingham
+CW: 12 46 FE 56 35 25 16 70
+Click to expand...
+---FEED-SEPARATOR---
 EFL League Two - Bromley vs Gillingham
 100.5°E
 3984 V 7120
