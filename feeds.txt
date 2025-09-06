@@ -1,1 +1,7 @@
+7.0°E
+10964 H 14400
+4:2:2
+ID: LTU-005-1
+CW: 06 F8 B6 B4 AC 8F 09 44
+---FEED-SEPARATOR---
 Personne n'a posté ce feed de Ukraine-France et j'ai bien mis 4:2:0, j'ai fait un copier coller du signalement précédent pour aller plus vite : DVB-S2- 4:2:0 -8PSK et je vais vous dire mieux beaucoup de post le 4:2:0 ou 4:2:2 n'est pas signalé et les post ne sont pas retirés donc comme j'en ai raz le bol de votre façon de faire je ne vais plus rien poster sur votre site sat.universe.com.
