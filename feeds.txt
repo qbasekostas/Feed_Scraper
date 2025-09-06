@@ -1,3 +1,28 @@
+10E
+10732 V 34000
+4.2.0
+ID: LIGA HYPERMOTION 2
+LaLiga 2
+CW: BA 78 16 48 3A 63 2F CC
+---FEED-SEPARATOR---
+EFL League Two - Newport County vs Bristol Rovers
+100.5°E
+3986 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 21 02 AA CD E2 31 45 58
+---FEED-SEPARATOR---
+7e
+11047 V 14400
+4:2:2
+ID: 
+ITA198 NTF M#6 BCKP
+World Championship - Qualification
+San Marino
+Bosnia & Herzegovina
+CW: 06 F8 B6 B4 AC 8F 09 44
+---FEED-SEPARATOR---
 7e
 11000 H 14400
 4:2:2
@@ -14,6 +39,8 @@ CW: 06 F8 B6 B4 AC 8F 09 44
 ID: 
 NTF M05 BU
 World Championship - Qualification
+Austria
+Cyprus
 CW: 06 F8 B6 B4 AC 8F 09 44
 ---FEED-SEPARATOR---
 7e
