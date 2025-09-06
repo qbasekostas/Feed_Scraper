@@ -25,6 +25,13 @@ Latvia - Serbia
 ID: LTU-005-1
 CW: 06 F8 B6 B4 AC 8F 09 44
 ---FEED-SEPARATOR---
+16e
+12508 V 7200
+4:2:0
+ID: 
+DNK 126 B
+Europe Cup 3x3
+---FEED-SEPARATOR---
 European Championship
 Eutelsat 7B/7C @ 7.0E
 12634 V 7200
