@@ -197,6 +197,18 @@ Latvia - Serbia
 ID: LTU-005-1
 CW: 06 F8 B6 B4 AC 8F 09 44
 ---FEED-SEPARATOR---
+Friendly: GALA Match, 
+(Stade de la Tuilière, Lausanne)
+Team NicoCapone vs. Team Redouane Bougheraba
+Eutelsat 8 West/B @ 8.0°W
+12637 - V - 7400 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUI25 HD 1
+CW: AB CD EF 67 56 11 22 89
+---FEED-SEPARATOR---
 16e
 12508 V 7200
 4:2:0
