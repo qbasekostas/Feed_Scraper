@@ -83,6 +83,12 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 21 02 AA CD E2 31 45 58
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4145 H 7500
+ID : VISTA Encoder 2
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+United States v South Korea
+---FEED-SEPARATOR---
 7E
 12542 V 7200
 4.2.0
@@ -196,6 +202,19 @@ Latvia - Serbia
 4:2:2
 ID: LTU-005-1
 CW: 06 F8 B6 B4 AC 8F 09 44
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4165 H 7200
+ID : GCUK Enc 3
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+6D 8C 54 63 03 31 97 97  #CW:05 E3 F1 D9 C7 20 25 0C
+United States v South Korea
+---FEED-SEPARATOR---
+Friendly International
+United States v South Korea
+Eutelsat 7B/7C 7.0E - 11693 H 7200 4:2:0 
+ID:GCUK Enc 3
+CW: 05 E3 F1 D9 C7 20 25 0C
 ---FEED-SEPARATOR---
 Friendly: GALA Match, 
 (Stade de la Tuilière, Lausanne)
