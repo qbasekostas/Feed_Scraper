@@ -6,6 +6,20 @@ LaLiga 2
 Málaga CF - Granada CF
 CW: 96 DA 3E AE E1 E6 D3 9A
 ---FEED-SEPARATOR---
+Event :Europe World Championship - Qualification
+Teams :Luxembourg 
+ Slovakia
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11066 V 14400
+ 2Sat HOL161 MD6 M6 Main (2-SAT Europe)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 07 F8 B6 B5 AC 8F 09 44
+---FEED-SEPARATOR---
 7.0°E
 11000 H 14400
 4:2:2
@@ -15,7 +29,13 @@ CW: 07 F8 B6 B5 AC 8F 09 44
 Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
 10984 H 14400
   ITA 415-2 (Live Images)
-MPEG4-4:2:2 HD 1920x1080 |32.680 Mbit/Sec|8PSK DVB-S2 HD
+MPEG4-
+4:2:2
+ HD 1920x1080 |32.680 Mbit/Sec|8PSK DVB-S2 HD
+Event 
+:Europe / World Championship - Qualification
+Teams : North Macedonia 
+ Liechtenstein
 CW: 07 F8 B6 B5 AC 8F 09 44
 ---FEED-SEPARATOR---
 7.0°E
