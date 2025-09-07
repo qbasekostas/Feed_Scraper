@@ -124,6 +124,24 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: FTA
 ---FEED-SEPARATOR---
+FIFA World Cup 2026 African Qualifiers
+Libya vs Eswatini (
+TOMORROW
+)
+7E
+11106 H 7200
+DVB-S2 4:2:0 8PSK
+ID: M191-LIB003-MAIN
+CW: 6F 46 1E D3 E3 93 B2 28
+---FEED-SEPARATOR---
+16E
+11021 V 9876
+4:2:2
+ ID: TUR 118 MAIN
+World Championship - Qualification
+Turkey vs Spain
+CW: 07 F8 B6 B5 AC 8F 09 44
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group G, Round 6
 Poland v Finland
 Eutelsat 7A-7B 7.0E - 11019 Horizontal 14400 4:2:2
