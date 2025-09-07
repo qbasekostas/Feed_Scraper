@@ -1,3 +1,14 @@
+16E
+10997 V 9875
+4.2.0
+ID: FFBL HSV-Wolsburg
+Frauen-Bundesliga
+Hamburger SV - VfL Wolfsburg
+CW: 07 09 AC BC DC
+21
+ 25 
+22
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11010 V 9876
 | 4:2:0 | 8PSK
