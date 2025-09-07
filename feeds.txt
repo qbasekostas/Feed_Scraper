@@ -139,6 +139,17 @@ Event:
 WSL: Tottenham Hotspur Women vs West Ham Women
 CW: CF 74 3D 80 2F 0B CC 06
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group A, Round 6
+Germany vs. Northern Ireland
+Intelsat 10-02 @ 1.0°W
+11504 - V - 15000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GNR BBC sp
+FTA
+---FEED-SEPARATOR---
 Event
 : World Friendly International
 Teams : Qatar 
@@ -149,6 +160,28 @@ Eutelsat 7A/7B/7C @ 7.0°E
   ALKASS SNG3 MAIN (TANDBERG Television)
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: FTA
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group E
+ Round 5
+Türkiye vs Spain
+3.1°E
+10960 H 7500
+4.2.0 HD
+ID: beIN sports 
+10969 H 7500
+ID: Service-1
+CW: BC 4C D1 D9 28 72 CF 69
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group E, Round 5
+Türkiye vs. Spain
+Eutelsat 7B/7C @ 7.0°E
+11584 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: TUR-128 MAIN
+CW: 3D 78 4A FF 55 20 AF 24
 ---FEED-SEPARATOR---
 bayuware said:
 Hotbird 13B ( 13E )
