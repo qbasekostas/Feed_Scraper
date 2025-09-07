@@ -6,8 +6,26 @@ LaLiga 2
 Málaga CF - Granada CF
 CW: 96 DA 3E AE E1 E6 D3 9A
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+10984 H 14400
+  ITA 415-2 (Live Images)
+MPEG4-4:2:2 HD 1920x1080 |32.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 07 F8 B6 B5 AC 8F 09 44
+---FEED-SEPARATOR---
 7.0°E
 10964 H 14400
 4:2:2
 ID: TUR 112 MAIN
 CW: 07 F8 B6 B5 AC 8F 09 44
+---FEED-SEPARATOR---
+7E
+12634 V 7200
+12644 V 7200
+4.2.0
+ID: EST-003(LAT)DOM - INT
+EuroBasket - Play Offs
+Poland - Bosnia
+France - Georgia
+Italy - Slovenia
+Greece - Israel
+CW: 46 6C C6 78 A4 4E 32 24
