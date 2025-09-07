@@ -6,6 +6,35 @@ LaLiga 2
 Málaga CF - Granada CF
 CW: 96 DA 3E AE E1 E6 D3 9A
 ---FEED-SEPARATOR---
+barney115 said:
+			Astra 19.2E
+11573 V 10000 5/6 8PSK
+4:2:2
+ID: Sky Backup WSL ManU
+11632 V 10000 5/6 8PSK
+4:2:2
+ID: Sky Backup WSL Brighton
+EVENT:
+WSL: Man UTD Women vs Leicester City Women
+old #CW: 
+12 3A 5A A0 20 25 09 4E
+Click to expand...
+12 3
+4
+ 5A A0 20 25 09 4E
+---FEED-SEPARATOR---
+Astra 19.2E
+11573 V 10000 5/6 8PSK
+4:2:2
+ID: Sky Backup WSL ManU
+11632 V 10000 5/6 8PSK
+4:2:2
+ID: Sky Backup WSL Brighton
+EVENT:
+WSL: Man UTD Women vs Leicester City Women
+old #CW: 
+12 3A 5A A0 20 25 09 4E
+---FEED-SEPARATOR---
 Event :Europe World Championship - Qualification
 Teams :Luxembourg 
  Slovakia
