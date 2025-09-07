@@ -6,6 +6,12 @@ LaLiga 2
 Málaga CF - Granada CF
 CW: 96 DA 3E AE E1 E6 D3 9A
 ---FEED-SEPARATOR---
+7.0°E
+11000 H 14400
+4:2:2
+ID: LTU-005-2
+CW: 07 F8 B6 B5 AC 8F 09 44
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
 10984 H 14400
   ITA 415-2 (Live Images)
