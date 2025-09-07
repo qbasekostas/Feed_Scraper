@@ -16,6 +16,24 @@ ID VIVID
 English Womens Super League - Week 1
 Liverpool v Everton
 ---FEED-SEPARATOR---
+1W
+11481 V 7200 
+4:2:2
+DVBS-2 8PSK
+ID BT Goodwood
+CW; 60 9B 4F 4A 45 7F 4C 10
+New Douglas Park Stadium
+Hamilton Academical F.C
+---FEED-SEPARATOR---
+England WSL
+Brighton & Hove Albion WFC - Aston Villa W.F.C.
+NEW CW: 0F 7E D6 63 42 3A 15 91
+[/QUOTE]
+100.5E
+TP: 3933 H 7199
+ID: ENC_7
+SAME CW 
+---FEED-SEPARATOR---
 7E
 11526 H 7200
 4.2.0
@@ -69,6 +87,32 @@ ID: IMG A EU
 Event: 
 WSL: Tottenham Hotspur Women vs West Ham Women
 CW: CF 74 3D 80 2F 0B CC 06
+---FEED-SEPARATOR---
+7E
+10997 V 9875
+4.2.2
+ID: Match#7 FEED _B BEL095 MAIN
+FIFA World Cup European qualifiers
+Belgium - Kazakhstan
+CW: 07 F8 B6 B5 AC 8F 09 44
+---FEED-SEPARATOR---
+fusillo said:
+			7.0°E
+11000 H 14400
+4:2:2
+ID: LTU-005-2
+CW: 07 F8 B6 B5 AC 8F 09 44
+Click to expand...
+Lithuania vs Netherlands
+---FEED-SEPARATOR---
+fusillo said:
+			7.0°E
+10964 H 14400
+4:2:2
+ID: TUR 112 MAIN
+CW: 07 F8 B6 B5 AC 8F 09 44
+Click to expand...
+Georgia vs Bulgaria
 ---FEED-SEPARATOR---
 Event :Europe World Championship - Qualification
 Teams :Turkey 
