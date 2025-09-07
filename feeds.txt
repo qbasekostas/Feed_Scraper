@@ -1,3 +1,12 @@
+Eutelsat 16A @ 16.0E
+11010 V 9876
+| 4:2:0 | 8PSK
+ID: FFBL U.Bln-Nuernberg
+Event: 
+German Frauen Bundesliga - 
+Union Berlin vs Nunberg
+CW: 07 09 AC BC DC 22 25 23
+---FEED-SEPARATOR---
 16E
 10997 V 9875
 4.2.0
@@ -17,6 +26,12 @@ Event:
 German Frauen Bundesliga - 
 Bremen vs Freiburg
 CW: 07 09 AC BC DC 20 25 21
+---FEED-SEPARATOR---
+Serie C, Group C, Round 3
+Crotone VS Cosenza 
+Eutelsat 16A (16.0E)
+11146 H 7200 - Unname
+CW  : 5B 18 C0 33 07 A1 BE 66
 ---FEED-SEPARATOR---
 10E
 10732 V 34000
@@ -134,6 +149,30 @@ Eutelsat 7A/7B/7C @ 7.0°E
   ALKASS SNG3 MAIN (TANDBERG Television)
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: FTA
+---FEED-SEPARATOR---
+bayuware said:
+Hotbird 13B ( 13E )
+12584 V 7120
+DVB-S2 - 4:2:0 - 8PSK
+ID: NLEMG HOL219-1
+12592 V 7120
+DVB-S2 - 4:2:0 - 8PSK
+ID: RBM TV
+Event: some European Qualifiers Football
+any CW Please? 
+Click to expand...
+CW:
+4E A4 71 63 D1 9B 19 85
+Lithuania - Netherlands
+---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10985 V 9600
+ID: TVP POL-32 ENC 1
+Event: 
+Football - 2026 World Cup qualifiers - Chorzów: Poland - Finland
+4.2.0
+- DVB-S2 - 8PSK
+CW: DC AE 20 AA 25 CC 09 FA
 ---FEED-SEPARATOR---
 FIFA World Cup 2026 African Qualifiers
 Libya vs Eswatini (
