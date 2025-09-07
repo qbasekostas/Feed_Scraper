@@ -1,3 +1,12 @@
+Eutelsat 16A @ 16.0E
+11010 V 9876
+| 4:2:0 | 8PSK
+ID: FFBL Bremen-Feiburg
+Event: 
+German Frauen Bundesliga - 
+Bremen vs Freiburg
+CW: 07 09 AC BC DC 20 25 21
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.0
@@ -7,6 +16,22 @@ Málaga CF - Granada CF
 CW: 96 DA 3E AE E1 E6 D3 9A
 TODAY
 AD Ceuta FC - SD Huesca
+---FEED-SEPARATOR---
+19.2E
+11620 V 10000
+4.2.0
+ID: Everton CAM 1
+Women's Super League
+Tottenham Hotspur F.C. Women - West Ham United F.C. Women
+FTA
+---FEED-SEPARATOR---
+1W
+10988 V 15000 
+4:2:2
+DVBS-2 8PSK
+ID No Name
+Scottish SWPL 1 - Week 4
+Celtic vs Rangers
 ---FEED-SEPARATOR---
 1W
 11674 V 7200 
@@ -22,8 +47,8 @@ Liverpool v Everton
 DVBS-2 8PSK
 ID BT Goodwood
 CW; 60 9B 4F 4A 45 7F 4C 10
-New Douglas Park Stadium
-Hamilton Academical F.C
+Scottish SWPL 1 - Week 4
+Celtic vs Rangers 
 ---FEED-SEPARATOR---
 England WSL
 Brighton & Hove Albion WFC - Aston Villa W.F.C.
@@ -88,6 +113,19 @@ Event:
 WSL: Tottenham Hotspur Women vs West Ham Women
 CW: CF 74 3D 80 2F 0B CC 06
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group G, Round 6
+Poland v Finland
+Eutelsat 7A-7B 7.0E - 11019 Horizontal 14400 4:2:2
+ID:SLQ-006-1
+CW: 07 F8 B6 B5 AC 8F 09 44
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group A, Round 6
+Germany v Northern Ireland
+7.0E
+11009 V 9875 4:2:2
+ID: HOL-318 MAIN M7
+CW: 07 F8 B6 B5 AC 8F 09 44
+---FEED-SEPARATOR---
 7E
 10997 V 9875
 4.2.2
@@ -95,24 +133,6 @@ ID: Match#7 FEED _B BEL095 MAIN
 FIFA World Cup European qualifiers
 Belgium - Kazakhstan
 CW: 07 F8 B6 B5 AC 8F 09 44
----FEED-SEPARATOR---
-fusillo said:
-			7.0°E
-11000 H 14400
-4:2:2
-ID: LTU-005-2
-CW: 07 F8 B6 B5 AC 8F 09 44
-Click to expand...
-Lithuania vs Netherlands
----FEED-SEPARATOR---
-fusillo said:
-			7.0°E
-10964 H 14400
-4:2:2
-ID: TUR 112 MAIN
-CW: 07 F8 B6 B5 AC 8F 09 44
-Click to expand...
-Georgia vs Bulgaria
 ---FEED-SEPARATOR---
 Event :Europe World Championship - Qualification
 Teams :Turkey 
@@ -146,6 +166,9 @@ CW: 07 F8 B6 B5 AC 8F 09 44
 11000 H 14400
 4:2:2
 ID: LTU-005-2
+Event :
+Europe World Championship - Qualification
+Lithuania vs Netherlands
 CW: 07 F8 B6 B5 AC 8F 09 44
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
@@ -164,6 +187,7 @@ CW: 07 F8 B6 B5 AC 8F 09 44
 10964 H 14400
 4:2:2
 ID: TUR 112 MAIN
+Georgia vs Bulgaria
 CW: 07 F8 B6 B5 AC 8F 09 44
 ---FEED-SEPARATOR---
 7E
