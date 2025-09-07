@@ -6,22 +6,13 @@ LaLiga 2
 Málaga CF - Granada CF
 CW: 96 DA 3E AE E1 E6 D3 9A
 ---FEED-SEPARATOR---
-barney115 said:
-			Astra 19.2E
-11573 V 10000 5/6 8PSK
-4:2:2
-ID: Sky Backup WSL ManU
-11632 V 10000 5/6 8PSK
-4:2:2
-ID: Sky Backup WSL Brighton
-EVENT:
-WSL: Man UTD Women vs Leicester City Women
-old #CW: 
-12 3A 5A A0 20 25 09 4E
-Click to expand...
-12 3
-4
- 5A A0 20 25 09 4E
+7E
+11526 H 7200
+4.2.0
+ID: ENC 7
+England WSL
+Brighton & Hove Albion WFC - Aston Villa W.F.C.
+NEW CW: 0F 7E D6 63 42 3A 15 91
 ---FEED-SEPARATOR---
 Astra 19.2E
 11573 V 10000 5/6 8PSK
@@ -33,7 +24,55 @@ ID: Sky Backup WSL Brighton
 EVENT:
 WSL: Man UTD Women vs Leicester City Women
 old #CW: 
-12 3A 5A A0 20 25 09 4E
+12 34 5A A0 20 25 09 4E
+---FEED-SEPARATOR---
+7.0°E
+12736 V 7200
+4:2:0
+ID: ENC 1
+Event: 
+WSL: Liverpool Women vs Everton Women
+CW: B9 54 0B 18 97 B2 4A 93
+---FEED-SEPARATOR---
+EVENT
+: 
+WSL: Man UTD Women vs Leicester City Women
+100.5°E
+3933 H 7200
+ID : ENC 7
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 0F 7E D6 63 42 3A 15 91
+---FEED-SEPARATOR---
+7.0°E
+12726 V 7200
+4:2:0
+ID: ENC 2
+EVENT: 
+WSL: Man UTD Women vs Leicester City Women
+CW: 0F 7E D6 63 42 3A 15 91
+---FEED-SEPARATOR---
+7.0°E
+11070 H 7200
+4:2:0
+ID: IMG A EU
+Event: 
+WSL: Tottenham Hotspur Women vs West Ham Women
+CW: CF 74 3D 80 2F 0B CC 06
+---FEED-SEPARATOR---
+Event :Europe World Championship - Qualification
+Teams :Turkey 
+ Spain
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11048 V 14400
+ TUR-057 MAIN (Eurovision)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32:091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 07 F8 B6 B5 AC 8F 09 44
 ---FEED-SEPARATOR---
 Event :Europe World Championship - Qualification
 Teams :Luxembourg 
