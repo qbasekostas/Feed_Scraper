@@ -5,6 +5,16 @@ ID: LIGA HYPERMOTION 1
 LaLiga 2
 Málaga CF - Granada CF
 CW: 96 DA 3E AE E1 E6 D3 9A
+TODAY
+AD Ceuta FC - SD Huesca
+---FEED-SEPARATOR---
+1W
+11674 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID VIVID
+English Womens Super League - Week 1
+Liverpool v Everton
 ---FEED-SEPARATOR---
 7E
 11526 H 7200
