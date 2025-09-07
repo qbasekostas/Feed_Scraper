@@ -113,6 +113,17 @@ Event:
 WSL: Tottenham Hotspur Women vs West Ham Women
 CW: CF 74 3D 80 2F 0B CC 06
 ---FEED-SEPARATOR---
+Event
+: World Friendly International
+Teams : Qatar 
+ Russia
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12653 V 7200
+  ALKASS SNG3 MAIN (TANDBERG Television)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: FTA
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group G, Round 6
 Poland v Finland
 Eutelsat 7A-7B 7.0E - 11019 Horizontal 14400 4:2:2
