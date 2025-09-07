@@ -139,6 +139,7 @@ Event:
 WSL: Tottenham Hotspur Women vs West Ham Women
 CW: CF 74 3D 80 2F 0B CC 06
 ---FEED-SEPARATOR---
+Dani Sat said:
 FIFA/UEFA WC 2026 Qualifiers - Group A, Round 6
 Germany vs. Northern Ireland
 Intelsat 10-02 @ 1.0°W
@@ -149,6 +150,8 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: GNR BBC sp
 FTA
+Click to expand...
+Great North Run 2025
 ---FEED-SEPARATOR---
 Event
 : World Friendly International
