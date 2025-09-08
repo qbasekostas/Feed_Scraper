@@ -65,6 +65,14 @@ Czech Republic
 Saudi Arabia
 CW: 08 F8 B6 B6 AC 8F 09 44
 ---FEED-SEPARATOR---
+16E
+11131 H 14400
+4.2.0
+ID: UEFA EQ 2025 ISR-ITA
+FIFA World Cup European qualifiers
+Italy - Israel
+CW: 22 34 56 AC 9A 54 1A 08
+---FEED-SEPARATOR---
 FIFA World Cup Qualifiers
 Croatia vs Montenegro
 Eutelsat 7B/7C @ 7.0E
