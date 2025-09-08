@@ -34,6 +34,15 @@ Czech Republic
 Saudi Arabia
 CW: 08 F8 B6 B6 AC 8F 09 44
 ---FEED-SEPARATOR---
+FIFA World Cup Qualifiers
+Croatia vs Montenegro
+Eutelsat 7B/7C @ 7.0E
+10995 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:CRO-019 M05 MAIN 
+CW: 08 F8 B6 B6 AC 8F 09 44
+---FEED-SEPARATOR---
 16e
 11021 V 9875
 4:2:2
