@@ -1,3 +1,8 @@
+Eutelsat 7B/7C ( 7.0°E)
+11017 - Horizontal - 14000 - 4:2:2 
+Name :  E-95 - M4 - MAIN
+CW: 08 F8 B6 B6 AC 8F 09 44
+---FEED-SEPARATOR---
 7e
 10982 H 14400
 4:2:2
@@ -17,3 +22,19 @@ Friendly International
 Czech Republic
 Saudi Arabia
 CW: 08 F8 B6 B6 AC 8F 09 44
+---FEED-SEPARATOR---
+A.ElSadek said:
+CW: 08 F8 B6 B6 AC 8F 09 44
+Click to expand...
+Eutelsat 7B/7C ( 7.0°E)
+10995 - Horizontal - 9875 - 4:2:2 
+Name : CRO-025-2 M05
+World Cup Qual. UEFA L, Round 6
+Croatia VS  Montenegro
+---FEED-SEPARATOR---
+A.ElSadek said:
+CW: 08 F8 B6 B6 AC 8F 09 44
+Click to expand...
+Eutelsat 7B/7C ( 7.0°E)
+10998 - Horizontal - 14000 - 4:2:2 
+Name :  BUL007 EQ M3 MAIN
