@@ -1,6 +1,10 @@
 Eutelsat 7B/7C ( 7.0°E)
-11017 - Horizontal - 14000 - 4:2:2 
+11017 - Horizontal - 14000 - 
+4:2:2 
 Name :  E-95 - M4 - MAIN
+World Cup Qual. UEFA L, Round
+Gibraltar VS 
+Faroe Islands
 CW: 08 F8 B6 B6 AC 8F 09 44
 ---FEED-SEPARATOR---
 7e
@@ -36,5 +40,8 @@ A.ElSadek said:
 CW: 08 F8 B6 B6 AC 8F 09 44
 Click to expand...
 Eutelsat 7B/7C ( 7.0°E)
-10998 - Horizontal - 14000 - 4:2:2 
+10998 - Horizontal - 14000 - 
+4:2:2 
 Name :  BUL007 EQ M3 MAIN
+World Cup Qual. UEFA B, Round 6
+Kosovo VS  Sweden
