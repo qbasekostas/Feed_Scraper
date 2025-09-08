@@ -1,3 +1,34 @@
+Eutelsat 16A @ 16.0E
+11010 V 9876
+| 4:2:0 | 8PSK
+ID: FFBL Jena
+Event: 
+German Frauen Bundesliga - Zeiss Jena
+ vs Hoffenheim
+CW: 08 09 AC BD DC 20 25 21
+---FEED-SEPARATOR---
+omid1348 said:
+7E
+11523 V 7200
+4.2.0
+ID: CZE 041 Main CZE - SAU
+Friendlies
+Czech Republic - Saudi Arabia
+FTA
+Click to expand...
+21.6E
+12573 H 7200
+4.2.0
+ID: SAUDI ARABIA vs CZECH REPUBLIC
+---FEED-SEPARATOR---
+7E
+11523 V 7200
+4.2.0
+ID: CZE 041 Main CZE - SAU
+Friendlies
+Czech Republic - Saudi Arabia
+FTA
+---FEED-SEPARATOR---
 Eutelsat 10E
 10737 H 7200
 ID: GCUK Enc 3
