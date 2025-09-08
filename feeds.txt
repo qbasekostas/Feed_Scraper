@@ -1,3 +1,10 @@
+Eutelsat 10E
+10737 H 7200
+ID: GCUK Enc 3
+CAFA Nations Cup 
+Oman vs India
+FTA
+---FEED-SEPARATOR---
 Eutelsat 7B/7C ( 7.0°E)
 11017 - Horizontal - 14000 - 
 4:2:2 
@@ -49,6 +56,8 @@ Eutelsat 7B/7C ( 7.0°E)
 11048 - Vertical  - 14400 -
  4:2:2 
 Name : HUN022 M07 BACKUP
+FIFA World Cup Qualifiers (UEFA)
+Israel vs Italy
 ---FEED-SEPARATOR---
 A.ElSadek said:
 CW: 08 F8 B6 B6 AC 8F 09 44
