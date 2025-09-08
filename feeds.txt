@@ -1,4 +1,14 @@
 7e
+10982 H 14400
+4:2:2
+ID: 
+CRO-024 -2
+FIFA/UEFA WC 2026 Qualifiers
+Belarus
+Scotland
+CW: 08 F8 B6 B6 AC 8F 09 44
+---FEED-SEPARATOR---
+7e
 10964 H 14400
 4:2:2
 ID: 
