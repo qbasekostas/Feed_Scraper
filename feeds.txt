@@ -27,6 +27,29 @@ Czech Republic
 Saudi Arabia
 CW: 08 F8 B6 B6 AC 8F 09 44
 ---FEED-SEPARATOR---
+FIFA World Cup Qualifiers (UEFA)
+Switzerland vs Slovenia
+7.0E
+11009 V 9875 4:2:2
+ID: SUI76 Main MD5
+CW: 08 F8 B6 B6 AC 8F 09 44
+---FEED-SEPARATOR---
+FIFA World Cup Qualifiers (UEFA)
+Greece vs Denmark
+7.0E
+11065 V 14400 4:2:2
+ID: E399-1-MAIN
+CW: 08 F8 B6 B6 AC 8F 09 44
+---FEED-SEPARATOR---
+A.ElSadek said:
+World Cup Qual. UEFA 
+CW: 08 F8 B6 B6 AC 8F 09 44
+Click to expand...
+Eutelsat 7B/7C ( 7.0°E)
+11048 - Vertical  - 14400 -
+ 4:2:2 
+Name : HUN022 M07 BACKUP
+---FEED-SEPARATOR---
 A.ElSadek said:
 CW: 08 F8 B6 B6 AC 8F 09 44
 Click to expand...
