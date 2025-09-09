@@ -1,3 +1,14 @@
+Albahraniy said:
+FIFA World Cup Qualifiers
+Eutelsat 7B/7C @ 7.0E
+11083 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: ITA 274 M07 MAIN
+CW: 09 F8 B6 B7 AC 8F 09 44
+Click to expand...
+Serbia vs England
+---FEED-SEPARATOR---
 FIFA World Cup Qualifiers
 Cyprus vs Romania
 Eutelsat 7B/7C @ 7.0E
@@ -31,17 +42,6 @@ MPEG4-
 32.680 
 Mbit/Sec|8PSK DVB-S2 HD
 CW: 09 F8 B6 B7 AC 8F 09 44
----FEED-SEPARATOR---
-Albahraniy said:
-FIFA World Cup Qualifiers
-Eutelsat 7B/7C @ 7.0E
-11083 V 14400
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID: ITA 274 M07 MAIN
-CW: 09 F8 B6 B7 AC 8F 09 44
-Click to expand...
-NOW works
 ---FEED-SEPARATOR---
 Event :Europe World Championship - Qualification
 Eutelsat 7A/7B/7C @ 7.0°E 
@@ -114,6 +114,22 @@ SID : 1
 CW: FB 45 A1 E1 15 1B C7 F7
 ---FEED-SEPARATOR---
 FIFA World Cup Qualifiers
+Norway vs Moldova
+Eutelsat 7B/7C @ 7.0E
+10997 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  NOR-044 1
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
+FIFA World Cup Qualifiers (UEFA)
+Maybe: Norway vs Moldova
+16.0E
+11022 V  14400 4:2:2
+ID: UKI-1324 M06 MAIN
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
+FIFA World Cup Qualifiers
 France vs Iceland
 Eutelsat 7B/7C @ 7.0E
 11009 V 9875
@@ -148,14 +164,3 @@ ID: YSM-016-1-05
 CW: 09 F8 B6 B7 AC 8F 09 44
 Click to expand...
 Bosnia & Herzegovina vs Austria
----FEED-SEPARATOR---
-Albahraniy said:
-FIFA World Cup Qualifiers
-Eutelsat 7B/7C @ 7.0E
-11083 V 14400
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID: ITA 274 M07 MAIN
-CW: 09 F8 B6 B7 AC 8F 09 44
-Click to expand...
-Serbia vs England
