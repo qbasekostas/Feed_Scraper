@@ -1,3 +1,12 @@
+FIFA World Cup Qualifiers
+Azerbaijan vs Ukraine
+Eutelsat 7B/7C @ 7.0E
+10963 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:AZE-013 MAIN CHAIN
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
 Delet...
 ---FEED-SEPARATOR---
 Event 
@@ -13,7 +22,8 @@ MPEG4-
 Mbit/Sec|8PSK DVB-S2 HD
 CW: 09 F8 B6 B7 AC 8F 09 44
 ---FEED-SEPARATOR---
-FIFA World Cup Qualifiers
+World Int Friendly Games
+Estonia vs Andorra
 Eutelsat 7B/7C @ 7.0E
 10999 H 14400
 DVB-S2 - 1080P - 8PSK
