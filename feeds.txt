@@ -1,4 +1,42 @@
 FIFA World Cup Qualifiers
+Eutelsat 7B/7C @ 7.0E
+11083 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: ITA 274 M07 MAIN
+CW: 09 F8 B6 B7 AC 8F 09 44
+now Signal LEFT
+---FEED-SEPARATOR---
+Event :Europe World Championship - Qualification
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11084 V 14400
+   ITA 274 M07 MAIN (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+33.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
+FIFA World Cup Qualifiers
+Eutelsat 7B/7C @ 7.0E
+11047 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: YSM-016-1-05
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
+FIFA World Cup Qualifiers
+Hungary vs Portugal
+Eutelsat 7B/7C @ 7.0E
+11020 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: BUL007 NTF M04 Back
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
+FIFA World Cup Qualifiers
 Azerbaijan vs Ukraine
 Eutelsat 7B/7C @ 7.0E
 10963 H 14400
