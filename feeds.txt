@@ -1,3 +1,26 @@
+Delet...
+---FEED-SEPARATOR---
+Event 
+:FIFA World Cup Qualifiers
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10983 H 14400
+  E-360 M (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.680 
+Mbit/Sec|8PSK DVB-S2 HD
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
+FIFA World Cup Qualifiers
+Eutelsat 7B/7C @ 7.0E
+10999 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: EQ M3 EST-004 BU
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
 Friendly Match - New Zealand vs Australia
 100.5°E
 3905 V 7200
