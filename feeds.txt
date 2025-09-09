@@ -1,3 +1,10 @@
+16E
+12691 V 8000 420 HD H.264 FTA
+ID: unnamed
+FRIENDLY MATCH
+WALES vs CANADA 
+ko 20:45 CET
+---FEED-SEPARATOR---
 FIFA World Cup Qualifiers
 Bosnia & Herzegovina vs Austria
 Eutelsat 7B/7C @ 7.0E
@@ -45,7 +52,7 @@ Hungary vs Portugal
 Eutelsat 7B/7C @ 7.0E
 11065 V 14400
 DVB-S2 - 1080P - 8PSK
-4.2.0
+4.2.2
 ID:  HUN022 M06 BACKUP
 CW: 09 F8 B6 B7 AC 8F 09 44
 ---FEED-SEPARATOR---
@@ -70,7 +77,7 @@ ID: YSM-016-1-05
 CW: 09 F8 B6 B7 AC 8F 09 44
 ---FEED-SEPARATOR---
 FIFA World Cup Qualifiers
-Hungary vs Portugal
+Albania vs Latvia
 Eutelsat 7B/7C @ 7.0E
 11020 H 14400
 DVB-S2 - 1080P - 8PSK
@@ -124,6 +131,27 @@ ID : ENC 1
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: FB 45 A1 E1 15 1B C7 F7
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11175 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: D535 Rostock Sat.1
+Germany U-21 vs Latvia U-21
+CW: D5 35 09 13 09 20 25 4E
+---FEED-SEPARATOR---
+Albahraniy said:
+			maybe 
+FIFA World Cup Qualifiers
+Hungary vs Portugal
+Eutelsat 7B/7C @ 7.0E
+11065 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  HUN022 M06 BACKUP
+CW: 09 F8 B6 B7 AC 8F 09 44
+Click to expand...
+No 4:2:0  4:2:2
 ---FEED-SEPARATOR---
 Albahraniy said:
 FIFA World Cup Qualifiers
