@@ -1,0 +1,7 @@
+Friendly Match - New Zealand vs Australia
+100.5°E
+3905 V 7200
+ID : ENC 1
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: FB 45 A1 E1 15 1B C7 F7
