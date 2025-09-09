@@ -164,3 +164,13 @@ ID: YSM-016-1-05
 CW: 09 F8 B6 B7 AC 8F 09 44
 Click to expand...
 Bosnia & Herzegovina vs Austria
+---FEED-SEPARATOR---
+16e
+10985 V 9600
+4:2:2
+ID: 
+POL-111
+Elite League U20
+Poland U20
+Portugal U20
+CW: DC AE 20 AA 25 CC 09 FA
