@@ -1,3 +1,14 @@
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 4155 H 7200
+PMT PID: 305, SID: 30005 @ USSF USA v JAP (GlobeCast UK)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+FB B1 E9 D7 9D 37 B0 32  #CW:20 25 F1 36 C7 AA EE 5F 
+USA vs Japan
+Click to expand...
+7e
+11692 H 7200
+---FEED-SEPARATOR---
 Bolivia vs Brasil 
 55W C 
 ID: BOL VS BRAS BU 
