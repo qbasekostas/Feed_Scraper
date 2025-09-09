@@ -153,6 +153,16 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: FB 45 A1 E1 15 1B C7 F7
 ---FEED-SEPARATOR---
+Bolivia vs Paraguay
+47.5W C
+ID: CLEAN+VIRTUAL PERU VS PARAGUAY
+TP:4123 H 10000
+Using PID: 512
+HD 4.2.2
+PID: 200h B8h-Crypt8:8C FF 22 86 12 5F 30 31 [E] Count:1688
+found CW: 17 A3 12 CC 58 85 66 43 
+Search CW done (207 sec.)
+---FEED-SEPARATOR---
 FIFA/CONMEBOL WC 2026 Qualifiers - Round 18
 Ecuador v Argentina
  ST: 00:00
