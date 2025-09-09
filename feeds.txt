@@ -1,3 +1,10 @@
+Peru vs Paraguay 
+47,5W C
+ID: AUF TV Peru vs Paraguay 
+Tp:3973 V 7000
+HD 4.2.0 
+CW: 8F F1 7D FD 50 44 31 C5
+---FEED-SEPARATOR---
 I21/58W C 
 ID:2
 TP:4094 H 7200
