@@ -109,6 +109,29 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: FB 45 A1 E1 15 1B C7 F7
 ---FEED-SEPARATOR---
+FIFA World Cup Qualifiers (UEFA)
+Serbia vs England
+16.0E
+11103 H 9875 4:2:2
+Id: ITA 415-1
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
+Hotbird 13B ( 13E )
+12584 V 14400
+DVB-S2 - 4:2:2 - 8PSK
+ID: UKI-1484 MAIN
+Event: UEFA World Cup Qualifiers, Group K, 
+Serbia vs. England
+CW: AC 42 DC CA 11 B4 AD 72
+thanks @ Verdeoro
+---FEED-SEPARATOR---
+FIFA World Cup Qualifiers (UEFA)
+Hungary vs Portugal
+16.0E
+11022 V  9875 4:2:2
+ ID: UKI-1324 M06 MAIN
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
 FIFA World Cup Qualifiers
 Norway vs Moldova
 Eutelsat 7B/7C @ 7.0E
