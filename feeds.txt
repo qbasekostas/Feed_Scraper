@@ -1,25 +1,5 @@
 Albahraniy said:
 FIFA World Cup Qualifiers
-Eutelsat 7B/7C @ 7.0E
-11083 V 14400
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID: ITA 274 M07 MAIN
-CW: 09 F8 B6 B7 AC 8F 09 44
-Click to expand...
-Serbia vs England
----FEED-SEPARATOR---
-FIFA World Cup Qualifiers
-Cyprus vs Romania
-Eutelsat 7B/7C @ 7.0E
-11101 V 14400
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID:CYP-005_PATH1 match01
-CW: 09 F8 B6 B7 AC 8F 09 44
----FEED-SEPARATOR---
-Albahraniy said:
-FIFA World Cup Qualifiers
 Hungary vs Portugal
 Eutelsat 7B/7C @ 7.0E
 11020 H 14400
@@ -41,6 +21,16 @@ MPEG4-
  HD 1920x1080 |
 32.680 
 Mbit/Sec|8PSK DVB-S2 HD
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
+maybe 
+FIFA World Cup Qualifiers
+Hungary vs Portugal
+Eutelsat 7B/7C @ 7.0E
+11065 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  HUN022 M06 BACKUP
 CW: 09 F8 B6 B7 AC 8F 09 44
 ---FEED-SEPARATOR---
 Event :Europe World Championship - Qualification
@@ -72,6 +62,14 @@ DVB-S2 - 1080P - 8PSK
 ID: BUL007 NTF M04 Back
 CW: 09 F8 B6 B7 AC 8F 09 44
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12550 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+Malta vs San Marino
+ID:ITA 689 MD6 MAIN
+CW: 09 F8 B6 B7 AC 8F 00 3B
+---FEED-SEPARATOR---
 FIFA World Cup Qualifiers
 Azerbaijan vs Ukraine
 Eutelsat 7B/7C @ 7.0E
@@ -80,8 +78,6 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID:AZE-013 MAIN CHAIN
 CW: 09 F8 B6 B7 AC 8F 09 44
----FEED-SEPARATOR---
-Delet...
 ---FEED-SEPARATOR---
 Event 
 :FIFA World Cup Qualifiers
@@ -165,6 +161,26 @@ CW: 09 F8 B6 B7 AC 8F 09 44
 Click to expand...
 Bosnia & Herzegovina vs Austria
 ---FEED-SEPARATOR---
+Albahraniy said:
+FIFA World Cup Qualifiers
+Eutelsat 7B/7C @ 7.0E
+11083 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: ITA 274 M07 MAIN
+CW: 09 F8 B6 B7 AC 8F 09 44
+Click to expand...
+Serbia vs England
+---FEED-SEPARATOR---
+FIFA World Cup Qualifiers
+Cyprus vs Romania
+Eutelsat 7B/7C @ 7.0E
+11101 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:CYP-005_PATH1 match01
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
 16e
 10985 V 9600
 4:2:2
@@ -175,13 +191,6 @@ Poland U20
 Portugal U20
 CW: DC AE 20 AA 25 CC 09 FA
 ---FEED-SEPARATOR---
-Eutelsat 7B/7C @ 7.0E
- 12964 7200   ---- 12694
- DVB-S2 - 1080P - 8PSK
- 4.2.0
- ID:EST-003(LAT)DOM
-CW: EF E2 FE CF 89 23 48 F4
----FEED-SEPARATOR---
 EuroBasket
 Eutelsat 7B/7C @ 7.0E
 12705 v 7200
@@ -189,7 +198,8 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:EST-003(LAT)INT
 Eutelsat 7B/7C @ 7.0E
-12964 7200
+12694
+7200
 DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:EST-003(LAT)DOM
