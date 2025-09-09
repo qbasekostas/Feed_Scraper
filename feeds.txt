@@ -296,6 +296,18 @@ CW: 09 F8 B6 B7 AC 8F 09 44
 Click to expand...
 Serbia vs England
 ---FEED-SEPARATOR---
+Friendly International
+Egypt vs Tunisia
+7°E
+11079 
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID: ANA PRT
+CW: 57 98 FF EE ED 98 76 FB
+---FEED-SEPARATOR---
 16e
 10985 V 9600
 4:2:2
