@@ -1,3 +1,9 @@
+I21/58W C 
+ID:2
+TP:4094 H 7200
+HD 4.2.2
+CW: C9 9A 33 96 EE F8 C2 A8
+---FEED-SEPARATOR---
 HBO said:
 			AsiaSat 5 - 100.5 E - CBand
 TP : 4155 H 7200
