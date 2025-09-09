@@ -1,3 +1,37 @@
+FIFA World Cup Qualifiers
+Cyprus vs Romania
+Eutelsat 7B/7C @ 7.0E
+11101 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:CYP-005_PATH1 match01
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
+Albahraniy said:
+FIFA World Cup Qualifiers
+Hungary vs Portugal
+Eutelsat 7B/7C @ 7.0E
+11020 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: BUL007 NTF M04 Back
+CW: 09 F8 B6 B7 AC 8F 09 44
+Click to expand...
+Albania vs Latvia
+---FEED-SEPARATOR---
+Event :WorldFriendly International
+Teams :Wales 
+ Canada
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+11102 H 14400
+  UKI-1957 Wales v Canada MD6 Main (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.680 
+Mbit/Sec|8PSK DVB-S2 HD
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
 Albahraniy said:
 FIFA World Cup Qualifiers
 Eutelsat 7B/7C @ 7.0E
@@ -8,15 +42,6 @@ ID: ITA 274 M07 MAIN
 CW: 09 F8 B6 B7 AC 8F 09 44
 Click to expand...
 NOW works
----FEED-SEPARATOR---
-FIFA World Cup Qualifiers
-Eutelsat 7B/7C @ 7.0E
-11083 V 14400
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID: ITA 274 M07 MAIN
-CW: 09 F8 B6 B7 AC 8F 09 44
-now Signal LEFT
 ---FEED-SEPARATOR---
 Event :Europe World Championship - Qualification
 Eutelsat 7A/7B/7C @ 7.0°E 
@@ -87,3 +112,50 @@ ID : ENC 1
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: FB 45 A1 E1 15 1B C7 F7
+---FEED-SEPARATOR---
+FIFA World Cup Qualifiers
+France vs Iceland
+Eutelsat 7B/7C @ 7.0E
+11009 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: F34/FLY3/Encoder 3.12/MAIN SAT FRANCE ISLANDE
+CW: 09 F8 B6 B7 AC 8F 09 44
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event 
+:FIFA World Cup Qualifiers
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10983 H 14400
+  E-360 M (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.680 
+Mbit/Sec|8PSK DVB-S2 HD
+CW: 09 F8 B6 B7 AC 8F 09 44
+Click to expand...
+Armenia vs Ireland
+---FEED-SEPARATOR---
+Albahraniy said:
+FIFA World Cup Qualifiers
+Eutelsat 7B/7C @ 7.0E
+11047 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: YSM-016-1-05
+CW: 09 F8 B6 B7 AC 8F 09 44
+Click to expand...
+Bosnia & Herzegovina vs Austria
+---FEED-SEPARATOR---
+Albahraniy said:
+FIFA World Cup Qualifiers
+Eutelsat 7B/7C @ 7.0E
+11083 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: ITA 274 M07 MAIN
+CW: 09 F8 B6 B7 AC 8F 09 44
+Click to expand...
+Serbia vs England
