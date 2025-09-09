@@ -1,3 +1,11 @@
+FIFA World Cup Qualifiers
+Bosnia & Herzegovina vs Austria
+Eutelsat 7B/7C @ 7.0E
+12653 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: AUT34M/AT
+---FEED-SEPARATOR---
 7E
 12508 V 4937
 4.2.0
