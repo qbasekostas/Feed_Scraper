@@ -1,3 +1,15 @@
+Friendly International
+Wales v Canada
+ ST: 19:45
+7°E
+12726 
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:Wales V Canada
+---FEED-SEPARATOR---
 16E
 12691 V 8000 420 HD H.264 FTA
 ID: unnamed
@@ -21,17 +33,26 @@ Friendlies
 Jordan - Dominican Republic 
 FTA
 ---FEED-SEPARATOR---
-Albahraniy said:
+UEFA U-21 Championship 2027 Qualifiers
+San Marino U-21 v Romania U-21
+ ST: 19:30
+7°E
+11692 
+H  
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:San Marino vs Romania
+---FEED-SEPARATOR---
 FIFA World Cup Qualifiers
-Hungary vs Portugal
+Cyprus vs Romania
 Eutelsat 7B/7C @ 7.0E
-11020 H 14400
+11101 V 14400
 DVB-S2 - 1080P - 8PSK
 4.2.2
-ID: BUL007 NTF M04 Back
+ID:CYP-005_PATH1 match01
 CW: 09 F8 B6 B7 AC 8F 09 44
-Click to expand...
-Albania vs Latvia
 ---FEED-SEPARATOR---
 Event :WorldFriendly International
 Teams :Wales 
@@ -131,6 +152,30 @@ ID : ENC 1
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: FB 45 A1 E1 15 1B C7 F7
+---FEED-SEPARATOR---
+Albahraniy said:
+Eutelsat 7B/7C @ 7.0E
+12550 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+Malta vs San Marino
+ID:ITA 689 MD6 MAIN
+CW: 09 F8 B6 B7 AC 8F 00 3B
+Click to expand...
+key not working
+---FEED-SEPARATOR---
+UEFA U-21 Championship 2027 Qualifiers
+Germany U-21 v Latvia U-21
+ ST: 19:30
+7°E
+11188  
+H 
+9875
+DVB-S2-
+4:2:0
+-8PSK
+ID:  D535 Rostock Basis
+CW: D5 35 09 13 09 20 25 4E
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 11175 H 9875
@@ -250,15 +295,6 @@ ID: ITA 274 M07 MAIN
 CW: 09 F8 B6 B7 AC 8F 09 44
 Click to expand...
 Serbia vs England
----FEED-SEPARATOR---
-FIFA World Cup Qualifiers
-Cyprus vs Romania
-Eutelsat 7B/7C @ 7.0E
-11101 V 14400
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID:CYP-005_PATH1 match01
-CW: 09 F8 B6 B7 AC 8F 09 44
 ---FEED-SEPARATOR---
 16e
 10985 V 9600
