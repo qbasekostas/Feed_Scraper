@@ -84,3 +84,19 @@ PMT PID: 305, SID: 30005 @ USSF USA v JAP (GlobeCast UK)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 FB B1 E9 D7 9D 37 B0 32  #CW:20 25 F1 36 C7 AA EE 5F  
 USA vs Japan
+---FEED-SEPARATOR---
+Albahraniy said:
+EuroBasket
+Eutelsat 7B/7C @ 7.0E
+12705 v 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:EST-003(LAT)INT
+Eutelsat 7B/7C @ 7.0E
+12694
+7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:EST-003(LAT)DOM
+Click to expand...
+CW: 87 39 DC 9C 39 AA DA BD
