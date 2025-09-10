@@ -85,6 +85,14 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 FB B1 E9 D7 9D 37 B0 32  #CW:20 25 F1 36 C7 AA EE 5F  
 USA vs Japan
 ---FEED-SEPARATOR---
+28.2E
+12625 H 7500 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+UEFA Womens Europa Cup - 1st Qualifying Round (1st Leg)
+Glasgow City v Athlone Town
+---FEED-SEPARATOR---
 16E
 12690 H 3750 420 H.264 HD FTA
 ID: BIH007 B
