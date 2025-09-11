@@ -1,3 +1,11 @@
+7e
+12523 V 7500
+4:2:2
+ID: ITA 452  A
+Champions League Women - Qualification - Third stage
+AS Roma W
+Sporting W
+---FEED-SEPARATOR---
 Arabsat-5A ( 30.5° E)
 10741 - H - 3125
 MPEG4 - 4:2:0 - DVB-S2
