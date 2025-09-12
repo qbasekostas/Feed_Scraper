@@ -1,3 +1,16 @@
+Germany, 3. Liga
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12624  Horizontal  7201,812
+ID:   D-473 Regensburg 3 Liga (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Jahn Regensburg vs. Rot-Weiss Essen
+CW: 12 09 AC C7 DC 10 10 FC
+---FEED-SEPARATOR---
+28°E
+12620- V - 7200 |4:2:0 | H.264
+ID: D-473 Regensburg 3 Liga
+CW: 12 09 AC C7 DC 10 10 FC
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 3
 Bayer Leverkusen vs. Eintracht Frankfurt
 Eutelsat 7B/7C @ 7.0°E
