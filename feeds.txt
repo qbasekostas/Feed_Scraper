@@ -7,7 +7,7 @@ Jahn Regensburg vs. Rot-Weiss Essen
 CW: 12 09 AC C7 DC 10 10 FC
 ---FEED-SEPARATOR---
 28°E
-12620- V - 7200 |4:2:0 | H.264
+12620- H - 7200 |4:2:0 | H.264
 ID: D-473 Regensburg 3 Liga
 CW: 12 09 AC C7 DC 10 10 FC
 ---FEED-SEPARATOR---
@@ -21,6 +21,20 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: GVA_Fi03
 CW: 1C AC 74 3C D9 5D FA 30
+---FEED-SEPARATOR---
+LaLiga 2
+Las Palmas vs  Real Sociedad -B
+10.0ºE
+10732 V 34000
+4.2.0 HD
+ID: LIGA HYPERMOTION
+CW: 9F C3 95 F7 57 DE A9 DE
+---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+id: Overon 1
+CW: CF 8A 3B 94 F8 DE F0 C6
 ---FEED-SEPARATOR---
 Event :
  Premier League Stories
