@@ -1,3 +1,31 @@
+LaLiga : Real Sociedad v Real Madrid 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+ OVERON 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |13,4 dB | 
+4:2:2
+found CW: 
+76 6A 25 05 6F B3 0A 2C
+---FEED-SEPARATOR---
+LaLiga : Real Sociedad v Real Madrid 
+Eutelsat 10A @ 10.E
+10732 Vertical  34000,262
+ID:
+SUPPONOR AFRICA 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |10,7 dB | 
+4:2:2
+CW: 26 0C 17 49 85 B4 E9 22
+---FEED-SEPARATOR---
+LaLiga : Real Sociedad v Real Madrid 
+Eutelsat 10A @ 10.E
+10732 Vertical  34000,262
+ID:
+  SUPPONOR MENA 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |10,7 dB | 
+4:2:2
+CW: 84 AA 2C 5A 68 32 2F C9
+---FEED-SEPARATOR---
  LaLiga : Girona v Rayo Vallecano 
 Eutelsat 10B @ 10.0E
 10732 V 34000
