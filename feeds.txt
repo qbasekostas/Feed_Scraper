@@ -37,6 +37,14 @@ id: Overon 1
 CW: CF 8A 3B 94 F8 DE F0 C6
 ---FEED-SEPARATOR---
 16E
+12692 V 10000 
+4:2:0
+DVB-S2 8PSK
+ID: Uki-1592
+Scottish Championship - Week 6
+Partick Thistle v Airdrieonians
+---FEED-SEPARATOR---
+16E
 12728 V 8000 
 4:2:2
 DVB-S2 8PSK
@@ -76,6 +84,27 @@ Astra 1KR/1M/1N/1P @ 19.2°E
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 FTA 
+---FEED-SEPARATOR---
+16E
+12718 V 8000 
+4:2:2
+DVB-S2 8PSK
+ID: p1 oval dirty
+Northern Ireland Premiership - Week 7
+Glentoran v Linfield
+---FEED-SEPARATOR---
+English Womens Super League - Week 2
+West Ham United v Arsenal
+ ST: 19:30
+7°E
+12676 
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:ENC 14
+CW: 01 09 25 2F AA 20 12 DC
 ---FEED-SEPARATOR---
 Event :
  Premier League Stories
