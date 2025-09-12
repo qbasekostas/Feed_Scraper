@@ -36,6 +36,36 @@ CW: 9F C3 95 F7 57 DE A9 DE
 id: Overon 1
 CW: CF 8A 3B 94 F8 DE F0 C6
 ---FEED-SEPARATOR---
+16E
+12728 V 8000 
+4:2:2
+DVB-S2 8PSK
+ID: p2 oval clean
+Northern Ireland Premiership - Week 7
+Glentoran v Linfield
+---FEED-SEPARATOR---
+Irish FAI Senior Cup - Quarter Final
+Drogheda United vs. Shamrock Rovers
+Intelsat 10-02 @ 1.0°W
+11465 - V - 9875 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: uki1482 2
+FTA 
+---FEED-SEPARATOR---
+English Womens Super League - Week 2
+West Ham United vs. Arsenal
+Intelsat 10-02 @ 1.0°W
+11508 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: VIVID FEED
+FTA 
+---FEED-SEPARATOR---
 English Womens Super League - Week 2
 Man City vs. Brighton
 Astra 1KR/1M/1N/1P @ 19.2°E
