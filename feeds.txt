@@ -8,14 +8,6 @@ DVB S2 1080i
  4.2.0
 #CW :08 25 AB D8 BA 29 30 13
 ---FEED-SEPARATOR---
-Germany, 3. Liga
-Eutelsat 28A-2A-2E-2F @ 28.2E
-12624  Horizontal  7201,812
-ID:   D-473 Regensburg 3 Liga (rt1.tv)
-1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
-Jahn Regensburg vs. Rot-Weiss Essen
-CW: 12 09 AC C7 DC 10 10 FC
----FEED-SEPARATOR---
 28°E
 12620- H - 7200 |4:2:0 | H.264
 ID: D-473 Regensburg 3 Liga
@@ -149,6 +141,21 @@ DVB-S2 8PSK
 ID: p1 oval dirty
 Northern Ireland Premiership - Week 7
 Glentoran v Linfield
+---FEED-SEPARATOR---
+Akrem said:
+			English Championship - Week 5
+Ipswich Town v Sheffield United
+ ST: 20:00
+7°E
+12686 
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:  Pitch Ipswich v Sheffield
+Click to expand...
+NEW SR: 7120
 ---FEED-SEPARATOR---
 HBO said:
 CW: 11 90 AE 4F FD 23 5E 7E
