@@ -150,6 +150,21 @@ ID: p1 oval dirty
 Northern Ireland Premiership - Week 7
 Glentoran v Linfield
 ---FEED-SEPARATOR---
+HBO said:
+CW: 11 90 AE 4F FD 23 5E 7E
+Click to expand...
+English Championship - Week 5
+Ipswich Town v Sheffield United
+ ST: 20:00
+7°E
+12686 
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:  Pitch Ipswich v Sheffield
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3993 V 7120
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
