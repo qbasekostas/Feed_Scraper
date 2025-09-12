@@ -1,3 +1,13 @@
+German 1. Bundesliga - Week 3
+Bayer Leverkusen v Eintracht Frankfurt
+ST: 19:30
+10°E C-BAND
+TP:3900 V/H 3750
+ID:  Signal-6 (*unnamed-1*)
+DVB S2 1080i
+ 4.2.0
+#CW :08 25 AB D8 BA 29 30 13
+---FEED-SEPARATOR---
 Germany, 3. Liga
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12624  Horizontal  7201,812
@@ -21,6 +31,53 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: GVA_Fi03
 CW: 1C AC 74 3C D9 5D FA 30
+---FEED-SEPARATOR---
+10E
+11248 H 9600
+11260 H 9600
+4.2.2
+ID: ITA302A
+Serie B
+US Avellino 1912 - AC Monza
+CW: BC 03 20 DF 25 12 09 40
+---FEED-SEPARATOR---
+Italian Serie BKT - Week 3
+Avellino v Monza
+ ST: 19:30
+7°E
+12522 
+V 
+7500
+DVB-S2-
+4:2:2
+-8PSK
+ID:ITA741
+CW: BC 03 20 DF 25 12 09 40
+---FEED-SEPARATOR---
+Spanish La Liga (Primera) - Week 4
+Sevilla v Elche
+ST: 20:00
+10°E C-BAND
+TP:3895 V/H 3750
+ID: LA LIGA (*unnamed-1*) 
+DVB S2 1080i
+ 4.2.0
+#CW : 08 25 AB D8 BA 29 30 13
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,07Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 4
+Teams: Sevilla FC vs Elche CF
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+fil1 said:
+CW: CF 8A 3B 94 F8 DE F0 C6
+Click to expand...
 ---FEED-SEPARATOR---
 LaLiga 2
 Las Palmas vs  Real Sociedad -B
@@ -92,6 +149,27 @@ DVB-S2 8PSK
 ID: p1 oval dirty
 Northern Ireland Premiership - Week 7
 Glentoran v Linfield
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3993 V 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+E2 AF A9 C0 1D 65 0F 75  #CW:11 90 AE 4F FD 23 5E 7E   #[E] PID:07D1h
+Ipswich vs Sheffield United
+---FEED-SEPARATOR---
+English Womens Super League - Week 2
+Manchester City v Brighton H.A
+.
+ ST: 19:30
+7°E
+11171
+ H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:ENC 8
+CW: 27 AA 09 DA 12 20 25 57
 ---FEED-SEPARATOR---
 English Womens Super League - Week 2
 West Ham United v Arsenal
