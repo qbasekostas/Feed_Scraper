@@ -36,6 +36,17 @@ CW: 9F C3 95 F7 57 DE A9 DE
 id: Overon 1
 CW: CF 8A 3B 94 F8 DE F0 C6
 ---FEED-SEPARATOR---
+English Womens Super League - Week 2
+Man City vs. Brighton
+Astra 1KR/1M/1N/1P @ 19.2°E
+11621 - V - 10000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+FTA 
+---FEED-SEPARATOR---
 Event :
  Premier League Stories
 100.5°E
