@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 3
+Bayer Leverkusen vs. Eintracht Frankfurt
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi03
+CW: 1C AC 74 3C D9 5D FA 30
+---FEED-SEPARATOR---
 7E
 12695 V 7200
 12703 V 7200
