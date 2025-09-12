@@ -1,0 +1,9 @@
+7E
+12695 V 7200
+12703 V 7200
+4.2.0
+ID: EST-003(LAT)DOM / INT
+EuroBasket - Play Offs
+Germany - Finland
+Greece - Turkey
+CW: BB 35 EE DE 98 FF 32 C9
