@@ -1,0 +1,26 @@
+ LaLiga : Girona v Rayo Vallecano 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+  OVERON 2 (OVERON)
+DVB-S2 | 8PSK | 1080i |13,4 dB | 
+4:2:2
+CW: 91 FE B3 42 F3 DC B2 81
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+Spanish La Liga (Primera) - Week 4
+Getafe  vs Real Oviedo 
+found CW: 11 30 23 64 FC 7D 18 91 
+---FEED-SEPARATOR---
+Spanish La Liga (Primera) - Week 4
+Real Sociedad vs Real Madrid
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR AFRICA 1
+CW: 76 B2 A1 C9 53 E4 9D D4
+ID:  SUPPONOR MENA 1
+CW: 6B 55 47 07 82 D8 4F A9
