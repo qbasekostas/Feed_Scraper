@@ -75,12 +75,54 @@ Germany, 2nd Bundesliga
 Schalke 04 VS Holstein Kiel
 CW: 20 25  AE F3 EA 52 02 2E
 ---FEED-SEPARATOR---
+Germany Bundesliga, Round 3
+Eutelsat 7B/7C @ 7.0E
+11008 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: D565 MCHN 2K12 B
+CW: B5 0E 87 4A 05 9E F8 9B
+---FEED-SEPARATOR---
 10.0°E
 11251 H 17000
 4:2:2 - HEVC
 ID: PGM
 ID: CAM 1
 CW: BC 03 20 DF 25 12 09 40
+---FEED-SEPARATOR---
+LaLiga - Real Sociedad vs Real Madrid
+100.5°E
+3840 H 30000
+ID : OVERON 3
+DVB-S2 8PSK 
+4:2:2
+ 1080i
+SID : 45 (2D)
+CW: D7 85 3B 97 77 B0 78 9F
+100.5°E
+3840 H 30000
+ID : OVERON 4
+DVB-S2 8PSK 
+4:2:2
+ 1080i
+SID : 46 (2E)
+CW: 27 47 BC 2A 6B D8 1D 60
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,56Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 4
+Teams: Real Sociedad vs Real Madrid
+Time / Kickoff: 19.00 JKT-TH / 20.00 MY-SG / 12.00 GMT / 14.00 CET
+Hackintosh said:
+#CW:
+76 6A 25 05 6F B3 0A 2C
+Click to expand...
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
@@ -144,7 +186,8 @@ DVB-S2 | 8PSK | 1080i |10,7 dB |
 4:2:2
 CW: 84 AA 2C 5A 68 32 2F C9
 ---FEED-SEPARATOR---
- LaLiga : Girona v Rayo Vallecano 
+ LaLiga : 
+Getafe v Real Oviedo
 Eutelsat 10B @ 10.0E
 10732 V 34000
 ID:
@@ -170,6 +213,37 @@ ID: SUPPONOR AFRICA 1
 CW: 76 B2 A1 C9 53 E4 9D D4
 ID:  SUPPONOR MENA 1
 CW: 6B 55 47 07 82 D8 4F A9
+---FEED-SEPARATOR---
+28.2E
+12703 V 7200 4:2:0
+DVBS-2 8PSK
+ID AEW
+English Championship - Week 5
+West Brom
+ vs 
+Derby
+---FEED-SEPARATOR---
+Dani Sat said:
+English Championship - Week 5
+Swansea City vs. Hull City
+Click to expand...
+Asiasat 5 (100.5°E) C BAND
+3764 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI
+CW: 19 3A FE 51 45 25 26 90
+---FEED-SEPARATOR---
+English Championship - Week 5
+Swansea City vs. Hull City 
+Eutelsat 7B/7C @ 7.0°E
+12704 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch EFL Swansea City v Hull
+CW: 19 3A FE 51 45 25 26 90
 ---FEED-SEPARATOR---
 1W
 11509 V 7200 
