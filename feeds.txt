@@ -75,6 +75,16 @@ Germany, 2nd Bundesliga
 Schalke 04 VS Holstein Kiel
 CW: 20 25  AE F3 EA 52 02 2E
 ---FEED-SEPARATOR---
+ASTRA
+19.2°E
+11443 V 7200
+ DVB-S2
+ID: D-437
+1920x1080i 4:2:0
+CW: 13 09 AC C8 DC 10 15 01
+3rd Bundesliga
+Alemannia Aachen vs SSV Ulm 1846
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 3
 Bayern Munich vs. Hamburg
 Eutelsat 16A @ 16.0°E
