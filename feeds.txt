@@ -293,6 +293,16 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 32 89 25 E0 AE 31 13 F2
 ---FEED-SEPARATOR---
+FIFA Intercontinental Cup 2025™
+FIFA African-Asian-Pacific Play-off 
+Pyramids FC VS  Auckland City FC
+14 SEP 2025 - Local Time 21:00
+Eutelsat 7B/7C (7.0E)
+10995 - Horizontal - 7200
+DVB-S2 - 4.2.0
+Name : A N A PRT
+CW :1F D3 C0 B2 7E 83 C0 C1
+---FEED-SEPARATOR---
 Friendly Match - Indonesia U17 vs North Macedonia U17
 100.5°E
 3994 V 7200
