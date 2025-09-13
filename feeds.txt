@@ -1,3 +1,64 @@
+1. FC Heidenheim vs Borussia Dortmund l
+Eutelsat 7B/7C @ 7.0E
+10981 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:GVA_Fi05
+CW: 00 E3 03 E6 9D 81 04 22
+---FEED-SEPARATOR---
+Heidenheim-Dortmund
+Eutelsat 7A/7B/7C @ 7.0E
+10982 V 14403
+ID:GVA_Fi05 (EUROVISION SA)
+1920x1080 |31.360Mb/Sec |8PSK |4:2:2 HD
+CW: 00 E3 03 E6 9D 81 04 22
+---FEED-SEPARATOR---
+ASTRA 19.2°E
+11618 V 7200
+ DVB-S2
+ID: D-361 Dusiburg
+1920x1080i 4:2:0
+CW: 13 09 AC C8 DC 10 12 FE
+Video clear
+Audio scrambled
+3rd Bundesliga
+MSV Duisburg - SV Wehen Wiesbaden
+---FEED-SEPARATOR---
+3rd Bundesliga
+Aue vs Viktoria Koln
+ASTRA
+ 19.2°E
+11428V7200
+D510feed1 (Betamobil)
+CW: 13 09 AC C8 DC 10 14 00
+---FEED-SEPARATOR---
+3rd Bundesliga
+Ingolstadt vs Schweinfurt
+ASTRA
+ 19.2°E
+11632V7200
+D-473 Ingolstadt 3 Liga (rt1.tv)
+CW: 13 09 AC C8 DC 10 13 FF
+---FEED-SEPARATOR---
+ASTRA
+19.2°E
+11572 V 7200
+ DVB-S2
+ID: D-528
+1920x1080i 4:2:0
+CW: 13 09 AC C8 DC 10 11 FD
+3rd Bundesliga
+Hoffenheim II - Verl
+---FEED-SEPARATOR---
+ASTRA 
+19.2°E
+11559 V 7200
+ DVB-S2
+ID: D-167 Stuttgart
+CW: 13 09 AC C8 DC 10 10 FC
+3rd Bundesliga 
+Stuttgart II vs Saarbrücken
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 11106 Horizontal 9872,818
 DVB-S2 - 4:2:0 - 8PSK
@@ -13,6 +74,31 @@ ID: FAL4 ENC1
 Germany, 2nd Bundesliga
 Schalke 04 VS Holstein Kiel
 CW: 20 25  AE F3 EA 52 02 2E
+---FEED-SEPARATOR---
+10.0°E
+11251 H 17000
+4:2:2 - HEVC
+ID: PGM
+ID: CAM 1
+CW: BC 03 20 DF 25 12 09 40
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10767 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  LIGA HYPERMOTION 1
+LaLiga 2 
+Real Valladolid v Almeria
+CW: EA 8C 0C 82 B5 1B 12 E2
+---FEED-SEPARATOR---
+LaLiga 
+ Real Sociedad v Real Madrid
+EUTELSAT 10A (10°E)
+Fréq:10767 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:SUPPONOR EASTERN 1
+CW: AD 5D 13 1D 26 4E 57 CB
+ID: SUPPONOR RUSIA 1
+CW: EA 8C 0C 82 B5 1B 12 E2
 ---FEED-SEPARATOR---
 LaLiga : Real Sociedad v Real Madrid 
 Eutelsat 10B @ 10.0E
