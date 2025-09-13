@@ -1,3 +1,11 @@
+Eutelsat 16A   ( 16.0E )
+11106 Horizontal 9872,818
+DVB-S2 - 4:2:0 - 8PSK
+ID: FFBL Nuernberg
+Event:  
+Bundesliga Women, 1.FC Nurnberg - Werder Bremen
+CW: 13 09 AC C8 DC 20 25 21
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 10975  Horizontal  3600,901
 ID: FAL4 ENC1
