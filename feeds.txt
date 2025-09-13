@@ -68,3 +68,21 @@ ID: SUPPONOR AFRICA 1
 CW: 76 B2 A1 C9 53 E4 9D D4
 ID:  SUPPONOR MENA 1
 CW: 6B 55 47 07 82 D8 4F A9
+---FEED-SEPARATOR---
+orangebirds said:
+EFL Championship - Charlton Athletic vs Millwall
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 32 89 25 E0 AE 31 13 F2
+Click to expand...
+7.0E
+11606 V 7120
+ID: PITCH Charlton Athletic
+---FEED-SEPARATOR---
+EFL Championship - Charlton Athletic vs Millwall
+100.5°E
+3906 H 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 32 89 25 E0 AE 31 13 F2
