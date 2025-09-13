@@ -75,6 +75,17 @@ Germany, 2nd Bundesliga
 Schalke 04 VS Holstein Kiel
 CW: 20 25  AE F3 EA 52 02 2E
 ---FEED-SEPARATOR---
+German 1. Bundesliga - Week 3
+Bayern Munich vs. Hamburg
+Eutelsat 16A @ 16.0°E
+10981 - H - 3600 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: F6-2 4.5MH
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 Germany Bundesliga, Round 3
 Eutelsat 7B/7C @ 7.0E
 11008 V 9875
@@ -276,6 +287,8 @@ Friendly Match - Indonesia U17 vs North Macedonia U17
 100.5°E
 3994 V 7200
 ID : ENC 7
-DVB-S2 8PSK 4:2:0 1080i
+DVB-S2 8PSK 
+4:2:2
+ 1080i
 SID : 1
 CW: 65 85 25 0F 45 68 65 12
