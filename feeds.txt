@@ -253,6 +253,41 @@ CW: 76 B2 A1 C9 53 E4 9D D4
 ID:  SUPPONOR MENA 1
 CW: 6B 55 47 07 82 D8 4F A9
 ---FEED-SEPARATOR---
+3.1E
+10960 H 7500
+10969 H 7500
+4.2.0
+ID: beIN SPORTS / Service-1
+LaLiga
+Atlético de Madrid - Villarreal CF
+CW: BC 4C D1 D9 28 72 CF 69
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,07Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 4
+Teams: Atlético de Madrid vs Villarreal CF
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Dani Sat said:
+CW: DB 73 B2 00 7B 51 6C 38
+Click to expand...
+---FEED-SEPARATOR---
+Spanish La Liga - Week 4
+Atlético Madrid vs. Villarreal
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: DB 73 B2 00 7B 51 6C 38
+---FEED-SEPARATOR---
 orangebirds said:
 LaLiga - Athletic Bilbao vs Deportivo Alaves
 100.5°E
@@ -312,6 +347,14 @@ English Championship - Week 5
 West Brom
  vs 
 Derby
+---FEED-SEPARATOR---
+10E
+11269 V 7200
+4.2.0
+ID: GCUK Enc 2
+Scottish Premiership
+Hibernian F.C. - Dundee United F.C.
+CW: DF CC 45 F0 22 EC BB C9
 ---FEED-SEPARATOR---
 Dani Sat said:
 English Championship - Week 5
