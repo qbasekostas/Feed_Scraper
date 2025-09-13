@@ -1,3 +1,11 @@
+Eutelsat 16A @ 16.0E
+10975  Horizontal  3600,901
+ID: FAL4 ENC1
+1920x1080 |8,924Mb/Sec |8PSK |4:2:0 HD
+Germany, 2nd Bundesliga
+Schalke 04 VS Holstein Kiel
+CW: 20 25  AE F3 EA 52 02 2E
+---FEED-SEPARATOR---
 LaLiga : Real Sociedad v Real Madrid 
 Eutelsat 10B @ 10.0E
 10732 V 34000
