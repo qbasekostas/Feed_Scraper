@@ -1,0 +1,15 @@
+10E
+10732 V 34000
+4.2.0
+ID: LIGA HYPERMOTION 1
+LaLiga 2
+Real Zaragoza - Albacete Balompié
+CW: 2F B3 51 33 C9 8D 6D C3
+---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 1
+LaLiga
+RCD Espanyol de Barcelona - RCD Mallorca
+CW: C1 4C 0D 1A F1 3A 15 40
