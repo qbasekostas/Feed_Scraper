@@ -1,8 +1,24 @@
+3rd Bundesliga
+VfL Osnabruck vs. Hansa Rostock
+28e
+12641 H 7200
+DVB-S2
+ID: D-361 Osnabruek
+1920x1080i 4:2:0
+14 09 AC C9 DC 10 10 FC
+---FEED-SEPARATOR---
 16.0°E
 10976 H 3600
 4:2:0
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+AS Roma  - Torino
+Eutelsat 10E @ 10.0E
+3895  Vertical  3751.059
+ID:SERIE A (IKOMG)
+1920x1080 |9.299Mb/Sec |8PSK |4:2:0 HD
+CW: 08 25 AB D8 BA 29 30 13
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
@@ -58,6 +74,40 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Women's Super League
+Aston Villa  vs Chelsea FC
+7.0E
+12563 H 7200
+4.2.0 HD
+ID: ENC 21
+CW: 25 0C 14 45 09 C2 00 CB
+---FEED-SEPARATOR---
+Women's Super League
+London City  vs  Manchester United
+7.0E
+12554 H 7200
+4.2.0 HD
+ID: ENC 8
+CW: BB 14 20 EF 25 09 BB E9
+---FEED-SEPARATOR---
+orangebirds said:
+EFL Championship - Southampton vs Portsmouth
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 20 3F 34 93 2A 32 5E BA
+Click to expand...
+7.0E
+12726 V 7120
+ID: Pitch EFL Southampton
+---FEED-SEPARATOR---
+Women's Super League
+Liverpool  vs Leicester City
+7.0E
+11172 H 7200
+4.2.0 HD
+ID: ENC 22
+CW: 09 BB 31 F5 14 25 20 59
 ---FEED-SEPARATOR---
 19.2E
 11620 V 10000
