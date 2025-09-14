@@ -13,6 +13,7 @@ ID: D-361 Osnabruek
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+SERIE A | 
 AS Roma  - Torino
 Eutelsat 10E @ 10.0E
 3895  Vertical  3751.059
