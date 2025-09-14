@@ -1,3 +1,12 @@
+ASTRA 
+28.2°E
+12635 H 7200
+ DVB-S2
+ID: D-528
+CW: 14 09 AC C9 DC 10 11 FD
+3rd Bundesliga
+Waldhof Mannheim vs. Energie Cottbus
+---FEED-SEPARATOR---
 Bundesliga 1
 Eutelsat 7B/7C @ 7.0E
 10984 V 9875
@@ -260,3 +269,17 @@ Turkey vs Germany
 12694 V 7200 4:2:0
 ID: EST-003(LAT)DOM
 CW: 55 89 DD BB AA FF 13 BC
+---FEED-SEPARATOR---
+Greek Super League 1
+Kifisia vs Panathinaikos
+7e
+12564 H 7200
+ID: KIFISIA VS PAO M (*unnamed-1*)
+CW: 66 2A 94 24 39 B5 19 07
+---FEED-SEPARATOR---
+Greek Super League 1
+Asteras Tripolis vs AEL
+39e
+11016 V 7200
+ID: E394 BACKUP (OVERON)
+CW: A4 E1 2D B2 35 BA 22 11
