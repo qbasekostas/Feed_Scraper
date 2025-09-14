@@ -43,6 +43,14 @@ Click to expand...
 ID: LIGA HYPERMOTION 1
 LaLiga 2
 ---FEED-SEPARATOR---
+19.0E
+11620  Vertical  9999,854
+ID: *unnamed-1* (*unnamed-1*)
+1920x1080 |22,288Mb/Sec |8PSK |4:2:0 HD
+England Amateur, The FA Women's Super League
+Aston Villa WFC vs. Chelsea FC
+CW: FTA
+---FEED-SEPARATOR---
 EFL Highlights
 100.5°E
 3994 V 7120
@@ -50,6 +58,15 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+28.2E
+12703 V 7200 4:2:0
+DVBS-2 8PSK
+ID 
+Southampton v Portsmouth Enc 1
+CW; A5 B4 B1 0A BC AC BA 22
+English Championship - Week 5
+Southampton v Portsmouth
 ---FEED-SEPARATOR---
 EFL Championship - Southampton vs Portsmouth
 100.5°E
