@@ -1,3 +1,13 @@
+ASTRA 
+28.2°E
+12625 H 7200
+ DVB-S2
+1920x1080i 4:2:0
+ID: 3BL 1860-Havelse
+CW: 14 09 AC C9 DC 10 12 FE
+3rd Bundesliga
+1860 München vs. Havelse
+---FEED-SEPARATOR---
 Eutelsat 16A ( 16.0E )
 11106 H 9874
 DVB-S2 - 
