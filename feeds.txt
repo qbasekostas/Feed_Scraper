@@ -319,6 +319,13 @@ ID: EST-003(LAT)DOM
 CW: 55 89 DD BB AA FF 13 BC
 ---FEED-SEPARATOR---
 Greek Super League 1
+Levadiakos vs AEK
+39e
+11025 V 7200
+ID: E289 MAIN (overon)
+CW: 54 E1 2D 62 35 AA 22 01
+---FEED-SEPARATOR---
+Greek Super League 1
 Kifisia vs Panathinaikos
 7e
 12564 H 7200
