@@ -98,6 +98,16 @@ ID:SERIE A (IKOMG)
 1920x1080 |9.299Mb/Sec |8PSK |4:2:0 HD
 CW: 08 25 AB D8 BA 29 30 13
 ---FEED-SEPARATOR---
+Spanish La Liga (Primera) - Week 4
+Barcelona v Valencia
+ST: 20:00
+10°E C-BAND
+TP:3905 V/H 3750
+ID: LA LIGA (*unnamed-1*) 
+DVB S2 1080i 
+4.2.0
+#CW : 08 25 AB D8 BA 29 30 13
+---FEED-SEPARATOR---
 Event: Spain - LALIGA EA SPORTS Matchday 4
 Teams: FC Barcelona vs Valencia CF
 Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
@@ -212,6 +222,7 @@ CW: F7 C5 4B 07 E3 BD 6B 0B
 ID: SUPPONOR AFRICA
 LaLiga
 Levante UD - Real Betis Balompié
+FC Barcelona - Valencia CF
 CW: E2 60 20 62 6B 1C 97 1E
 ---FEED-SEPARATOR---
 FaDeL® said:
