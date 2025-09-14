@@ -137,6 +137,13 @@ Click to expand...
 ID: LIGA HYPERMOTION 1
 LaLiga 2
 ---FEED-SEPARATOR---
+28.2E
+12643 H 7120 4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish SWPL 1 - Week 5
+Aberdeen v Celtic
+---FEED-SEPARATOR---
 19.0E
 11620  Vertical  9999,854
 ID: *unnamed-1* (*unnamed-1*)
@@ -152,6 +159,17 @@ ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Premier League 
+Manchester City vs Manchester United
+Eutelsat 3B @ 3.1° E
+Fréq:10958 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: beIN SPORTS
+Fréq:10968 - H - 7500
+ID:  Service-1
+OLD #CW:
+BC 4C D1 D9 28 72 CF 69
 ---FEED-SEPARATOR---
 Scottish Premiership, Round 5
 Kilmarnock vs Celtic
