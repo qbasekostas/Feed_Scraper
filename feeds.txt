@@ -1,3 +1,14 @@
+Eutelsat 16A ( 16.0E )
+11106 H 9874
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: 
+FFBL Hoffenheim
+Bundesliga Women
+Hoffenheim W    Eintracht Frankfurt W
+CW: 14 09 AC C9 DC 22 25 23
+---FEED-SEPARATOR---
 ASTRA 
 28.2°E
 12635 H 7200
@@ -286,6 +297,19 @@ ID : BT_SES_22_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 20 3F 34 93 2A 32 5E BA
+---FEED-SEPARATOR---
+A.ElSadek said:
+FIFA Intercontinental Cup 2025™
+FIFA African-Asian-Pacific Play-off 
+Pyramids FC VS  Auckland City FC
+14 SEP 2025 - Local Time 21:00
+Eutelsat 7B/7C (7.0E)
+10995 - Horizontal - 7200
+DVB-S2 - 4.2.0
+Name : A N A PRT
+CW :1F D3 C0 B2 7E 83 C0 C1
+Click to expand...
+NEW CW: 3E 99 0D E4 C4 36 31 2B
 ---FEED-SEPARATOR---
 Eurobasket Final 2025
 Turkey vs Germany
