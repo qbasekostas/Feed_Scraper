@@ -1,4 +1,12 @@
 Bundesliga 1
+Eutelsat 7B/7C @ 7.0E
+10984 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: GVA_Fi04 (EUROVISION SA)
+CW: 90 AF 34 73 F6 63 5C B5
+---FEED-SEPARATOR---
+Bundesliga 1
 FC St. Pauli  vs Augsburg
 7.0E
 11009 V 9875
@@ -59,6 +67,21 @@ Eutelsat 10E @ 10.0E
 ID:SERIE A (IKOMG)
 1920x1080 |9.299Mb/Sec |8PSK |4:2:0 HD
 CW: 08 25 AB D8 BA 29 30 13
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,07Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 4
+Teams: Levante UD vs Real Betis
+Time / Kickoff: 21.15 JKT-TH / 22.15 MY-SG / 14.15 GMT / 16.15 CET
+omid1348 said:
+CW: 65 77 35 11 2D 92 91 50
+Click to expand...
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
