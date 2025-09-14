@@ -79,6 +79,29 @@ CW: 08 25 AB D8 BA 29 30 13
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,53Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 4
+Teams: CA Osasuna vs Rayo Vallecano
+Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 18.30 CET
+omid1348 said:
+CW: 4D E0 62 8F B0 DA B3 3D
+Click to expand...
+---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 2
+LaLiga
+CA Osasuna - Rayo Vallecano
+CW: 4D E0 62 8F B0 DA B3 3D
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OVERON 1 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
@@ -135,6 +158,7 @@ CW: F7 C5 4B 07 E3 BD 6B 0B
 4.2.2
 ID: SUPPONOR AFRICA
 LaLiga
+Levante UD - Real Betis Balompié
 CW: E2 60 20 62 6B 1C 97 1E
 ---FEED-SEPARATOR---
 FaDeL® said:
