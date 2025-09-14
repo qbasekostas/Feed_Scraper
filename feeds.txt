@@ -21,6 +21,21 @@ ID:SERIE A (IKOMG)
 1920x1080 |9.299Mb/Sec |8PSK |4:2:0 HD
 CW: 08 25 AB D8 BA 29 30 13
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,07Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 4
+Teams: Celta Vigo vs Girona FC
+Time / Kickoff: 19.00 JKT-TH / 20.00 MY-SG / 12.00 GMT / 14.00 CET
+omid1348 said:
+CW: F7 C5 4B 07 E3 BD 6B 0B
+Click to expand...
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
