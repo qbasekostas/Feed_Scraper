@@ -98,6 +98,38 @@ ID:SERIE A (IKOMG)
 1920x1080 |9.299Mb/Sec |8PSK |4:2:0 HD
 CW: 08 25 AB D8 BA 29 30 13
 ---FEED-SEPARATOR---
+Event: Spain - LALIGA EA SPORTS Matchday 4
+Teams: FC Barcelona vs Valencia CF
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,91Mb/Sec |8PSK| 
+4:2:2
+ HD
+omid1348 said:
+CW: ED 39 CF F5 4D 1B EE 56
+Click to expand...
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,46Mb/Sec |8PSK| 
+4:2:2
+ HD
+CW: BA 22 EA C6 18 AA 00 C2
+---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 1
+LaLiga
+FC Barcelona - Valencia CF
+CW: ED 39 CF F5 4D 1B EE 56
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 2 
@@ -348,3 +380,16 @@ Asteras Tripolis vs AEL
 11016 V 7200
 ID: E394 BACKUP (OVERON)
 CW: A4 E1 2D B2 35 BA 22 11
+---FEED-SEPARATOR---
+Greek Super League 1 - Week 3
+OFI Crete v PAOK Thessaloniki
+ ST: 19:30
+7°E
+12564  
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:OFI  VS PAOK
+CW: 91 41 16 E8 32 86 61 19
