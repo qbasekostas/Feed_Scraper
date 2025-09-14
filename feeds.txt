@@ -1,3 +1,11 @@
+German 1. Bundesliga Show
+10°E C-BAND
+TP:3900 V/H 3750
+ID:  Signal-6 (*unnamed-1*)
+DVB S2 1080i
+ 4.2.0
+#CW :08 25 AB D8 BA 29 30 13
+---FEED-SEPARATOR---
 ASTRA 
 28.2°E
 12625 H 7200
@@ -72,6 +80,16 @@ ID: D-361 Osnabruek
 4:2:0
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Italian Serie A - Week 3
+AC Milan v Bologna
+ST: 19:45
+10°E C-BAND
+TP:3896 V/H 3750
+ID:SERIE A
+DVB S2 1080i
+ 4.2.0
+#CW : 08 25 AB D8 BA 29 30 13
 ---FEED-SEPARATOR---
 Italy Serie B, Round 3
 Virtus Entella vs Mantova
