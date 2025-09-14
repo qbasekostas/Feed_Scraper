@@ -42,3 +42,19 @@ Click to expand...
 4.2.0
 ID: LIGA HYPERMOTION 1
 LaLiga 2
+---FEED-SEPARATOR---
+EFL Highlights
+100.5°E
+3994 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+EFL Championship - Southampton vs Portsmouth
+100.5°E
+3906 H 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 20 3F 34 93 2A 32 5E BA
