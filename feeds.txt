@@ -1,3 +1,11 @@
+Eutelsat 16A   ( 16.0E )
+11106 Horizontal 9872,85
+DVB-S2 - 4:2:0 - 8PSK
+ID: FFBL BayerLeverkusen
+Event:  
+  Bundesliga Women, Bayer Leverkusen - Union Berlin
+CW: 15 09 AC CA DC 20 25 21
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.0
