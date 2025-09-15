@@ -6,6 +6,14 @@ Event:
   Bundesliga Women, Bayer Leverkusen - Union Berlin
 CW: 15 09 AC CA DC 20 25 21
 ---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11136 Horizontal 7198,32
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA360_2
+Event:    
+  Serie C, Cittadella v Vicenza
+CW: DA 12 E9 D5 07 A2 31 DA
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.0
