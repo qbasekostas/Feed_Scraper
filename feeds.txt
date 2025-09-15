@@ -13,3 +13,12 @@ ID: OVERON 1
 LaLiga
 RCD Espanyol de Barcelona - RCD Mallorca
 CW: C1 4C 0D 1A F1 3A 15 40
+---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+12534 Vertical 4798,997
+DVB-S2 - 4:2:0 - 8PSK
+ID:  B 191 DGI
+Event:  
+    Friendly,  
+    CSM CSU Oradea - CS Vâlcea 1924
+CW: 15 09 20 3E 25 AB CD 9D
