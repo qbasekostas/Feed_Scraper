@@ -22,6 +22,19 @@ LaLiga 2
 Real Zaragoza - Albacete Balompié
 CW: 2F B3 51 33 C9 8D 6D C3
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,94Mb/Sec |8PSK| 4:2:2 HD
+Event: Spain - LALIGA EA SPORTS Matchday 4
+Teams: RCD Espanyol vs RCD Mallorca
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+omid1348 said:
+CW: C1 4C 0D 1A F1 3A 15 40
+Click to expand...
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.2
@@ -29,6 +42,23 @@ ID: OVERON 1
 LaLiga
 RCD Espanyol de Barcelona - RCD Mallorca
 CW: C1 4C 0D 1A F1 3A 15 40
+---FEED-SEPARATOR---
+The Legends Charity Game
+Portugal Legends v World Legends
+Eutelsat 7A-7B 7.0E - 11524 Vertical 7200 4:2:0
+ID:E-95 MAIN
+CW: 15 09 20 3E 25 CC CC BD
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 1
+Tottenham Hotspur vs. Villarreal
+Eutelsat 7B/7C @ 7.0°E
+11543 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: teste1
+CW: A2 19 12 CD C4 1D 24 05
 ---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12534 Vertical 4798,997
