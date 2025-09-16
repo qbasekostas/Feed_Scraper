@@ -5,6 +5,14 @@ Serie C
 ID: ITA9 A
 CW: BC 03 20 DF 25 12 09 40
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11608- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: E-266 8MM Via1
+UEFA Champions League
+About
+Athletic Bilbao vs Arsenal
+---FEED-SEPARATOR---
 UEFA Champions League
 Real Madrid vs Marseille
 7.0E
@@ -19,6 +27,14 @@ ID: ZAR HD1D UM38
 Event:  
 UEFA Youth League, Ath Bilbao U19 - Arsenal U19
 CW: AB AB 23 79 23 BB CC AA
+---FEED-SEPARATOR---
+Eutelsat 3B @ 3.1°E
+10977 H 7500
+ID:UCL RMA HD4D MENA
+DVB-S2 8PSK | 4:2:0
+UEFA Champions League
+Real Madrid vs Marseille
+CW: B4 A5 EF 48 11 BD 99 67
 ---FEED-SEPARATOR---
 Saint Hubert said:
 UEFA Champions League
