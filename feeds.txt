@@ -1,3 +1,10 @@
+Serie C
+7.0E
+12559 H 9600
+4.2.2 HD
+ID: ITA9 A
+CW: BC 03 20 DF 25 12 09 40
+---FEED-SEPARATOR---
 UEFA Champions League
 Real Madrid vs Marseille
 7.0E
@@ -12,6 +19,17 @@ ID: ZAR HD1D UM38
 Event:  
 UEFA Youth League, Ath Bilbao U19 - Arsenal U19
 CW: AB AB 23 79 23 BB CC AA
+---FEED-SEPARATOR---
+Saint Hubert said:
+UEFA Champions League
+Real Madrid vs Marseille
+7.0E
+11552 V 7200 4:2:0
+ID: CBS Madrid
+CW: 76 76 16 02 13 88 18 B3
+Click to expand...
+Move to
+12726 V 7200
 ---FEED-SEPARATOR---
 UEFA Champions League
 Real Madrid vs Marseille
