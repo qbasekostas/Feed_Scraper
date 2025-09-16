@@ -6,6 +6,7 @@ ID: ITA9 A
 CW: BC 03 20 DF 25 12 09 40
 ---FEED-SEPARATOR---
 English League Cup - 3rd Round
+Brentford v Aston Villa
  ST: 20:00
 7°E
 11665 
