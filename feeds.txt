@@ -12,3 +12,11 @@ ID: ZAR HD1D UM38
 Event:  
 UEFA Youth League, Ath Bilbao U19 - Arsenal U19
 CW: AB AB 23 79 23 BB CC AA
+---FEED-SEPARATOR---
+UEFA Champions League
+Real Madrid vs Marseille
+7.0E
+11182 H 19200
+4.2.0 HD
+ID: TBS E_64 Espanish
+CW: DA BA 25 B9 46 BA DA DA
