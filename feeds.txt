@@ -5,6 +5,16 @@ Serie C
 ID: ITA9 A
 CW: BC 03 20 DF 25 12 09 40
 ---FEED-SEPARATOR---
+English League Cup
+Brentford Vs Aston Villa
+100.5°E C
+@ AsiaSat 5 
+3975 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: PMT PID: 280, SID: 1 @ Carabao Cup R3 - Brentford v Aston Villa             (SES Video)
+CW: 24 22 DA 20 AC 22 21 EF
+---FEED-SEPARATOR---
 16E
 12548 H 7200 
 4.2.0
