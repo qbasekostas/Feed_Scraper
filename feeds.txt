@@ -5,6 +5,62 @@ Serie C
 ID: ITA9 A
 CW: BC 03 20 DF 25 12 09 40
 ---FEED-SEPARATOR---
+English League Cup - 3rd Round
+ ST: 20:00
+7°E
+11665 
+H
+ 7120
+DVB-S2-
+4:2:0
+-8PSK
+ID: GCUK Enc 9
+CW: 24 22 DA 20 AC 22 21 EF
+---FEED-SEPARATOR---
+Satfun2017 said:
+English League Cup
+Brentford Vs Aston Villa
+100.5°E C
+@ AsiaSat 5 
+3975 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  Carabao Cup R3 - Brentford v Aston Villa        
+CW: 24 22 DA 20 AC 22 21 EF
+Click to expand...
+7e
+11606 v 7120
+id: Pitch Brentford v Aston Villa
+---FEED-SEPARATOR---
+Satfun2017 said:
+English League Cup
+Crystal Palace Vs Millwall
+100.5°E C
+@ AsiaSat 5 
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:   Carabao Cup R3 - Crystal Palace v Millwall (SES Video)
+CW: 32 42 CA 3E AC 35 33 14
+Click to expand...
+7e
+11460 v 7120
+---FEED-SEPARATOR---
+Satfun2017 said:
+CW: 23 21 DC 20 CD 22 42 31
+Click to expand...
+English League Cup - 3rd Round
+Sheffield Wednesday v Grimsby Town
+ ST: 19:45
+7°E
+11523 
+V 
+7120
+DVB-S2-
+4:2:0
+-8PSK
+ID:  Pitch Sheffield Wed V Grim
+---FEED-SEPARATOR---
 English League Cup
 Crystal Palace Vs Millwall
 100.5°E C
@@ -22,7 +78,7 @@ Sheffield Wednesday Vs Grimsby
 3993 V 7120
 MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
-ID:   Pitch International Carabao Cup R3 - Sheffield Wednesday v Grimsby (SES Video)  
+ID:   Carabao Cup R3 - Sheffield Wednesday v Grimsby (SES Video)
 CW: 23 21 DC 20 CD 22 42 31
 ---FEED-SEPARATOR---
 English League Cup
@@ -32,7 +88,7 @@ Brentford Vs Aston Villa
 3975 V 7120
 MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
-ID:  Carabao Cup R3 - Brentford v Aston Villa           
+ID:  Carabao Cup R3 - Brentford v Aston Villa          
 CW: 24 22 DA 20 AC 22 21 EF
 ---FEED-SEPARATOR---
 16E
