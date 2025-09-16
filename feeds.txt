@@ -6,13 +6,33 @@ ID: ITA9 A
 CW: BC 03 20 DF 25 12 09 40
 ---FEED-SEPARATOR---
 English League Cup
+Crystal Palace Vs Millwall
+100.5°E C
+@ AsiaSat 5 
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:   Carabao Cup R3 - Crystal Palace v Millwall (SES Video)
+CW: 32 42 CA 3E AC 35 33 14
+---FEED-SEPARATOR---
+English League Cup
+Sheffield Wednesday Vs Grimsby
+100.5°E C
+@ AsiaSat 5 
+3993 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:   Pitch International Carabao Cup R3 - Sheffield Wednesday v Grimsby (SES Video)  
+CW: 23 21 DC 20 CD 22 42 31
+---FEED-SEPARATOR---
+English League Cup
 Brentford Vs Aston Villa
 100.5°E C
 @ AsiaSat 5 
 3975 V 7120
 MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
-ID: PMT PID: 280, SID: 1 @ Carabao Cup R3 - Brentford v Aston Villa             (SES Video)
+ID:  Carabao Cup R3 - Brentford v Aston Villa           
 CW: 24 22 DA 20 AC 22 21 EF
 ---FEED-SEPARATOR---
 16E
@@ -95,17 +115,6 @@ DVB-S2 8PSK | 4:2:0
 UEFA Champions League
 Real Madrid vs Marseille
 CW: B4 A5 EF 48 11 BD 99 67
----FEED-SEPARATOR---
-Saint Hubert said:
-UEFA Champions League
-Real Madrid vs Marseille
-7.0E
-11552 V 7200 4:2:0
-ID: CBS Madrid
-CW: 76 76 16 02 13 88 18 B3
-Click to expand...
-Move to
-12726 V 7200
 ---FEED-SEPARATOR---
 UEFA Champions League
 Real Madrid vs Marseille
