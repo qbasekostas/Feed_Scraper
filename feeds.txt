@@ -5,6 +5,14 @@ Serie C
 ID: ITA9 A
 CW: BC 03 20 DF 25 12 09 40
 ---FEED-SEPARATOR---
+16E
+12548 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: No name
+UEFA Champions League - Matchday 1
+PSV Eindhoven v Union St Gilloise
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11608- H - 7200
 MPEG 4 - 4:2:0 - DVB-S2
@@ -27,6 +35,37 @@ ID: ZAR HD1D UM38
 Event:  
 UEFA Youth League, Ath Bilbao U19 - Arsenal U19
 CW: AB AB 23 79 23 BB CC AA
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 1
+Tottenham Hotspur vs. Villarreal
+Eutelsat 7B/7C @ 7.0°E
+11552 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: teste 2
+CW: A2 11 11 C4 B4 CD 64 E5
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 1
+Tottenham Hotspur vs. Villarreal
+Eutelsat 7B/7C @ 7.0°E
+11543 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: teste 1
+CW: AA B1 23 7E 12 A1 AB 5E
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:12542 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:UKI-1955-2
+UEFA Champions League 
+Liverpool  vsAtletico Madrid 
+16 /09/2025
+CW: A2 11 12 C5 A4 12 14 CA
 ---FEED-SEPARATOR---
 UEFA CL - Matchday 1: 
 Multiplex & Highlights
