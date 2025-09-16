@@ -28,6 +28,17 @@ Event:
 UEFA Youth League, Ath Bilbao U19 - Arsenal U19
 CW: AB AB 23 79 23 BB CC AA
 ---FEED-SEPARATOR---
+UEFA CL - Matchday 1: 
+Multiplex & Highlights
+Eutelsat 7B/7C @ 7.0°E
+11105 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi01
+CW: 9E 39 65 3C 8C A7 67 9A
+---FEED-SEPARATOR---
 Eutelsat 3B @ 3.1°E
 10977 H 7500
 ID:UCL RMA HD4D MENA
