@@ -1,0 +1,7 @@
+Eutelsat 7A/B   ( 7.0E )
+11543 Vertical 7198,398
+DVB-S2 - 4:2:0 - 8PSK
+ID: ZAR HD1D UM38
+Event:  
+UEFA Youth League, Ath Bilbao U19 - Arsenal U19
+CW: AB AB 23 79 23 BB CC AA
