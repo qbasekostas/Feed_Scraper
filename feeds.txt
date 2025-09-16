@@ -1,3 +1,10 @@
+UEFA Champions League
+Real Madrid vs Marseille
+7.0E
+11552 V 7200 4:2:0
+ID: CBS Madrid
+CW: 76 76 16 02 13 88 18 B3
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11543 Vertical 7198,398
 DVB-S2 - 4:2:0 - 8PSK
