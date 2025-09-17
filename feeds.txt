@@ -9,6 +9,15 @@ DVB-S2-
 ID: GVA_Fi06
 CW: D5 CE 30 D3 B0 BB F6 61
 ---FEED-SEPARATOR---
+Europe UEFA Youth League, Round 1
+Olympiacos U19 vs Pafos FC U19
+Eutelsat 7B/7C @ 7.0E
+12653 V 9700
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:   OTE 2 (OTE)
+CW: AC 13 23 E2 DF BC 12 AD
+---FEED-SEPARATOR---
 FIBA Intercontinental Cup 2025 (test feed)
 100.5°E
 3927 V 7200
