@@ -53,6 +53,26 @@ DVB-S2-
 ID: GVA_Fi06
 CW: D5 CE 30 D3 B0 BB F6 61
 ---FEED-SEPARATOR---
+English League Cup - 3rd Round
+Swansea City vs. Nottingham Forest 
+Eutelsat 7B/7C @ 7.0°E
+12727 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch - Swansea V Nottingham
+_________________________________
+11683 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID:  GCUK Enc 9
+Satfun2017 said:
+CW: 22 24 CD 13 DC 22 42 40
+Click to expand...
+---FEED-SEPARATOR---
 English League Cup
 Swansea
 Vs
@@ -88,18 +108,6 @@ Eutelsat 7B/7C (7.0E )
 11546 - Vertical - 14400
 DVB-S2 - 4.2.2 - 1920*1080 16:9
 Name : E393 PATCh 1
----FEED-SEPARATOR---
-Red Devils said:
-UEFA Champions League - Matchday 1
-Bayern Munich - Chelsea
-Eutelsat 3.1E
-10960 H 7500
-ID: bin SPORTS
-10970 H 7500
-ID: Service 01
-CW: BC 4C D1 D9 28 72 CF 69
-Click to expand...
-no good 4 me
 ---FEED-SEPARATOR---
 UEFA CL - Matchday 1: 
 Multiplex & Highlights
@@ -232,14 +240,6 @@ Click to expand...
 uefa yout
 Olympiacos Piraeus U19
 Pafos U19
----FEED-SEPARATOR---
-7E
-12654 V 9700
-4.2.2
-ID: OTE 2
-Greek Football Cup
-A.E. Kifisia F.C. - Asteras Tripolis F.C.
-CW: AC 13 23 E2 DF BC 12 AD
 ---FEED-SEPARATOR---
 Greek Cup
 League phase - Matchday 1
