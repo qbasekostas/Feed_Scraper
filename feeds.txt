@@ -109,6 +109,22 @@ Eutelsat 7B/7C (7.0E )
 DVB-S2 - 4.2.2 - 1920*1080 16:9
 Name : E393 PATCh 1
 ---FEED-SEPARATOR---
+Dani Sat said:
+UEFA Champions League - Matchday 1
+Liverpool vs. Atlético Madrid
+Eutelsat 7B/7C @ 7.0°E
+11552 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UKI-1955-1
+CW: 12 34 5A A0 20 25 08 4D
+NEW
+CW: AA BB 11 76 22 CC DA C8
+Click to expand...
+Signal is back, but key not working....
+---FEED-SEPARATOR---
 UEFA CL - Matchday 1: 
 Multiplex & Highlights
 Eutelsat 7B/7C @ 7.0°E
