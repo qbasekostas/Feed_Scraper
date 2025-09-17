@@ -9,6 +9,17 @@ DVB-S2-
 ID: GVA_Fi06
 CW: D5 CE 30 D3 B0 BB F6 61
 ---FEED-SEPARATOR---
+UEFA Champions League - Matchday 1
+Slavia Prague vs. Bodø/Glimt
+Eutelsat 16A @ 16.0°E
+11106 - H - 7200 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: CZE-012 - 1
+FTA 
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0E )
 11546 - Vertical - 14400
 DVB-S2 - 4.2.2 - 1920*1080 16:9
