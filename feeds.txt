@@ -23,6 +23,14 @@ DVB-S2 - 1080P - 8PSK
 ID:   OTE 2 (OTE)
 CW: AC 13 23 E2 DF BC 12 AD
 ---FEED-SEPARATOR---
+Friendly Match - China W vs Club Joventut Badalona W
+100.5°E
+3747 H 7200
+ID : U23-B
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 20 24 06 4A 07 CC CC 9F
+---FEED-SEPARATOR---
 FIBA Intercontinental Cup 2025 (test feed)
 100.5°E
 3927 V 7200
