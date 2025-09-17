@@ -1,3 +1,47 @@
+ASTRA 
+28.2°E
+12726 H 7200
+ DVB-S2
+1920x1080i 4:2:0
+ID: D-437
+CW: 17 09 AC CC DC 10 10 FC
+3rd Bundesliga
+Hansa Rostock vs. 1860 Muenchen
+Kickoff 1700 UTC
+---FEED-SEPARATOR---
+ASTRA 
+28.2°E
+12591 V 7200
+ DVB-S2
+1920x1080i 4:2:0
+ID: D-167
+CW: 17 09 AC CC DC 10 14 00
+3rd Bundesliga
+Waldhof Mannheim vs. Stuttgart II
+Kickoff 1700 UTC
+---FEED-SEPARATOR---
+ASTRA 
+28.2°E
+12643 H 7200
+ DVB-S2
+1920x1080i 4:2:0
+ID: DMC Essen 3 Liga
+CW: 17 09 AC CC DC 10 13 FF
+3rd Bundesliga
+Rot Weiss Essen vs. VfL Osnabrueck
+Kickoff 1700 UTC
+---FEED-SEPARATOR---
+ASTRA 
+28.2°E
+12625 H 7200
+ DVB-S2
+1920x1080i 4:2:0
+ID: D-473
+CW: 17 09 AC CC DC 10 11 FD
+3rd Bundesliga
+Energie Cottbus vs. Erzgebirge Aue
+Kickoff 1700 UTC
+---FEED-SEPARATOR---
 BUNDESLIGA SHOW
 7°E
 11018 
@@ -24,6 +68,29 @@ Eutelsat 7B/7C (7.0E )
 11546 - Vertical - 14400
 DVB-S2 - 4.2.2 - 1920*1080 16:9
 Name : E393 PATCh 1
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 1
+about: Liverpool vs. Atlético Madrid 
+(BeIN MENA Reporter Feed)
+Eutelsat 7B/7C @ 7.0°E
+11515 - V - 6666 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Uki-1852 C1
+CW: CC 17 D3 B6 42 E8 85 AE
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 1
+about: Newcastle United vs. Barcelona
+Eutelsat 7B/7C @ 7.0°E
+11543 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: teste1
+CW: A1 12 12 C5 B4 1D 34 05
 ---FEED-SEPARATOR---
 Europe UEFA Youth League, Round 1
 Olympiacos U19 vs Pafos FC U19
