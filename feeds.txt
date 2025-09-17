@@ -65,6 +65,14 @@ DVB-S2 - 8PSK -1080P
 ID:  BT_SES_24_SDI (SES)
 CW: 22 24 CD 13 DC 22 42 40
 ---FEED-SEPARATOR---
+3.1E
+10980 H 7500  
+4.2.0
+DVBS-2 8PSK
+ID: PSG  ATALANTA
+UEFA Champions League - Matchday 1
+PSG vs  ATALANTA
+---FEED-SEPARATOR---
 UEFA Champions League - Matchday 1
 Slavia Prague vs. Bodø/Glimt
 Eutelsat 16A @ 16.0°E
@@ -80,6 +88,38 @@ Eutelsat 7B/7C (7.0E )
 11546 - Vertical - 14400
 DVB-S2 - 4.2.2 - 1920*1080 16:9
 Name : E393 PATCh 1
+---FEED-SEPARATOR---
+Red Devils said:
+UEFA Champions League - Matchday 1
+Bayern Munich - Chelsea
+Eutelsat 3.1E
+10960 H 7500
+ID: bin SPORTS
+10970 H 7500
+ID: Service 01
+CW: BC 4C D1 D9 28 72 CF 69
+Click to expand...
+no good 4 me
+---FEED-SEPARATOR---
+UEFA CL - Matchday 1: 
+Multiplex & Highlights
+Eutelsat 7B/7C @ 7.0°E
+10985 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi01
+CW: F7 86 19 96 F8 A9 0F B0
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 1
+Bayern Munich - Chelsea
+Eutelsat 3.1E
+10960 H 7500
+ID: bin SPORTS
+10970 H 7500
+ID: Service 01
+CW: BC 4C D1 D9 28 72 CF 69
 ---FEED-SEPARATOR---
 Dani Sat said:
 UEFA Champions League - Matchday 1
