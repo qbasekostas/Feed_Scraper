@@ -39,6 +39,32 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: CC A1 A4 11 2B 51 BA 36
 ---FEED-SEPARATOR---
+Greek Cup - 1st Round
+Panathinaikos v Kallithea
+ ST: 15:30
+7°E
+12547 
+H 
+9600
+DVB-S2-
+4:2:0
+-8PSK
+ID:SNG ABC 1
+CW: 44 BB 44 43 CC 88 AA FE
+---FEED-SEPARATOR---
+Greek Cup - 1st Round
+Levadiakos v PAOK Thessaloniki
+ ST: 15:30
+7°E
+12653 
+V  
+9700
+DVB-S2-
+4:2:0
+-8PSK
+ID: SNG ATLAS-SAT1
+CW: 22 BB 30 0D 40 CC 44 50
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0E )
 12644 - Horizontal - 9700
 Name : TANDBERG
