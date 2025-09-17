@@ -38,3 +38,40 @@ ID : FIBA ICC 2025
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: CC A1 A4 11 2B 51 BA 36
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E )
+12644 - Horizontal - 9700
+Name : TANDBERG
+CW :  AA BB AA 0F CC 55 44 65
+Greek Football Cup 
+AO Egaleo VS AEK Athens
+​
+---FEED-SEPARATOR---
+omid1348 said:
+			7E
+12654 V 9700
+4.2.2
+ID: OTE 2
+Greek Football Cup
+A.E. Kifisia F.C. - Asteras Tripolis F.C.
+CW: AC 13 23 E2 DF BC 12 AD
+Click to expand...
+uefa yout
+Olympiacos Piraeus U19
+Pafos U19
+---FEED-SEPARATOR---
+7E
+12654 V 9700
+4.2.2
+ID: OTE 2
+Greek Football Cup
+A.E. Kifisia F.C. - Asteras Tripolis F.C.
+CW: AC 13 23 E2 DF BC 12 AD
+---FEED-SEPARATOR---
+Greek Cup
+League phase - Matchday 1
+Panetolikos vs Aris
+16e
+11061 H 9700
+ID: AVP_OU_A
+CW: AB 21 24 F0 AB AB 22 78
