@@ -53,6 +53,18 @@ DVB-S2-
 ID: GVA_Fi06
 CW: D5 CE 30 D3 B0 BB F6 61
 ---FEED-SEPARATOR---
+English League Cup
+Swansea
+Vs
+N Forest
+100.5°E C
+@ AsiaSat 5 
+3975 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  BT_SES_24_SDI (SES)
+CW: 22 24 CD 13 DC 22 42 40
+---FEED-SEPARATOR---
 UEFA Champions League - Matchday 1
 Slavia Prague vs. Bodø/Glimt
 Eutelsat 16A @ 16.0°E
@@ -69,6 +81,7 @@ Eutelsat 7B/7C (7.0E )
 DVB-S2 - 4.2.2 - 1920*1080 16:9
 Name : E393 PATCh 1
 ---FEED-SEPARATOR---
+Dani Sat said:
 UEFA Champions League - Matchday 1
 about: Liverpool vs. Atlético Madrid 
 (BeIN MENA Reporter Feed)
@@ -79,7 +92,23 @@ Eutelsat 7B/7C @ 7.0°E
  | H.264
 1920*1080 | DVB-S2 | 8PSK
 ID: Uki-1852 C1
-CW: CC 17 D3 B6 42 E8 85 AE
+CW: CC 17 D3 B6 4
+1
+ E8 85 AE
+Click to expand...
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 1
+Liverpool vs. Atlético Madrid
+Eutelsat 7B/7C @ 7.0°E
+11552 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UKI-1955-1
+CW: 12 34 5A A0 20 25 08 4D
+NEW
+CW: AA BB 11 76 22 CC DA C8
 ---FEED-SEPARATOR---
 UEFA Champions League - Matchday 1
 about: Newcastle United vs. Barcelona
