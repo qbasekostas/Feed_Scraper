@@ -1,3 +1,11 @@
+10E
+11305 V 7200
+4.2.0
+ID: SINTRA 1 MN
+UEFA Youth League
+Sporting C.P. under-19 - FC Kairat Almaty under-19
+CW: C1 5E D5 F4 6A B3 F7 14
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11010 Vertical 9874,656
 DVB-S2 - 4:2:0 - 8PSK
