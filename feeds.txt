@@ -1,3 +1,12 @@
+Intelsat 10-02 ( 1.0W )
+11499 Vertical 7198,519
+DVB-S2 - 4:2:0 - 8PSK
+ID: (empty)
+Event:  
+about
+    Champions League,Newcastle United v Barcelona
+CW: D8 D5 D0 7D FE 2B E1 0A
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event:  
 about
