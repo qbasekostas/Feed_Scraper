@@ -6,6 +6,15 @@ ID: TUR_128
 Fomget (TUR) - Sarajevo (BIH)
 FTA
 ---FEED-SEPARATOR---
+UEFA Champions League, Round 1
+Newcastle United vs Barcelona
+Eutelsat 7B/7C @ 7.0E
+11542 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: teste1
+CW: 11 AA B1 6C 3A 32 1B 87
+---FEED-SEPARATOR---
 About Champions League -
 Newcastle United vs Barcelona
 7.0E
@@ -64,3 +73,24 @@ ID:  Fi14_GNVE
 Event:  
 UEFA Youth League, Manchester City U-19 v Napoli U-19
 CW: 27 35 3E 9A 4B A9 E9 DD
+---FEED-SEPARATOR---
+(
+About
+) UEFA Champions League
+Man City vs Napoli
+3.1E
+10978 H 7500
+DVB-S2 4:2:0 8PSK
+ID: HD Coder 1
+CW: B5 3F C4 B8 99 6C 2F 34
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12523 Horizontal 4799,021
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:   CZE 046
+Provider Name: CTV
+Event:  
+ Euroleague Women, Zabiny Brno  - Zaragoza
+FTA/CLEAR
