@@ -1,0 +1,7 @@
+Eutelsat 7A/B   ( 7.0E )
+11010 Vertical 9874,656
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Fi14_GNVE
+Event:  
+UEFA Youth League, Manchester City U-19 v Napoli U-19
+CW: 27 35 3E 9A 4B A9 E9 DD
