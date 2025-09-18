@@ -1,3 +1,29 @@
+Ratzvan said:
+			Event:  
+about
+    Champions League,Club Brugge v Monaco
+CW: 76 52 BA 82 CD 20 00 ED
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11185 Horizontal 17136,132
+DVB-S2 - 
+4:2:2
+ - 
+16APSK
+ID: HOL-318 M02 MAIN 2
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11168 Horizontal 17136,185
+DVB-S2 - 
+4:2:2
+ - 
+16APSK
+ID:HOL-318 M02 MAIN
+Event:  
+about
+    Champions League,Club Brugge v Monaco
+CW: 76 52 BA 82 CD 20 00 ED
+---FEED-SEPARATOR---
 10E
 11305 V 7200
 4.2.0
