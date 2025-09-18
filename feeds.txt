@@ -83,6 +83,14 @@ Event:
 UEFA Youth League, Manchester City U-19 v Napoli U-19
 CW: 27 35 3E 9A 4B A9 E9 DD
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C( 7.0E)
+11103 - Vertical - 9875
+Name : GVA_Fi01
+DVB-S2  - 8PSK 
+4:2:2
+CW : C2 A1 44 A7 47 48 5F EE 
+Match day Highlights 
+---FEED-SEPARATOR---
 (
 About
 ) UEFA Champions League
