@@ -8,6 +8,19 @@ Event:
      Bundesliga, Stuttgart v St Pauli
 CW: CE 9A C2 2A E9 64 0B 58
 ---FEED-SEPARATOR---
+German 1. Bundesliga - Week 4
+Stuttgart v St Pauli
+ ST: 19:30
+16°E
+10980 
+H
+ 3600
+DVB-S2-
+4:2:0-
+8PSK
+ID: F6-2 4.5MH
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 Astra 2E/2F/2G  ( 28.2E )
 12624 Horizontal 7198,52
 DVB-S2 - 4:2:0 - 8PSK
@@ -52,12 +65,41 @@ ID: OVERON 1
 CW: 03 FB F7 F5 F4 6D D2 33
 ---FEED-SEPARATOR---
 16E
+12705 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship - Week 7
+St Johnstone v Dunfermline Athletic
+---FEED-SEPARATOR---
+16E
+12712 V 2000 
+4:2:0
+DVB-S2 16APSK
+ID: Service 01
+Scottish Championship - Week 7
+St Johnstone v Dunfermline Athletic
+---FEED-SEPARATOR---
+16E
 12692 V 10000 
 4:2:0
 DVB-S2 16APSK
 ID: Uki-1592
 Scottish Championship - Week 7
 St Johnstone v Dunfermline Athletic
+---FEED-SEPARATOR---
+English Championship - Week 6
+Middlesbrough vs. West Bromwich Albion 
+Eutelsat 7B/7C @ 7.0°E
+12677 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Middlesbrough v Westb
+HBO said:
+CW: 83 84 AD B4 32 26 AD 05
+Click to expand...
 ---FEED-SEPARATOR---
 English Womens Super League - Week 3
 Everton vs. London City
