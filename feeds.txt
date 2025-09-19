@@ -1,0 +1,6 @@
+Eutelsat 7A/B   ( 7.0E )
+10961 Horizontal 9872,818
+DVB-S2 - 4:2:0 - 8PSK
+ID:Fi14_GNVE
+Event:       
+CW: 4C B5 2D 2E 6F 3A 81 2A
