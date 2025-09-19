@@ -13,3 +13,5 @@ ID:Fi14_GNVE
 Event:  
   Women’s Champions League Draw
 CW: 4C B5 2D 2E 6F 3A 81 2A
+NEW
+CW: 82 3E 8D 4D 30 F8 8D B5
