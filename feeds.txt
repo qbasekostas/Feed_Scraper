@@ -88,6 +88,17 @@ ID: Uki-1592
 Scottish Championship - Week 7
 St Johnstone v Dunfermline Athletic
 ---FEED-SEPARATOR---
+Scottish Championship - Week 7
+St Johnstone vs. Dunfermline Athletic
+Eutelsat 10B @ 10.0°E
+11270 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 3
+CW: E2 3C BF DD EE 45 4D 80
+---FEED-SEPARATOR---
 English Championship - Week 6
 Middlesbrough vs. West Bromwich Albion 
 Eutelsat 7B/7C @ 7.0°E
