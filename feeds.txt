@@ -51,6 +51,14 @@ DVB-S2 - 1080P - 8PSK
 ID: OVERON 1
 CW: 03 FB F7 F5 F4 6D D2 33
 ---FEED-SEPARATOR---
+16E
+12692 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship - Week 7
+St Johnstone v Dunfermline Athletic
+---FEED-SEPARATOR---
 English Womens Super League - Week 3
 Everton vs. London City
 Intelsat 10-02 @ 1.0°W
