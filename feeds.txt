@@ -8,6 +8,22 @@ Event:
      Bundesliga, Stuttgart v St Pauli
 CW: CE 9A C2 2A E9 64 0B 58
 ---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
+12624 Horizontal 7198,52
+DVB-S2 - 4:2:0 - 8PSK
+ID:  D-528
+Event:  
+   3. Liga, Saarbrücken v Schweinfurt
+CW: 19 09 AC CE DC 10 10 FC
+---FEED-SEPARATOR---
+Frauen-Bundesliga
+Freiburg vs Hamburger SV
+3.1E
+12726 H 9875
+DVB-S2 4:2:0 8PSK
+ID: FFBL Freiburg
+CW: 19 09 AC CE DC 20 25 21
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
