@@ -1,3 +1,13 @@
+Eutelsat 7A/B   ( 7.0E )
+11022 Vertical 9874,644
+DVB-S2 -
+ 4:2:2
+ - 8PSK
+ID: GVA_Fi03
+Event:  
+     Bundesliga, Stuttgart v St Pauli
+CW: CE 9A C2 2A E9 64 0B 58
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
