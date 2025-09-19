@@ -51,6 +51,17 @@ DVB-S2 - 1080P - 8PSK
 ID: OVERON 1
 CW: 03 FB F7 F5 F4 6D D2 33
 ---FEED-SEPARATOR---
+English Womens Super League - Week 3
+Everton vs. London City
+Intelsat 10-02 @ 1.0°W
+10978 - V - 10000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Sky Satt DR Vivid Studios
+CW: 12 34 5A A0 20 25 09 4E
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3995 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
