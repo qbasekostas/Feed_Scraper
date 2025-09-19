@@ -1,3 +1,22 @@
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID:OLIGA HYPERMOTION 1
+LaLiga 
+ Deportivo La Coruna vs Huesca
+CW: 83 95 69 81 DE 92 FB 6B
+---FEED-SEPARATOR---
+Albahraniy said:
+LALIGA
+CW: 03 FB F7 F5 F4 6D D2 33
+Click to expand...
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 1
+LaLiga
+ Real Betis vs Real Sociedad
+---FEED-SEPARATOR---
 LALIGA
 Asiasat 5 (100.5°E) C BAND
 3840 H 30000
