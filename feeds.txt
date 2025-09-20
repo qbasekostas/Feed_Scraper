@@ -1,3 +1,14 @@
+Abo Saeid Satellite said:
+Event :GermanyBundesliga - Round 4
+Teams :RB Leipzig 
+ FC Koln
+Click to expand...
+16.0E
+10980 H 3600
+4.2.0 HD
+ID: Fal7 Enc2
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 Event :GermanyBundesliga - Round 4
 Teams :RB Leipzig 
  FC Koln
@@ -122,6 +133,15 @@ MPEG4-
 16.091
  Mbit/Sec|8PSK DVB-S2 HD
 CW: BC 04 20 E0 25 20 09 4E
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 2
+ LALIGA EA SPORTS Matchday 5
+Deportivo Alaves vs Sevilla
+found CW: 
+52 11 12 75 77 34 CB 76
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
@@ -272,3 +292,10 @@ PAOK B vs Anagennisi Karditsas
 11017 V 7200
 ID: PAOK-KARD V BUL007 Main
 FTA
+---FEED-SEPARATOR---
+Greek Super League 1
+Panserraikos vs Atromitos
+39e
+11007 V 7200
+ID: E73 MAIN
+CW: E8 7A 9D FF D2 F7 4A 13
