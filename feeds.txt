@@ -28,11 +28,3 @@ ID: OVERON 2
 LaLiga
 Girona FC - Levante UD
 CW: D0 E4 BD 71 7A 6A 80 64
----FEED-SEPARATOR---
-10E
-10732 V 34000
-4.2.2
-ID: OVERON 1
-LaLiga
-Real Madrid CF - RCD Espanyol de Barcelona
-CW: 60 FB EB 41 00 40 04 44
