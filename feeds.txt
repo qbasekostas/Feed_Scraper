@@ -98,6 +98,21 @@ MPEG4-
  Mbit/Sec|8PSK DVB-S2 HD
 CW: BC 04 20 E0 25 20 09 4E
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,96Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 5
+Teams: Real Madrid vs RCD Espanyol
+Time / Kickoff: 21.15 JKT-TH / 22.15 MY-SG / 14.15 GMT / 16.15 CET
+FaDeL® said:
+CW: 60 F6 EB 41 00 40 04 44
+Click to expand...
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3895 H 7500
 IID : OVERON 5
