@@ -362,6 +362,13 @@ ID: PAOK-KARD V BUL007 Main
 FTA
 ---FEED-SEPARATOR---
 Greek Super League 1
+PAOK vs Panetolikos
+7e
+12564 H 7200
+ID: PAOK VS PANETOLIKOS M
+CW: 8A 75 14 13 A5 3A 22 01
+---FEED-SEPARATOR---
+Greek Super League 1
 Panserraikos vs Atromitos
 39e
 11007 V 7200
