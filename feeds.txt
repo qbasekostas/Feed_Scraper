@@ -183,6 +183,14 @@ LaLiga
 Girona FC - Levante UD
 CW: D0 E4 BD 71 7A 6A 80 64
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11580 Vertical 7119,75
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch EFL - Sheffield Utd v Charlton Athletic
+Event:  
+English Championship - Sheffield United v Charlton Athletic
+CW: 92 00 EF 81 32 26 6A C2
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3995 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
