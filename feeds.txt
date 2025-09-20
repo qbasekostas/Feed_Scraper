@@ -153,3 +153,10 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_24_SDI
 CW: 29 03 BE EA 34 15 66 AF
+---FEED-SEPARATOR---
+Greek Super League 2
+PAOK B vs Anagennisi Karditsas
+39e
+11017 V 7200
+ID: PAOK-KARD V BUL007 Main
+FTA
