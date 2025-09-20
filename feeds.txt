@@ -292,6 +292,17 @@ LaLiga
 Girona FC - Levante UD
 CW: D0 E4 BD 71 7A 6A 80 64
 ---FEED-SEPARATOR---
+Scottish League Cup - Quarter Final
+Rangers vs. Hibernian
+Eutelsat 10B @ 10.0°E
+11270 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 3
+CW: DF CC 45 F0 22 EC BB C9
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11580 Vertical 7119,75
 DVB-S2 - 4:2:0 - 8PSK
