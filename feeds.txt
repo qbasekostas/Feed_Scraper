@@ -1,3 +1,28 @@
+Event :GermanyBundesliga - Round 4
+Teams :RB Leipzig 
+ FC Koln
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11009 V 9875
+   D-571_2 1.BL SVW (VAHLAND TV)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+22.091
+ Mbit/Sec|8PSK DVB-S2 HD
+11 D3 4D DF 28 ED 7D EF  
+CW: 3F D8 77 8E F2 9E 2B BB
+---FEED-SEPARATOR---
+ASTRA 
+28.2°E
+12704 V 7200 
+DVB-S2
+1920x1080i 4:2:0
+ID: 3BL 1860
+CW: 20 09 AC D5 DC 10 16 02
+3rd Bundesliga
+TSV 1860 Munich vs. 1899 Hoffenheim II
+---FEED-SEPARATOR---
 Germany Amateur, Bundesliga, Women
 Bayern Munich W vs Jena W
 16.0E
