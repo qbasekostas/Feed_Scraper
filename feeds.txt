@@ -1,3 +1,25 @@
+ASTRA 
+28.2°E
+12633 V 7200 
+DVB-S2
+1920x1080i 4:2:0
+ID: D-361
+CW: 20 09 AC D5 DC 10 13 FF
+3rd Bundesliga
+VfB Stuttgart II vs. Viktoria Cologne
+Kickoff: 1200 UTC
+---FEED-SEPARATOR---
+ASTRA 
+28.2°E
+12592 V 7200
+ DVB-S2
+1920x1080i 4:2:0
+ID: D-561 3L Aachen-Mannheim Path1
+CW: 20 09 AC D5 DC 10 10 FC
+3rd Bundesliga
+Alemannia Aachen vs. Waldhof Mannheim
+Kickoff: 1200 UTC
+---FEED-SEPARATOR---
 Tripod said:
 			ASTRA 
 28.2°E
@@ -54,6 +76,37 @@ FC Union Berlin vs. SGS Essen-Schonebeck 19/68
 10 EC BD 91 6B 48 A9 6B  #CW:20 09 AC D5 DC 22 25 23  
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
+Fréq:10767 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR RUSIA 2
+Real Madrid Vs Espanyol
+found CW: 
+E0 32 EF 01 34 94 C3 8B 
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10767 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR AFRICA 1
+Real Madrid Vs Espanyol
+found CW: 
+1D 73 63 F3 5C A6 26 28
+---FEED-SEPARATOR---
+LaLiga 2
+Cultural Leonesa vs Castellón
+10.0E
+10768 V 34000
+4.2.0 HD
+ID:LIGA HYPERMOTION 1
+CW: 57 64 C9 84 5E 22 BE 3E
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10767 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:   SUPPONOR EASTERN 1
+Real Madrid Vs Espanyol
+CW: F8 13 B6 C1 32 57 B5 3E
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
 ID:OVERON 1
@@ -83,3 +136,20 @@ ID: OVERON 2
 LaLiga
 Girona FC - Levante UD
 CW: D0 E4 BD 71 7A 6A 80 64
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12726 Vertical 7118,439
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch EFL - Leicester City v Coventry City
+Event:  
+English Championship - Leicester City v Coventry City
+CW: 29 03 BE EA 34 15 66 AF
+---FEED-SEPARATOR---
+Event:
+English Championship - Leicester City v Coventry City
+Asiasat 5 (100.5°E) C BAND
+3933 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_24_SDI
+CW: 29 03 BE EA 34 15 66 AF
