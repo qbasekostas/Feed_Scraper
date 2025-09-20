@@ -98,6 +98,13 @@ MPEG4-
  Mbit/Sec|8PSK DVB-S2 HD
 CW: BC 04 20 E0 25 20 09 4E
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3895 H 7500
+IID : OVERON 5
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+E3 8B A1 05 DE E5 63 16  #CW:AD BF 7F EB 33 A1 F2 C6
+Real Madrid Vs Espanyol
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 2 
@@ -175,6 +182,24 @@ ID: OVERON 2
 LaLiga
 Girona FC - Levante UD
 CW: D0 E4 BD 71 7A 6A 80 64
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3995 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 92 00 EF 81 32 26 6A C2
+Sheffield Utd vs Charlton
+---FEED-SEPARATOR---
+Premier League 2025/26 (Wk5)
+Brighton  vs Tottenham Hotspur
+3.1°E
+10960 H 7500
+4.2.0 HD
+ID: beIN sports 
+____
+10969 H 7500
+ID: Service-1
+CW: BC 4C D1 D9 28 72 CF 69
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12726 Vertical 7118,439
