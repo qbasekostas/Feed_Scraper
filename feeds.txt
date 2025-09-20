@@ -1,3 +1,12 @@
+Germany Amateur, Bundesliga, Women
+Bayern Munich W vs Jena W
+16.0E
+10997 V 9875
+4.2.0 HD
+ID: FFBL FC Bayern
+ new 
+CW: 20 09 AC D5 DC 21 25 22
+---FEED-SEPARATOR---
 ASTRA 
 28.2°E
 12633 V 7200 
@@ -74,6 +83,36 @@ ID:    FFBL Union Berlin (Adtec Digital)
 Germany Amateur, Bundesliga, Women
 FC Union Berlin vs. SGS Essen-Schonebeck 19/68
 10 EC BD 91 6B 48 A9 6B  #CW:20 09 AC D5 DC 22 25 23  
+---FEED-SEPARATOR---
+Event :ItalySerie B - Round 4
+Teams :Spezia 
+ Juve Stabia
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12523 V 7500
+   SPEZIA (ITA 570)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+16.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: BC 04 20 E0 25 20 09 4E
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,96Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 5
+Teams: Girona FC vs Levante UD
+Time / Kickoff: 19.00 JKT-TH / 20.00 MY-SG / 12.00 GMT / 14.00 CET
+omid1348 said:
+#CW:
+D0 E4 BD 71 7A 6A 80 64
+Click to expand...
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10767 - V - 34000
