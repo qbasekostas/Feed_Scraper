@@ -1,3 +1,10 @@
+19.2E
+11620 V 7200
+4.2.0
+ID: D535_Duisburg
+Liga III
+CW: 20 09 AC D5 DC 19 90 85
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 4
 RB Leipzig vs. FC Cologne
 Eutelsat 7B/7C @ 7.0°E
@@ -144,6 +151,37 @@ MPEG4-
 16.091
  Mbit/Sec|8PSK DVB-S2 HD
 CW: BC 04 20 E0 25 20 09 4E
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,14Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 5
+Teams: Villarreal CF vs CA Osasuna
+Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 18.30 CET
+omid1348 said:
+CW: 79 53 D1 9D B7 53 BD C7
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,77Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 5
+Teams: Deportivo Alavés vs Sevilla FC
+Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 18.30 CET
+FaDeL® said:
+#CW:
+52 11 12 75 77 34 CB 76
+Click to expand...
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
