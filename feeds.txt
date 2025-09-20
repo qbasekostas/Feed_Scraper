@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 4
+RB Leipzig vs. FC Cologne
+Eutelsat 7B/7C @ 7.0°E
+11018 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi05
+CW: 3F D8 77 8E F2 9E 2B BB
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event :GermanyBundesliga - Round 4
 Teams :RB Leipzig 
