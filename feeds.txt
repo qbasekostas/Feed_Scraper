@@ -1,3 +1,50 @@
+Tripod said:
+			ASTRA 
+28.2°E
+12611 V 7200
+ DVB-S2
+1920x1080i 4:2:0
+ID: D-437
+CW: 20 09 AC CF DC 10 11 FD
+3rd Bundesliga
+FC Ingolstadt 04 vs. SV Wehen Wiesbaden
+Kickoff: 1200 UTC
+Click to expand...
+new CW: 
+20 09 AC D5 DC 10 11 FD
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12625  Horizontal  7201,801
+ID:  MD07 TV05 Aspach (D-560)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Germany, 3. Liga
+Rot-Weiss Essen
+vs. 
+Hansa Rostock
+CW: 20 09 AC D5 DC 10 14 00
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12581  Vertical  7203,922
+ID:    D-322 TX1 (none)
+1920x1080 |16,055Mb/Sec |8PSK |4:2:0 HD
+Germany, 3. Liga
+VfL 1899 Osnabruck
+ vs. 
+Erzgebirge Aue
+​
+CW: 20 09 AC D5 DC 10 15 01
+---FEED-SEPARATOR---
+ASTRA 
+28.2°E
+12611 V 7200
+ DVB-S2
+1920x1080i 4:2:0
+ID: D-437
+CW: 20 09 AC CF DC 10 11 FD
+3rd Bundesliga
+FC Ingolstadt 04 vs. SV Wehen Wiesbaden
+Kickoff: 1200 UTC
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11105  Horizontal  9874,854
 ID:    FFBL Union Berlin (Adtec Digital)
