@@ -334,6 +334,24 @@ Event:
  German Cup, Giessen  -Vechta
 CW: 21 09 DC 06 BA 20 25 FF
 ---FEED-SEPARATOR---
+Eutelsat 7E
+12564 7200 H
+PAO-OSFP
+CW: 49 A3 40 2C 61 66 84 4B
+---FEED-SEPARATOR---
+Greek Super League 1 - Week 4
+Panathinaikos v Olympiacos
+ ST: 19:00
+7°E
+12564 
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:  PAO VS OLYMPIACOS M
+CW: 49 A3 40 2C 61 66 84 4B
+---FEED-SEPARATOR---
 Hellas Sat 3/4 ( 39.0E )
 11017 Vertical 7198,416
 DVB-S2 - 4:2:0 - 8PSK
