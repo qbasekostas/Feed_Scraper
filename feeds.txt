@@ -1,3 +1,13 @@
+Eutelsat 16A @ 16.0E
+10976  Horizontal  3600,945
+ID: Fal1 Enc2  (SkyGer    )
+1920x1080 |8,924Mb/Sec |8PSK |4:2:0 HD
+Germany, 2nd Bundesliga
+Dynamo Dresden
+ vs. 
+Hannover 96
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.2
