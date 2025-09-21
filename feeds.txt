@@ -178,6 +178,17 @@ SCOTTISH LEAGUE CUP QUARTERFINAL
 PARTICK THISTLE vs CELTIC
 ko 16:30 CET
 ---FEED-SEPARATOR---
+Scottish League Cup - Quarter Final
+Partick Thistle vs. Celtic
+Eutelsat 10B @ 10.0°E
+11270 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 3
+CW: 14 5A CD 3B BB B2 A2 0F
+---FEED-SEPARATOR---
 English Womens Super League - Week 3
 -Brighton H.A. vs. West Ham United
 -Aston Villa vs. Liverpool 
@@ -224,3 +235,14 @@ ID: Enc1_Giessen
 Event:  
  German Cup, Giessen  -Vechta
 CW: 21 09 DC 06 BA 20 25 FF
+---FEED-SEPARATOR---
+Greek Super League 1 - Week 4
+AEL Larissa vs. AEK Athens
+Eutelsat 7B/7C @ 7.0°E
+12564 - H - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID:  SNG ABC 1
+CW: A0 B3 26 79 40 04 91 D5
