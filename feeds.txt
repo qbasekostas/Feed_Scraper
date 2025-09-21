@@ -28,6 +28,23 @@ LaLiga
 RCD Mallorca - Atlético de Madrid
 CW: 16 87 7F 1C D0 18 40 28
 ---FEED-SEPARATOR---
+English Womens Super League - Week 3
+Brighton H.A. vs. West Ham United
+Intelsat 10-02 @ 1.0°W
+10978 - V - 10000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SKY DR Vivid studios 2
+10990 - V - 10000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Sky Satt DR Vivid Studios
+CW: 12 34 5A A0 20 25 09 4E
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11579 Vertical 7118,444
 DVB-S2 - 4:2:0 - 8PSK
