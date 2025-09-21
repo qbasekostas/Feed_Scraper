@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 4
+Bayer Leverkusen vs. Mönchengladbach
+Eutelsat 7B/7C @ 7.0°E
+11093 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi04
+CW: 17 D4 CF BA 60 96 F2 E8
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11105 Horizontal 9874,663
 DVB-S2 - 
@@ -117,6 +128,15 @@ LaLiga
 RCD Mallorca - Atlético de Madrid
 CW: 16 87 7F 1C D0 18 40 28
 ---FEED-SEPARATOR---
+16E
+12557 H 7200 420 HD H.264 FTA
+ID: PARTICKvCELTIC-W
+12566 H 7200 420 HD H.264 FTA 
+ID: PARTICKvCELTIC-P
+SCOTTISH LEAGUE CUP QUARTERFINAL
+PARTICK THISTLE vs CELTIC
+ko 16:30 CET
+---FEED-SEPARATOR---
 English Womens Super League - Week 3
 -Brighton H.A. vs. West Ham United
 -Aston Villa vs. Liverpool 
@@ -152,3 +172,14 @@ ID:BT_SES_24_SDI
 Event: 
 English Championship Highlights
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12645 Horizontal 7198,394
+DVB-S2 - 
+4:2:2 
+-
+ 8PSK
+ID: Enc1_Giessen
+Event:  
+ German Cup, Giessen  -Vechta
+CW: 21 09 DC 06 BA 20 25 FF
