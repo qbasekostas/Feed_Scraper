@@ -9,15 +9,15 @@ Hannover 96
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
 100.5E
-3840 V 30000
+3840 H 30000
 4.2.2
 ID: OVERON 3
 LaLiga
-Elche vs R. Oviedo and Barcelona vs Getafe
 CW : 41 0B E3 2F FD EB B2 9A
 ID: OVERON 4
 LaLiga
 CW : 39 55 22 B0 0F 60 9F 0E
+LaLiga Elche vs R. Oviedo and Barcelona vs Getafe
 ---FEED-SEPARATOR---
 10E
 10732 V 34000
@@ -50,7 +50,9 @@ RCD Mallorca - Atlético de Madrid
 CW: 16 87 7F 1C D0 18 40 28
 ---FEED-SEPARATOR---
 English Womens Super League - Week 3
-Brighton H.A. vs. West Ham United
+-Brighton H.A. vs. West Ham United
+-Aston Villa vs. Liverpool 
+(Postponed)
 Intelsat 10-02 @ 1.0°W
 10978 - V - 10000 
 |
