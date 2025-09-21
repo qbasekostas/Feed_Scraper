@@ -1,4 +1,14 @@
 Eutelsat 16A @ 16.0E
+11105  Horizontal  9874,854
+ID:    FFBL Bremen-Hoffenhe (Adtec Digital)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+Germany Amateur, Bundesliga, Women 
+Werder Bremen
+ vs. 
+TSG Hoffenheim
+CW: 21 09 AC D6 DC 29 25 2A
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
 10976  Horizontal  3600,945
 ID: Fal1 Enc2  (SkyGer    )
 1920x1080 |8,924Mb/Sec |8PSK |4:2:0 HD
@@ -7,6 +17,21 @@ Dynamo Dresden
  vs. 
 Hannover 96
 CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,30Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 5
+Teams: Rayo Vallecano vs Celta Vigo
+Time / Kickoff: 19.00 JKT-TH / 20.00 MY-SG / 12.00 GMT / 14.00 CET
+omid1348 said:
+CW: 4B 03 AA F8 97 47 A6 84
+Click to expand...
 ---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 6
 Córdoba vs. Racing Santander
