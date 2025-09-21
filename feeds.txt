@@ -8,6 +8,39 @@ Dynamo Dresden
 Hannover 96
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Spanish La Liga 2 - Matchday 6
+Córdoba vs. Racing Santander
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 21 C5 42 28 B8 83 D3 0E
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 5
+Barcelona vs. Getafe
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR RUSIA 1
+CW: 31 ED 1B 39 7F 88 73 7A
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 5
+Mallorca vs. Atlético Madrid
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR EASTERN 1
+CW: 27 3E 78 DD B5 DA 23 B2
+---FEED-SEPARATOR---
 100.5E
 3840 H 30000
 4.2.2
