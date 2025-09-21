@@ -1,3 +1,13 @@
+Eutelsat 7A/B   ( 7.0E )
+11105 Horizontal 9874,663
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: GVA_Fi03
+Event:  
+     Bundesliga, Eintracht Frankfurt v Union Berlin
+CW: 51 3E 35 C4 2E 89 06 BD
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11105  Horizontal  9874,854
 ID:    FFBL Bremen-Hoffenhe (Adtec Digital)
