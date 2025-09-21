@@ -198,7 +198,8 @@ ID: SUPPONOR RUSIA 1
 CW: 31 ED 1B 39 7F 88 73 7A
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 5
-Mallorca vs. Atlético Madrid
+-Mallorca vs. Atlético Madrid
+-Barcelona vs. Getafe
 Eutelsat 10B @ 10.0°E
 10768 - V - 34000 
 |
