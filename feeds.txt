@@ -1,0 +1,10 @@
+Spanish La Liga 2 - Matchday 6
+Burgos vs. Granada
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 19 A5 6D 2B 46 FE 08 4C
