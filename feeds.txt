@@ -67,6 +67,22 @@ Event:
   Bundesliga Women, FC Nurnberg  Bayer Leverkusen   
 CW: 21 09 AC D6 DC 21 25 22
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,57Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 5
+Teams: Elche CF vs Real Oviedo
+Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 18.30 CET
+omid1348 said:
+#CW:
+4D A7 F8 EC A1 11 99 4B
+Click to expand...
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.2
