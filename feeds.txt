@@ -1,3 +1,11 @@
+Astra 2E/2F/2G  ( 28.2E )
+12704 Vertical 7198,421
+DVB-S2 - 4:2:0 - 8PSK
+ID: D-528
+Event:  
+3. Liga, Verl - Cottbus
+CW: 21 09 AC D6 DC 10 11 FD
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 4
 Bayer Leverkusen vs. Mönchengladbach
 Eutelsat 7B/7C @ 7.0°E
@@ -55,7 +63,8 @@ CW: 4B 03 AA F8 97 47 A6 84
 Click to expand...
 ---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 6
-Córdoba vs. Racing Santander
+- Ceuta vs. Real Zaragoza
+- Córdoba vs. Racing Santander
 Eutelsat 10B @ 10.0°E
 10768 - V - 34000 
 |
@@ -66,7 +75,7 @@ ID: LIGA HYPERMOTION 1
 CW: 21 C5 42 28 B8 83 D3 0E
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 5
-Barcelona vs. Getafe
+Mallorca vs. Atlético Madrid
 Eutelsat 10B @ 10.0°E
 10768 - V - 34000 
 |
