@@ -67,6 +67,14 @@ Event:
   Bundesliga Women, FC Nurnberg  Bayer Leverkusen   
 CW: 21 09 AC D6 DC 21 25 22
 ---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 2
+LaLiga
+Elche CF - Real Oviedo
+CW: 4D A7 F8 EC A1 11 99 4B
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
@@ -148,6 +156,7 @@ LaLiga Elche vs R. Oviedo and Barcelona vs Getafe
 4.2.2
 ID: SUPPONOR AFRICA 1
 LaLiga
+RCD Mallorca - Atlético de Madrid
 CW: 5B 7F D0 AA 72 55 4A 11
 ---FEED-SEPARATOR---
 10E
@@ -155,6 +164,7 @@ CW: 5B 7F D0 AA 72 55 4A 11
 4.2.2
 ID: SUPPONOR MENA 1
 LaLiga
+RCD Mallorca - Atlético de Madrid
 CW: B1 27 CE A6 A2 D5 82 F9
 ---FEED-SEPARATOR---
 10E
@@ -255,6 +265,14 @@ ID: Enc1_Giessen
 Event:  
  German Cup, Giessen  -Vechta
 CW: 21 09 DC 06 BA 20 25 FF
+---FEED-SEPARATOR---
+Hellas Sat 3/4 ( 39.0E )
+11017 Vertical 7198,416
+DVB-S2 - 4:2:0 - 8PSK
+ID: E394 BACKUP
+Event:  
+     Super League, Levadiakos - OFI Crete
+CW: 9F 32 AB 7C 11 C7 3F 17
 ---FEED-SEPARATOR---
 Greek Super League 1 - Week 4
 AEL Larissa vs. AEK Athens
