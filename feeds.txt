@@ -47,6 +47,23 @@ Dynamo Dresden
 Hannover 96
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
+12572 Vertical 7198,553
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Ulm
+Event:    
+ 3. Liga, 
+Ulm - Regensburg
+CW: 21 09 AC D6 DC 10 12 FE
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11105 Horizontal 9872,822
+DVB-S2 - 4:2:0 - 8PSK
+ID: FFBL KÃ¶ln-Wolfsburg
+Event:  
+Bundesliga Women, Koln - Wolfsburg
+CW: 21 09 AC D6 DC 28 25 29
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 4
 Borussia Dortmund vs. 
 Wolfsburg
@@ -66,6 +83,19 @@ ID:  FFBL NBG - LEV
 Event:  
   Bundesliga Women, FC Nurnberg  Bayer Leverkusen   
 CW: 21 09 AC D6 DC 21 25 22
+---FEED-SEPARATOR---
+Italian Serie BKT - Week 4
+Padova v Virtus Entella
+ ST: 18:30
+7°E
+12522 
+V 
+7500
+DVB-S2-
+4:2:2
+-8PSK
+ID:ITA 560 PADOVA SERIE B
+CW: BC 04 20 E0 25 21 09 4F
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
