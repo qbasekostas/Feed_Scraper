@@ -97,6 +97,32 @@ DVB-S2-
 ID:ITA 560 PADOVA SERIE B
 CW: BC 04 20 E0 25 21 09 4F
 ---FEED-SEPARATOR---
+Event: Spain - LALIGA EA SPORTS Matchday 5
+Teams: FC Barcelona vs Getafe CF
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,14Mb/Sec |8PSK| 
+4:2:2
+ HD
+Dani Sat said:
+CW: 8F 4C E8 C3 A7 B3 B0 0A
+Click to expand...
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,09Mb/Sec |8PSK| 
+4:2:2
+ HD
+CW: EE CE FA B6 49 73 01 BD
+Screenshot by 
+@Dani Sat
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 5
 Barcelona vs. Getafe
 Eutelsat 10B @ 10.0°E
