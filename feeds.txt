@@ -8,6 +8,17 @@ Dynamo Dresden
 Hannover 96
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+100.5E
+3840 V 30000
+4.2.2
+ID: OVERON 3
+LaLiga
+Elche vs R. Oviedo and Barcelona vs Getafe
+CW : 41 0B E3 2F FD EB B2 9A
+ID: OVERON 4
+LaLiga
+CW : 39 55 22 B0 0F 60 9F 0E
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.2
@@ -60,5 +71,14 @@ Eutelsat 7A/B   ( 7.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID: Pitch EFL Highlights
 Event:  
+English Championship Highlights
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3933 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_24_SDI
+Event: 
 English Championship Highlights
 CW: 53 23 CF 45 32 88 42 FC
