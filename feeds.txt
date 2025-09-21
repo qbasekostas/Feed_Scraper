@@ -47,6 +47,18 @@ Dynamo Dresden
 Hannover 96
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+German 1. Bundesliga - Week 4
+Borussia Dortmund vs. 
+Wolfsburg
+Eutelsat 7B/7C @ 7.0°E
+11081 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi05
+CW: 60 AA 81 8B 89 4F 18 F0
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 10997 Vertical 9875,775
 DVB-S2 - 4:2:0 - 8PSK
@@ -160,6 +172,14 @@ ID: OVERON 1
 LaLiga
 RCD Mallorca - Atlético de Madrid
 CW: 16 87 7F 1C D0 18 40 28
+---FEED-SEPARATOR---
+28.2E
+12643 H 7500 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish SWPL 1 - Week 6
+Celtic v Hibernian
 ---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12577 Horizontal 7198,405
