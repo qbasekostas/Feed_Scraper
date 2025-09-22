@@ -17,6 +17,17 @@ Eutelsat 10B @ 10.0°E
 ID: LIGA HYPERMOTION 1
 CW: 19 A5 6D 2B 46 FE 08 4C
 ---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3993 V 7120
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_24_SDI
+ENGLAND: 
+Championship
+Millwall
+Watford
+CW: 1A 33 56 A3 6E CE 37 73
+---FEED-SEPARATOR---
 Tomorrow
 --
 Al Ahli FC ( Jeddah )VS  Pyramids FC ( Egypt ) 
