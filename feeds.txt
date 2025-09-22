@@ -1,0 +1,23 @@
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 3
+LaLiga
+Sevilla FC - Villarreal CF
+CW: D4 E1 C9 7E 13 73 1A A0
+---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 2
+LaLiga
+Athletic Club - Girona FC
+CW: B7 64 42 5D 21 81 81 23
+---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 1
+LaLiga
+RCD Espanyol de Barcelona - Valencia CF
+CW: 8F 4C E8 C3 A7 B3 B0 0A
