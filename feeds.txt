@@ -1,3 +1,11 @@
+Eutelsat 16A   ( 16.0E )
+11105 Horizontal 9872,867
+DVB-S2 - 4:2:0 - 8PSK
+ID: FFBL Frankfurt-Leip
+Event:  
+Bundesliga Women, Eintracht Frankfurt v RB Leipzig
+CW: 22 09 AC D7 DC 28 25 29
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 6
 Burgos vs. Granada
 Eutelsat 10B @ 10.0°E
