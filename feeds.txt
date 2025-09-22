@@ -8,15 +8,3 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: LIGA HYPERMOTION 1
 CW: 19 A5 6D 2B 46 FE 08 4C
----FEED-SEPARATOR---
-Tomorrow
-FIFA Intercontinental Cup, Round 2
-Al-Ahli vs Pyramids FC
-Eutelsat 7B/7C @ 7.0E
-10995 H 7200
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID: SAU-030 M
-CW: AF E4 62 F5 E9 FE 81 68
-Thanks 
-@A.ElSadek
