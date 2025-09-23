@@ -23,6 +23,14 @@ RCD Espanyol de Barcelona - Valencia CF
 CW: 8F 4C E8 C3 A7 B3 B0 0A
 ---FEED-SEPARATOR---
 LaLiga
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000 
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 4
+CW: BF C2 2A AB 9C B1 17 64
+---FEED-SEPARATOR---
+LaLiga
 Espanyol vs Valencia CF
 Asiasat 5 (100.5°E) C BAND
 3840 H 30000
