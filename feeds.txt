@@ -1,3 +1,11 @@
+Eutelsat 16A   ( 16.0E )
+11105 Horizontal 9872,79
+DVB-S2 - 4:2:0 - 8PSK
+ID: FFBL MÃ¼nchen-Freib.
+Event:  
+Bundesliga Women, Bayern Munich v Freiburg
+CW: 23 09 AC D8 DC 27 25 28
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.2
