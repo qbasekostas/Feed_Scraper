@@ -22,6 +22,30 @@ LaLiga
 RCD Espanyol de Barcelona - Valencia CF
 CW: 8F 4C E8 C3 A7 B3 B0 0A
 ---FEED-SEPARATOR---
+Albahraniy said:
+CW: 0E DB 7E 67 F4 09 94 91
+Click to expand...
+Eutelsat 10A   ( 10.0°E )
+10732 V 33992
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: OVERON 1
+Event: 
+LaLiga,  
+---FEED-SEPARATOR---
+Albahraniy said:
+CW: BF C2 2A AB 9C B1 17 64
+Click to expand...
+Eutelsat 10A   ( 10.0°E )
+10732 V 33992
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: OVERON 4
+Event: 
+LaLiga,  
+---FEED-SEPARATOR---
 LaLiga
 Asiasat 5 (100.5°E) C BAND
 3840 H 30000 
