@@ -159,6 +159,7 @@ PMT PID: 1001, SID: 1 @ BT_SES_20_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 AC 3C 85 15 DB C7 BA 2C  #CW:33 21 AD 01 DC 34 22 32   #[E] PID:07D1h
 English Football League Cup
+Wolves vs Everton
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3995 V 7120
