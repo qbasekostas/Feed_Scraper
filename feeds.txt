@@ -14,6 +14,14 @@ Event:
 Bundesliga Women, Bayern Munich v Freiburg
 CW: 23 09 AC D8 DC 27 25 28
 ---FEED-SEPARATOR---
+Coppa Italia Frecciarossa 2025/26 (Round 2)
+Udinese v Palermo
+10.0°E C-Band
+3905 V / H  3750
+4.2.0 HD
+ID:coppa italia
+CW: 22 24 CD 13 DC 22 42 40
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.2
@@ -121,6 +129,27 @@ DVB-S2 - 1080P - 8PSK
 ID: OVERON 1
 CW: 0E DB 7E 67 F4 09 94 91
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+0C DC 6C 4F 75 B0 00 60  #CW:24 21 CD 12 DC 24 21 21   #[E] PID:07D1h
+English Football League Cup
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3985 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_20_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+AC 3C 85 15 DB C7 BA 2C  #CW:33 21 AD 01 DC 34 22 32   #[E] PID:07D1h
+English Football League Cup
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3995 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_18_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+2A F6 6B 04 BA 65 8C 57  #CW:45 32 CB 42 DA 23 22 1F   #[E] PID:07D1h
+English Football League Cup
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 10996 Horizontal 7199,75
 DVB-S2 - 4:2:0 - 8PSK
@@ -168,3 +197,16 @@ Eutelsat 7A/B ( 7.0E )
 12633 - Vertical - 4938
 Name : YSM-016-1
 CW: 20 25 CC 11 CC 20 24 10
+---FEED-SEPARATOR---
+Greek Cup - 1st Round
+Aris v Marko
+ST: 18:00
+16°E
+11061 
+H  
+9700
+DVB-S2-
+4:2:2
+-8PSK
+ID:OTE 2
+CW: BB 21 21 FD AB AB 21 77
