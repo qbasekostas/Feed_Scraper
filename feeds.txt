@@ -46,6 +46,8 @@ LaLiga
 RCD Espanyol de Barcelona - Valencia CF
 CW: 8F 4C E8 C3 A7 B3 B0 0A
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 6
+Levante vs. Real Madrid
 Eutelsat 10B @ 10.0°E
 10768 - V - 34000 
 |
