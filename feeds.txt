@@ -25,6 +25,19 @@ Event:
      LaLiga, Atl. Madrid - Rayo Vallecano                     
 CW: B8 08 91 51 26 E1 DF E6
 ---FEED-SEPARATOR---
+VTB LEAGUE SUPER CUP
+Crevena  Zvezda vs Cska
+16°E
+12510 
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:YSM-013 M
+CW: 20 25 BB 00 AA 20 26 F0
+​
+---FEED-SEPARATOR---
 7E
 12540 V 9700
 4.2.2
