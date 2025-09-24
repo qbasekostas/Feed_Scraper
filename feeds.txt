@@ -25,6 +25,14 @@ Event:
      LaLiga, Atl. Madrid - Rayo Vallecano                     
 CW: B8 08 91 51 26 E1 DF E6
 ---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+12527 Vertical 6658,64
+DVB-S2 - 4:2:0 - 8PSK
+ID:  B115DGS
+Event:       
+FIBA Europe Cup - Qualification, Corona Brasov - BC Dnipro
+FTA/CLEAR
+---FEED-SEPARATOR---
 VTB LEAGUE SUPER CUP
 Crevena  Zvezda vs Cska
 16°E
