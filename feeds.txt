@@ -24,3 +24,11 @@ ID:  OVERON 1 (OVERON)
 Event:  
      LaLiga, Atl. Madrid - Rayo Vallecano                     
 CW: B8 08 91 51 26 E1 DF E6
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12644 Horizontal 9699,675
+DVB-S2 - 4:2:0 - 8PSK
+ID: TANDBERG
+Event:  
+     Greek Cup, Athens Kallithea - OFI Crete
+CW: 55 22 BB 32 CC 12 34 12
