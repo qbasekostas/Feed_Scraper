@@ -1,4 +1,20 @@
 Eutelsat 16A   ( 16.0E )
+11010 Vertical 9872,846
+DVB-S2 - 4:2:0 - 8PSK
+ID: HBL Wolfsburg
+Event:  
+  Bundesliga Women, Wolfsburg v Werder Bremen
+CW: 24 09 AC D9 DC 20 25 21
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+10998 Vertical 9872,793
+DVB-S2 - 4:2:0 - 8PSK
+ID: FFBL Hoffenheim
+Event:  
+  Bundesliga Women, Hoffenheim v Nuremberg
+CW: 24 09 AC D9 DC 21 25 22
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
 11105 Horizontal 9872,806
 DVB-S2 - 4:2:0 - 8PSK
 ID: FFBL Essen
