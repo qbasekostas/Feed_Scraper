@@ -116,6 +116,29 @@ Event:
 FIBA Europe Cup - Qualification, Corona Brasov - BC Dnipro
 FTA/CLEAR
 ---FEED-SEPARATOR---
+Germany Cup
+Bremerhaven vs Oldenburg
+7°E
+12645 
+H 
+7200
+DVB-S2-
+4:2:2
+-8PSK
+ID:  D-571_1 Bremen
+CW: 23 09 DC 08 BA 20 25 FF
+---FEED-SEPARATOR---
+42e
+11460 V 6800
+4:2:2
+ID: 
+TKS TRT M20 A
+Euroleague Women - Qualification
+Galatasaray W
+Sepsi SIC W
+3D 6E 17 84 5F 83 E8 1E  #CW: 
+47 18 00 5F 00 47 18 5F
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 10982 Vertical 9997,767
 DVB-S2 - 
