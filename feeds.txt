@@ -108,7 +108,72 @@ Event:
      LaLiga, Atl. Madrid - Rayo Vallecano                     
 CW: B8 08 91 51 26 E1 DF E6
 ---FEED-SEPARATOR---
-EFL Cup - Match TBD
+English League Cup - 3rd Round
+Port Vale vs. Arsenal
+Eutelsat 7B/7C @ 7.0°E
+11692 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 9
+orangebirds said:
+CW: 22 33 DD 32 CC 21 43 30
+Click to expand...
+---FEED-SEPARATOR---
+English League Cup - 3rd Round
+Port Vale vs. Arsenal
+Eutelsat 7B/7C @ 7.0°E
+12704 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Carabao Cup R3 - Port vale
+orangebirds said:
+CW: 22 33 DD 32 CC 21 43 30
+Click to expand...
+---FEED-SEPARATOR---
+English League Cup - 3rd Round
+Tottenham Hotspur vs. Doncaster Rovers
+Eutelsat 7B/7C @ 7.0°E
+12677 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Carabao Cup R3 - Tottenham
+HBO said:
+CW: 14 53 AA 11 CC 24 22 12
+Click to expand...
+---FEED-SEPARATOR---
+English League Cup - 3rd Round
+Newcastle United vs. Bradford City
+Eutelsat 7B/7C @ 7.0°E
+12695 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Carabao Cup R3 - Newcastle
+orangebirds said:
+CW: 11 32 DC 1F CC 35 33 34
+Click to expand...
+---FEED-SEPARATOR---
+English League Cup - 3rd Round
+Huddersfield Town vs. Manchester City
+Eutelsat 7B/7C @ 7.0°E
+12686 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Ptch Carabao Cup R3 - Huddersfield
+orangebirds said:
+CW: 13 13 AB D1 DD 24 22 23
+Click to expand...
+---FEED-SEPARATOR---
+EFL Cup - Port Vale vs Arsenal
 100.5°E
 3967 V 7120
 ID : BT_SES_12_SDI
@@ -116,7 +181,7 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 22 33 DD 32 CC 21 43 30
 ---FEED-SEPARATOR---
-EFL Cup - Match TBD
+EFL Cup - Newcastle United vs Bradford City
 100.5°E
 3986 V 7120
 ID : BT_SES_20_SDI
@@ -129,14 +194,26 @@ TP : 3995 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_18_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 14 53 AA 11 CC 24 22 12
+Tottenham vs Doncaster
 ---FEED-SEPARATOR---
-EFL Cup - Match TBD
+EFL Cup - Huddersfield Town vs Manchester City
 100.5°E
 3976 V 7120
 ID : BT_SES_24_SDI
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 13 13 AB D1 DD 24 22 23
+---FEED-SEPARATOR---
+UEFA Europa League - Matchday 1
+Red Star Belgrade vs. Celtic
+Eutelsat 7B/7C @ 7.0°E
+12633 - V - 4938 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: YSM-020M
+CW: 20 25 BB 00 AA 20 26 F0
 ---FEED-SEPARATOR---
 UEFA Europa League - Matchday 1
 Dinamo Zagreb vs. Fenerbahçe
@@ -156,6 +233,16 @@ ID:  B115DGS
 Event:       
 FIBA Europe Cup - Qualification, Corona Brasov - BC Dnipro
 FTA/CLEAR
+---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
+12520 Horizontal 7198,504
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID:  DYN  Crailsheim
+Event:       
+German Cup, Crailsheim Merlins -  Jena
+CW: 24 09 DC 09 BA 20 25 FF
 ---FEED-SEPARATOR---
 Germany Cup
 Bremerhaven vs Oldenburg
