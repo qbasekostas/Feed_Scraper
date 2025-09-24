@@ -38,6 +38,19 @@ ID:YSM-013 M
 CW: 20 25 BB 00 AA 20 26 F0
 ​
 ---FEED-SEPARATOR---
+Greek Cup - Group Stage: Round 2
+Asteras Tripolis v Olympiacos
+ ST: 15:00
+7°E
+12640 
+V  
+9700
+DVB-S2-
+4:2:2
+-8PSK
+ID:OTE 2
+CW: BA 21 21 FC AA AB 21 76
+---FEED-SEPARATOR---
 7E
 12540 V 9700
 4.2.2
