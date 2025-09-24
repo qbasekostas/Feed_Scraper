@@ -108,6 +108,47 @@ Event:
      LaLiga, Atl. Madrid - Rayo Vallecano                     
 CW: B8 08 91 51 26 E1 DF E6
 ---FEED-SEPARATOR---
+EFL Cup - Match TBD
+100.5°E
+3967 V 7120
+ID : BT_SES_12_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 22 33 DD 32 CC 21 43 30
+---FEED-SEPARATOR---
+EFL Cup - Match TBD
+100.5°E
+3986 V 7120
+ID : BT_SES_20_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 11 32 DC 1F CC 35 33 34
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3995 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_18_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 14 53 AA 11 CC 24 22 12
+---FEED-SEPARATOR---
+EFL Cup - Match TBD
+100.5°E
+3976 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 13 13 AB D1 DD 24 22 23
+---FEED-SEPARATOR---
+UEFA Europa League - Matchday 1
+Dinamo Zagreb vs. Fenerbahçe
+Eutelsat 7B/7C @ 7.0°E
+11673 - H - 9875 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Medialink CRO-021/1
+CW: 20 24 AB EF CD 20 25 12
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12527 Vertical 6658,64
 DVB-S2 - 4:2:0 - 8PSK
