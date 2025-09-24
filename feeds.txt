@@ -3,7 +3,24 @@ Eutelsat 10A   ( 10.0E )
 DVB-S2 - 
 4:2:2
  - 8PSK
+ID: 
+OVERON 2
+CW: 57 20 5E D5 4D 11 E9 47
+ID: 
+OVERON 3 
+CW: C0 7C FE 3A CE F3 9B 5C
+LaLiga
+19:00
+ Getafe - Alaves
+21:30
+ Real Sociedad - Mallorca
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+10732 Vertical 33992,653
+DVB-S2 - 
+4:2:2
+ - 8PSK
 ID:  OVERON 1 (OVERON)
 Event:  
-     LaLiga                     
+     LaLiga, Atl. Madrid - Rayo Vallecano                     
 CW: B8 08 91 51 26 E1 DF E6
