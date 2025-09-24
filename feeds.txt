@@ -25,6 +25,14 @@ Event:
      LaLiga, Atl. Madrid - Rayo Vallecano                     
 CW: B8 08 91 51 26 E1 DF E6
 ---FEED-SEPARATOR---
+7E
+12540 V 9700
+4.2.2
+ID: AVP_OU_A
+Greek Football Cup
+Volos F.C. - Atromitos F.C.
+CW: AB 21 24 F0 AB AB 22 78
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12644 Horizontal 9699,675
 DVB-S2 - 4:2:0 - 8PSK
