@@ -115,6 +115,63 @@ Event:
 Getafe - Alaves
 CW: B8 08 91 51 26 E1 DF E6
 ---FEED-SEPARATOR---
+Satfun2017 said:
+English League Cup
+Huddersfield Vs Manchester City
+28.2°E @ Astra 2F 
+12684 V 7120 
+Click to expand...
+Satfun2017 said:
+English League Cup
+Newcastle Vs Bradford
+28.2°E @ Astra 2F 
+12693 V 7120
+Click to expand...
+Satfun2017 said:
+English League Cup
+Port Vale Vs Arsenal
+28.2°E @ Astra 2F 
+12702 V 7120
+Click to expand...
+It`s 7e
+This feeds no on 28e
+---FEED-SEPARATOR---
+English League Cup
+Port Vale Vs Arsenal
+28.2°E @ Astra 2F 
+12702 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:   Pitch Carabao Cup R3 - Port Vale v Arsenal (NEP Connect)
+CW: 22 33 DD 32 CC 21 43 30
+---FEED-SEPARATOR---
+English League Cup
+Newcastle Vs Bradford
+28.2°E @ Astra 2F 
+12693 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  Pitch Carabao Cup R3 - Newcastle v Bradford (NEP Connect)
+CW: 11 32 DC 1F CC 35 33 34
+---FEED-SEPARATOR---
+English League Cup
+Huddersfield Vs Manchester City
+ 28.2°E @ Astra 2F 
+12684 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  Pitch Carabao Cup R3 - Huddersfield v Manchester City (NEP Connect)
+CW: 13 13 AB D1 DD 24 22 23
+---FEED-SEPARATOR---
+English League Cup
+Tottenham Vs Doncaster
+28.2°E @ Astra 2F 
+12675 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  Pitch Carabao Cup R3 - Tottenham v Doncaster (NEP Connect)  
+CW: 14 53 AA 11 CC 24 22 12
+---FEED-SEPARATOR---
 English League Cup - 3rd Round
 Port Vale vs. Arsenal
 Eutelsat 7B/7C @ 7.0°E
