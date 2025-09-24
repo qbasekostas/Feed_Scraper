@@ -1,0 +1,9 @@
+Eutelsat 10A   ( 10.0E )
+10732 Vertical 33992,653
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  OVERON 1 (OVERON)
+Event:  
+     LaLiga                     
+CW: B8 08 91 51 26 E1 DF E6
