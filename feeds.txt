@@ -74,6 +74,15 @@ ID:  BT_SES_24_SD
 CARABAO CUP HIGHLIGHTS
 CW: 14 21 CC 01 DD 22 12 11
 ---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+11481 Vertical 7198,503
+DVB-S2 - 4:2:0 - 8PSK
+ID: (empty)
+Event:  
+ about
+Europa League - Rangers v Racing Genk  
+CW: 78 AB 37 5A C3 56 BA D3
+---FEED-SEPARATOR---
 0.8°W
 11490 V 7200
 4:2:0
