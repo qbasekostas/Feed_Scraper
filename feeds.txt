@@ -14,6 +14,16 @@ Event:
 Bundesliga Women, RB Leipzig v Hamburg
 CW: 25 09 AC DA DC 23 25 24
 ---FEED-SEPARATOR---
+Eutelsat 10A ( 10.0E )
+10767 Vertical 33992,646
+DVB-S2 - 4:2:2 - 8PSK
+ID: SUPPONOR EASTERN 1
+Event: 
+LaLiga, R. Oviedo - Barcelona
+CW: B5 8C D2 13 E8 75 BB 18
+ID: SUPPONOR RUSIA 1
+CW: F9 A5 4E EC 8E 06 90 24
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
