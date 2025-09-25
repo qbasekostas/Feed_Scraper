@@ -1,3 +1,45 @@
+Ratzvan said:
+CW: CD 3A 6F 76 83 80 57 5A
+Click to expand...
+Asiasat 5 ( 100.5°E) - C BAND
+3841 Horizontal 29995,488
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  OVERON 1 (OVERON)
+Event: 
+LaLiga, Osasuna - Elche 
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+10732 Vertical 33992,646
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: SUPPONOR AFRICA 1
+Event: 
+LaLiga, R. Oviedo - Barcelona 
+CW: 16 34 62 AC DA 77 6B BC
+ID: SUPPONOR MENA 1
+Event: 
+LaLiga, R. Oviedo - Barcelona 
+CW: C6 51 5D 74 DB BD 55 ED
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+10732 Vertical 33992,646
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: OVERON 1
+Event: 
+LaLiga, Osasuna - Elche 
+CW: CD 3A 6F 76 83 80 57 5A
+ID: OVERON 2
+Event: 
+LaLiga, R. Oviedo - Barcelona 
+Albahraniy said:
+CW: 7C D2 1E 6C 39 D6 B4 C3
+Click to expand...
+---FEED-SEPARATOR---
 LaLiga, Round 6
 Osasuna vs Elche
 Real Oviedo vs Barcelona
