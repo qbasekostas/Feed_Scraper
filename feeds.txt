@@ -14,6 +14,22 @@ Event:
 Bundesliga Women, RB Leipzig v Hamburg
 CW: 25 09 AC DA DC 23 25 24
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,91Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 6
+Teams: Real Oviedo vs FC Barcelona
+Time / Kickoff: 02.30 JKT-TH / 03.30 MY-SG / 19.30 GMT / 21.30 CET
+Ratzvan said:
+#CW:
+CD 3A 6F 76 83 80 57 5A
+Click to expand...
+---FEED-SEPARATOR---
 LaLiga
 ,
 OSASUNA VS ELCHE
