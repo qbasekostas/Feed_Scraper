@@ -1,3 +1,19 @@
+LaLiga, Round 6
+Osasuna vs Elche
+Real Oviedo vs Barcelona
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 1
+CW: C7 16 33 BF D4 1D A0 74
+ID: OVERON 2
+CW: 7C D2 1E 6C 39 D6 B4 C3
+ID: OVERON 3
+CW: 89 2D AE 64 FD 8D 9C 26
+ID: OVERON 4
+CW: 90 92 B4 D6 61 AD 40 4E
+---FEED-SEPARATOR---
 Albahraniy said:
 CW: 14 21 CC 01 DD 22 12 11
 Click to expand...
