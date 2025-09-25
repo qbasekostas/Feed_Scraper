@@ -90,6 +90,14 @@ ID: unnamed
 CW: 13 8D ED 8D 23 84 16 BD
 UEL: Aston Villa - Bologna
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12634 Vertical 7198,256
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-013M 
+Event:  
+  VTB Super Cup, Dubai - Crvena zvezda
+CW: 20 25 BB 00 AA 20 26 F0
+---FEED-SEPARATOR---
 36E
 11672 H 4000
 4.2.0
