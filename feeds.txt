@@ -1,3 +1,21 @@
+Eutelsat 10A   ( 10.0E )
+10732 Vertical 33992,653
+DVB-S2 - 4:2:0 - 8PSK
+ID:  LIGA HYPERMOTION 1
+Event:  
+ LaLiga2, Mirandés v Real Zaragoza
+CW: 95 78 56 63 33 6D 77 17
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+10732 Vertical 33992,653
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: OVERON 1
+Event: 
+LaLiga, Girona - Espanyol
+CW: AB 7F 11 3B 13 60 A3 16
+---FEED-SEPARATOR---
 47W SES14 C 
 3879V7199
 ID: U20 VALPARARSO MAIN 
