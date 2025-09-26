@@ -1,3 +1,28 @@
+Astra 2E/2F/2G  ( 28.2E )
+12633 Vertical 7198,432
+DVB-S2 - 4:2:0 - 8PSK
+ID: D-528
+Event:  
+3. Liga, Energie Cottbus v Stuttgart II
+CW: 26 09 AC DB DC 00 01 DD
+---FEED-SEPARATOR---
+Germany Bundesliga
+Bayern  Munich vs Bremen
+16.0E
+10980 H 3600
+4.2.0 HD
+ID: F6-2 4.5MH
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Germany
+ Bundesliga 2
+Schalke vs Fürth
+16.0E
+10975  H 3600
+4.2.0 HD
+ID: Fal4 Enc1
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11020 V 9875 |
 4:2:2
