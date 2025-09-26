@@ -1,3 +1,14 @@
+Eutelsat 7B-7C @ 07.0E
+11020 V 9875 |
+4:2:2
+ | 8PSK
+ID: 
+GVA_Fi03
+Event: 
+German 1. Bundesliga - Week 5
+Bayern Munich v Werder Bremen
+CW: 3E 42 73 F3 6A 76 1B FB
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3860 V 30000
 PMT PID: 2048, SID: 11 @ LEUK_Fi01 (EUROVISION SA)
