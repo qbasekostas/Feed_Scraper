@@ -48,6 +48,47 @@ DVB S2 4.2.0 1080i
 Mundial SUB20
 CW: 0A 5B 06 6B CC DF D7 82
 ---FEED-SEPARATOR---
+Ratzvan said:
+Turksat 3A/4A   ( 42.0E )
+11111 Vertical 7498,343
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID:   TUR-062 A
+(...)
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+12676 Horizontal 7498,339
+DVB-S2 - 
+4:2:2
+- 8PSK
+ID:   TUR-062 A
+Event:  
+    Turkish Super Lig, Anadolu Efes - Esenler Erokspor 
+FTA NOW, BUT BIS MARKED, WHEN ENCRYPTED AS FOLLOW:
+Ratzvan said:
+CW: D5 CD 2E D0 7B 90 C5 D0
+Click to expand...
+---FEED-SEPARATOR---
+ABL 
+Azerbaijan Basketball League, A Group
+Sabah vs Neftchi
+46.0E
+10958 H 3333
+4.2.0 SD
+ID: AZE-014
+CW: 12 34 AB F1 56 78 BA 88
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11111 Vertical 7498,343
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID:   TUR-062 A
+Event:  
+    Turkish Super Lig, Anadolu Efes - Esenler Erokspor 
+CW: D5 CD 2E D0 7B 90 C5 D0
+---FEED-SEPARATOR---
 36E
 11682 H 4000
 4.2.0
