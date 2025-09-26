@@ -1,3 +1,10 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3860 V 30000
+PMT PID: 2048, SID: 11 @ LEUK_Fi01 (EUROVISION SA)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+BE 80 5C 96 61 77 53 C4  #CW:60 08 08 70 0C 64 D1 41   #[E] PID:019Bh
+FC Bayern München vs SV Werder Bremen
+---FEED-SEPARATOR---
 Eutelsat 10A   ( 10.0E )
 10732 Vertical 33992,653
 DVB-S2 - 4:2:0 - 8PSK
@@ -15,6 +22,13 @@ ID: OVERON 1
 Event: 
 LaLiga, Girona - Espanyol
 CW: AB 7F 11 3B 13 60 A3 16
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3905 H 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+D5 52 BB C1 49 56 4A D8  #CW:29 0A 22 55 40 24 56 BA   #[E] PID:07D1h
+West Brom vs Leicester
 ---FEED-SEPARATOR---
 47W SES14 C 
 3879V7199
