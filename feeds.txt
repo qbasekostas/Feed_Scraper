@@ -1,3 +1,18 @@
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+11020 V 9875 |
+4:2:2
+ | 8PSK
+ID: 
+GVA_Fi03
+Event: 
+German 1. Bundesliga - Week 5
+Bayern Munich v Werder Bremen
+CW: 3E 42 73 F3 6A 76 1B FB
+Click to expand...
+NEW 
+CW: 60 08 08 70 0C 64 D1 41
+---FEED-SEPARATOR---
 Astra 2E/2F/2G  ( 28.2E )
 12633 Vertical 7198,432
 DVB-S2 - 4:2:0 - 8PSK
@@ -49,6 +64,21 @@ ID: GVA_Fi04
 CW: 3E 42 73 F3 6A 76 1B FB
 Bundesliga - FC Bayern München vs SV Werder Bremen
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,87Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 7
+Teams: Girona FC vs RCD Espanyol
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Ratzvan said:
+CW: AB 7F 11 3B 13 60 A3 16
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 10A   ( 10.0E )
 10732 Vertical 33992,653
 DVB-S2 - 4:2:0 - 8PSK
@@ -66,6 +96,38 @@ ID: OVERON 1
 Event: 
 LaLiga, Girona - Espanyol
 CW: AB 7F 11 3B 13 60 A3 16
+---FEED-SEPARATOR---
+16E
+12712 V 2000 
+4:2:0
+DVB-S2 16APSK
+ID: Service 01
+Scottish Cup - 1st Round
+Auchinleck Talbot v Cumnock Juniors
+---FEED-SEPARATOR---
+16E
+12705 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Cup - 1st Round
+Auchinleck Talbot v Cumnock Juniors
+---FEED-SEPARATOR---
+16E
+12692 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Cup - 1st Round
+Auchinleck Talbot v Cumnock Juniors
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12703 Vertical 7118,425
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch EFL WBA
+Event:  
+  English Championship, West Bromwich Albion v Leicester City
+CW: 29 0A 22 55 40 24 56 BA
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3905 H 7120
