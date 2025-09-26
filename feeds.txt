@@ -41,6 +41,14 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 BE 80 5C 96 61 77 53 C4  #CW:60 08 08 70 0C 64 D1 41   #[E] PID:019Bh
 FC Bayern München vs SV Werder Bremen
 ---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+4153 V 9875
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: GVA_Fi04
+CW: 3E 42 73 F3 6A 76 1B FB
+Bundesliga - FC Bayern München vs SV Werder Bremen
+---FEED-SEPARATOR---
 Eutelsat 10A   ( 10.0E )
 10732 Vertical 33992,653
 DVB-S2 - 4:2:0 - 8PSK
