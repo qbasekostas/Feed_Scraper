@@ -1,0 +1,54 @@
+Spanish La Liga - Matchday 7
+Atlético Madrid vs. Real Madrid
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR MENA 1
+CW: 93 CB F5 53 91 BA 8B D6
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 7
+Atlético Madrid vs. Real Madrid
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: 5E 08 39 9F 77 3D CD 81
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 7
+Getafe vs. Levante
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 49 94 A5 82 42 14 E3 39
+---FEED-SEPARATOR---
+Spanish La Liga 2 - Matchday 7
+Las Palmas vs. Almería
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:0 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 93 E3 D7 4D D9 50 EE 17
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 7
+Atlético Madrid vs. Real Madrid
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 55 C6 76 91 5F 31 D8 68
