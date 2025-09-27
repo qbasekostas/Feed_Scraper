@@ -1,3 +1,25 @@
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 2
+Dani Sat said:
+Spanish La Liga - Matchday 7
+Getafe vs. Levante
+CW: 49 94 A5 82 42 14 E3 39
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 1
+Dani Sat said:
+Spanish La Liga - Matchday 7
+Atlético Madrid vs. Real Madrid
+CW: 55 C6 76 91 5F 31 D8 68
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 7
 Atlético Madrid vs. Real Madrid
 Eutelsat 10B @ 10.0°E
