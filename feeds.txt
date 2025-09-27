@@ -6,6 +6,15 @@ Event:
  3. Liga, Wehen Wiesbaden v Saarbrücken
 CW: 27 09 AC DC DC 00 01 DD
 ---FEED-SEPARATOR---
+Astra 2E/2F/2G (28.2E)
+12521 H 7200
+DVB-S2 8PSK
+ID: D-167
+1920x1080i 25fps 4:2:0
+CW: 27 09 AC DC DC 00 06 E2
+3rd Bundesliga
+SV Waldhof Mannheim vs. Rot Weiss Essen
+---FEED-SEPARATOR---
 Astra 2E/2F/2G  ( 28.2E )
 12512 Horizontal 7198,324
 DVB-S2 - 4:2:0 - 8PSK
