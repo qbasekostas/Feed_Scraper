@@ -6,6 +6,28 @@ Event:
  3. Liga, Wehen Wiesbaden v Saarbrücken
 CW: 27 09 AC DC DC 00 01 DD
 ---FEED-SEPARATOR---
+German 1. Bundesliga - Week 5
+Mönchengladbach vs. Eintracht Frankfurt
+Eutelsat 7B/7C @ 7.0°E
+11018 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi05
+CW: F4 24 50 68 77 94 78 83
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 5
+Mönchengladbach vs. Eintracht Frankfurt
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D-408 MG
+CW: 86 53 3B 14 4E 2B D6 4F
+---FEED-SEPARATOR---
 Astra 2E/2F/2G (28.2E)
 12521 H 7200
 DVB-S2 8PSK
@@ -46,6 +68,22 @@ ID:  D-361
 Event:  
  3. Liga, Duisburg v Ingolstadt
 CW: 27 09 AC DC DC 00 02 DE
+---FEED-SEPARATOR---
+PLeass  Cw: 
+Eutelsat Hot Bird 13 (13.0°E)
+Fréquence: 
+12609
+ - Pol: 
+V
+ - SR: 
+7200
+ - FEC: 
+-
+Catégorie: 
+Sport - Football
+Transmis en: 
+MPEG-4 crypté
+ℹJuventus-Atalanta
 ---FEED-SEPARATOR---
 CALCIO ITALIANO 
 SERIE
@@ -284,6 +322,15 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI (SES)
 EFL Championship - Sheffield Wednesday vs Queens Park Rangers
 CW: 98 37 DE AD 3F 3A 35 AE
+---FEED-SEPARATOR---
+10.0°E
+10737 H 7200 
+4:2:0
+DVB-S2  8PSK
+ID: GCUK Enc 3
+CW: DC 11 AD 9A 45 DF DF 03
+Scottish Premiership - Week 6
+Motherwell v Aberdeen
 ---FEED-SEPARATOR---
 English Championship - Week 7
 Sheffield Wednesday vs. Queens Park Rangers 
