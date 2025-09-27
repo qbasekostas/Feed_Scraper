@@ -7,6 +7,22 @@ Event:
 CW: 27 09 AC DC DC 00 01 DD
 ---FEED-SEPARATOR---
 Astra 2E/2F/2G  ( 28.2E )
+12512 Horizontal 7198,324
+DVB-S2 - 4:2:0 - 8PSK
+ID: D510feed1
+Event:  
+  3. Liga, Hansa Rostock v TSV Havelse
+CW: 27 09 AC DC DC 00 05 E1
+---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
+12574 Vertical 7198,455
+DVB-S2 - 4:2:0 - 8PSK
+ID: D-473
+Event:  
+3. Liga, Schweinfurt v Alemannia Aachen
+CW: 27 09 AC DC DC 00 03 DF
+---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
 12582 Vertical 7198,414
 DVB-S2 - 4:2:0 - 8PSK
 ID: D-528
@@ -24,10 +40,36 @@ CW: 27 09 AC DC DC 00 02 DE
 ---FEED-SEPARATOR---
 10E
 11260 H 9600
+11272 H 9600
 4.2.0
-ID: ITA_609_A
+ID: ITA_609_A / B
 Serie B
+US Avellino 1912 - Virtus Entella
 CW: BC 05 20 E1 25 27 09 55
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID: LIGA HYPERMOTION 1
+ La Liga 2
+Eibar vs Deportivo La Coruña
+CW: 93 E3 D7 4D D9 50 EE 17
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR RUSIA 1
+Spanish La Liga - Matchday 7
+Atlético Madrid vs Real Madrid
+CW: 49 0D 13 69 0E 2C 27 61
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR EASTERN 1
+Spanish La Liga - Matchday 7
+Atlético Madrid vs Real Madrid
+CW: 15 78 7D 0A 76 AB 09 2A
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 7
 Atlético Madrid vs. Real Madrid
@@ -117,3 +159,36 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 55 C6 76 91 5F 31 D8 68
+---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+11491 Vertical 7198,437
+DVB-S2 - 4:2:0 - 8PSK
+ID: Oldham sat feed
+Event:  
+English League Two,  Oldham - Barnet
+FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11580 Vertical 7119,751
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch Coventry v Birmingham
+Event:  
+  English Championship, Coventry City v Birmingham City
+CW: 92 1F 44 F5 2A 32 53 AF
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3906 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_24_SDI (SES)
+English Championship, Coventry City v Birmingham City
+CW: 92 1F 44 F5 2A 32 53 AF
+---FEED-SEPARATOR---
+3.1E
+10987 H 7500
+4.2.0
+ID: Bein Sports Newcastle unila
+Premier League
+About
+Newcastle United F.C. - Arsenal F.C.
+CW: CA 54 CB E9 55 DA 66 95
