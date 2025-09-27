@@ -60,6 +60,15 @@ Serie B
 US Avellino 1912 - Virtus Entella
 CW: BC 05 20 E1 25 27 09 55
 ---FEED-SEPARATOR---
+SpainLa Liga, Round 7
+Atlético Madrid vs Real Madrid
+Eutelsat 7B/7C @ 7.0E
+10986 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:E336 G18 VIA 2
+CW: 8F 5C 74 5F C2 06 6F 37
+---FEED-SEPARATOR---
 Albahraniy said:
 			LaLiga, Round 7
 Atlético Madrid vs Real Madrid
@@ -214,14 +223,6 @@ Event:
 English League Two,  Oldham - Barnet
 FTA/CLEAR
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-11580 Vertical 7119,751
-DVB-S2 - 4:2:0 - 8PSK
-ID: Pitch Coventry v Birmingham
-Event:  
-  English Championship, Coventry City v Birmingham City
-CW: 92 1F 44 F5 2A 32 53 AF
----FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3906 V 7119
 DVB-S2 - 1080P - 8PSK
@@ -229,6 +230,25 @@ DVB-S2 - 1080P - 8PSK
 ID:BT_SES_24_SDI (SES)
 English Championship, Coventry City v Birmingham City
 CW: 92 1F 44 F5 2A 32 53 AF
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3915 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI (SES)
+EFL Championship - Sheffield Wednesday vs Queens Park Rangers
+CW: 98 37 DE AD 3F 3A 35 AE
+---FEED-SEPARATOR---
+English Championship - Week 7
+Sheffield Wednesday vs. Queens Park Rangers 
+Eutelsat 7B/7C @ 7.0°E
+12704 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Sheff v QPR
+CW: 98 37 DE AD 3F 3A 35 AE
 ---FEED-SEPARATOR---
 Premier League 
 Crystal Palace vs Liverpool
@@ -249,11 +269,20 @@ About
 Newcastle United F.C. - Arsenal F.C.
 CW: CA 54 CB E9 55 DA 66 95
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11580 Vertical 7119,751
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch Coventry v Birmingham
+Event:  
+  English Championship, Coventry City v Birmingham City
+CW: 92 1F 44 F5 2A 32 53 AF
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12605 V 9600
 DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: POL-080 MAIN
+Poland Basketball
 CW: 20 25 AB F0 CD 1E CA B5
 ---FEED-SEPARATOR---
 Ratzvan said:
