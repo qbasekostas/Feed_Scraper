@@ -38,6 +38,19 @@ Event:
  3. Liga, Duisburg v Ingolstadt
 CW: 27 09 AC DC DC 00 02 DE
 ---FEED-SEPARATOR---
+CALCIO ITALIANO 
+SERIE
+B
+ MD 05
+Avellino 
+VS
+ Virtus Entella
+EUT7E
+ S2 8PSK mpeg 4 /  4:2:2
+12542 V 7200 3/4
+ID:ITA 672
+BC 05 20 E1 25 27 09 55
+---FEED-SEPARATOR---
 10E
 11260 H 9600
 11272 H 9600
@@ -46,6 +59,39 @@ ID: ITA_609_A / B
 Serie B
 US Avellino 1912 - Virtus Entella
 CW: BC 05 20 E1 25 27 09 55
+---FEED-SEPARATOR---
+Albahraniy said:
+			LaLiga, Round 7
+Atlético Madrid vs Real Madrid
+Eutelsat 7B/7C @ 7.0E
+11505 V 6666
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:E 387 Bup (OVERON)
+CW: DD EA 87 4E 41 CB 23 2F
+Click to expand...
+7E
+11514 V 6666
+4.2.2
+ID: FRBEIN_ENC_01
+---FEED-SEPARATOR---
+LaLiga, Round 7
+Atlético Madrid vs Real Madrid
+Eutelsat 7B/7C @ 7.0E
+11505 V 6666
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:E 387 Bup (OVERON) 
+CW: DD EA 87 4E 41 CB 23 2F
+---FEED-SEPARATOR---
+SpainLaLiga, Round 7
+Atlético Madrid vs Real Madrid
+Eutelsat 7B/7C @ 7.0E
+11498 V 6666
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:E-387 Main 
+CW: DD EA 87 4E 41 CB 23 2F
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
@@ -192,6 +238,25 @@ Premier League
 About
 Newcastle United F.C. - Arsenal F.C.
 CW: CA 54 CB E9 55 DA 66 95
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12605 V 9600
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: POL-080 MAIN
+CW: 20 25 AB F0 CD 1E CA B5
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+Turkish Super Lig,   Bahcesehir Kol. - Galatasaray
+CW: C7 94 ED 48 1D 98 20 D5
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+12685 Horizontal 7498,354
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
 ---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11111 Vertical 7498,34
