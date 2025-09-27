@@ -192,3 +192,23 @@ Premier League
 About
 Newcastle United F.C. - Arsenal F.C.
 CW: CA 54 CB E9 55 DA 66 95
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11111 Vertical 7498,34
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  TUR 112 MAIN
+Event:  
+Turkish Super Lig,   Bahcesehir Kol. - Galatasaray
+CW: C7 94 ED 48 1D 98 20 D5
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11093 Vertical 7498,355
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 34 - A
+Event:  
+Turkish Super Lig,   Besiktas - Turk Telekom
+CW: 43 AF 1C 0E D4 28 89 85
