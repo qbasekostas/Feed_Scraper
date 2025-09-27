@@ -1,3 +1,34 @@
+Astra 2E/2F/2G  ( 28.2E )
+12633 Vertical 7200,533
+DVB-S2 - 4:2:0 - 8PSK
+ID: : D-331 TX1
+Event:  
+ 3. Liga, Wehen Wiesbaden v Saarbrücken
+CW: 27 09 AC DC DC 00 01 DD
+---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
+12582 Vertical 7198,414
+DVB-S2 - 4:2:0 - 8PSK
+ID: D-528
+Event:  
+   3   Liga, Erzgebirge Aue v 1860 Munich
+CW: 27 09 AC DC DC 00 04 E0
+---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
+12591 Vertical 7198,418
+DVB-S2 - 4:2:0 - 8PSK
+ID:  D-361
+Event:  
+ 3. Liga, Duisburg v Ingolstadt
+CW: 27 09 AC DC DC 00 02 DE
+---FEED-SEPARATOR---
+10E
+11260 H 9600
+4.2.0
+ID: ITA_609_A
+Serie B
+CW: BC 05 20 E1 25 27 09 55
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 7
 Atlético Madrid vs. Real Madrid
 Getafe vs. Levante 
