@@ -69,6 +69,17 @@ Serie B
 US Avellino 1912 - Virtus Entella
 CW: BC 05 20 E1 25 27 09 55
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 7
+Mallorca vs. Alavés
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 12 9B BA 67 8D 19 60 06
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 10977 V 7200
 DVB-S2 - 1080P - 8PSK
@@ -296,6 +307,17 @@ ID: Pitch Coventry v Birmingham
 Event:  
   English Championship, Coventry City v Birmingham City
 CW: 92 1F 44 F5 2A 32 53 AF
+---FEED-SEPARATOR---
+Albahraniy said:
+			Eutelsat 7B/7C @ 7.0E
+12605 V 9600
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: POL-080 MAIN
+Poland Basketball
+CW: 20 25 AB F0 CD 1E CA B5
+Click to expand...
+Men's Basketball: Polish Super Cup - semi-final match: PGE Start Lublin - Górnik Zamek Książ Wałbrzych next Men's Basketball: Polish Super Cup - match: Legia Warszawa - Energa Trefl Sopot
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12605 V 9600
