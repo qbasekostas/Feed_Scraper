@@ -60,6 +60,17 @@ Serie B
 US Avellino 1912 - Virtus Entella
 CW: BC 05 20 E1 25 27 09 55
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+10977 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:E336 G18 VIA 1
+Albahraniy said:
+			SpainLa Liga, Round 7
+Atlético Madrid vs Real Madrid
+CW: 8F 5C 74 5F C2 06 6F 37
+Click to expand...
+---FEED-SEPARATOR---
 SpainLa Liga, Round 7
 Atlético Madrid vs Real Madrid
 Eutelsat 7B/7C @ 7.0E
@@ -247,7 +258,7 @@ Eutelsat 7B/7C @ 7.0°E
 4:2:0
  | H.264
 1920*1080 | DVB-S2 | 8PSK
-ID: Pitch Sheff v QPR
+ID: Pitch Sheff v QPR 
 CW: 98 37 DE AD 3F 3A 35 AE
 ---FEED-SEPARATOR---
 Premier League 
