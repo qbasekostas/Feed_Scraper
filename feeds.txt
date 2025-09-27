@@ -457,3 +457,14 @@ LBA SuperCoppa
 ID: SNG 02 - Chain A
 UAE LEAGUE WOMEN
 CW: 96 80 C7 DD 03 45 2B 73
+---FEED-SEPARATOR---
+Greek Super League 1 - Week 5
+Aris Thessaloniki vs. Panserraikos
+Eutelsat 7B/7C @ 7.0°E
+11460 - V - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID:  ARIS VS PANSERRAIKOS
+CW: AF 1A CB 94 10 9F F9 A8
