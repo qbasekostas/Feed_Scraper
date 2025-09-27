@@ -246,6 +246,21 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 55 C6 76 91 5F 31 D8 68
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,95Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 7
+Teams: RCD Mallorca vs Deportivo Alavés
+Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 18.30 CET
+Dani Sat said:
+CW: 12 9B BA 67 8D 19 60 06
+Click to expand...
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 11491 Vertical 7198,437
 DVB-S2 - 4:2:0 - 8PSK
@@ -358,3 +373,24 @@ ID: TUR 34 - A
 Event:  
 Turkish Super Lig,   Besiktas - Turk Telekom
 CW: 43 AF 1C 0E D4 28 89 85
+---FEED-SEPARATOR---
+11525 H 7500
+4.2.2
+ID: TUR 34 - A
+Basketbol Süper Ligi
+Besiktas - Turk Telekom
+CW: 43 AF 1C 0E D4 28 89 85
+---FEED-SEPARATOR---
+10.0°E
+11273 H 7200
+4:2:2
+ID: Encoder 1
+CW: D0 92 7E E0 51 FF AD FD
+LBA SuperCoppa
+---FEED-SEPARATOR---
+36E
+11682 H 4000
+4.2.0
+ID: SNG 02 - Chain A
+UAE LEAGUE WOMEN
+CW: 96 80 C7 DD 03 45 2B 73
