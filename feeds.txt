@@ -230,6 +230,16 @@ ID:BT_SES_24_SDI (SES)
 English Championship, Coventry City v Birmingham City
 CW: 92 1F 44 F5 2A 32 53 AF
 ---FEED-SEPARATOR---
+Premier League 
+Crystal Palace vs Liverpool
+Eutelsat 3B @ 3.1° E
+Fréq:10958 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: beIN SPORTS
+Fréq:10968 - H - 7500
+ID:  Service-1
+CW: BC 4C D1 D9 28 72 CF 69
+---FEED-SEPARATOR---
 3.1E
 10987 H 7500
 4.2.0
