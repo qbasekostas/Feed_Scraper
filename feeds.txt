@@ -284,6 +284,17 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 55 C6 76 91 5F 31 D8 68
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 7
+Villarreal vs. Athletic Bilbao
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 5C 99 1D 12 E3 AA EF 7C
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 2 
@@ -369,6 +380,11 @@ ID: Pitch Coventry v Birmingham
 Event:  
   English Championship, Coventry City v Birmingham City
 CW: 92 1F 44 F5 2A 32 53 AF
+---FEED-SEPARATOR---
+Hispasat (30.0°W)
+11627 H 9600 
+Mark as encr. but it's FTA
+Supercopa ACB semifinals (now Unicaja vs Valencia // 21:00 CEST Real Madrid vs Tenerife)
 ---FEED-SEPARATOR---
 Albahraniy said:
 			Eutelsat 7B/7C @ 7.0E
