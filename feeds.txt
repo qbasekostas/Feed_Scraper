@@ -284,6 +284,21 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 55 C6 76 91 5F 31 D8 68
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,99Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 7
+Teams: Villarreal CF vs Athletic Club
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Dani Sat said:
+CW: 5C 99 1D 12 E3 AA EF 7C
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 7
 Villarreal vs. Athletic Bilbao
 Eutelsat 10B @ 10.0°E
@@ -436,6 +451,22 @@ ID: TUR 34 - A
 Event:  
 Turkish Super Lig,   Besiktas - Turk Telekom
 CW: 43 AF 1C 0E D4 28 89 85
+---FEED-SEPARATOR---
+7E
+10996 V 7200
+4.2.0
+ID: Fi01_ACB
+Supercopa ACB
+Real Madrid - Tenerife
+CW: DC 38 68 7C CF E1 E9 99
+---FEED-SEPARATOR---
+7E
+12685 H 7500
+4.2.0
+ID: beINSPORTS TURKEY 3
+Basketbol Süper Ligi
+Tofas - Fenerbahce BEKO
+CW: 12 2B 15 52 93 E1 FD 71
 ---FEED-SEPARATOR---
 11525 H 7500
 4.2.2
