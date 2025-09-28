@@ -1,3 +1,11 @@
+German 1. Bundesliga - Week 5
+ FC Cologne v Stuttgart 
+ ST: 16:30
+EUTELSAT 10 E cband 
+3900 V 3750.    4:2:0
+ID: Signal 6 
+CW: 22 24 CD 13 DC 22 42 40
+---FEED-SEPARATOR---
 28.2e
 12728 H 7200
 4:2:0
@@ -36,8 +44,33 @@ Eutelsat 10 E cband
 ID: Serie A -Sassuolo v Udinese 
 CW: 22 24 CD 13 DC 22 42 40
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,07Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 7
+Teams: FC Barcelona vs Real Sociedad
+Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 18.30 CET
+Dani Sat said:
+CW: C1 EE 34 E3 7C 73 51 40
+Click to expand...
+---FEED-SEPARATOR---
+LaLiga - FC Barcelona vs Real Sociedad
+100.5°E
+3840 H 30000
+ID : OVERON 3
+DVB-S2 8PSK 
+4:2:2
+ 1080i
+SID : 45 (2D)
+CW: 91 7D 53 61 2E 59 AE 35
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 7
-Real Valladolid vs. Cultural Leonesa
+Sporting Gijón vs.  Albacete
 Eutelsat 10B @ 10.0°E
 10768 - V - 34000 
 |
@@ -185,3 +218,12 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 - DVB-S2 - 8PSK
 ID: AEK VS VOLOS
 CW: E0 1C FF FB 83 D5 EA 42
+---FEED-SEPARATOR---
+Greek Super League 1
+Asteras Tripolis Vs PAOK
+39.0°E @ Hellas Sat 3/4 
+11016 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  E394 MAIN (OVERON)
+CW: A9 1E FF C6 73 D8 6E B9
