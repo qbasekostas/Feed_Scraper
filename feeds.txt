@@ -1,3 +1,13 @@
+28.2e
+12728 H 7200
+4:2:0
+ID: 
+D-331 TX1
+3. Liga
+ Hoffenheim II  vs  Ulm
+C9 E0 DE 8E 89 75 48 D7  #CW: 
+28 09 AC DD DC 00 02 DE
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 5
 FC Cologne vs. Stuttgart
 Eutelsat 7B/7C @ 7.0°E
@@ -25,6 +35,17 @@ Eutelsat 10 E cband
 3900 V 3750.    4:2:0
 ID: Serie A -Sassuolo v Udinese 
 CW: 22 24 CD 13 DC 22 42 40
+---FEED-SEPARATOR---
+Spanish La Liga 2 - Matchday 7
+Real Valladolid vs. Cultural Leonesa
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 35 2D 8A EC F1 97 D4 5C
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 7
 Barcelona vs. Real Sociedad
