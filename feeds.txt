@@ -1,4 +1,15 @@
 German 1. Bundesliga - Week 5
+Union Berlin vs. Hamburg
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi03
+CW: 59 5B BB 6F 3A DC 4E 64
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 5
  FC Cologne v Stuttgart 
  ST: 16:30
 EUTELSAT 10 E cband 
@@ -43,6 +54,15 @@ Eutelsat 10 E cband
 3900 V 3750.    4:2:0
 ID: Serie A -Sassuolo v Udinese 
 CW: 22 24 CD 13 DC 22 42 40
+---FEED-SEPARATOR---
+3.1E
+10960 H 7500
+10969 H 7500
+4.2.0
+ID: beIN SPORTS / Service-1
+LaLiga
+Barcelona - Real Sociedad
+CW: BC 4C D1 D9 28 72 CF 69
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
