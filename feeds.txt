@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 5
+FC Cologne vs. Stuttgart
+Eutelsat 7B/7C @ 7.0°E
+11009 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi04
+CW: B4 AF 58 BB AC 93 79 B8
+---FEED-SEPARATOR---
 Germany Bundesliga, Round 5
 SC Freiburg vs TSG Hoffenheim
 Eutelsat 7B/7C @ 7.0E
@@ -69,6 +80,14 @@ ID: SUPPONOR AFRICA 1
 CW: EE 9C 9C 26 6C 70 39 15
 ID: SUPPONOR MENA 1
 CW: A7 00 0E B5 FF 95 12 A6
+---FEED-SEPARATOR---
+28.2E
+12642 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish SWPL 1 - Week 7
+Rangers v Glasgow City
 ---FEED-SEPARATOR---
 3.1E
 - Name:           BeIn Sports Newcastle unilateral (NEP CONNECT)
