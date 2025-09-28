@@ -1,3 +1,12 @@
+Germany Bundesliga, Round 5
+SC Freiburg vs TSG Hoffenheim
+Eutelsat 7B/7C @ 7.0E
+11020 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: GVA_Fi03 
+CW: 52 FC 5A A8 EA 68 FA 4C
+---FEED-SEPARATOR---
 Italian Serie A - Week 5
 Sassuolo v Udinese
 ST: 11:30
