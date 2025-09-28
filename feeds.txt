@@ -55,6 +55,21 @@ Eutelsat 10 E cband
 ID: Serie A -Sassuolo v Udinese 
 CW: 22 24 CD 13 DC 22 42 40
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,02Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 7
+Teams: Real Betis vs CA Osasuna
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Dani Sat said:
+CW: 2E 11 39 78 B4 D1 AA 2F
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 7
 Real Betis vs. Osasuna
 Eutelsat 10B @ 10.0°E
@@ -230,12 +245,26 @@ SID : 1
 Recurring CW : 
 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+FIFA WORLD CUP U20 CHILE 2025
+47,5W C
+ID:U20 VALPARAISO MAIN
+TP:3880 V 7200
+CW: 0A 5B 06 6B CC DF D7 82
+---FEED-SEPARATOR---
 Fifa Copa del Mundo Sub 20 
 47,5W C
 ID:U20 Santiago Main
 Tp:3871 V 7199
 HD 4.2.0 
 CW: 0A 5B 06 6B CC DF D7 82
+---FEED-SEPARATOR---
+FIFA U-20 Women's World Cup Qualifiers – 
+Poland 2026 (Second Round)
+Morocco vs. Côte d'Ivoire
+Eutelsat 21B ( 21.6E )
+11585 Horizontal 3998,897
+DVB-S2 - 4:2:0 - 8PSK
+CW: FE ED 28 13 09 20 25 4E
 ---FEED-SEPARATOR---
 10.0°E
 11273 H 7200
@@ -275,6 +304,17 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 - DVB-S2 - 8PSK
 ID: AEK VS VOLOS
 CW: E0 1C FF FB 83 D5 EA 42
+---FEED-SEPARATOR---
+Greek Super League 1 - Week 5
+Panetolikos vs. Panathinaikos
+Eutelsat 7B/7C @ 7.0°E
+11523 - V - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: PANETOLIKOS VS PAO M
+CW: B8 4D 1E 23 3D 0A F5 3C
 ---FEED-SEPARATOR---
 Greek Super League 1
 Asteras Tripolis Vs PAOK
