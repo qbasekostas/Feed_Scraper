@@ -17,6 +17,22 @@ CW: 22 24 CD 13 DC 22 42 40
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,98Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 7
+Teams: Elche CF vs Celta Vigo
+Time / Kickoff: 21.15 JKT-TH / 22.15 MY-SG / 14.15 GMT / 16.15 CET
+abed1988 said:
+#CW:
+5E D5 71 A4 5E DA D8 10
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OVERON 1 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
@@ -42,6 +58,17 @@ ID: SUPPONOR AFRICA 1
 CW: EE 9C 9C 26 6C 70 39 15
 ID: SUPPONOR MENA 1
 CW: A7 00 0E B5 FF 95 12 A6
+---FEED-SEPARATOR---
+Scottish Premiership - Week 6
+Livingston vs. Rangers
+Eutelsat 10B @ 10.0°E
+11270 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 3
+CW: DC 11 AD 9A 45 DF DF 03
 ---FEED-SEPARATOR---
 19.2°E
 11605 H 10000
@@ -85,3 +112,14 @@ DVB-S2 - 1080P - 8PSK
 4:2:2
 ID: Encoder 1
 CW: D0 92 7E E0 51 FF FE 4E
+---FEED-SEPARATOR---
+Greek Super League 1 - Week 5
+AEK Athens v Volos NFC
+Eutelsat 7B/7C @ 7.0°E
+11523 - V - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: AEK VS VOLOS
+CW: E0 1C FF FB 83 D5 EA 42
