@@ -43,6 +43,15 @@ CW: EE 9C 9C 26 6C 70 39 15
 ID: SUPPONOR MENA 1
 CW: A7 00 0E B5 FF 95 12 A6
 ---FEED-SEPARATOR---
+19.2°E
+11605 H 10000
+4:2:0
+ID: Sky Satt DR Vivi manc V Lond
+11618 H 10000
+4:2:0
+ID: Sky Satt Vivid Bri V Ever
+CW: 12 34 5A A0 20 25 09 4E
+---FEED-SEPARATOR---
 orangebirds said:
 EFL Championship Highlights
 100.5°E
