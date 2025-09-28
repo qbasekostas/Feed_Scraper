@@ -1,3 +1,11 @@
+Italian Serie A - Week 5
+Sassuolo v Udinese
+ST: 11:30
+Eutelsat 10 E cband 
+3900 V 3750.    4:2:0
+ID: Serie A -Sassuolo v Udinese 
+CW: 22 24 CD 13 DC 22 42 40
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
 1920*1080 | DVB-S2 | 8PSK
