@@ -59,6 +59,17 @@ CW: EE 9C 9C 26 6C 70 39 15
 ID: SUPPONOR MENA 1
 CW: A7 00 0E B5 FF 95 12 A6
 ---FEED-SEPARATOR---
+3.1E
+- Name:           BeIn Sports Newcastle unilateral (NEP CONNECT)
+- Freq: 10968,770
+- Pol: Horizontal
+- SR: 7499,874
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+15 CB DC D9 D6 9B 8D 89  
+CW: CA 54 CB E9 55 DA 66 95
+---FEED-SEPARATOR---
 Scottish Premiership - Week 6
 Livingston vs. Rangers
 Eutelsat 10B @ 10.0°E
