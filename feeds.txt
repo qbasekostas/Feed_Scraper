@@ -251,11 +251,11 @@ ID:U20 VALPARAISO MAIN
 TP:3880 V 7200
 CW: 0A 5B 06 6B CC DF D7 82
 ---FEED-SEPARATOR---
-Fifa Copa del Mundo Sub 20 
+Fifa Copa del Mundo Sub 20
 47,5W C
 ID:U20 Santiago Main
 Tp:3871 V 7199
-HD 4.2.0 
+HD 4.2.0
 CW: 0A 5B 06 6B CC DF D7 82
 ---FEED-SEPARATOR---
 FIFA U-20 Women's World Cup Qualifiers – 
