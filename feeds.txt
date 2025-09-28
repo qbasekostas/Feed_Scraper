@@ -230,6 +230,13 @@ SID : 1
 Recurring CW : 
 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Fifa Copa del Mundo Sub 20 
+47,5W C
+ID:U20 Santiago Main
+Tp:3871 V 7199
+HD 4.2.0 
+CW: 0A 5B 06 6B CC DF D7 82
+---FEED-SEPARATOR---
 10.0°E
 11273 H 7200
 4:2:2
