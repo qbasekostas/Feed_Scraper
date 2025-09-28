@@ -55,6 +55,17 @@ Eutelsat 10 E cband
 ID: Serie A -Sassuolo v Udinese 
 CW: 22 24 CD 13 DC 22 42 40
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 7
+Real Betis vs. Osasuna
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 2E 11 39 78 B4 D1 AA 2F
+---FEED-SEPARATOR---
 3.1E
 10960 H 7500
 10969 H 7500
@@ -225,6 +236,18 @@ Recurring CW :
 ID: Encoder 1
 CW: FF CD D0 9C 92 8E 51 71
 LBA Super Cup
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+Men's Basketball: Polish Super Cup - Final Match
+12606 V 9600
+   POL-080 POL-FIN (POLSAT)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+19.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 20 25 AB F0 CD 1E CA B5
 ---FEED-SEPARATOR---
 LBA
 BOLOGNA vs MILAN
