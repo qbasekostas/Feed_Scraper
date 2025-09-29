@@ -30,6 +30,14 @@ LaLiga
 Valencia CF - Real Oviedo
 CW: 76 BF 4F 84 B5 3F BE B2
 ---FEED-SEPARATOR---
+Premier League 
+Intelsat 1.0 West
+11499 - V - 7200 |4:2:0 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID:   
+everton v wh sat feedl
+CW: 12 34 5A A0 20 25 09 4E
+---FEED-SEPARATOR---
 UEFA Champions League 
 Kairat Almaty vs Real Madrid
 TOMORROW 
