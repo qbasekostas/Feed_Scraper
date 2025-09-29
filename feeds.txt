@@ -55,6 +55,14 @@ TOMORROW
 ID: Service 01
 CW: 51 AB C4 C0 5B 41 41 DD
 ---FEED-SEPARATOR---
+36E
+11666 H 4000
+4.2.0
+ID: SNG 03 - Chain B
+Friendly Club Tournament Abu Dhabi
+ TNT Tropang 5G vs Al-Sharjah
+CW: BC 69 03 28 54 70 56 1A
+---FEED-SEPARATOR---
 42E
 11514 V 7500
 4.2.2
