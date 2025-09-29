@@ -6,6 +6,14 @@ DFB Pokal, Women
  Borussia Dortmund vs Bayern Munich
 CW: 29 09 AB DD BA 11 04 CF
 ---FEED-SEPARATOR---
+16E
+11135 H 7200
+4.2.0
+ID: ITA 81 A
+Serie C
+AZ Picerno - Calcio Foggia 1920
+CW: A9 8B 23 57 07 A3 7B 25
+---FEED-SEPARATOR---
 Italian Serie A - Week 5
  Parma v Torino 
  ST: 17:30
