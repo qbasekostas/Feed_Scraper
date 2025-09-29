@@ -38,3 +38,11 @@ TOMORROW
 4.2.0 HD
 ID: Service 01
 CW: 51 AB C4 C0 5B 41 41 DD
+---FEED-SEPARATOR---
+42E
+11514 V 7500
+4.2.2
+ID: TUR-161 Main
+Basketbol Süper Ligi
+Merkezefendi Belediyesi - Bursaspor
+CW: 65 79 E3 C1 96 6F D1 D6
