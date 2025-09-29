@@ -1,0 +1,8 @@
+Mundial Fifa Chile 2025
+47,5W C
+ID: Talca
+Tp: 3880 v 7199
+ID: U20 Rancagua Main
+Tp:3871 V 7199
+HD 4.2.0
+CW: 6D 97 AA AE D8 8D 27 8C
