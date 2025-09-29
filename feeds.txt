@@ -13,3 +13,12 @@ ID: OVERON 1
 LaLiga
 Valencia CF - Real Oviedo
 CW: 76 BF 4F 84 B5 3F BE B2
+---FEED-SEPARATOR---
+UEFA Champions League 
+Kairat Almaty vs Real Madrid
+TOMORROW 
+16.0E
+11095 H 7200
+4.2.0 HD
+ID: Service 01
+CW: 51 AB C4 C0 5B 41 41 DD
