@@ -25,3 +25,14 @@ ID: TKS.TRT.M17A
 UEFA Youth League
 Galatasaray U-19 vs. Liverpool U-19
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Event:
+Europe Euro league - Round 1
+Teams : Dubai 
+ Partizan
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11097 H 7200
+  UAE074-BU  (CUBIC-74  )
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: A5 1A 7E 3D 59 24 C4 41
