@@ -1,3 +1,63 @@
+Event :ItalySerie B - Round 6
+Teams :Entella 
+ Bari
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11145 H 9599
+ UKI 1678 PATH1 (Service Provider)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+21.396
+  Mbit/Sec|8PSK DVB-S2 HD
+CW: BC 06 20 E2 25 30 09 5E
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event :ItalySerie B - Round 6
+Teams :Entella 
+ Bari
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11145 H 9599
+ UKI 1678 PATH1 (Service Provider)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+21.396
+  Mbit/Sec|8PSK DVB-S2 HD
+CW: BC 06 20 E2 25 30 09 5E
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11157 H 9599
+  ITA396 (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 
+|21.396
+  Mbit/Sec|8PSK DVB-S2 HD
+CW: BC 06 20 E2 25 30 09 5E
+---FEED-SEPARATOR---
+10E
+11269 H 17000
+4.2.2
+ID: PGM - CAM 1
+Serie B
+Abo Saeid Satellite said:
+CW: BC 06 20 E2 25 30 09 5E
+Click to expand...
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 7
+Valencia vs. Real Oviedo
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 76 BF 4F 84 B5 3F BE B2
+---FEED-SEPARATOR---
 EFL Championship - Derby County vs Charlton Athletic
 100.5°E
 3994 V 7120
@@ -14,6 +74,14 @@ ID: U20 Rancagua Main
 Tp:3871 V 7199
 HD 4.2.0
 CW: 6D 97 AA AE D8 8D 27 8C
+---FEED-SEPARATOR---
+21.6E
+12634 H 14400
+4.2.0
+ID: UKI 1085 MAIN ENC 1
+UEFA Champions League
+Pafos FC - FC Bayern Munich
+CW: 1A 2B 3C 81 4D 5E 6F 1A
 ---FEED-SEPARATOR---
 UEFA CL - Matchday 2: 
 Multiplex & Highlights
@@ -55,6 +123,30 @@ ID: TKS.TRT.M17A
 UEFA Youth League
 Galatasaray U-19 vs. Liverpool U-19
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+7°E
+12546 
+H
+ 7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:YSM-020M
+CW: 62 D7 C2 FB 17 E3 1E 18
+---FEED-SEPARATOR---
+Euroleague
+Virtus Bologna
+Real Madrid
+​
+7°E
+11106 
+H
+ 7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:ita390
+CW: A2 B6 C8 20 92 EC C3 41
 ---FEED-SEPARATOR---
 39E
 11666 H 4000
