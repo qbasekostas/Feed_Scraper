@@ -7,6 +7,18 @@ Tp:3871 V 7199
 HD 4.2.0
 CW: 6D 97 AA AE D8 8D 27 8C
 ---FEED-SEPARATOR---
+Event :Europe Champions League - League phase - Round 2 tommorow
+Teams :Arsenal 
+ Olympiacos Piraeus
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12681 H 14800
+ UKI 1678 PATH1 (Service Provider)
+MPEG4-4:2.0 HD 1920x1080 |
+32.680
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: E2 71 21 74 B3 BB 9D 0B
+---FEED-SEPARATOR---
 Eutelsat 7E
 12726 V 7200 S2 4:2:2
 ID: TKS.TRT.M17A
