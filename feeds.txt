@@ -87,6 +87,8 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 76 BF 4F 84 B5 3F BE B2
 ---FEED-SEPARATOR---
+Dele...
+---FEED-SEPARATOR---
 EFL Championship - Derby County vs Charlton Athletic
 100.5°E
 3994 V 7120
