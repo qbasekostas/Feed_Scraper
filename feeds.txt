@@ -87,7 +87,14 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 76 BF 4F 84 B5 3F BE B2
 ---FEED-SEPARATOR---
-Dele...
+orangebirds said:
+EFL Championship - Derby County vs Charlton Athletic
+CW: 29 4C AD 22 2E 41 4E BD
+Click to expand...
+7.0E
+12703 V 7120
+4.2.0 HD
+ID: Pitch Derby county Charlton
 ---FEED-SEPARATOR---
 EFL Championship - Derby County vs Charlton Athletic
 100.5°E
@@ -106,10 +113,43 @@ Tp:3871 V 7199
 HD 4.2.0
 CW: 6D 97 AA AE D8 8D 27 8C
 ---FEED-SEPARATOR---
+KAIRAT V REAL MADRID
+16.0E
+11020 V 11243
+ID: KAZ-009M
+4:2:2 | 16APSK | DVB-S2x | 30Mbps
+CW: FTA
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11543- V - 8023
 DVB-S2x-4:2:2-16APSK
 ID:E379 M1 MAIN
+---FEED-SEPARATOR---
+21.6E
+12651 H 14400
+4.2.0
+ID: UKI 1085 BC ENC 2
+UEFA Champions League
+ Pafos FC - FC Bayern Munich
+CW: A1 B2 C3 16 D4 E5 F6 AF
+---FEED-SEPARATOR---
+UEFA Champions League
+Chelsea vs  Benfica
+3.1°E
+10960 H 7500
+4.2.0 HD
+ID: beIN sports 
+10969 H 7500
+ID: Service-1
+CW: BC 4C D1 D9 28 72 CF 69
+---FEED-SEPARATOR---
+16.0E
+11097 H 7200
+4.2.0
+ID: Service 01
+UEFA Champions League
+Kairat - Real Madrid
+CW: 51 AB C4 C0 5B 41 41 DD
 ---FEED-SEPARATOR---
 Aboute
 Dortmund VS Athletic Club
@@ -172,6 +212,30 @@ ID: TKS.TRT.M17A
 UEFA Youth League
 Galatasaray U-19 vs. Liverpool U-19
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Eurocup
+Hamburg
+7°E
+12645 
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:BB EC Hamburg
+CW: BB EE 30 D9 09 20 25 4E
+---FEED-SEPARATOR---
+Eurocup
+Umana vs Aris
+7°E
+12555 
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:ITA633_A
+CW: C1 38 2D 26 A2 AD CB 1A
 ---FEED-SEPARATOR---
 7E
 11523 V 7200
