@@ -61,6 +61,21 @@ MPEG4-
   Mbit/Sec|8PSK DVB-S2 HD
 CW: BC 06 20 E2 25 30 09 5E
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,87Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 7
+Teams: Valencia CF vs Real Oviedo
+Time / Kickoff: 01.00 JKT-TH / 02.00 MY-SG / 18.00 GMT / 20.00 CET
+Dani Sat said:
+CW: 76 BF 4F 84 B5 3F BE B2
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 7
 Valencia vs. Real Oviedo
 Eutelsat 10B @ 10.0°E
@@ -88,6 +103,24 @@ ID: U20 Rancagua Main
 Tp:3871 V 7199
 HD 4.2.0
 CW: 6D 97 AA AE D8 8D 27 8C
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11543- V - 8023
+DVB-S2x-4:2:2-16APSK
+ID:E379 M1 MAIN
+---FEED-SEPARATOR---
+Aboute
+Dortmund VS Athletic Club
+01/10/25
+7°E
+11189  
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID: Dortmund Feed C
+CW: 2A AA 21 F5 3A 32 1A 86
 ---FEED-SEPARATOR---
 21.6E
 12634 H 14400
@@ -142,7 +175,13 @@ CW: 4E 5B 29 D2 6D D4 6A AB
 11523 V 7200
 4.2.2
 ID: TKS.TRT.M17-A
-CW: B3 0D D0 90 A9 B2 5E AA
+Eurocup
+Turk Telekom
+-
+Ulm
+CW: B3 0D D0 90
+9A
+ B2 5E AA
 ---FEED-SEPARATOR---
 Euroleague
 Anadolu Efes SK
