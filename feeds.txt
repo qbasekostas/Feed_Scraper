@@ -1,3 +1,11 @@
+EFL Championship - Derby County vs Charlton Athletic
+100.5°E
+3994 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 29 4C AD 22 2E 41 4E BD
+---FEED-SEPARATOR---
 Mundial Fifa Chile 2025
 47,5W C
 ID: Talca
