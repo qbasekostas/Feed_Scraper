@@ -1,0 +1,15 @@
+Bundesliga
+Eutelsat 7B/7C @ 7.0E
+11083 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:Fi11GNVE_Bundesliga
+CW: 0D AB F9 B1 6B B8 80 A3
+---FEED-SEPARATOR---
+UEFA Champions League .
+Highlights
+7.0E
+12648 V 14400
+4.2.2 HD
+ID: CPC Reserse Feed (CBC RTL)
+CW: 0D A5 0C BE A5 FC A4 45
