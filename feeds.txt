@@ -1,3 +1,12 @@
+Astra 19.2E
+11618 V 7200
+DVB-S2 8PSK
+ID: 3L 1860-KÃ¶ln
+1920x1080i 25fps 4:2:0
+CW: 01 10 AC BD DC 00 04 E0
+3rd Bundesliga
+1860 Munich vs. Viktoria Cologne
+---FEED-SEPARATOR---
 Bundesliga
 Eutelsat 7B/7C @ 7.0E
 11083 H 14400
