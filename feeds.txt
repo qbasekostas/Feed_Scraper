@@ -1,3 +1,38 @@
+Astra 28.5E
+12726 H 7200
+DVB-S2 8PSK
+ID: D-473
+1920x1080i 25fps 4:2:0
+CW: 01 10 AC BD DC 00 03 DF
+3rd Bundesliga
+SSV Ulm 1846 vs. Schweinfurt 05
+---FEED-SEPARATOR---
+Astra 28.5E
+12632 V 7200
+DVB-S2 8PSK
+ID: D-331 TX1
+1920x1080i 25fps 4:2:0
+CW: 01 10 AC BD DC 00 01 DD
+3rd Bundesliga
+Rot Weiss Essen vs. Hoffenheim II
+---FEED-SEPARATOR---
+Astra 28.5E
+12610 V 7200
+DVB-S2 8PSK
+ID: D-528
+1920x1080i 25fps 4:2:0
+CW: 01 10 AC BD DC 00 02 DE
+3rd Bundesliga
+Verl vs. Ingolstadt
+---FEED-SEPARATOR---
+19.2E
+11633 V 7200
+4.2.0
+ID: D-167
+3. Liga
+VfL Osnabrück - SSV Jahn Regensburg
+CW: 01 10 AC BD DC 00 05 E1
+---FEED-SEPARATOR---
 Astra 19.2E
 11618 V 7200
 DVB-S2 8PSK
@@ -58,6 +93,22 @@ Highlights
 4.2.2 HD
 ID: CPC Reserse Feed (CBC RTL)
 CW: 0D A5 0C BE A5 FC A4 45
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C 7.0E
+12680 Horizontal 14796,765
+4.2.0 HD
+ID:UKI 1678 PATH1 (Service Provider)
+CW: E2 71 21 74 B3 BB 9D 0B
+---FEED-SEPARATOR---
+UEFA Champions League 
+ Monaco vs Manchester City
+Eutelsat 3B @ 3.1° E
+Fréq:10958 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: beIN SPORTS
+Fréq:10968 - H - 7500
+ID:  Service-1
+CW: BC 4C D1 D9 28 72 CF 69
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C 7.0E
 11180 Horizontal 7198,477
@@ -144,6 +195,20 @@ ID: SNG 03 - Chain A
 Friendly Club Tournament Abu Dhabi
 Al Qurain vs Al Wahda Abu Dhabi
 CW: A9 04 7D 2A 15 26 38 73
+---FEED-SEPARATOR---
+Euroleague
+ASVEL Lyon Villeurbanne
+Valencia Basket
+​
+7°E
+11106 
+H  
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:F560
+CW: C9 F7 56 16 14 FC C8 D8
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C 7.0E
 11522 Vertical 7198,455
