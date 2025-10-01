@@ -22,6 +22,16 @@ Highlights
 ID: CPC Reserse Feed (CBC RTL)
 CW: 0D A5 0C BE A5 FC A4 45
 ---FEED-SEPARATOR---
+3.1E
+10978 H 7500
+4.2.0
+ID: Overon E-340 Via 1
+About
+UEFA Champions League
+FC Barcelona - Paris Saint-Germain F.C.
+Villarreal CF - Juventus FC
+CW: BD 31 3E 2C C2 2A 7A 66
+---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7B/7C @ 7.0E
 12735 V 7200
@@ -59,6 +69,17 @@ ID: SNG 03 - Chain A
 Friendly Club Tournament Abu Dhabi
 Al Qurain vs Al Wahda Abu Dhabi
 CW: A9 04 7D 2A 15 26 38 73
+---FEED-SEPARATOR---
+Euroleague - Round 1: 
+Monaco Basket vs. Zalgiris Kaunas
+Eutelsat 7B/7C @ 7.0°E
+11070 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: F489 BKUP
+CW: 63 B9 EA 06 56 47 54 F1
 ---FEED-SEPARATOR---
 xachik said:
 CW: CC D3 4B EA AB D3 9D 1B
