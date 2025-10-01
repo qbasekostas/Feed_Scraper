@@ -6,6 +6,26 @@ DVB-S2 - 1080P - 8PSK
 ID:Fi11GNVE_Bundesliga
 CW: 0D AB F9 B1 6B B8 80 A3
 ---FEED-SEPARATOR---
+Eutelsat 7A/7C (7.0°E)
+11126 - Horizontal - 9600 4:2:2
+Serie B, Round 6
+Pescara vs Südtirol
+CW : BC 06 20 E2 25 01 10 36
+---FEED-SEPARATOR---
+Eutelsat 7A/7C (7.0°E)
+11140 -  Horizontal - 9600  4:2:2
+Serie B, Round 6
+Pescara vs Südtirol
+CW : BC 06 20 E2 25 01 10 36
+---FEED-SEPARATOR---
+16E
+12548 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: No name
+UEFA Champions League - Matchday 2
+Union St Gilloise v Newcastle United
+---FEED-SEPARATOR---
 EuropeUEFA Youth League - League phase - Round 2
 Villarreal U19 - Juventus U19
 7.0ºEast
@@ -22,8 +42,23 @@ Highlights
 ID: CPC Reserse Feed (CBC RTL)
 CW: 0D A5 0C BE A5 FC A4 45
 ---FEED-SEPARATOR---
+Dani Sat said:
+UEFA CL - Matchday 2: 
+Multiplex & Highlights
+Eutelsat 7B/7C @ 7.0°E
+10997 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi01
+Click to expand...
+NEW 
+CW: A1 36 56 2D E9 9F F9 81
+---FEED-SEPARATOR---
 3.1E
-10978 H 7500
+10978 H 
+7200
 4.2.0
 ID: Overon E-340 Via 1
 About
@@ -50,6 +85,16 @@ UEFA Champions League
 Barcelona vs Paris St Germain
 CW: BA DA 25 B9 84 CA BA 08
 ---FEED-SEPARATOR---
+1W
+11464 V 7200 
+4:2:0
+DVB-S2 8PSK
+ID Basket PD
+FIBA EUROPE CUP - QUALIFICATION - FINAL
+Prievidza
+ vs 
+Cibona
+---FEED-SEPARATOR---
 16e
 12565 H 7200
 4:2:0
@@ -69,6 +114,12 @@ ID: SNG 03 - Chain A
 Friendly Club Tournament Abu Dhabi
 Al Qurain vs Al Wahda Abu Dhabi
 CW: A9 04 7D 2A 15 26 38 73
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C 7.0E
+11522 Vertical 7198,455
+4.2.0 HD
+ID: Medialink CRO-021/1 (MediaLink)
+CW: 01 7A DF 5A 5F CC 05 30
 ---FEED-SEPARATOR---
 7E
 12727 V 7200
@@ -107,8 +158,12 @@ Click to expand...
 4:2:0
 ID: 
 Clock - M
-16e
-12573 H 7200
-4:2:0
-ID: 
-072-MSG CAM- BU
+12573 Poste Above
+---FEED-SEPARATOR---
+16E
+12575 H 7200
+4.2.0
+ID: 072-MSG CAM-BU
+About
+UAE Pro League
+CW: CC D3 4B EA AB D3 9D 1B
