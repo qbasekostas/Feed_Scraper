@@ -70,6 +70,16 @@ Friendly Club Tournament Abu Dhabi
 Al Qurain vs Al Wahda Abu Dhabi
 CW: A9 04 7D 2A 15 26 38 73
 ---FEED-SEPARATOR---
+7E
+12727 V 7200
+4.2.0
+ID: LAT-022
+Eurocup
+Lietkabelis
+-
+Besiktas
+CW: BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
 Euroleague - Round 1: 
 Monaco Basket vs. Zalgiris Kaunas
 Eutelsat 7B/7C @ 7.0°E
