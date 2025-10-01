@@ -50,6 +50,20 @@ DVB-S2 - 1080P - 8PSK
 ID:Fi11GNVE_Bundesliga
 CW: 0D AB F9 B1 6B B8 80 A3
 ---FEED-SEPARATOR---
+A.ElSadek said:
+CW : BC 06 20 E2 25 01 10 36
+Click to expand...
+Serie B, Round 6
+Pescara vs Südtirol
+7°E
+12509 
+H 
+7200
+DVB-S2-
+4:2:2
+-8PSK
+ID: ITA 81 A
+---FEED-SEPARATOR---
 Eutelsat 7A/7C (7.0°E)
 11126 - Horizontal - 9600 4:2:2
 Serie B, Round 6
@@ -61,6 +75,19 @@ Eutelsat 7A/7C (7.0°E)
 Serie B, Round 6
 Pescara vs Südtirol
 CW : BC 06 20 E2 25 01 10 36
+---FEED-SEPARATOR---
+English Championship - Week 8
+Queens Park Rangers vs. Oxford United 
+Eutelsat 7B/7C @ 7.0°E
+12677 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch QPR v Oxford
+orangebirds said:
+CW: 3B AF 25 0F 34 23 AD 04
+Click to expand...
 ---FEED-SEPARATOR---
 EFL Championship - Queens Park Rangers vs Oxford United
 100.5°E
@@ -94,8 +121,9 @@ Highlights
 ID: CPC Reserse Feed (CBC RTL)
 CW: 0D A5 0C BE A5 FC A4 45
 ---FEED-SEPARATOR---
+Arsenal- Olympiacos Piraeus
 Eutelsat 7A/7B/7C 7.0E
-12680 Horizontal 14796,765
+12680 H 14796
 4.2.0 HD
 ID:UKI 1678 PATH1 (Service Provider)
 CW: E2 71 21 74 B3 BB 9D 0B
