@@ -121,12 +121,12 @@ Highlights
 ID: CPC Reserse Feed (CBC RTL)
 CW: 0D A5 0C BE A5 FC A4 45
 ---FEED-SEPARATOR---
-Arsenal- Olympiacos Piraeus
-Eutelsat 7A/7B/7C 7.0E
-12680 H 14796
-4.2.0 HD
-ID:UKI 1678 PATH1 (Service Provider)
-CW: E2 71 21 74 B3 BB 9D 0B
+Villarreal vs Juventus
+Eutelsat 3.1e C band
+3796 V 7200
+ID: UEFA
+DVB-S2 - 1080P - 8PSK
+CW: 5D 91 8C 7A 9D EA 58 DF
 ---FEED-SEPARATOR---
 UEFA Champions League 
  Monaco vs Manchester City
