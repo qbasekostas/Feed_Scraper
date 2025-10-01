@@ -6,6 +6,14 @@ DVB-S2 - 1080P - 8PSK
 ID:Fi11GNVE_Bundesliga
 CW: 0D AB F9 B1 6B B8 80 A3
 ---FEED-SEPARATOR---
+EuropeUEFA Youth League - League phase - Round 2
+Villarreal U19 - Juventus U19
+7.0ºEast
+11542 V 7199
+MPEG4 - 4.2.0 - DVB-S2
+ID: E-269 Via 1
+CW: AB  BE 13 7C 52 AB BB B8
+---FEED-SEPARATOR---
 UEFA Champions League .
 Highlights
 7.0E
