@@ -22,6 +22,24 @@ Highlights
 ID: CPC Reserse Feed (CBC RTL)
 CW: 0D A5 0C BE A5 FC A4 45
 ---FEED-SEPARATOR---
+UEFA Champions League
+Eutelsat 7B/7C @ 7.0E
+12735 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: E458 Feed 1
+CW: 19 39 84 D6 91 47 47 1F
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11166- H - 14400
+MPEG 4 - 4:2:0 - DVB-S2
+ID:L1/FLY9/ENCODEUR 9.1/L1 INTER CLEAN
+New ID:
+ UCL BCN Vs PSG Main
+UEFA Champions League
+Barcelona vs Paris St Germain
+CW: BA DA 25 B9 84 CA BA 08
+---FEED-SEPARATOR---
 16e
 12565 H 7200
 4:2:0
