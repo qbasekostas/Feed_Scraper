@@ -13,6 +13,37 @@ Eutelsat 7B (7.0°E)
 DVB-S2 - 4:2:0 
 Name :  CRO 005 M33
 ---FEED-SEPARATOR---
+Feed Canal+ France
+UEFA Europa League
+AS Roma - Lille
+Eutelsat 7A/7B/7C @ 7.0E
+11167 H 17142
+ID: ITA548 UCL Feed2 Cam ITW (Elpitel)
+11185 H 17143
+ID: ITA548 UCL Feed1 PostCom (Elpitel)
+1920x1080 |45.210Mb/Sec |16APSK |4:2:2 HD
+CW: 58 64 DB 97 AB 45 BA AA
+---FEED-SEPARATOR---
+UEFA Europa League - Matchday 2
+FCSB vs. Young Boys
+Intelsat 10-02 @ 1.0°W
+12541 - V - 6660 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: B 123 DGI
+CW: 02 10 20 32 25 AB CD 9D
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12594 V  9600
+ID: POL 068 CH1
+Event: 
+UEFA Conference League - match: Lech Poznań - SK Rapid Vienna
+4.2.2
+- DVB-S2 - 8PSK
+CW: 20 25 AB F0 CD 1E CA B5
+---FEED-SEPARATOR---
 Arabsat-5A ( 30.5° E)
 12718 - Horizontal - 5000
 4:2:0 - DVB-S2
