@@ -13,6 +13,14 @@ Eutelsat 7B (7.0°E)
 DVB-S2 - 4:2:0 
 Name :  CRO 005 M33
 ---FEED-SEPARATOR---
+UEFA Europa and Conference League Instant Highlights
+100.5°E
+4108 H 4937
+ID : GVA_Fi05
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 15 A5 4F 09 81 16 FD 94
+---FEED-SEPARATOR---
 UEFA Europa League - Matchday 2
 Lyon vs. Salzburg
 Eutelsat 7B/7C @ 7.0°E
@@ -53,7 +61,8 @@ ID: ITA548 UCL Feed1 PostCom (Elpitel)
 CW: 58 64 DB 97 AB 45 BA AA
 ---FEED-SEPARATOR---
 UEFA Europa League - Matchday 2
-FCSB vs. Young Boys
+about: FCSB vs. Young Boys. 
+(Reporter Feed)
 Intelsat 10-02 @ 1.0°W
 12541 - V - 6660 
 |
