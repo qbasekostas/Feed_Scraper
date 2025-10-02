@@ -13,6 +13,23 @@ Eutelsat 7B (7.0°E)
 DVB-S2 - 4:2:0 
 Name :  CRO 005 M33
 ---FEED-SEPARATOR---
+UEFA Cenference League - Matchday 2
+Slovan Bratislava vs. Strasbourg
+Eutelsat 10B @ 10.0°E
+11251 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UKI-1462 FEED 1
+11269 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UKI-1462 FEED 2
+CW: BA AD 56 BD 89 DA AB 0E
+---FEED-SEPARATOR---
 Feed Canal+ France
 UEFA Europa League
 AS Roma - Lille
