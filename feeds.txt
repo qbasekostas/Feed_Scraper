@@ -76,3 +76,28 @@ Arabsat-5A ( 30.5° E)
 12718 - Horizontal - 5000
 4:2:0 - DVB-S2
 Name : DMI SNG 1
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11105 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:WSHT ENC49
+Albahraniy said:
+			NBA ABU DHABI GAMES 2025
+CW: 85 54 F6 CF E5 92 EB 62
+Click to expand...
+---FEED-SEPARATOR---
+NBA ABU DHABI GAMES 2025
+Asiasat 5 (100.5°E) C BAND
+3886 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: WSHT ENC49
+CW: 85 54 F6 CF E5 92 EB 62
+---FEED-SEPARATOR---
+36E
+11681 H 4000
+4.2.0
+ID: SNG 04  Service- 1 Chain B
+Friendly Club Tournament Abu Dhabi
+CW: 90 48 E1 B9 57 28 A3 22
