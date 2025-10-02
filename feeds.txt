@@ -76,10 +76,3 @@ Arabsat-5A ( 30.5° E)
 12718 - Horizontal - 5000
 4:2:0 - DVB-S2
 Name : DMI SNG 1
----FEED-SEPARATOR---
-omid1348 said:
-			36E
-11666 H 4000
-Click to expand...
-Name : SNG 03 - Chain A
-CW : A9 04 7D 2A 15 26 38 73
