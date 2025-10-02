@@ -6,3 +6,9 @@ ID:U20 VALPARAISO MAIN
 TP:3758  V 7199
 HD 4.2.0
 CW: 0A 5B 06 6B CC DF D7 82( Old Biss Key)
+---FEED-SEPARATOR---
+UEFA Conference League
+Eutelsat 7B (7.0°E)
+12570 - Horizontal - 9875
+DVB-S2 - 4:2:0 
+Name :  CRO 005 M33
