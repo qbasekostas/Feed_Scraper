@@ -13,7 +13,18 @@ Eutelsat 7B (7.0°E)
 DVB-S2 - 4:2:0 
 Name :  CRO 005 M33
 ---FEED-SEPARATOR---
-UEFA Cenference League - Matchday 2
+UEFA Europa League - Matchday 2
+Lyon vs. Salzburg
+Eutelsat 7B/7C @ 7.0°E
+12677 - V - 7500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: TVN D-564 Enc | ECB
+CW: 32 CB DA D7 42 35 BD 34
+---FEED-SEPARATOR---
+UEFA Conference League - Matchday 2
 Slovan Bratislava vs. Strasbourg
 Eutelsat 10B @ 10.0°E
 11251 - H - 14400 
