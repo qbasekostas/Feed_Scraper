@@ -78,6 +78,16 @@ DVB-S2 - 1080P - 8PSK
 ID: OVERON 1
 CW: 6C 0A 23 99 AE 11 B6 75
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12685 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Pitch - Wrexham v Birmingham
+orangebirds said:
+EFL Championship - Wrexham vs Birmingham City
+CW: 43 2A 63 D0 6E EE 47 A3
+Click to expand...
+---FEED-SEPARATOR---
 EFL Championship - Wrexham vs Birmingham City
 100.5°E
 3984 V 7120
@@ -164,7 +174,41 @@ Euro League
 ID: YSM-020M
 CW: C5 FD 13 D5 2B 7B 84 2A
 ---FEED-SEPARATOR---
+Albahraniy said:
+			Euroleague, Round 2
+Valencia Basket vs Virtus Segafredo Bologna
+Eutelsat 7B/7C @ 7.0E
+10988 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: G-22 VIA 1 (G- 22)
+CW: 21 E4 10 15 48 B2 B9 B3
+Click to expand...
+CW: E3 EC E8 B7 2C 49 A7 1C
+---FEED-SEPARATOR---
+Albahraniy said:
+			Euroleague, Round 2
+Valencia Basket vs Virtus Segafredo Bologna
+Eutelsat 7B/7C @ 7.0E
+10988 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: G-22 VIA 1 (G- 22)
+CW: 21 E4 10 15 48 B2 B9 B3
+Click to expand...
+key not working
+---FEED-SEPARATOR---
+Euroleague, Round 2
+Valencia Basket vs Virtus Segafredo Bologna
+Eutelsat 7B/7C @ 7.0E
+10988 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: G-22 VIA 1 (G- 22)
+CW: 21 E4 10 15 48 B2 B9 B3
+---FEED-SEPARATOR---
 BASKET LIGA
+Legia Warszawa vs TBV Start Lublin
 Eutelsat 7B/7C @ 7.0E
 12593 V 9600
 DVB-S2 - 1080P - 8PSK
