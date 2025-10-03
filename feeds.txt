@@ -8,6 +8,15 @@ CW: 03 10 AC BF DC 00 01 DD
 MSV Duisburg vs. Hansa Rostock
 Kickoff: 17:00 UTC
 ---FEED-SEPARATOR---
+2. Bundesliga, Round 8
+Fortuna Düsseldorf vs 1. FC Nürnberg
+Eutelsat 16A @ 16.0E
+10974 H 3600
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  Fal4 Enc1
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 Ferari3000 said:
 			Eutelsat 10B (10.0E)
 10720 H 9875
