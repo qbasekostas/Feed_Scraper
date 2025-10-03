@@ -1,3 +1,27 @@
+Spanish La Liga 2 - Matchday 8
+Ceuta vs. Eibar
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 44 5E 17 B9 5F F6 7E D3
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 8
+Osasuna vs. Getafe
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+Albahraniy said:
+CW: 6C 0A 23 99 AE 11 B6 75
+Click to expand...
+---FEED-SEPARATOR---
 LaLiga, Round 8
 Osasuna vs Getafe
 Asiasat 5 (100.5°E) C BAND
