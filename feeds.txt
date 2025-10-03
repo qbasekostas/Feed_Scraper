@@ -1,3 +1,13 @@
+Astra 28.5E
+12633 V 7200
+DVB-S2 8PSK
+ID: D-528
+1920x1080i 25fps 4:2:0
+CW: 03 10 AC BF DC 00 01 DD
+3rd Bundesliga
+MSV Duisburg vs. Hansa Rostock
+Kickoff: 17:00 UTC
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 8
 Ceuta vs. Eibar
 Eutelsat 10B @ 10.0°E
@@ -30,6 +40,14 @@ DVB-S2 - 1080P - 8PSK
 4:2:2
 ID: OVERON 1
 CW: 6C 0A 23 99 AE 11 B6 75
+---FEED-SEPARATOR---
+MAYBE Basketball
+7.0E
+10977 H 7200
+4.2.0 HD
+ID: GVA_Fi05_IMG13
+CW: C5 FD 13 D5 2B 7B 86 2C
+colour screen But close to the above encryption
 ---FEED-SEPARATOR---
 Jacop said:
 Euro League
