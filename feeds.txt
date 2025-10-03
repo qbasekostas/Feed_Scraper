@@ -1,0 +1,8 @@
+LaLiga, Round 8
+Osasuna vs Getafe
+Asiasat 5 (100.5°E) C BAND
+3840 V 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 1
+CW: 6C 0A 23 99 AE 11 B6 75
