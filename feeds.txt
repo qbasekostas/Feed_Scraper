@@ -1,3 +1,25 @@
+Spanish La Liga - Matchday 8
+Girona vs. Valencia
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 80 7A B7 B1 97 2B C4 86
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 8
+Girona vs. Valencia
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 15 B1 85 4B 0D 77 F0 74
+---FEED-SEPARATOR---
 FIFA U20 CHILE 2025
 47,5W C
 ID: U20 SANTIAGO MAIN
