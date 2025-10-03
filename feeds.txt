@@ -77,6 +77,14 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: 43 2A 63 D0 6E EE 47 A3
 ---FEED-SEPARATOR---
+TBL, Round 3 
+Balikesir Belediye Spor VS Ankara Kolejliler
+Türksat 3A - 4A (42.0°E)    
+12578 -  Horizontal - 2480  - 
+4.2.0
+NAME : TALU MEDYA 
+CW : 00 53 53 A6 61 61 61 23
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event:Turkey Super Lig - Round 2
 Teams : Galatasaray 
@@ -146,3 +154,11 @@ Euro League
 4.2.0 HD
 ID: YSM-020M
 CW: C5 FD 13 D5 2B 7B 84 2A
+---FEED-SEPARATOR---
+BASKET LIGA
+Eutelsat 7B/7C @ 7.0E
+12593 V 9600
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  POL103 (POLSAT)
+CW: 15 58 35 A2 71 42 63 16
