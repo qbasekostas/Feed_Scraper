@@ -30,3 +30,55 @@ DVB-S2 - 1080P - 8PSK
 4:2:2
 ID: OVERON 1
 CW: 6C 0A 23 99 AE 11 B6 75
+---FEED-SEPARATOR---
+Jacop said:
+Euro League
+Monaco Basket vs BC Dubai
+7.0E
+10968 H 7200
+4.2.0 HD
+ID: F 489 MAIN
+CW: : C5 FD 13 D5 2B 7B 84 2A
+Click to expand...
+ new CW: : C5 FD 13 D5 2B 7B 8
+5
+ 2
+B
+---FEED-SEPARATOR---
+Jacop said:
+7.0E
+10968 H 7200
+4.2.0 HD
+ID: F 489 MAIN
+CW: : C5 FD 13 D5 2B 7B 84 2A
+Click to expand...
+key not working
+---FEED-SEPARATOR---
+Euro League
+Monaco Basket vs BC Dubai
+7.0E
+10968 H 7200
+4.2.0 HD
+ID: F 489 MAIN
+CW: : C5 FD 13 D5 2B 7B 84 2A
+---FEED-SEPARATOR---
+Event:Turkey Super Lig - Round 2
+Teams : Galatasaray 
+ Tofas
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12686 H 7500
+  TUR112 BACKUP (MEDÄ°APRO TURKEY)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+16.680
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 4F CA 39 52 2E 99 94 5B
+---FEED-SEPARATOR---
+Euro League
+7.0E
+10959 H 7200
+4.2.0 HD
+ID: YSM-020M
+CW: C5 FD 13 D5 2B 7B 84 2A
