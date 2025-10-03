@@ -78,6 +78,15 @@ DVB-S2 - 1080P - 8PSK
 ID: OVERON 1
 CW: 6C 0A 23 99 AE 11 B6 75
 ---FEED-SEPARATOR---
+Thor 5/6/7 Intelsat 10-02 (0.8W)
+11498 V 9876
+MPEG-4 FTA DVB-S2 8PSK,4:2:0
+ID: 
+FAI Turners CROSS
+Provider: NEP
+FAI Cup Ireland Semifinal 
+Cork City - St.Patricks (20:30)
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12685 V 7119
 DVB-S2 - 1080P - 8PSK
