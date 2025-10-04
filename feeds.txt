@@ -1,3 +1,24 @@
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 1
+Dani Sat said:
+Spanish La Liga - Matchday 8
+Girona vs. Valencia
+CW: 15 B1 85 4B 0D 77 F0 74
+Click to expand...
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 2
+Dani Sat said:
+Spanish La Liga - Matchday 8
+Real Oviedo vs. Levante
+CW: 80 7A B7 B1 97 2B C4 86
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 8
 Real Madrid vs. Villarreal
 Eutelsat 10B @ 10.0°E
