@@ -138,6 +138,31 @@ ID: ITA 302A / B
 Serie B
 CW: BC 07 20 E3 25 04 10 39
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,93Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 8
+Teams: Real Madrid vs Villarreal CF
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Hackintosh said:
+#CW:
+36 23 03 5C 02 F8 4D 47
+Click to expand...
+---FEED-SEPARATOR---
+LaLiga : Real Madrid v Villarreal 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+ OVERON 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |13,4 dB | 
+4:2:2
+CW: 36 23 03 5C 02 F8 4D 47
+---FEED-SEPARATOR---
 FaDeL® said:
 LaLiga
 Real Madrid vs Villarrea
@@ -264,6 +289,13 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 15 B1 85 4B 0D 77 F0 74
+---FEED-SEPARATOR---
+0.8°W
+11657 V 9600
+4:2:2
+ID: Vitel Path 1
+#FTA
+Irish Female Football
 ---FEED-SEPARATOR---
 28.2E
 12703 V 7120 
