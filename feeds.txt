@@ -1,3 +1,11 @@
+Bundesliga
+Dortmund - RB Leipzig
+Eutelsat 10E @ 10.0E
+3900 V/H 3750
+ID: Signal-6 
+1920x1080 |9.299Mb/Sec |8PSK |4:2:0 HD
+CW: 27 09 DD 0D C2 2A B1 9D
+---FEED-SEPARATOR---
 10E
 11248 H 9875
 4.2.2
@@ -29,6 +37,14 @@ CW:
 C0
  DC 20 25 21
 ---FEED-SEPARATOR---
+Italian Serie A - Week 6
+ Lazio v Torino
+ ST: 14:00
+Eutelsat 10 E cband 
+3895 V 3750.  4:2:0
+ID: SERIE A 
+CW: 29 09 DD 0D C2 2A B1 9D
+---FEED-SEPARATOR---
 10E
 11260 H 9600
 11272 H 9600
@@ -43,7 +59,7 @@ MPEG 4 - 4:2:0 - DVB-S2
 ID:  LIGA HYPERMOTION 1
 LaLiga 2
 Deportivo La Coruna vs Almeria
-CW: E9 4E 62 99 54 26 A8 22
+CW: 6A E8 B7 09 F8 B8 0E BE
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
@@ -208,3 +224,10 @@ Niki Volou vs PAS Giannina
 11016 V 7200
 ID: Volou vs Pas G BUL006 Main
 FTA
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 6
+Panserraikos vs Asteras Tripolis
+39e
+11007 V 7200
+ID: pan vs ast
+CW: A9 5E B1 B8 4F CC 61 7C
