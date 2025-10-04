@@ -150,6 +150,17 @@ ID:BT_SES_24_SDI
 EFL Championship - Hull City vs Sheffield United
 CW: 3E 92 0A DA AC 26 22 F4
 ---FEED-SEPARATOR---
+English Championship - Week 9
+Watford vs. Oxford United 
+Eutelsat 7B/7C @ 7.0°E
+11460 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Watford V Oxford UTD
+CW: 45 76 AF 6A E3 45 66 8E
+---FEED-SEPARATOR---
 7E
 11524 v 7120
 id: 
