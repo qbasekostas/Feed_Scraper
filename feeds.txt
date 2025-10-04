@@ -1,3 +1,15 @@
+10E
+10720 H 9875
+4.2.0
+ID: FFBL Essen -Wolsburg
+Frauen-Bundesliga
+SGS Essen - VfL Wolfsburg Women
+CW: 
+04
+ 10 AC 
+C0
+ DC 20 25 21
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 8
 Asiasat 5 (100.5°E) C BAND
 3840 H 30000
