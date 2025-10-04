@@ -1,3 +1,22 @@
+German 1. Bundesliga - Week 6
+About: Augsburg vs. Wolfsburg
+- Bayer Leverkusen vs. Union Berlin 
+(Reporter Feeds)
+Eutelsat 7B/7C @ 7.0°E
+11048  V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Fi11_GNVE
+11066  V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Fi12_GNVE
+CW: FC DE 8E 68 5D B7 33 47
+---FEED-SEPARATOR---
 Bundesliga.1
 Frankfurt vs Bayern Munich 
 16.0E
@@ -85,6 +104,29 @@ CW: 29 09 DD 0D C2 2A B1 9D
 ID: ITA 302A / B
 Serie B
 CW: BC 07 20 E3 25 04 10 39
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 8
+Athletic Bilbao vs. RCD Mallorca
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+orangebirds said:
+CW: 91 2E 52 11 68 D1 4A 83
+Click to expand...
+---FEED-SEPARATOR---
+LaLiga - Athletic Bilbao vs RCD Mallorca
+100.5°E
+3840 H 29720
+ID : OVERON 2
+DVB-S2 8PSK 
+4:2:2
+ 1080i
+SID : 44 (2C)
+CW: 91 2E 52 11 68 D1 4A 83
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
@@ -175,6 +217,14 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 15 B1 85 4B 0D 77 F0 74
 ---FEED-SEPARATOR---
+28.2E
+12703 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish League 1 - Week 9
+Queen of the South v Alloa Athletic
+---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3992 V 7119
 DVB-S2 - 1080P - 8PSK
@@ -182,6 +232,10 @@ DVB-S2 - 1080P - 8PSK
 ID:BT_SES_24_SDI
 EFL Championship - Hull City vs Sheffield United
 CW: 3E 92 0A DA AC 26 22 F4
+---FEED-SEPARATOR---
+3E
+10970 -  Horizontal  -  7500
+CW : C7 53 CB E5 A5DA 64 E3
 ---FEED-SEPARATOR---
 English Championship - Week 9
 Watford vs. Oxford United 
@@ -217,8 +271,9 @@ CW: 0A 5B 06 6B CC DF D7 82( Old Biss Key)
 ---FEED-SEPARATOR---
 Türksat 3A (42.0°E)
 11514 - Vertical - 7500 - 4:2:2
-Name : 
-TUR - 161 Main 
+Name : TUR - 161 Main 
+Turkish lSuper League, Round 2
+Türk Telekom B.K. vs Bahçeşehir Koleji
 CW: 22 C8 73 5D DC 9E 9E 18
 ---FEED-SEPARATOR---
 Albahraniy said:
