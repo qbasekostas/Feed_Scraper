@@ -1,5 +1,27 @@
 Spanish La Liga - Matchday 8
-Girona vs. Valencia
+Real Madrid vs. Villarreal
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR MENA 1
+CW: 9F 72 F4 05 33 28 D8 33
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 8
+Real Madrid vs. Villarreal
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: 2B B7 C8 A7 11 31 46 88
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 8
+Real Oviedo vs. Levante
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 
 |
