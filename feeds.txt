@@ -1,3 +1,11 @@
+Bundesliga,2 Round 8
+Kaiserslautern vs Bochum
+16.0E
+10975 H 3600
+4.2.0 HD
+ID: Fal3 Enc1 
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 10E
 10720 H 9875
 4.2.0
@@ -90,6 +98,28 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 15 B1 85 4B 0D 77 F0 74
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3992 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_24_SDI
+EFL Championship - Hull City vs Sheffield United
+CW: 3E 92 0A DA AC 26 22 F4
+---FEED-SEPARATOR---
+7E
+11524 v 7120
+id: 
+Pitch Hull V Sheffield UTD
+CW: 3E 92 0A DA AC 26 22 F4
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3905 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_22_SDI
+EFL Championship - Watford vs Oxford United
+CW: 45 76 AF 6A E3 45 66 8E
 ---FEED-SEPARATOR---
 FIFA U20 CHILE 2025
 47,5W C
