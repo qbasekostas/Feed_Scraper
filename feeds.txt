@@ -1,3 +1,14 @@
+10E
+11248 H 9875
+4.2.2
+ID: FFBL MA/nchen -Breme
+Frauen-Bundesliga
+FC Bayern Munich - SV Werder Bremen Frauen
+CW: 04 10 AC C0 DC
+21 
+25
+ 22
+---FEED-SEPARATOR---
 Bundesliga,2 Round 8
 Kaiserslautern vs Bochum
 16.0E
@@ -25,6 +36,22 @@ C0
 ID: ITA 302A / B
 Serie B
 CW: BC 07 20 E3 25 04 10 39
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  LIGA HYPERMOTION 1
+LaLiga 2
+Deportivo La Coruna vs Almeria
+CW: E9 4E 62 99 54 26 A8 22
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR EASTERN 1
+LaLiga
+Real Madrid vs Villarrea
+CW: E9 4E 62 99 54 26 A8 22
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 8
 Asiasat 5 (100.5°E) C BAND
@@ -127,6 +154,30 @@ ID: U20 SANTIAGO MAIN
 TP:3871 V 7199
 HD 4.2.0
 CW: 0A 5B 06 6B CC DF D7 82( Old Biss Key)
+---FEED-SEPARATOR---
+Albahraniy said:
+			Turkey Super Lig - Round 2
+Mersin SK VS Besiktas
+Eutelsat 7B/7C @ 7.0E
+11605 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: TUR156 Main
+CW: BF 7A 71 AA C6 5C 1A 3C
+Click to expand...
+42E
+11496 V 7500
+4.2.2
+ID: TUR156 Main
+---FEED-SEPARATOR---
+Turkey Super Lig - Round 2
+Mersin SK VS Besiktas
+Eutelsat 7B/7C @ 7.0E
+11605 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: TUR156 Main
+CW: BF 7A 71 AA C6 5C 1A 3C
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 11611 H 7500
