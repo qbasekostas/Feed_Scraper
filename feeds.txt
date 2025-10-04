@@ -283,6 +283,14 @@ Hearts v Hibernian
 3E
 10970 -  Horizontal  -  7500
 CW : C7 53 CB E5 A5DA 64 E3
+Premier League, Round 7
+Chelsea VS Liverpool
+(Feed Bein Sport )
+Eutelsat 3B (3.1° E)
+10970 - Horizontal - 7500
+DVB-S2 - 4.2.0
+ID: EPL Unilateral. Chelsea vs Liverpool
+CW : C7 53 CB E5 A5DA 64 E3
 ---FEED-SEPARATOR---
 English Championship - Week 9
 Watford vs. Oxford United 
