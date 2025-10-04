@@ -37,6 +37,31 @@ CW:
 C0
  DC 20 25 21
 ---FEED-SEPARATOR---
+aderas said:
+			key not working.
+Click to expand...
+Acherf said:
+Italian Serie A - Week 6
+Lazio v Torino
+ST: 14:00
+Eutelsat 10 E cband 
+3895 V 3750.  4:2:0
+ID: SERIE A 
+CW: 29 09 DD 0D C2 2A B1 9D
+Click to expand...
+27 09 DD 0D C2 2A B1 9D
+---FEED-SEPARATOR---
+Acherf said:
+Italian Serie A - Week 6
+Lazio v Torino
+ST: 14:00
+Eutelsat 10 E cband 
+3895 V 3750.  4:2:0
+ID: SERIE A 
+CW: 29 09 DD 0D C2 2A B1key not w
+Click to expand...
+key not working.
+---FEED-SEPARATOR---
 Italian Serie A - Week 6
  Lazio v Torino
  ST: 14:00
