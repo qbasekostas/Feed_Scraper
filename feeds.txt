@@ -138,6 +138,15 @@ ID: ITA 302A / B
 Serie B
 CW: BC 07 20 E3 25 04 10 39
 ---FEED-SEPARATOR---
+Event: Spain - LALIGA EA SPORTS Matchday 8
+Teams: Real Madrid vs Villarreal CF
+Eutelsat 3B (3.1° E)
+10960 - Horizontal - 7500
+DVB-S2 - 
+4.2.0
+Name : beIN SPORTS 
+CW: BC 4C D1 D9 28 72 CF 69
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
@@ -365,6 +374,14 @@ ID: U20 SANTIAGO MAIN
 TP:3871 V 7199
 HD 4.2.0
 CW: 0A 5B 06 6B CC DF D7 82( Old Biss Key)
+---FEED-SEPARATOR---
+7E
+11460 V 7200
+4.2.2
+ID: Encoder 1
+Lega Basket Serie A
+Trieste - Trapani
+CW: E5 1F FE 02 AD 10 04 C1
 ---FEED-SEPARATOR---
 Türksat 3A (42.0°E)
 11514 - Vertical - 7500 - 4:2:2
