@@ -77,3 +77,26 @@ ID: U20 SANTIAGO MAIN
 TP:3871 V 7199
 HD 4.2.0
 CW: 0A 5B 06 6B CC DF D7 82( Old Biss Key)
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11611 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  TUR 112 MAIN
+xachik said:
+Esenler Erokspor
+Trabzonspor
+53 F9 9A 2D 37 E3 A1 AF  #CW: 
+2F 9C 39 04 61 A9 BF C9
+Click to expand...
+---FEED-SEPARATOR---
+42e
+11092 V 7500
+4:2:2
+ID: 
+TUR 112 MAIN
+Turkey Superlig
+Esenler Erokspor
+Trabzonspor
+53 F9 9A 2D 37 E3 A1 AF  #CW: 
+2F 9C 39 04 61 A9 BF C9
