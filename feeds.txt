@@ -150,3 +150,10 @@ Esenler Erokspor
 Trabzonspor
 53 F9 9A 2D 37 E3 A1 AF  #CW: 
 2F 9C 39 04 61 A9 BF C9
+---FEED-SEPARATOR---
+Greek Super League 2 - Matchday 2
+Niki Volou vs PAS Giannina
+39e
+11016 V 7200
+ID: Volou vs Pas G BUL006 Main
+FTA
