@@ -1,3 +1,36 @@
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12643  Horizontal  7202,137
+ID: D415feed1 (Betamobil)
+1920x1080 |16,053Mb/Sec |8PSK |4:2:0 HD
+Alemania
+3. Liga - Jornada 10
+Cottbus
+ VS 
+Aachen
+CW: 04 10 AC C0 DC 00 06 E2
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 5
+Eintracht Frankfurt vs. Bayern Munich
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D-462
+CW: 12 57 37 A0 07 1D 8E B2
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 5
+Eintracht Frankfurt vs. Bayern Munich
+Eutelsat 7B/7C @ 7.0°E
+11018 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi05
+CW: DB A3 50 CE C3 2A 4D 3A
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 6
 About: Augsburg vs. Wolfsburg
 - Bayer Leverkusen vs. Union Berlin 
@@ -105,6 +138,22 @@ ID: ITA 302A / B
 Serie B
 CW: BC 07 20 E3 25 04 10 39
 ---FEED-SEPARATOR---
+Dani Sat said:
+Spanish La Liga - Matchday 8
+Real Madrid vs. Villarreal
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: 2B B7 C8 A7 11 31 46 88
+Click to expand...
+CW: 2
+8
+ B7 C8 A7 11 31 46 88
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 8
 Athletic Bilbao vs. RCD Mallorca
 Eutelsat 10B @ 10.0°E
@@ -185,17 +234,6 @@ ID: SUPPONOR MENA 1
 CW: 9F 72 F4 05 33 28 D8 33
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 8
-Real Madrid vs. Villarreal
-Eutelsat 10B @ 10.0°E
-10733 - V - 34000 
-|
-4:2:2
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: SUPPONOR AFRICA 1
-CW: 2B B7 C8 A7 11 31 46 88
----FEED-SEPARATOR---
-Spanish La Liga - Matchday 8
 Real Oviedo vs. Levante
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 
@@ -232,6 +270,15 @@ DVB-S2 - 1080P - 8PSK
 ID:BT_SES_24_SDI
 EFL Championship - Hull City vs Sheffield United
 CW: 3E 92 0A DA AC 26 22 F4
+---FEED-SEPARATOR---
+10.0°E
+10737 H 7200 
+4:2:0
+DVB-S2 8PSK
+ID: GCUK Enc 9
+CW: DE 11 E4 D3 D4 BB AA 39
+Scottish Premiership - Week 7
+Hearts v Hibernian
 ---FEED-SEPARATOR---
 3E
 10970 -  Horizontal  -  7500
