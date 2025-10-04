@@ -138,6 +138,16 @@ ID: ITA 302A / B
 Serie B
 CW: BC 07 20 E3 25 04 10 39
 ---FEED-SEPARATOR---
+FaDeL® said:
+LaLiga
+Real Madrid vs Villarrea
+Click to expand...
+Eutelsat 3B (3.1° E)
+10970 - Horizontal - 7500
+DVB-S2 - 4.2.0
+Name : Service 01
+CW: BC 4C D1 D9 28 72 CF 69
+---FEED-SEPARATOR---
 Dani Sat said:
 Spanish La Liga - Matchday 8
 Real Madrid vs. Villarreal
