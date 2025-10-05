@@ -70,6 +70,13 @@ Dolg said:
 			Koln W vs Bayer Leverkusen W
 AB BA 20 85 25 20 26 6B
 Click to expand...
+correct
+05 10 AC C1 DC 21 25 22 
+---FEED-SEPARATOR---
+Dolg said:
+			Koln W vs Bayer Leverkusen W
+AB BA 20 85 25 20 26 6B
+Click to expand...
 not working, itsa aba basketball key
 ---FEED-SEPARATOR---
 Gevs999 said:
@@ -334,12 +341,6 @@ Lega Basket Serie A
 Reggiana - Udine
 CW: D1 00 5E 2F 51 FF CD 1D
 ---FEED-SEPARATOR---
-A.ElSadek said:
-Eutelsat 7B/7C (7.0E)
-12677 - Horizontal - 7200
-Click to expand...
-7500
----FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0E)
 11468 V 4940
 ID: Medialink CRO-025/1
@@ -352,7 +353,7 @@ mdkgr said:
 CW : DF A6 78 FD 10 A7 EC A3
 Click to expand...
 Eutelsat 7B/7C (7.0E)
-12677 - Horizontal - 7200
+12677 - Horizontal - 7500
 ---FEED-SEPARATOR---
 42E   11094 V 7500 TUR-161 Main
 CW : DF A6 78 FD 10 A7 EC A3
