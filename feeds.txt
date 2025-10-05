@@ -468,6 +468,17 @@ ID: TUR 112 MAIN (MEDÄ°APRO TURKEY)
 Turkiye beIN Sport Basketball
 CW: 98 4A 29 0B 6A BC 12 38
 ---FEED-SEPARATOR---
+Greek Super League 1 - Week 6
+PAOK Thessaloniki vs. Olympiacos
+Eutelsat 7B/7C @ 7.0°E
+12573 - H - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: SNG ABC 1
+CW: C1 60 D6 F7 6F D4 D0 13
+---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 6
 Levadiakos vs Panetolikos
 39e
