@@ -1,3 +1,10 @@
+Italian Serie A
+Udinese vs Cagliari
+C_Eutelsat 10°E
+3900 V/H 3750
+ID: Signal-6
+CW: 27 09 DD 0D C2 2A B1 9D
+---FEED-SEPARATOR---
 LaLiga - Sevilla vs Barcelona
 100.5°E
 3840 H 29720
@@ -94,6 +101,15 @@ CW: 53 23 CF 45 32 88 42 FC
 id: E-266 8MM Via1 (8MM Producciones)
 Spanish women basketball
 Zaragoza - Ensino
+---FEED-SEPARATOR---
+LIGA ACB - Round 1 
+Real Madrid VS Gran Canaria
+Eutelsat 7B/7C @ 7.0°E
+11043 - Vertical - 7200
+4:2:0 | DVB-S2 | 8PSK
+Name : Fi01_ACB
+CW : 
+92 B3 5A 9F 19 7C F8 8D
 ---FEED-SEPARATOR---
 Turksat 2A-3A-4A @ 42.0E
 11102  Vertical  7501,834
