@@ -504,6 +504,14 @@ ID: TUR 112 MAIN (MEDÄ°APRO TURKEY)
 Turkiye beIN Sport Basketball
 CW: 98 4A 29 0B 6A BC 12 38
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+12642 V 4940
+ID: MNE-001 main
+Provider: Harmonic
+ABA Admiral League BET League
+Buducnost - Spartak
+CW: 20 25 BB 00 AA 20 26 F0
+---FEED-SEPARATOR---
 Greek Super League 1 - Week 6
 Panathinaikos vs. Atromitos
 Eutelsat 7B/7C @ 7.0°E
