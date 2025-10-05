@@ -1,3 +1,9 @@
+16.0E
+11062 H 9873
+ID: 
+FFBL N.¼rnberg-Leip
+CW plz ?
+---FEED-SEPARATOR---
 Astra 28.5E
 12634 H 7200
 DVB-S2 8PSK
