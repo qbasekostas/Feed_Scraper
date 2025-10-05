@@ -1,3 +1,13 @@
+Eutelsat 7B-7C   @ 07.0E
+11093  Horizontal  9874,854
+ID:  GVA_Fi03 (EUROVISION SA)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+Bundesliga - Jornada 6
+Stuttgart
+ VS 
+Heidenheim
+  #CW : DD 2E DD E8 19 42 3E 99  
+---FEED-SEPARATOR---
 Event: Germany Bundesliga Women - Round 5
 Teams : Union Berlin W 
  Freiburg W
@@ -72,6 +82,44 @@ LaLiga
 ID: OVERON 1 
 CW: 15 EC AB AC A6 3F 22 07
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:LIGA HYPERMOTION 1 (OVERON) 
+1920x1080 |84,311Mb/Sec |8PSK |4:2:0 HD
+Spain, LaLiga 2
+CD Castellon
+ vs. 
+Sporting Gijon
+88 57 33 02 2B 1B F0 35  #CW:E5 9D 7C FE BC 9D 86 DF   
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10767  Vertical  33999,708
+ID: SUPPONOR RUSIA 1 (OVERON)
+1920x1080 |84,284Mb/Sec |8PSK |4:2:2 HD
+Sevilla FC
+ vs. 
+FC Barcelona
+CW: 55 AC 03 04 90 14 1A BE
+---FEED-SEPARATOR---
+SpainLa Liga, Round 8
+Sevilla vs Barcelona
+Espanyol vs Real Betis
+Celta Vigo vs Atlético Madrid
+Eutelsat 10B @ 10.0E
+10767 V 34000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:SUPPONOR EASTERN 1
+CW: 18 27 35 74 4F 8B 99 73
+---FEED-SEPARATOR---
+SpainLa Liga, Round 8
+Eutelsat 10B @ 10.0E
+10767 V 34000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:SUPPONOR AFRICA 1
+CW: 2D 1B AF F7 4F C5 5B 6F
+---FEED-SEPARATOR---
 Event:England Championship - Round 9
 Teams :Ipswich 
  Norwich
@@ -140,6 +188,30 @@ CW: 53 23 CF 45 32 88 42 FC
 id: E-266 8MM Via1 (8MM Producciones)
 Spanish women basketball
 Zaragoza - Ensino
+---FEED-SEPARATOR---
+faisal6 said:
+Turksat 2A-3A-4A @ 42.0E
+11102  Vertical  7501,834
+ID: TUR 112 MAIN (MEDÄ°APRO TURKEY)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
+Turkiye beIN Sport Basketball
+CW: 98 4A 29 0B 6A BC 12 38
+Click to expand...
+Eutelsat 7B/7C (7.0E)
+11601 - Horizontal - 7500
+---FEED-SEPARATOR---
+faisal6 said:
+Turksat 2A-3A-4A @ 42.0E
+11102  Vertical  7501,834
+ID: TUR 112 MAIN (MEDÄ°APRO TURKEY)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
+Turkiye beIN Sport Basketball
+CW: 98 4A 29 0B 6A BC 12 38
+Click to expand...
+TURKEY: 
+Super Lig
+Buyukcekmece
+Manisa
 ---FEED-SEPARATOR---
 LIGA ACB - Round 1 
 Real Madrid VS Gran Canaria
