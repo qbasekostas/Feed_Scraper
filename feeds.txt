@@ -111,6 +111,9 @@ ID: GVA_Fi03
 CW: D8 F4 DA A6 02 BB C2 7F
 ---FEED-SEPARATOR---
 SERIE A | Napoli - Genoa
++
+SERIE A | 
+Juventus - AC Milan
 Eutelsat 10E @ 10.0E
 3895 Vertical 3751.059
 ID:SERIE A (IKOMG)
@@ -169,6 +172,21 @@ LaLiga
 4.2.2 HD
 ID: OVERON 1 
 CW: 15 EC AB AC A6 3F 22 07
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,95Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 8
+Teams: Celta Vigo vs Atlético de Madrid
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Dani Sat said:
+CW: CB 6B 5A 90 EC13 33 32
+Click to expand...
 ---FEED-SEPARATOR---
 LaLiga - 
 Celta Vigo vs Atlético Madrid
@@ -485,6 +503,17 @@ ID: TUR 112 MAIN (MEDÄ°APRO TURKEY)
 1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
 Turkiye beIN Sport Basketball
 CW: 98 4A 29 0B 6A BC 12 38
+---FEED-SEPARATOR---
+Greek Super League 1 - Week 6
+Panathinaikos vs. Atromitos
+Eutelsat 7B/7C @ 7.0°E
+12652 - V - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: PAO VS ATROMITOS
+CW: 66 AC 59 6B C5 AD 14 86
 ---FEED-SEPARATOR---
 Greek Super League 1 - Week 6
 PAOK Thessaloniki vs. Olympiacos
