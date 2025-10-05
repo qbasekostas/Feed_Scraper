@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 6
+Hamburg vs. Mainz 05
+Eutelsat 7B/7C @ 7.0°E
+11105 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi04
+CW: 67 55 4B 07 F1 7E 4B BA
+---FEED-SEPARATOR---
 galileo1978 said:
 			16.0E
 11062 H 9873
@@ -54,6 +65,13 @@ CW: 05 10 AC C1 DC 00 01 DD
 3rd Bundesliga
 Erzgebirge Aue vs. Rot Weiss Essen
 Kickoff: 11:30 UTC
+---FEED-SEPARATOR---
+SERIE A | Napoli - Genoa
+Eutelsat 10E @ 10.0E
+3895 Vertical 3751.059
+ID:SERIE A (IKOMG)
+1920x1080 |9.299Mb/Sec |8PSK |4:2:0 HD
+CW: 27 09 DD 0D C2 2A B1 9D
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
@@ -271,6 +289,13 @@ id: E-266 8MM Via1 (8MM Producciones)
 Spanish women basketball
 Zaragoza - Ensino
 ---FEED-SEPARATOR---
+mdkgr said:
+			42E   11094 V 7500 TUR-161 Main
+CW : DF A6 78 FD 10 A7 EC A3
+Click to expand...
+Eutelsat 7B/7C (7.0E)
+12677 - Horizontal - 7200
+---FEED-SEPARATOR---
 42E   11094 V 7500 TUR-161 Main
 CW : DF A6 78 FD 10 A7 EC A3
 ---FEED-SEPARATOR---
@@ -313,6 +338,13 @@ ID: TUR 112 MAIN (MEDÄ°APRO TURKEY)
 1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
 Turkiye beIN Sport Basketball
 CW: 98 4A 29 0B 6A BC 12 38
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 6
+Levadiakos vs Panetolikos
+39e
+11007 V 7200
+ID: E289 Main
+CW: 84 E6 24 8E E5 AA 61 F0
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 6
 Kifisia vs AEK
