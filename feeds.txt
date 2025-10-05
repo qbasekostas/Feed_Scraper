@@ -36,6 +36,26 @@ LaLiga
 ID: OVERON 1 
 CW: 15 EC AB AC A6 3F 22 07
 ---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12609  Vertical  7201,779
+ID:  ITV Sport Ipswich V Norwich (*unnamed-1*)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+England, Championship
+Ipswich Town vs Norwich City
+E2 6C 02 15 E1 1D 70 6A 
+CW: A2 24 CA 90 BC 15 A4 75
+---FEED-SEPARATOR---
+Albahraniy said:
+England Championship
+EFL Highlights
+4:2:0
+CW: 53 23 CF 45 32 88 42 FC
+Click to expand...
+Eutelsat 7C (7.0° E)
+12727 - Vertical - 7200
+DVB-S2 - 4.2.
+0
+---FEED-SEPARATOR---
 England Championship
 EFL Highlights
 Asiasat 5 (100.5°E) C BAND
@@ -44,6 +64,12 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID:BT_SES_24_SDI (SES)
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+28.2e
+12572 v 7200
+id: E-266 8MM Via1 (8MM Producciones)
+Spanish women basketball
+Zaragoza - Ensino
 ---FEED-SEPARATOR---
 Turksat 2A-3A-4A @ 42.0E
 11102  Vertical  7501,834
