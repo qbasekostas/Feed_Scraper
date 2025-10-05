@@ -1,0 +1,10 @@
+Spanish La Liga 2 - Matchday 8
+Cultural Leonesa vs. Albacete
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:0 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: FC 60 C1 1D CC A7 2A 9D
