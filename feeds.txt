@@ -1,3 +1,13 @@
+Astra 28.5E
+12625 H 7200
+DVB-S2 8PSK
+ID: D-167
+1920x1080i 25fps 4:2:0
+CW: 05 10 AC C1 DC 00 01 DD
+3rd Bundesliga
+Erzgebirge Aue vs. Rot Weiss Essen
+Kickoff: 11:30 UTC
+---FEED-SEPARATOR---
 Italian Serie A
 Udinese vs Cagliari
 C_Eutelsat 10°E
@@ -42,6 +52,16 @@ LaLiga
 4.2.2 HD
 ID: OVERON 1 
 CW: 15 EC AB AC A6 3F 22 07
+---FEED-SEPARATOR---
+Event:England Championship - Round 9
+Teams :Ipswich 
+ Norwich
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11523 V 7120
+   Pitch EFL - Ipswich v Norwich (NEP Connect)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 3E 99 21 F8 AA 32 69 45
 ---FEED-SEPARATOR---
 Astra 1KR/1L/1M/1N @ 19.2E
 11633  Vertical  9999,854
