@@ -1,3 +1,14 @@
+Event: Germany Bundesliga Women - Round 5
+Teams : Union Berlin W 
+ Freiburg W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11128 H 9875
+ FFBL Berlin-Freiburg (Adtec Digital)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+49 FB 16 D2 26 2E 20 1F 
+CW: 05 10 AC C1 DC 20 25 21
+---FEED-SEPARATOR---
 Astra 28.5E
 12625 H 7200
 DVB-S2 8PSK
