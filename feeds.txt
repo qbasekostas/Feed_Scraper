@@ -108,6 +108,26 @@ LaLiga
 ID: OVERON 1 
 CW: 15 EC AB AC A6 3F 22 07
 ---FEED-SEPARATOR---
+LaLiga - Real Sociedad vs Rayo Vallecano
+100.5°E
+3840 H 29720
+ID : OVERON 3
+DVB-S2 8PSK 4:2:2 1080i
+SID : 45 (2D)
+Jacop said:
+CW: 77 03 1A 94 83 3D DD 9D
+Click to expand...
+---FEED-SEPARATOR---
+LaLiga - RCD Espanyol vs Real Betis
+100.5°E
+3840 H 29720
+ID : OVERON 2
+DVB-S2 8PSK 
+4:2:2
+ 1080i
+SID : 44 (2D)
+CW: 98 D5 CF 3C A4 11 FF B4
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3895 H 7500
 PMT PID: 330, SID: 33 @ CHINA+1 (*unnamed-33*)
@@ -251,6 +271,9 @@ id: E-266 8MM Via1 (8MM Producciones)
 Spanish women basketball
 Zaragoza - Ensino
 ---FEED-SEPARATOR---
+42E   11094 V 7500 TUR-161 Main
+CW : DF A6 78 FD 10 A7 EC A3
+---FEED-SEPARATOR---
 faisal6 said:
 Turksat 2A-3A-4A @ 42.0E
 11102  Vertical  7501,834
@@ -290,3 +313,10 @@ ID: TUR 112 MAIN (MEDÄ°APRO TURKEY)
 1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
 Turkiye beIN Sport Basketball
 CW: 98 4A 29 0B 6A BC 12 38
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 6
+Kifisia vs AEK
+7e
+11525 V 7200
+ID: KIFISIA VS AEK (*unnamed-1*)
+CW: 47 09 55 A5 A8 49 69 5A
