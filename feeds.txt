@@ -66,6 +66,43 @@ CW: 05 10 AC C1 DC 00 01 DD
 Erzgebirge Aue vs. Rot Weiss Essen
 Kickoff: 11:30 UTC
 ---FEED-SEPARATOR---
+Dolg said:
+			Koln W vs Bayer Leverkusen W
+AB BA 20 85 25 20 26 6B
+Click to expand...
+not working, itsa aba basketball key
+---FEED-SEPARATOR---
+Gevs999 said:
+			new cw pls?
+Click to expand...
+Koln W vs Bayer Leverkusen W
+AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event: Germany Bundesliga Women - Round 5
+Teams : Union Berlin W 
+ Freiburg W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11128 H 9875
+ FFBL Berlin-Freiburg (Adtec Digital)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+49 FB 16 D2 26 2E 20 1F 
+CW: 05 10 AC C1 DC 20 25 21
+Click to expand...
+new cw pls?
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 6
+Mönchengladbach vs. Freiburg
+Eutelsat 7B/7C @ 7.0°E
+11093 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi03
+CW: D8 F4 DA A6 02 BB C2 7F
+---FEED-SEPARATOR---
 SERIE A | Napoli - Genoa
 Eutelsat 10E @ 10.0E
 3895 Vertical 3751.059
@@ -288,6 +325,27 @@ CW: 53 23 CF 45 32 88 42 FC
 id: E-266 8MM Via1 (8MM Producciones)
 Spanish women basketball
 Zaragoza - Ensino
+---FEED-SEPARATOR---
+7E
+11460 V 7200
+4.2.2
+ID: Encoder 2
+Lega Basket Serie A
+Reggiana - Udine
+CW: D1 00 5E 2F 51 FF CD 1D
+---FEED-SEPARATOR---
+A.ElSadek said:
+Eutelsat 7B/7C (7.0E)
+12677 - Horizontal - 7200
+Click to expand...
+7500
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+11468 V 4940
+ID: Medialink CRO-025/1
+Provider: Medialink
+Cedevita Olimpija - Mega Superbet
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 mdkgr said:
 			42E   11094 V 7500 TUR-161 Main
