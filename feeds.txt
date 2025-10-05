@@ -157,6 +157,15 @@ DVB-S2 - 1080P - 8PSK
 ID:SUPPONOR AFRICA 1
 CW: 2D 1B AF F7 4F C5 5B 6F
 ---FEED-SEPARATOR---
+10.0°E
+10737 H 7200 
+4:2:0
+DVB-S2 8PSK
+ID: GCUK Enc 9
+CW: CE 11 34 13 34 CD AB AC
+Scottish Premiership - Week 7
+Falkirk v Rangers
+---FEED-SEPARATOR---
 Event:England Championship - Round 9
 Teams :Ipswich 
  Norwich
