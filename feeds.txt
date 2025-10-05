@@ -170,6 +170,68 @@ LaLiga
 ID: OVERON 1 
 CW: 15 EC AB AC A6 3F 22 07
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 8
+Celta Vigo vs. Atlético Madrid
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR RUSIA 1
+CW: 21 38 E6 3F A0 3D 1B F8
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 8
+Celta Vigo vs. Atlético Madrid
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR EASTERN 1
+CW: CC AA 46 BC 1C 85 E7 88
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3915 V 7500
+PMT PID: 330, SID: 33 @ CHINA+1 (*unnamed-33*)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+CW : 9D BB 35 8D 60 7F 16 F5
+Celta Vigo vs. Atlético Madrid
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 8
+Celta Vigo vs. Atlético Madrid
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: C2 9A C1 1D 58 BD CA DF
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 8
+Celta Vigo vs. Atlético Madrid
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR MENA 1
+CW: BD 8C 31 7A E0 2D 9E AB
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 8
+Celta Vigo vs. Atlético Madrid
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: CB 6B 5A 90 EC13 33 32
+---FEED-SEPARATOR---
 LaLiga - Real Sociedad vs Rayo Vallecano
 100.5°E
 3840 H 29720
@@ -332,6 +394,14 @@ CW: 53 23 CF 45 32 88 42 FC
 id: E-266 8MM Via1 (8MM Producciones)
 Spanish women basketball
 Zaragoza - Ensino
+---FEED-SEPARATOR---
+7E
+11457 H 7500
+4.2.2
+ID: TUR156 Main
+Basketbol Süper Ligi
+Bursaspor - Anadolu Efes
+CW: C5 1A DF BE 1B 7A B1 46
 ---FEED-SEPARATOR---
 7E
 11460 V 7200
