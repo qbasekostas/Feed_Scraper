@@ -8,12 +8,20 @@ CW: 05 10 AC C1 DC 00 01 DD
 Erzgebirge Aue vs. Rot Weiss Essen
 Kickoff: 11:30 UTC
 ---FEED-SEPARATOR---
-Italian Serie A
-Udinese vs Cagliari
-C_Eutelsat 10°E
-3900 V/H 3750
-ID: Signal-6
-CW: 27 09 DD 0D C2 2A B1 9D
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,98Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 8
+Teams: Real Madrid vs Villarreal CF
+Time / Kickoff: 19.00 JKT-TH / 20.00 MY-SG / 12.00 GMT / 14.00 CET
+Jacop said:
+CW: C4 EB 1B CA 6D D5 4E 90
+Click to expand...
 ---FEED-SEPARATOR---
 LaLiga - Sevilla vs Barcelona
 100.5°E
