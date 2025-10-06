@@ -26,6 +26,27 @@ HEVC
 SID : 1
 CW: 1E A3 C5 86 ED 88 3D B2
 ---FEED-SEPARATOR---
+xachik said:
+42e
+11093 V 7500
+4:2:2
+ID: 
+TUR-161 Backup
+Fenerbahce
+Petkim Spor
+CW: 77 1E 43 D8 4C 9E 4D 37
+Click to expand...
+Eutelsat 7B/7C (7.0°E)
+12677 - Horizontal - 7500
+4:2:2 | DVB-S2 | 8PSK
+---FEED-SEPARATOR---
+zyadas said:
+			12555 H 4150
+42e
+C2 60 9F 6A D3 0C 21 4C  #[E] PID:0200h
+Click to expand...
+CW : 00 53 56 A9 61 61 23
+---FEED-SEPARATOR---
 ABA Liga, Group A, Round 1
 BC Dubai VS KK Split 
 Eutelsat 7B/7C (7.0°E)
