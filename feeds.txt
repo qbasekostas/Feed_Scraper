@@ -1,3 +1,11 @@
+Frauen-Bundesliga, Round 5
+Hamburger SV Hoffenheim
+Eutelsat 10A (10.0°E)
+10720 - Horizontal - 9875
+4:2:0 | DVB-S2 | 8PSK
+Name : FF BL Hamburg 
+CW : 06 10 AC C2 DC 20 25 21
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 8
 Cultural Leonesa vs. Albacete
 Eutelsat 10B @ 10.0°E
@@ -25,6 +33,25 @@ DVB-S2 8PSK 4:2:0 1080i
 HEVC
 SID : 1
 CW: 1E A3 C5 86 ED 88 3D B2
+---FEED-SEPARATOR---
+A.ElSadek said:
+ABA Liga, Group A, Round 1
+KK Partizan Mozzart VS Krkat 
+Eutelsat 7B/7C (7.0°E)
+12630 - Vertical - 4935
+4:2:0 | DVB-S2 | 8PSK
+Name : YSM-013M
+CW : 20 25 BB 00 AA 20 26 F0
+Click to expand...
+New CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+ABA Liga, Group A, Round 1
+KK Partizan Mozzart VS Krkat 
+Eutelsat 7B/7C (7.0°E)
+12630 - Vertical - 4935
+4:2:0 | DVB-S2 | 8PSK
+Name : YSM-013M
+CW : 20 25 BB 00 AA 20 26 F0
 ---FEED-SEPARATOR---
 A.ElSadek said:
 			CW : 00 53 56 A9 61 61 23
