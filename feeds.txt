@@ -9,6 +9,14 @@ Eutelsat 10B @ 10.0°E
 ID: LIGA HYPERMOTION 1
 CW: FC 60 C1 1D CC A7 2A 9D
 ---FEED-SEPARATOR---
+EFL League Two - Harrogate Town vs Crewe Alexandra
+100.5°E
+3905 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: FA 33 66 93 BC 37 71 64
+---FEED-SEPARATOR---
 FIFA Women's Champions Cup 2026 - Wuhan Jiangda vs Auckland United (test feed)
 100.5°E
 4156 V 7200
