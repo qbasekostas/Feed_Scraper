@@ -26,6 +26,20 @@ HEVC
 SID : 1
 CW: 1E A3 C5 86 ED 88 3D B2
 ---FEED-SEPARATOR---
+A.ElSadek said:
+			CW : 00 53 56 A9 61 61 23
+Click to expand...
+TBL, Round 3
+Harem Spor vs Kocaeli Kağıtspor 
+CW :  00 53 56 A9 61 61 61  23
+---FEED-SEPARATOR---
+A.ElSadek said:
+			CW : 00 53 56 A9 61 61 23
+Click to expand...
+MISSING LAST 
+2
+ DIGITS
+---FEED-SEPARATOR---
 xachik said:
 42e
 11093 V 7500
