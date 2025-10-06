@@ -17,3 +17,14 @@ DVB-S2 8PSK 4:2:0 1080i
 HEVC
 SID : 1
 CW: 1E A3 C5 86 ED 88 3D B2
+---FEED-SEPARATOR---
+42e
+11093 V 7500
+4:2:2
+ID: 
+TUR-161 Backup
+Turkey 
+Super LIG
+Fenerbahce
+Petkim Spor
+CW: 77 1E 43 D8 4C 9E 4D 37
