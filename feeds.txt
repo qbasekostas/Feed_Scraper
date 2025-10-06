@@ -26,6 +26,14 @@ HEVC
 SID : 1
 CW: 1E A3 C5 86 ED 88 3D B2
 ---FEED-SEPARATOR---
+ABA Liga, Group A, Round 1
+BC Dubai VS KK Split 
+Eutelsat 7B/7C (7.0°E)
+11523 - Vertical - 7500
+4:2:0 | DVB-S2 | 8PSK
+Name : MAIN 
+CW : AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 42e
 11093 V 7500
 4:2:2
