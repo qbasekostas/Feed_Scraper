@@ -8,3 +8,12 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: LIGA HYPERMOTION 1
 CW: FC 60 C1 1D CC A7 2A 9D
+---FEED-SEPARATOR---
+FIFA Women's Champions Cup 2026 - Wuhan Jiangda vs Auckland United (test feed)
+100.5°E
+4156 V 7200
+ID : FWCC25-SNG23-BU
+DVB-S2 8PSK 4:2:0 1080i 
+HEVC
+SID : 1
+CW: 1E A3 C5 86 ED 88 3D B2
