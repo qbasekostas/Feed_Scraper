@@ -61,3 +61,33 @@ Eutelsat 7B/7C (7.0°E)
 4:2:2 | DVB-S2 | 8PSK
 Name : ITA 198 UWCL M1 Main  
 CW : 40 27 46 AD 9E EB 6A F3
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0°E)
+12687 - Vertical - 7200
+4:2:0 | DVB-S2 | 8PSK
+Name : ENC 4
+CW : A0 2A 5D 27 D6 DE 32 E6
+---FEED-SEPARATOR---
+7E
+11070  H 7200
+4.2.0
+ID: CBS  Ars v Lyon.
+UEFA Women's Champions League
+Arsenal W.F.C. - OL Lyonnes
+CW: 87 81 41 49 88 19 93 34
+---FEED-SEPARATOR---
+7E
+11606 V 7200
+4.2.0
+ID: TUR 126 A
+EuroCup Basketball
+Besiktas - Lions
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Eurocup, Group A, 
+Klaipėdos Neptūnas VS U-BT Cluj-Napoca
+Eutelsat 7B/7C (7.0°E)
+12727 - Vertical - 7200
+4:2:0 | DVB-S2 | 8PSK
+Name : LAT-002 
+CW : BA 23 DE BB 81 CD 72 C0
