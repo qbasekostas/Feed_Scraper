@@ -98,6 +98,47 @@ UEFA Women's Champions League
 Arsenal W.F.C. - OL Lyonnes
 CW: 87 81 41 49 88 19 93 34
 ---FEED-SEPARATOR---
+13e
+12610 V 7200
+4:2:0
+ID: 
+Overon E-340
+Champions League
+Joventut Badalona
+Cholet
+CW: 9D DE 54 CF A1 AD 46 94
+---FEED-SEPARATOR---
+13e
+12601 V 7200
+4:2:0
+ID:
+ LAT-001 M
+Champions League
+VEF Riga
+AEK Athens
+CW: 55 87 31 0D DE FA BB 93
+---FEED-SEPARATOR---
+13.0°E
+10820 V 7200
+4:2:0
+ID: TKS TRT M20 A
+CW: 90 30 AF 6F 66 32 1D B5
+Basketball Champions League: Galatasaray - Igokea
+---FEED-SEPARATOR---
+13.0°E
+11801 H 7200
+4:2:0
+ID: LTU-005 main
+CW: DF 56 10 45 01 DA A3 7E
+Basketball Champions League: Rytas - Legia Warsaw
+---FEED-SEPARATOR---
+13.0°E
+10829 V 7200
+4:2:0
+ID: CZE-'012 - BCHL_Nymburk
+CW: CF F3 56 18 BC 56 00 12
+Basketball Champions League: nymburk - Sabah
+---FEED-SEPARATOR---
 13.0°E
 12583 V 7200
 4:2:0
