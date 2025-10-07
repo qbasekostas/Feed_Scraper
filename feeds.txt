@@ -99,6 +99,16 @@ Arsenal W.F.C. - OL Lyonnes
 CW: 87 81 41 49 88 19 93 34
 ---FEED-SEPARATOR---
 13e
+12592 V 7200
+4:2:0
+ID: 
+E-289 MAIN
+Champions League
+Benfica
+Gran Canaria
+CW: 68 DF FC 43 21 21 A4 E6
+---FEED-SEPARATOR---
+13e
 12610 V 7200
 4:2:0
 ID: 
