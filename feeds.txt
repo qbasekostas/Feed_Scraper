@@ -63,6 +63,14 @@ Name : ITA 198 UWCL M1 Main
 CW : 40 27 46 AD 9E EB 6A F3
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0°E)
+12695 - Vertical - 7200
+4:2:0 | DVB-S2 | 8PSK
+Name : ENC 5
+CW : 78 CE 9D E3 49 75 41 FF
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League 
+Arsenal  vs OL Lyonnes
+Eutelsat 7B/7C (7.0°E)
 12687 - Vertical - 7200
 4:2:0 | DVB-S2 | 8PSK
 Name : ENC 4
@@ -75,6 +83,21 @@ ID: CBS  Ars v Lyon.
 UEFA Women's Champions League
 Arsenal W.F.C. - OL Lyonnes
 CW: 87 81 41 49 88 19 93 34
+---FEED-SEPARATOR---
+Eurocup, Group B
+Ulm Basketball
+​
+Panionios BC Athens
+​
+7°E
+12634 
+V  
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:Basketball Ulm
+CW: BB EE 07 B0 10 20 25 55
 ---FEED-SEPARATOR---
 7E
 11606 V 7200
