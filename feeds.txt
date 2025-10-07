@@ -1,3 +1,30 @@
+7.0°E
+11128 V 5000
+4:2:0 - HEVC
+ID: RAI OB51 ITA 888A
+About Italian National Football Team
+CW: 9B 68 22 25 07 A4 06 B1
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0°E)
+10985 - Horizontal - 9875
+4:2:2
+ | DVB-S2 | 8PSK
+Name :
+ E380  MAIN
+UEFA Champions League, Women,
+Barcelona W
+Bayern Munich W
+31 95 13 1A 68 87 FB 8B  #CW: 
+40 27 46 AD 9E EB 6D F6
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Round 1
+Paris FC vs Oud-Heverlee Leuven
+Eutelsat 7B/7C (7.0°E)
+10996 - Horizontal - 9875
+4:2:2 | DVB-S2 | 8PSK
+Name : F634/11.1A/UEFA PAR
+CW : 40 27 46 AD 9E EB 6C F5
+---FEED-SEPARATOR---
 UEFA Champions League, Women, League Round  1 Juventus vs Benfica
 Eutelsat 7B/7C (7.0°E)
 10961 - Horizontal - 9875
