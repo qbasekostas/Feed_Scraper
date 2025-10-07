@@ -62,10 +62,24 @@ Eutelsat 7B/7C (7.0°E)
 Name : ITA 198 UWCL M1 Main  
 CW : 40 27 46 AD 9E EB 6A F3
 ---FEED-SEPARATOR---
+UEFA Womens Champions League - Round 1
+Paris FC v Leuven
+ ST: 20:00
+7°E
+11523 
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID: ENC 7
+CW: 4B 9F 21 0B 64 26 62 EC
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0°E)
 12695 - Vertical - 7200
 4:2:0 | DVB-S2 | 8PSK
 Name : ENC 5
+UEFA Champions League, Women,Barcelona VS Bayern
 CW : 78 CE 9D E3 49 75 41 FF
 ---FEED-SEPARATOR---
 UEFA Champions League, Women, League 
@@ -83,6 +97,21 @@ ID: CBS  Ars v Lyon.
 UEFA Women's Champions League
 Arsenal W.F.C. - OL Lyonnes
 CW: 87 81 41 49 88 19 93 34
+---FEED-SEPARATOR---
+13.0°E
+12583 V 7200
+4:2:0
+ID: D-331 TX2
+CW: 98 75 FF 0C B3 76 AA D3
+Basketball Champions League: Wurzburg - Trieste
+---FEED-SEPARATOR---
+13.0°E
+10848 V 7200
+4:2:0
+ID: OTE1
+CW: 7
+8 CE 54 9A 6A A3 20 2D
+Basketball Champions League: Promitheas - Heidelberg
 ---FEED-SEPARATOR---
 Eurocup, Group B
 Ulm Basketball
