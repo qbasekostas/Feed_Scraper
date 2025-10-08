@@ -64,6 +64,38 @@ ID: E-95 - M01 - MAIN
 CW: 08 F8 B6 B6 AC 8F 10 4B
 ---FEED-SEPARATOR---
 UEFA Womens Champions League - Round 1
+St Pölten v Atlético Madrid
+ ST: 20:00
+7°E
+12703 
+V  
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:ENC 4
+CW: 4E FC C9 13 3C 02 B3 F1
+---FEED-SEPARATOR---
+A.ElSadek said:
+Eutelsat 7B/7C (7.0°E)
+12695 - Vertical - 7200
+4:2:0 | DVB-S2 | 8PSK
+Name : ENC 5
+Click to expand...
+UEFA Champions League, 
+Man united VS Valerenga
+CW : 9C B0 04 50 F4 95 35 BE
+---FEED-SEPARATOR---
+A.ElSadek said:
+UEFA Champions League, Women
+VfL Wolfsburg vs Paris Saint-Germain
+Click to expand...
+Eutelsat 7B/7C (7.0°E)
+12726 - Vertical - 7200
+4:2:0 | DVB-S2 | 8PSK - ENC 3
+CW : 41 B1 A4 96 56 B4 48 52
+---FEED-SEPARATOR---
+UEFA Womens Champions League - Round 1
 Real Madrid v Roma
  ST: 17:45
 7°E
@@ -134,6 +166,22 @@ DVB-S2-
 -8PSK
 ID:HOL311 MAIN
 CW: 74 2F 71 14 5C D1 05 32
+---FEED-SEPARATOR---
+7E
+11070 H 7200
+4.2.0
+ID: ELM1 Hap vs.Macc BUL006 Main
+EuroCup Basketball
+Hapoel J-M  - Cedevita Olimpija
+CW: 88 91 69 82 B9 48 AA AB
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12601 V 7200
+4:2:0
+ID: 2Sat HOL89 Main
+Basketball Champions League: 
+Oostende vs Karditsa
+CW: CF 72 CF 10 56 AB 07 08
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10848 V 7200
