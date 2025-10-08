@@ -64,6 +64,19 @@ ID: E-95 - M01 - MAIN
 CW: 08 F8 B6 B6 AC 8F 10 4B
 ---FEED-SEPARATOR---
 UEFA Womens Champions League - Round 1
+Real Madrid v Roma
+ ST: 17:45
+7°E
+11692 
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:ENC 7
+CW: F6 3B E5 16 77 C3 1E 58
+---FEED-SEPARATOR---
+UEFA Womens Champions League - Round 1
 Twente v Chelsea
  ST: 17:45
 7°E
@@ -122,6 +135,14 @@ DVB-S2-
 ID:HOL311 MAIN
 CW: 74 2F 71 14 5C D1 05 32
 ---FEED-SEPARATOR---
+13E
+12610 V 7200
+4.2.0
+ID: Bnei vs Herz BUL 007 Main
+Basketball Champions League
+Tofas  - Bnei Herzliya
+CW: CA 97 EC 4D 98 DD 45 BA
+---FEED-SEPARATOR---
 Akrem said:
 			EUROCUP
 Bahcesehir vs Umana Reyer
@@ -131,23 +152,8 @@ Click to expand...
 Türksat 3A (42.0°E)
 11478 - Vertical - 6800 - 4:2:2
 ---FEED-SEPARATOR---
-Akrem said:
-			EUROCUP
-Bahcesehir vs Umana Reyer
-7°E
-11606 
-V 
-7200
-DVB-S2-
-4:2:0
--8PSK
-ID: TKS TRT M20 A
-CW: 4E 5B 29 D2 6D D4 6A AB
-Click to expand...
-Bahcesehir Kol.-Reyer Venecia thanks akrem
----FEED-SEPARATOR---
 EUROCUP
-Bahcesehir vs Umana Reyer
+Bahcesehir Kol.-Reyer Venecia
 7°E
 11606 
 V 
