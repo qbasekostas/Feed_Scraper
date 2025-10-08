@@ -1,3 +1,28 @@
+Asiasat 5 @ 100.5°E
+4154 V 7199 C-Band
+ID: SAU-031 B
+(Provider ID: Alamiya) 
+(later will changed to 
+SAU-031 M)
+MPEG4 | DVB-S2
+1920x1080i |14,15Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: ASIA - AFC Asian Qualifiers Road to FIFA World Cup 26™ (4th Round)
+Teams: Indonesia vs Saudi Arabia
+Time / Kickoff: 00.15 JKT-TH / 01.15 MY-SG / 17.15 GMT / 19.15 CET
+omid1348 said:
+CW: B6 32 85 6D 4D E9 F0 26
+Click to expand...
+---FEED-SEPARATOR---
+7E
+11014 V 7200
+4.2.0
+ID: SAU-031 B
+World Cup Qualifiers
+Indonesia - Saudi Arabia
+CW: B6 32 85 6D 4D E9 F0 26
+---FEED-SEPARATOR---
 3.1E
 10960 H 7500
 4.2.0
@@ -39,6 +64,8 @@ ID: E-95 - M01 - MAIN
 CW: 08 F8 B6 B6 AC 8F 10 4B
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0°E)
+UEFA Champions League, Women, League
+SKN St. Pölten VS Club Atlético Madrid
 10996 - Horizontal - 9875
 4:2:2 | DVB-S2 | 8PSK
 Name : AUT34MM08
