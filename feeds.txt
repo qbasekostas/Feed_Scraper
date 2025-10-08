@@ -6,10 +6,23 @@ Gibraltar v New Caledonia
 V
  14400
 DVB-S-2-
-4:2:0
+4:2:2
 -8PSK
 ID: E-95 - M01 - MAIN
 CW: 08 F8 B6 B6 AC 8F 10 4B
+---FEED-SEPARATOR---
+UEFA Womens Champions League - Round 1
+Twente v Chelsea
+ ST: 17:45
+7°E
+10973 
+H 
+9875
+DVB-S2-
+4:2:2
+-8PSK
+ID:HOL311 MAIN
+CW: 74 2F 71 14 5C D1 05 32
 ---FEED-SEPARATOR---
 42e
 11469 V 6800
