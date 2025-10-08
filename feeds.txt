@@ -109,6 +109,22 @@ DVB-S2-
 ID:HOL311 MAIN
 CW: 74 2F 71 14 5C D1 05 32
 ---FEED-SEPARATOR---
+HotBird (13.0°E)
+10829 V 7200
+4:2:0
+ID: Live Broadcasting Line 2
+Basketball Champions League: 
+Hapoel Holon vs Bursasport Basketbol
+CW: AE 95 BA FD 69 BB 37 5B
+---FEED-SEPARATOR---
+HotBird (13.0°E)
+10820 V 7200
+4:2:0
+ID: BCL251008
+Basketball Champions League: 
+Szolnoki Olaj vs Patrioti Levice
+CW: BC 61 CD EA 43 EB 03 31
+---FEED-SEPARATOR---
 42e
 11469 V 6800
 4:2:2
