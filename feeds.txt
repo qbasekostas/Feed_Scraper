@@ -1,3 +1,22 @@
+Asiasat 5 (100.5°E) C BAND
+4146 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: QAT038B
+omid1348 said:
+			World Cup Qualifiers
+Qatar - Oman
+CW: 62 64 53 19 29 33 9D F9
+Click to expand...
+---FEED-SEPARATOR---
+7E
+11023 V 7200
+4.2.0
+ID: QAT038M
+World Cup Qualifiers
+Qatar - Oman
+CW: 62 64 53 19 29 33 9D F9
+---FEED-SEPARATOR---
 Friendly International
 Gibraltar v New Caledonia
  ST: 18:00
@@ -10,6 +29,13 @@ DVB-S-2-
 -8PSK
 ID: E-95 - M01 - MAIN
 CW: 08 F8 B6 B6 AC 8F 10 4B
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0°E)
+10961 - Horizontal - 9875
+DVB-S2 | 8PSK
+Name : E-457 MD1 MAIN
+UEFA Champions League, Women,Real Madrid  VS Roma
+CW : 74 2F 71 14 5C D1 04 31 
 ---FEED-SEPARATOR---
 UEFA Womens Champions League - Round 1
 Twente v Chelsea
