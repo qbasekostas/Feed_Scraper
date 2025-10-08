@@ -135,6 +135,22 @@ DVB-S2-
 ID:HOL311 MAIN
 CW: 74 2F 71 14 5C D1 05 32
 ---FEED-SEPARATOR---
+Eutelsat 7A 7.0°E 
+11523 - Vertical - 7200
+ARIS VS HAMBURG
+CW : B7 3A CC BD 85 F6 1B 96
+---FEED-SEPARATOR---
+Verdeoro said:
+			HotBird (13.0°E)
+10829 V 7200
+4:2:0
+ID: Live Broadcasting Line 2
+Basketball Champions League: 
+Hapoel Holon vs Bursasport Basketbol
+CW: AE 95 BA FD 69 BB 37 5B
+Click to expand...
+NEW KAY? PLS
+---FEED-SEPARATOR---
 13E
 12610 V 7200
 4.2.0
