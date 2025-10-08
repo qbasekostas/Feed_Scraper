@@ -167,6 +167,40 @@ DVB-S2-
 ID:HOL311 MAIN
 CW: 74 2F 71 14 5C D1 05 32
 ---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10838 V 7200
+4:2:0
+ID: Service 01
+Basketball Champions League: 
+Unicaja vs Mersin SK
+CW: AC 40 FA E6 35 AA 90 6F
+---FEED-SEPARATOR---
+EuroCup  - WKS VS BAXI 
+Eutelsat 7B/7C (7.0°E)
+11023 - Horizontal - 7200
+4:2:0 | DVB-S2 | 8PSK 
+Name : G-10 E 272 VIA 1
+CW : 13 11 AA CE CC 20 23 0F
+---FEED-SEPARATOR---
+Eurocup   
+ Buducnost vs Trento
+7°E
+12509 V
+ 4935
+MNE-001 main
+CW: E3 BF E1 83 79 D8 51 A2
+---FEED-SEPARATOR---
+omid1348 said:
+			7E
+11070 H 7200
+4.2.0
+ID: ELM1 Hap vs.Macc BUL006 Main
+EuroCup Basketball
+Hapoel J-M  - Cedevita Olimpija
+CW: 88 91 69 82 B9 48 AA AB
+Click to expand...
+EuroLeague
+---FEED-SEPARATOR---
 EuroCup
 Hapoel Jerusalem vs  Cedevita Olimpija
 7°E
@@ -195,8 +229,8 @@ CW: 08 10 AB C3 CD 20 25 12
 11070 H 7200
 4.2.0
 ID: ELM1 Hap vs.Macc BUL006 Main
-EuroCup Basketball
-Hapoel J-M  - Cedevita Olimpija
+EuroLeague
+Hapoel Tel Aviv - Maccabi Tel Aviv
 CW: 88 91 69 82 B9 48 AA AB
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
