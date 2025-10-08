@@ -167,6 +167,30 @@ DVB-S2-
 ID:HOL311 MAIN
 CW: 74 2F 71 14 5C D1 05 32
 ---FEED-SEPARATOR---
+EuroCup
+Hapoel Jerusalem vs  Cedevita Olimpija
+7°E
+11189 
+H  
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID: YSM-020M
+CW: A4 19 BC 79 D2 84 EE 44
+---FEED-SEPARATOR---
+Eurocup
+JL Bourg vs Turk Telekom
+7°E
+12643  
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:F489 MAIN
+CW: 08 10 AB C3 CD 20 25 12
+---FEED-SEPARATOR---
 7E
 11070 H 7200
 4.2.0
