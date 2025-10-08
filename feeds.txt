@@ -63,6 +63,14 @@ DVB-S-2-
 ID: E-95 - M01 - MAIN
 CW: 08 F8 B6 B6 AC 8F 10 4B
 ---FEED-SEPARATOR---
+UEFA Champions League, Women
+VfL Wolfsburg vs Paris Saint-Germain
+Eutelsat 7B/7C (7.0°E)
+11008 - Horizontal - 9875
+4:2:2 | DVB-S2 | 8PSK
+Name : CRO-025 UWCL M09 
+CW : 74 2F 71 14 5C D1 07 34 
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0°E)
 UEFA Champions League, Women, League
 SKN St. Pölten VS Club Atlético Madrid
