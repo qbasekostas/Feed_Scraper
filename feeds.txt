@@ -1,3 +1,16 @@
+Friendly International
+Gibraltar v New Caledonia
+ ST: 18:00
+7°E
+11084 
+V
+ 14400
+DVB-S-2-
+4:2:0
+-8PSK
+ID: E-95 - M01 - MAIN
+CW: 08 F8 B6 B6 AC 8F 10 4B
+---FEED-SEPARATOR---
 42e
 11469 V 6800
 4:2:2
