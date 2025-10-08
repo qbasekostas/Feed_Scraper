@@ -1,3 +1,11 @@
+3.1E
+10960 H 7500
+4.2.0
+ID: QAT029-ENC-2
+World Cup Qualifiers
+Qatar - Oman
+CW: E9 EF 69 41 29 7F 35 DD
+---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 4146 V 7200
 DVB-S2 - 1080P - 8PSK
@@ -29,6 +37,22 @@ DVB-S-2-
 -8PSK
 ID: E-95 - M01 - MAIN
 CW: 08 F8 B6 B6 AC 8F 10 4B
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0°E)
+10996 - Horizontal - 9875
+4:2:2 | DVB-S2 | 8PSK
+Name : AUT34MM08
+CW : 40 27 46 AD 9E EB 6F F8
+---FEED-SEPARATOR---
+xachik said:
+Eutelsat 7B/7C (7.0°E)
+10985 - Horizontal - 9875
+4:2:2
+ | DVB-S2 | 8PSK
+UEFA Champions League, Women,
+Click to expand...
+ UKI-1965 UWCL M3 MAIN
+CW : 74 2F 71 14 5C D1 06 33
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0°E)
 10961 - Horizontal - 9875
