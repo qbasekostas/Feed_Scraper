@@ -135,6 +135,38 @@ DVB-S2-
 ID:HOL311 MAIN
 CW: 74 2F 71 14 5C D1 05 32
 ---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10848 V 7200
+4:2:0
+ID: YSM-016-1
+Basketball Champions League: 
+Spartak Office Shoes vs Le Mans Sarthe
+CW: DA 93 EA 57 78 EB 14 77
+---FEED-SEPARATOR---
+13E
+12582 V 7200
+4.2.0
+ID: Basketball A.Berlin
+Basketball Champions League
+Alba Berlin - Chalon-sur-Saone
+CW: AE 02 ED 9D 16 BE 06 DA
+---FEED-SEPARATOR---
+Eurocup, Group B
+Niners Chemnitz
+​
+BC Lietkabelis Panevezys
+​
+7°E
+12634 
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID: Basketball Chemnitz
+CW: BB EE 08 B1 10 20 25 55
+---FEED-SEPARATOR---
+Euro Cup - ARIS VS HAMBURG Tower 
 Eutelsat 7A 7.0°E 
 11523 - Vertical - 7200
 ARIS VS HAMBURG
