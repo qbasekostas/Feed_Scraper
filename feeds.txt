@@ -63,6 +63,19 @@ DVB-S-2-
 ID: E-95 - M01 - MAIN
 CW: 08 F8 B6 B6 AC 8F 10 4B
 ---FEED-SEPARATOR---
+UEFA Womens Champions League - Round 1
+Twente v Chelsea
+ ST: 17:45
+7°E
+11683 
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:ENC 8
+CW: CF 04 E6 B9 2F BB 9F 89
+---FEED-SEPARATOR---
 UEFA Champions League, Women
 VfL Wolfsburg vs Paris Saint-Germain
 Eutelsat 7B/7C (7.0°E)
@@ -108,6 +121,42 @@ DVB-S2-
 -8PSK
 ID:HOL311 MAIN
 CW: 74 2F 71 14 5C D1 05 32
+---FEED-SEPARATOR---
+Akrem said:
+			EUROCUP
+Bahcesehir vs Umana Reyer
+ID: TKS TRT M20 A
+CW: 4E 5B 29 D2 6D D4 6A AB
+Click to expand...
+Türksat 3A (42.0°E)
+11478 - Vertical - 6800 - 4:2:2
+---FEED-SEPARATOR---
+Akrem said:
+			EUROCUP
+Bahcesehir vs Umana Reyer
+7°E
+11606 
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID: TKS TRT M20 A
+CW: 4E 5B 29 D2 6D D4 6A AB
+Click to expand...
+Bahcesehir Kol.-Reyer Venecia thanks akrem
+---FEED-SEPARATOR---
+EUROCUP
+Bahcesehir vs Umana Reyer
+7°E
+11606 
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID: TKS TRT M20 A
+CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
 HotBird (13.0°E)
 10829 V 7200
