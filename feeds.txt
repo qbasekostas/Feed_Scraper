@@ -73,9 +73,25 @@ Lithuania
 CW: 09 F8 B6 B7 AC 8F 10 4B
 ---FEED-SEPARATOR---
 7e
+11000 H 14400
+4:2:2
+ID: 
+CYP-005_PATH2 match03
+EUROPE:
+World Cup - Qualification
+Cyprus
+Bosnia & Herzegovina
+CW: 09 F8 B6 B7 AC 8F 10 4B
+---FEED-SEPARATOR---
+7e
 11048 V 14400
 4:2:2
-ID: NOR-035-1
+ID: 
+NOR-035-1
+EUROPE:
+World Cup - Qualification
+Faroe Islands
+Montenegro
 CW: 09 F8 B6 B7 AC 8F 10 4B
 ---FEED-SEPARATOR---
 100.5e
