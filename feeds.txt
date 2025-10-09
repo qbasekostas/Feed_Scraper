@@ -5,6 +5,14 @@ Bundesliga Highlights
 ID: Fi11_GNVE 
 CW: CD DF D5 81 3C 43 A5 24
 ---FEED-SEPARATOR---
+16E
+12727 V 6000 
+4:2:0
+DVB-S2 16APSK
+ID: Service 01
+FIFA/UEFA WC 2026 Qualifiers - Group C, Round 7
+Scotland v Greece
+---FEED-SEPARATOR---
 ..
 ---FEED-SEPARATOR---
 7e
