@@ -88,6 +88,15 @@ Finland
 Lithuania
 CW: 09 F8 B6 B7 AC 8F 10 4B
 ---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10985 V 9600
+ID: POL49 EN1 Katowice
+Event: 
+friendly match: Poland - New Zealand
+4.2.0
+- DVB-S2 - 8PSK
+CW: DC AE 20 AA 25 AA 10 DF
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group L, Round 7
 Czechia v Croatia
  ST: 19:45
@@ -102,7 +111,7 @@ ID:UKI-1484 BU
 CW: 21 8A D7 82 3B F4 C9 F8
 ---FEED-SEPARATOR---
 Friendly Match 
-Egypt B VS MOROCCO B 
+MOROCCO VS Bahrin
 Eutelsat 3B @ 3.1° E
 11667 - Horizontal - 7200 - 
 4.2.0
@@ -192,3 +201,19 @@ tommorrow
 Phoenix Suns
 Brooklyn Nets
 CW: CC D3 4B EA AB D3 9D 1B
+---FEED-SEPARATOR---
+7E
+12643 V 7200
+4.2.0
+ID: ita390
+EuroLeague
+Milan - Monaco
+CW: 21 84 17 BC DB A1 61 DD
+---FEED-SEPARATOR---
+7E
+11070 H 7200
+4.2.0
+ID: IMG A EU
+EuroLeague
+Baskonia - Panathinaikos
+CW: 6B 53 49 07 31 62 24 B7
