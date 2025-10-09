@@ -73,6 +73,26 @@ Lithuania
 CW: 09 F8 B6 B7 AC 8F 10 4B
 ---FEED-SEPARATOR---
 7e
+11018 H 14400
+4:2:2
+ID: 
+CZE-012-1-EQM4
+EUROPE:
+World Cup - Qualification
+Czech Republic
+Croatia
+CW: 09 F8 B6 B7 AC 8F 10 4B
+---FEED-SEPARATOR---
+xachik said:
+7e
+10982 H 14400
+4:2:2
+ID: HUN022 M02 Bckp
+CW: 09 F8 B6 B7 AC 8F 10 4B
+Click to expand...
+Belarus vs Denmark
+---FEED-SEPARATOR---
+7e
 11000 H 14400
 4:2:2
 ID: 
