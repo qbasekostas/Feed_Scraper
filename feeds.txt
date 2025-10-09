@@ -6,14 +6,20 @@ ID: Fi11_GNVE
 CW: CD DF D5 81 3C 43 A5 24
 ---FEED-SEPARATOR---
 16E
+12692 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+FIFA/UEFA WC 2026 Qualifiers - Group C, Round 7
+Scotland v Greece
+---FEED-SEPARATOR---
+16E
 12727 V 6000 
 4:2:0
 DVB-S2 16APSK
 ID: Service 01
 FIFA/UEFA WC 2026 Qualifiers - Group C, Round 7
 Scotland v Greece
----FEED-SEPARATOR---
-..
 ---FEED-SEPARATOR---
 7e
 11106 H 7200
@@ -226,6 +232,13 @@ tommorrow
 Phoenix Suns
 Brooklyn Nets
 CW: CC D3 4B EA AB D3 9D 1B
+---FEED-SEPARATOR---
+7E
+12634 V 7200
+4.2.0
+ID:F419_MAIN
+Paris vs Virtus Bologna
+CW: A1 1F C3 83 BA E2 9D 39
 ---FEED-SEPARATOR---
 7E
 12643 V 7200
