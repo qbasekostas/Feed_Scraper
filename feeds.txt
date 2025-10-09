@@ -88,6 +88,26 @@ Finland
 Lithuania
 CW: 09 F8 B6 B7 AC 8F 10 4B
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group L, Round 7
+Czechia v Croatia
+ ST: 19:45
+7°E
+12680 
+V  
+15000
+DVB-S2-
+4:2:2
+-8PSK
+ID:UKI-1484 BU
+CW: 21 8A D7 82 3B F4 C9 F8
+---FEED-SEPARATOR---
+Friendly Match 
+Egypt B VS MOROCCO B 
+Eutelsat 3B @ 3.1° E
+11667 - Horizontal - 7200 - 
+4.2.0
+CW : FE ED 09 F4 10 20 25 55
+---FEED-SEPARATOR---
 7e
 10964 H 14400
 4:2:2
