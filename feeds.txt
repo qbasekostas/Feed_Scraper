@@ -8,7 +8,12 @@ CW: CD DF D5 81 3C 43 A5 24
 7e
 10982 H 14400
 4:2:2
-ID: HUN022 M02 Bckp
+ID:
+ HUN022 M02 Bckp
+EUROPE:
+World Cup - Qualification
+Belarus
+Denmark
 CW: 09 F8 B6 B7 AC 8F 10 4B
 ---FEED-SEPARATOR---
 7e
@@ -73,6 +78,36 @@ Lithuania
 CW: 09 F8 B6 B7 AC 8F 10 4B
 ---FEED-SEPARATOR---
 7e
+10964 H 14400
+4:2:2
+ID: 
+AUT34M/A1 
+EUROPE:
+World Cup - Qualification
+Austria
+San Marino
+CW: 09 F8 B6 B7 AC 8F 10 4B
+---FEED-SEPARATOR---
+World Cup Qual. UEFA C, Round 7
+Scotland VS Greece
+Eutelsat 7B/7C (7.0E)
+11670 - Horizontal - 15000 - 
+4.2.2
+Name : unname
+CW : F6 A6 0E AA FF F8 2D 24
+---FEED-SEPARATOR---
+16e
+11061 H 9875
+4:2:2
+ID: 
+CZE-041 - M - EQM04
+EUROPE:
+World Cup - Qualification
+Czech Republic
+Croatia
+CW: 09 F8 B6 B7 AC 8F 10 4B
+---FEED-SEPARATOR---
+7e
 11018 H 14400
 4:2:2
 ID: 
@@ -82,15 +117,6 @@ World Cup - Qualification
 Czech Republic
 Croatia
 CW: 09 F8 B6 B7 AC 8F 10 4B
----FEED-SEPARATOR---
-xachik said:
-7e
-10982 H 14400
-4:2:2
-ID: HUN022 M02 Bckp
-CW: 09 F8 B6 B7 AC 8F 10 4B
-Click to expand...
-Belarus vs Denmark
 ---FEED-SEPARATOR---
 7e
 11000 H 14400
