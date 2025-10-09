@@ -5,6 +5,17 @@ Bundesliga Highlights
 ID: Fi11_GNVE 
 CW: CD DF D5 81 3C 43 A5 24
 ---FEED-SEPARATOR---
+..
+---FEED-SEPARATOR---
+7e
+11106 H 7200
+4:2:0
+ID: 
+Fi13_GNVE
+Friendly International
+Uzbekistan
+Kuwait
+---FEED-SEPARATOR---
 7e
 10982 H 14400
 4:2:2
