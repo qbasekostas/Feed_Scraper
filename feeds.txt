@@ -102,6 +102,17 @@ Finland
 Lithuania
 CW: 09 F8 B6 B7 AC 8F 10 4B
 ---FEED-SEPARATOR---
+3e
+11666 H 7200
+4:2:0
+ID: 
+MRC-004-main
+Friendly  international
+Morocco
+Bahrain
+5E BD 00 5D 30 9C B6 00  #CW: 
+FE ED 09 F4 10 20 25 55
+---FEED-SEPARATOR---
 100.5e
 3860 V 30000
 4:2:0
