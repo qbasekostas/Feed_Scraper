@@ -6,6 +6,15 @@ ID: Fi11_GNVE
 CW: CD DF D5 81 3C 43 A5 24
 ---FEED-SEPARATOR---
 7e
+11101 V 14400
+4:2:2
+ID: ROU038 M10 Bk
+Friendly International
+Romania
+Moldova
+CW: 09 F8 B6 B7 AC 8F 10 4B
+---FEED-SEPARATOR---
+7e
 11021 V 9875
 4:2:2
 ID: 
@@ -15,3 +24,14 @@ World Cup - Qualification
 Finland
 Lithuania
 CW: 09 F8 B6 B7 AC 8F 10 4B
+---FEED-SEPARATOR---
+100.5e
+3894 H 7200
+4:2:0
+ID: 
+Macau Telesat01A
+NBA - Pre-season
+tommorrow
+video and audio fta  2600 on
+Phoenix Suns
+Brooklyn Nets
