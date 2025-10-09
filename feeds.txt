@@ -6,6 +6,47 @@ ID: Fi11_GNVE
 CW: CD DF D5 81 3C 43 A5 24
 ---FEED-SEPARATOR---
 7e
+11009 V 9875
+4:2:2
+ID: 
+EQFM MD7 England-Wales
+Friendly International
+England
+Wales
+CW: 09 F8 B6 B7 AC 8F 10 4B
+---FEED-SEPARATOR---
+7e
+10997 V 9875
+4:2:2
+ID:
+ SCO GRE FeedA
+EUROPE:
+World Cup - Qualification
+Scotland
+Greece
+CW: 09 F8 B6 B7 AC 8F 10 4B
+---FEED-SEPARATOR---
+7e
+11066 V 14400
+4:2:2
+ID: 
+ITA 689 MD7 MAIN
+Friendly International
+Malta
+Netherlands
+CW: 09 F8 B6 B7 AC 8F 10 4B
+---FEED-SEPARATOR---
+7e
+11084 V 14400
+4:2:2
+ID: 
+POL-102 NTF M08  Backup
+Friendly International
+Poland
+New Zealand
+CW: 09 F8 B6 B7 AC 8F 10 4B
+---FEED-SEPARATOR---
+7e
 11101 V 14400
 4:2:2
 ID: ROU038 M10 Bk
@@ -35,3 +76,14 @@ tommorrow
 video and audio fta  2600 on
 Phoenix Suns
 Brooklyn Nets
+---FEED-SEPARATOR---
+100.5e
+3834 V 7200
+4:2:0
+ID: 
+Macau Telesat02A
+NBA - Pre-season
+tommorrow
+Phoenix Suns
+Brooklyn Nets
+CW: CC D3 4B EA AB D3 9D 1B
