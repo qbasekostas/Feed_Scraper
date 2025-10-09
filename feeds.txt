@@ -96,6 +96,15 @@ Finland
 Lithuania
 CW: 09 F8 B6 B7 AC 8F 10 4B
 ---FEED-SEPARATOR---
+1W
+11500 V 7200 
+4:2:2
+DVBS-2 8PSK
+ID DNK83_ENC3
+CW: 12 AB 34 F1 CD 56 EF 12
+FIFA/UEFA WC 2026 Qualifiers - Group C, Round 7
+Belarus v Denmark
+---FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10985 V 9600
 ID: POL49 EN1 Katowice
@@ -199,6 +208,14 @@ video and audio fta  2600 on
 Phoenix Suns
 Brooklyn Nets
 ---FEED-SEPARATOR---
+7E
+11070 H 7200
+4.2.0
+ID: IMG A EU
+EuroLeague
+Baskonia - Panathinaikos
+CW: 6B 53 49 07 31 62 24 B7
+---FEED-SEPARATOR---
 100.5e
 3834 V 7200
 4:2:0
@@ -217,11 +234,3 @@ ID: ita390
 EuroLeague
 Milan - Monaco
 CW: 21 84 17 BC DB A1 61 DD
----FEED-SEPARATOR---
-7E
-11070 H 7200
-4.2.0
-ID: IMG A EU
-EuroLeague
-Baskonia - Panathinaikos
-CW: 6B 53 49 07 31 62 24 B7
