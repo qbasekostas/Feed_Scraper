@@ -28,7 +28,8 @@ THREAD_URLS = [
     "https://www.sat-universe.com/index.php?threads/uk-eng-scot-wales-ire-premier-lge-championship-sheild-fa-cup-friendlies-league-cup-3-1%C2%B0e-7%C2%B0e-10%C2%B0e-100-5%C2%B0e.265788/",
     "https://www.sat-universe.com/index.php?threads/spain-football-please-include-4-2-0-or-4-2-2-info-in-your-post.249958/",
     "https://www.sat-universe.com/index.php?threads/italy-football-if-4-2-2-or-4-2-0-please-include-this-info-in-your-post.252376/",
-    "https://www.sat-universe.com/index.php?threads/german-football-bundesliga-etc-if-4-2-2-or-4-2-0-please-include-this-info-in-your-post.253481/"
+    "https://www.sat-universe.com/index.php?threads/german-football-bundesliga-etc-if-4-2-2-or-4-2-0-please-include-this-info-in-your-post.253481/",
+    "https://www.sat-universe.com/index.php?threads/cycling-mountain-bike-inc-bmx-sporting-events-7%C2%BAe-10%C2%B0e.253794/"
     ]
 FEEDS_FILE = "feeds.txt"
 PAGES_TO_SCRAPE = 2
