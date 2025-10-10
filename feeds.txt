@@ -1,3 +1,28 @@
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID:LIGA HYPERMOTION 1
+LaLiga 2
+ Granada vs Las Palmas
+found CW: 
+FC 60 C1 1D CC A7 2A 9D 
+---FEED-SEPARATOR---
+P A R V I Z said:
+WORLD
+Club Friendly
+Atl. Madrid (Esp)
+Inter (Ita)
+Eutelsat 21B (21.6°E)
+12572 H 7199
+DVB-S2 - 4:2:0 - HD
+ID:CH1
+FTA / CLEAR
+Click to expand...
+Also
+Yahsat 52.5E 
+12078 V 7700
+ID unnamed
+---FEED-SEPARATOR---
 WORLD
 Club Friendly
 Atl. Madrid (Esp)
