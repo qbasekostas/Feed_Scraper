@@ -100,27 +100,29 @@ Germany
 Luxembourg
 CW: 10 F8 B6 BE AC 8F 10 4B
 ---FEED-SEPARATOR---
-Albahraniy said:
-			2025 nba 全明星广告牌
-Asiasat 5 (100.5°E) C BAND
-3893 H 7200
+COLLEGE BASKETBALL
+Eutelsat 7B/7C @ 7.0E
+11022 V 9875
 DVB-S2 - 1080P - 8PSK
-4:2:0
-ID:Macau Telesat01A
-3832 V 7200
-ID: Macau Telesat02A
-CW: CC D3 4B EA AB D3 9D 1B
-Click to expand...
-https://www.sat-universe.com/index....e-62°e-100-5°e-110-5°e.259695/post-2037411357
-and
-https://www.sat-universe.com/index.php?threads/basketball-fta-feeds.298604/post-2037411348
+4.2.2
+ID:GVA_Fi01
+CW: 5C 18 D2 46 69 96 3F 3E
 ---FEED-SEPARATOR---
-2025 nba 全明星广告牌
-Asiasat 5 (100.5°E) C BAND
-3893 H 7200
-DVB-S2 - 1080P - 8PSK
+7e
+11106 H 7200
 4:2:0
-ID:Macau Telesat01A
-3832 V 7200
-ID: Macau Telesat02A
-CW: CC D3 4B EA AB D3 9D 1B
+ID: 
+WSHT ENC 55
+USA:
+NBA - Pre-season
+Phoenix Suns
+Brooklyn Nets
+CW: 7E C1 06 45 2A 5B 25 AA
+---FEED-SEPARATOR---
+7.0°E
+11070 H 7200
+4:2:0
+ID: IMG A EU
+CW: 3B B9 C4 B8 85 6D D8 CA
+EuroLeague
+Fenerbahce - Crvena Zvezda
