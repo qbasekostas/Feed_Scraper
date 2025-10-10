@@ -1,0 +1,9 @@
+100.5e
+3809 H 7200
+4:2:0
+ID: 
+TXout-1 RXout-9
+Friendly International
+South Korea
+Brazil
+CW: AC 25 05 D6 24 10 10 44
