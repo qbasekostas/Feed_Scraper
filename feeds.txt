@@ -1,5 +1,21 @@
 FRIENNDLY MACHT KOREA vs BRASIL
 47,5W C
+ID:VIRTUAL CLEAN
+TP:4123 H 7500
+HD 4.2.0
+CW: AC DC 20 A8 25 10 10 45
+---FEED-SEPARATOR---
+World Cup - Qualification
+Belgium vs North Macedonia
+Eutelsat 7B/7C @ 7.0E
+10986 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: Match#1 BACKUP BEL095 MAIN
+CW: 10 F8 B6 BE AC 8F 10 4B
+---FEED-SEPARATOR---
+FRIENNDLY MACHT KOREA vs BRASIL
+47,5W C
 ID:T/A A S5 to SES14 Coreia
 TP:3829 V 10000
 HD 4.2.0
@@ -17,7 +33,7 @@ Slovenia
 CW: 10 F8 B6 BE AC 8F 10 4B
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
-10966 H 9875
+10966 H 14400
 DVB-S2 - 1080P - 8PSK
 4.2.2
 ID:BUL007 EQ M4 Back (TV1 )
@@ -69,6 +85,22 @@ Friendly International
 South Korea
 Brazil
 CW: AC 25 05 D6 24 10 10 44
+---FEED-SEPARATOR---
+Albahraniy said:
+			Eutelsat 7B/7C @ 7.0E
+10966 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:BUL007 EQ M4 Back (TV1 )
+Click to expand...
+Kosovo vs Slovenia
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+10997 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: F34/FLY3/ENCODER 3.1A /FEED B MAIN
+CW: 10 F8 B6 BE AC 8F 10 4B
 ---FEED-SEPARATOR---
 Albahraniy said:
 			2025 nba 全明星广告牌
