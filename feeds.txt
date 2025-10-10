@@ -6,3 +6,12 @@ ID: Fi13_GNVE
 Dates: Thu, Apr 3, 2025 – Sun, Oct 12, 2025
 Races: 10 (XCO); 10 (DHI)
 CW: 84 72 BC B2 04 3E 0F 51
+---FEED-SEPARATOR---
+World Cup Qual. CONCACAF Gr. 1, Round 3
+Suriname vs Guatemala
+Eutelsat 10B @ 10.0E
+10733 V 34000
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: OCC 1
+CW: BC 0F 33 FE 03 05 30 38
