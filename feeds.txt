@@ -7,6 +7,21 @@ LaLiga 2
 found CW: 
 FC 60 C1 1D CC A7 2A 9D 
 ---FEED-SEPARATOR---
+Europe
+World Cup - Qualification
+Northern Ireland
+ Vs. 
+Slovakia
+Eutelsat 16A (16.0°E)
+12710 V 7998
+12720 V 7998
+DVB-S2 
+4:2:2
+ HD
+ID: NI SLOVAKIA BBC DIRTY
+ID: NI SLOVAKIA WORLD CLEAN 
+FTA / CLEAR
+---FEED-SEPARATOR---
 P A R V I Z said:
 WORLD
 Club Friendly
