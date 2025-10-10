@@ -1,3 +1,15 @@
+16e
+11101 H 14400
+4:2:2
+ID: 
+KAZ008M
+EUROPE:
+World Cup - Qualification
+Kazakhstan
+Liechtenstein
+88 15 8E 4E 0C A1 EE E0  #CW: 
+10 F8 B6 BE AC 8F 10 4B
+---FEED-SEPARATOR---
 100.5e
 3809 H 7200
 4:2:0
