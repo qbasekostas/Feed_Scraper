@@ -1,3 +1,13 @@
+WORLD
+Club Friendly
+Atl. Madrid (Esp)
+Inter (Ita)
+Eutelsat 21B (21.6°E)
+12572 H 7199
+DVB-S2 - 4:2:0 - HD
+ID:CH1
+FTA / CLEAR
+---FEED-SEPARATOR---
 16E 
 11060 H 9999 420 H.264 BISS (marked) FTA (atm) 
 ID: SNG 022 MAIN
@@ -95,6 +105,15 @@ South Korea
 Brazil
 CW: AC 25 05 D6 24 10 10 44
 ---FEED-SEPARATOR---
+U21 EURO, Qualification, Group 5, Round 1
+Montenegro U21 vs  Poland U21
+Eutelsat 16 A (16.0°E)
+10985- Vertical- 9600
+4:2:2
+ | DVB-S2 | 8PSK
+Name : POL 030
+CW : DC AE 20 AA 25 AA 10 DF
+---FEED-SEPARATOR---
 8.0°W
 12535 V 7200
 4:2:0
@@ -113,6 +132,25 @@ World Cup - Qualification
 Germany
 Luxembourg
 CW: 10 F8 B6 BE AC 8F 10 4B
+---FEED-SEPARATOR---
+Event:
+Turkey Super Lig - Round 3
+Teams :Besiktas 
+ Buyukcekmece
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12685 H 7500
+  E-360 A (*unnamed-1*)
+MPEG4-
+4:2.2
+ HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: D2 5F C7 F8 F3 9F D5 67
+---FEED-SEPARATOR---
+BG 3X3 LEAGUE
+Eutelsat 7B/7C @ 7.0E
+12633 V 4937
+ID: YSM-016-1
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 COLLEGE BASKETBALL
 Eutelsat 7B/7C @ 7.0E
