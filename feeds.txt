@@ -47,7 +47,8 @@ FC 60 C1 1D CC A7 2A 9D
 11557 V 9600
 4.2.0
 ID: A1PRO Via1
- Spain U21 vs Norway U21
+Friendly International
+Spain U21 vs Norway U21
 FTA
 ---FEED-SEPARATOR---
 Eutelsat 16A (16.0°E )
