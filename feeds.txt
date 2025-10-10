@@ -154,6 +154,15 @@ South Korea
 Brazil
 CW: AC 25 05 D6 24 10 10 44
 ---FEED-SEPARATOR---
+Under-21 friendly matches
+international
+Romania  vs Serbia
+16.0E
+11061 H 10000
+4.2.0 HD
+ID: SNG 022 MAIN
+CW: AC BE 14 7E 3D 2B 67 CF
+---FEED-SEPARATOR---
 U21 EURO, Qualification, Group 5, Round 1
 Montenegro U21 vs  Poland U21
 Eutelsat 16 A (16.0°E)
