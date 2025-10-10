@@ -88,6 +88,13 @@ South Korea
 Brazil
 CW: AC 25 05 D6 24 10 10 44
 ---FEED-SEPARATOR---
+8.0°W
+12535 V 7200
+4:2:0
+ID: TF1 SOS HD
+CW: 20 25 FE 43 ED 16 02 05
+European Qualifiers: France - Azerbaijan
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 11009 H 9875
 DVB-S2 - 1080P - 8PSK
