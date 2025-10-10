@@ -43,7 +43,7 @@ LaLiga 2
 found CW: 
 FC 60 C1 1D CC A7 2A 9D 
 ---FEED-SEPARATOR---
-Eutelsat 16A (16.0°)
+Eutelsat 16A (16.0°E )
 12512 H 7200
 DVB-S2 8PSK FEC 2/3
 HD (1920*1080) 4:2:0
@@ -188,6 +188,17 @@ Friendly International
 South Korea
 Brazil
 CW: AC 25 05 D6 24 10 10 44
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11021 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: 
+SWE-054 1 M07 Feed B Main
+EUROPE:
+World Cup - Qualification
+SWEDEN - SWITZERLAND
+CW: 10 F8 B6 BE AC 8F 10 4B
 ---FEED-SEPARATOR---
 Under-21 friendly matches
 international
