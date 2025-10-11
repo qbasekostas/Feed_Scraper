@@ -60,6 +60,35 @@ maurival2 said:
 Click to expand...
 NEW CW:E9 21 7D 87 C5 7B 1D 5D
 ---FEED-SEPARATOR---
+English League Two - Week 12
+Oldham Athletic vs. Barrow
+Eutelsat 7B/7C @ 7.0°E
+12704 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch EFL - Oldham Athletic
+CW: 11 D3 24 08 56 AA 46 46
+---FEED-SEPARATOR---
+28.2E
+12572 V 7200 
+4:2:0
+DVB-S2 8PSK
+ID: 
+UKI-1955-1
+CW: 12 34 5A A0 20 25 10 55
+English League Two - Week 12
+Oldham Athletic v Barrow
+---FEED-SEPARATOR---
+Event :EFL League Two - Oldham Athletic vs Barrow
+100.5°E
+3905 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 11 D3 24 08 56 AA 46 46
+---FEED-SEPARATOR---
 African qualifiers for the 2026 World Cup
 Chad vs Central African Republic 
 tomorrow
@@ -210,6 +239,14 @@ DVB-S2 - 1080P - 8PSK
 ID: OCC 1
 CW: BC 0F 33 FE 03 05 30 38
 ---FEED-SEPARATOR---
+orangebirds said:
+AFC World Cup Qualifiers 2026 - Iraq vs Indonesia
+ID : SAU-031-A
+CW: 4C 2B B1 28 0B 6C 53 CA
+Click to expand...
+7E
+10960 V 7200
+---FEED-SEPARATOR---
 AFC World Cup Qualifiers 2026 - Iraq vs Indonesia
 100.5°E
 3896 V 7200
@@ -228,6 +265,36 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 - DVB-S2 - 8PSK
 ID: ITA 790 A tallin
 CW: 12 C0  6E 40 60 19 07 80
+---FEED-SEPARATOR---
+ADMIRAL ABA
+Spartak Subotica vs BC Vienna
+FMP vs SC Derby
+16.0E
+10996 V 4938
+11000 V 4938
+4.2.0 HD
+ID: YSM-013M
+ID: YSM-016-1
+CW: AB BA 20 85 25 20 26 6B
+CW: 20 25 BB 00 AA 20 26 F0
+---FEED-SEPARATOR---
+7E
+11014 V 7200
+4.2.0
+ID: Fi01_ACB
+Liga ACB
+MoraBanc Andorra - Tenerife
+CW: 97 67 D9 D7 59 24 96 13
+---FEED-SEPARATOR---
+7e
+11579 V 7200
+4:2:0
+ID: 
+Medialink CRO-024/1
+ABA League  
+Split vs  Partizan
+79 6D 7A 50 A7 06 09 0A  #CW: 
+20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 Turkey
 Super Lig - Round 3
