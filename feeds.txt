@@ -267,20 +267,23 @@ ID: ITA 790 A tallin
 CW: 12 C0  6E 40 60 19 07 80
 ---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
+11012 Vertical 4936,255 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-020M
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
 12523 Horizontal 4799,004 3/4
 DVB-S2/8PSK (4:2:2)
 DSNG045
 ---FEED-SEPARATOR---
-omid1348 said:
-			7E
-11014 V 7200
-4.2.0
-ID: Fi01_ACB
-Liga ACB
-MoraBanc Andorra - Tenerife
-CW: 97 67 D9 D7 59 24 96 13
-Click to expand...
-Gran Canaria vs. Unicaja
+Liga Endesa . 
+Spanish 
+Dreamland Gran Canaria vs Unicaja
+30.0W
+11590 V 9600
+4.2.0 HD
+ID: E-400 V1
+CW: 73 6F 63 45 31 CA FE F9
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 12594 Vertical 9597,911 2/3
