@@ -4,6 +4,17 @@ maurival2 said:
 Click to expand...
 NEW CW:E9 21 7D 87 C5 7B 1D 5D
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group I, Round 7
+Estonia vs. Italy
+Eutelsat 7B/7C @ 7.0°E
+11045 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: NTF M2 EST-004 Main
+CW: 11 F8 B6 BF AC 8F 10 4B
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11084  Vertical  14400,206
 ID: NOR-044 - 1 (Mobile Links
