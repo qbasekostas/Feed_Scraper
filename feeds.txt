@@ -168,6 +168,19 @@ DVB-S2 - 1080P - 8PSK
 ID: OCC 1
 CW: BC 0F 33 FE 03 05 30 38
 ---FEED-SEPARATOR---
+Turkey
+Super Lig - Round 3
+Bahcesehir Kol
+ Vs. 
+Mersin SK
+Türksat 3A/4A (42.0°E)
+11099 V 7499
+DVB-S2 
+4.2.2
+ HD
+ID: E-360 A
+CW: B7 1C 70 43 15 69 15 93
+---FEED-SEPARATOR---
 Challenge Cup , Normal
 . Lebanon
 Beirut vs Homenetmen
