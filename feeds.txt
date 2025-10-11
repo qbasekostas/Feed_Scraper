@@ -1,3 +1,14 @@
+Gevs999 said:
+			new cw pls?
+Click to expand...
+Frauen-Bundesliga, Round 6
+Wolfsburg vs Bayern Munich
+16.0E
+11127 H 9875
+4.2.0 HD
+ID: FBL-Wolfsburg-MÃch
+CW: 11 10 EF 10 FE 96 99 2D
+---FEED-SEPARATOR---
 Jacop said:
 Frauen-Bundesliga, Round 6
 LEIPZIG VS ESSEN
@@ -15,6 +26,33 @@ maurival2 said:
 01 96 6D 04 64 78 FC D8
 Click to expand...
 NEW CW:E9 21 7D 87 C5 7B 1D 5D
+---FEED-SEPARATOR---
+AFC World Cup Qualifiers - United Arab Emirates vs Oman
+100.5°E
+3888 V 7200
+ID : GVA_Fi01
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+Albahraniy said:
+CW: A4 EB 9C 2B 15 0D A3 C5
+Click to expand...
+---FEED-SEPARATOR---
+World Cup Qualification, AFC, Round 4, Gr. A, Round 2
+United Arab Emirates vs Oman
+Eutelsat 7B/7C @ 7.0E
+10970 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: QAT038M
+CW: A4 EB 9C 2B 15 0D A3 C5
+---FEED-SEPARATOR---
+Asian World Cup Play-off 
+UAE vs  Oman
+3.1E
+10959 H 7500
+4.2.0 HD
+ID:QAT029-ENC-2
+CW: E9 EF 69 41 29 7F 35 DD
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers
 Group E Bulgaria Türkiye
