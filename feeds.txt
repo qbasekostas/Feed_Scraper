@@ -1,3 +1,11 @@
+16E
+11140 H 9875
+4.2.0
+ID: FBL Bremen-Hamburg
+Frauen-Bundesliga
+SV Werder Bremen Frauen - Hamburger SV
+CW: 11 10 EF 10 FE 96 99 2D
+---FEED-SEPARATOR---
 Gevs999 said:
 			new cw pls?
 Click to expand...
@@ -21,11 +29,31 @@ CW: 10 10 FD 1D AB 23 66 34
 Click to expand...
 new cw pls?
 ---FEED-SEPARATOR---
+Italian W/Serie A - Week 2 
+Fiorentina vs. Inter Milan
+Eutelsat 7B/7C @ 7.0°E
+11165 - V - 7500 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: ITA 560 FIRENZE CALCIO FEMM
+CW: A4 B4 C8 20 D5 E7 F3 AF
+---FEED-SEPARATOR---
 maurival2 said:
 			NEW CW:
 01 96 6D 04 64 78 FC D8
 Click to expand...
 NEW CW:E9 21 7D 87 C5 7B 1D 5D
+---FEED-SEPARATOR---
+African qualifiers for the 2026 World Cup
+Chad vs Central African Republic 
+tomorrow
+7.0E
+11106 H 7200
+4.2.0 HD
+ID: E-285 via MAIN
+CW: 53 B0 F2 F5 66 00 41 A7
 ---FEED-SEPARATOR---
 FIFA  world cup qualifiers
 Eutelsat 7B/7C @ 7.0E
@@ -70,8 +98,8 @@ Group E Bulgaria Türkiye
 ID: BUL006 E EQM1
 CW: 11 F8 B6 BF AC 8F 10 4B
 ---FEED-SEPARATOR---
-Aisa fifa
- UAE vs oman
+FIFA/AFC WC 2026 Qualifiers - 4th Stage Qualifiers: Round 2
+U.A.E. Vs. Oman
 Eutelsat 3B (3.1°E)
 10967 H 7499
 DVB-S2 4.2.0 HD
@@ -168,6 +196,17 @@ DVB-S2 - 1080P - 8PSK
 ID: OCC 1
 CW: BC 0F 33 FE 03 05 30 38
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group I, Round 7
+Estonia vs. Italy
+Eutelsat 7B/7C @ 7.0°E
+11146 - V - 14400 
+|
+4:2:0
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: ITA 790 A tallin
+CW: 12 C0  6E 40 60 19 07 80
+---FEED-SEPARATOR---
 Turkey
 Super Lig - Round 3
 Bahcesehir Kol
@@ -185,12 +224,10 @@ Challenge Cup , Normal
 . Lebanon
 Beirut vs Homenetmen
 30.5E
-11098 V 2400
+11098 V 4800
 4.2.0 HD
 ID: Gryphon PV-2
 CW: 12 5A 66 D2 59 54 48 F5
----FEED-SEPARATOR---
-delet my post dup
 ---FEED-SEPARATOR---
 xachik said:
 42e
