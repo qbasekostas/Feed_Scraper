@@ -239,6 +239,13 @@ DVB-S2 - 1080P - 8PSK
 ID: OCC 1
 CW: BC 0F 33 FE 03 05 30 38
 ---FEED-SEPARATOR---
+FIFA WORLD CUP U20 CHILE 2025
+SES14/47,5W C
+ID: TALCA M
+TP:3758  V 7199
+HD 4.2.0
+CW: 0A 5B 06 6B CC DF D7 82( Old Biss Key)
+---FEED-SEPARATOR---
 orangebirds said:
 AFC World Cup Qualifiers 2026 - Iraq vs Indonesia
 ID : SAU-031-A
@@ -400,6 +407,14 @@ SID : 1
 xachik said:
 CW: CC D3 4B EA AB D3 9D 1B
 Click to expand...
+---FEED-SEPARATOR---
+Liga Serie A
+Napoli vs Trieste
+7.0E
+11607 V 7200
+4.2.2 HD
+ID: Encoder 2
+CW: E2 6D BD 0C CD ED C3 7D
 ---FEED-SEPARATOR---
 Greek Super League 2 - Matchday 5
 Makedonikos vs Iraklis
