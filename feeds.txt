@@ -5,6 +5,13 @@ Click to expand...
 NEW CW:E9 21 7D 87 C5 7B 1D 5D
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
+11084  Vertical  14400,206
+ID: NOR-044 - 1 (Mobile Links
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2HD
+International, World Cup Qualification, UEFA Group F
+9C D8 F1 5A 2B 1C 60 FB #CW:11 F8 B6 BF AC 8F 10 4B
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
 11019  Horizontal  14400,206
 ID:  HUN022 M06 MAIN (Service Provider)
 1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
