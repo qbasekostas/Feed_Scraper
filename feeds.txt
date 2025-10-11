@@ -266,6 +266,14 @@ Eutelsat 7B/7C @ 7.0°E
 ID: ITA 790 A tallin
 CW: 12 C0  6E 40 60 19 07 80
 ---FEED-SEPARATOR---
+7E
+11597 V 7200
+4.2.2
+ID: Encoder 1
+Lega Basket Serie A
+Varese - Milano
+CW: BD 43 89 89 99 4F 8E 76
+---FEED-SEPARATOR---
 ADMIRAL ABA
 Spartak Subotica vs BC Vienna
 FMP vs SC Derby
