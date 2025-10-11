@@ -22,13 +22,12 @@ Armenia
 9C D8 F1 5A 2B 1C 60 FB 
 CW: 11 F8 B6 BF AC 8F 10 4B
 ---FEED-SEPARATOR---
+7.0E
+11101 V 14400
+4.2.2 HD
+ID: LTU-005-MAIN-EQM 08
 World Cup Qual. UEFA K, Round 7
 Latvia vs Andorra
-Eutelsat 7B/7C @ 7.0E
-11101 V 14400
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID:LTU-005-MAIN-EQM 08
 CW: 11 F8 B6 BF AC 8F 10 4B
 ---FEED-SEPARATOR---
 World Cup Qual. CONCACAF Gr. 1, Round 3
@@ -39,6 +38,33 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: OCC 1
 CW: BC 0F 33 FE 03 05 30 38
+---FEED-SEPARATOR---
+xachik said:
+42e
+11092 V 7500
+4:2:2
+ID:
+ TUR156 Main
+TURKEY:   Super Lig
+View attachment 90412
+Trabzonspor
+Bursaspor
+47 B1 58 B5 47 8E 19 B9  #CW: 
+9E A5 15 58 D6 BD 36 C9
+Click to expand...
+7e
+12686 H 7500
+---FEED-SEPARATOR---
+42e
+11092 V 7500
+4:2:2
+ID:
+ TUR156 Main
+TURKEY:   Super Lig
+Trabzonspor
+Bursaspor
+47 B1 58 B5 47 8E 19 B9  #CW: 
+9E A5 15 58 D6 BD 36 C9
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11458  Horizontal  7501,834
