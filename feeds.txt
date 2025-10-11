@@ -5,11 +5,24 @@ Click to expand...
 NEW CW:E9 21 7D 87 C5 7B 1D 5D
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers
+Group E Bulgaria Türkiye
 7.0E
 10964 H 14400
 4.2.2 HD
 ID: BUL006 E EQM1
 CW: 11 F8 B6 BF AC 8F 10 4B
+---FEED-SEPARATOR---
+Aisa fifa
+ UAE vs oman
+Eutelsat 3B (3.1°E)
+10967 H 7499
+DVB-S2 4.2.0 HD
+ID: beIN sports
+____
+10976 H 7499
+DVB-S2 4.2.0 HD
+ID: beIN sports HD
+CW: ED 57 EA 2E C1 F2 95 48
 ---FEED-SEPARATOR---
 9C D8 F1 5A 2B 1C 60 FB  #CW:11 F8 B6 BF AC 8F 10 4B   
 right key
@@ -66,6 +79,7 @@ Eutelsat 7B-7C   @ 07.0E
 ID: NOR-044 - 1 (Mobile Links
 1920x1080 |32,098Mb/Sec |8PSK |4:2:2HD
 International, World Cup Qualification, UEFA Group F
+Norway vs Israel
 9C D8 F1 5A 2B 1C 60 FB #CW:11 F8 B6 BF AC 8F 10 4B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
