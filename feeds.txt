@@ -4,6 +4,41 @@ maurival2 said:
 Click to expand...
 NEW CW:E9 21 7D 87 C5 7B 1D 5D
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group F, Round 7
+Portugal vs. Ireland
+Eutelsat 7B/7C @ 7.0°E
+11057 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: E-95 - M3 - MAIN
+CW: 11 F8 B6 BE AD 8F 10 4B
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+10982 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: 
+ITA-451 1 M4
+EUROPE:
+World Cup - Qualification
+Serbia
+Albania
+CW: 11 F8 B6 BF AC 8F 10 4B
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+10997 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: 
+E-413 BACKUP
+EUROPE:
+World Cup - Qualification
+Spain
+Georgia
+CW: 11 F8 B6 BF AC 8F 10 4B
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group I, Round 7
 Estonia vs. Italy
 Eutelsat 7B/7C @ 7.0°E
@@ -97,3 +132,10 @@ SID : 1
 xachik said:
 CW: CC D3 4B EA AB D3 9D 1B
 Click to expand...
+---FEED-SEPARATOR---
+Greek Super League 2 - Matchday 5
+Makedonikos vs Iraklis
+39e
+11007 V 7200
+ID: MAKEDONIKOS VS IRAKLIS
+FTA
