@@ -27,6 +27,14 @@ maurival2 said:
 Click to expand...
 NEW CW:E9 21 7D 87 C5 7B 1D 5D
 ---FEED-SEPARATOR---
+FIFA  world cup qualifiers
+Eutelsat 7B/7C @ 7.0E
+11082 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:M239-EGY016-MAIN
+CW: D5 26 25 20 3C B3 CB BA
+---FEED-SEPARATOR---
 AFC World Cup Qualifiers - United Arab Emirates vs Oman
 100.5°E
 3888 V 7200
@@ -159,6 +167,15 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: OCC 1
 CW: BC 0F 33 FE 03 05 30 38
+---FEED-SEPARATOR---
+Challenge Cup , Normal
+. Lebanon
+Beirut vs Homenetmen
+30.5E
+11098 V 2400
+4.2.0 HD
+ID: Gryphon PV-2
+CW: 12 5A 66 D2 59 54 48 F5
 ---FEED-SEPARATOR---
 delet my post dup
 ---FEED-SEPARATOR---
