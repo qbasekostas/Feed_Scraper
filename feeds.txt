@@ -266,6 +266,19 @@ Eutelsat 7B/7C @ 7.0°E
 ID: ITA 790 A tallin
 CW: 12 C0  6E 40 60 19 07 80
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12523 Horizontal 4799,004 3/4
+DVB-S2/8PSK (4:2:2)
+DSNG045
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+12594 Vertical 9597,911 2/3
+DVB-S2/8PSK (4:2:0)
+Polsat Sport
+ORLEN Basket Liga
+Górnik Zamek Książ Wałbrzych vs WKS Śląsk Wrocław
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 7E
 11597 V 7200
 4.2.2
