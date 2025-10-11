@@ -29,6 +29,20 @@ CW: 10 10 FD 1D AB 23 66 34
 Click to expand...
 new cw pls?
 ---FEED-SEPARATOR---
+Dani Sat said:
+Italian W/Serie A - Week 2 
+Fiorentina vs. Inter Milan
+Eutelsat 7B/7C @ 7.0°E
+11165 - V - 7500 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: ITA 560 FIRENZE CALCIO FEMM
+CW: A4 B4 C8 20 D5 E7 F3 AF
+Click to expand...
+11165 - V - 7500 Not working
+---FEED-SEPARATOR---
 Italian W/Serie A - Week 2 
 Fiorentina vs. Inter Milan
 Eutelsat 7B/7C @ 7.0°E
@@ -195,6 +209,14 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: OCC 1
 CW: BC 0F 33 FE 03 05 30 38
+---FEED-SEPARATOR---
+AFC World Cup Qualifiers 2026 - Iraq vs Indonesia
+100.5°E
+3896 V 7200
+ID : SAU-031-A
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 4C 2B B1 28 0B 6C 53 CA
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group I, Round 7
 Estonia vs. Italy
