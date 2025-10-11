@@ -4,6 +4,15 @@ maurival2 said:
 Click to expand...
 NEW CW:E9 21 7D 87 C5 7B 1D 5D
 ---FEED-SEPARATOR---
+World Cup Qual. UEFA K, Round 7
+Latvia vs Andorra
+Eutelsat 7B/7C @ 7.0E
+11101 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:LTU-005-MAIN-EQM 08
+CW: 11 F8 B6 BF AC 8F 10 4B
+---FEED-SEPARATOR---
 World Cup Qual. CONCACAF Gr. 1, Round 3
 Suriname vs Guatemala
 Eutelsat 10B @ 10.0E
@@ -12,3 +21,13 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: OCC 1
 CW: BC 0F 33 FE 03 05 30 38
+---FEED-SEPARATOR---
+NBA China Games 2025 - Phoneix Suns vs Brooklyn Nets (Game 2 tomorrow)
+100.5°E
+New TP : 4115 H 7200
+ID : Macau Telesat02A
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+xachik said:
+CW: CC D3 4B EA AB D3 9D 1B
+Click to expand...
