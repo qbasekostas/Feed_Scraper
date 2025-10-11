@@ -4,6 +4,17 @@ maurival2 said:
 Click to expand...
 NEW CW:E9 21 7D 87 C5 7B 1D 5D
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11019  Horizontal  14400,206
+ID:  HUN022 M06 MAIN (Service Provider)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification, UEFA Group F
+Hungary 
+vs. 
+Armenia
+9C D8 F1 5A 2B 1C 60 FB 
+CW: 11 F8 B6 BF AC 8F 10 4B
+---FEED-SEPARATOR---
 World Cup Qual. UEFA K, Round 7
 Latvia vs Andorra
 Eutelsat 7B/7C @ 7.0E
@@ -21,6 +32,17 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: OCC 1
 CW: BC 0F 33 FE 03 05 30 38
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11458  Horizontal  7501,834
+ID: TUR 112 MAIN (MEDÄ°APRO TURKEY)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
+Turkiye, TBSL
+Bahcesehir Koleji
+ vs. 
+Mersin Buyuksehir Belediyes
+8F F3 21 51 6D 5D C8 1A  
+CW: 30 92 4A 0C B2 58 1A 24
 ---FEED-SEPARATOR---
 NBA China Games 2025 - Phoneix Suns vs Brooklyn Nets (Game 2 tomorrow)
 100.5°E
