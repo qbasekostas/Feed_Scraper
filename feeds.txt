@@ -420,6 +420,13 @@ xachik said:
 CW: CC D3 4B EA AB D3 9D 1B
 Click to expand...
 ---FEED-SEPARATOR---
+7e
+11467 V 4938
+4:2:0
+ID: Medialink CRO-025/1
+ABA League: NK Krka vs U-Mobitelco Cluj
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Liga Serie A
 Napoli vs Trieste
 7.0E
