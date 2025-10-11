@@ -271,6 +271,17 @@ Eutelsat 16A (16.0 E)
 DVB-S2/8PSK (4:2:2)
 DSNG045
 ---FEED-SEPARATOR---
+omid1348 said:
+			7E
+11014 V 7200
+4.2.0
+ID: Fi01_ACB
+Liga ACB
+MoraBanc Andorra - Tenerife
+CW: 97 67 D9 D7 59 24 96 13
+Click to expand...
+Gran Canaria vs. Unicaja
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 12594 Vertical 9597,911 2/3
 DVB-S2/8PSK (4:2:0)
@@ -304,7 +315,7 @@ CW: 20 25 BB 00 AA 20 26 F0
 4.2.0
 ID: Fi01_ACB
 Liga ACB
-MoraBanc Andorra - Tenerife
+Gran Canaria - Unicaja
 CW: 97 67 D9 D7 59 24 96 13
 ---FEED-SEPARATOR---
 7e
