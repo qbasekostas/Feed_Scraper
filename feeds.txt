@@ -31,6 +31,15 @@ ID Cloudbass
 Scottish SWPL 1 - Week 8
 Hibernian v Rangers
 ---FEED-SEPARATOR---
+World Cup Qual. UEFA H, Round 8
+Romania vs Austria
+Eutelsat 7B/7C @ 7.0E
+12694 V 7500
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:ROU-015 MAIN
+CW: 45 DC AB CC 52 43 DA 6F
+---FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10973 V 9600
 ID: POL49 EN1 Katowice
