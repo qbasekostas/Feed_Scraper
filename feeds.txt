@@ -177,6 +177,17 @@ México
  Argentina 
 CW: 0A 5B 06 6B CC DF D7 82
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group C, Round 8
+Denmark vs. Greece
+Eutelsat 7B/7C @ 7.0°E
+11687 - H - 14400 
+|
+4:2:0
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: DNK37 MAIN
+CW: 20 DA 65 5F 2A 44 12 80
+---FEED-SEPARATOR---
 Quarterfinal - FIFA World Cup U20 Chile 2025 - United States vs Morocco
 100.5°E
 3860 V 30000
