@@ -5,6 +5,15 @@ ID: LIGA HYPERMOTION 1
 LaLiga 2
 CW: 84 2B 15 C4 39 8C FE C3
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+12571  Horizontal  9874,854
+ID:   EQ M8 SCO BEL Feed A B/U (*unnamed-1*)
+1920x1080 |22,009Mb/Sec |8PSK 
+|4:2:2 HD
+International, World Cup Qualification, UEFA Group C
+Scotland vs. Belarus
+CW: 12 F8 B6 C0 AC 8F 10 4B
+---FEED-SEPARATOR---
 World Cup Qual. UEFA G, Round 8
 Netherlands vs Finland
 Eutelsat 7B/7C @ 7.0E
