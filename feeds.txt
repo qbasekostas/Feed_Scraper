@@ -1,9 +1,43 @@
+16E
+11128 H 9875
+4.2.0
+ID: FBL Freiburg
+Frauen-Bundesliga
+SC Freiburg W - Eintracht Frankfurt W
+CW: 12 10 BA DC CC 62 97 C5
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.0
 ID: LIGA HYPERMOTION 1
 LaLiga 2
 CW: 84 2B 15 C4 39 8C FE C3
+---FEED-SEPARATOR---
+xachik said:
+FIFA/UEFA WC 2026 Qualifiers
+7.0E
+11018 H 14400
+4.2.2 HD
+ID: 
+NOR-035-1
+View attachment 90457
+Iceland
+France
+CW: 12 F8 B6 C0 AC 8F 10 4B
+Click to expand...
+xachik said:
+FIFA/UEFA WC 2026 Qualifiers
+7.0E
+11018 H 14400
+4.2.2 HD
+ID: 
+NOR-035-1
+View attachment 90457
+Iceland
+France
+CW: 12 F8 B6 C0 AC 8F 10 4B
+Click to expand...
+Faroe Island - Czech Republic
 ---FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10973 V 9600
