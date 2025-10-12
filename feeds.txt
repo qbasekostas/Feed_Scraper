@@ -1,3 +1,11 @@
+16E
+11128 H 9875
+4.2.0
+ID: FBL KAlln
+Frauen-Bundesliga
+1. FC Köln Frauen - 1. FC Union Berlin
+CW: 12 10 BA DC CC 62 97 C5
+---FEED-SEPARATOR---
 omid1348 said:
 CW: 12 10 BA DC CC 62 97 C5
 Click to expand...
@@ -37,6 +45,13 @@ ID:U20 Rancagua Main
 Tp:3758 V 7199
 HD 4.2.0
 CW: 0A 5B 06 6B CC DF D7 82( Old Biss Key)
+---FEED-SEPARATOR---
+7°E
+12703 V 7500
+ID: UEFA EQ Feed 3
+4.2.0- DVB-S2 - 8PSK
+World Cup qualifying - match: Romania-Austria
+CW: 45 DC AB CC 52 43 DA 6F
 ---FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10973 V 9600
@@ -161,6 +176,14 @@ DVB S2 4.2.0 1080i
 México 
  Argentina 
 CW: 0A 5B 06 6B CC DF D7 82
+---FEED-SEPARATOR---
+Quarterfinal - FIFA World Cup U20 Chile 2025 - United States vs Morocco
+100.5°E
+3860 V 30000
+ID : Fi17GNVE
+DVB-S2 8PSK 4:2:0 1080i
+SID : 12 (C)
+CW: 3C 8A 6A 30 10 14 F3 17
 ---FEED-SEPARATOR---
 7.0 E
 12720 V 5000
