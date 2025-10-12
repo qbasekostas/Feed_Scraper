@@ -6,6 +6,13 @@ LaLiga 2
 CW: 84 2B 15 C4 39 8C FE C3
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
+11102  Vertical  14400,184
+ID:   ITA 689 M09 MAIN (MOST)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification, UEFA Group
+CW: 12 F8 B6 C0 AC 8F 10 4B
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
 12571  Horizontal  9874,854
 ID:   EQ M8 SCO BEL Feed A B/U (*unnamed-1*)
 1920x1080 |22,009Mb/Sec |8PSK 
