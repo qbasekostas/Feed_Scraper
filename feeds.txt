@@ -58,6 +58,15 @@ México
  Argentina 
 CW: 0A 5B 06 6B CC DF D7 82
 ---FEED-SEPARATOR---
+ItalyLega A Basket, Round 2
+Pallacanestro Cantù vs UNAhotels Reggio Emilia
+Eutelsat 7B/7C @ 7.0E
+11605 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: Encoder 3
+CW: A6 46 94 80 D5 B4 CA 53
+---FEED-SEPARATOR---
 NBA China Games 2025 - 
 Brooklyn Nets vs 
 Phoenix Suns (Game 2)
