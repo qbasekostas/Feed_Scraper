@@ -31,43 +31,6 @@ ID Cloudbass
 Scottish SWPL 1 - Week 8
 Hibernian v Rangers
 ---FEED-SEPARATOR---
-faisal6 said:
-Eutelsat 7B-7C   @ 07.0E
-11102  Vertical  14400,184
-ID:   ITA 689 M09 MAIN (MOST)
-1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
-International, World Cup Qualification, UEFA Group
-CW: 12 F8 B6 C0 AC 8F 10 4B
-Click to expand...
-International Friendly Match 
-Malta - Bosnia and Herzegovina (19:00)
----FEED-SEPARATOR---
-xachik said:
-FIFA/UEFA WC 2026 Qualifiers
-7.0E
-11018 H 14400
-4.2.2 HD
-ID: 
-NOR-035-1
-View attachment 90457
-Iceland
-France
-CW: 12 F8 B6 C0 AC 8F 10 4B
-Click to expand...
-xachik said:
-FIFA/UEFA WC 2026 Qualifiers
-7.0E
-11018 H 14400
-4.2.2 HD
-ID: 
-NOR-035-1
-View attachment 90457
-Iceland
-France
-CW: 12 F8 B6 C0 AC 8F 10 4B
-Click to expand...
-Faroe Island - Czech Republic
----FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10973 V 9600
 ID: POL49 EN1 Katowice
@@ -87,8 +50,6 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 - DVB-S2 - 8PSK
 ID: SUI-001-2-EQM1-DNK83_ENC2
 CW: 12 F8 B6 C0 AC 8F 10 4B
----FEED-SEPARATOR---
-Dele..
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group H, Round 8
 Romania vs. Austria
@@ -127,7 +88,8 @@ Eutelsat 7B-7C   @ 07.0E
 11102  Vertical  14400,184
 ID:   ITA 689 M09 MAIN (MOST)
 1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
-International, World Cup Qualification, UEFA Group
+International Friendly Match
+Malta - Bosnia and Herzegovina (19:00)
 CW: 12 F8 B6 C0 AC 8F 10 4B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
@@ -154,8 +116,7 @@ FIFA/UEFA WC 2026 Qualifiers
 4.2.2 HD
 ID: 
 NOR-035-1
-Iceland
-France
+Faroe Island - Czech Republic
 CW: 12 F8 B6 C0 AC 8F 10 4B
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers
@@ -190,7 +151,9 @@ CW : 56 C8 AD CB 44 9A DD BB
 Eutelsat 7B/7C @ 7.0E
 12634 V 7200
 DVB-S2 - 1080P - 8PSK
-4.2.0
+Portugal LBP, Round 2
+Sporting CP vs SL Benfica
+4.2.2
 ID: E-65 - M01 - MAIN
 CW: AF C3 06 78 A3 7E C1 E2
 ---FEED-SEPARATOR---
