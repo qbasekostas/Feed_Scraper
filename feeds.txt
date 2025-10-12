@@ -5,7 +5,14 @@ ID: LIGA HYPERMOTION 1
 LaLiga 2
 CW: 84 2B 15 C4 39 8C FE C3
 ---FEED-SEPARATOR---
-.
+World Cup Qual. UEFA G, Round 8
+Netherlands vs Finland
+Eutelsat 7B/7C @ 7.0E
+11010 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  HOL307 BU
+CW: 12 F8 B6 C0 AC 8F 10 4B
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers
 7.0E
@@ -17,18 +24,8 @@ Iceland
 France
 CW: 12 F8 B6 C0 AC 8F 10 4B
 ---FEED-SEPARATOR---
-Jacop said:
 FIFA/UEFA WC 2026 Qualifiers
-7.0E
-11084 V 14400
-4.2.2 HD
-ID: ITA 198 NTF M8 Main
-CW: 12 F8 B6 C0 AC 8F 10 4B
-COLUR SCREEN 
-Click to expand...
-San Marino vs Cyprus
----FEED-SEPARATOR---
-FIFA/UEFA WC 2026 Qualifiers
+San Marino - Cyprus
 7.0E
 11084 V 14400
 4.2.2 HD
@@ -44,3 +41,22 @@ DVB S2 4.2.0 1080i
 México 
  Argentina 
 CW: 0A 5B 06 6B CC DF D7 82
+---FEED-SEPARATOR---
+NBA China Games 2025
+Asiasat 5 (100.5°E) C BAND
+4106
+ H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: Macau Telesat01A
+CW: CC D3 4B EA AB D3 9D 1B
+---FEED-SEPARATOR---
+NBA China Games 2025
+Asiasat 5 (100.5°E) C BAND
+3746 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:Macau Telesat02A
+xachik said:
+CW: CC D3 4B EA AB D3 9D 1B
+Click to expand...
