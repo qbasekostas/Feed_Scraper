@@ -5,6 +5,15 @@ ID: LIGA HYPERMOTION 1
 LaLiga 2
 CW: 84 2B 15 C4 39 8C FE C3
 ---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10973 V 9600
+ID: POL49 EN1 Katowice
+Event: 
+Legends Match: Poland vs. Germany
+4.2.0
+- DVB-S2 - 8PSK
+CW: DC AE 20 AA 25 AA 10 DF
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group C, Round 8
 Denmark vs. Greece
 Eutelsat 7B/7C @ 7.0°E
@@ -104,6 +113,19 @@ México
  Argentina 
 CW: 0A 5B 06 6B CC DF D7 82
 ---FEED-SEPARATOR---
+7.0 E
+12720 V 5000
+ITA 691
+DVB-S2/8PSK (4:2:0)
+Felice Scandone Avellino-Brindisi
+---FEED-SEPARATOR---
+16.0 E
+10995 V 4937
+DVB-S2/8PSK (4:2:0)
+YSM-020M
+Mega Basket - KK Bosna
+CW : ABBA20852520266B
+---FEED-SEPARATOR---
 ItalyLega A Basket, Round 2
 Pallacanestro Cantù vs UNAhotels Reggio Emilia
 Eutelsat 7B/7C @ 7.0E
@@ -164,3 +186,15 @@ ID:Macau Telesat02A
 xachik said:
 CW: CC D3 4B EA AB D3 9D 1B
 Click to expand...
+---FEED-SEPARATOR---
+SlippyGes said:
+Greek Super League 2 - Matchday 5
+Makedonikos vs Iraklis
+39e
+11007 V 7200
+ID: MAKEDONIKOS VS IRAKLIS
+FTA
+Click to expand...
+active again today for:
+ATHENS KALLITHEA vs OLYMPIACOS B
+ID: Service 01
