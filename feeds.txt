@@ -1,3 +1,13 @@
+omid1348 said:
+CW: 12 10 BA DC CC 62 97 C5
+Click to expand...
+16E
+11140 H 9873
+4.2.0
+ID: FBL Hoffenheim
+Frauen-Bundesliga
+Hoffenheim - Leverkusen
+---FEED-SEPARATOR---
 16E
 11128 H 9875
 4.2.0
@@ -171,6 +181,11 @@ CW: 0A 5B 06 6B CC DF D7 82
 ITA 691
 DVB-S2/8PSK (4:2:0)
 Felice Scandone Avellino-Brindisi
+---FEED-SEPARATOR---
+7E
+12677 H 7500
+TUR-062 A
+CW : 56 C8 AD CB 44 9A DD BB
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12634 V 7200
