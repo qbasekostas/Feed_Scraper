@@ -161,6 +161,13 @@ ITA 691
 DVB-S2/8PSK (4:2:0)
 Felice Scandone Avellino-Brindisi
 ---FEED-SEPARATOR---
+Spain, ACB, Round 2
+Baskonia Vitoria vs Real Madrid
+Eutelsat 7B ( 7.0°E)
+12544 - Horizontal - 7200
+Name : Fi01_ACB
+CW : AF D8 FE 85 6D 17 1F A3
+---FEED-SEPARATOR---
 7E
 12687 H 7500
 TUR-112 MAIN
