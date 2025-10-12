@@ -31,6 +31,15 @@ ID Cloudbass
 Scottish SWPL 1 - Week 8
 Hibernian v Rangers
 ---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10973 V 9600
+ID: POL-111
+Event: 
+World Cup qualifying - match: Lithuania - Poland
+4.2.2
+- DVB-S2 - 8PSK
+CW: DC AE 20 AA 25 AA 10 DF
+---FEED-SEPARATOR---
 World Cup Qual. UEFA H, Round 8
 Romania vs Austria
 Eutelsat 7B/7C @ 7.0E
