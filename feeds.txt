@@ -5,6 +5,52 @@ ID: LIGA HYPERMOTION 1
 LaLiga 2
 CW: 84 2B 15 C4 39 8C FE C3
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group C, Round 8
+Denmark vs. Greece
+Eutelsat 7B/7C @ 7.0°E
+10997 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: SUI-001-2-EQM1-DNK83_ENC2
+CW: 12 F8 B6 C0 AC 8F 10 4B
+---FEED-SEPARATOR---
+Dele..
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group H, Round 8
+Romania vs. Austria
+Eutelsat 7B/7C @ 7.0°E
+11000 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: ROU038 M04 MAIN
+CW: 12 F8 B6 C0 AC 8F 10 4B
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group G, Round 8
+Lithuania vs. Poland
+Eutelsat 7B/7C @ 7.0°E
+10982 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: LTU-005-MAIN-EQM 03
+CW: 12 F8 B6 C0 AC 8F 10 4B
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group L, Round 8
+Croatia vs.Gibraltar
+Eutelsat 7B/7C @ 7.0°E
+10964 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: CRO-019 EQM1 MAIN
+CW: 12 F8 B6 C0 AC 8F 10 4B
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11102  Vertical  14400,184
 ID:   ITA 689 M09 MAIN (MOST)
