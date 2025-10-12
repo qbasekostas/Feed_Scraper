@@ -58,6 +58,39 @@ México
  Argentina 
 CW: 0A 5B 06 6B CC DF D7 82
 ---FEED-SEPARATOR---
+NBA China Games 2025 - 
+Brooklyn Nets vs 
+Phoenix Suns (Game 2)
+100.5°E
+3860 V 30000
+ID : WSHT ENC59
+DVB-S2 8PSK 4:2:0 1080i
+SID : 11 (B)
+CW: 0F DD C9 B5 2B 5D 22 AA
+---FEED-SEPARATOR---
+faisal6 said:
+ID:   E-360 A (*unnamed-1*
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
+CW: 88 1C D7 7B BC 15 12 E3
+Turkiye, TBSL
+Anadolu Efes SK
+ vs. 
+Merkezefendi Belediyesi Denizli Basket
+Click to expand...
+Turksat 3A/4A ( 42.0E )
+11101 V 7200
+DVB-S2 - 4:2:2 - 8PSK
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+12686  Horizontal  7501,834
+ID:   E-360 A (*unnamed-1*
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
+50 21 D2 BE 2F DB FC 3F  #CW:88 1C D7 7B BC 15 12 E3  
+Turkiye, TBSL
+Anadolu Efes SK
+ vs. 
+Merkezefendi Belediyesi Denizli Basket
+---FEED-SEPARATOR---
 NBA China Games 2025
 Asiasat 5 (100.5°E) C BAND
 4106
