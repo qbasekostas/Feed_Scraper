@@ -6,6 +6,50 @@ LaLiga 2
 Córdoba CF - Cultural y Deportiva Leonesa
 CW: E4 F5 60 39 E0 F0 CA 9A
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group G, Round 8
+Wales vs. Belgium
+Eutelsat 7B/7C @ 7.0°E
+11084 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: UKI-1957 Wales v Belgium M
+CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group , Round 8
+Slovenia vs. Switzerland
+Eutelsat 7B/7C @ 7.0°E
+11018 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: UKI-1462 M05 B
+CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group B, Round 8
+Sweden vs. Kosovo
+Eutelsat 7B/7C @ 7.0°E
+11000 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: SWE-054 2 M06 Feed A Backup
+CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
+7e
+11048 V 14400
+4:2:2
+ID: 
+POL-102 EQM M7 BACKUP
+EUROPE: 
+World Cup - Qualification
+Ukraine
+Azerbaijan
+CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11066  Vertical  14400,184
 ID:  YSM-021-2-M09 (*unnamed-1*)
