@@ -37,6 +37,11 @@ LaLiga 2
 Córdoba CF - Cultural y Deportiva Leonesa
 CW: E4 F5 60 39 E0 F0 CA 9A
 ---FEED-SEPARATOR---
+Eutelsat 16A ( 16.0°E)
+12689 - Vertical - 6000
+Name : UKI-1884 Coder 1 
+Wales VS  Belgium
+---FEED-SEPARATOR---
 16.0°E
 12700 V 8000 
 4:2:0
@@ -257,19 +262,6 @@ Eutelsat 10B (10° E)
 Name : ISL-RKS-002 - EQMB - Backup
 Click to expand...
 4.2.2
----FEED-SEPARATOR---
-Eutelsat 16A (16.0 E)
-11062 Horizontal 9872,888 3/4
-DVB-S2/8PSK (4:2:2)
-uki1480
-European Qualifiers 2026
-Northern Ireland vs Germany
-CW: 13 F8 B6 C1 AC 8F 10 4B
-Eutelsat 16A (16.0 E)
-11105 Horizontal 9872,887 3/4
-DVB-S2/8PSK (4:2:2)
-UKI1965 M8 main Cardiff
-CW: 13 F8 B6 C1 AC 8F 10 4B
 ---FEED-SEPARATOR---
 1w
 12541 V 6660
