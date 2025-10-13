@@ -37,6 +37,17 @@ LaLiga 2
 Córdoba CF - Cultural y Deportiva Leonesa
 CW: E4 F5 60 39 E0 F0 CA 9A
 ---FEED-SEPARATOR---
+Emirates FA Cup First Round - 
+Draw 
+Eutelsat 7B/7C @ 7.0°E
+12727 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: The FA Cup Round 1 Live Draw
+CW: 13 AA DF 9C EB 13 10 0E
+---FEED-SEPARATOR---
 Eutelsat 16A ( 16.0°E)
 12689 - Vertical - 6000
 Name : UKI-1884 Coder 1 
