@@ -1,3 +1,23 @@
+16E
+11128 H 9875
+4.2.0
+ID: FBL Jena
+Frauen-Bundesliga
+Event: 
+Jena vs FC Nurnberg 
+CW: 13 10 DA FD CD 12 55 34
+---FEED-SEPARATOR---
+omid1348 said:
+			16E
+11128 H 9875
+4.2.0
+ID: FBL Jena
+Frauen-Bundesliga
+Jena W
+1.FC Nurnberg W
+Click to expand...
+new cw pls?
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.0
@@ -207,6 +227,15 @@ Elite League U20
 Poland U20
 Switzerland U20
 CW: DC AE 20 AA 25 AA 10 DF
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 3
+Manisa Basket vs Esenler Erokspor
+Eutelsat 7B/7C @ 7.0E
+12685 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID TUR 112 MAIN
+CW: C0 89 8E D7 69 70 AF 88
 ---FEED-SEPARATOR---
 Albahraniy said:
 			Eutelsat 7B/7C @ 7.0E
