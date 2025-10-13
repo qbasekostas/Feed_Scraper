@@ -6,6 +6,18 @@ LaLiga 2
 Córdoba CF - Cultural y Deportiva Leonesa
 CW: E4 F5 60 39 E0 F0 CA 9A
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11066  Vertical  14400,184
+ID:  YSM-021-2-M09 (*unnamed-1*)
+1920x1080 |32,098Mb/Sec |8PSK 
+|4:2:2 HD
+International Youth, U20 Friendly Games
+Portugal
+ vs. 
+Germany 
+0B 14 6E DF A6 D4 D9 16  
+CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
 Friendly Match - South Korea vs Paraguay (tomorrow)
 100.5°E
 4135 H 7200
