@@ -18,6 +18,17 @@ Jena W
 Click to expand...
 new cw pls?
 ---FEED-SEPARATOR---
+Italian Serie C Girone A - Girone A - 9
+Dolomiti Bellunesi vs. Lumezzane 
+Eutelsat 7B/7C @ 7.0°E
+11123 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: ITA360_2
+CW: D6 75 3C 87 88 A1 B4 DD
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.0
@@ -25,6 +36,39 @@ ID: LIGA HYPERMOTION 1
 LaLiga 2
 Córdoba CF - Cultural y Deportiva Leonesa
 CW: E4 F5 60 39 E0 F0 CA 9A
+---FEED-SEPARATOR---
+16.0°E
+12700 V 8000 
+4:2:0
+DVB-S2 8PSK
+ID:
+ UKI 1973 Coder 1
+FIFA/UEFA WC 2026 Qualifiers - Group J, Round 8
+Wales v Belgium
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12730 Vertical 7998,278 3/4
+DVB-S2/8PSK (4:2:2)
+NI v GERMANY BBC DIRTY
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12638 Vertical 7198,452 3/4
+DVB-S2/8PSK (4:2:2)
+Serv 1080p SDR
+&
+Eutelsat 16A (16.0E)
+12652 Vertical 14396,907 3/4
+DVB-S2/8PSK (4:2:0)
+Serv 1080i
+---FEED-SEPARATOR---
+16.0°E
+12720 V 8000 
+4:2:2 
+DVB-S2 8PSK
+ID:
+ NI V GERMANY WORLD CLEAN
+FIFA/UEFA WC 2026 Qualifiers - Group A, Round 8
+Northern Ireland v Germany
 ---FEED-SEPARATOR---
 Eutelsat 16A (16° E)
 12573- Horizontal - 9875- 
@@ -205,6 +249,14 @@ ID : TXout-1 RXout-9
 DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: AC 25 07 D8 06 10 14 2A
+---FEED-SEPARATOR---
+A.ElSadek said:
+Iceland VS France
+Eutelsat 10B (10° E)
+11286 - Vertical - 9875
+Name : ISL-RKS-002 - EQMB - Backup
+Click to expand...
+4.2.2
 ---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 11062 Horizontal 9872,888 3/4
