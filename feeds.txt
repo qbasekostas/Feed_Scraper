@@ -6,6 +6,46 @@ LaLiga 2
 Córdoba CF - Cultural y Deportiva Leonesa
 CW: E4 F5 60 39 E0 F0 CA 9A
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers
+Northern Ireland vs Germany
+Eutelsat 7B/7C @ 7.0E
+10984 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: IRL15 M3 Backup
+CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
+16e
+11060 H 9875
+4:2:2
+ID: 
+UKI 1480 2
+EUROPE:
+World Cup - Qualification
+CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
+7e
+10964 H 14400
+4:2:2
+ID: 
+ITA-415 1 EQM2
+EUROPE:
+World Cup - Qualification
+North Macedonia
+Kazakhstan
+CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
+Dani Sat said:
+FIFA/UEFA WC 2026 Qualifiers - Group G, Round 8
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+CW: 13 F8 B6 C1 AC 8F 10 4B
+Click to expand...
+Eutelsat 7B/7C @ 7.0°E
+11102 -  Vertical - 14400
+Name : ISL-RKS-002 EQMB
+---FEED-SEPARATOR---
 Dani Sat said:
 FIFA/UEFA WC 2026 Qualifiers - Group G, Round 8
 CW: 13 F8 B6 C1 AC 8F 10 4B
