@@ -6,6 +6,17 @@ LaLiga 2
 Córdoba CF - Cultural y Deportiva Leonesa
 CW: E4 F5 60 39 E0 F0 CA 9A
 ---FEED-SEPARATOR---
+16e
+11104 H 9875
+4:2:2
+ID: 
+UKI1965 M8 main Cardiff
+EUROPE:
+World Cup - Qualification
+Wales
+Belgium
+CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers
 Northern Ireland vs Germany
 Eutelsat 7B/7C @ 7.0E
@@ -22,6 +33,8 @@ ID:
 UKI 1480 2
 EUROPE:
 World Cup - Qualification
+Northern Ireland
+Germany
 CW: 13 F8 B6 C1 AC 8F 10 4B
 ---FEED-SEPARATOR---
 7e
