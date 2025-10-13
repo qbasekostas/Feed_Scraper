@@ -5,3 +5,11 @@ ID: LIGA HYPERMOTION 1
 LaLiga 2
 Córdoba CF - Cultural y Deportiva Leonesa
 CW: E4 F5 60 39 E0 F0 CA 9A
+---FEED-SEPARATOR---
+Friendly Match - South Korea vs Paraguay (tomorrow)
+100.5°E
+4135 H 7200
+ID : TXout-1 RXout-9
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: AC 25 07 D8 06 10 14 2A
