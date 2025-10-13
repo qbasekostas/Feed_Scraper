@@ -6,6 +6,40 @@ LaLiga 2
 Córdoba CF - Cultural y Deportiva Leonesa
 CW: E4 F5 60 39 E0 F0 CA 9A
 ---FEED-SEPARATOR---
+Eutelsat 16A (16° E)
+12573- Horizontal - 9875- 
+4.2.2
+Name : CRO-025 EQM5 MAIN
+FIFA/UEFA WC 2026 Qualifiers - Group , Round 8
+Slovenia vs. Switzerland
+CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
+Eutelsat 16A (16° E)
+12537- Vertical - 9600 - 4.2.2
+Name : CRO-025 EQM5 MAIN
+Dani Sat said:
+FIFA/UEFA WC 2026 Qualifiers - Group , Round 8
+Slovenia vs. Switzerland
+CW: 13 F8 B6 C1 AC 8F 10 4B
+Click to expand...
+---FEED-SEPARATOR---
+U20 Elite League 
+Poland U20 vs Switzerland U20
+Eutelsat 16A (16° E)
+10985- Vertical - 9600 - 
+4.2.2
+Name : POL 030
+CW : DC AE 20 AA 25 AA 10 DF 
+---FEED-SEPARATOR---
+Dani Sat said:
+FIFA/UEFA WC 2026 Qualifiers - Group G, Round 8
+CW: 13 F8 B6 C1 AC 8F 10 4B
+Click to expand...
+Iceland VS France
+Eutelsat 10B (10° E)
+11286 - Vertical - 9875
+Name : ISL-RKS-002 - EQMB - Backup
+---FEED-SEPARATOR---
 16e
 11104 H 9875
 4:2:2
@@ -65,6 +99,7 @@ CW: 13 F8 B6 C1 AC 8F 10 4B
 Click to expand...
 11084 - Vertical - 14000
 UKI 1975 MB Main Car
+Wales - Belgium
 ---FEED-SEPARATOR---
 Dani Sat said:
 CW: 13 F8 B6 C1 AC 8F 10 4B
@@ -73,6 +108,8 @@ Eutelsat 7B/7C @ 7.0°E
 11002 - Horizontal - 14000 
 4:2:2 
 Name :UKI-1484-02-M04-BU
+World Cup Qual. UEFA A, Round 8
+Slovakia VS Luxembourg
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group G, Round 8
 Wales vs. Belgium
@@ -170,3 +207,25 @@ Elite League U20
 Poland U20
 Switzerland U20
 CW: DC AE 20 AA 25 AA 10 DF
+---FEED-SEPARATOR---
+Albahraniy said:
+			Eutelsat 7B/7C @ 7.0E
+basketball United Arab Emirates
+11025 V 4936
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: DMI SNG4
+CW: 13 14 20 47 25 20 26 6B
+Click to expand...
+ASIA: 
+WASL - Gulf League
+Al-Ahli Dubai
+Al Ittihad
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+basketball United Arab Emirates
+11025 V 4936
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: DMI SNG4
+CW: 13 14 20 47 25 20 26 6B
