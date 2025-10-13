@@ -18,6 +18,14 @@ Jena W
 Click to expand...
 new cw pls?
 ---FEED-SEPARATOR---
+ARGENTINA-Torneo Betano
+River Plate vs Sarmiento
+7.0E
+11459 V 7500
+4.2.0 HD
+ID: AFD
+CW: B4 10 CC 90 A5 15 9D 57
+---FEED-SEPARATOR---
 Italian Serie C Girone A - Girone A - 9
 Dolomiti Bellunesi vs. Lumezzane 
 Eutelsat 7B/7C @ 7.0°E
