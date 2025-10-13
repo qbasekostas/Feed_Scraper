@@ -6,6 +6,21 @@ LaLiga 2
 Córdoba CF - Cultural y Deportiva Leonesa
 CW: E4 F5 60 39 E0 F0 CA 9A
 ---FEED-SEPARATOR---
+Dani Sat said:
+FIFA/UEFA WC 2026 Qualifiers - Group G, Round 8
+CW: 13 F8 B6 C1 AC 8F 10 4B
+Click to expand...
+11084 - Vertical - 14000
+UKI 1975 MB Main Car
+---FEED-SEPARATOR---
+Dani Sat said:
+CW: 13 F8 B6 C1 AC 8F 10 4B
+Click to expand...
+Eutelsat 7B/7C @ 7.0°E
+11002 - Horizontal - 14000 
+4:2:2 
+Name :UKI-1484-02-M04-BU
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group G, Round 8
 Wales vs. Belgium
 Eutelsat 7B/7C @ 7.0°E
@@ -27,6 +42,14 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 - DVB-S2 - 8PSK
 ID: UKI-1462 M05 B
 CW: 13 F8 B6 C1 AC 8F 10 4B
+---FEED-SEPARATOR---
+Event : AFC FIFA World Cup 2026 Qualifiers - Qatar vs United Arab Emirates
+100.5°E
+3860 V 30000
+ID : Qat037 M
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 5F D7 57 8D 0A 00 87 91
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group B, Round 8
 Sweden vs. Kosovo
