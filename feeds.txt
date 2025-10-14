@@ -191,6 +191,16 @@ Norway
 New Zealand
 CW: 14 F8 B6 C2 AC 8F 10 4B
 ---FEED-SEPARATOR---
+7°E
+11125 V 9600
+ID: ITA 498 A
+Event:  
+World Cup Qual. UEFA I, Round 8
+Italy vs Israel
+4.2.0
+- DVB-S2 - H265 
+CW: B3 6B 99 B7 07 A4 02 AD
+---FEED-SEPARATOR---
 World Cup Qual. UEFA F, Round 8
 Estonia vs Moldova
 Eutelsat 7B/7C @ 7.0E
@@ -281,6 +291,28 @@ Türksat 3A/4A (42.0°E)
 DVB-S2 4.2.0 HD
 ID:E-360 A
 CW: 00 53 76 C9 61 61 61 23
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10838 V 7200
+4:2:0
+ID: TKS TRT M20 A
+Basketball Champions League: 
+Bursaspor vs Cholet
+CW: AF 89 FE 36 58 EE 90 D8
+---FEED-SEPARATOR---
+7°E
+11070 H 7200
+4.2.0
+ID: IMG A EU
+EVENT: EUROLEAGUE FENERBAHCE - DUBAI
+CW: 2A A5 AD 7C 7A 99 F4 07
+---FEED-SEPARATOR---
+EURO CUP 
+VEOLIA TOWER VS BAHCESEHIR
+Eutelsat 7B ( 7.0°E)
+11460 - Vertical - 7200
+Name : BB Hamburg-Istanbul - MTI Teleport MU
+CW : BB EE 14 BD 10 20 25 55
 ---FEED-SEPARATOR---
 7°E
 11523 V 7200
