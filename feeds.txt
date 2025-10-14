@@ -1,3 +1,44 @@
+Friendly Macht 
+47,5W C
+ID:Japan X Brasil Virtual
+TP:4123 H 7500
+HD 4.2.0
+CW: 20 25 14 59 1D AC DC A5
+---FEED-SEPARATOR---
+16E
+11062 H 9875
+4.2.2
+ID: POL-100 M03 MAIN
+FIFA World Cup European qualifiers
+CW: CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers 
+Eutelsat 7B/7C @ 7.0E
+10985 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:TU-005-B/U-EQM 03
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group K, Round 8
+Andorra vs. Serbia
+Eutelsat 7B/7C @ 7.0°E
+10964 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: E380 Main via 1
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+Friendly Match - South Korea vs Paraguay
+100.5°E
+4135 H 7200
+ID : TXout-1 RXout-9
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: AC 25 07 D8 06 10 14 2A
+---FEED-SEPARATOR---
 Friendly International
 Albania vs. Jordan
 Eutelsat 7B/7C @ 7.0°E
