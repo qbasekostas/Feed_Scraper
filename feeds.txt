@@ -1,3 +1,14 @@
+Friendly International
+Albania vs. Jordan
+Eutelsat 7B/7C @ 7.0°E
+11102 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: BUL007 EQFM M10 Back
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11001  Vertical  14400,031
 ID:  NTF M8 EST-004 Main (WorldFeed OU
