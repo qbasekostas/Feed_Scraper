@@ -261,6 +261,14 @@ ID:E-360 A
 CW: 00 53 76 C9 61 61 61 23
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
+12601 V 7200
+4:2:0
+ID: ITA 795
+Basketball Champions League: 
+Trapani vs Tofas
+CW: FE 81 BD 3C 93 DD 18 88
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
 10838 V 7200
 4:2:0
 ID: TKS TRT M20 A
