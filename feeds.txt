@@ -1,3 +1,15 @@
+Eutelsat 7C ( 7.0°E)
+11579 -  Vertical - 7500
+Name : SNG-1
+Saudi Arabia  VS IRaQ ( Fans )
+---FEED-SEPARATOR---
+FIFA International Friendly Match 2025
+ Iran vs Tanzania
+Eutelsat 7AB (7°E)
+12652 V 7199 (DVB-S2)
+ UAE074-M | BISS
+ BISS Key: BB B2 15 82 C3 9D FA 5A
+---FEED-SEPARATOR---
 Maybe World Cup Qualification, AFC, Round 4, Gr. B
  Saudi Arabia
 vs
@@ -70,16 +82,9 @@ Albahraniy said:
 CW: 14 F8 B6 C2 AC 8F 10 4B
 Click to expand...
 Eutelsat 7A/B ( 7.0E )
-12595 -Horizontal - 9875 -4.2.2
+12560  -Horizontal - 9875 -4.2.2
 E-95 - M04 - BACKUP
 Portugal VS Hungary
----FEED-SEPARATOR---
-7.0E
-11000 H 14400
-4.2.2
-ID: uki1482 EQM5 Main
-FIFA World Cup European qualifiers
-CW: 14 F8 B6 C2 AC 8F 10 4B
 ---FEED-SEPARATOR---
 World Cup Qual. UEFA F, Round 8
 Spain vs Bulgaria 
@@ -201,25 +206,6 @@ Italy vs Israel
 - DVB-S2 - H265 
 CW: B3 6B 99 B7 07 A4 02 AD
 ---FEED-SEPARATOR---
-World Cup Qual. UEFA F, Round 8
-Estonia vs Moldova
-Eutelsat 7B/7C @ 7.0E
-11003 V 14400
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID: NTF M8 EST-004 Main
-CW: 14 F8 B6 C2 AC 8F 10 4B
----FEED-SEPARATOR---
-HBO said:
-			DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-PMT PID: 2048, SID: 11 @ SAU-031 B (Alamiya)
-58 EB 00 2C 55 71 F3 3F  #CW:74 00 25 99 78 32 CF 79
-Saudi Arabia vs Iraq
-Click to expand...
-7.0E
-11014 V 7200 4:2:0
-Id: SAU _031 B
----FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3860 V 30000
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
@@ -246,24 +232,6 @@ Service name: MRCO05 BAKUP
 - Std: DVB-S2
 E1 D9 88 00 93 69 C3 06 
 CW: A7 27 EB B9 30 E2 25 37
----FEED-SEPARATOR---
-FIFA International Friendly Match 2025
- Iran vs Tanzania
-Eutelsat 7AB (7°E)
-12652 V 7199 (DVB-S2)
- UAE074-M | BISS
- BISS Key: BB B2 15 82 C3 9D FA 5A
----FEED-SEPARATOR---
-orangebirds said:
-AFC FIFA World Cup 2026 Qualifiers - Qatar vs United Arab Emirates
-100.5°E
-3860 V 30000
-New ID : GVA_Fi04
-DVB-S2 8PSK 4:2:0 1080i
-SID : 12 (C)
-Click to expand...
-7E 
-11022 V 7200
 ---FEED-SEPARATOR---
 Eutelsat 7A/B ( 7.0E )
 12727 -Vertical - 7200
