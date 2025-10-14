@@ -1,4 +1,15 @@
 Eutelsat 7B-7C   @ 07.0E
+11001  Vertical  14400,031
+ID:  NTF M8 EST-004 Main (WorldFeed OU
+1920x1080 |32,098Mb/Sec |8PSK 
+|4:2:2 HD
+International, World Cup Qualification, UEFA Group I
+Estonia
+ vs. 
+Moldova
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
 11084  Vertical  14400,206
 ID:     NOR-044 - 1 (Mobile Links)
 1920x1080 |32,098Mb/Sec |8PSK 
