@@ -185,6 +185,16 @@ Norway
 New Zealand
 CW: 14 F8 B6 C2 AC 8F 10 4B
 ---FEED-SEPARATOR---
+Asia
+WASL - Gulf League
+Sharjah
+AlUla
+Eutelsat 7B/7C (7.0°E)
+12509 V 4936
+DVB-S2 4.2.0 HD
+ID: DMI SNG4
+CW: 13 14 20 47 25 20 26 6B
+---FEED-SEPARATOR---
 EUROPE 
 Eurocup
 Turk Telekom
