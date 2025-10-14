@@ -1,3 +1,29 @@
+World Cup Qual. UEFA E, Round 8
+Türkiye vs Georgia
+Eutelsat 7B/7C @ 7.0E
+11022 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: TUR-057 MAIN (Eurovision)
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+Friendly Macht 
+Korea vs Paraguay 
+47,5W C
+ID:ENC-21
+TP:4145 H 4420
+HD 4.2.0
+CW: BB A1 58 B4 41 AF 25 15
+---FEED-SEPARATOR---
+World Cup Qual. UEFA I, Round 8
+Italy vs Israel
+Eutelsat 7B/7C @ 7.0E
+12571 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: ITA548 NTF M2
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
 Friendly Macht 
 47,5W C
 ID:Japan X Brasil Virtual
