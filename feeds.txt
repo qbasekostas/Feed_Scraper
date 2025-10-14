@@ -1,3 +1,14 @@
+Eutelsat 7B-7C   @ 07.0E
+11084  Vertical  14400,206
+ID:     NOR-044 - 1 (Mobile Links)
+1920x1080 |32,098Mb/Sec |8PSK 
+|4:2:2 HD
+International, International Friendly Games
+Norway
+ vs. 
+New Zealand
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
 Friendly Match - China U23 vs Thailand U23
 100.5°E
 4147 H 7200
