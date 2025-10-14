@@ -1,3 +1,11 @@
+Albahraniy said:
+			World Cup Qual. UEFA F, Round 8
+CW: 14 F8 B6 C2 AC 8F 10 4B
+Click to expand...
+Eutelsat 7A/B ( 7.0E )
+12595 -Horizontal - 9875 -4.2.2
+E-95 - M04 - BACKUP
+---FEED-SEPARATOR---
 World Cup Qual. UEFA F, Round 8
 Spain vs Bulgaria 
 Eutelsat 7B/7C @ 7.0E
@@ -48,13 +56,6 @@ ID:Japan X Brasil Virtual
 TP:4123 H 7500
 HD 4.2.0
 CW: 20 25 14 59 1D AC DC A5
----FEED-SEPARATOR---
-16E
-11062 H 9875
-4.2.2
-ID: POL-100 M03 MAIN
-FIFA World Cup European qualifiers
-CW: CW: 14 F8 B6 C2 AC 8F 10 4B
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers 
 Türkiye vs Georgia
