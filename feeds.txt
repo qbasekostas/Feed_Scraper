@@ -6,6 +6,29 @@ DVB-S2 8PSK 4:2:0 1080i
 SID : 1
 CW: AB CD 20 98 25 10 14 49
 ---FEED-SEPARATOR---
+World Cup Qual. UEFA F, Round 8
+Portugal vs Hungary
+Eutelsat 7B/7C @ 7.0E
+12560 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:E-95 - M04 - MAIN
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+Albahraniy said:
+FIFA/UEFA WC 2026 Qualifiers 
+Türkiye vs Georgia
+Eutelsat 7B/7C @ 7.0E
+10985 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:TU-005-B/U-EQM 03
+CW: 14 F8 B6 C2 AC 8F 10 4B
+Click to expand...
+Event:Europe World Cup - Qualification
+Teams : Latvia 
+ England
+---FEED-SEPARATOR---
 World Cup Qualification, AFC, Round 4, Gr. A, Round 3
 Qatar vs United Arab Emirates
 Eutelsat 7B/7C @ 7.0E
@@ -170,3 +193,13 @@ Norway
  vs. 
 New Zealand
 CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+EUROPE 
+Eurocup
+Turk Telekom
+Buducnost
+Türksat 3A/4A (42.0°E)
+12574 H 2479
+DVB-S2 4.2.0 HD
+ID:E-360 A
+CW: 00 53 76 C9 61 61 61 23
