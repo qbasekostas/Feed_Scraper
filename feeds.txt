@@ -186,6 +186,23 @@ Norway
 New Zealand
 CW: 14 F8 B6 C2 AC 8F 10 4B
 ---FEED-SEPARATOR---
+HBO said:
+			DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+PMT PID: 2048, SID: 11 @ SAU-031 B (Alamiya)
+58 EB 00 2C 55 71 F3 3F  #CW:74 00 25 99 78 32 CF 79
+Saudi Arabia vs Iraq
+Click to expand...
+7.0E
+11014 V 7200 4:2:0
+Id: SAU _031 B
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3860 V 30000
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+PMT PID: 2048, SID: 11 @ SAU-031 B (Alamiya)
+58 EB 00 2C 55 71 F3 3F  #CW:74 00 25 99 78 32 CF 79
+Saudi Arabia vs Iraq
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10° E
 Fréq:3900- H - 3750
 MPEG 4 - 4:2:0 - DVB-S2
