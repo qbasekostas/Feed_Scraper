@@ -10,10 +10,10 @@ Eutelsat 7AB (7°E)
  UAE074-M | BISS
  BISS Key: BB B2 15 82 C3 9D FA 5A
 ---FEED-SEPARATOR---
-Maybe World Cup Qualification, AFC, Round 4, Gr. B
- Saudi Arabia
+Maybe World Cup Qualification, AFC
+Qatar 
 vs
-Iraq
+United Arab Emirates
 Eutelsat 3B @ 3.1° E
 Fréq:10968 - H - 7500
 MPEG 4 - 4:2:0 - DVB-S2
@@ -21,9 +21,6 @@ ID:    beIN SPORTS
 +
 Fréq:10978 - H - 7500
 ID: beIN SPORTS HD
-Qatar 
-vs
-United Arab Emirates
 CW: ED 57 EA 2E C1 F2 95 48
 ---FEED-SEPARATOR---
 World Cup Qual. UEFA F, Round 8
@@ -195,6 +192,19 @@ Norway
  vs. 
 New Zealand
 CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+Eutelsat 10B (10°0E)
+10731 - Vertical - 34000
+Name : OCC 1
+World Cup Qual. CONCACAF Round 4 Curaçao VS Trinidad and Tobago
+CW : 78 45 96 53 58 45 12 AF
+---FEED-SEPARATOR---
+Eutelsat 10B (10°0E)
+10731 - Vertical - 34000
+Name : OCC 2
+CW : AA BB 45 AA 78 74 15 01
+Concacaf QUALIFIERS
+PANAMA VS SURINAME
 ---FEED-SEPARATOR---
 7°E
 11125 V 9600
