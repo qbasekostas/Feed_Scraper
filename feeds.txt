@@ -267,6 +267,23 @@ ID:E-360 A
 CW: 00 53 76 C9 61 61 61 23
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
+12583 V 7200
+4:2:0
+ID: SNG ATLAS-SAT 1
+Basketball Champions League: 
+Karditsas vs Malaga
+CW: EE 67 BB 10 02 FF 36 37
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12610 V 7200
+4:2:0
+ID: D-331 TX2
+Basketball Champions League: 
+Wurzburg vs Igokea
+CW:
+BD 80 FE 3B 62 CC 88 B6
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
 10829 V 7200
 4:2:0
 ID: CZE-012 M_BCL Nymburk
