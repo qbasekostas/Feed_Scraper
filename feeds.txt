@@ -1,3 +1,21 @@
+World Cup Qual. UEFA F, Round 8
+Spain vs Bulgaria 
+Eutelsat 7B/7C @ 7.0E
+12547 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: E-413 MAIN
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+World Cup Qual. UEFA F, Round 8
+Ireland vs Armenia
+Eutelsat 7B/7C @ 7.0E
+11003 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: UECL LP MATCH 35 FEED A
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
 World Cup Qual. UEFA E, Round 8
 Türkiye vs Georgia
 Eutelsat 7B/7C @ 7.0E
@@ -39,6 +57,7 @@ FIFA World Cup European qualifiers
 CW: CW: 14 F8 B6 C2 AC 8F 10 4B
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers 
+Türkiye vs Georgia
 Eutelsat 7B/7C @ 7.0E
 10985 H 14400
 DVB-S2 - 1080P - 8PSK
