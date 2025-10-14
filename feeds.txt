@@ -1,10 +1,13 @@
-Friendly Match - China U23 vs Thailand U23
+orangebirds said:
+AFC FIFA World Cup 2026 Qualifiers - Qatar vs United Arab Emirates
 100.5°E
-4147 H 7200
-ID : CFA-A
+3860 V 30000
+New ID : GVA_Fi04
 DVB-S2 8PSK 4:2:0 1080i
-SID : 1
-CW: AB CD 20 98 25 10 14 49
+SID : 12 (C)
+Click to expand...
+7E 
+11022 V 7200
 ---FEED-SEPARATOR---
 World Cup Qual. UEFA F, Round 8
 Portugal vs Hungary
@@ -169,9 +172,7 @@ ID:  NTF M8 EST-004 Main (WorldFeed OU
 1920x1080 |32,098Mb/Sec |8PSK 
 |4:2:2 HD
 International, World Cup Qualification, UEFA Group I
-Estonia
- vs. 
-Moldova
+albania VS  jordan
 CW: 14 F8 B6 C2 AC 8F 10 4B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
@@ -184,6 +185,40 @@ Norway
  vs. 
 New Zealand
 CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10° E
+Fréq:3900- H - 3750
+MPEG 4 - 4:2:0 - DVB-S2
+ID:Friendlies - Iran Vs Tanzania
+Friendly Match
+Iran Vs Tanzania
+CW: 02 01 C1 C4 D0 75 BA FF
+---FEED-SEPARATOR---
+Morocco VS  Congo 
+21.5E
+Service name: MRCO05 BAKUP
+- Freq: 11594,138
+- Pol: Horizontal
+- SR: 5000,068
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+E1 D9 88 00 93 69 C3 06 
+CW: A7 27 EB B9 30 E2 25 37
+---FEED-SEPARATOR---
+FIFA International Friendly Match 2025
+ Iran vs Tanzania
+Eutelsat 7AB (7°E)
+12652 V 7199 (DVB-S2)
+ UAE074-M | BISS
+ BISS Key: BB B2 15 82 C3 9D FA 5A
+---FEED-SEPARATOR---
+Eutelsat 7A/B ( 7.0E )
+12727 -Vertical - 7200
+Name : TKS.TRT.M17 -B 
+CW : 4E 5B 29 D2 6D D4 6A AB
+Eurocup, Group B, Round 3
+Türk Telekom B.K. vs KK Budućnost VOLI
 ---FEED-SEPARATOR---
 Asia
 WASL - Gulf League
