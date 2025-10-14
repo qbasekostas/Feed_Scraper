@@ -6,6 +6,13 @@ Eutelsat 7A/B ( 7.0E )
 12595 -Horizontal - 9875 -4.2.2
 E-95 - M04 - BACKUP
 ---FEED-SEPARATOR---
+7.0E
+11000 H 14400
+4.2.2
+ID: uki1482 EQM5 Main
+FIFA World Cup European qualifiers
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
 World Cup Qual. UEFA F, Round 8
 Spain vs Bulgaria 
 Eutelsat 7B/7C @ 7.0E
