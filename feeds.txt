@@ -31,15 +31,6 @@ Teams : Latvia
 ---FEED-SEPARATOR---
 World Cup Qualification, AFC, Round 4, Gr. A, Round 3
 Qatar vs United Arab Emirates
-Eutelsat 7B/7C @ 7.0E
-11022 V 7200
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID:Qat037 M
-CW: 5F D7 57 8D 0A 00 87 91
----FEED-SEPARATOR---
-World Cup Qualification, AFC, Round 4, Gr. A, Round 3
-Qatar vs United Arab Emirates
 Eutelsat 3B @ 3.1°E
 10958 H 7500
 DVB-S2 - 1080P - 8PSK
