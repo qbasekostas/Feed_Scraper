@@ -1,3 +1,48 @@
+Friendly Match - China U23 vs Thailand U23
+100.5°E
+4147 H 7200
+ID : CFA-A
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: AB CD 20 98 25 10 14 49
+---FEED-SEPARATOR---
+World Cup Qualification, AFC, Round 4, Gr. A, Round 3
+Qatar vs United Arab Emirates
+Eutelsat 7B/7C @ 7.0E
+11022 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:Qat037 M
+CW: 5F D7 57 8D 0A 00 87 91
+---FEED-SEPARATOR---
+World Cup Qualification, AFC, Round 4, Gr. A, Round 3
+Qatar vs United Arab Emirates
+Eutelsat 3B @ 3.1°E
+10958 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: QAT029-ENC-2
+CW: E9 EF 69 41 29 7F 35 DD
+---FEED-SEPARATOR---
+World Cup Qual. UEFA K, Round 8
+Latvia vs England
+Eutelsat 16A @ 16.0E
+11062 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  POL-100  M03  MAIN
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
+AFC FIFA World Cup 2026 Qualifiers - Qatar vs United Arab Emirates
+100.5°E
+3860 V 30000
+New ID : GVA_Fi04
+DVB-S2 8PSK 4:2:0 1080i
+SID : 12 (C)
+orangebirds said:
+CW: 5F D7 57 8D 0A 00 87 91
+Click to expand...
+---FEED-SEPARATOR---
 Albahraniy said:
 			World Cup Qual. UEFA F, Round 8
 CW: 14 F8 B6 C2 AC 8F 10 4B
@@ -5,6 +50,7 @@ Click to expand...
 Eutelsat 7A/B ( 7.0E )
 12595 -Horizontal - 9875 -4.2.2
 E-95 - M04 - BACKUP
+Portugal VS Hungary
 ---FEED-SEPARATOR---
 7.0E
 11000 H 14400
@@ -124,11 +170,3 @@ Norway
  vs. 
 New Zealand
 CW: 14 F8 B6 C2 AC 8F 10 4B
----FEED-SEPARATOR---
-Friendly Match - China U23 vs Thailand U23
-100.5°E
-4147 H 7200
-ID : CFA-A
-DVB-S2 8PSK 4:2:0 1080i
-SID : 1
-CW: AB CD 20 98 25 10 14 49
