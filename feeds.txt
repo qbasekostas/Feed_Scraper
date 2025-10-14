@@ -1,13 +1,18 @@
-orangebirds said:
-AFC FIFA World Cup 2026 Qualifiers - Qatar vs United Arab Emirates
-100.5°E
-3860 V 30000
-New ID : GVA_Fi04
-DVB-S2 8PSK 4:2:0 1080i
-SID : 12 (C)
-Click to expand...
-7E 
-11022 V 7200
+Maybe World Cup Qualification, AFC, Round 4, Gr. B
+ Saudi Arabia
+vs
+Iraq
+Eutelsat 3B @ 3.1° E
+Fréq:10968 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID:    beIN SPORTS
++
+Fréq:10978 - H - 7500
+ID: beIN SPORTS HD
+Qatar 
+vs
+United Arab Emirates
+CW: ED 57 EA 2E C1 F2 95 48
 ---FEED-SEPARATOR---
 World Cup Qual. UEFA F, Round 8
 Portugal vs Hungary
@@ -239,6 +244,17 @@ Eutelsat 7AB (7°E)
  UAE074-M | BISS
  BISS Key: BB B2 15 82 C3 9D FA 5A
 ---FEED-SEPARATOR---
+orangebirds said:
+AFC FIFA World Cup 2026 Qualifiers - Qatar vs United Arab Emirates
+100.5°E
+3860 V 30000
+New ID : GVA_Fi04
+DVB-S2 8PSK 4:2:0 1080i
+SID : 12 (C)
+Click to expand...
+7E 
+11022 V 7200
+---FEED-SEPARATOR---
 Eutelsat 7A/B ( 7.0E )
 12727 -Vertical - 7200
 Name : TKS.TRT.M17 -B 
@@ -265,6 +281,12 @@ Türksat 3A/4A (42.0°E)
 DVB-S2 4.2.0 HD
 ID:E-360 A
 CW: 00 53 76 C9 61 61 61 23
+---FEED-SEPARATOR---
+7°E
+11523 V 7200
+4.2.0
+ID: Medialink CRO-024/1
+CW: 14 7A DF 6D 5F CC 05 30
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 12583 V 7200
