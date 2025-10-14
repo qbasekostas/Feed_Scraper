@@ -186,6 +186,15 @@ Norway
 New Zealand
 CW: 14 F8 B6 C2 AC 8F 10 4B
 ---FEED-SEPARATOR---
+World Cup Qual. UEFA F, Round 8
+Estonia vs Moldova
+Eutelsat 7B/7C @ 7.0E
+11003 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: NTF M8 EST-004 Main
+CW: 14 F8 B6 C2 AC 8F 10 4B
+---FEED-SEPARATOR---
 HBO said:
 			DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 PMT PID: 2048, SID: 11 @ SAU-031 B (Alamiya)
@@ -256,3 +265,18 @@ Türksat 3A/4A (42.0°E)
 DVB-S2 4.2.0 HD
 ID:E-360 A
 CW: 00 53 76 C9 61 61 61 23
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10829 V 7200
+4:2:0
+ID: CZE-012 M_BCL Nymburk
+Basketball Champions League: 
+Cez Nymburk vs Chalon-Sur-Saone
+CW: CF  74 AD F0 33 CE 95 96
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12592 V 7200
+4:2:0
+Basketball Champions League: 
+ Hapoel Holon vs Joventut Badalona
+CW: FF 76 DF 54 72 DA 73 BF
