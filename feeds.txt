@@ -81,6 +81,24 @@ UEFA Women's Champions League
 OL Lyonnes - SKN St. Pölten
 CW: F5 EC 1D FE 6F 28 1B B2
 ---FEED-SEPARATOR---
+42e
+11460 V 6800
+4:2:2
+ID: 
+TUR122A
+Europe cup
+Petkim Spor  vs  Corona Brasov
+33 4D 0F EF 7D 95 B9 2F  #CW: 
+22 58 00 7A 00 22 58 7A
+---FEED-SEPARATOR---
+13E
+12610 V 7200
+4.2.0
+ID: D-331 TX2
+Basketball Champions League
+Heidelberg - Rytas
+CW: BB 25 CB AB 15 AA 09 C8
+---FEED-SEPARATOR---
 Euro Cup
 Panionios Vs JL Bourg 
  Eutelsat 7A/B ( 7.0E )
