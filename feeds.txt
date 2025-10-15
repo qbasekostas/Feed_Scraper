@@ -104,6 +104,25 @@ MPEG4-
 .680 Mbit/Sec|8PSK DVB-S2 HD
 CW: F5 EC 1D FE 6F 28 1A B1
 ---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+UEFA Champions League, Women, League Round 2
+ Vålerenga VS VfL Wolfsburg
+10986 H 9875
+  Fi14_GNVE (EBUER)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.680 
+Mbit/Sec|8PSK DVB-S2 HD
+CW: F5 EC 1D FE 6F 28 1C B3
+Click to expand...
+Match: 
+UEFA Champions League, Women, League Round 2
+Chelsea FC vs Paris
+Thanks !!!
+---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10838 V 7200
 4:2:0
