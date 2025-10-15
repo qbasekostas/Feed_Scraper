@@ -81,6 +81,13 @@ UEFA Women's Champions League
 OL Lyonnes - SKN St. Pölten
 CW: F5 EC 1D FE 6F 28 1B B2
 ---FEED-SEPARATOR---
+Eutelsat Hot Bird 13B-13C-13D 13.0E 
+10831 Vertical 7200,532 8PSK 3/4 DVB-S2 ON 0.20 
+id:OTE 1 (OTE)
+CW: BB 57 DC EE 63 FA 76 D3
+FIBA Champions League
+AEK BC vs. NHSZ-Szolnoki Olajbanyasz start@ 18:30 CET
+---FEED-SEPARATOR---
 42e
 11460 V 6800
 4:2:2
