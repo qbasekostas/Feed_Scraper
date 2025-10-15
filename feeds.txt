@@ -105,6 +105,14 @@ MPEG4-
 CW: F5 EC 1D FE 6F 28 1A B1
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
+10838 V 7200
+4:2:0
+ID: E-289 via MAIN
+Basketball Champions League: 
+Benfica vs Spartak
+CW: FD 77 DD 51 98 FE 39 CF
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
 12583 V 7200
 4:2:0
 ID: Medialink CRO-025/1
@@ -116,14 +124,6 @@ CW: FF 56 BC 11 88 AD 12 47
 12726 V 7200
 LAT-002
 CW: BA 23 DE BB 81 CD 72 C0
----FEED-SEPARATOR---
-Hot Bird (13.0°E)
-12610 V 7200
-4:2:0
-ID: D-331 TX2
-Basketball Champions League: 
-Universitats Sport-Club Heidelberg vs Rytas
-CW: BB 25 CB AB 15 AA 09 C8
 ---FEED-SEPARATOR---
 7E
 12694 V 7200
@@ -189,3 +189,20 @@ Eutelsat 7A/B ( 7.0E )
 11544 - Vertical - 7200
 Name : E-411_via 2
 CW : EB 71 EF 4B 28 CD 67 5C
+---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10973 V 9600
+ID: POL-90 HDa
+Event: 
+Men's Basketball: Champions League - Group Stage Match: Legia Warszawa - Promitheas Patras BC
+4.2.2
+- DVB-S2 - 8PSK
+CW: DC AE 20 AA 25 AA 10 DF
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12592 V 7200
+4:2:2
+ID: CH141
+Basketball Champions League: 
+Legia vs Promitheas
+CW: FF 18 FB 12 07 BB 88 4A
