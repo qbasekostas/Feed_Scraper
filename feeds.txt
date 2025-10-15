@@ -104,6 +104,14 @@ MPEG4-
 .680 Mbit/Sec|8PSK DVB-S2 HD
 CW: F5 EC 1D FE 6F 28 1A B1
 ---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12583 V 7200
+4:2:0
+ID: Medialink CRO-025/1
+Basketball Champions League: 
+Trieste vs Galatasaray
+CW: FF 56 BC 11 88 AD 12 47
+---FEED-SEPARATOR---
 7E
 12726 V 7200
 LAT-002
