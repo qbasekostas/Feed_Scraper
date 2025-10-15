@@ -32,6 +32,14 @@ TP:4100 H 7500
 PID:1020h B8h-Crypt8:EB 6A 8B 7B 33 AC 97 B2 [E] Count:229
 CW: AA BB 45 AA 78 74 15 01
 ---FEED-SEPARATOR---
+Europe Champions League Women
+Eutelsat 7B/7C @ 7.0E
+10963 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:NOR-044 - 1
+CW: F5 EC 1D FE 6F 28 1A B1
+---FEED-SEPARATOR---
 Event 
 :Europe Champions League Women - League phase - Round 2
 Teams :AS Roma W 
