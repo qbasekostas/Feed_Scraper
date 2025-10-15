@@ -190,6 +190,23 @@ Eutelsat 7A/B ( 7.0E )
 Name : E-411_via 2
 CW : EB 71 EF 4B 28 CD 67 5C
 ---FEED-SEPARATOR---
+7E
+12634 V 7200
+4.2.0
+ID: E411- via
+Basketball Champions League
+Gran Canaria - Le Mans
+CW: EB 71 EF 4B 28 CD 67 5C
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10848 V 7200
+4:2:0
+ID: 2Sat HOL89 Main
+Basketball Champions League: 
+Oostende
+vs Mersin
+CW: BD 26 DE C1 19 EE 52 59
+---FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10973 V 9600
 ID: POL-90 HDa
