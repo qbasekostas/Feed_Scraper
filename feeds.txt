@@ -32,6 +32,31 @@ TP:4100 H 7500
 PID:1020h B8h-Crypt8:EB 6A 8B 7B 33 AC 97 B2 [E] Count:229
 CW: AA BB 45 AA 78 74 15 01
 ---FEED-SEPARATOR---
+Event 
+:Europe Champions League Women - League phase - Round 2
+Teams :AS Roma W 
+ Barcelona W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10997 H 9875
+   ITA198 UWCL M4 Main (Elpitel)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.396
+  Mbit/Sec|8PSK DVB-S2 HD
+66 59 1F 75 EB 5E 07 C1 
+CW: F5 EC 1D FE 6F 28 1D B4
+---FEED-SEPARATOR---
+OH Leuven VS 
+FC Twente
+UEFA Women's Champions League
+Eutelsat 7C @ 7° E
+11010 - Horizontal - 9875
+DVB-S2 - 4.2.2 8PSK
+Name : BEL095
+CW : F5 EC 1D FE 6F 28 1E B5
+---FEED-SEPARATOR---
 UEFA Champions League, Women, League  Round 2 Vålerenga vs VfL Wolfsburg
 Eutelsat 7C @ 7° E 
 12704 - vertical - 7200
