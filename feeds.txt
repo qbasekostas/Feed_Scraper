@@ -32,6 +32,13 @@ TP:4100 H 7500
 PID:1020h B8h-Crypt8:EB 6A 8B 7B 33 AC 97 B2 [E] Count:229
 CW: AA BB 45 AA 78 74 15 01
 ---FEED-SEPARATOR---
+UEFA Champions League, Women, League  Round 2 Vålerenga vs VfL Wolfsburg
+Eutelsat 7C @ 7° E 
+12704 - vertical - 7200
+DVB-S2 - 4.2.0 8PSK
+Name : ENC  2
+CW : 5C 91 6D 5A C4 0F BB 8E
+---FEED-SEPARATOR---
 7E
 10973 H 9875
 4.2.2
