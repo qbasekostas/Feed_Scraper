@@ -16,3 +16,8 @@ Click to expand...
 Event : Friday 17 October 2025
 Morocco VS Brazil - First stage· Group A·Match 1
 Olympic Stadium Annex Sports Complex Prince Moulay Abdellah(Rabat)
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E 
+10961 -  Horizontal - 9875 4.2.2
+Name : E413 Main 
+CW : F5 EC 1D FE 6F 28 1A B1
