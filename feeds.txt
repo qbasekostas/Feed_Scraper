@@ -6,6 +6,14 @@ CUP COLOMBIA
 AMÉRICA DE CALI VS JUNIORS 
 CW: 32 85 F7 AE A3 16 67 20
 ---FEED-SEPARATOR---
+A.ElSadek said:
+Eutelsat 7A/B ( 7.0E ) 
+12725 - Vertical - 7200 - 4.2.0
+Name : Pitch EFL - Huddersfield v
+Click to expand...
+7120 
+7200 
+---FEED-SEPARATOR---
 orangebirds said:
 EFL League One - Huddersfield Town vs Bolton Wanderers
 CW: 54 DB A3 D2 73 3A 99 46
@@ -13,6 +21,19 @@ Click to expand...
 Eutelsat 7A/B ( 7.0E ) 
 12725 - Vertical - 7200 - 4.2.0
 Name : Pitch EFL - Huddersfield v
+---FEED-SEPARATOR---
+orangebirds said:
+EFL League One - Huddersfield Town vs Bolton Wanderers
+100.5°E
+3905 V 7120
+ID : BT_SES_22_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 54 DB A3 D2 73 3A 99 46
+Click to expand...
+7.0E
+12726 V 7120
+ID: Pitch EFL - Huddersfield v Bolton Wanderers
 ---FEED-SEPARATOR---
 EFL League One - Huddersfield Town vs Bolton Wanderers
 100.5°E
@@ -131,6 +152,13 @@ Eutelsat 7B/7C (7.0°E)
 DVB-S2 4.2.0 HD
 ID: BASKET
 FTA / CLEAR
+---FEED-SEPARATOR---
+7.0E
+12572 H 7200
+ID: BASKET
+Euroleague Women
+Famila Schio VS Uniqa Sopron
+FTA
 ---FEED-SEPARATOR---
 7.0E
 11070 H 7200
