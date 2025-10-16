@@ -16,6 +16,16 @@ CW: 54 DB A3 D2 73 3A 99 46
 ---FEED-SEPARATOR---
 A.ElSadek said:
 FIFA U-17 Women’s World Cup Morocco 2025​
+CW : AD D9 83 09 CB 61 92 BE
+Click to expand...
+7E
+11097 V 7200
+4.2.0
+ID: MRC005 MAIN
+Morocco U17 - Brazil U17  - Tomorrow
+---FEED-SEPARATOR---
+A.ElSadek said:
+FIFA U-17 Women’s World Cup Morocco 2025​
 Eutelsat 7A/B ( 7.0E )
 11106 - Vertical - 7200 - 4.2.0
 Name : MRC003 M256M
@@ -35,6 +45,7 @@ H
 Transmis en: 
 MPEG-4 crypté
 CW: F5 EC 1D FE 6F 28 1C B3
+Bayern München-Juventus
 ---FEED-SEPARATOR---
 Champions League Women
 PSG VS Real Madrid 
@@ -60,12 +71,3 @@ Name : E413 Main
 UEFA CHAMPIONS LEAGUE WOMEN 
 ATLETICO MADRDID VS MAN UTD
 CW : F5 EC 1D FE 6F 28 1A B1
----FEED-SEPARATOR---
-7E
-11070 H 7200
-4.2.0
-ID: 
-UAE074-M
-EuroLeague
-Dubai - Barcelona
-CW: 9F 7C F6 11 31 54 15 9A
