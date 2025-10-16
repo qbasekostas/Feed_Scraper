@@ -64,7 +64,8 @@ CW : F5 EC 1D FE 6F 28 1A B1
 7E
 11070 H 7200
 4.2.0
-ID: IMG A EU
+ID: 
+UAE074-M
 EuroLeague
 Dubai - Barcelona
 CW: 9F 7C F6 11 31 54 15 9A
