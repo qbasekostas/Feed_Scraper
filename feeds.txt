@@ -17,7 +17,38 @@ Event : Friday 17 October 2025
 Morocco VS Brazil - First stage· Group A·Match 1
 Olympic Stadium Annex Sports Complex Prince Moulay Abdellah(Rabat)
 ---FEED-SEPARATOR---
+Eutelsat 7B - 7C (7.0°E)
+Fréquence: 
+10985
+ - Pol: 
+H
+ - SR: 
+9874
+Transmis en: 
+MPEG-4 crypté
+CW: F5 EC 1D FE 6F 28 1C B3
+---FEED-SEPARATOR---
+Champions League Women
+PSG VS Real Madrid 
+Eutelsat 7A/7B/7C @ 7.0°E
+10996 - Horizontal - 9875 - 
+4.2.2
+Name : OER /F504/1/MAIN PSG/REAL
+CW : F5 EC 1D FE 6F 28 1D B4
+---FEED-SEPARATOR---
+Champions League Women
+SL Benfica  VS Arsenal
+Eutelsat 7A/7B/7C @ 7.0°E
+10971 - Horizontal - 9875 - 
+4.2.2
+Name : E-95 - M02 - MAIN ( 
+Mediapro portugal
+ )
+CW : F5 EC 1D FE 6F 28 1B B2
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E 
 10961 -  Horizontal - 9875 4.2.2
 Name : E413 Main 
+UEFA CHAMPIONS LEAGUE WOMEN 
+ATLETICO MADRDID VS MAN UTD
 CW : F5 EC 1D FE 6F 28 1A B1
