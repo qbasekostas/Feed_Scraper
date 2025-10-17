@@ -38,6 +38,27 @@ DVB-S2-
 ID:GVA_Fi04
 CW: 78 CB 3E 81 6D DE 15 60
 ---FEED-SEPARATOR---
+42e
+10983 V 7500
+4:2:2
+ID:
+ TUR 112 MAIN
+Turkey Super Lig
+Buyukcekmece
+Bahcesehir Kol.
+D9 9F 45 01 DF 68 0F 67  #CW: 
+B5 10 1E E3 F1 74 51 B6
+7E
+11525 H 7500
+---FEED-SEPARATOR---
+7E
+11079 H 7200
+4.2.0
+ID: F560 ASVEL
+EuroLeague
+Lyon-Villeurbanne - Vitrus Bologna
+CW: 2C 84 E6 96 B8 F3 16 C1
+---FEED-SEPARATOR---
 7E
 11097 H 7200
 4.2.0
