@@ -31,6 +31,14 @@ liga 3
 Aue-Mannheim
 CW: 17 10 AC D3 DC 00 01 DD
 ---FEED-SEPARATOR---
+Bundesliga - Round 7
+Union Berlin - B. Monchengladbach
+Eutelsat 7A/7B/7C @ 7.0E
+11022 V 9875
+ID:GVA_Fi03__BULI_7 (EUROVISION SA)
+1920x1080 | 8PSK |4:2:2HD
+CW: 44 BA 3F 3D 3E 22 89 E9
+---FEED-SEPARATOR---
 Italian Serie BKT - Week 8
 Virtus Entella vs. Sampdoria
 Eutelsat 7B/7C @ 7.0°E
@@ -95,6 +103,21 @@ ID: Uki-1592
 Scottish Championship - Week 11
 Dunfermline Athletic v Raith Rovers
 ---FEED-SEPARATOR---
+vnraw said:
+			AsiaSat 5 100.5E
+3904 V 7119
+8PSK 2/3 DVB-S2
+ID: 
+BT_SES_22_SDI
+CW: 37 3A 46 B7 73 4A D3 90
+Middlesbrough vs Ipswich Town
+Click to expand...
+7E
+11460 V 7120
+4.2.0
+ID: Pitch EFL - Oldham Athletic
+Middlesbrough F.C. - Ipswich Town F.C.
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3904 V 7119
 8PSK 2/3 DVB-S2
@@ -123,6 +146,14 @@ Eutelsat 7B/7C (7.0°E)
 DVB-S2 4.2.0 HD
 ID: BiH-003-2
 FTA / CLEAR
+---FEED-SEPARATOR---
+7E
+11088 H 7200
+4.2.0
+ID: F419_MAIN
+EuroLeague
+Paris - Hapoel Tel Aviv
+CW: 95 A5 29 63 7B 11 C6 52
 ---FEED-SEPARATOR---
 42e
 10983 V 7500
