@@ -103,6 +103,14 @@ ID: Uki-1592
 Scottish Championship - Week 11
 Dunfermline Athletic v Raith Rovers
 ---FEED-SEPARATOR---
+SCOTTISH Championship
+Dunfermline vs Raith Rovers
+7.0E
+11579 V 7200
+4.2.0 HD
+ID: GCUK Enc 9
+CW: DA 14 EE DC 44 CB B1 C0
+---FEED-SEPARATOR---
 vnraw said:
 			AsiaSat 5 100.5E
 3904 V 7119
