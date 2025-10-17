@@ -1,3 +1,23 @@
+Spanish La Liga 2 - Matchday 10
+Andorra vs. Granada
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 37 FA F9 2A 9B BC 75 CC
+---FEED-SEPARATOR---
+vnraw said:
+Real Oviedo vs  Espanyol
+CW: FB BB BA 70 BB C5 D7 57
+Click to expand...
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30000
 ID: OVERON 1 (Servicios Audiovisuales Overon, S L)
