@@ -87,6 +87,14 @@ Event: Spain - LALIGA EA SPORTS Matchday 9
 Real Oviedo vs RCD Espanyol 
 CW: FB BB BA 70 BB C5 D7 57
 ---FEED-SEPARATOR---
+16E
+12692 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship - Week 11
+Dunfermline Athletic v Raith Rovers
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3904 V 7119
 8PSK 2/3 DVB-S2
