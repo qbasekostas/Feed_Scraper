@@ -1,0 +1,43 @@
+Spanish La Liga - Matchday 9
+Barcelona vs. Girona
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR RUSIA 2
+CW: 83 A3 80 A6 62 3A 8F 2B
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 9
+Barcelona vs. Girona
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: 13 CE 94 75 BC 71 3B 68
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 9
+Sevilla vs. Mallorca
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: AE 6C EA 04 EA 73 27 84
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 9
+Barcelona vs. Girona
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 88 D6 27 85 DA 66 EC 2C
