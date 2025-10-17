@@ -1,0 +1,8 @@
+Asiasat 5 @ 100.5°E
+3840 H 30000
+ID: OVERON 1 (Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,95Mb/Sec |8PSK| 4:2:2 HD
+Event: Spain - LALIGA EA SPORTS Matchday 9
+Real Oviedo vs RCD Espanyol 
+CW: FB BB BA 70 BB C5 D7 57
