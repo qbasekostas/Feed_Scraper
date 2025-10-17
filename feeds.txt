@@ -1,3 +1,52 @@
+16E
+11062 H 9873
+4.2.0
+ID: FFBL Essen
+Frauen-Bundesliga
+Event: 
+Essen vs Hoffenheim
+CW: 17 10 ED 14 DE 89 77 DE
+---FEED-SEPARATOR---
+16.0E
+11062 H 9873
+ID: FFBL Essen
+CW plz ?
+---FEED-SEPARATOR---
+Germany
+Bundesliga - Round 7
+18.10.2025 20:00 tomorrow
+Bayern Munich
+Dortmund
+Eutelsat 16A (16.0°E)
+10978 H 3599
+DVB-S2 4:2:0 HD
+ID: Fal7 Enc2
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+28.2e
+12631 v 7200
+4:2:0
+Id:d-473
+liga 3
+Aue-Mannheim
+CW: 17 10 AC D3 DC 00 01 DD
+---FEED-SEPARATOR---
+Italian Serie BKT - Week 8
+Virtus Entella vs. Sampdoria
+Eutelsat 10B @ 10.0°E
+11248 - H - 9600 
+|
+4:2:2
+ | H.264
+ID: ITA396 main
+11260 - H - 9600 
+|
+4:2:2
+ | H.264
+ID: ITA396 Cam1
+1920*1080 | DVB-S2 | 8PSK
+CW: BC 08 20 E4 25 17 10 4C
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 10
 Andorra vs. Granada
 Eutelsat 10B @ 10.0°E
