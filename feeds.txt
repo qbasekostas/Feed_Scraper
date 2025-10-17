@@ -33,6 +33,17 @@ CW: 17 10 AC D3 DC 00 01 DD
 ---FEED-SEPARATOR---
 Italian Serie BKT - Week 8
 Virtus Entella vs. Sampdoria
+Eutelsat 7B/7C @ 7.0°E
+11163 - V - 5000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: ITA 671
+CW: BC 08 20 E4 25 17 10 4C
+---FEED-SEPARATOR---
+Italian Serie BKT - Week 8
+Virtus Entella vs. Sampdoria
 Eutelsat 10B @ 10.0°E
 11248 - H - 9600 
 |
