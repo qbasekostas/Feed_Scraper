@@ -185,6 +185,17 @@ Tp:3919 V 7500
 HD 4.2.2
 CW: CB 67 FC 2E EA 23 AA B7
 ---FEED-SEPARATOR---
+Argentinean Primera División - 2nd Phase, Week 13
+Boca Juniors vs. Belgrano
+Eutelsat 7B/7C @ 7.0°E
+11460 - V - 7500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: AFD
+CW: A3 41 6C 50 14 D2 54 3A
+---FEED-SEPARATOR---
 Serie A - Round 7
 AS Roma  - Inter
 Eutelsat 10.0E C-Band @ 10.0E
