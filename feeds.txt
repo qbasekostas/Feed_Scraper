@@ -1,3 +1,19 @@
+German 1. Bundesliga - Week 7
+Bayern Munich vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+11499 - V - 6666 
+|
+4:2:0
+ | H.264
+ID: Unname
+1920*1080 | DVB-S2 | 8PSK
+11507 - V - 6666 
+|
+4:2:0
+ | H.264
+ID: D-437
+CW: B4 A2 ED 43 25 18 10 4D
+---FEED-SEPARATOR---
 Bundesliga 2025/26 (Wk7)
 Bayern Münich v Borussia Dortmund
 16.0ºE
@@ -55,6 +71,13 @@ id: d-361
 3. liga
 aachen-ingolstadt
 CW: 18 10 AC D4 DC 00 02 DE
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+Bundesliga - FC Bayern München vs Borussia Dortmund
+TP : 3860 V 30000
+PMT PID: 2048, SID: 12 @ GVA_Fi06 (EUROVISION SA)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 88AC2F63CBA240AD
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 10974  Vertical  9874,854
@@ -221,6 +244,19 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 88 D6 27 85 DA 66 EC 2C
+---FEED-SEPARATOR---
+English Championship - Week 10
+Charlton Athletic vs. Sheffield Wednesday 
+Eutelsat 7B/7C @ 7.0°E
+12727 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch EFL - Charlton v Sheffield
+orangebirds said:
+CW: 77 74 F4 DF 31 9C 02 CF
+Click to expand...
 ---FEED-SEPARATOR---
 EFL Championship - Charlton Athletic vs Sheffield Wednesday
 100.5°E
