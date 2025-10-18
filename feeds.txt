@@ -41,7 +41,7 @@ ID: Service 1
 CW: F7 4A FC 40 70 7B C0 AB
 ---FEED-SEPARATOR---
 German 1. Bundesliga - Week 7
-Bayern Munich vs. Borussia Dortmund
+about: Bayern Munich vs. Borussia Dortmund
 Eutelsat 8 West/B @ 8.0°W
 12672 - V - 7200 
 |
