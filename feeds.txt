@@ -1,3 +1,51 @@
+Asiasat 5 100.5
+3840 H 30000
+ID: OVERON 3
+MPEG4 | DVB-S2
+1920x1080i 8PSK 4:22
+01 AB 27 A9 BC 5F 3C 51  #CW:
+71 6C 90 6D 46 40 53 D9
+---FEED-SEPARATOR---
+Dani Sat said:
+Spanish La Liga - Matchday 9
+Sevilla vs. Mallorca
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: AE 6C EA 04 EA 73 27 84
+Click to expand...
+Asiasat 5 100.5
+3840 H 30000
+ID: OVERON 2
+MPEG4 | DVB-S2
+1920x1080i 8PSK 4:22
+Sevilla FC vs RCD Mallorca 
+CW: AE 6C EA 04 EA 73 27 84
+---FEED-SEPARATOR---
+Dani Sat said:
+Spanish La Liga - Matchday 9
+Barcelona vs. Girona
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 88 D6 27 85 DA 66 EC 2C
+Click to expand...
+Asiasat 5 100.5
+3840 H 30000
+ID: OVERON 1
+MPEG4 | DVB-S2
+1920x1080i 8PSK 4:22
+FC Barcelona vs Girona FC 
+CW: 88 D6 27 85 DA 66 EC 2C
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 9
 Barcelona vs. Girona
 Eutelsat 10B @ 10.0°E
