@@ -1,3 +1,10 @@
+Talleres Córdoba vs. River Plate
+7E
+11459 - Pol: V - SR: 7500
+1080i DVB-S2 8PSK
+ID: AFD
+CW: A3 41 6C 50 14 D2 54 3A
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 9
 Getafe vs. Real Madrid
 Eutelsat 10B @ 10.0°E
@@ -30,6 +37,60 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 93 AA 8F CC F7 1C D7 EA
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+PMT PID: 3880, SID: 46 @ OVERON 4 (Servicios Audiovisuales Overon, S L)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+EE 1A 6D 9A 64 B5 40 47  #CW:A3 ED 90 20 C0 91 AA FB   #[E] PID:0F29h
+Getafe vs. Real Madrid
+---FEED-SEPARATOR---
+Asiasat 5 100.5
+3840 H 30000
+ID: OVERON 3
+MPEG4 | DVB-S2
+1920x1080i 8PSK 4:22
+ED 12 CD 77 BD 89 EB 7B  #CW:90 74 33 37 54 4D 67 08   #[E] PID:0F1Fh
+---FEED-SEPARATOR---
+Dani Sat said:
+Spanish La Liga - Matchday 9
+Celta Vigo vs. Real Sociedad
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 93 AA 8F CC F7 1C D7 EA
+Click to expand...
+Asiasat 5 100.5
+3840 H 30000
+ID: OVERON 1
+MPEG4 | DVB-S2
+1920x1080i 8PSK 4:22
+RC Celta vs Real Sociedad 
+CW: 93 AA 8F CC F7 1C D7 EA
+---FEED-SEPARATOR---
+Dani Sat said:
+Spanish La Liga - Matchday 9
+Elche vs. Athletic Bilbao
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 5F A1 3C 3C FB FF A9 A3
+Click to expand...
+Asiasat 5 100.5
+3840 H 30000
+ID: OVERON 2
+MPEG4 | DVB-S2
+1920x1080i 8PSK 4:22
+Elche vs. Athletic Bilbao
+CW: 5F A1 3C 3C FB FF A9 A3
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 9
 Getafe vs. Real Madrid
