@@ -222,6 +222,14 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 88 D6 27 85 DA 66 EC 2C
 ---FEED-SEPARATOR---
+EFL Championship - Charlton Athletic vs Sheffield Wednesday
+100.5°E
+3914 V 7120
+ID : BT_SES_24_SDI
+DVB-S2 8PSK 4:2:0 1080i
+SID : 1
+CW: 77 74 F4 DF 31 9C 02 CF
+---FEED-SEPARATOR---
 HBO said:
 			AsiaSat 5 - 100.5 E - CBand
 TP : 3905 V 7120
