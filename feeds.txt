@@ -1,3 +1,29 @@
+Bundesliga 2025/26 (Wk7)
+Bayern Münich v Borussia Dortmund
+16.0ºE
+10981 H 3600
+4.2.0 HD
+ID: F6-2 4.5MH
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+28.2e
+12702 v 7200
+id: d-167
+4:2:0
+3. liga
+vfl osnabruck- hoffenheim II
+CW: 18 10 AC D4 DC 00 05 E1
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+11140  Horizontal  9874,854
+ID: FBL Hamburg (Adtec Digital)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+75 87 F2 42 7C F9 0E FA  #CW:18 10 AF D7 EB 02 45 32
+Germany Amateur, Bundesliga, Women
+FC Nuremberg
+vs.
+SC Freiburg
+---FEED-SEPARATOR---
 28.2e
 12590 v 7200
 id: d-473
@@ -92,6 +118,17 @@ Eutelsat 10B @ 10.0E
 ID: ITA727ENC 1 (CINEVIDEO)
 1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
 CW: BC 08 20 E4 25 18 10 4D
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:   LIGA HYPERMOTION 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:0 HD
+ESPAÑA: 
+LaLiga Hypermotion
+AD Ceuta
+ VS 
+Mirandés
+C2 7D 71 21 38 9E 28 48  #CW:CF 0A BE 97 F2 E7 A4 7D
 ---FEED-SEPARATOR---
 Asiasat 5 100.5
 3840 H 30000
