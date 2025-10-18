@@ -1,4 +1,15 @@
 German 1. Bundesliga - Week 7
+about: Bayern Munich vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+10982 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Service 1
+CW: F7 4A FC 40 70 7B C0 AB
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 7
 Bayern Munich vs. Borussia Dortmund
 Eutelsat 8 West/B @ 8.0°W
 12672 - V - 7200 
@@ -334,6 +345,15 @@ ID: MRC-004-main
 FIFA U-17 Women’s World Cup Morocco 2025
 Italy v Costa Rica
 CW: D2 D8 54 FE 9A A0 36 70
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11609 H 7500
+ID: TUR139-Main 
+Turkiye, TBSL
+Bursaspor Durmazlar
+vs.
+Manisa BB
+CW: 69 28 46 D7 CC 85 24 75
 ---FEED-SEPARATOR---
 faisal6 said:
 CW: D0 D3 95 38 38 3D 8E 03
