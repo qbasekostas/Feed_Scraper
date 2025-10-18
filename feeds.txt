@@ -207,6 +207,17 @@ ID: ITA727ENC 1 (CINEVIDEO)
 1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
 CW: BC 08 20 E4 25 18 10 4D
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 9
+Atlético Madrid vs. Osasuna
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 26 08 AA D8 E0 5F 68 A7
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 2 
@@ -335,6 +346,22 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 88 D6 27 85 DA 66 EC 2C
+---FEED-SEPARATOR---
+28.2E
+12591 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish League 1 - Week 10
+Peterhead v Queen of the South
+---FEED-SEPARATOR---
+ Scottish Professional Football League
+Kilmarnock vs Heart of Midlothian
+7.0E
+12563 H 7200
+4.2.0 HD
+ID: GCUK Enc 9
+CW: BC E4 51 F1 2C EB AA C1
 ---FEED-SEPARATOR---
 English Championship - Week 10
 Charlton Athletic vs. Sheffield Wednesday 
