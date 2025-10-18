@@ -121,6 +121,12 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 88 D6 27 85 DA 66 EC 2C
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3905 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_18_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 41 3D 99 17 87 18 74 13
+---FEED-SEPARATOR---
 faisal6 said:
 CW: D0 D3 95 38 38 3D 8E 03
 Click to expand...
