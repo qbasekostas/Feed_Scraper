@@ -1,4 +1,35 @@
 German 1. Bundesliga - Week 7
+Bayern Munich vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+10997 -V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D565 MCHN 2G12 M
+CW: 7F D9 E7 3F E7 FD B9 9D
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 7
+about: Bayern Munich vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+11081 - H - 9875 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Fi11_GNVE
+CW: E1 47 0D 35 FD 7C 74 ED
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 7
+Bayern Munich vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+10964 - V - 14400 
+| 4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi05
+CW: DA 55 A7 D6 01 37 B2 EA
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 7
 about: Bayern Munich vs. Borussia Dortmund
 Eutelsat 7B/7C @ 7.0°E
 10982 - H - 14400 
@@ -175,6 +206,21 @@ Eutelsat 10B @ 10.0E
 ID: ITA727ENC 1 (CINEVIDEO)
 1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
 CW: BC 08 20 E4 25 18 10 4D
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,98Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 9
+Teams: Villarreal CF vs Real Betis
+Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 18.30 CET
+Dani Sat said:
+CW: D2 DF B2 63 70 79 21 0A
+Click to expand...
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 9
 Villarreal vs. Real Betis
