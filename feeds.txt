@@ -168,6 +168,31 @@ SC Paderborn 07
 Arminia Bielefeld 
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Sub 20 CHILE 2025
+Colombia vs Francia 
+47,5W C
+ID: U20 Santiago Main 
+TP:3898 V 7200
+HD 4.2.0
+CW: 0A 5B 06 6B CC DF D7 82( Old Biss Key)
+---FEED-SEPARATOR---
+Final Copa Libertadores Femenina 
+47,5W C
+ID: Lib Fem Final España
+Tp:3928 V 7500
+ID: Lib Fem Final Port
+Tp:3919 V 7500 
+HD 4.2.2
+CW: CB 67 FC 2E EA 23 AA B7
+---FEED-SEPARATOR---
+Serie A - Round 7
+AS Roma  - Inter
+Eutelsat 10.0E C-Band @ 10.0E
+3897 V 3750
+ID:Serie A (IKOMG)
+1920x1080 |8.170Mb/Sec 8PSK |4:2:0 HD
+CW: 02 01 C1 C4 D0 75 BA FF
+---FEED-SEPARATOR---
 CALCIO ITALIANO SERIE B MD08
 PESCARA vs CARRARESE
 EUT7E DVBS2 8PSK 4:2:2 HD H264
