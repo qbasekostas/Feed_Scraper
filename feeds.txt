@@ -207,6 +207,21 @@ ID: ITA727ENC 1 (CINEVIDEO)
 1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
 CW: BC 08 20 E4 25 18 10 4D
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,97Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 9
+Teams: Atlético de Madrid vs CA Osasuna
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Dani Sat said:
+CW: 26 08 AA D8 E0 5F 68 A7
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 9
 Atlético Madrid vs. Osasuna
 Eutelsat 10B @ 10.0°E
