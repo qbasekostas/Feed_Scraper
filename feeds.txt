@@ -1,0 +1,43 @@
+Spanish La Liga - Matchday 9
+Getafe vs. Real Madrid
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR MENA 1
+CW: 2E FA 2B 53 F6 61 EF 46
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 9
+Elche vs. Athletic Bilbao
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 5F A1 3C 3C FB FF A9 A3
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 9
+Celta Vigo vs. Real Sociedad
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 93 AA 8F CC F7 1C D7 EA
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 9
+Getafe vs. Real Madrid
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: 40 43 A1 24 F1 27 74 8C
