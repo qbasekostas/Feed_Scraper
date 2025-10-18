@@ -61,6 +61,38 @@ SC Paderborn 07
 Arminia Bielefeld 
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 10B @ 10.0E
+11248  Horizontal  9599,854
+ID: ITA727ENC 1 (CINEVIDEO)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
+CW: BC 08 20 E4 25 18 10 4D
+Click to expand...
+Italia
+Serie B - Jornada 8
+Pescara
+ VS 
+Carrarese
+---FEED-SEPARATOR---
+faisal6 said:
+CW: BC 08 20 E4 25 18 10 4D
+Click to expand...
+Eutelsat 10B @ 10.0E
+11260  Horizontal  9599,854
+ID:ITA727ENC2 (CINEVIDEO)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
+Italia
+Serie B - Jornada 8
+Pescara
+ VS 
+Carrarese
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+11248  Horizontal  9599,854
+ID: ITA727ENC 1 (CINEVIDEO)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
+CW: BC 08 20 E4 25 18 10 4D
+---FEED-SEPARATOR---
 Asiasat 5 100.5
 3840 H 30000
 ID: OVERON 3
