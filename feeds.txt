@@ -5,8 +5,13 @@ Eutelsat 8 West/B @ 8.0°W
 |
 4:2:2
  | H.264
-1920*1080 | DVB-S2 | 8PSK
 ID: F512 BAYERN COM
+1920*1080 | DVB-S2 | 8PSK
+12681 - V - 7200 
+|
+4:2:2
+ | H.264
+ID: F512 BAYERN ITW
 CW: 18 10 AC D4 BD 79 85 BB
 ---FEED-SEPARATOR---
 German 1. Bundesliga - Week 7
@@ -159,6 +164,17 @@ Eutelsat 10B @ 10.0E
 ID: ITA727ENC 1 (CINEVIDEO)
 1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
 CW: BC 08 20 E4 25 18 10 4D
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 9
+Villarreal vs. Real Betis
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: D2 DF B2 63 70 79 21 0A
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10768  Vertical  34010,27
