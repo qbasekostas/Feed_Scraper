@@ -110,6 +110,13 @@ SC Paderborn 07
 Arminia Bielefeld 
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+CALCIO ITALIANO SERIE B MD08
+PESCARA vs CARRARESE
+EUT7E DVBS2 8PSK 4:2:2 HD H264
+11163 V 7500 
+ID ITA 81 A
+BC 08 20 E4 25 18 10 4D
+---FEED-SEPARATOR---
 faisal6 said:
 Eutelsat 10B @ 10.0E
 11248  Horizontal  9599,854
@@ -318,3 +325,14 @@ Esenler Erokspor
  vs. 
 Besiktas JK
 CW: D0 D3 95 38 38 3D 8E 03
+---FEED-SEPARATOR---
+Greek Super League 1 - Week 7
+AEL Larissa vs. Olympiacos
+Eutelsat 7B/7C @ 7.0°E
+12634 - V - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: THESALIA M
+CW: 8D 70 81 7E DD 3D 80 9A
