@@ -1,3 +1,11 @@
+28.2e
+12632 v 7200
+id: d556
+4:2:0
+3. liga
+ulm - cottbus
+CW: 19 10 AC D5 DC 00 01 DD
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11128  Horizontal  9874,854
 ID:   FFBL Berlin (Adtec Digital)
@@ -121,6 +129,17 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: SUPPONOR AFRICA 1
 CW: 40 43 A1 24 F1 27 74 8C
+---FEED-SEPARATOR---
+Scottish Premiership - Week 8
+Dundee vs. Celtic
+Eutelsat 7B/7C @ 7.0°E
+11597  - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 9
+CW: C2 14 DC B2 DC BA 55 EB
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 10960  Horizontal  7201,79
