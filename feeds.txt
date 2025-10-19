@@ -113,12 +113,28 @@ CW: 19 10 BB E4 CC 16 33 15
 ---FEED-SEPARATOR---
  .
 ---FEED-SEPARATOR---
+Argentinean Primera División
+Estudiantes vs Gimnasia
+7.0E
+11588 V 7500
+4.2.0 HD
+ID: AFD
+CW: A3 41 6C 50 14 D2 54 3A
+---FEED-SEPARATOR---
 Talleres Córdoba vs. River Plate
 7E
 11459 - Pol: V - SR: 7500
 1080i DVB-S2 8PSK
 ID: AFD
 CW: A3 41 6C 50 14 D2 54 3A
+---FEED-SEPARATOR---
+Serie A - Round 7
+AC Milan - Fiorentina
+Eutelsat 10.0E C-Band @ 10.0E
+3895 V 3750
+ID:Serie A (IKOMG)
+1920x1080 |8.170Mb/Sec 8PSK |4:2:0 HD
+CW: 02 01 C1 C4 D0 75 BA FF
 ---FEED-SEPARATOR---
 Italian W/Serie A - Week 3
 Lazio vs. Juventus
@@ -312,6 +328,14 @@ ID: Womens FAI Final
 #FTA
 FAI Cup Women
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12735 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: ENC 3
+post match interviews Liverpool - Man U
+CW: 42 5E DD 7D C1 CD 24 B2
+---FEED-SEPARATOR---
 Scottish Premiership - Week 8
 Dundee vs. Celtic
 Eutelsat 7B/7C @ 7.0°E
@@ -467,6 +491,14 @@ Trabzonspor
 Click to expand...
 7e
 11525 H 7500
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 7
+AEK vs PAOK
+7e
+11598 V 7200
+ID: AEK VS PAOK
+4:2:0
+CW: D4 D4 03 AB 3B 67 F1 93
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 7
 Aris vs Panathinaikos
