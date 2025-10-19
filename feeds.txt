@@ -25,6 +25,17 @@ SV Darmstadt 98
 1. FC Magdeburg
 ​
 ---FEED-SEPARATOR---
+fil1 said:
+			28.2e
+12632 v 7200
+id: d556
+4:2:0
+3. liga
+ulm - cottbus
+CW: 19 10 AC D5 DC 00 01 DD
+Click to expand...
+new cw pls
+---FEED-SEPARATOR---
 Germany, Bundesliga
 FC St. Pauli vs. TSG Hoffenheim
 Eutelsat 7B-7C   @ 07.0E
@@ -430,3 +441,10 @@ Trabzonspor
 Click to expand...
 7e
 11525 H 7500
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 7
+Aris vs Panathinaikos
+7e
+11126 H 7200
+ID: TANDBERG
+CW: F6 6C 33 95 3F DC 34 4F
