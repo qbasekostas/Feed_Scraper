@@ -25,6 +25,15 @@ SV Darmstadt 98
 1. FC Magdeburg
 ​
 ---FEED-SEPARATOR---
+xFayez95 said:
+			SC Freiburg vs Eintracht Frankfurt
+Eutelsat 7.0E
+10997 H 9875
+ID: GVA_Fi03
+CW: 37 C7 56 54 5C AE 7F 89
+Click to expand...
+not working
+---FEED-SEPARATOR---
 SC Freiburg vs Eintracht Frankfurt
 Eutelsat 7.0E
 10997 H 9875
@@ -51,6 +60,17 @@ Talleres Córdoba vs. River Plate
 1080i DVB-S2 8PSK
 ID: AFD
 CW: A3 41 6C 50 14 D2 54 3A
+---FEED-SEPARATOR---
+Italian W/Serie A - Week 3
+Lazio vs. Juventus
+Eutelsat 7B/7C @ 7.0°E
+11165 - V - 7500 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: ITA 494 MAIN
+CW: A4 B0 C4 18 D2 E7 F1 AA
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 9
 Getafe vs. Real Madrid
