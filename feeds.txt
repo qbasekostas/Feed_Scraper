@@ -148,6 +148,20 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 93 AA 8F CC F7 1C D7 EA
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 6F E6 E8 3D 8A CA 21 75
+Levante vs Rayo Vallecano
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 H264 4:2:2
+PMT PID: 3860, SID: 44 @ OVERON 2 (Servicios Audiovisuales Overon, S L)
+CW: 6F E6 E8 3D 8A CA 21 75
+Levante vs Rayo Vallecano
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 10
 Racing Santander vs. Deportivo La Coruña
 Eutelsat 10B @ 10.0°E
@@ -246,6 +260,14 @@ Eutelsat 10B @ 10.0°E
 ID: SUPPONOR AFRICA 1
 CW: 40 43 A1 24 F1 27 74 8C
 ---FEED-SEPARATOR---
+28,2°E
+12522 H 7120
+DVB-S2 8PSK FEC 3/4
+HD (1920*1080)  4:2:0
+ID: Cloudbass
+FTA/CLEAR
+Celtic - Glasgow City (Women)
+---FEED-SEPARATOR---
 0.8°W
 11483 V 9600
 4:2:2
@@ -260,8 +282,9 @@ HD (1920*1080)  4:2:0
 ID: Cloudbass
 FTA/CLEAR
 Celtic - Glasgow City (Women)
+Delete plz.
 see : 
-https://www.sat-universe.com/index....3-1°e-7°e-10°e-100-5°e.265788/post-2037413574
+https://www.sat-universe.com/index.php?threads/uk-eng-scot-wales-ire-premier-lge-championship-sheild-fa-cup-friendlies-league-cup-3-1°e-7°e-10°e-100-5°e.265788/post-2037413574
 ---FEED-SEPARATOR---
 Scottish Premiership - Week 8
 Dundee vs. Celtic
