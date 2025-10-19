@@ -144,6 +144,17 @@ ID: GCUK Enc 9
 CW: C2 14 DC B2 DC BA 55 EB
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
+11089  Vertical  7201,801
+ID: M187-MRC007-Main (MCM)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+MUNDIAL: 
+Mundial Femenino Sub-17
+Corea del Sur Sub-17 F
+ VS 
+Costa de Marfil Sub-17 F
+BA 6E 2A FF DC 18 5E 22  #CW: D3 41 A6 BA C0 51 2D 3E 
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
 10960  Horizontal  7201,79
 ID:  Fi01_ACB (CM5000
 1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
