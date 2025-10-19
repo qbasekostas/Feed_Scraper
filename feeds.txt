@@ -166,6 +166,17 @@ Legia Warszawa
 Energa Czarni Slupsk
 ​
 ---FEED-SEPARATOR---
+7e
+11606 V 7200
+4:2:0
+ID: 
+Encoder 2
+Italy    Basketball    
+Lega A 
+Sassari  vs  Olimpia Milano
+B0 40 05 B6 57 8E 47 AB  #CW: 
+24 24 B8 00 4E D6 2E 52
+---FEED-SEPARATOR---
 xachik said:
 42e
 11589 V 7500
