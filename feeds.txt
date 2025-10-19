@@ -25,6 +25,8 @@ SV Darmstadt 98
 1. FC Magdeburg
 ​
 ---FEED-SEPARATOR---
+ .
+---FEED-SEPARATOR---
 Talleres Córdoba vs. River Plate
 7E
 11459 - Pol: V - SR: 7500
