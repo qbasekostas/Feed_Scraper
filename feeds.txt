@@ -221,6 +221,17 @@ Legia Warszawa
 Energa Czarni Slupsk
 ​
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11517  Horizontal  7501,823
+ID: DT SNG 1 MAIN (DT SNG 1 MAIN)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2HD
+Turquía
+Super Lig - Jornada 4
+Galatasaray
+ VS 
+Fenerbahçe
+48 F2 A5 14 F8 FE 3B C3  #CW:B2 C9 5C D7 F0 1F A6 B5
+---FEED-SEPARATOR---
 7e
 11606 V 7200
 4:2:0
