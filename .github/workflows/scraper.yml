@@ -2,7 +2,7 @@ name: Scrape Thread
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '*/18 * * * *'
   workflow_dispatch:
 
 jobs:
