@@ -113,3 +113,36 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: SUPPONOR AFRICA 1
 CW: 40 43 A1 24 F1 27 74 8C
+---FEED-SEPARATOR---
+42e
+11589 V 7500
+4:2:2
+ID: 
+TUR139-Main
+TURKEY: Super Lig
+Merkezefendi
+Trabzonspor
+61 A9 97 14 29 1E 72 FD  #CW: 
+45 2E 9C 0F 63 A8 78 83
+---FEED-SEPARATOR---
+42e
+11101 V 7500
+4:2:2
+ID: 
+beIN SNG 2 Backup
+TURKEY:  Super Lig
+Galatasaray
+Fenerbahce
+48 F2 A5 14 F8 FE 3B C3  #CW: 
+B2 C9 5C D7 F0 1F A6 B5  
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+12606  Vertical  9599,854
+ID: POL-080 MAIN (POLSAT)
+1920x1080 |19,016Mb/Sec |8PSK |4:2:2 HD
+CW: 15 58 35 A2 71 42 63 16
+Poland, PLK
+Legia Warszawa
+ vs. 
+Energa Czarni Slupsk
+​
