@@ -1,3 +1,14 @@
+Eutelsat 16A @ 16.0E
+10975  Horizontal  3601,101
+ID:Fal4 Enc1 (Net 1 )
+1920x1080 |8,927Mb/Sec |8PSK |4:2:0 HD
+CW: 20 25 AE F3 EA 52 02 3E
+Germany, 2nd Bundesliga
+SV Darmstadt 98
+ vs. 
+1. FC Magdeburg
+​
+---FEED-SEPARATOR---
 Talleres Córdoba vs. River Plate
 7E
 11459 - Pol: V - SR: 7500
