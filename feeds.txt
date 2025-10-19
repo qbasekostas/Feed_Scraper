@@ -275,17 +275,6 @@ ID: Womens FAI Final
 #FTA
 FAI Cup Women
 ---FEED-SEPARATOR---
-28,2°E
-12522 H 7120
-DVB-S2 8PSK FEC 3/4
-HD (1920*1080)  4:2:0
-ID: Cloudbass
-FTA/CLEAR
-Celtic - Glasgow City (Women)
-Delete plz.
-see : 
-https://www.sat-universe.com/index.php?threads/uk-eng-scot-wales-ire-premier-lge-championship-sheild-fa-cup-friendlies-league-cup-3-1°e-7°e-10°e-100-5°e.265788/post-2037413574
----FEED-SEPARATOR---
 Scottish Premiership - Week 8
 Dundee vs. Celtic
 Eutelsat 7B/7C @ 7.0°E
@@ -296,6 +285,14 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: GCUK Enc 9
 CW: C2 14 DC B2 DC BA 55 EB
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3905 V 7120
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_24_SDI
+Championship HIGHLIGHTS EFL
+CW: :53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11106- V - 7200
@@ -363,6 +360,21 @@ Legia Warszawa
  vs. 
 Energa Czarni Slupsk
 ​
+---FEED-SEPARATOR---
+7e
+11467 V 4938
+4:2:0
+ID: Medialink CRO-024/1
+ABA League: Cedevita Olimpija vs Zadar
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11525 H 7500
+ID: TUR156 Main
+4:2:2
+Super League
+Mersin vs Tofas
+CW: 48 23 9A 05 69 82 F0 DB
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11517  Horizontal  7501,823
