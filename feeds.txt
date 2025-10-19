@@ -25,6 +25,24 @@ SV Darmstadt 98
 1. FC Magdeburg
 ​
 ---FEED-SEPARATOR---
+SC Freiburg vs Eintracht Frankfurt
+Eutelsat 7.0E
+10997 H 9875
+ID: GVA_Fi03
+CW: 37 C7 56 54 5C AE 7F 89
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+11140  Horizontal  9874,854
+ID:FBL Frankfurt (Adtec Digital)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+Germany Amateur, Bundesliga, Women
+Eintracht Frankfurt
+ vs. 
+Werder Bremen
+CW: 19 10 BB E4 CC 16 33 15
+​
+​
+---FEED-SEPARATOR---
  .
 ---FEED-SEPARATOR---
 Talleres Córdoba vs. River Plate
@@ -142,6 +160,11 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: GCUK Enc 9
 CW: C2 14 DC B2 DC BA 55 EB
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11097 V 7200
+ID: MRCOO5 MAIN
+CW: D3 41 A6 BA C0 51 2D 3E
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11089  Vertical  7201,801
