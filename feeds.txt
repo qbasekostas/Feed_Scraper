@@ -25,6 +25,11 @@ SV Darmstadt 98
 1. FC Magdeburg
 ​
 ---FEED-SEPARATOR---
+Gevs999 said:
+			new cw pls
+Click to expand...
+19 10 AC D5 DC 00 03 DF
+---FEED-SEPARATOR---
 fil1 said:
 			28.2e
 12632 v 7200
