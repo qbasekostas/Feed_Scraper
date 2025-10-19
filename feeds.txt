@@ -25,6 +25,25 @@ SV Darmstadt 98
 1. FC Magdeburg
 ​
 ---FEED-SEPARATOR---
+xFayez95 said:
+			SC Freiburg vs Eintracht Frankfurt
+Eutelsat 7.0E
+10997 H 9875
+ID: GVA_Fi03
+CW: 37 C7 56 54 5C AE 7F 89
+Click to expand...
+Vertical .-)
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 20 25 AE F3 EA 52 02 3E
+Germany, 2nd Bundesliga
+SV Darmstadt 98vs. 
+ FC Magdeburg
+​
+Click to expand...
+Eutelsat 16A @ 16.0E
+10981  Horizontal  3600,917
+---FEED-SEPARATOR---
 10997 V 9875
 Gevs999 said:
 			not working
@@ -41,7 +60,7 @@ not working
 ---FEED-SEPARATOR---
 SC Freiburg vs Eintracht Frankfurt
 Eutelsat 7.0E
-10997 H 9875
+10997 H 9875, reported as Pol: Vertical
 ID: GVA_Fi03
 CW: 37 C7 56 54 5C AE 7F 89
 ---FEED-SEPARATOR---
@@ -256,6 +275,23 @@ Galatasaray
  VS 
 Fenerbahçe
 48 F2 A5 14 F8 FE 3B C3  #CW:B2 C9 5C D7 F0 1F A6 B5
+---FEED-SEPARATOR---
+xachik said:
+42e
+11101 V 7500
+4:2:2
+ID: 
+beIN SNG 2 Backup
+TURKEY:  Super Lig
+View attachment 90919
+Galatasaray
+Fenerbahce
+48 F2 A5 14 F8 FE 3B C3  #CW: 
+B2 C9 5C D7 F0 1F A6 B5  
+Click to expand...
+Eutelsat 7B-7C @ 07.0E
+11516 H 7500
+ID: DT SNG 1 MAIN
 ---FEED-SEPARATOR---
 7e
 11606 V 7200
