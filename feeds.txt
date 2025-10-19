@@ -1,4 +1,12 @@
 Eutelsat 16A @ 16.0E
+11128  Horizontal  9874,854
+ID:   FFBL Berlin (Adtec Digital)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+Germany Amateur, Bundesliga, Women
+FC Union Berlin vs. RB Leipzig 
+C3 66 1F 50 98 95 CB A0  #CW:19 10 BB E4 CC 16 33 15   
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
 10975  Horizontal  3601,101
 ID:Fal4 Enc1 (Net 1 )
 1920x1080 |8,927Mb/Sec |8PSK |4:2:0 HD
@@ -114,6 +122,17 @@ Eutelsat 10B @ 10.0°E
 ID: SUPPONOR AFRICA 1
 CW: 40 43 A1 24 F1 27 74 8C
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+10960  Horizontal  7201,79
+ID:  Fi01_ACB (CM5000
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Spain, Liga ACB
+Club Joventut Badalona
+ vs. 
+Bilbao Basket
+​
+A4 75 F0 C3 D1 D2 80 EA  #CW:FC 95 85 16 59 7F 8C 64 
+---FEED-SEPARATOR---
 42e
 11589 V 7500
 4:2:2
@@ -146,3 +165,19 @@ Legia Warszawa
  vs. 
 Energa Czarni Slupsk
 ​
+---FEED-SEPARATOR---
+xachik said:
+42e
+11589 V 7500
+4:2:2
+ID: 
+TUR139-Main
+TURKEY: Super Lig
+View attachment 90921
+Merkezefendi
+Trabzonspor
+61 A9 97 14 29 1E 72 FD  #CW: 
+45 2E 9C 0F 63 A8 78 83
+Click to expand...
+7e
+11525 H 7500
