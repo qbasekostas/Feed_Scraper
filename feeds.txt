@@ -25,6 +25,15 @@ SV Darmstadt 98
 1. FC Magdeburg
 ​
 ---FEED-SEPARATOR---
+Germany, Bundesliga
+FC St. Pauli vs. TSG Hoffenheim
+Eutelsat 7B-7C   @ 07.0E
+10986  Vertical  9874,854
+ID:  GVA_Fi04 (EUROVISION SA)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+2F 02 1B 9B E9 1E 4E 4D  
+CW: C3 BA 9A 17 56 81 C6 9D
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12702  Vertical  7201,801
 ID: 3BL TSV 1860 (*unnamed-3*)
@@ -139,6 +148,39 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 93 AA 8F CC F7 1C D7 EA
 ---FEED-SEPARATOR---
+Spanish La Liga 2 - Matchday 10
+Racing Santander vs. Deportivo La Coruña
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:0 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 27 04 83 AE 74 AC 0C 2C
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 9
+Getafe vs. Real Madrid
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR RUSIA 1
+CW: 07 AE 0C C1 1B 8C B6 5D
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 9
+Getafe vs. Real Madrid
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR EASTERN 1
+CW: EA 0F 56 4F 2C 54 64 E4
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
 PMT PID: 3880, SID: 46 @ OVERON 4 (Servicios Audiovisuales Overon, S L)
@@ -211,6 +253,16 @@ ID: Womens FAI Final
 #FTA
 FAI Cup Women
 ---FEED-SEPARATOR---
+28,2°E
+12522 H 7120
+DVB-S2 8PSK FEC 3/4
+HD (1920*1080)  4:2:0
+ID: Cloudbass
+FTA/CLEAR
+Celtic - Glasgow City (Women)
+see : 
+https://www.sat-universe.com/index....3-1°e-7°e-10°e-100-5°e.265788/post-2037413574
+---FEED-SEPARATOR---
 Scottish Premiership - Week 8
 Dundee vs. Celtic
 Eutelsat 7B/7C @ 7.0°E
@@ -221,6 +273,13 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: GCUK Enc 9
 CW: C2 14 DC B2 DC BA 55 EB
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11106- V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: MRC-004-main
+FIFA U-17 Women’s World Cup Morocco 2025
+CW: D3 41 A6 BA C0 51 2D 3E
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11097 V 7200
