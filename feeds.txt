@@ -1,3 +1,17 @@
+Spanish La Liga 2
+Cadiz vs Burgos CF 
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:0 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: D6 C2 39 D1 88 5F 79 60
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 8C 30 7A 36 0C 7E B8 42
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 PMT PID: 3850, SID: 43 @ OVERON 1 (Servicios Audiovisuales Overon, S L)
 3840 H 29998
