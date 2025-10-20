@@ -32,6 +32,17 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 8C 30 7A 36 0C 7E B8 42
 ---FEED-SEPARATOR---
+UEFA Champions League - Matchday 3
+Arsenal vs. Atlético Madrid
+Eutelsat 7B/7C @ 7.0°E
+11127 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UKI-1955-1
+CW: A3 41 6C 50 14 D2 54 3A
+---FEED-SEPARATOR---
 Hellas Sat 3/4 (39.0 E)
 12715 Horizontal 7198,427 3/4
 DVB-S2/8PSK (4:2:0)
