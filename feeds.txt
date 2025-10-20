@@ -31,3 +31,16 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 8C 30 7A 36 0C 7E B8 42
+---FEED-SEPARATOR---
+42e
+11092 V 7500
+4:2:2
+ID: 
+TUR112 BACKUP
+Turkey  SuperLig
+Karsiyaka
+Anadolu Efes
+CW: F1 5D 2F 7D 9B D4 19 88
+thanks  
+@HBO
+ for key
