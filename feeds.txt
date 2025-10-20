@@ -60,6 +60,14 @@ DVB-S2/8PSK (4:2:0)
 polo
 Hellenic Basketball Federation - Proteas Voulas vs Panerythraikos
 ---FEED-SEPARATOR---
+Turksat 3A/4A (42.0 E)
+12577 Horizontal 2499,465 8/9
+DVB-S2/8PSK (4:2:0)
+TUR139-Main
+Türkiye Basketbol Ligi
+Parmos Otel Bordo Basketbol vs Çayırova Belediyespor
+CW: 19 23 18 54 81 45 45 0B
+---FEED-SEPARATOR---
 7.0E
 12632 V 4938
 4:2:0
