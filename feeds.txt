@@ -1,3 +1,14 @@
+Italian Serie C Girone B - Girone B - 10
+AC Carpi vs. Ascoli 
+Eutelsat 7B/7C @ 7.0°E
+11132 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: ITA360_2
+CW: FA 86 1C 9C 7C 9D 03 1C
+---FEED-SEPARATOR---
 Spanish La Liga 2
 Cadiz vs Burgos CF 
 Eutelsat 10B @ 10.0°E
