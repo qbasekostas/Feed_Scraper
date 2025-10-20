@@ -32,6 +32,26 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 8C 30 7A 36 0C 7E B8 42
 ---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0 E)
+12715 Horizontal 7198,427 3/4
+DVB-S2/8PSK (4:2:0)
+polo
+Hellenic Basketball Federation - Proteas Voulas vs Panerythraikos
+---FEED-SEPARATOR---
+7.0E
+12632 V 4938
+4:2:0
+ID: YSM-016-1
+ABA League: Crvena zvezda Meridianbet vs Ilirija
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+From Kuwait
+Eutelsat 21B (21.6°E)
+11578 H 4998
+DVB-S2 - 4:2:0 - HD
+ID: KUW-003B
+CW: 20 25 20 65 25 20 25 6A
+---FEED-SEPARATOR---
 Turkish Basketball Super League, Round 4
 Karşıyaka vs Anadolu Efes
 Eutelsat 7B/7C @ 7.0E
