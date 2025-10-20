@@ -60,6 +60,22 @@ DVB-S2/8PSK (4:2:0)
 polo
 Hellenic Basketball Federation - Proteas Voulas vs Panerythraikos
 ---FEED-SEPARATOR---
+ABA Liga, Group A, Round 3
+KK Partizan Mozzart Bet vs FMP Beograd
+Eutelsat 16A @ 16.0E
+10995 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: YSM-021M
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+ItalyLega A Basket, Round 3  
+Bologna VS  Vanoli 
+7E
+12677 - Horizontal  - 7200 4.2.2
+Encoder 3 - Infornt Italy
+CW : 54 B3 A4 AB F9 EF D4 BC
+---FEED-SEPARATOR---
 Turksat 3A/4A (42.0 E)
 12577 Horizontal 2499,465 8/9
 DVB-S2/8PSK (4:2:0)
