@@ -32,6 +32,17 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 8C 30 7A 36 0C 7E B8 42
 ---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 4
+Karşıyaka vs Anadolu Efes
+Eutelsat 7B/7C @ 7.0E
+12685 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: TUR 112 MAIN
+xachik said:
+CW: F1 5D 2F 7D 9B D4 19 88
+Click to expand...
+---FEED-SEPARATOR---
 42e
 11092 V 7500
 4:2:2
