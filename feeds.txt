@@ -33,6 +33,14 @@ ID: MRCOO5 MAIN
 FIFA U-17 Women’s World Cup Morocco 2025
 CW: D4 AE 2B AD 71 20 B8 49
 ---FEED-SEPARATOR---
+16E
+12558 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: No name
+UEFA Champions League - Matchday 3
+Union St Gilloise v Inter Milan
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11554 - V - 4827
 MPEG 4 - 4:2:0 - DVB-S2
@@ -69,6 +77,32 @@ Basketball Champions League:
 Igokea vs Trieste
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11188 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: BB EuroCup Ulm
+Eurocup, Group B
+ Ulm Basketball vs Besiktas
+CW: BB EE 21 CA 10 20 25 55
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12601 V 7200
+4:2:0
+ID: YSM-016-1
+Basketball Champions League: 
+Spartak vs Gran Canaria
+CW: CF 43 DE F0 03 AB 27 D5
+---FEED-SEPARATOR---
+21.6E
+11579 H 5000
+4.2.0
+ID: KUW-00B
+WASL - Gulf League
+Kuwait SC
+-
+Al Arabi
+CW: 20 25 20 65 25 20 25 6A
+---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 12592 V 7200
 4:2:0
@@ -97,3 +131,11 @@ ID:  ARIS VS BAXI MANRESA
 Eurocup
 Aris BC Vs BAXI Manresa
 CW: EA 17 F1 F2 6B D2 3C 79
+---FEED-SEPARATOR---
+13E
+12583 V 7200
+4.2.0
+ID: VS7-2/BASKET BCL LE MANS
+Basketball Champions League
+Le Mans - Benfica
+CW: BA 08 CF 91 16 EA 16 16
