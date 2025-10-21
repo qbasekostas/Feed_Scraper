@@ -4,6 +4,14 @@ PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 21 79 35 CF 29 FA ED 10
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 
+7.0°E
+11597 V 7200
+ID: 
+M187-MRC007-Main
+FIFA U-17 Women’s World Cup Morocco 2025
+CW: D4 AE 2B AD 71 20 B8 49
+---FEED-SEPARATOR---
 A.ElSadek said:
 FIFA U-17 Women’s World Cup Morocco 2025​
 CW : D4 AE 2B AD 71 20 B8 49
@@ -44,6 +52,21 @@ Barcelona U19 vs Olympiacos U19
 ID: UYL MD3 (*unnamed-1*)
 CW: 12 34 AB F1 BA 43 21 1E
 ---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12592 V 7200
+4:2:0
+ID: TUR-M25-B
+Basketball Champions League: 
+Galatasaray vs Wurzburg
+CW: CF 85 DB 2F 94 EF 77 FA
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+12654 - Vertical  - 4938
+Name: YSM-013M
+CW : AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eurocup
+Neptūnas vs Hamburg Towers
 7.0E
 12727 V 7200
 4.2.0 HD
