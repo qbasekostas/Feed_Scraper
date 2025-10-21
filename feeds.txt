@@ -1,3 +1,18 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3910 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 21 79 35 CF 29 FA ED 10
+---FEED-SEPARATOR---
+A.ElSadek said:
+FIFA U-17 Women’s World Cup Morocco 2025​
+CW : D4 AE 2B AD 71 20 B8 49
+Click to expand...
+Eutelsat 7B @ 7.0°E
+Fréq:11580 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: MRC-004-main
+---FEED-SEPARATOR---
 FIFA U-17 Women’s World Cup Morocco 2025​
 Eutelsat 7A/B ( 7.0E )
 11588 - Vertical - 7200 - 4.2.0
