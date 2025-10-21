@@ -1,3 +1,10 @@
+UEFA Champions League
+Eutelsat 7A/7B/7C @ 7.0E
+11009 H 11247
+ID:LEUK_Fi02 (EUROVISION SA)
+1920x1080 |31.360Mb/Sec 16APSK |4:2:2 HEVC
+CW: FTA (Now)
+---FEED-SEPARATOR---
 UEFA Youth League - League phase - Matchday 3
 Barcelona U19 vs Olympiacos U19
 7e
