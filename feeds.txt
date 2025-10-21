@@ -1,3 +1,15 @@
+Eutelsat 7B/7C @ 7.0E
+12695 V 7120
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: 
+Pitch EFL Bristol City v Southampton
+Championship
+Bristol City
+Southampton
+05 38 BE 06 51 2E 28 00  #CW: 
+21 79 35 CF 29 FA ED 10
+---FEED-SEPARATOR---
 Eutelsat 7B @ 
 7.0°E
 11597 V 7200
