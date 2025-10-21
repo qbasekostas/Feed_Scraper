@@ -45,12 +45,29 @@ ID:LEUK_Fi02 (EUROVISION SA)
 1920x1080 |31.360Mb/Sec 16APSK |4:2:2 HEVC
 CW: FTA (Now)
 ---FEED-SEPARATOR---
+3.1E
+10960 H 7500
+10969 H 7500
+4.2.0
+ID: beIN SPORTS / Service 1
+UEFA Champions League
+Royale Union Saint-Gilloise - Inter Milan
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
 UEFA Youth League - League phase - Matchday 3
 Barcelona U19 vs Olympiacos U19
 7e
 11544 V 7200
 ID: UYL MD3 (*unnamed-1*)
 CW: 12 34 AB F1 BA 43 21 1E
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10829 V 7200
+4:2:0
+ID: BiH-003-2
+Basketball Champions League: 
+Igokea vs Trieste
+FTA
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 12592 V 7200
