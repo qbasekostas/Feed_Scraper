@@ -47,6 +47,14 @@ ID:LEUK_Fi02 (EUROVISION SA)
 1920x1080 |31.360Mb/Sec 16APSK |4:2:2 HEVC
 CW: FTA (Now)
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:10996 - V - 9874
+MPEG 4 - 4:2:2 - DVB-S2
+ID: LEUK_Fi01
+UEFA CL : Multiplex & Highlights
+found CW: 
+09 DE 42 29 04 76 49 C3 
+---FEED-SEPARATOR---
 3.1E
 10960 H 7500
 10969 H 7500
@@ -129,6 +137,8 @@ CW: EA 17 F1 F2 6B D2 3C 79
 Eutelsat 7B @ 7.0°E
 11180 - Horizontal - 7200
 Name: YSM-012M
+Eurocup, Group A, Round 4
+Hapoel Jerusalem VS Śląsk
 CW : 9A BC DE 34 01 23 45 69
 ---FEED-SEPARATOR---
 13E
