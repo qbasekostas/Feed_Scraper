@@ -25,6 +25,11 @@ ID: MRCOO5 MAIN
 FIFA U-17 Women’s World Cup Morocco 2025
 CW: D4 AE 2B AD 71 20 B8 49
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11554 - V - 4827
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  E 389 UCL M8 B2 MAiN
+---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0E
 11009 H 11247
