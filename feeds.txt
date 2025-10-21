@@ -1,3 +1,15 @@
+FIFA U-17 Women’s World Cup Morocco 2025​
+Eutelsat 7A/B ( 7.0E )
+11588 - Vertical - 7200 - 4.2.0
+Name : MRCoo5 - MAIN
+CW : D4 AE 2B AD 71 20 B8 49
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+11588 V 7200
+ID: MRCOO5 MAIN
+FIFA U-17 Women’s World Cup Morocco 2025
+CW: D4 AE 2B AD 71 20 B8 49
+---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0E
 11009 H 11247
