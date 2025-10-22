@@ -152,6 +152,29 @@ EASL
 Ryukyu
 Meralco Bolts
 ---FEED-SEPARATOR---
+13E
+12601 V 7200
+4.2.0
+ID: F615_FIBA_MAIN
+Basketball Champions League
+Cholet - UNET Holon
+CW: CF 50 BB DA 54 BC 93 A3
+---FEED-SEPARATOR---
+Eurocup, Group B
+Niners Chemnitz
+​
+London Lions
+​
+7°E
+11189 
+H  
+7200
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID: BB Eurocup Chemnitz
+CW: BB EE 22 CB 10 20 25 55
+---FEED-SEPARATOR---
 Eurocup, Group B
 Aquila Basket Trento
 Turk Telekom
