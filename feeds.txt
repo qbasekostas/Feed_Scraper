@@ -37,6 +37,14 @@ Copa Sudamericana - Play Offs
 Ind. del Valle (Ecu)  vs  Atletico-MG (Bra)
 CW: 23 69 AD 39 44 DF CB EE
 ---FEED-SEPARATOR---
+10E
+11305 V 7200
+4.2.0
+ID: SINTRA 1 MN
+UEFA Youth League - League phase
+Sporting CP U19 - Marseille U19
+CW: 3C 4B E5 6C A7 9D F2 36
+---FEED-SEPARATOR---
 100.5e
 4135 H 7120
 4:2:0
