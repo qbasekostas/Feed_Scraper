@@ -86,6 +86,23 @@ Youth, UEFA Youth League
  Real Madrid vs Juventus
 CW: AB CD 54 CC 54 DC BA EA
 ---FEED-SEPARATOR---
+3.1E
+10960 H 7500
+10969 H 7500
+4.2.0
+ID: beIN SPORTS / Service- 1
+UEFA Champions League
+Real Madrid CF - Juventus FC
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+3.1E
+10978 H 7500
+4.2.0
+ID: RMA BEIN MENA BACKUP
+UEFA Champions League
+Real Madrid CF - Juventus FC
+CW: C3 D2 2E C3 A2 F1 C3 56
+---FEED-SEPARATOR---
 UEFA Champions League, Round 3
 Real Madrid vs Juventus
 Eutelsat 7B/7C @ 7.0E
@@ -151,6 +168,15 @@ HD ENC-1a
 EASL
 Ryukyu
 Meralco Bolts
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 4
+JL Bourg Basket vs Panevežio 7Bet-Lietkabelis
+Eutelsat 7B/7C @ 7.0E
+12634 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  F489 MAIN
+CW: 22 10 DB 0D AC 20 25 F1
 ---FEED-SEPARATOR---
 13E
 12601 V 7200
