@@ -86,6 +86,13 @@ Youth, UEFA Youth League
  Real Madrid vs Juventus
 CW: AB CD 54 CC 54 DC BA EA
 ---FEED-SEPARATOR---
+UEFA Champions League (CBS Sports )
+Galatasaray VS Bodø/Glimt
+Türksat 2A - 3A (42.0°E)
+11487 - Vertical - 6800 - 4.2.2
+Name : TKS.TRT.M20-A
+CW : 55 65 00 BA 00 55 65 BA
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 10997 - V - 9875 - 
 4.2.2
@@ -97,6 +104,10 @@ Real Madrid vs Juventus
 Eutelsat 7C (7.0E)
 12736 V 7200 - E408 VIA 1
 CW: AB BA 56 BB 51 81 8A 5C
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11523  - Vertical - 7200 - 4.2.0
+Name : ROU045
 ---FEED-SEPARATOR---
 100.5e
 3885 V 7120
@@ -124,6 +135,27 @@ HD ENC-1a
 EASL
 Ryukyu
 Meralco Bolts
+---FEED-SEPARATOR---
+Eurocup, Group B
+Aquila Basket Trento
+Turk Telekom
+​
+7°E
+11164 
+V  
+7500
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:ENC1 S9 MPEG4 HD
+CW: 12 AB 34 F1 EF 56 BC 01
+---FEED-SEPARATOR---
+Euro league women 
+CIMSA VS CASADEMONT 
+Eutelsat 7A/7B/7C @ 7.0°E
+12677 - Vertical - 7200 - 4.2.2
+Name : TKS.TRT.M22-A
+CW : 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
 13E
 12592 V 7200
