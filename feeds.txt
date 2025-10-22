@@ -37,6 +37,15 @@ Copa Sudamericana - Play Offs
 Ind. del Valle (Ecu)  vs  Atletico-MG (Bra)
 CW: 23 69 AD 39 44 DF CB EE
 ---FEED-SEPARATOR---
+vnraw said:
+			EFL: Sheffield Wednesday vs Middlesbrough
+45 13 B4 DD E2 95 2F 6A  #CW:
+35 26 D2 2D 3A E8 87 A9
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+ 12695 - Vertical - 7120- 4.2.0 - NEP Con
+Name : Pitch EFL - Sheffield Weds
+---FEED-SEPARATOR---
 EFL: Sheffield Wednesday vs Middlesbrough
 AsiaSat 5 100.5E
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
@@ -148,6 +157,14 @@ Real Madrid vs Juventus
 Eutelsat 7C (7.0E)
 12736 V 7200 - E408 VIA 1
 CW: AB BA 56 BB 51 81 8A 5C
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12583 V 7200
+4:2:0
+ID: EDS807HD.1
+Basketball Champions League: 
+Joventut vs Bursaspor
+FTA
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11523  - Vertical - 7200 - 4.2.0
