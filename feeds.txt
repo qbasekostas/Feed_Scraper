@@ -86,6 +86,13 @@ Youth, UEFA Youth League
  Real Madrid vs Juventus
 CW: AB CD 54 CC 54 DC BA EA
 ---FEED-SEPARATOR---
+Türksat 2A - 3A (42.0°E)
+11598- Vertical - 6800 - 4.2.2 (
+Feed TRT Sport
+ )
+Name : TUR-125A
+CW : 23 91 00 B4 00 23 91 B4
+---FEED-SEPARATOR---
 UEFA Champions League (CBS Sports )
 Galatasaray VS Bodø/Glimt
 Türksat 2A - 3A (42.0°E)
