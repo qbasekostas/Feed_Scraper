@@ -37,6 +37,14 @@ Copa Sudamericana - Play Offs
 Ind. del Valle (Ecu)  vs  Atletico-MG (Bra)
 CW: 23 69 AD 39 44 DF CB EE
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 
+7.0°E
+11588 V 7200
+ID: 
+MRCOO5 MAIN
+FIFA U-17 Women’s World Cup Morocco 2025
+CW: D5 89 F1 4F B4 6F 28 4B
+---FEED-SEPARATOR---
 10E
 11305 V 7200
 4.2.0
