@@ -36,3 +36,21 @@ OCC 1
 Copa Sudamericana - Play Offs 
 Ind. del Valle (Ecu)  vs  Atletico-MG (Bra)
 CW: 23 69 AD 39 44 DF CB EE
+---FEED-SEPARATOR---
+100.5e
+4135 H 7120
+4:2:0
+ID: 
+ENC1
+EASL
+Utsunomiya Brex
+Seoul Knights
+---FEED-SEPARATOR---
+100.5e
+3896 V 7120
+4:2:0
+ID: 
+HD ENC-1a
+EASL
+Ryukyu
+Meralco Bolts
