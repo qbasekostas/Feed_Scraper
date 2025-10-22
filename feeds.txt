@@ -96,6 +96,16 @@ Youth, UEFA Youth League
 CW: AB CD 54 CC 54 DC BA EA
 ---FEED-SEPARATOR---
 UEFA Champions League - Matchday 3
+Eintracht Frankfurt v Liverpool
+ST: 20:00
+03°E C-BAND
+TP:3805 V 7199
+ID: UEFA
+DVB S2 1080i 
+4.2.0
+#CW : 5D 91 8C 7A 9D EA 58 DF
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 3
 Sporting Lisbon vs. Marseille
 Eutelsat 8 West/B @ 8.0°W
 12723 - V - 19200 
