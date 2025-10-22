@@ -86,6 +86,17 @@ Youth, UEFA Youth League
  Real Madrid vs Juventus
 CW: AB CD 54 CC 54 DC BA EA
 ---FEED-SEPARATOR---
+UEFA Champions League - Matchday 3
+Sporting Lisbon vs. Marseille
+Eutelsat 8 West/B @ 8.0°W
+12723 - V - 19200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: E-073 FEED 1
+CW: 45 12 BA 11 CA 56 02 22
+---FEED-SEPARATOR---
 3.1E
 10960 H 7500
 10969 H 7500
