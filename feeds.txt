@@ -37,6 +37,14 @@ Copa Sudamericana - Play Offs
 Ind. del Valle (Ecu)  vs  Atletico-MG (Bra)
 CW: 23 69 AD 39 44 DF CB EE
 ---FEED-SEPARATOR---
+EFL: Sheffield Wednesday vs Middlesbrough
+AsiaSat 5 100.5E
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+3914 V 7119
+8PSK 2/3
+45 13 B4 DD E2 95 2F 6A  #CW:
+35 26 D2 2D 3A E8 87 A9
+---FEED-SEPARATOR---
 Eutelsat 7B @ 
 7.0°E
 11588 V 7200
@@ -52,6 +60,18 @@ ID: SINTRA 1 MN
 UEFA Youth League - League phase
 Sporting CP U19 - Marseille U19
 CW: 3C 4B E5 6C A7 9D F2 36
+---FEED-SEPARATOR---
+7°E
+11543 
+V  
+7200
+DVB-S2
+ - 4:2:0 - 
+8PSk
+ID:E-387 Main
+Youth, UEFA Youth League
+ Real Madrid vs Juventus
+CW: AB CD 54 CC 54 DC BA EA
 ---FEED-SEPARATOR---
 100.5e
 3885 V 7120
@@ -79,3 +99,11 @@ HD ENC-1a
 EASL
 Ryukyu
 Meralco Bolts
+---FEED-SEPARATOR---
+7E
+11070 H 7200
+4.2.0
+ID: IMG A EU
+EuroLeague
+Maccabi Tel Aviv - Real Madrid
+CW: 9F 4D 3B 27 AE 1C 52 1C
