@@ -86,6 +86,18 @@ Youth, UEFA Youth League
  Real Madrid vs Juventus
 CW: AB CD 54 CC 54 DC BA EA
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+10997 - V - 9875 - 
+4.2.2
+Name : UCL_IHL_LEUK_Fi01
+CW : F9 E5 F3 D1 86 0B 81 12
+---FEED-SEPARATOR---
+UEFA Champions League (CBS Sports )
+Real Madrid vs Juventus
+Eutelsat 7C (7.0E)
+12736 V 7200 - E408 VIA 1
+CW: AB BA 56 BB 51 81 8A 5C
+---FEED-SEPARATOR---
 100.5e
 3885 V 7120
 4:2:0
@@ -113,6 +125,15 @@ EASL
 Ryukyu
 Meralco Bolts
 ---FEED-SEPARATOR---
+13E
+12592 V 7200
+4.2.0
+ID: D-331 TX1
+Basketball Champions League
+Heidelberg - Legia Warszawa
+CW: CD 67 DA 0E 12 AF 38 F9
+---FEED-SEPARATOR---
+Eurocup
 Eutelsat 7B/7C @ 7.0E
 12703 V 7200
 DVB-S2 - 1080P - 8PSK
