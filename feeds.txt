@@ -104,7 +104,7 @@ Real Madrid CF - Juventus FC
 CW: C3 D2 2E C3 A2 F1 C3 56
 ---FEED-SEPARATOR---
 UEFA Champions League, Round 3
-Real Madrid vs Juventus
+Chelsea vs Ajax
 Eutelsat 7B/7C @ 7.0E
 11515 V 6666
 DVB-S2 - 1080P - 8PSK
@@ -177,7 +177,8 @@ ID: LTU-005 main
 Event: Basketball Champions League
 any CW Please?
 Click to expand...
-18 24 A4 36 3F 81 3A 94  #CW:AC 44 BE AE 41 DB 06 22
+18 24 A4 36 3F 81 3A 94  
+CW: AC 44 BE AE 41 DB 06 22
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 4
 JL Bourg Basket vs Panevežio 7Bet-Lietkabelis
