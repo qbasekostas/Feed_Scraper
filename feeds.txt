@@ -46,6 +46,15 @@ Sporting CP U19 - Marseille U19
 CW: 3C 4B E5 6C A7 9D F2 36
 ---FEED-SEPARATOR---
 100.5e
+3885 V 7120
+4:2:0
+ID: 
+TAS M
+EASL
+New Taipei Kings
+Alvark
+---FEED-SEPARATOR---
+100.5e
 4135 H 7120
 4:2:0
 ID: 
