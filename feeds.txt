@@ -45,6 +45,19 @@ PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 45 13 B4 DD E2 95 2F 6A  #CW:
 35 26 D2 2D 3A E8 87 A9
 ---FEED-SEPARATOR---
+FIFA U-17 Women’s World Cup Morocco 2025​
+Eutelsat 7A/B ( 7.0E )
+11589 - Vertical - 7200 -M187-MRC007-Main
+CW :  D5 89 F1 4F B4 6F 28 4B
+---FEED-SEPARATOR---
+FIFA U-17 Women’s World Cup Morocco 2025
+Eutelsat 7B/7C @ 7.0E
+11580 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  MRC-004-main
+CW: D5 89 F1 4F B4 6F 28 4B
+---FEED-SEPARATOR---
 Eutelsat 7B @ 
 7.0°E
 11588 V 7200
