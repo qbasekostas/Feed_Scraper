@@ -169,6 +169,16 @@ EASL
 Ryukyu
 Meralco Bolts
 ---FEED-SEPARATOR---
+bayuware said:
+Hotbird 13B ( 13E )
+10830 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: LTU-005 main
+Event: Basketball Champions League
+any CW Please?
+Click to expand...
+18 24 A4 36 3F 81 3A 94  #CW:AC 44 BE AE 41 DB 06 22
+---FEED-SEPARATOR---
 Eurocup, Group B, Round 4
 JL Bourg Basket vs Panevežio 7Bet-Lietkabelis
 Eutelsat 7B/7C @ 7.0E
@@ -245,3 +255,4 @@ ID: IMG A EU
 EuroLeague
 Maccabi Tel Aviv - Real Madrid
 CW: 9F 4D 3B 27 AE 1C 52 1C
+NEW CW: 4A FE D7 1F EE 13 B4 B5
