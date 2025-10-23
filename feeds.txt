@@ -42,6 +42,17 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_24_SDI
 CW: 41 25 8D F3 E3 23 32 38
 ---FEED-SEPARATOR---
+Friendly Match , Women , U23
+Germany VS England 
+Eutelsat 7E 
+- Freq: 11180
+• Pol: Horizontal 
+• SR: 7200
+• Mod: 8PSK
+• FEC: 3/4 
+• Std: DVB-S2 - 4.2.0
+Name: U23-NT-GER-ENG
+---FEED-SEPARATOR---
 Intelsat 10-02 / Thor 5-6 (0.8°W)
 Frequency: 12527 - Pol: V - SR: 6660 - FEC: 3/4
 Category: Sport - Football
