@@ -42,6 +42,17 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_24_SDI
 CW: 41 25 8D F3 E3 23 32 38
 ---FEED-SEPARATOR---
+UEFA Conference League - Matchday 2
+Rijeka vs. Sparta Prague
+Eutelsat 7B/7C @ 7.0°E
+11483 - H - 9875 
+|
+4:2:2 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Medialink CRO-024/1
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11020- H - 9874
 MPEG 4 - 4:2:0 - DVB-S2
