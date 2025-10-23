@@ -20,6 +20,13 @@ CONMEBOL COPA LIBERTADORES
 FLAMENGO VS RACING 
 CW: 5A DE 2C 31 B7 7A 62 F4 5A
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11020- H - 9874
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  LK _ENC_03_UEL_IHL
+UEFA UEL : Multiplex & Highlights
+CW: D0 6B 47 82 96 6C 21 23
+---FEED-SEPARATOR---
 UEFA Europa league, Round 3
 Fenerbahce VS Stuttgart
 Türksat 2A - 3A (42.0°E)
