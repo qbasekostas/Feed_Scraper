@@ -20,8 +20,6 @@ CONMEBOL COPA LIBERTADORES
 FLAMENGO VS RACING 
 CW: 5A DE 2C 31 B7 7A 62 F4 5A
 ---FEED-SEPARATOR---
-Dele...
----FEED-SEPARATOR---
 LA LIGA Show, 
 2025/2026
 Eutelsat 10B @ 10.0°E
@@ -32,6 +30,15 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 1B 95 7D 2D FC 36 66 98
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12694 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  Pitch Exeter v Plymouth Argyle
+Albahraniy said:
+CW: 41 25 8D F3 E3 23 32 38
+Click to expand...
 ---FEED-SEPARATOR---
 EnglandLeague One, Round 14
 Exeter City vs Plymouth Argyle 
