@@ -50,8 +50,8 @@ Transmitted in: MPEG-4 crypte
 ID: 
 B115DGS
 CW: 23 10 20 53 25 AB CA 9A
-Info: 
-FCSB - Bologna (18:45 cet)
+Info: Universitatea Craiova - Noah (21:00 cet)
+UEFA Conference League - Matchday 2
 --------------------------------------------------------
 ---FEED-SEPARATOR---
 UEFA Conference League - Matchday 2
@@ -96,7 +96,6 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: 74 7B E3 D2 0F 57 2A 90
 ---FEED-SEPARATOR---
-A.ElSadek said:
 Euro league, Round 6
 Emporio Armani Milano VS Valencia 
 Eutelsat 16A (16.0°E )
@@ -107,21 +106,7 @@ Eutelsat 16A (16.0°E )
 • FEC: 3/4
 • Std: DVB-S2 - 4.2.0
 Name: italy 390 - Blitz TELECOMUN
-CW : 97 AC D3 F8 D1 38 7F 88
-Click to expand...
-key not working
----FEED-SEPARATOR---
-Euro league, Round 6
- Emporio Armani Milano VS Valencia 
-Eutelsat 16A (16.0°E )
-- Freq: 10996
-• Pol: Vertical
-• SR: 7200
-• Mod: 8PSK
-• FEC: 3/4
-• Std: DVB-S2 - 4.2.0
-Name: italy 390 - Blitz TELECOMUN
-CW : 97 AC D3 F8 D1 38 7F 88
+ CW : 79 AC D3 F8 D1 38 7F 88
 ---FEED-SEPARATOR---
 7E
 11070 H 7200
