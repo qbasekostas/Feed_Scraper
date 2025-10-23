@@ -20,6 +20,19 @@ CONMEBOL COPA LIBERTADORES
 FLAMENGO VS RACING 
 CW: 5A DE 2C 31 B7 7A 62 F4 5A
 ---FEED-SEPARATOR---
+UEFA Europa league, Round 3
+Fenerbahce VS Stuttgart
+Türksat 2A - 3A (42.0°E)
+Name: TKS.TRT.M17-A - TRT
+- Freq: 11478
+- Pol: Vertical
+- SR: 6800
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2 - 
+4.2.2
+CW: 85 23 00 A8 00 85 23 A8
+---FEED-SEPARATOR---
 UEFA Conference League - Matchday 2
 Crystal Palace vs. AEK Larnaca
 Intelsat 10-02 @ 1.0°W
