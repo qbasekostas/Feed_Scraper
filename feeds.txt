@@ -1,3 +1,19 @@
+Albahraniy said:
+			South AmericaCONMEBOL Sudamericana, Knockout stage, Semifinals
+Universidad de Chile vs CA Lanús
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:OVERON 1
+CW: 39 AD 67 4D BC 11 DD AA
+Click to expand...
+47W SES14 C 
+4007H9998 
+ID: UNI VS LAN SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL SUDAMERICANA
+---FEED-SEPARATOR---
 South AmericaCONMEBOL Libertadores, Knockout stage, Semifinals
 LDU vs Palmeiras
 Asiasat 5 (100.5°E) C BAND
