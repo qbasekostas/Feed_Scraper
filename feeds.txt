@@ -42,6 +42,18 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_24_SDI
 CW: 41 25 8D F3 E3 23 32 38
 ---FEED-SEPARATOR---
+Intelsat 10-02 / Thor 5-6 (0.8°W)
+Frequency: 12527 - Pol: V - SR: 6660 - FEC: 3/4
+Category: Sport - Football
+UEFA Europa League - Matchday 3
+Transmitted in: MPEG-4 crypte
+ID: 
+B115DGS
+CW: 23 10 20 53 25 AB CA 9A
+Info: 
+FCSB - Bologna (18:45 cet)
+--------------------------------------------------------
+---FEED-SEPARATOR---
 UEFA Conference League - Matchday 2
 Rijeka vs. Sparta Prague
 Eutelsat 7B/7C @ 7.0°E
@@ -83,3 +95,38 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 74 7B E3 D2 0F 57 2A 90
+---FEED-SEPARATOR---
+A.ElSadek said:
+Euro league, Round 6
+Emporio Armani Milano VS Valencia 
+Eutelsat 16A (16.0°E )
+- Freq: 10996
+• Pol: Vertical
+• SR: 7200
+• Mod: 8PSK
+• FEC: 3/4
+• Std: DVB-S2 - 4.2.0
+Name: italy 390 - Blitz TELECOMUN
+CW : 97 AC D3 F8 D1 38 7F 88
+Click to expand...
+key not working
+---FEED-SEPARATOR---
+Euro league, Round 6
+ Emporio Armani Milano VS Valencia 
+Eutelsat 16A (16.0°E )
+- Freq: 10996
+• Pol: Vertical
+• SR: 7200
+• Mod: 8PSK
+• FEC: 3/4
+• Std: DVB-S2 - 4.2.0
+Name: italy 390 - Blitz TELECOMUN
+CW : 97 AC D3 F8 D1 38 7F 88
+---FEED-SEPARATOR---
+7E
+11070 H 7200
+4.2.0
+ID: IMG A EU
+EuroLeague
+Event Later......
+CW: 7A 9B 33 48 17 5A 77 E8
