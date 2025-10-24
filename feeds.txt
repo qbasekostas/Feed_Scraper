@@ -35,6 +35,19 @@ ID: Fal3 Enc2
 CW: 20 25 AE F3 EA 52 02 3E
 colour screen 
 ---FEED-SEPARATOR---
+Argentinean Primera División - 2nd Phase, Week 7
+Sarmiento v Rosario Central
+ ST: 20:00
+7°E
+11665 
+H 
+ 7500
+DVB-S2-
+4:2:0
+-8PSK
+ID:AFD
+CW: 12 95 41 E8 27 FE 91 B6
+---FEED-SEPARATOR---
 Akrem said:
 			CONMEBOL Copa Libertadores - Semi Final (1st Leg)
 LDU Quito v Palmeiras
