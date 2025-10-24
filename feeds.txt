@@ -1,3 +1,14 @@
+7e
+11021 V 9875
+4:2:0
+ID: 
+GVA_Fi03
+Bundesliga
+Werder Bremen
+Union Berlin
+2A C5 81 85 19 B0 FC A4  #CW: 
+8E AC F0 2A 20 03 4F 72
+---FEED-SEPARATOR---
 Jacop said:
 16.0ºE
 10979  H 3600
@@ -127,6 +138,36 @@ Eutelsat 10B @ 10.0°E
 ID: LIGA HYPERMOTION 1
 CW: D8 16 E8 D6 75 39 C4 72 #[E] PID:04BBh
 ---FEED-SEPARATOR---
+16E
+12712 V 2000 
+4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Cup
+Formartine Utd
+ v 
+Buckie Thistle
+---FEED-SEPARATOR---
+16E
+12705 V 10000 
+4:2:0
+DVB-S2 8PSK
+ID: Uki-1592
+Scottish Cup
+Formartine Utd
+ v 
+Buckie Thistle
+---FEED-SEPARATOR---
+16E
+12692 V 10000 
+4:2:0
+DVB-S2 8PSK
+ID: Uki-1592
+Scottish Cup
+Formartine Utd
+ v 
+Buckie Thistle
+---FEED-SEPARATOR---
 7E
 11144 H 7200
 4.2.0
@@ -151,7 +192,17 @@ Fréq:11126- H - 7200 ID:  D-408 Feed A
 Fréq:11135 - H - 7200 ID:  D-408 Feed B
 MPEG 4 - 4:2:2 - DVB-S2
 ---FEED-SEPARATOR---
-FIFA U-17 Women’s World Cup Morocco 2025
+Women's friendly match
+Morocco vs Scotland
+21.6E
+ID: MRC003 main
+11588 H 5000
+4:2:0
+BF 73 59 3D FC 06 9A E8 #[E] PID:0200h
+found CW: FE ED 24 0F 10 20 25 55
+---FEED-SEPARATOR---
+U17 World Cup, Women, Group A, Round 3
+Costa Rica U17 vs Morocco U17
 Eutelsat 7B/7C @ 7.0E
 11078 V 7200
 DVB-S2 - 1080P - 8PSK
@@ -227,6 +278,14 @@ ID: D-380 DFB WF MAIN
 UEFA Women's Nations League - Semi Final
  Germany - France 
 CW: DC A3 33 B2 72 15 22 A9
+---FEED-SEPARATOR---
+10E
+11246 H 5000
+4.2.0
+ID: ITA556 HD 16 - MAIN
+ Serie A2
+Real Mutua Torino - Wegreenit Unaria Milano
+FTA
 ---FEED-SEPARATOR---
 AdmiralBet KLS
 Sloboda vs KK Čačak 94
