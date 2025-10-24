@@ -116,6 +116,14 @@ DVB-S2-
 ID: OCC1
 CW: 39 AD 67 4D BC 11 DD AA
 ---FEED-SEPARATOR---
+Serie A - Round 8 
+AC Milan - Pisa
+Eutelsat 10.0E C-Band @ 10.0E
+3891 V 3750
+ID: SERIE A (IKOMG)
+1920x1080 |9.080Mb/Sec 8PSK |4:2:0 HD
+CW: A2 0B BA 67 19 23 25 61
+---FEED-SEPARATOR---
 Real Sociedad vs Sevilla FC
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
@@ -167,6 +175,25 @@ Scottish Cup
 Formartine Utd
  v 
 Buckie Thistle
+---FEED-SEPARATOR---
+EFL: Preston North vs Sheffield United
+AsiaSat 5 100.5E
+3913 V 7119
+8PSK 2/3 DVB-S2
+4:2:0 1080i
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+CW: B6 AD 93 F6 24 02 34 5A
+---FEED-SEPARATOR---
+vnraw said:
+			EFL: Preston North vs Sheffield United
+8PSK 2/3 DVB-S2
+4:2:0 1080i
+CW: B6 AD 93 F6 24 02 34 5A
+Click to expand...
+7.0E
+11522 V 7120 
+ID: Pitch- EFL Preston v Sheffi
+CW: B6 AD 93 F6 24 02 34 5A
 ---FEED-SEPARATOR---
 7E
 11144 H 7200
