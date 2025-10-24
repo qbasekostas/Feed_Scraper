@@ -151,6 +151,23 @@ Fréq:11126- H - 7200 ID:  D-408 Feed A
 Fréq:11135 - H - 7200 ID:  D-408 Feed B
 MPEG 4 - 4:2:2 - DVB-S2
 ---FEED-SEPARATOR---
+FIFA U-17 Women’s World Cup Morocco 2025
+Eutelsat 7B/7C @ 7.0E
+11105 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: MRC-004-main
+CW: D6 BB 74 05 6F B9 E4 0C
+---FEED-SEPARATOR---
+Europe UEFA Nations League, Women
+Ireland vs Belgium
+Eutelsat 7B/7C @ 7.0E
+12642 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: NEP IRL Ireland v Belgium
+CW: 24 10 FA 2E CC 20 25 11
+---FEED-SEPARATOR---
 W:  Italy vs Japan 
 Eutelsat 7B - 7C (7.0°E)
 11123 V 7200
