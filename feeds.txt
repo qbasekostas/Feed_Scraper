@@ -1,3 +1,10 @@
+16.0ºE
+10979  H 3600
+4.2.0 HD
+ID: Fal3 Enc2
+CW: 20 25 AE F3 EA 52 02 3E
+colour screen 
+---FEED-SEPARATOR---
 Akrem said:
 			CONMEBOL Copa Libertadores - Semi Final (1st Leg)
 LDU Quito v Palmeiras
@@ -86,3 +93,22 @@ AsiaSat 5 100.5E
 1080i 4:2:2
 PMT PID: 3850, SID: 43 @ OVERON 1 (Servicios Audiovisuales Overon, S L)
 CW: C5 18 42 1F 65 C8 C6 F3
+---FEED-SEPARATOR---
+omid1348 said:
+2025 FIFA U-17 Women's World Cup​
+CW: D6 BB 74 05 6F B9 E4 0C
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11088 - V - 7200 - 4.2.0
+ID: M187-MRC007-Main
+Norway vs United States
+---FEED-SEPARATOR---
+7E
+11097 V 7200
+4.2.0
+ID: MRC005 MAIN
+2025 FIFA U-17 Women's World Cup​
+Netherlands​
+-
+North Korea​
+CW: D6 BB 74 05 6F B9 E4 0C
