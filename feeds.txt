@@ -154,7 +154,6 @@ MPEG 4 - 4:2:2 - DVB-S2
 W:  Italy vs Japan 
 Eutelsat 7B - 7C (7.0°E)
 11123 V 7200
-MPEG-4 crypté
 ID: ITA 498 A
 H265 4:2:0
 CW: 34 70 60 04 07 A5 C5 71
