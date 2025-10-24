@@ -144,6 +144,22 @@ Provider: CTV Praha
 UEFA NATIONS LEAGUE WOMEN, LEAGUE A/B RELEGATION,FINAL,1st leg
 Czech Republic W - Austria W (17:30)
 ---FEED-SEPARATOR---
+UEFA Nations League, Women
+Germany vs. France
+Eutelsat 7B @ 7.0°E
+Fréq:11126- H - 7200 ID:  D-408 Feed A
+Fréq:11135 - H - 7200 ID:  D-408 Feed B
+MPEG 4 - 4:2:2 - DVB-S2
+---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10973 V 9600
+ID: POL11_HARM
+Event: 
+Women's football - friendly match: Poland - Netherlands
+4.2.2
+- DVB-S2 - 8PSK
+CW: DC AE 20 AA 25 AA 10 DF
+---FEED-SEPARATOR---
 omid1348 said:
 2025 FIFA U-17 Women's World Cup​
 CW: D6 BB 74 05 6F B9 E4 0C
@@ -163,6 +179,15 @@ Netherlands​
 North Korea​
 CW: D6 BB 74 05 6F B9 E4 0C
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0°E)
+Fréquence: 10985 - Pol: V - SR: 9600
+ID: POL 48 ENC1
+Transmis en: MPEG-4 crypté
+Poland-Netherlands
+E 96 77 DC EC 38 3F 66 #CW:
+CA E5 62 11 10 20 25 55
+ #[E] PID:0021h
+---FEED-SEPARATOR---
 7E
 11190 H 7200
 4.2.0
@@ -170,13 +195,6 @@ ID: D-380 DFB WF MAIN
 UEFA Women's Nations League - Semi Final
  Germany - France 
 CW: DC A3 33 B2 72 15 22 A9
----FEED-SEPARATOR---
-UEFA Nations League, Women
-Germany vs. France
-Eutelsat 7B @ 7.0°E
-Fréq:11126- H - 7200 ID:  D-408 Feed A
-Fréq:11135 - H - 7200 ID:  D-408 Feed B
-MPEG 4 - 4:2:2 - DVB-S2
 ---FEED-SEPARATOR---
 AdmiralBet KLS
 Sloboda vs KK Čačak 94
@@ -198,5 +216,5 @@ Fréq:11070- H - 7200
 MPEG 4 - 4:2:0 - DVB-S2
 ID: ita 390 B
 Euroleague
-Virtus - Monaco
+Virtus - Panathinaikos
 CW: EA 91 6B E6 66 64 C4 8E
