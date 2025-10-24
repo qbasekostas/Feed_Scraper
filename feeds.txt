@@ -126,3 +126,10 @@ Netherlands​
 -
 North Korea​
 CW: D6 BB 74 05 6F B9 E4 0C
+---FEED-SEPARATOR---
+UEFA Nations League, Women
+Germany vs. France
+Eutelsat 7B @ 7.0°E
+Fréq:11126- H - 7200 ID:  D-408 Feed A
+Fréq:11135 - H - 7200 ID:  D-408 Feed B
+MPEG 4 - 4:2:0 - DVB-S2
