@@ -1,3 +1,11 @@
+28.2e
+12702 v 7200
+id: D-473 (rt1.tv)
+4:2:0
+3. liga
+wehen - aachen 
+CW: 24 10 AC E0 DC 00 01 DD
+---FEED-SEPARATOR---
 16.0ºE
 10979  H 3600
 4.2.0 HD
@@ -108,6 +116,15 @@ Eutelsat 10B @ 10.0°E
 ID: LIGA HYPERMOTION 1
 CW: D8 16 E8 D6 75 39 C4 72 #[E] PID:04BBh
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+12523 H 4800
+MPEG-4 FTA DVB-S2 8PSK,4:2:2
+ID: 
+CZE 001/1
+Provider: CTV Praha
+UEFA NATIONS LEAGUE WOMEN, LEAGUE A/B RELEGATION,FINAL,1st leg
+Czech Republic W - Austria W (17:30)
+---FEED-SEPARATOR---
 omid1348 said:
 2025 FIFA U-17 Women's World Cup​
 CW: D6 BB 74 05 6F B9 E4 0C
@@ -133,3 +150,11 @@ Eutelsat 7B @ 7.0°E
 Fréq:11126- H - 7200 ID:  D-408 Feed A
 Fréq:11135 - H - 7200 ID:  D-408 Feed B
 MPEG 4 - 4:2:2 - DVB-S2
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11070- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: ita 390 B
+Euroleague
+ Bayern Munich vsOlympiakos Piraeus
+CW: EA 91 6B E6 66 64 C4 8E
