@@ -86,6 +86,13 @@ DVB-S2-
 ID: OCC1
 CW: 39 AD 67 4D BC 11 DD AA
 ---FEED-SEPARATOR---
+Real Sociedad vs Sevilla FC
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: C5 18 42 1F 65 C8 C6 F3
+---FEED-SEPARATOR---
 Real Sociedad vs Sevilla FC 
 AsiaSat 5 100.5E 
 3840 H 29998
@@ -93,6 +100,13 @@ AsiaSat 5 100.5E
 1080i 4:2:2
 PMT PID: 3850, SID: 43 @ OVERON 1 (Servicios Audiovisuales Overon, S L)
 CW: C5 18 42 1F 65 C8 C6 F3
+---FEED-SEPARATOR---
+Huesca vs Las Palmas​
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: D8 16 E8 D6 75 39 C4 72 #[E] PID:04BBh
 ---FEED-SEPARATOR---
 omid1348 said:
 2025 FIFA U-17 Women's World Cup​
