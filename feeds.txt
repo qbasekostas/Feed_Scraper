@@ -99,3 +99,19 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: TUR112 BACKUP
 CW: D6 E9 36 F5 9E 52 AF 9F
+---FEED-SEPARATOR---
+A.ElSadek said:
+			Eutelsat 7A/7B/7C @ 7.0°E
+11000 - Horizontal - 4938- 4.2.0
+Name : SNG 01 - Chain B
+CW : D0 99 3E 94 12 89 08 A3
+3X3 World Tour Abu Dhabi 2025
+Click to expand...
+CW: BD 99 3E 94 12 89 08 A3
+---FEED-SEPARATOR---
+Greek Super League 2 - Matchday 7
+Iraklis vs Niki Volou
+39e
+11007 V 7200
+ID: EuroLeague _M2Main
+FTA
