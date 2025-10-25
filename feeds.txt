@@ -60,6 +60,14 @@ Bundesliga
 Gladbach vs Bayern Munich
 CW: 85 B9 A1 DF E4 CD 3F F0
 ---FEED-SEPARATOR---
+Bundesliga - Week 8
+Borussia Dortmund vs FC Cologne
+Eutelsat 16°E
+10981 H 3600
+1920*1080 | DVB-S2 | 8PSK
+ID: Fal4 Enc2
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 ItalySerie B, Round 9
 Virtus Entella vs Pescara
 Eutelsat 7B/7C @ 7.0E
@@ -292,6 +300,27 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: TUR112 BACKUP
 CW: D6 E9 36 F5 9E 52 AF 9F
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 5
+Manisa Basket vs Yukatel Merkezefendi Belediyesi Basket
+Eutelsat 7B/7C @ 7.0E
+12684 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:TUR139-Main
+CW: 6C 39 86 2B 67 65 55 21
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11107 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:Fi01_ACB
+CW: 99 5E B6 AD 68 FB 2D 90
+SPAIN: 
+ACB
+Basketball
+Tenerife
+Unicaja
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11525 - H - 7500 - 4.2.0
