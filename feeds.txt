@@ -28,7 +28,7 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID:LEUK_Fi08
 Bundesliga
-Borussia Dortmund vs 1. FC Köln
+Gladbach vs Bayern Munich
 CW: 85 B9 A1 DF E4 CD 3F F0
 ---FEED-SEPARATOR---
 ItalySerie B, Round 9
@@ -51,6 +51,14 @@ HD H264 4:2:2
 11.163 H 7500
 id: ITA 609 A
 BC 09 20 E5 25 25 10 5A
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 2
+LaLiga
+ Athletic Bilbao vs Getafe
+CW: E2 F4 B6 8C ED F3 8E 6E
 ---FEED-SEPARATOR---
 Girona FC vs Real Oviedo 
 AsiaSat 5 100.5E
