@@ -43,3 +43,12 @@ CW: BC B7 EB 5E 63 58 A3 5E
 4.2.0 HD
 ID: LIGA HYPERMOTION 1
 CW: AE 3A 4D 35 17 DF 2C 22
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 5
+Bahçeşehir Koleji vs Esenler Erokspor
+Eutelsat 7B/7C @ 7.0E
+11508 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: TUR112 BACKUP
+CW: D6 E9 36 F5 9E 52 AF 9F
