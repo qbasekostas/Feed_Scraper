@@ -134,6 +134,13 @@ Middlesbrough v Cheadle Town
 ​
 CW: EA 52 C0 FC BA 27 21 02
 ---FEED-SEPARATOR---
+FIFA U-17 Women’s World Cup Morocco 2025
+Eutelsat 7A/7B/7C @ 7.0E
+11000 V 14402
+ID: MRC008-Main (*unnamed-1*)
+1920x1080 |31.360Mb/Sec 8PSK |4:2:2 HD
+CW: 22 4F 26 97 C0 0A 40 0A
+---FEED-SEPARATOR---
 A.ElSadek said:
 FIFA U-17 Women’s World Cup Morocco 2025
 Eutelsat 7A/7B/7C @ 7.0°E
