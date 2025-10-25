@@ -1,3 +1,43 @@
+Spanish La Liga - Matchday 10
+Real Madrid vs. Barcelona
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR MENA 1
+CW: 0B C5 DA AA 49 7D 96 5C
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR AFRICA 1 
+LaLiga
+Real Madrid vs Barcelona
+CW: 86 86 EE FA FD 82 E9 68
+---FEED-SEPARATOR---
+LaLiga 
+Real Madrid vs Barcelona
+AsiaSat 5 - 100.5 E
+Fréq:3840 - H - 30000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON1
++
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+CW: 1B 95 7D 2D FC 36 66 98
+---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 2
+LaLiga
+RCD Mallorca - Levante UD
+CW: DD 34 84 95 E5 E8 3E 0B
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.2
@@ -5,6 +45,7 @@ ID: SUPPONOR MENA 1
 LaLiga
 Real Madrid CF - FC Barcelona
 CW: 2E FA 2B 53 F6 61 EF 46
+NEW CW Edited After Dani Post !
 ---FEED-SEPARATOR---
 10E
 10732 V 34000
