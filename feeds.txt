@@ -1,3 +1,20 @@
+Girona FC vs Real Oviedo 
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 H264 4:2:2
+PMT PID: 3860, SID: 44 @ OVERON 2 (Servicios Audiovisuales Overon, S L)
+CW: FA 4B 89 CE 05 D6 B5 90
+  #[E] PID:0F15h
+---FEED-SEPARATOR---
+RCD Espanyol vs Elche
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6
+1080i 4:2:2
+PMT PID: 3850, SID: 43 @ OVERON 1 (Servicios Audiovisuales Overon, S L)
+CW: BC B7 EB 5E 63 58 A3 5E
+   #[E] PID:0F0Bh
+---FEED-SEPARATOR---
 Spanish La Liga
 10.0°E
 10733 V 34000
