@@ -1,3 +1,11 @@
+28.2e
+12580 v 7200
+id: D-473 (rt1.tv)
+4:2:0
+3. liga
+mannheim-munich 1860
+CW: 25 10 AC E1 DC 00 05 E1
+---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3860 V 30000
 DVB-S2 - 1080P - 8PSK
@@ -44,6 +52,37 @@ CW: BC B7 EB 5E 63 58 A3 5E
 ID: LIGA HYPERMOTION 1
 CW: AE 3A 4D 35 17 DF 2C 22
 ---FEED-SEPARATOR---
+vnraw said:
+			AsiaSat 5 100.5E
+3913 V 7119
+8PSK 2/3 DVB-S2
+4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+AD BC BB 93 19 A7 DE 91  #CW:
+21 67 46 CE 53 BF D2 E4
+   #[E] PID:07D1h
+Click to expand...
+7E 
+12677 - Vertical - 7120
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3904 V 7119
+8PSK 2/3 DVB-S2
+4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+CW: FD B3 56 06 76 A4 56 70
+  #[E] PID:07D1h
+---FEED-SEPARATOR---
+EFL: Ipswich Town vs West Bromwich Albion
+AsiaSat 5 100.5E
+3913 V 7119
+8PSK 2/3 DVB-S2
+4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+AD BC BB 93 19 A7 DE 91  #CW:
+21 67 46 CE 53 BF D2 E4
+   #[E] PID:07D1h
+---FEED-SEPARATOR---
 0.8°W
 11123 V 7200
 4:2:2
@@ -67,7 +106,7 @@ CW: EA 52 C0 FC BA 27 21 02
 Eutelsat 7A/7B/7C @ 7.0°E
 11000 - Horizontal - 4938- 4.2.0 
 Name : SNG 01 - Chain B 
-CW : D0 99 3E 94 12 89 08 A3 
+CW :BD 99 3E 94 12 89 08 A3 
 3X3 World Tour Abu Dhabi 2025
 ---FEED-SEPARATOR---
 42.0°E
@@ -99,6 +138,13 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: TUR112 BACKUP
 CW: D6 E9 36 F5 9E 52 AF 9F
+---FEED-SEPARATOR---
+ABC liga group A , Round 4 
+Split VS Napoca 
+Eutelsat 7A/7B/7C @ 7.0°E
+11460 - Vertical- 7200 - 4.2.0
+Name : MediaLink CRO-024/1
+CW : 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 A.ElSadek said:
 			Eutelsat 7A/7B/7C @ 7.0°E
