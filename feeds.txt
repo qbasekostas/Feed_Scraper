@@ -89,6 +89,14 @@ HD H264 4:2:2
 id: ITA 609 A
 BC 09 20 E5 25 25 10 5A
 ---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 1
+LaLiga
+Valencia CF - Villarreal CF
+CW: A7 7A C3 E4 CE 15 58 3B
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
 PMT PID: 3850, SID: 43 @ OVERON 1 (Servicios Audiovisuales Overon, S L)
@@ -300,6 +308,21 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: TUR112 BACKUP
 CW: D6 E9 36 F5 9E 52 AF 9F
+---FEED-SEPARATOR---
+Albahraniy said:
+			Turkish Basketball Super League, Round 5
+Manisa Basket vs Yukatel Merkezefendi Belediyesi Basket
+Eutelsat 7B/7C @ 7.0E
+12684 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:TUR139-Main
+CW: 6C 39 86 2B 67 65 55 21
+Click to expand...
+42E
+11589 V 7500
+4.2.2
+ID: TUR139-Main
 ---FEED-SEPARATOR---
 Turkish Basketball Super League, Round 5
 Manisa Basket vs Yukatel Merkezefendi Belediyesi Basket
