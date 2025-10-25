@@ -62,9 +62,11 @@ AD BC BB 93 19 A7 DE 91  #CW:
 21 67 46 CE 53 BF D2 E4
    #[E] PID:07D1h
 Click to expand...
-7E 
+7E
 12677 - Vertical - 7120
+EFL: Ipswich Town vs West Bromwich Albion
 ---FEED-SEPARATOR---
+EFL: Blackburn Rovers vs Southampton
 AsiaSat 5 100.5E
 3904 V 7119
 8PSK 2/3 DVB-S2
@@ -102,6 +104,22 @@ Live: Adobe Women's FA Cup
 Middlesbrough v Cheadle Town
 ​
 CW: EA 52 C0 FC BA 27 21 02
+---FEED-SEPARATOR---
+A.ElSadek said:
+FIFA U-17 Women’s World Cup Morocco 2025
+Eutelsat 7A/7B/7C @ 7.0°E
+11106 - Vertical - 7200- 4.2.0
+Name : MCR-004-main -HDPROT
+CW D7 20 AC A3 C9 1A 7B 5E
+Click to expand...
+11097 - Vertical - 7200- 4.2.0
+Name : MCR-005-main -HDPROT
+---FEED-SEPARATOR---
+FIFA U-17 Women’s World Cup Morocco 2025
+Eutelsat 7A/7B/7C @ 7.0°E
+11106 - Vertical - 7200- 4.2.0
+Name : MCR-004-main -HDPROT
+CW D7 20 AC A3 C9 1A 7B 5E
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11000 - Horizontal - 4938- 4.2.0 
