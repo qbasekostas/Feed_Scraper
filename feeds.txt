@@ -64,6 +64,12 @@ Middlesbrough v Cheadle Town
 ​
 CW: EA 52 C0 FC BA 27 21 02
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11000 - Horizontal - 4938- 4.2.0 
+Name : SNG 01 - Chain B 
+CW : D0 99 3E 94 12 89 08 A3 
+3X3 World Tour Abu Dhabi 2025
+---FEED-SEPARATOR---
 42.0°E
 11496 V 7500
 4:2:2
