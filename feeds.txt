@@ -1,4 +1,12 @@
 28.2e
+12590 v 7200
+id: D415feed1
+4:2:0
+3. liga
+Schweinfurt v Osnabrück
+CW: 25 10 AC E1 DC 00 06 E2
+---FEED-SEPARATOR---
+28.2e
 12572 v 7200
 id: D-437 (rt1.tv)
 4:2:0
@@ -228,3 +236,11 @@ Iraklis vs Niki Volou
 11007 V 7200
 ID: EuroLeague _M2Main
 FTA
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 8
+Kifisia vs 
+Panathinaikos
+Eutelsat 7A/7B/7C @ 7.0°E
+12685 - H - 7200 - 4.2.0
+ID: KIFISIA VS PANETOLIKOS
+CW: 54 D2 EB 11 4C 7D 56 1F
