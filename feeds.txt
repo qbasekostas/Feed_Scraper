@@ -82,6 +82,18 @@ ID: LIGA HYPERMOTION 1
 CW: AE 3A 4D 35 17 DF 2C 22
 ---FEED-SEPARATOR---
 vnraw said:
+			EFL: Blackburn Rovers vs Southampton
+8PSK 2/3 DVB-S2
+4.2.0
+CW: FD B3 56 06 76 A4 56 70
+  #[E] PID:07D1h
+Click to expand...
+7.0E
+12726 V 7120
+ID: EFL Blackburn v southampton
+CW: FD B3 56 06 76 A4 56 70
+---FEED-SEPARATOR---
+vnraw said:
 			AsiaSat 5 100.5E
 3913 V 7119
 8PSK 2/3 DVB-S2
