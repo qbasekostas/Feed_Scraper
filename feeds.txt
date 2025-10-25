@@ -1,3 +1,10 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3860 V 30000
+PMT PID: 2048, SID: 12 @ GVA_Fi04 (EUROVISION SA)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : F5 FA 52 41 D9 F4 D0 9D
+Borussia Dortmund vs. FC Cologne
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 8
 Borussia Dortmund vs. FC Cologne
 Eutelsat 7B/7C @ 7.0°E
@@ -281,6 +288,7 @@ CW: D6 E9 36 F5 9E 52 AF 9F
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11525 - H - 7500 - 4.2.0
+Reported as 4.2.2
 ID: TUR-119 Main
 CW: 16 5C EF 61 A1 58 58 51
 ---FEED-SEPARATOR---
