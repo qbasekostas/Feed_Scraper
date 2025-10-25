@@ -1,3 +1,25 @@
+German 1. Bundesliga - Week 8
+Borussia Dortmund vs. FC Cologne
+Eutelsat 7B/7C @ 7.0°E
+11069 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D-408 DO
+CW: 96 7A 55 65 82 E8 14 7E
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 8
+Borussia Dortmund vs. FC Cologne
+Eutelsat 7B/7C @ 7.0°E
+11018 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi05
+CW: CE F9 78 3F 03 30 F5 28
+---FEED-SEPARATOR---
 28.2e
 12590 v 7200
 id: D415feed1
