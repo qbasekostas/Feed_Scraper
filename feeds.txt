@@ -309,6 +309,14 @@ DVB-S2 - 1080P - 8PSK
 ID: TUR112 BACKUP
 CW: D6 E9 36 F5 9E 52 AF 9F
 ---FEED-SEPARATOR---
+7E
+11523 V 7200
+4.2.2
+ID: SELENIO 1
+Lega Basket Serie 
+Derthona - Trapani
+CW: A6 27 EC B9 6C CB 8C C3
+---FEED-SEPARATOR---
 Albahraniy said:
 			Turkish Basketball Super League, Round 5
 Manisa Basket vs Yukatel Merkezefendi Belediyesi Basket
