@@ -1,3 +1,12 @@
+Asiasat 5 (100.5°E) C BAND
+3860 V 30000
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:LEUK_Fi08
+Bundesliga
+Borussia Dortmund vs 1. FC Köln
+CW: 85 B9 A1 DF E4 CD 3F F0
+---FEED-SEPARATOR---
 Girona FC vs Real Oviedo 
 AsiaSat 5 100.5E
 3840 H 29998
