@@ -154,6 +154,14 @@ Middlesbrough v Cheadle Town
 ​
 CW: EA 52 C0 FC BA 27 21 02
 ---FEED-SEPARATOR---
+A.ElSadek said:
+FIFA U-17 Women’s World Cup Morocco 2025
+CW D7 20 AC A3 C9 1A 7B 5E
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11088 - V - 7200 - 4.2.0
+ID: M187-MRC007-Main
+---FEED-SEPARATOR---
 28.2°E
 12511 H 7200
 4:2:0
@@ -219,6 +227,11 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: TUR112 BACKUP
 CW: D6 E9 36 F5 9E 52 AF 9F
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11525 - H - 7500 - 4.2.0
+ID: TUR-119 Main
+CW: 16 5C EF 61 A1 58 58 51
 ---FEED-SEPARATOR---
 fusillo said:
 			42.0°E
