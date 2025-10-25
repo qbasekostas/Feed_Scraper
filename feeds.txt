@@ -81,6 +81,13 @@ HD H264 4:2:2
 id: ITA 609 A
 BC 09 20 E5 25 25 10 5A
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+PMT PID: 3850, SID: 43 @ OVERON 1 (Servicios Audiovisuales Overon, S L)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+9D 55 95 DF E6 AA AE 1D  #CW:A7 7A C3 E4 CE 15 58 3B   #[E] PID:0F0Bh
+Valencia vs Villarreal
+---FEED-SEPARATOR---
 FaDeL® said:
 			EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
