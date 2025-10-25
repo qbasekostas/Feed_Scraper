@@ -23,6 +23,27 @@ Bundesliga
 Borussia Dortmund vs 1. FC Köln
 CW: 85 B9 A1 DF E4 CD 3F F0
 ---FEED-SEPARATOR---
+ItalySerie B, Round 9
+Virtus Entella vs Pescara
+Eutelsat 7B/7C @ 7.0E
+11190 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:ITA 671 MAIN
+CW: BC 09 20 E5 25 25 10 5A
+---FEED-SEPARATOR---
+ITALIAN FOOTBALL 
+SERIE B
+ MD09
+Avellino 
+VS
+ Spezia
+EUT7E DVBS2 8psk 
+HD H264 4:2:2
+11.163 H 7500
+id: ITA 609 A
+BC 09 20 E5 25 25 10 5A
+---FEED-SEPARATOR---
 Girona FC vs Real Oviedo 
 AsiaSat 5 100.5E
 3840 H 29998
