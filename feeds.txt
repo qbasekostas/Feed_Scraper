@@ -1,4 +1,12 @@
 28.2e
+12572 v 7200
+id: D-437 (rt1.tv)
+4:2:0
+3. liga
+regensburg - stuttgart II
+CW: 25 10 AC E1 DC 00 04 E0
+---FEED-SEPARATOR---
+28.2e
 12580 v 7200
 id: D-473 (rt1.tv)
 4:2:0
