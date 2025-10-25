@@ -52,6 +52,27 @@ HD H264 4:2:2
 id: ITA 609 A
 BC 09 20 E5 25 25 10 5A
 ---FEED-SEPARATOR---
+FaDeL® said:
+			EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 2
+LaLiga
+ Athletic Bilbao vs Getafe
+CW: E2 F4 B6 8C ED F3 8E 6E
+Click to expand...
+Event:
+Athletic Bilbao vs Getafe
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 2
+CW: E2 F4 B6 8C ED F3 8E 6E
+Thanks !!!
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
