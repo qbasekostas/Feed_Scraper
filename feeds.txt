@@ -45,6 +45,16 @@ ID: LIGA HYPERMOTION 1
 CW: AE 3A 4D 35 17 DF 2C 22
 ---FEED-SEPARATOR---
 0.8°W
+11123 V 7200
+4:2:2
+ID: unnamed
+Live: Adobe Women's FA Cup
+​
+Middlesbrough v Cheadle Town
+​
+CW: EA 52 C0 FC BA 27 21 02
+---FEED-SEPARATOR---
+0.8°W
 11463 V 7200
 4:2:2
 ID: unnamed
@@ -53,6 +63,27 @@ Live: Adobe Women's FA Cup
 Middlesbrough v Cheadle Town
 ​
 CW: EA 52 C0 FC BA 27 21 02
+---FEED-SEPARATOR---
+42.0°E
+11496 V 7500
+4:2:2
+ID: TUR-161 Main
+CW: 1D E6 18 1B 35 E7 E9 05
+---FEED-SEPARATOR---
+Albahraniy said:
+			Turkish Basketball Super League, Round 5
+Bahçeşehir Koleji vs Esenler Erokspor
+Eutelsat 7B/7C @ 7.0E
+11508 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: TUR112 BACKUP
+CW: D6 E9 36 F5 9E 52 AF 9F
+Click to expand...
+Eutelsat 7B/7C @ 7.0E
+12686 H 7500
+TUR-161 Main
+CW: 1D E6 18 1B 35 E7 E9 05
 ---FEED-SEPARATOR---
 Turkish Basketball Super League, Round 5
 Bahçeşehir Koleji vs Esenler Erokspor
