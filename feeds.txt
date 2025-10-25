@@ -154,6 +154,13 @@ Middlesbrough v Cheadle Town
 ​
 CW: EA 52 C0 FC BA 27 21 02
 ---FEED-SEPARATOR---
+28.2°E
+12511 H 7200
+4:2:0
+ID: UKI-1646 England v Brazil
+CW: A2 24 BA 80 BC 15 24 F5
+Football Women
+---FEED-SEPARATOR---
 FIFA U-17 Women’s World Cup Morocco 2025
 Eutelsat 7A/7B/7C @ 7.0E
 11000 V 14402
