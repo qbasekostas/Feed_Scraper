@@ -112,6 +112,20 @@ LaLiga
 Real Madrid CF - FC Barcelona
 CW: 40 43 A1 24 F1 27 74 8C
 ---FEED-SEPARATOR---
+Albahraniy said:
+			Clásico: Real Madrid vs FC Barcelona
+Asiasat 5 (100.5°E) C BAND
+3913 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 1B
+CW: CA DA FA 9E EE 43 55 86
+Click to expand...
+55W INTELSAT 34 C 
+4121V10000
+ID: OVERON 1B H 60 
+DVB-S2 4.2.0 1080I 
+---FEED-SEPARATOR---
 La liga Clásico:
 Real Madrid vs FC Barcelona
 C_Eutelsat 10°E Cband
@@ -179,6 +193,14 @@ DVB-S2 - 1080P - 8PSK
 ID:LEUK_Fi03
 CW: 04 19 7D 9A F2 86 93 0B
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+10978 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: E -351  VIA 1
+About El Clásico: Real Madrid vs FC Barcelona
+CW: AC CA 12 88 3A BB AB A0
+---FEED-SEPARATOR---
 About El Clásico: Real Madrid vs FC Barcelona live
 Eutelsat 7A/7B/7C @ 7.0°E
 10986 - H - 7200 - 4.2.0
@@ -224,15 +246,6 @@ Eutelsat 10B @ 10.0E
 ID:   OVERON 3 (OVERON)
 1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
 CW: 77 03 1A 94 83 3D DD 9D
----FEED-SEPARATOR---
-Greece Stoiximan Super League, Round 8
-Panathinaikos vs Asteras Aktor
-Eutelsat 7B/7C @ 7.0E
-11162 H 7200
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID: PAO VS ASTERAS
-CW: B6 02 EC A4 C3 A0 FC 5F
 ---FEED-SEPARATOR---
 7E
 11523 V 7200 
