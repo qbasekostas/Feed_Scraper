@@ -1,3 +1,11 @@
+Bundesliga - Matchday 8
+Stuttgart vs Mainz
+7e
+11009 V 9875
+ID: GVA_Fi04
+4:2:2
+CW: 3C 1E 14 6E 76 5A A9 79
+---FEED-SEPARATOR---
 28.2e
 12623 h 7200
 id: D-167 (rt1.tv)
@@ -111,6 +119,14 @@ ID: SUPPONOR AFRICA 1
 LaLiga
 Real Madrid CF - FC Barcelona
 CW: 40 43 A1 24 F1 27 74 8C
+---FEED-SEPARATOR---
+Clásico: Real Madrid vs FC Barcelona
+Eutelsat 7B/7C @ 7.0E
+11022 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: LEUK_Fi01
+CW: AB 2F CF A9 91 88 7F 98
 ---FEED-SEPARATOR---
 Albahraniy said:
 			Clásico: Real Madrid vs FC Barcelona
