@@ -128,6 +128,54 @@ LaLiga
 Real Madrid CF - FC Barcelona
 CW: 40 43 A1 24 F1 27 74 8C
 ---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:LIGA HYPERMOTION 1
+LaLiga 2 
+Deportivo La Coruna vs Real Valladolid
+CW: 39 DB 51 65 80 82 8C 8E
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1B
+CW: 81 83 46 4A 70 A6 2D 43
+---FEED-SEPARATOR---
+changkhongocnghech said:
+			Event:
+ Osasuna vs Celta de Vigo
+CW: 99 97 8D BD B8 7A B6 E8
+Thanks !!!
+Click to expand...
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 2
+---FEED-SEPARATOR---
+changkhongocnghech said:
+			Event:
+ Rayo Vallecano vs Deportivo Alavés
+CW: 81 83 46 4A 70 A6 2D 43
+Thanks !!!
+Click to expand...
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 1
+---FEED-SEPARATOR---
+Event:
+ Rayo Vallecano vs Deportivo Alavés
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 1
+CW: 81 83 46 4A 70 A6 2D 43
+Thanks !!!
+---FEED-SEPARATOR---
 Event:
  Osasuna vs Celta de Vigo
 AsiaSat 5 - 100.5 E - CBand
@@ -161,14 +209,6 @@ Click to expand...
 4121V10000
 ID: OVERON 1B H 60 
 DVB-S2 4.2.0 1080I 
----FEED-SEPARATOR---
-La liga Clásico:
-Real Madrid vs FC Barcelona
-C_Eutelsat 10°E Cband
-3905 V 3750
-DVB-S2 - 1080P - 8PSK 4.2.0
-ID: La liga
-CW: A2 0B BA 67 19 23 25 61
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
