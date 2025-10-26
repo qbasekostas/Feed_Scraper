@@ -67,3 +67,12 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID:BT_SES_24_SDI (SES)
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12606 V  9600
+ID: POL 058 C_2
+Event:  
+Men's basketball: ORLEN Basket Liga - match: Anwil Włocławek - King Szczecin
+4.2.0
+- DVB-S2 - 8PSK 
+CW: 15 58 35 A2 71 42 63 16
