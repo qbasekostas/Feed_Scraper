@@ -112,6 +112,31 @@ LaLiga
 Real Madrid CF - FC Barcelona
 CW: 40 43 A1 24 F1 27 74 8C
 ---FEED-SEPARATOR---
+Event: Spain - LALIGA EA SPORTS Matchday 10
+#ElClásico
+Teams: Real Madrid vs FC Barcelona
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 17.15 CET
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2 / 
+SID: 45/2D
+1920x1080i |10,75Mb/Sec |8PSK| 
+4:2:2
+ HD
+CW: 55 32 7E 05 DE 93 35 A6
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 4 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2 / 
+SID: 46/2E
+1920x1080i |10,99Mb/Sec |8PSK| 
+4:2:2
+ HD
+CW: 64 FE E1 43 B7 7B 37 69
+---FEED-SEPARATOR---
 Clásico: Real Madrid vs FC Barcelona
 Asiasat 5 (100.5°E) C BAND
 3913 V 7500
