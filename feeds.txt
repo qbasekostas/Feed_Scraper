@@ -398,15 +398,7 @@ Paok vs Volos
 11180 H 7198
 Chroma subsampling: 4:2:0
 Id: TANDBERG
-CW:
-31
- 22 
-23
- 76 
-82
- BE 
-91
- D1
+CW: D9 B6 D5 64 5A 65 C8 87
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 8
 Panathinaikos vs Asteras Tripolis
