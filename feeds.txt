@@ -444,22 +444,6 @@ ID: TANDBERG
 FTA
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 8
-Olympiacos Piraeus vs AEK Athens FC
-Hellas Sat 3/4  39.0E
-11024 V 9698
-Chroma subsampling:4:2:0
-Id: SNG ABC 1
-CW:
-AA
- 22 
-BB
- 87 
-44
- CC 
-55
- 65
----FEED-SEPARATOR---
-Greek Super League 1 - Matchday 8
 Paok vs Volos
 7.0E
 11180 H 7198
