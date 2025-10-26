@@ -120,6 +120,18 @@ LaLiga
 Real Madrid CF - FC Barcelona
 CW: 40 43 A1 24 F1 27 74 8C
 ---FEED-SEPARATOR---
+Event:
+ Osasuna vs Celta de Vigo
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 2
+CW: 99 97 8D BD B8 7A B6 E8
+Thanks !!!
+---FEED-SEPARATOR---
 Clásico: Real Madrid vs FC Barcelona
 Eutelsat 7B/7C @ 7.0E
 11022 H 9875
