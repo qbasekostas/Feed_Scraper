@@ -230,6 +230,15 @@ DVB-S2 - 1080P - 8PSK
 ID:BT_SES_24_SDI (SES)
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+FIFA U-17 Women’s World Cup Morocco 2025
+Eutelsat 7B/7C @ 7.0E
+10963
+ V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: MRC008-Main
+CW: 22 4F 26 97 C0 0A 40 0A
+---FEED-SEPARATOR---
 ABA 
 KRK VS DUB
 Eutelsat 7A/7C (7.0°E)
@@ -277,3 +286,19 @@ Panionios vs Kalamata
 11025 V 7200
 ID: TANDBERG
 FTA
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 8
+Levadiakos vs Aris
+Hellas Sat 3/4 @ 39.0E
+11007 V 7198
+Chroma subsampling: 4:2:0
+Id: E394 MAIN
+CW:
+D8
+ 2F 
+E9
+ F0 
+4A
+ B3 
+3C
+ 39
