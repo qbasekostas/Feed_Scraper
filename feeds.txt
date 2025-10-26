@@ -97,6 +97,12 @@ LaLiga
 Real Madrid CF - FC Barcelona
 CW: 40 43 A1 24 F1 27 74 8C
 ---FEED-SEPARATOR---
+About El Clásico: Real Madrid vs FC Barcelona live
+Eutelsat 7A/7B/7C @ 7.0°E
+10986 - H - 7200 - 4.2.0
+ID: E336 G18 VIA 1
+CW: 42 23 1C 81 2C 06 09 3B
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
