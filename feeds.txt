@@ -68,6 +68,20 @@ DVB-S2 - 1080P - 8PSK
 ID:BT_SES_24_SDI (SES)
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+A.ElSadek said:
+			Eutelsat 7A/7C (7.0°E)
+11526 - Horizontal - 7500 - 4.2.2
+Name : TUR 112 MAIN
+CW : E3 72 20 75 E8 83 68 D3
+Click to expand...
+Turksat 3A/4A (42.0 E)
+11589 - Vertical - 7500
+---FEED-SEPARATOR---
+Eutelsat 7A/7C (7.0°E)
+11526 - Horizontal - 7500 - 4.2.2
+Name : TUR 112 MAIN
+CW : E3 72 20 75 E8 83 68 D3
+---FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12606 V  9600
 ID: POL 058 C_2
