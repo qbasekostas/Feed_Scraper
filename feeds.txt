@@ -6,6 +6,34 @@ id: D473
 Hoffenheim II v Erzgebirge Aue
 CW: 26 10 AC E2 DC 00 01 DD
 ---FEED-SEPARATOR---
+Spain, LaLiga
+Real Madrid
+ vs. 
+FC Barcelona
+​
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID: OVERON 1B (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+95 C0 97 26 6A 91 FC D5  
+CW: CA DA FA 9E EE 43 55 86
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:SUPPONOR EASTERN 1
+LaLiga
+Real Madrid vs Barcelona
+CW: 7E 8A CC D4 84 A6 51 7B
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: FEED HOLAND
+LaLiga
+Real Madrid vs Barcelona
+CW: 09 0C B0 C5 26 CA 80 70
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10768  Vertical  34010,27
 ID:  LIGA HYPERMOTION 2 (Overon
@@ -68,6 +96,38 @@ ID: SUPPONOR AFRICA 1
 LaLiga
 Real Madrid CF - FC Barcelona
 CW: 40 43 A1 24 F1 27 74 8C
+---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:  LIGA HYPERMOTION 2 (Overon
+1920x1080 |84,311Mb/Sec |8PSK |4:2:0 HD
+CW: 14 05 B4 CD CA 8F 9C F5
+Click to expand...
+LaLiga Hypermotion - Jornada 11
+Andorra
+ VS 
+Málaga
+---FEED-SEPARATOR---
+Spain, LaLiga
+Real Madrid
+ vs. 
+FC Barcelona
+​
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:   OVERON 3 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+CW: 77 03 1A 94 83 3D DD 9D
+---FEED-SEPARATOR---
+7E
+11606 V 7200 
+4:2:0
+DVB-S2 8PSK
+ID: GCUK Enc 9
+CW: C2 14 DC B2 DC BA 55 EB
+Scottish Premiership - Week 9
+Hearts v Celtic
 ---FEED-SEPARATOR---
 English Championship Highlights
 Eutelsat 7A/7B/7C @ 7.0°E
