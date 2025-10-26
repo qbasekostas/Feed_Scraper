@@ -1,3 +1,11 @@
+28.2e
+12589 v 7200
+id: D-361 Duisburg 3 Buli
+4:2:0
+3. liga
+Duisburg v Rot-Weiss Essen
+CW: 26 10 AC E2 DC 00 03 DF
+---FEED-SEPARATOR---
 Bundesliga - Matchday 8
 Stuttgart vs Mainz
 7e
@@ -327,6 +335,15 @@ DVB-S2 - 1080P - 8PSK
 ID: MRC008-Main
 CW: 22 4F 26 97 C0 0A 40 0A
 ---FEED-SEPARATOR---
+SpainLiga ACB, Round 4
+Real Madrid vs BAXI Manresa
+Eutelsat 7B/7C @ 7.0E
+11107 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Fi01_ACB
+CW: CA 5A 4F 73 37 B5 53 3F
+---FEED-SEPARATOR---
 ABA 
 KRK VS DUB
 Eutelsat 7A/7C (7.0°E)
@@ -374,6 +391,22 @@ Panionios vs Kalamata
 11025 V 7200
 ID: TANDBERG
 FTA
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 8
+Paok vs Volos
+7.0E
+11180 H 7198
+Chroma subsampling: 4:2:0
+Id: TANDBERG
+CW:
+31
+ 22 
+23
+ 76 
+82
+ BE 
+91
+ D1
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 8
 Panathinaikos vs Asteras Tripolis
