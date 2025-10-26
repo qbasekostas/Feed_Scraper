@@ -68,6 +68,13 @@ DVB-S2 - 1080P - 8PSK
 ID:BT_SES_24_SDI (SES)
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+36E
+11682 H 3600
+4.2.0
+ID: SNG 01 - Chain A
+FIBA 3x3 World Tour Abu Dhabi
+CW: 60 84 9F 83 15 27 D3 0F
+---FEED-SEPARATOR---
 A.ElSadek said:
 			Eutelsat 7A/7C (7.0°E)
 11526 - Horizontal - 7500 - 4.2.2
