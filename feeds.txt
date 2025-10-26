@@ -6,6 +6,12 @@ id: D473
 Hoffenheim II v Erzgebirge Aue
 CW: 26 10 AC E2 DC 00 01 DD
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:  LIGA HYPERMOTION 2 (Overon
+1920x1080 |84,311Mb/Sec |8PSK |4:2:0 HD
+CW: 14 05 B4 CD CA 8F 9C F5
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 10
 Real Madrid vs. Barcelona
 Eutelsat 10B @ 10.0°E
@@ -109,3 +115,10 @@ Men's basketball: ORLEN Basket Liga - match: Anwil Włocławek - King Szczecin
 4.2.0
 - DVB-S2 - 8PSK 
 CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+Greek Super League 2 - Matchday 7
+Panionios vs Kalamata
+39e
+11025 V 7200
+ID: TANDBERG
+FTA
