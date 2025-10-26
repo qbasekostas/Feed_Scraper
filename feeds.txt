@@ -1,10 +1,25 @@
 28.2e
+12623 h 7200
+id: D-167 (rt1.tv)
+4:2:0
+3. liga
+Viktoria Cologne v Hansa Rostock
+CW: 26 10 AC E2 DC 00 02 DE
+---FEED-SEPARATOR---
+28.2e
 12589 v 7200
 id: D473
 4:2:0
 3. liga
 Hoffenheim II v Erzgebirge Aue
 CW: 26 10 AC E2 DC 00 01 DD
+---FEED-SEPARATOR---
+7.0°E
+11164 V 7500
+4:2:0
+ID: ITA 491 PADOVA BKP
+CW: BC 09 20 E5 25 26 10 5B
+Serie BKT: Padova - Juve Stabia
 ---FEED-SEPARATOR---
 Spain, LaLiga
 Real Madrid
@@ -97,6 +112,22 @@ LaLiga
 Real Madrid CF - FC Barcelona
 CW: 40 43 A1 24 F1 27 74 8C
 ---FEED-SEPARATOR---
+Clásico: Real Madrid vs FC Barcelona
+Asiasat 5 (100.5°E) C BAND
+3913 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 1B
+CW: CA DA FA 9E EE 43 55 86
+---FEED-SEPARATOR---
+Clásico: Real Madrid vs FC Barcelona
+Eutelsat 7B/7C @ 7.0E
+11081 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:LEUK_Fi03
+CW: 04 19 7D 9A F2 86 93 0B
+---FEED-SEPARATOR---
 About El Clásico: Real Madrid vs FC Barcelona live
 Eutelsat 7A/7B/7C @ 7.0°E
 10986 - H - 7200 - 4.2.0
@@ -142,6 +173,15 @@ Eutelsat 10B @ 10.0E
 ID:   OVERON 3 (OVERON)
 1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
 CW: 77 03 1A 94 83 3D DD 9D
+---FEED-SEPARATOR---
+7E
+11523 V 7200 
+4:2:0
+DVB-S2 8PSK
+ID: GCUK Enc 5
+CW: AA 34 BE 9C B1 34 21 06
+Scottish Premiership - Week 9
+Aberdeen v Hibernian
 ---FEED-SEPARATOR---
 7E
 11606 V 7200 
