@@ -97,6 +97,23 @@ LaLiga
 Real Madrid CF - FC Barcelona
 CW: 40 43 A1 24 F1 27 74 8C
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2 / 
+SID: 43/2B
+1920x1080i |11,00Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 10 
+#ElClásico
+Teams: Real Madrid vs FC Barcelona
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 17.15 CET
+faisal6 said:
+CW: CA DA FA 9E EE 43 55 86
+Click to expand...
+---FEED-SEPARATOR---
 faisal6 said:
 Eutelsat 10B @ 10.0E
 10768  Vertical  34010,27
@@ -131,7 +148,7 @@ Hearts v Celtic
 ---FEED-SEPARATOR---
 English Championship Highlights
 Eutelsat 7A/7B/7C @ 7.0°E
-12676 - V - 7200 - 4.2.0
+12676 - V - 7120 - 4.2.0
 ID:  Pitch EFL Highlights
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
