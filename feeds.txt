@@ -1,3 +1,11 @@
+28.2e
+12589 v 7200
+id: D473
+4:2:0
+3. liga
+Hoffenheim II v Erzgebirge Aue
+CW: 26 10 AC E2 DC 00 01 DD
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 10
 Real Madrid vs. Barcelona
 Eutelsat 10B @ 10.0°E
