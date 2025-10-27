@@ -22,3 +22,12 @@ Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
 ID: SUPPONOR MENA 1
 CW: 24 5A E9 67 C5 3D 63 65
+---FEED-SEPARATOR---
+England League One, Round 14
+Port Vale vs Stockport County
+Asiasat 5 (100.5°E) C BAND
+3904 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_24_SDI
+CW: FE 33 34 65 68 99 42 43
