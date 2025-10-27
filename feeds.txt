@@ -33,6 +33,14 @@ ID:OVERON 1
 Real Betis Seville vs Atletico Madrid
 CW: 95 26 3E F9 E9 FF 37 1F
 ---FEED-SEPARATOR---
+10E
+10768 V 34000
+4.2.2
+ID: SUPPONOR RUSIA 1
+LaLiga
+Real Betis - Atlético de Madrid
+CW: 16 E3 A3 9C 61 73 58 2C
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
