@@ -33,6 +33,21 @@ ID:OVERON 1
 Real Betis Seville vs Atletico Madrid
 CW: 95 26 3E F9 E9 FF 37 1F
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,99Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 10
+Teams: Real Betis vs Atlético de Madrid
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 22.00 CET
+FaDeL® said:
+CW: 95 26 3E F9 E9 FF 37 1F
+Click to expand...
+---FEED-SEPARATOR---
 England League One, Round 14
 Port Vale vs Stockport County
 Asiasat 5 (100.5°E) C BAND
