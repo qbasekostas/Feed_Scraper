@@ -48,6 +48,20 @@ FaDeL® said:
 CW: 95 26 3E F9 E9 FF 37 1F
 Click to expand...
 ---FEED-SEPARATOR---
+Albahraniy said:
+			England League One, Round 14
+Port Vale vs Stockport County
+Asiasat 5 (100.5°E) C BAND
+3904 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_24_SDI
+CW: FE 33 34 65 68 99 42 43
+Click to expand...
+7.0E
+12727 - Vertical - 7120
+Name : Pitch - EFL Port Vale
+---FEED-SEPARATOR---
 England League One, Round 14
 Port Vale vs Stockport County
 Asiasat 5 (100.5°E) C BAND
