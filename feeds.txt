@@ -1,19 +1,29 @@
+Eutelsat 7A/7C (7.0°E)
+11665 - H - 7500
+Name : AFD
+CW : 12 95 41 E8 27 FE 91 B6
+Argentina Liga Profesional,  Round 12
+Barracas vs Boca Juniors
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
 ID: SUPPONOR MENA 1
+Real Betis Seville vs Atletico Madrid
 CW: 24 5A E9 67 C5 3D 63 65
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
 ID: SUPPONOR EASTERN 1
+Real Betis Seville vs Atletico Madrid
 CW: 36 3C D7 49 FA D0 66 30
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
 ID:SUPPONOR AFRICA 1
+Real Betis Seville vs Atletico Madrid
 CW: 40 D7 91 A8 FD A5 C7 69
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
