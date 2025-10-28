@@ -1,3 +1,13 @@
+28.2E
+12577 V 14400 
+4.2.2
+DVBS-2 8PSK
+ID: 
+ZDF DSNG2 D563 Zug A
+CW: 27 10 A1 D8 1E 20 FE 3C
+German Cup (DFB-Pokal) - Round 2
+Eintracht Frankfurt v Borussia Dortmund
+---FEED-SEPARATOR---
 47W SES14
 3766H7500
 ID: QUIREA 1
@@ -5,6 +15,14 @@ DVB S2 4.2.0 1080i
 FUTBOL COLOMBIA 
  SERIE B
 CW: AC 36 28 0A B7 00 F7 AE
+---FEED-SEPARATOR---
+International Friendly Games, Women
+Italy vs Brazil
+Eutelsat 7A/7B/7C @ 7.0°E
+10977 - H - 7200
+4:2:0
+ID: ITA-415 WIF - Italy vs Brazil MAIN
+FTA
 ---FEED-SEPARATOR---
 FIFA U-17 Women’s World Cup Morocco 2025
 Eutelsat 7B/7C @ 7.0E
@@ -23,6 +41,13 @@ Albahraniy said:
 			FIFA U-17 Women’s World Cup Morocco 2025
 CW: D8 61 B9 F2 C6 08 36 04
 Click to expand...
+---FEED-SEPARATOR---
+Basketball champions league - Games day 4 , Group D 
+BNEI HERZLIY VS TRAPANI SHARK 
+Eutelsat 7A/7C (7.0°E)
+11151 - Horizontal - 7200 - 4.2.0 
+Name : Live Brodcasting Line 1 
+CW : AD 48 AF A4 84 BA 27 65
 ---FEED-SEPARATOR---
 7E
 11070 H 7200
