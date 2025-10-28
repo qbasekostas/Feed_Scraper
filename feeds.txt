@@ -14,6 +14,16 @@ DVB-S2 - 1080P - 8PSK
 ID: MRC-004-main
 CW: D8 61 B9 F2 C6 08 36 04
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11087  V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:M187-MRC007-Main
+Albahraniy said:
+			FIFA U-17 Women’s World Cup Morocco 2025
+CW: D8 61 B9 F2 C6 08 36 04
+Click to expand...
+---FEED-SEPARATOR---
 Greece Cup, Main Round, Round 3
 OFI Crete vs POT Iraklis
 Eutelsat 7B/7C @ 7.0E
