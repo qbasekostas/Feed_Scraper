@@ -1,3 +1,19 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |12,57Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: CONMEBOL - Copa Sudamericana (2nd Leg Semi-final)
+Teams: Atlético Mineiro vs Independiente del Valle
+Time / Kickoff: 
+07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
+daao10 said:
+CW: F5 1A DC EB 5A F6 78 C8
+Click to expand...
+---FEED-SEPARATOR---
 47W SES14 C
 3928H10000
 ID: MIN VS IND PORT
