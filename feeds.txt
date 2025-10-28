@@ -100,26 +100,34 @@ Eutelsat 10B @ 10.0°E
 ID: G-10 E 272 VIA2
 CW: C1 34 11 06 5A 58 A1 53
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:12725 - V - 7121
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  Pitch - Grimsby v Brentford
+EFL Cup
+Grimsby vs Brentford
+CW: 13 13 BD E3 CD 24 22 13
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3933 H 7120
 PMT PID: 1001, SID: 1 @ BT_SES_20_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 AA 13 13 C5 D5 AF 11 40  #CW:13 13 BD E3 CD 24 22 13   #[E] PID:07D1h
-EFL Cup
+EFL Cup : Wrexham vs Cardiff
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3905 H 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 4A 87 FB 76 EA 52 4D F1  #CW:24 22 CD 13 DD 35 32 44   #[E] PID:07D1h
-EFL Cup
+EFL Cup : Grimsby vs Brentford
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3915 H 7120
 PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 7D 2A 88 5D FE AC F0 1D  #CW:23 42 CA 2F AD 35 43 25   #[E] PID:07D1h
-EFL Cup
+EFL Cup : Wycombe vs Fulham
 ---FEED-SEPARATOR---
 28.2E
 12590  V 7200 
@@ -129,6 +137,26 @@ ID: ITV Sport Wrexham v Cardiff City Sat DR
 CW: A2 24 BA 80 BC 15 24 F5
 English League Cup - Round of 16
 Wrexham v Cardiff City
+---FEED-SEPARATOR---
+28.2E
+12703 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+FRIENDLY INTERNATIONAL WOMEN
+Scotland W
+ vs 
+Switzerland W
+---FEED-SEPARATOR---
+28.2E
+12633 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+FRIENDLY INTERNATIONAL WOMEN
+Scotland W
+ vs 
+Switzerland W
 ---FEED-SEPARATOR---
 1W
 11464 V 7200 
@@ -155,6 +183,13 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: MRC-004-main
 CW: D8 61 B9 F2 C6 08 36 04
+---FEED-SEPARATOR---
+International Friendly Games, Women, Round 1
+England Australia
+Eutelsat 7A/7C (7.0°E)
+12704 - Vertical- 7120 - 4.2.0
+Name : Pitch - WNL England v Aust
+CW : 77 AC 9F C2 F2 28 10 2A
 ---FEED-SEPARATOR---
 UEFA Nations League Women
 Turkiye VS kosovo 
