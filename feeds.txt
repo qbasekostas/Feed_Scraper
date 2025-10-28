@@ -33,6 +33,26 @@ ID:SERIE A (IKOMG)
 CW: 85 62 F2 D9 92 E4 C0 36
 ---FEED-SEPARATOR---
 Spanish Cup - 1st Round
+Constància vs. Girona
+Eutelsat 10B @ 10.0°E
+10768 - V - 9600 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: G-10 E 272 VIA 1
+CW: 11 5A C1 2C 34 58 A1 2D
+---FEED-SEPARATOR---
+28.2E
+12521 H 9600 
+4.2.0
+DVBS-2 8PSK
+ID: M-56 VIA1
+CW: C1 34 11 06 5A 58 A1 53
+Spanish Cup (Copa del Rey) - 1st Round
+Ourense vs. Real Oviedo
+---FEED-SEPARATOR---
+Spanish Cup - 1st Round
 Ourense vs. Real Oviedo
 Eutelsat 10B @ 10.0°E
 10780 - V - 9600 
@@ -147,6 +167,15 @@ Eutelsat 7A/7C (7.0°E)
 11151 - Horizontal - 7200 - 4.2.0 
 Name : Live Brodcasting Line 1 
 CW : AD 48 AF A4 84 BA 27 65
+---FEED-SEPARATOR---
+EuroLeague
+Paris Basketball vs Anadolu Efes
+E
+utelsat 7A/7B/7C @ 7.0°E
+10960 - H - 7200
+4:2:0
+ID: F419_MAIN
+CW: 29 73 84 20 A6 F1 3F D6
 ---FEED-SEPARATOR---
 7E
 10969 H 7200
