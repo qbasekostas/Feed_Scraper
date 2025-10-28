@@ -16,6 +16,17 @@ FUTBOL COLOMBIA
  SERIE B
 CW: AC 36 28 0A B7 00 F7 AE
 ---FEED-SEPARATOR---
+ITALIAN FOOTBALL SERIE B MD10
+PESCARA vs AVELLINO
+EUT10E
+ DVBS2 8PSK 
+HD 422 H264
+11246 H 9600
+ ID ITA 727 ENC 1
+11258 H 9600
+ ID ITA 727 ENC 2
+BC 10 20 EC 25 28 10 5D
+---FEED-SEPARATOR---
 7.0°E
 11165 V 7500 DVB-S2 8PSK
 MPEG 4 - 4:2:0 - HDTV
@@ -31,6 +42,15 @@ Eutelsat 10.0E C-Band @ 10.0E
 ID:SERIE A (IKOMG)
 1920x1080 |9.080Mb/Sec 8PSK |4:2:0 HD
 CW: 85 62 F2 D9 92 E4 C0 36
+---FEED-SEPARATOR---
+28.2E
+12726 H 9600 
+4.2.0
+DVBS-2 8PSK
+ID: E386 FEED 1
+CW: A2 C7 54 BD 31 15 36 7C
+Spanish Cup (Copa del Rey) - 1st Round
+Negreira v Real Sociedad
 ---FEED-SEPARATOR---
 Spanish Cup - 1st Round
 Constància vs. Girona
@@ -63,6 +83,15 @@ Eutelsat 10B @ 10.0°E
 ID: G-10 E 272 VIA2
 CW: C1 34 11 06 5A 58 A1 53
 ---FEED-SEPARATOR---
+28.2E
+12590  V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: ITV Sport Wrexham v Cardiff City Sat DR
+CW: A2 24 BA 80 BC 15 24 F5
+English League Cup - Round of 16
+Wrexham v Cardiff City
+---FEED-SEPARATOR---
 1W
 11464 V 7200 
 4:2:0
@@ -88,6 +117,35 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: MRC-004-main
 CW: D8 61 B9 F2 C6 08 36 04
+---FEED-SEPARATOR---
+UEFA Nations League Women
+Sweden VS Spain
+E
+utelsat 7A/7B/7C @ 7.0°E
+12694 - V - 7120
+4:2:0
+ID: Pitch - WNL Sweden v Spain
+CW: AB CD DD 55 44 28 10 7C
+---FEED-SEPARATOR---
+Albahraniy said:
+			FIFA U-17 Women’s World Cup Morocco 2025
+CW: D8 61 B9 F2 C6 08 36 04
+Click to expand...
+E
+utelsat 7A/7B/7C @ 7.0°E
+11097 - V - 7200
+4:2:0
+ID: MRC003/Mu17M
+---FEED-SEPARATOR---
+Albahraniy said:
+			FIFA U-17 Women’s World Cup Morocco 2025
+CW: D8 61 B9 F2 C6 08 36 04
+Click to expand...
+E
+utelsat 7A/7B/7C @ 7.0°E
+11079 - V - 7200
+4:2:0
+ID: MRCOO5 MAIN
 ---FEED-SEPARATOR---
 UEFA Nations League Women
 Sweden VS Spain
@@ -137,14 +195,6 @@ Albahraniy said:
 CW: D8 61 B9 F2 C6 08 36 04
 Click to expand...
 ---FEED-SEPARATOR---
-16E
-10977 H 7200
-4.2.0
-ID: Fal7 Enc1
-Basketball Champions League
-Alba Berlin - Nymburk
-CW: 20 25 AE F3 EA 52 02 3E
----FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11692 - H - 7200
 MPEG 4 - 4:2:0 - DVB-S2
@@ -161,12 +211,37 @@ Eutelsat 7A/7C (7.0°E)
 Name : TUR-M25-A
 CW : BB 75 AF DF 13 BE 08 D9
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+10986 - H - 7200
+4:2:0
+ID: GVA_Fi03_IMG_ES11
+BASKETBALL 
+EuroLeague
+ Crvena zvezda v Lyon-Villeurbanne
+CW: B9 DB B8 4C 3B A4 DF BE
+---FEED-SEPARATOR---
 Basketball champions league - Games day 4 , Group D 
 BNEI HERZLIY VS TRAPANI SHARK 
 Eutelsat 7A/7C (7.0°E)
 11151 - Horizontal - 7200 - 4.2.0 
 Name : Live Brodcasting Line 1 
 CW : AD 48 AF A4 84 BA 27 65
+---FEED-SEPARATOR---
+7E
+11022 H 7200
+4.2.0
+ID: BB EC Hamburg-Cluj
+EuroCup Basketball
+Hamburg - U-Banca Transilnania
+CW: BB EE 28 D1 10 20 25 55
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12610 V 7200
+4:2:0
+ID: BB EL Berlin
+Basketball Champions League: 
+ Alba vs Nymburk
+CW: FF 38 EE 25 11 AA 23 DE
 ---FEED-SEPARATOR---
 EuroLeague
 Paris Basketball vs Anadolu Efes
@@ -202,6 +277,21 @@ Kuwait SC
 -
 AlUla
 CW: 20 25 20 65 25 20 25 6A
+---FEED-SEPARATOR---
+16E
+10977 H 7200
+4.2.0
+ID: Fal7 Enc1
+Basketball Champions League
+Alba Berlin - Nymburk
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Greek Football Cup
+AE Kifisia VS Athens Kallithea FC
+Eutelsat 7B/7C @ 7.0E
+12654 V 9600 - 4.2.2
+name : AVP_OU_B
+CW: BB 11 21 ED AB AB 22 78
 ---FEED-SEPARATOR---
 Greek Cup
 League phase - Matchday 3
