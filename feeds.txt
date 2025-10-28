@@ -24,6 +24,14 @@ Albahraniy said:
 CW: D8 61 B9 F2 C6 08 36 04
 Click to expand...
 ---FEED-SEPARATOR---
+7E
+11070 H 7200
+4.2.0
+ID: IMG A EU
+EuroLeague
+Event Later......
+CW: F3 78 8D F8 A9 40 53 3C
+---FEED-SEPARATOR---
 Greece Cup, Main Round, Round 3
 OFI Crete vs POT Iraklis
 Eutelsat 7B/7C @ 7.0E
