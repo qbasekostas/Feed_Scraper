@@ -43,6 +43,45 @@ ID:SERIE A (IKOMG)
 1920x1080 |9.080Mb/Sec 8PSK |4:2:0 HD
 CW: 85 62 F2 D9 92 E4 C0 36
 ---FEED-SEPARATOR---
+10E
+10744 V 9600
+4.2.0
+ID: E115 G65 VIA 2
+Copa del Rey
+SD Negreira - Real Sociedad
+CW: A2 C7 54 BD 31 15 36 7C
+---FEED-SEPARATOR---
+10E
+10755 V 9600
+4.2.0
+ID: E115 G65 VIA 1
+Copa del Rey
+CW: 21 4C 1A 87 23 C1 A2 86
+---FEED-SEPARATOR---
+Ses 14 47w
+3895 H 9875
+CW.54 C1 23 38 A1 64 1A 1F  
+ID.GVA_Fi04
+4.2.0
+Maracena vs  Valência
+---FEED-SEPARATOR---
+Dani Sat said:
+Spanish Cup - 1st Round
+Constància vs. Girona
+Eutelsat 10B @ 10.0°E
+10768 - V - 9600 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: G-10 E 272 VIA 1
+CW: 11 5A C1 2C 34 58 A1 2D
+Click to expand...
+47W SES14 C 
+3871H9873
+ID: LEUK_FI01
+DVB-S2 4.2.0 1080I
+---FEED-SEPARATOR---
 28.2E
 12638 H 9600 
 4.2.0
