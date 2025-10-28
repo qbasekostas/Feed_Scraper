@@ -42,6 +42,23 @@ DVB-S2 - 1080P - 8PSK
 ID: MRC-004-main
 CW: D8 61 B9 F2 C6 08 36 04
 ---FEED-SEPARATOR---
+International Friendly Games, Women, 
+Netherlands vs Canada 
+Eutelsat 7B/7C @ 7.0E
+11163 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:HOL-110 ENC-1
+CW: AA A0 00 4A BB B9 99 0D
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12545 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:FEM FRA VS GER
+Nations League Semi Finals (Womens) - France vs Germany
+CW: AF FC 28 D3 10 ED FF FC
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 11087  V 7200
 DVB-S2 - 1080P - 8PSK
@@ -51,6 +68,22 @@ Albahraniy said:
 			FIFA U-17 Women’s World Cup Morocco 2025
 CW: D8 61 B9 F2 C6 08 36 04
 Click to expand...
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11692 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  E73 MAIN
+Eurocup
+Panionios VS Dolomiti Energia 
+CW: E5 2A DD EC 91 F8 2C B5
+---FEED-SEPARATOR---
+Champions League, Group D, Round 3
+Tofaş Bursa VS La Laguna Tenerife
+Eutelsat 7A/7C (7.0°E)
+11144 - Horizontal - 7200 - 
+4.2.2
+Name : TUR-M25-A
+CW : BB 75 AF DF 13 BE 08 D9
 ---FEED-SEPARATOR---
 Basketball champions league - Games day 4 , Group D 
 BNEI HERZLIY VS TRAPANI SHARK 
@@ -66,6 +99,24 @@ ID: IMG A EU
 EuroLeague
 Event Later......
 CW: F3 78 8D F8 A9 40 53 3C
+---FEED-SEPARATOR---
+16E
+10977 H 7200
+4.2.0
+ID: Fal7 Enc1
+Basketball Champions League
+Alba Berlin - Nymburk
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Greek Cup
+League phase - Matchday 3
+Panetolikos vs Ellas Syrou
+Eutelsat 7B/7C @ 7.0E
+12539 V 9600
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: SNG ABC 1
+CW: 55 88 BB 98 AA 43 21 0E
 ---FEED-SEPARATOR---
 Greece Cup, Main Round, Round 3
 OFI Crete vs POT Iraklis
