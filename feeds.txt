@@ -16,6 +16,16 @@ FUTBOL COLOMBIA
  SERIE B
 CW: AC 36 28 0A B7 00 F7 AE
 ---FEED-SEPARATOR---
+1W
+11464 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID SLQ -005
+FRIENDLY INTERNATIONAL WOMEN
+Slovakia W
+ vs 
+Hungary W
+---FEED-SEPARATOR---
 International Friendly Games, Women
 Italy vs Brazil
 Eutelsat 7A/7B/7C @ 7.0°E
