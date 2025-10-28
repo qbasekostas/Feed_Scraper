@@ -204,6 +204,16 @@ ID:  Pitch - Grimsby v Brentford
 EFL Cup
 Grimsby vs Brentford
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12726 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Pitch - Grimsby v Brentford
+HBO said:
+CW: 24 22 CD 13 DD 35 32 44
+EFL Cup : Grimsby vs Brentford
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:12684 - V - 7121
 MPEG 4 - 4:2:0 - DVB-S2
@@ -302,6 +312,16 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: ITA-415 WIF - Italy vs Brazil MAIN
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11087  V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:M187-MRC007-Main
+Albahraniy said:
+			FIFA U-17 Women’s World Cup Morocco 2025
+CW: D8 61 B9 F2 C6 08 36 04
+Click to expand...
+---FEED-SEPARATOR---
 FIFA U-17 Women’s World Cup Morocco 2025
 Eutelsat 7B/7C @ 7.0E
 11105 V 7200
@@ -309,6 +329,20 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: MRC-004-main
 CW: D8 61 B9 F2 C6 08 36 04
+---FEED-SEPARATOR---
+UEFA Nations League Women
+France VS Germany
+Eutelsat 16A (16.0°E)
+12545 - Horizontal - 7200 - 4.2.0
+Name : RIVATIF M6 FEM FRANCE VS
+CW : AB CF 28 A2 10 FD EA F7
+---FEED-SEPARATOR---
+Ferari3000 said:
+			Wrong Key
+11609 H 7120
+Click to expand...
+CW : 1A 9B E6 9B BA 6D A1 C
+8
 ---FEED-SEPARATOR---
 A.ElSadek said:
 International Friendly Games, Women, Round 1
@@ -408,16 +442,6 @@ DVB-S2 - 1080P - 8PSK
 ID:FEM FRA VS GER
 Nations League Semi Finals (Womens) - France vs Germany
 CW: AF FC 28 D3 10 ED FF FC
----FEED-SEPARATOR---
-Eutelsat 7B/7C @ 7.0E
-11087  V 7200
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID:M187-MRC007-Main
-Albahraniy said:
-			FIFA U-17 Women’s World Cup Morocco 2025
-CW: D8 61 B9 F2 C6 08 36 04
-Click to expand...
 ---FEED-SEPARATOR---
 16E
 12548 H 7200
