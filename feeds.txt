@@ -42,6 +42,13 @@ DVB-S2 - 1080P - 8PSK
 ID: MRC-004-main
 CW: D8 61 B9 F2 C6 08 36 04
 ---FEED-SEPARATOR---
+Eutelsat 7A/7C (7.0°E)
+11188- Horizontal - 9875- 
+4.2.0
+Name : Service 1
+CW : 28 10 FE 36 ED 20 25 32
+Austria W - Czech Republic W ( Generali Arena - Austria Vienna) UEFA Nations League Women - League A/B - Relegation
+---FEED-SEPARATOR---
 International Friendly Games, Women, 
 Netherlands vs Canada 
 Eutelsat 7B/7C @ 7.0E
@@ -69,6 +76,14 @@ Albahraniy said:
 CW: D8 61 B9 F2 C6 08 36 04
 Click to expand...
 ---FEED-SEPARATOR---
+16E
+10977 H 7200
+4.2.0
+ID: Fal7 Enc1
+Basketball Champions League
+Alba Berlin - Nymburk
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11692 - H - 7200
 MPEG 4 - 4:2:0 - DVB-S2
@@ -92,21 +107,15 @@ Eutelsat 7A/7C (7.0°E)
 Name : Live Brodcasting Line 1 
 CW : AD 48 AF A4 84 BA 27 65
 ---FEED-SEPARATOR---
-7E
-11070 H 7200
+21.6E
+11579 H 5000
 4.2.0
-ID: IMG A EU
-EuroLeague
-Event Later......
-CW: F3 78 8D F8 A9 40 53 3C
----FEED-SEPARATOR---
-16E
-10977 H 7200
-4.2.0
-ID: Fal7 Enc1
-Basketball Champions League
-Alba Berlin - Nymburk
-CW: 20 25 AE F3 EA 52 02 3E
+ID: KYW-00B
+WASL - Gulf League
+Kuwait SC
+-
+AlUla
+CW: 20 25 20 65 25 20 25 6A
 ---FEED-SEPARATOR---
 Greek Cup
 League phase - Matchday 3
