@@ -1,3 +1,15 @@
+MAXED007 said:
+#CW : AB CD EF 67 12 34 56 9C
+Click to expand...
+German Cup (DFB-Pokal) - Round 2
+FC Cologne v Bayern Munich
+ST: 20:45
+03°E C-BAND
+TP:3798 V/H 3750
+ID: DFB-1FC KOLN v Bayern
+DVB S2 1080i 
+4.2.0
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3860 V 30000
 PMT PID: 2048, SID: 11 @ LEUK_Fi08 (EUROVISION SA)
@@ -113,13 +125,6 @@ CW: 12 C7 15 EE 36 54 31 BB
 Spanish Cup (Copa del Rey) - 1st Round
 Los Garres v Elche
 ---FEED-SEPARATOR---
-7E
-11180 H 7200
-4.2.0
-ID: E-073 - M02 - MAIN
-Copa del Rey
-CW: BC 20 25 01 10 29 CB 04
----FEED-SEPARATOR---
 28.2E
 12611 V  9600 
 4.2.0
@@ -129,8 +134,42 @@ CW: A2 C7 54 BD 31 15 36 7C
 Spanish Cup (Copa del Rey) - 1st Round
 Sant Just v Mallorca
 ---FEED-SEPARATOR---
+7.0E
+12704 V 7120 DVB-S2 8PSK
+ID: Carabao Cup R4 - Wolves
+FTA
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3925 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_10_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 23 24 BB 02 CD 22 42 31
+EFL Cup : Newcastle United vs. Tottenham Hotspur
+---FEED-SEPARATOR---
 English League Cup - Round of 16
-: 
+Newcastle United vs. Tottenham Hotspur
+Eutelsat 7B/7C @ 7.0°E
+12727 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Carabao Cup R4 - Newcastle
+CW: 23 24 BB 02 CD 22 42 31
+---FEED-SEPARATOR---
+English League Cup - Round of 16
+Swansea City vs. Manchester City
+Eutelsat 7B/7C @ 7.0°E
+12695 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Carabao Cup R4 - Swansea v
+CW: 13 44 DD 34 CC 35 42 43
+---FEED-SEPARATOR---
+English League Cup - Round of 16
+Liverpool vs. Crystal Palace
 Eutelsat 7B/7C @ 7.0°E
 12686- V - 7120 
 |
@@ -141,15 +180,14 @@ ID: Carabao Cup R4 - Liverpool
 CW: 13 24 CD 04 DB 23 42 40
 ---FEED-SEPARATOR---
 English League Cup - Round of 16
-: 
+Arsenal vs. Brighton H.A
 Eutelsat 7B/7C @ 7.0°E
 12677 - V - 7120 
 |
 4:2:0
  | H.264
 1920*1080 | DVB-S2 | 8PSK
-ID
-itch Carabao Cup R4 - Arsenal
+ID: Pitch Carabao Cup R4 - Arsenal
 CW: 14 31 AA EF AA 22 14 E0
 ---FEED-SEPARATOR---
 English League Cup - Round of 16
