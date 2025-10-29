@@ -60,7 +60,7 @@ CW: D9 D4 EF 9C 92 81 34 47
 ID: Unname
 EuroCup Basketball
 Lions - Turk Telekom
-CW: 27 50 76 ED 12 61 38 AB
+CW: 27 50 76 ED 12 61 3B AE
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 12610 V 7200
@@ -126,20 +126,9 @@ Egaleo vs Aris
 ID: SNG ATLAS-SAT 1
 CW: 55 22 BB 32 CC 12 34 12
 ---FEED-SEPARATOR---
-Gevs999 said:
-			key not working
-Click to expand...
-CW: AA 11 21 DC AB AB 22 78
----FEED-SEPARATOR---
-A.ElSadek said:
-			Eutelsat 16A (16.0°E)
-11062 - Horizontal - 9700- 4.2.2
-Name : AVP_OU_B
-CW : 55 AA 55 54 44 BB 77 76
-Click to expand...
-key not working
----FEED-SEPARATOR---
 Eutelsat 16A (16.0°E)
 11062 - Horizontal - 9700- 4.2.2
 Name : AVP_OU_B
-CW : 55 AA 55 54 44 BB 77 76
+Greece Cup, Main Round, Round 3 Olympiacos FC vs NPS Volos 
+KEY NOW CW : 
+AA 11 21 DC AB AB 22 78
