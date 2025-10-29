@@ -38,23 +38,19 @@ ID: M187-MRC007-BU / MRC-004 main
 FIFA U-17 Women’s World Cup Morocco 2025
 CW: D9 D4 EF 9C 92 81 34 47
 ---FEED-SEPARATOR---
+E
+utelsat 7A/7B/7C @ 7.0°E
+12632 - V - 4938
+4:2:0
+ID: YSM-012 Main
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Greek Football Cup
 ILOUPOLI FC VS AEK 
 Eutelsat 7B/7C @ 7.0E
 12650 - Vertical - 9700 - 4.2.0
 Name  : TANDBERG
 CW : CC BB 12 99 34 AA BB 99
----FEED-SEPARATOR---
-SlippyGes said:
-Greek Cup
-League phase - Matchday 3
-Egaleo vs Aris
-16e
-12542 V 9700
-ID: SNG ATLAS-SAT 1
-CW: 55 22 BB 32 CC 12 34 12
-Click to expand...
-Eutelsat7E
 ---FEED-SEPARATOR---
 Greek Cup
 League phase - Matchday 3
