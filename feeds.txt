@@ -1,8 +1,0 @@
-BKT - EuroCup
-BAXI Manresa vs Bahcesehir
-E
-utelsat 7A/7B/7C @ 7.0°E
-11088 - V - 7200
-4:2:0
-ID: G-10 E 272 VIA2
-CW: 13 11 AA CE CC 20 23 0F
