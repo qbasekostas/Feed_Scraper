@@ -52,6 +52,13 @@ Spain U17 W - France U17 W
 CW: D9 D4 EF 9C 92 81 34 47
 ---FEED-SEPARATOR---
 Eutelsat 7A/7C (7.0°E)
+12595- Vertical - 9600 - 4.2.0
+Name : Polsat SPORT
+CW : 55 F8 87 D4 B2 2A 33 0F
+Eurocup, Group A, Round 5
+Śląsk VS Venezia
+---FEED-SEPARATOR---
+Eutelsat 7A/7C (7.0°E)
 12677 - Vertical - 7200 - 4.2.0
 Name : E363 M - media pro turki 
 CW : 4E 5B 29 D2 6D D4 6A AB
