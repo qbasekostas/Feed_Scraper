@@ -125,6 +125,20 @@ CW: 12 C7 15 EE 36 54 31 BB
 Spanish Cup (Copa del Rey) - 1st Round
 Los Garres v Elche
 ---FEED-SEPARATOR---
+10E
+10755 V 9600
+4.2.0
+ID: E115 G65 VIA 2
+Copa del Rey
+CW: 21 4C 1A 87 73 C1 A7 DB
+---FEED-SEPARATOR---
+10E
+10743 V 9600
+4.2.0
+ID: E115 G65 VIA 1
+Copa del Rey
+CW: 44 23 A2 09 13 23 32 68
+---FEED-SEPARATOR---
 28.2E
 12611 V  9600 
 4.2.0
@@ -345,6 +359,14 @@ Egaleo vs Aris
 12542 V 9700
 ID: SNG ATLAS-SAT 1
 CW: 55 22 BB 32 CC 12 34 12
+---FEED-SEPARATOR---
+16E
+11097 H 9700
+4.2.0
+ID: BAV
+Greek Football Cup
+Atromitos F.C. - Panathinaikos F.C.
+CW: CC 44 BB CB 55 AA 21 20
 ---FEED-SEPARATOR---
 Eutelsat 16A (16.0°E)
 11062 - Horizontal - 9700- 4.2.2
