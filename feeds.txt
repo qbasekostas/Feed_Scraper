@@ -54,6 +54,22 @@ Mexico U17 W - Paraguay U17 W
 Spain U17 W - France U17 W
 CW: D9 D4 EF 9C 92 81 34 47
 ---FEED-SEPARATOR---
+7E
+11171 H 7200
+4.2.0
+ID: Unname
+EuroCup Basketball
+Lions - Turk Telekom
+CW: 27 50 76 ED 12 61 38 AB
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12610 V 7200
+4:2:0
+ID: BCL251008
+Basketball Champions League: 
+Szolnoki Olaj vs Vef Riga
+CW: DD 00 EB C8 43 AE 46 37
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0E)
 11003 - Vertical - 4938- 4.2.0
 Name : YSM-02 M 
@@ -61,7 +77,7 @@ CW : AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10848 V 7200
-4:2:2
+4:2:0
 ID: TUR 143 M
 Basketball Champions League: 
 Mersin BSB vs Syllogos Karditsas
@@ -109,3 +125,21 @@ Egaleo vs Aris
 12542 V 9700
 ID: SNG ATLAS-SAT 1
 CW: 55 22 BB 32 CC 12 34 12
+---FEED-SEPARATOR---
+Gevs999 said:
+			key not working
+Click to expand...
+CW: AA 11 21 DC AB AB 22 78
+---FEED-SEPARATOR---
+A.ElSadek said:
+			Eutelsat 16A (16.0°E)
+11062 - Horizontal - 9700- 4.2.2
+Name : AVP_OU_B
+CW : 55 AA 55 54 44 BB 77 76
+Click to expand...
+key not working
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0°E)
+11062 - Horizontal - 9700- 4.2.2
+Name : AVP_OU_B
+CW : 55 AA 55 54 44 BB 77 76
