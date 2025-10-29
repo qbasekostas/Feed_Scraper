@@ -1,3 +1,10 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3860 V 30000
+PMT PID: 2048, SID: 11 @ LEUK_Fi08 (EUROVISION SA)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : C1 9C 91 EE C2 9E 5C BC
+DFB-Pokal :  Fortuna vs Freiburg
+---FEED-SEPARATOR---
 German Cup (DFB-Pokal) - Round 2
 Paderborn v Bayer Leverkusen
 ST: 18:00
@@ -106,6 +113,45 @@ CW: 12 C7 15 EE 36 54 31 BB
 Spanish Cup (Copa del Rey) - 1st Round
 Los Garres v Elche
 ---FEED-SEPARATOR---
+7E
+11180 H 7200
+4.2.0
+ID: E-073 - M02 - MAIN
+Copa del Rey
+CW: BC 20 25 01 10 29 CB 04
+---FEED-SEPARATOR---
+28.2E
+12611 V  9600 
+4.2.0
+DVBS-2 8PSK
+ID: E380 Main via 1
+CW: A2 C7 54 BD 31 15 36 7C
+Spanish Cup (Copa del Rey) - 1st Round
+Sant Just v Mallorca
+---FEED-SEPARATOR---
+English League Cup - Round of 16
+: 
+Eutelsat 7B/7C @ 7.0°E
+12686- V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Carabao Cup R4 - Liverpool
+CW: 13 24 CD 04 DB 23 42 40
+---FEED-SEPARATOR---
+English League Cup - Round of 16
+: 
+Eutelsat 7B/7C @ 7.0°E
+12677 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID
+itch Carabao Cup R4 - Arsenal
+CW: 14 31 AA EF AA 22 14 E0
+---FEED-SEPARATOR---
 English League Cup - Round of 16
 Newcastle United vs. Tottenham Hotspur
 Intelsat 10-02 @ 1.0°W
@@ -122,28 +168,28 @@ TP : 3905 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_18_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 C2 61 9A 56 90 BD 61 75  #CW:35 42 DA 51 AC 23 54 23   #[E] PID:07D1h
-EFL Cup :
+EFL Cup : Wolves vs Chelsea
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3933 H 7120
 PMT PID: 1001, SID: 1 @ BT_SES_20_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 B0 CD 68 BE 52 93 56 40 CW :13 44 DD 34 CC 35 42 43  #[E] PID:07D1h
-EFL Cup :
+EFL Cup : Swansea vs Manchester City
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3915 H 7120
 PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 05 4A 6F F7 33 E8 9D 06  #CW:13 24 CD 04 DB 23 42 40   #[E] PID:07D1h
-EFL Cup :
+EFL Cup : Liverpool vs Crystal Palace
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3905 H 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 BA 10 46 29 3B 0E 39 56  #CW:14 31 AA EF AA 22 14 E0   #[E] PID:07D1h
-EFL Cup :
+EFL Cup : Arsenal vs Brighton
 ---FEED-SEPARATOR---
 omid1348 said:
 			FIFA U-17 Women’s World Cup Morocco 2025
