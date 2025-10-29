@@ -30,6 +30,17 @@ CONMEBOL COPA SUDAMERICANA
 ATLETICO MINEIRO VS IINDEPENDIENTE 
 CW: F51ADCEB5AF678C8
 ---FEED-SEPARATOR---
+omid1348 said:
+			FIFA U-17 Women’s World Cup Morocco 2025
+Mexico U17 W - Paraguay U17 W
+Spain U17 W - France U17 W
+Click to expand...
+Eutelsat 7A/7C (7.0°E)
+11667 - Horizontal - 14400 - 4.2.2
+Name : MRC008-Main 
+CW : 
+22 4F 26 95 C0 0A 40 0A
+---FEED-SEPARATOR---
 7E
 11088 V 7200
 11106 V 7200
@@ -39,6 +50,13 @@ FIFA U-17 Women’s World Cup Morocco 2025
 Mexico U17 W - Paraguay U17 W
 Spain U17 W - France U17 W
 CW: D9 D4 EF 9C 92 81 34 47
+---FEED-SEPARATOR---
+Eutelsat 7A/7C (7.0°E)
+12677 - Vertical - 7200 - 4.2.0
+Name : E363 M - media pro turki 
+CW : 4E 5B 29 D2 6D D4 6A AB
+Besiktas VS JL Bourg
+ Eurocup, Group B, Round 5
 ---FEED-SEPARATOR---
 E
 utelsat 7A/7B/7C @ 7.0°E
