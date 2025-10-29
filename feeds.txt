@@ -1,3 +1,13 @@
+German Cup (DFB-Pokal) - Round 2
+Paderborn v Bayer Leverkusen
+ST: 18:00
+03°E C-BAND
+TP:3794 V/H 3750
+ID: DFB-SC Paderborn v Bayer L
+DVB S2 1080i 
+4.2.0
+#CW : AB CD EF 67 12 34 56 9C
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OCC 1 
@@ -29,6 +39,30 @@ DVB-S2 4.2.2 1080I
 CONMEBOL COPA SUDAMERICANA 
 ATLETICO MINEIRO VS IINDEPENDIENTE 
 CW: F51ADCEB5AF678C8
+---FEED-SEPARATOR---
+MAXED007 said:
+Spanish Cup (Copa del Rey) - 1st Round
+Sant Just v Mallorca
+47°W C-BAND
+TP: 3883 V 9874
+ID:LEUK_Fi02
+DVB S2 1080i 
+4.2.0
+#CW : A2 C7 54 BD 31 15 36 7C
+Click to expand...
+7E
+12540 V 9600
+4:2:0
+ID: G-10 E 272 VIA 1 (G-10 VIA 1)
+---FEED-SEPARATOR---
+Spanish Cup (Copa del Rey) - 1st Round
+Sant Just v Mallorca
+47°W C-BAND
+TP: 3883 V 9874
+ID:LEUK_Fi02
+DVB S2 1080i 
+4.2.0
+#CW : A2 C7 54 BD 31 15 36 7C
 ---FEED-SEPARATOR---
 7e
 11692 H 7200
@@ -71,6 +105,17 @@ ID: E-351 VIA 1
 CW: 12 C7 15 EE 36 54 31 BB
 Spanish Cup (Copa del Rey) - 1st Round
 Los Garres v Elche
+---FEED-SEPARATOR---
+English League Cup - Round of 16
+Newcastle United vs. Tottenham Hotspur
+Intelsat 10-02 @ 1.0°W
+11463 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UKI-1646 Newcastle v Spurs
+CW: A5 24 1A E3 BC 1D 24 FD
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3905 V 7120
