@@ -36,6 +36,8 @@ CW: F51ADCEB5AF678C8
 4.2.0
 ID: M187-MRC007-BU / MRC-004 main
 FIFA U-17 Women’s World Cup Morocco 2025
+Mexico U17 W - Paraguay U17 W
+Spain U17 W - France U17 W
 CW: D9 D4 EF 9C 92 81 34 47
 ---FEED-SEPARATOR---
 E
