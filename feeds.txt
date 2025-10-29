@@ -125,11 +125,22 @@ CW: 12 C7 15 EE 36 54 31 BB
 Spanish Cup (Copa del Rey) - 1st Round
 Los Garres v Elche
 ---FEED-SEPARATOR---
+Spanish Cup (Copa del Rey) - 1st Round
+Lucena v Villarreal
+ST: 21:00
+47°W C-BAND
+TP: 3871 V 9874
+ID:LEUK_Fi01
+DVB S2 1080i 
+4.2.0
+#CW : 44 23 A2 09 13 23 32 68 
+---FEED-SEPARATOR---
 10E
 10755 V 9600
 4.2.0
 ID: E115 G65 VIA 2
 Copa del Rey
+CD Yuncos - Rayo Vallecano
 CW: 21 4C 1A 87 73 C1 A7 DB
 ---FEED-SEPARATOR---
 10E
@@ -137,6 +148,7 @@ CW: 21 4C 1A 87 73 C1 A7 DB
 4.2.0
 ID: E115 G65 VIA 1
 Copa del Rey
+CD Ciudad de Lucena - Villarreal CF
 CW: 44 23 A2 09 13 23 32 68
 ---FEED-SEPARATOR---
 28.2E
@@ -152,6 +164,14 @@ Sant Just v Mallorca
 12704 V 7120 DVB-S2 8PSK
 ID: Carabao Cup R4 - Wolves
 FTA
+---FEED-SEPARATOR---
+7E
+11523 V 7200
+4.2.0
+ID: GCUK Enc 9
+Scottish Premiership
+Hibernian F.C. - Rangers F.C.
+CW: C2 14 DC B2 DC BA 55 EB
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3925 V 7120
