@@ -39,7 +39,10 @@ Eutelsat 7A/7C (7.0°E)
 11667 - Horizontal - 14400 - 4.2.2
 Name : MRC008-Main 
 CW : 
-22 4F 26 95 C0 0A 40 0A
+22 4F 26 
+97
+ C0 0A 40 0A
+Please be careful when copying keys
 ---FEED-SEPARATOR---
 7E
 11088 V 7200
@@ -50,6 +53,14 @@ FIFA U-17 Women’s World Cup Morocco 2025
 Mexico U17 W - Paraguay U17 W
 Spain U17 W - France U17 W
 CW: D9 D4 EF 9C 92 81 34 47
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10848 V 7200
+4:2:0
+ID: TUR 143 M
+Basketball Champions League: 
+Mersin BSB vs Syllogos Karditsas
+CW: BF 60 FE 1D 86 CF 87 DC
 ---FEED-SEPARATOR---
 Eutelsat 7A/7C (7.0°E)
 12595- Vertical - 9600 - 4.2.0
@@ -71,6 +82,13 @@ utelsat 7A/7B/7C @ 7.0°E
 4:2:0
 ID: YSM-012 Main
 CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Greek Football Cup
+lEVADIAKOS VS ASTERAS
+Eutelsat 7B/7C @ 7.0E
+12525 - Vertical - 9600 - 4.2.0
+Name : SNG ABC
+CW : AA 34 BB 99 34 CC 34 34
 ---FEED-SEPARATOR---
 Greek Football Cup
 ILOUPOLI FC VS AEK 
