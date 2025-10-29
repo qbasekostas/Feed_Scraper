@@ -54,9 +54,14 @@ Mexico U17 W - Paraguay U17 W
 Spain U17 W - France U17 W
 CW: D9 D4 EF 9C 92 81 34 47
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+11003 - Vertical - 4938- 4.2.0
+Name : YSM-02 M 
+CW : AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10848 V 7200
-4:2:0
+4:2:2
 ID: TUR 143 M
 Basketball Champions League: 
 Mersin BSB vs Syllogos Karditsas
