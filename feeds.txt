@@ -29,3 +29,22 @@ DVB-S2 4.2.2 1080I
 CONMEBOL COPA SUDAMERICANA 
 ATLETICO MINEIRO VS IINDEPENDIENTE 
 CW: F51ADCEB5AF678C8
+---FEED-SEPARATOR---
+SlippyGes said:
+Greek Cup
+League phase - Matchday 3
+Egaleo vs Aris
+16e
+12542 V 9700
+ID: SNG ATLAS-SAT 1
+CW: 55 22 BB 32 CC 12 34 12
+Click to expand...
+Eutelsat7E
+---FEED-SEPARATOR---
+Greek Cup
+League phase - Matchday 3
+Egaleo vs Aris
+7e
+12542 V 9700
+ID: SNG ATLAS-SAT 1
+CW: 55 22 BB 32 CC 12 34 12
