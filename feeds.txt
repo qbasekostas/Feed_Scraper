@@ -21,3 +21,13 @@ DVB-S2 4.2.2 1080I
 CONMEBOL COPA LIBERTADORES
 RACING VS FLAMENGO 
 CW: BC 45 A1 A2 2C CD 33 2C
+---FEED-SEPARATOR---
+EVENT: Carabao Cup
+Eutelsat 7B-7C   @ 07.0E
+12727  Vertical  7121,779
+ID:  Carabao Cup R4 - Highlights (NEP Conn
+1920x1080 |14,107Mb/Sec |8PSK 
+|4:2:0 HD
+WATCH: Carabao Cup Extended Highlights
+​
+CW: 24 23 CC 13 DD 22 11 10
