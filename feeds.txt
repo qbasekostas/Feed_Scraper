@@ -90,3 +90,25 @@ ID:  Carabao Cup R4 - Highlights (NEP Conn
 WATCH: Carabao Cup Extended Highlights
 ​
 CW: 24 23 CC 13 DD 22 11 10
+---FEED-SEPARATOR---
+E
+utelsat 7A/7B/7C @ 7.0°E
+12656 - V - 4938
+4:2:0
+ID: YSM-021M
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Euroleague - Olimpia Milano vs Paris
+7.0E
+11070 H 7198
+Chroma subsampling:4:2:2
+Id: ITA 390
+CW:
+1B
+ 56 
+13
+ 84 
+7C
+ 83 
+D9
+ D8
