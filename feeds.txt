@@ -1,3 +1,25 @@
+CONMEBOL Copa Libertadores - Semi Final (2nd Leg)
+Palmeiras vs. LDU Quito
+Eutelsat 10B @ 10.0°E
+10723 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OCC 2
+CW: 36 9A DE AE 32 22 CB 1F
+---FEED-SEPARATOR---
+CONMEBOL Copa Sudamericana - Semi Final (2nd Leg)
+Lanús vs. Universidad Chile
+Eutelsat 10B @ 10.0°E
+10723 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OCC 1
+CW: 36 AD 4F 32 C1 1A 1D F8
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OCC 1 
@@ -121,3 +143,10 @@ ID: IMG A EU
 Euroleague
 Olimpia Milano vs Paris
 CW: 1B 56 13 84 7C 83 D9 D8
+---FEED-SEPARATOR---
+Eutelsat 7E
+11087 H 7200 S2
+ID: E -351 VIA 1
+CW: FC 26 E3 05 BC 9B BD 14
+Euroleague
+Valencia vs Dubai
