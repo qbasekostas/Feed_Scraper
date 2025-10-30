@@ -27,6 +27,7 @@ CW: BC 45 A1 A2 2C CD 33 2C
 4.2.0
 ID: E 115 G65 VIA 1
 Copa del Rey
+Atlético Palma del Río - Real Betis Balompié
 CW: 52 A2 23 17 AC 24 17 E7
 ---FEED-SEPARATOR---
 7E
@@ -34,6 +35,7 @@ CW: 52 A2 23 17 AC 24 17 E7
 4.2.0
 ID: E 115 G65 VIA 2
 Copa del Rey
+CE Atlètic Lleida - RCD Espanyol de Barcelona
 CW: 44 23 A2 09 13 23 32 68
 ---FEED-SEPARATOR---
 7E
