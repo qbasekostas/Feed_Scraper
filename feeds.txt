@@ -22,6 +22,32 @@ CONMEBOL COPA LIBERTADORES
 RACING VS FLAMENGO 
 CW: BC 45 A1 A2 2C CD 33 2C
 ---FEED-SEPARATOR---
+28.2E
+12626 H 9600 
+4.2.0
+DVBS-2 8PSK
+ID: M-Three 622 Feed_1
+CW: 44 23 A2 09 13 23 32 68
+Spanish Cup (Copa del Rey) - 1st Round
+Atlètic Lleida v Espanyol
+---FEED-SEPARATOR---
+28.2E
+12521 H 9600 
+4.2.0
+DVBS-2 8PSK
+ID: M-56 VIA1
+CW: 93 1C 7C 2B 1A 53 41 AE
+Spanish Cup (Copa del Rey) - 1st Round
+Puerto de Vega v Celta Vigo
+---FEED-SEPARATOR---
+7E
+11021 V 9600
+4.2.0
+ID: BROADCAST PRO E447 VIA 1
+Copa del Rey
+Orihuela CF - Levante UD
+CW: 1A AA 62 26 C1 1C 73 50
+---FEED-SEPARATOR---
 7E
 11009 V 9600
 4.2.0
