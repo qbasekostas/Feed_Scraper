@@ -38,3 +38,13 @@ Getafe CF
 Girona FC
 ​
 CW: 53 C9 4D 69 73 A4 A8 BF
+---FEED-SEPARATOR---
+7E
+12685 H 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Esenler Erokspor 
+Tofaş
+​
+CW: 85 AE A1 D4 AC D8 D8 5C
