@@ -1,3 +1,15 @@
+hobo232 said:
+			7E
+10998 V 9873
+DVB-S2 1080HD
+4.2.0
+ID: GVA_Fi03
+Event: Bundesliga FC Augsburg and Borussia Dortmund
+CW: 3C 60 91 2D 87 8D 9A AE
+Click to expand...
+New #CW:
+3A 15 A1 F0 3B 50 7E 09   
+---FEED-SEPARATOR---
 16E
 11188 9875
 4.2.0
@@ -22,6 +34,7 @@ DVB-S2 1080HD
 ID: GVA_Fi03
 Event: Bundesliga FC Augsburg and Borussia Dortmund 
 CW: 3C 60 91 2D 87 8D 9A AE
+Posssible cw changed.
 ---FEED-SEPARATOR---
 Dani Sat said:
 CONMEBOL Copa Libertadores - Semi Final (2nd Leg)
@@ -63,6 +76,13 @@ Getafe CF
 Girona FC
 ​
 CW: 53 C9 4D 69 73 A4 A8 BF
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:12685 - V - 7121
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  Pitch Luton v Forest
+FA Cup
+Luton Town vs Forest Green Rovers
 ---FEED-SEPARATOR---
 100.5e
 3966 V 7120
