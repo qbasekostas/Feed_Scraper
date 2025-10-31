@@ -1,3 +1,11 @@
+28.2e
+12703 v 7200
+id: DMC production germany
+4:2:0
+3. liga
+Viktoria Cologne v Ingolstadt
+CW: 31 10 AC ED DC 00 01 DD
+---FEED-SEPARATOR---
 7E
 10998 V 9873
 DVB-S2 1080HD
