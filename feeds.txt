@@ -84,6 +84,22 @@ ID:  Pitch Luton v Forest
 FA Cup
 Luton Town vs Forest Green Rovers
 ---FEED-SEPARATOR---
+xachik said:
+100.5e
+3966 V 7120
+4:2:0
+ID: 
+BT_SES_22_SDI
+Championship
+Wrexham  vs  Coventry
+0E 3D 27 A8 3A F9 25 9C  #CW: 
+BA C2 67 E3 47 47 79 07
+Click to expand...
+7E
+12676 V 7120
+4.2.0
+ID: Pitch Wrexham v Coventry
+---FEED-SEPARATOR---
 7E
 12676 H 7200
 4.2.0
