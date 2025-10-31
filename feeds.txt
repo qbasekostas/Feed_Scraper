@@ -84,6 +84,14 @@ ID:  Pitch Luton v Forest
 FA Cup
 Luton Town vs Forest Green Rovers
 ---FEED-SEPARATOR---
+7E
+12676 H 7200
+4.2.0
+ID: GCUK Enc 5
+Scottish Championship
+Ayr United F.C. - Dunfermline Athletic F.C.
+CW: AA 34 BE 9C B1 34 21 06
+---FEED-SEPARATOR---
 100.5e
 3966 V 7120
 4:2:0
