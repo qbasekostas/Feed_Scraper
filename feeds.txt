@@ -64,6 +64,16 @@ Girona FC
 ​
 CW: 53 C9 4D 69 73 A4 A8 BF
 ---FEED-SEPARATOR---
+100.5e
+3966 V 7120
+4:2:0
+ID: 
+BT_SES_22_SDI
+Championship
+Wrexham  vs  Coventry
+0E 3D 27 A8 3A F9 25 9C  #CW: 
+BA C2 67 E3 47 47 79 07
+---FEED-SEPARATOR---
 7E
 11070 H 7200
 4.2.0
