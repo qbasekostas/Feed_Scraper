@@ -1,3 +1,12 @@
+16E
+11188 9875
+4.2.0
+ID: FFBL Köln
+Frauen-Bundesliga
+Matchday 8 of 26
+1. FC Köln Frauen - 1. FC Nürnberg
+CW: 31 10 DE 1F CC 55 16 37
+---FEED-SEPARATOR---
 28.2e
 12703 v 7200
 id: DMC production germany
@@ -55,13 +64,12 @@ Girona FC
 ​
 CW: 53 C9 4D 69 73 A4 A8 BF
 ---FEED-SEPARATOR---
-FREQUENCY: 11069H SR:7200
-DVB-S2 8PSK
-Format 4:2:0
-ID: 
- IMG A EU 
+7E
+11070 H 7200
+4.2.0
+ID: IMG A EU
+EuroLeague
 Partizan - Barcelona
-1080p HD FORMAT
 CW: 5D 75 81 53 78 B8 74 A4
 ---FEED-SEPARATOR---
 7E
