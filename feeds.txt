@@ -55,6 +55,21 @@ DVB-S2 4.2.2 1080I
 CONMEBOL COPA LIBERTADORES 
 PALMEIRAS VS LIGA DE QUITO 
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,90Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 11
+Teams: Getafe CF vs Girona FC
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 22.00 CET
+faisal6 said:
+CW: 53 C9 4D 69 73 A4 A8 BF
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10732  Vertical  33999,708
 ID: LIGA HYPERMOTION 1 (OVERON)
@@ -76,6 +91,24 @@ Getafe CF
 Girona FC
 ​
 CW: 53 C9 4D 69 73 A4 A8 BF
+---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship - Week 13
+Ayr United v Dunfermline Athletic
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+12705 V 10000
+ 4:2:0
+DVB-S2 8PSK
+ID: Uki-1592
+Scottish Championship - Week 13
+Ayr United v Dunfermline Athletic
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:12685 - V - 7121
