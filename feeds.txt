@@ -1,3 +1,11 @@
+7E
+10998 V 9873
+DVB-S2 1080HD
+4.2.0
+ID: GVA_Fi03
+Event: Bundesliga FC Augsburg and Borussia Dortmund 
+CW: 3C 60 91 2D 87 8D 9A AE
+---FEED-SEPARATOR---
 Dani Sat said:
 CONMEBOL Copa Libertadores - Semi Final (2nd Leg)
 Palmeiras vs. LDU Quito
@@ -44,6 +52,7 @@ CW: 53 C9 4D 69 73 A4 A8 BF
 DVB-S2 1080HD
 4.2.0
 ID: YSM-016-1
+Event: ADMIRAL BET ABA
 CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 7E
