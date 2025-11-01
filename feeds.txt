@@ -83,6 +83,18 @@ Rayo Vallecano
 ​
 CW: C0 E7 D1 78 B3 0D C6 86
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11693  Horizontal  7121,779
+ID:   FA Cup Chemlsford v Baintree (NEP CONNECT)
+1920x1080 |14,107Mb/Sec |8PSK |4:2:0 HD
+ FA Cup Chemlsford v Baintree 
+CW: fta
+England, FA Cup
+Chelmsford City
+ vs. 
+Braintree Town FC
+​
+---FEED-SEPARATOR---
 19.2E
 11647 H 7200
 4.2.0
