@@ -62,6 +62,16 @@ Germany Bundesliga Women, Round 8
 FC Bayern München W - SGS Essen W (14:00)
 CW: 01 11 BB CD CD 12 55 34
 ---FEED-SEPARATOR---
+10.0°E
+11248 H 9600
+4:2:2
+ID: ITA396 main
+11260 H 9600
+4:2:2
+ID: ITA396 Cam1
+CW: BC 11 20 ED 25 01 11 37
+Serie BKT: Virtus Entella - Empoli
+---FEED-SEPARATOR---
 faisal6 said:
 Italian Football: Serie BKT Avellino - Reggiana kickoff 12:30 Italian time
 CW: BC 11 20 ED 25 01 11 37
@@ -215,6 +225,13 @@ ID: LIGA HYPERMOTION 1
 Almeria vs Eibar
 CW: 83 C4 BE 05 C4 AF 50 C3
 ---FEED-SEPARATOR---
+1W
+10992 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID 
+Halifax v Exeter
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11693  Horizontal  7121,779
 ID:   FA Cup Chemlsford v Baintree (NEP CONNECT)
@@ -288,6 +305,14 @@ Click to expand...
 12685 V 7120
 4.2.0
 ID: Pitch-Leicester v Blackburn
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11105 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  MRC003/Mu17M
+FIFA U-17 Women’s World Cup Morocco 2025
+Brazil vs Canada
+CW: D1 01 14 E6 4D 3A D3 5A
 ---FEED-SEPARATOR---
 100.5e
 3967 V 7120
