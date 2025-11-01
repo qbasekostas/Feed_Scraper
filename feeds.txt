@@ -52,6 +52,17 @@ ID:   Fal7 Enc1  (SkyGer    )
 Germany, 2nd Bundesliga  Hertha BSC v Dynamo Dresden
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+manaman said:
+			Bundesliga - Week 8
+Borussia Dortmund vs FC Cologne
+Eutelsat 16°E
+10981 H 3600
+1920*1080 | DVB-S2 | 8PSK
+ID: Fal4 Enc2
+CW: 20 25 AE F3 EA 52 02 3E
+Click to expand...
+Still working! Bayern vs Leverkusen match .-)
+---FEED-SEPARATOR---
 28.2e
 12590 v 7200
 id: D415feed1
@@ -331,7 +342,6 @@ FA Cup
 Boreham Wood
  vs  
 Crawley
-Mod please Move
 ---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3983 V 7119
@@ -452,3 +462,11 @@ ID: TUR-161 Backup
 TBSL
  Bursaspor vs Bahcesehir Koleji
 CW: 4E B7 FD 02 12 C5 26 FD
+---FEED-SEPARATOR---
+Stoiximan Super League, Round 9
+NPS Volos vs Panathinaikos
+Eutelsat 7A/7B/7C @ 7.0°E
+12525 - V - 7200
+4:2:0
+ID: VOLOS VS PAO
+CW: 0B FD F3 FB 6B F7 75 D7
