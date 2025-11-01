@@ -58,6 +58,14 @@ Rayo Vallecano
 ​
 CW: C0 E7 D1 78 B3 0D C6 86
 ---FEED-SEPARATOR---
+19.2E
+11647 H 7200
+4.2.0
+ID: UKI-1852 C1
+FA Cup
+Chelmsford City F.C. - Braintree Town F.C.
+CW: 5D 74 6A 3B A4 92 95 CB
+---FEED-SEPARATOR---
 1W
 10966 V 7200 
 4:2:0
@@ -77,3 +85,13 @@ No name
 CW: 5D 74 6A 3B A4 92 95 CB
 English FA Cup - 1st Round Proper
 Chelmsford City v Braintree Town
+---FEED-SEPARATOR---
+100.5e
+3967 V 7120
+4:2:0
+ID: 
+C-5328-YHE-MAIN
+EASL
+Asia    Basketball   
+ EASL
+  Xac Broncos  vs   New Taipei Kings 
