@@ -55,6 +55,17 @@ CW: 20 25 AE F3 EA 52 02 3E
 German 1. Bundesliga - Week 9
 Bayern Munich vs. Bayer Leverkusen
 Eutelsat 7B/7C @ 7.0°E
+11081 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D565 MCHN 4G12 M
+CW: 76 18 5C EA 02 DE D2 B2
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 9
+Bayern Munich vs. Bayer Leverkusen
+Eutelsat 7B/7C @ 7.0°E
 11018 - H - 14400 
 |
 4:2:2
@@ -373,6 +384,16 @@ ID:
 CW: AA 23 44 11 AB BB 1A 80
 ENGLAND: FA Cup
 Brackley Town v Notts County
+---FEED-SEPARATOR---
+FaDeL® said:
+FA Cup
+Brackley Town vs Notts County
+CW: AA 23 44 11 AB BB 1A 80
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11167 - H - 15000
+4:2:0
+ID: sENC01
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11682- H - 7200
