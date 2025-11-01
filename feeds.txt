@@ -218,6 +218,31 @@ Rayo Vallecano
 ​
 CW: C0 E7 D1 78 B3 0D C6 86
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,67Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 11
+Teams: Real Madrid vs Valencia CF
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 22.00 CET
+Hackintosh said:
+#CW:
+8F 1D 01 AD 56 C3 9F B8
+Click to expand...
+---FEED-SEPARATOR---
+LaLiga : Real Madrid v Valencia 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+ OVERON 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |12,4 dB | 
+4:2:2
+CW: 8F 1D 01 AD 56 C3 9F B8
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 
 3840 H 30000
@@ -528,6 +553,15 @@ EASL
 Asia    Basketball   
  EASL
   Xac Broncos  vs   New Taipei Kings 
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12594 V  9600
+ID: POL103
+Event: 
+Polish Men's Basketball: ORLEN Basket Liga - match: Legia Warszawa - Anwil Włocławek
+4.2.2
+- DVB-S2 - 8PSK
+CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 12597 Vertical 4936,17 3/4
