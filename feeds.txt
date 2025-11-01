@@ -571,6 +571,14 @@ Asia    Basketball
  EASL
   Xac Broncos  vs   New Taipei Kings 
 ---FEED-SEPARATOR---
+10E
+11273 H 7200
+4.2.2
+ID: SELENIO 1
+Lega Basket Serie A
+Treviso - Trieste
+CW: 8F 84 AC BF 53 ED AF EF
+---FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12594 V  9600
 ID: POL103
