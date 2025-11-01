@@ -10,7 +10,7 @@ AsiaSat 5 - 100.5 E - CBand
 TP : 3860 V 30000
 PMT PID: 2048, SID: 11 @ LEUK_Fi08 (EUROVISION SA)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-D8 E5 BA 4F AE CA ED A6  #CW:A7 8C 53 86 DA 80 EA 44   
+D8 E5 BA 4F AE CA ED A6  #CW:A7 8C 53 86 DA 80 EA 44  
 Bayern Munich vs Bayer Leverkusen
 ---FEED-SEPARATOR---
 28.2e
@@ -51,6 +51,27 @@ ID:   Fal7 Enc1  (SkyGer    )
 1920x1080 |8,924Mb/Sec |8PSK |4:2:0 HD
 Germany, 2nd Bundesliga  Hertha BSC v Dynamo Dresden
 CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 9
+Bayern Munich vs. Bayer Leverkusen
+Eutelsat 7B/7C @ 7.0°E
+11018 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi05
+CW: 8C E7 DC 4F C2 1E 8D 6D
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+11188 H 9875
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4;2:0
+ID: 
+FFBL Wolfsburg
+Provider: Adtec Digital
+Germany Bundesliga Women,Round 8
+VfL Wolfsburg W - TSG Hoffenheim W (16:00)
+CW: 01 11 BB CD CD 12 55 34
 ---FEED-SEPARATOR---
 manaman said:
 			Bundesliga - Week 8
@@ -185,6 +206,19 @@ vs.
 Rayo Vallecano
 ​
 CW: C0 E7 D1 78 B3 0D C6 86
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 2
+sahafe said:
+			EA 14 DB 7F 2C 6E 54 09  #
+CW: B0 20 49 19 85 AD F0 22
+  #[E] PID:00C9h
+Click to expand...
 ---FEED-SEPARATOR---
 fronjien said:
 Eutelsat 10B @ 10.0E
