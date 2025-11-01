@@ -1,3 +1,11 @@
+28.2e
+12580 v 7200
+id: D-167
+4:2:0
+3. liga
+Osnabrück v Duisburg
+CW: 01 11 AC BE DC 00 05 E1
+---FEED-SEPARATOR---
 16E
 11188 H 9875
 4.2.0
@@ -152,6 +160,15 @@ Chelmsford City
 Braintree Town FC
 ​
 ---FEED-SEPARATOR---
+England Championship
+Leicester City vs Blackburn Rovers
+Asiasat 5 (100.5°E) C BAND
+3966 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_22_SDI
+CW: B9 82 00 3B 21 24 41 86
+---FEED-SEPARATOR---
 19.2E
 11647 H 7200
 4.2.0
@@ -180,6 +197,20 @@ CW: 5D 74 6A 3B A4 92 95 CB
 English FA Cup - 1st Round Proper
 Chelmsford City v Braintree Town
 ---FEED-SEPARATOR---
+Albahraniy said:
+			England Championship
+Asiasat 5 (100.5°E) C BAND
+3966 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_22_SDI
+CW: B9 82 00 3B 21 24 41 86
+Click to expand...
+7E
+12685 V 7120
+4.2.0
+ID: Pitch-Leicester v Blackburn
+---FEED-SEPARATOR---
 100.5e
 3967 V 7120
 4:2:0
@@ -191,9 +222,18 @@ Asia    Basketball
   Xac Broncos  vs   New Taipei Kings 
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
+Fréq:11484- H - 7500
+MPEG 4 - 4:2:2 - DVB-S2
+ID:   TUR 112 MAIN
+TBSL
+Turk Telekom vs Galatasaray
+found CW: 
+CA B3 FE 7B 63 84 8F 76
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
 Fréq:11609- H - 7500
 MPEG 4 - 4:2:2 - DVB-S2
 ID: TUR-161 Backup
 TBSL
-Turk Telekom vs Galatasaray
+ Bursaspor vs Bahcesehir Koleji
 CW: 4E B7 FD 02 12 C5 26 FD
