@@ -186,6 +186,23 @@ Rayo Vallecano
 ​
 CW: C0 E7 D1 78 B3 0D C6 86
 ---FEED-SEPARATOR---
+fronjien said:
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID: 
+OVERON 2 
+(OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+Spain, LaLiga
+R. Sociedad vs. Athletic Club
+Click to expand...
+fronjien said:
+			New CS, please
+Click to expand...
+EA 14 DB 7F 2C 6E 54 09  #
+CW: B0 20 49 19 85 AD F0 22
+  #[E] PID:00C9h
+---FEED-SEPARATOR---
 faisal6 said:
 Eutelsat 10B @ 10.0E
 10732  Vertical  34010,27
@@ -312,6 +329,16 @@ No name
 CW: 5D 74 6A 3B A4 92 95 CB
 English FA Cup - 1st Round Proper
 Chelmsford City v Braintree Town
+---FEED-SEPARATOR---
+28.2E
+12577 V 15000 
+4:2:2
+DVB-S2 8PSK
+ID:
+ UKI-1486 BBC Main Brackley v Notts Co
+CW: AA 23 44 11 AB BB 1A 80
+ENGLAND: FA Cup
+Brackley Town v Notts County
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11682- H - 7200
