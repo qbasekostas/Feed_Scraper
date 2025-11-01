@@ -162,3 +162,11 @@ EASL
 Asia    Basketball   
  EASL
   Xac Broncos  vs   New Taipei Kings 
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11609- H - 7500
+MPEG 4 - 4:2:2 - DVB-S2
+ID: TUR-161 Backup
+TBSL
+Turk Telekom vs Galatasaray
+CW: 4E B7 FD 02 12 C5 26 FD
