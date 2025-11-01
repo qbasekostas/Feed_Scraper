@@ -52,6 +52,14 @@ ID:   Fal7 Enc1  (SkyGer    )
 Germany, 2nd Bundesliga  Hertha BSC v Dynamo Dresden
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+28.2e
+12590 v 7200
+id: D415feed1
+4:2:0
+3. liga
+Hansa Rostock v SC Verl
+CW: 01 11 AC BE DC 00 06 E2
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0E)
 11176 H 9875
 MPEG-4 CRYPTÉ DVB-S2 8PSK,4;2:0
@@ -353,6 +361,16 @@ Click to expand...
 12685 V 7120
 4.2.0
 ID: Pitch-Leicester v Blackburn
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11145 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:MRC008-Main
+FaDeL® said:
+FIFA U-17 Women’s World Cup Morocco 2025
+CW: 22 4F 26 97 C0 0A 40 0A
+Click to expand...
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11667 - H - 14400
