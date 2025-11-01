@@ -1,0 +1,43 @@
+Spanish La Liga 2 - Matchday 12
+Andorra vs. Cádiz
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 5A 32 D5 61 62 C5 46 6D
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 11
+Barcelona vs. Elche
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: 50 90 F8 D8 86 86 66 72
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 11
+Alavés vs. Espanyol
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 7B 0B 2F B5 FF 18 11 28
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 11
+Levante vs. Celta Vigo
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: FE FD 71 6C A1 FE F6 95
