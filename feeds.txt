@@ -1,3 +1,11 @@
+16E
+11188 H 9875
+4.2.0
+ID: FFBL Bremen
+Frauen-Bundesliga
+SV Werder Bremen Frauen - 1. FC Union Berlin Frauen
+CW: 01 11 BB CD CD 12 55 34
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 10976  Horizontal  3600,95
 ID:   Fal7 Enc1  (SkyGer    )
@@ -29,6 +37,13 @@ ID: ITA741 (Service Provider)
 1920x1080 |19,855Mb/Sec |8PSK |4:2:0 HD
 Italian Football: Serie BKT Avellino - Reggiana kickoff 12:30 Italian time
 CW: BC 11 20 ED 25 01 11 37
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR EASTERN 1
+Real Madrid vs Valencia
+CW: 30 1F F7 46 5F 8C AF 9A
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10732  Vertical  34010,27
@@ -82,6 +97,21 @@ vs.
 Rayo Vallecano
 ​
 CW: C0 E7 D1 78 B3 0D C6 86
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR RUSIA 2
+Real Madrid vs Valencia
+found CW: 
+7E 45 CA 8D A0 6F 2D 3C
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID: LIGA HYPERMOTION 1
+Almeria vs Eibar
+CW: 83 C4 BE 05 C4 AF 50 C3
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11693  Horizontal  7121,779
