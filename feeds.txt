@@ -520,6 +520,14 @@ Asia    Basketball
  EASL
   Xac Broncos  vs   New Taipei Kings 
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12597 Vertical 4936,17 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-013 M
+Serbia - KLS
+Vrsac vs Mladost Zemun
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11024 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
