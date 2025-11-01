@@ -1,3 +1,10 @@
+Eutelsat 16A @ 16.0E
+10976  Horizontal  3600,95
+ID:   Fal7 Enc1  (SkyGer    )
+1920x1080 |8,924Mb/Sec |8PSK |4:2:0 HD
+Germany, 2nd Bundesliga  Karlsruher SC vs. Schalke 04
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 faisal6 said:
 Italian Football: Serie BKT Avellino - Reggiana kickoff 12:30 Italian time
 CW: BC 11 20 ED 25 01 11 37
