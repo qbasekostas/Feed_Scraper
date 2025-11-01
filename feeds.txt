@@ -375,6 +375,15 @@ CW: 5D 74 6A 3B A4 92 95 CB
 English FA Cup - 1st Round Proper
 Chelmsford City v Braintree Town
 ---FEED-SEPARATOR---
+7E
+12677 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: GCUK Enc 9
+CW: C2 14 DC B2 DC BA 55 EB
+Scottish League Cup - Semi Final
+Motherwell v St Mirren
+---FEED-SEPARATOR---
 28.2E
 12577 V 15000 
 4:2:2
