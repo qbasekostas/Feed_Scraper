@@ -1,3 +1,10 @@
+Eutelsat 7B-7C @ 07.0E
+11164 Vertical 7501,79
+ID: ITA741 (Service Provider)
+1920x1080 |19,855Mb/Sec |8PSK |4:2:0 HD
+Italian Football: Serie BKT Avellino - Reggiana kickoff 12:30 Italian time
+CW: BC 11 20 ED 25 01 11 37
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10732  Vertical  34010,27
 ID: SUPPONOR MENA 1 (OVERON)
@@ -50,3 +57,23 @@ vs.
 Rayo Vallecano
 ​
 CW: C0 E7 D1 78 B3 0D C6 86
+---FEED-SEPARATOR---
+1W
+10966 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID 
+No name
+CW: 5D 74 6A 3B A4 92 95 CB
+English FA Cup - 1st Round Proper
+Chelmsford City v Braintree Town
+---FEED-SEPARATOR---
+1W
+10974 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID 
+No name
+CW: 5D 74 6A 3B A4 92 95 CB
+English FA Cup - 1st Round Proper
+Chelmsford City v Braintree Town
