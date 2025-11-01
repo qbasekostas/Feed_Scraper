@@ -1,0 +1,52 @@
+Eutelsat 10B @ 10.0E
+10732  Vertical  34010,27
+ID: SUPPONOR MENA 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+Spain, LaLiga
+Villarreal CF
+​
+vs.
+​
+Rayo Vallecano
+​
+CW: 9A CD E8 4F 2E 8D 56 11
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10732  Vertical  34010,27
+ID: SUPPONOR AFRICA 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+Spain, LaLiga
+Atletico Madrid
+​
+vs. 
+​
+Sevilla FC
+​
+CW: EF 8C DB 56 8F 9A 09 32
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10732  Vertical  34010,27
+ID:  OVERON 2 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+Spain, LaLiga
+Atletico Madrid
+​
+vs. 
+​
+Sevilla FC
+​
+CW: 17 B3 8C 56 C6 57 24 4
+1
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10732  Vertical  34010,27
+ID:   OVERON 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+Spain, LaLiga
+Villarreal CF
+​
+vs. 
+​
+Rayo Vallecano
+​
+CW: C0 E7 D1 78 B3 0D C6 86
