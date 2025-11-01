@@ -1,3 +1,21 @@
+faisal6 said:
+Italian Football: Serie BKT Avellino - Reggiana kickoff 12:30 Italian time
+CW: BC 11 20 ED 25 01 11 37
+Click to expand...
+Eutelsat 16A @ 16.0E
+11164  Horizontal  9599,821
+ID:  ITA 302B (ITA302 B)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
+---FEED-SEPARATOR---
+faisal6 said:
+Italian Football: Serie BKT Avellino - Reggiana kickoff 12:30 Italian time
+CW: BC 11 20 ED 25 01 11 37
+Click to expand...
+Eutelsat 16A @ 16.0E
+11152  Horizontal  9599,854
+ID: ITA 302A (ITA 302A)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11164 Vertical 7501,79
 ID: ITA741 (Service Provider)
