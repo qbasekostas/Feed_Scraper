@@ -302,6 +302,37 @@ CW: 5D 74 6A 3B A4 92 95 CB
 English FA Cup - 1st Round Proper
 Chelmsford City v Braintree Town
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11682- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:UKI -1487 - WBD Backup Brackley v Notts Co
+FA Cup
+Brackley Town vs Notts County
+CW: AA 23 44 11 AB BB 1A 80
+---FEED-SEPARATOR---
+16E
+12575 H 7200 
+4:2:0
+DVB-S2 8PSK
+ID: UKI1513 Path1
+CW: 1D 64 62 E3 CE 14 E9 CB
+ENGLAND: 
+FA Cup
+Boreham Wood
+ vs  
+Crawley
+12565 H 7200 
+4:2:0
+DVB-S2 8PSK
+ID: UKI1513 Path2
+Reporter
+ENGLAND: 
+FA Cup
+Boreham Wood
+ vs  
+Crawley
+Mod please Move
+---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3983 V 7119
 DVB-S2 - 1080P - 8PSK
