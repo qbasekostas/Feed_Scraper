@@ -52,6 +52,16 @@ ID:   Fal7 Enc1  (SkyGer    )
 Germany, 2nd Bundesliga  Hertha BSC v Dynamo Dresden
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+11176 H 9875
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4;2:0
+ID: 
+FBL Bayern
+Provider: Adtec Digital
+Germany Bundesliga Women, Round 8
+FC Bayern München W - SGS Essen W (14:00)
+CW: 01 11 BB CD CD 12 55 34
+---FEED-SEPARATOR---
 faisal6 said:
 Italian Football: Serie BKT Avellino - Reggiana kickoff 12:30 Italian time
 CW: BC 11 20 ED 25 01 11 37
