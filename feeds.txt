@@ -63,6 +63,30 @@ CW: 40 B6 FC F2 71 B3 84 A8
 ---FEED-SEPARATOR---
 Dani Sat said:
 Spanish La Liga - Matchday 11
+Alavés vs. Espanyol
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 7B 0B 2F B5 FF 18 11 28
+Click to expand...
+Event:
+Alavés vs. Espanyol
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 2
+CW: 7B 0B 2F B5 FF 18 11 28
+Thanks !!!
+---FEED-SEPARATOR---
+Dani Sat said:
+Spanish La Liga - Matchday 11
 Levante vs. Celta Vigo
 Eutelsat 10B @ 10.0°E
 10732 - V - 34000 
@@ -86,7 +110,7 @@ CW: FE FD 71 6C A1 FE F6 95
 Thanks !!!
 ---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 12
-Andorra vs. Cádiz
+Sporting Gijón vs. Las Palmas
 Eutelsat 10B @ 10.0°E
 10732 - V - 34000 
 |
@@ -221,6 +245,17 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_24_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Scottish League Cup - Semi Final
+Celtic vs. Rangers
+Eutelsat 7B/7C @ 7.0°E
+11579 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 9
+CW: C2 14 DC B2 DC BA 55 EB
+---FEED-SEPARATOR---
 0.8°W
 11132 V 7200
 4:2:0
@@ -231,10 +266,10 @@ CW: 6C 2C 1B B3 C2 10 3B 0D
 ---FEED-SEPARATOR---
 7E
 11503 H 15000
-11683 H 7200
 4.2.2
-ID: UKI - 1486 BBC Mani Brackley
-ID: UKI - 1487 -WBD Backup Brackley
+ID: UKI - 1486 BBC Main Brackley
+ENGLISH FA CUP
+Eastleigh F.C VS Walsall F.C
 CW: AA 23 44 11 AB BB 1A 80
 ---FEED-SEPARATOR---
 0.8°W
@@ -260,6 +295,8 @@ Eutelsat 7B/7C @ 7.0E
 DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: UKI -1487 - WBD Backup Brackley v Notts Co
+ENGLISH FA CUP
+Eastleigh F.C VS Walsall F.C
 CW: AA 23 44 11 AB BB 1A 80
 ---FEED-SEPARATOR---
 7E
@@ -279,6 +316,17 @@ FIFA U-17 World Cup Qatar
 Tunisia U-17 - Fiji U-17
 CW: 2F 00 22 51 00 0F D9 E
 8
+---FEED-SEPARATOR---
+omid1348 said:
+			FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+CW: 2F 00 22 51 00 0F D9 E8
+Click to expand...
+Costa Rica VS United Arab Emirates
+Eutelsat 7A/7B/7C @ 7.0°E
+10969 - V - 7200
+4:2:0
+ID: SAU-35 B
 ---FEED-SEPARATOR---
 Astra 2 (28,2°E)
 12611 V 7200
