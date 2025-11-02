@@ -69,6 +69,14 @@ ID: Fal4 Enc1  (Net 1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
 13E
+11608 H 7200
+4.2.2
+ID: Service_7
+Serie B
+Monza - Spezia
+CW: 6B 5A 0A CF EB 63 DE 2C
+---FEED-SEPARATOR---
+13E
 11617 H 7200
 4.2.2
 ID: Service_03
@@ -115,9 +123,9 @@ AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
 Barcelona vs. Elche
-ID : PMT PID: 3870, SID: 45 @ OVERON 3 (Servicios Audiovisuales Overon, S L)
+PMT PID: 3870, SID: 45 @ OVERON 3 (Servicios Audiovisuales Overon, S L)
 3B 31 FE 3D 6D A6 71 D0  #CW:59 C5 32 50 7C 72 D3 C1   #[E] PID:0F1Fh
-ID : PMT PID: 3880, SID: 46 @ OVERON 4 (Servicios Audiovisuales Overon, S L)
+PMT PID: 3880, SID: 46 @ OVERON 4 (Servicios Audiovisuales Overon, S L)
 45 AA 0E 1B AA A4 33 0C  #CW:33 68 9F 3A 45 F1 DB 11   #[E] PID:0F29h
 ---FEED-SEPARATOR---
 Dani Sat said:
@@ -449,6 +457,18 @@ HD (1920*1080) 4:2:0
 ID: A1PRO Via 1
 Liga Femenina de Baloncesto de España
 Ensino - CB Avenida
+---FEED-SEPARATOR---
+omid1348 said:
+			10E
+11264 H 7200
+4.2.2
+ID: SELENIO 2
+Lega Basket Serie A
+Trapani - Brescia
+CW: 27 FB E3 05 CE 46 F9 0D
+Click to expand...
+Reggiana
+Olimpia Milano
 ---FEED-SEPARATOR---
 10E
 11264 H 7200
