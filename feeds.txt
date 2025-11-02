@@ -42,6 +42,24 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: FE FD 71 6C A1 FE F6 95
 ---FEED-SEPARATOR---
+1W
+10966 V 7200 
+4:2:2
+DVBS-2 8PSK
+ID uki1965 Main
+CW: 81 05 38 BE CF 45 23 37
+English FA Cup - 1st Round Proper
+South Shields vs Shrewsbury Town
+---FEED-SEPARATOR---
+1W
+10974 V 7200 
+4:2:2
+DVBS-2 8PSK
+ID uki1965wf
+CW: 81 05 38 BE CF 45 23 37
+English FA Cup - 1st Round Proper
+South Shields vs Shrewsbury Town
+---FEED-SEPARATOR---
 England FA Cup
 South Shields vs Shrewsbury Town
 Asiasat 5 (100.5°E) C BAND
