@@ -1,3 +1,11 @@
+28.2e
+12632 v 7200
+id: dmc production germany
+4:2:0
+3. liga
+Alemannia Aachen v Saarbrücken
+CW: 02 11 AC BF DC 00 03 DF
+---FEED-SEPARATOR---
 Bundesliga
 Wolfsburg v Hoffenheim
 Eutelsat 7A/7B/7C @ 7.0°E
