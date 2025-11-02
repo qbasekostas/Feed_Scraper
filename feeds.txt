@@ -112,6 +112,14 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: FE FD 71 6C A1 FE F6 95
 ---FEED-SEPARATOR---
+archiesat said:
+CW: 81 05 38 BE CF 45 23 37
+Click to expand...
+0.8°W
+10983 V 7200
+4:2:0
+ID: unnamed
+---FEED-SEPARATOR---
 .
 ---FEED-SEPARATOR---
 archiesat said:
@@ -177,6 +185,46 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_24_SDI
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+0.8°W
+11132 V 7200
+4:2:0
+ID: unnamed
+CW: 6C 2C 1B B3 C2 10 3B 0D
+---FEED-SEPARATOR---
+0.8°W
+10992 V 7200
+4:2:0
+ID: unnamed
+CW: AE C4 BB 2D CC 99 E4 49
+---FEED-SEPARATOR---
+0.8°W
+11123 V 7200
+4:2:0
+ID: unnamed
+CW: 6C 2C 1B B3 C2 10 3B 0D
+---FEED-SEPARATOR---
+omid1348 said:
+			7E
+10978 V 7200
+4.2.0
+ID: SAU-36 M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+Tunisia U-17 - Fiji U-17
+CW: 2F 00 22 51 00 0F D9 EB
+Click to expand...
+this CW incorrect not working
+---FEED-SEPARATOR---
+7E
+10978 V 7200
+4.2.0
+ID: SAU-36 M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+Tunisia U-17 - Fiji U-17
+CW: 2F 00 22 51 00 0F D9 E
+8
 ---FEED-SEPARATOR---
 Astra 2 (28,2°E)
 12611 V 7200
