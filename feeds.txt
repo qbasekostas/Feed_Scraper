@@ -76,6 +76,14 @@ ID: Fal4 Enc1  (Net 1
 1920x1080 |8,924Mb/Sec |8PSK |4:2:0 HD
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Argentina Liga Profesional Round 14
+Estudiantes v Boca Juniors
+7.0E
+11459 V 7500
+4.2.0 HD
+ID: AFD
+CW: 52 23 54 C9 FA 74 C9 37
+---FEED-SEPARATOR---
 13E
 11617 H 7200
 4.2.2
