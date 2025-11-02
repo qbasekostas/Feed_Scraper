@@ -77,6 +77,14 @@ ID: Fal4 Enc1  (Net 1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
 13E
+11617 H 7200
+4.2.2
+ID: Service_03
+Serie B
+U.C. Sampdoria - Mantova 1911
+CW: 78 A0 1B 33 8A 9B C5 EA
+---FEED-SEPARATOR---
+13E
 11608 H 7200
 4.2.2
 ID: Service_7
@@ -465,6 +473,14 @@ HD (1920*1080) 4:2:0
 ID: A1PRO Via 1
 Liga Femenina de Baloncesto de España
 Ensino - CB Avenida
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+12644 Vertical 4936,162 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-013M
+ABA League
+Spartak Subotica vs Crvena zvezda
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 omid1348 said:
 			10E
