@@ -565,3 +565,11 @@ Buyukcekmece Basketbol
 Petkim Spor Aliaga 
 ​
 B4 22 53 5A B0 69 98 FF  #CW:16 C1 DE B5 6C 1F 4F DA  
+---FEED-SEPARATOR---
+10E
+11273 H 7200
+4.2.2
+ID: SELENIO 3
+Lega Basket Serie A
+Derthona - Napoli Basket
+CW: 79 64 FB D8 7F EC AC 17
