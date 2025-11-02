@@ -41,3 +41,12 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: FE FD 71 6C A1 FE F6 95
+---FEED-SEPARATOR---
+England FA Cup
+South Shields vs Shrewsbury Town
+Asiasat 5 (100.5°E) C BAND
+3915 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_24_SDI 
+CW: 53 23 CF 45 32 88 42 FC
