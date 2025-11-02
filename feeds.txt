@@ -1,3 +1,10 @@
+10E
+11264 H 7200
+4.2.0
+ID: D-452
+About Bayern Munich - History
+CW: 02 11 FC 0F BB 46 66 67
+---FEED-SEPARATOR---
 Germany, 2nd Bundesliga Fortuna Dusseldorf vs. FC Kaiserslautern
 Eutelsat 16A @ 16.0E
 10976  Horizontal  3600,901
