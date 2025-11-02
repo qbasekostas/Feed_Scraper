@@ -56,6 +56,16 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: FE FD 71 6C A1 FE F6 95
 ---FEED-SEPARATOR---
+archiesat said:
+CW: 81 05 38 BE CF 45 23 37
+English FA Cup - 1st Round Proper
+South Shields vs Shrewsbury Town
+Click to expand...
+Eutelsat 7B-7C   @ 07.0E
+12677  Horizontal  7201,801
+ID:  VISION 2 S SHIELDS (Service Provider)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+---FEED-SEPARATOR---
 EFL Highlights 2025/26 - Show 11
 Eutelsat 7B/7C @ 7.0E
 12684 V 7119
@@ -100,6 +110,29 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_24_SDI
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+12594  Vertical  9599,854
+ID:  POL 058 CH1 (*unnamed-1*)
+1920x1080 |19,016Mb/Sec |8PSK |4:2:2 HD
+CW: 15 58 35 A2 71 42 63 16
+Poland, PLK
+MKS Start Lublin
+ vs. 
+Stal Ostrow Wielkopolski 
+​
+---FEED-SEPARATOR---
+faisal6 said:
+Turkiye, TBSL
+Buyukcekmece Basketbolvs. 
+Petkim Spor Aliaga 
+​
+B4 22 53 5A B0 69 98 FF #CW:16 C1 DE B5 6C 1F 4F DA
+Click to expand...
+Eutelsat 7B-7C   @ 07.0E
+11525  Horizontal  7501,834
+ID: E333 M (mediapro turkiye)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
 ---FEED-SEPARATOR---
 Turksat 2A-3A-4A @ 42.0E
 11093  Vertical  7501,834
