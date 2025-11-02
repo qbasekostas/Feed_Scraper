@@ -435,6 +435,16 @@ ID: A1PRO Via 1
 Liga Femenina de Baloncesto de España
 Ensino - CB Avenida
 ---FEED-SEPARATOR---
+16.0°E
+11131 H 15000
+4:2:0 - 720p 60fps
+ID: 2Sat HOL307 MAIN M29
+11149 H 15000
+4:2:0 - 720p 60fps
+ID: HOL307 BU
+CW: 55 46 55 F0 25 22 32 79
+ESPN College Basketball
+---FEED-SEPARATOR---
 Super Lig - Round 6
 Mersin SK v Fenerbahce
 Eutelsat 7A/7B/7C @ 7.0°E
