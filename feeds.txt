@@ -1,4 +1,12 @@
 Bundesliga
+Wolfsburg v Hoffenheim
+Eutelsat 7A/7B/7C @ 7.0°E
+10997 - H - 9875
+4:2:2
+ID: GVA_Fi04
+CW: 50 66 77 2D 36 9E 5E 32
+---FEED-SEPARATOR---
+Bundesliga
 FC Koln v Hamburger
 Eutelsat 7A/7B/7C @ 7.0°E
 11009 - H - 9875
@@ -76,6 +84,17 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: Service_01
 CW: 40 B6 FC F2 71 B3 84 A8
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 11
+Barcelona vs. Elche
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 14 B3 25 EC AC 6A 0C 22
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
