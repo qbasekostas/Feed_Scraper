@@ -64,7 +64,7 @@ CW: 20 25 AE F3 EA 52 02 3E
 11617 H 7200
 4.2.2
 ID: Service_03
-Serie B
+Serie B Highlights
 Modena - Juve Stabia
 CW: 78 A0 1B 33 8A 9B C5 EA
 ---FEED-SEPARATOR---
