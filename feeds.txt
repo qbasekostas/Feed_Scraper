@@ -42,6 +42,14 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: FE FD 71 6C A1 FE F6 95
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+12727  Vertical  7121,779
+ID:   Pitch The FA Cup Round 1 - Incomplete Highlights (NEP Connect)
+1920x1080 |14,107Mb/Sec |8PSK |4:2:0 HD
+ The FA Cup Round  
+ Incomplete Highlights
+CW: AB CD FF 77 CE 02 10 E0
+---FEED-SEPARATOR---
 1W
 10966 V 7200 
 4:2:2
