@@ -1,3 +1,16 @@
+Eutelsat 16A @ 16.0E
+11189  Horizontal  9874,854
+ID:   FFBL Jena (Adtec Digital)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+Germany Amateur, Bundesliga, Women
+FC Carl Zeiss Jena
+​
+vs. 
+​
+Bayer Leverkusen
+​
+CW: 02 11 EF 02 AA 55 11 10
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12631 Vertical 7201,79
 ID: *unnamed-1* (*unnamed-1*)
@@ -22,6 +35,30 @@ Eutelsat 16A @ 16.0E
 ID: Fal4 Enc1  (Net 1   
 1920x1080 |8,924Mb/Sec |8PSK |4:2:0 HD
 CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Dani Sat said:
+Spanish La Liga - Matchday 11
+Levante vs. Celta Vigo
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: FE FD 71 6C A1 FE F6 95
+Click to expand...
+Event:
+Levante vs. Celta Vigo
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 1
+CW: FE FD 71 6C A1 FE F6 95
+Thanks !!!
 ---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 12
 Andorra vs. Cádiz
