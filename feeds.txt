@@ -60,6 +60,14 @@ ID: Fal4 Enc1  (Net 1
 1920x1080 |8,924Mb/Sec |8PSK |4:2:0 HD
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+13E
+11617 H 7200
+4.2.2
+ID: Service_03
+Serie B
+Modena - Juve Stabia
+CW: 78 A0 1B 33 8A 9B C5 EA
+---FEED-SEPARATOR---
 ItalySerie A, Round 10
 Fiorentina vs Lecce
 Eutelsat 7B/7C @ 7.0E
@@ -262,6 +270,25 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_24_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+8.0°W
+12673 V 7200
+4:2:0
+ID: unnamed
+12715 V 7200
+4:2:0
+ID: HD Coder 1
+12724 V 7200
+4:2:0
+ID: UKI-1852 C4
+12733 V 7200
+4:2:0
+ID: UKI-1852-C3
+12742 V 7200
+4:2:0
+ID: UKI-1852 C1
+CW: 46 59 F5 94 70 DE 00 4E
+FA Cup: Eastleigh - Walsall
+---FEED-SEPARATOR---
 English FA Cup - 1st Round Proper
 Gainsborough Trinity vs. Accrington Stanley
 Intelsat 10-02 @ 1.0°W
@@ -388,6 +415,14 @@ HD (1920*1080) 4:2:0
 ID: A1PRO Via 1
 Liga Femenina de Baloncesto de España
 Ensino - CB Avenida
+---FEED-SEPARATOR---
+Super Lig - Round 6
+Mersin SK v Fenerbahce
+Eutelsat 7A/7B/7C @ 7.0°E
+11525 - H - 7500
+4:2:2
+ID: TUR156 Main
+CW: 8D 6B D6 CE 18 55 82 EF
 ---FEED-SEPARATOR---
 Eutelsat 7B-7
 C   @ 07.0E
