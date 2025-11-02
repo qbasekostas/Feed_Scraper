@@ -1,3 +1,11 @@
+16E
+11176 H 9875
+4.2.0
+ID: FFBL Hamburg
+Frauen-Bundesliga
+Hamburger SV - Eintracht Frankfurt
+CW: 02 11 EF 02 AA 55 11 10
+---FEED-SEPARATOR---
 28.2e
 12632 v 7200
 id: -
@@ -213,6 +221,14 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_24_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+0.8°W
+11132 V 7200
+4:2:0
+ID: unnamed
+ENGLISH FA CUP 
+ Port Vale F.C. VS Maldon & Tiptree F.C
+CW: 6C 2C 1B B3 C2 10 3B 0D
+---FEED-SEPARATOR---
 7E
 11503 H 15000
 11683 H 7200
@@ -222,21 +238,11 @@ ID: UKI - 1487 -WBD Backup Brackley
 CW: AA 23 44 11 AB BB 1A 80
 ---FEED-SEPARATOR---
 0.8°W
-11132 V 7200
-4:2:0
-ID: unnamed
-CW: 6C 2C 1B B3 C2 10 3B 0D
----FEED-SEPARATOR---
-0.8°W
-10992 V 7200
-4:2:0
-ID: unnamed
-CW: AE C4 BB 2D CC 99 E4 49
----FEED-SEPARATOR---
-0.8°W
 11123 V 7200
 4:2:0
 ID: unnamed
+ENGLISH FA CUP 
+Port Vale F.C. VS Maldon & Tiptree F.C
 CW: 6C 2C 1B B3 C2 10 3B 0D
 ---FEED-SEPARATOR---
 archiesat said:
