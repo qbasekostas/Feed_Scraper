@@ -1,3 +1,14 @@
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12631 Vertical 7201,79
+ID: *unnamed-1* (*unnamed-1*)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Alemania
+3. Liga - Jornada 13
+Hoffenheim II
+ VS 
+Mannheim
+CW: 02 11 AC BF DC 00 01 DD
+---FEED-SEPARATOR---
 10E
 11264 H 7200
 4.2.0
@@ -55,6 +66,8 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: FE FD 71 6C A1 FE F6 95
+---FEED-SEPARATOR---
+.
 ---FEED-SEPARATOR---
 archiesat said:
 CW: 81 05 38 BE CF 45 23 37
@@ -119,6 +132,14 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_24_SDI
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Astra 2 (28,2°E)
+12611 V 7200
+DVB-S2 8PSK FEC 2/3
+HD (1920*1080) 4:2:0
+ID: A1PRO Via 1
+Liga Femenina de Baloncesto de España
+Ensino - CB Avenida
 ---FEED-SEPARATOR---
 Eutelsat 7B-7
 C   @ 07.0E
