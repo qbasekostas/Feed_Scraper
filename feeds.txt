@@ -44,6 +44,15 @@ ID: Fal4 Enc1  (Net 1
 1920x1080 |8,924Mb/Sec |8PSK |4:2:0 HD
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+ItalySerie A, Round 10
+Fiorentina vs Lecce
+Eutelsat 7B/7C @ 7.0E
+11168 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Service_01
+CW: 40 B6 FC F2 71 B3 84 A8
+---FEED-SEPARATOR---
 Dani Sat said:
 Spanish La Liga - Matchday 11
 Levante vs. Celta Vigo
@@ -112,15 +121,13 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: FE FD 71 6C A1 FE F6 95
 ---FEED-SEPARATOR---
-archiesat said:
-CW: 81 05 38 BE CF 45 23 37
-Click to expand...
-0.8°W
-10983 V 7200
-4:2:0
-ID: unnamed
----FEED-SEPARATOR---
-.
+EFL Highlights 2025/26 - Show 11
+Eutelsat 7B/7C @ 7.0E
+12684 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: EFL Highlights 2025/26 - Show 11
+CLEAR/FTA
 ---FEED-SEPARATOR---
 archiesat said:
 CW: 81 05 38 BE CF 45 23 37
@@ -141,15 +148,35 @@ Eutelsat 7B-7C   @ 07.0E
 ID:  VISION 2 S SHIELDS (Service Provider)
 1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
 ---FEED-SEPARATOR---
-EFL Highlights 2025/26 - Show 11
-Eutelsat 7B/7C @ 7.0E
-12684 V 7119
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID: EFL Highlights 2025/26 - Show 11
-Albahraniy said:
-CW: 53 23 CF 45 32 88 42 FC
-Click to expand...
+8W
+12733 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID UKI-1852-c3
+CW: 46 59 F5 94 70 DE 00 4E
+English FA Cup - 1st Round Proper
+Eastleigh v Walsall
+Please move
+---FEED-SEPARATOR---
+8W
+12724 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID UKI-1852 C4
+CW: 46 59 F5 94 70 DE 00 4E
+English FA Cup - 1st Round Proper
+Eastleigh v Walsall
+Please move
+---FEED-SEPARATOR---
+8W
+12673 V 7200 
+4:2:2
+DVBS-2 8PSK
+ID No name
+CW: 46 59 F5 94 70 DE 00 4E
+English FA Cup - 1st Round Proper
+South Shields v Shrewsbury Town
+Please move
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 12727  Vertical  7121,779
@@ -186,15 +213,6 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_24_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
-omid1348 said:
-			7E
-11503 H 15000
-4.2.2
-ID: UKI - 1486 BBC Mani Brackley
-CW: AA 23 44 11 AB AB 1A 80
-Click to expand...
-CW incorrect
----FEED-SEPARATOR---
 7E
 11503 H 15000
 11683 H 7200
@@ -221,17 +239,30 @@ CW: AE C4 BB 2D CC 99 E4 49
 ID: unnamed
 CW: 6C 2C 1B B3 C2 10 3B 0D
 ---FEED-SEPARATOR---
-omid1348 said:
-			7E
-10978 V 7200
+archiesat said:
+CW: 81 05 38 BE CF 45 23 37
+Click to expand...
+0.8°W
+10983 V 7200
+4:2:0
+ID: unnamed
+English FA Cup - 1st Round Proper
+South Shields vs Shrewsbury Town
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11684 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: UKI -1487 - WBD Backup Brackley v Notts Co
+CW: AA 23 44 11 AB BB 1A 80
+---FEED-SEPARATOR---
+7E
+10960 V 7200
 4.2.0
-ID: SAU-36 M
+ID: SAU043M
 FIFA U-17 World Cup Qatar
 3 Nov 2025 – 27 Nov 2025
-Tunisia U-17 - Fiji U-17
-CW: 2F 00 22 51 00 0F D9 EB
-Click to expand...
-this CW incorrect not working
+CW: 2F 00 22 51 00 0F D9 E8
 ---FEED-SEPARATOR---
 7E
 10978 V 7200
