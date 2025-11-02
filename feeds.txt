@@ -1,3 +1,11 @@
+Bundesliga
+FC Koln v Hamburger
+Eutelsat 7A/7B/7C @ 7.0°E
+11009 - H - 9875
+4:2:2
+ID: GVA_Fi03
+CW: A3 D1 EB 5F 51 37 0E 96
+---FEED-SEPARATOR---
 16E
 11176 H 9875
 4.2.0
@@ -61,6 +69,15 @@ DVB-S2 - 1080P - 8PSK
 ID: Service_01
 CW: 40 B6 FC F2 71 B3 84 A8
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+Barcelona vs. Elche
+ID : PMT PID: 3870, SID: 45 @ OVERON 3 (Servicios Audiovisuales Overon, S L)
+3B 31 FE 3D 6D A6 71 D0  #CW:59 C5 32 50 7C 72 D3 C1   #[E] PID:0F1Fh
+ID : PMT PID: 3880, SID: 46 @ OVERON 4 (Servicios Audiovisuales Overon, S L)
+45 AA 0E 1B AA A4 33 0C  #CW:33 68 9F 3A 45 F1 DB 11   #[E] PID:0F29h
+---FEED-SEPARATOR---
 Dani Sat said:
 Spanish La Liga - Matchday 11
 Alavés vs. Espanyol
@@ -110,7 +127,7 @@ CW: FE FD 71 6C A1 FE F6 95
 Thanks !!!
 ---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 12
-Sporting Gijón vs. Las Palmas
+Real Zaragoza v Deportivo La Coruña
 Eutelsat 10B @ 10.0°E
 10732 - V - 34000 
 |
@@ -245,6 +262,23 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_24_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+English FA Cup - 1st Round Proper
+Gainsborough Trinity vs. Accrington Stanley
+Intelsat 10-02 @ 1.0°W
+11490 - V - 7200 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+11499 - V - 7200 
+|
+4:2:2 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: AE C4 BB 2D CC 99 E4 49
+---FEED-SEPARATOR---
 Scottish League Cup - Semi Final
 Celtic vs. Rangers
 Eutelsat 7B/7C @ 7.0°E
@@ -316,6 +350,14 @@ FIFA U-17 World Cup Qatar
 Tunisia U-17 - Fiji U-17
 CW: 2F 00 22 51 00 0F D9 E
 8
+---FEED-SEPARATOR---
+FIFA U-17 Women’s World Cup Morocco 2025
+France vs Netherlands
+Eutelsat 7A/7B/7C @ 7.0°E
+11106 - V - 7200
+4:2:0
+ID: MRC003/Mu17M
+CW: D1 16 33 1A 1F 8A 88 31
 ---FEED-SEPARATOR---
 omid1348 said:
 			FIFA U-17 World Cup Qatar
