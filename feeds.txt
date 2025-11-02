@@ -117,6 +117,22 @@ DVB-S2 - 1080P - 8PSK
 ID: Service_01
 CW: 40 B6 FC F2 71 B3 84 A8
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,98Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 11
+Teams: Real Betis vs RCD Mallorca
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 22.00 CET
+xachik said:
+#CW:
+F3 87 5A D4 31 5D 67 F5
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10732 - V - 34000 |
 4:2:2
