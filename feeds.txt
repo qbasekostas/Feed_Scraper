@@ -58,6 +58,15 @@ CW: FE FD 71 6C A1 FE F6 95
 ---FEED-SEPARATOR---
 archiesat said:
 CW: 81 05 38 BE CF 45 23 37
+English FA Cup
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+12685 - H - 7200
+4:2:0
+ID: VISION 4 ISO
+---FEED-SEPARATOR---
+archiesat said:
+CW: 81 05 38 BE CF 45 23 37
 English FA Cup - 1st Round Proper
 South Shields vs Shrewsbury Town
 Click to expand...
@@ -110,6 +119,18 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_24_SDI
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Eutelsat 7B-7
+C   @ 07.0E
+11107  Horizontal  7201,801
+ID:Fi01_ACB (CM5000)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Spain, Liga ACB
+Basket Zaragoza 2002
+ vs. 
+Real Madrid 
+​
+6D A5 3D E9 82 BD 51 EF  #CW:76 C2 2B 63 72 B5 E7 0E
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 12594  Vertical  9599,854
