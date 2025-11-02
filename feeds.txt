@@ -85,6 +85,21 @@ DVB-S2 - 1080P - 8PSK
 ID: Service_01
 CW: 40 B6 FC F2 71 B3 84 A8
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,00Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 11
+Teams: FC Barcelona vs Elche CF
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 19.30 CET
+Dani Sat said:
+CW: 14 B3 25 EC AC 6A 0C 22
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 11
 Barcelona vs. Elche
 Eutelsat 10B @ 10.0°E
@@ -434,6 +449,14 @@ HD (1920*1080) 4:2:0
 ID: A1PRO Via 1
 Liga Femenina de Baloncesto de España
 Ensino - CB Avenida
+---FEED-SEPARATOR---
+10E
+11264 H 7200
+4.2.2
+ID: SELENIO 2
+Lega Basket Serie A
+Trapani - Brescia
+CW: 27 FB E3 05 CE 46 F9 0D
 ---FEED-SEPARATOR---
 16.0°E
 11131 H 15000
