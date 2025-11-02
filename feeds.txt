@@ -100,3 +100,14 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_24_SDI
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Turksat 2A-3A-4A @ 42.0E
+11093  Vertical  7501,834
+ID: E333 M (mediapro turkiye)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
+Turkiye, TBSL
+Buyukcekmece Basketbol
+ vs. 
+Petkim Spor Aliaga 
+​
+B4 22 53 5A B0 69 98 FF  #CW:16 C1 DE B5 6C 1F 4F DA  
