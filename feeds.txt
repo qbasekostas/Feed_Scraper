@@ -1,3 +1,11 @@
+28.2e
+12632 v 7200
+id: -
+4:2:0
+3. liga
+Hoffenheim II v Waldhof Mannheim
+CW: 02 11 AC BF DC 00 01 DD
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11189  Horizontal  9874,854
 ID:   FFBL Jena (Adtec Digital)
