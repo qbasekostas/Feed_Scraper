@@ -1,3 +1,12 @@
+16E
+11061 H 9875
+4.2.0
+ID: FFBL Freiburg
+Frauen-Bundesliga
+Freiburg W
+RB Leipzig W
+CW: 03 11 DF F3 BB 87 99 DB
+---FEED-SEPARATOR---
 Italian Serie A - Week 10
  Sassuolo v Genoa 
  ST: 18:30
@@ -6,6 +15,16 @@ EUTELSAT 10 cband
 3904 V 3750. 4:2:0
 Id: SERIE A 
 CW: 85 62 F2 D9 92 E4 C0 36
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+11132 Vertical 7198,442 3/4
+DVB-S2/8PSK (4:2:0)
+ITA 81 A
+Serie C Group B
+Ves Pisaro vs Juventus U23
+Stadio Tonino Benelli
+20:30 CET
+CW: 43 5D 15 B5 07 A6 AE 5B
 ---FEED-SEPARATOR---
 10E
 10732 V 34000
