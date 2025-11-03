@@ -14,6 +14,25 @@ LaLiga 2
 Real Valladolid CF - Granada CF
 CW: 00 F7 A9 A0 92 96 62 8A
 ---FEED-SEPARATOR---
+U17 FIFA World Cup
+Eutelsat 7B/7C @ 7.0E
+10960 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: SAU043M
+CW: D1 AF 7B FB A0 7B 1E 39
+---FEED-SEPARATOR---
+U17 FIFA World Cup, Group A, Round 1
+South Africa U17 vs Bolivia U17
+Eutelsat 7B/7C @ 7.0E
+10977 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:SAU-42 B
+omid1348 said:
+CW: D1 AF 7B FB A0 7B 1E 39
+Click to expand...
+---FEED-SEPARATOR---
 7E
 11014 V 7200
 4.2.0
