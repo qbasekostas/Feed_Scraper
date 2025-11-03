@@ -119,6 +119,12 @@ FIFA U-17 World Cup Qatar
 Costa Rica - UAE
 CW: D1 AF 7B FB A0 7B 1E 39
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11525 - H - 7500
+4:2:2
+ID: E333 M
+CW: F3 B6 98 41 E9 1C 30 35
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 10959  Horizontal  4937,876
 ID: DMI SNG 2 (Service Provider
