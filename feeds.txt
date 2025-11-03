@@ -42,6 +42,28 @@ LaLiga 2
 Real Valladolid CF - Granada CF
 CW: 00 F7 A9 A0 92 96 62 8A
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12726 - V - 7120
+4:2:0
+ID: FA CUP Live Draw
+CW: FF AD 36 E2 AA 03 11 BE
+---FEED-SEPARATOR---
+archiesat said:
+			1W
+10983 V 7200 
+4:2:2
+DVBS-2 8PSK
+ID No name
+ TNT Sport UK - FA CUP 
+Tamworth v Leyton Orient
+CW: BF 6C 67 92 EE 7D C7 32
+Click to expand...
+1W 10970 V 15000
+DVB - S2 16APSK - 5/6 - 11.6dB min for lock
+ID: VISION 1 (LINKS BROADCAST)
+4:2:0
+TNT Sports Ultimate UHD UK - FA CUP Tamworth v Leyton Orient
+---FEED-SEPARATOR---
 1W
 10983 V 7200 
 4:2:2
@@ -160,8 +182,18 @@ CW: D1 AF 7B FB A0 7B 1E 39
 11665 H 7200
 4.2.0
 ID: UKI-1955-1
-UEFA Champions League
+About: UEFA Champions League
 CW: B2 2C 6D 4B D4 D2 54 FA
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+12632 Vertical 4936,225 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-016-1
+ABA League
+Borac Mozzart vs FMP
+Dvorana Borac čačak
+19:00 CET
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11525 - H - 7500
