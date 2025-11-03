@@ -58,13 +58,13 @@ Real Valladolid CF - Granada CF
 CW: 00 F7 A9 A0 92 96 62 8A
 ---FEED-SEPARATOR---
 frightlinerman21 said:
-			28 East 12573 7200 V
+			28 East 12581 V 7200
  Encrypted MPEG-4
 ID: TNT Full PGM Reserve
 Tamworth-Leyton Orient
 IS There any cw !!
 Click to expand...
-BF 6C 67 92 EE 7D C7 32
+CW: BF 6C 67 92 EE 7D C7 32
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12726 - V - 7120
