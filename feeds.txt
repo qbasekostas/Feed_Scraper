@@ -183,6 +183,7 @@ CW: D1 AF 7B FB A0 7B 1E 39
 4.2.0
 ID: UKI-1955-1
 About: UEFA Champions League
+Teams' meeting press conference
 CW: B2 2C 6D 4B D4 D2 54 FA
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
