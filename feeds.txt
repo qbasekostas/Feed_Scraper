@@ -14,6 +14,16 @@ LaLiga 2
 Real Valladolid CF - Granada CF
 CW: 00 F7 A9 A0 92 96 62 8A
 ---FEED-SEPARATOR---
+omid1348 said:
+			FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+CW: D1 AF 7B FB A0 7B 1E 39
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+10995 - V - 7200
+4:2:0
+ID: SAU-38 M
+---FEED-SEPARATOR---
 U17 FIFA World Cup
 Eutelsat 7B/7C @ 7.0E
 10960 V 7200
