@@ -14,13 +14,23 @@ LaLiga 2
 Real Valladolid CF - Granada CF
 CW: 00 F7 A9 A0 92 96 62 8A
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+10986 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: SAU-039 B
+xFayez95 said:
+FIFA U-17 World Cup Qatar
+CW: 2F 00 22 51 00 0F D9 E8
+Click to expand...
+ NEW CW: 
+D1 AF 7B FB A0 7B 1E 39
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11023  Vertical  7201,801
 ID:   SAU-36 M (Service Provider)
 1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
 CW: D1 AF 7B FB A0 7B 1E 39
----FEED-SEPARATOR---
-.
 ---FEED-SEPARATOR---
 xFayez95 said:
 FIFA U-17 World Cup Qatar
