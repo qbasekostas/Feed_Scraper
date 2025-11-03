@@ -1,3 +1,12 @@
+Italian Serie A - Week 10
+ Sassuolo v Genoa 
+ ST: 18:30
+Cband 
+EUTELSAT 10 cband
+3904 V 3750. 4:2:0
+Id: SERIE A 
+CW: 85 62 F2 D9 92 E4 C0 36
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.2
@@ -13,6 +22,15 @@ ID: LIGA HYPERMOTION 1
 LaLiga 2
 Real Valladolid CF - Granada CF
 CW: 00 F7 A9 A0 92 96 62 8A
+---FEED-SEPARATOR---
+1W
+10983 V 7200 
+4:2:2
+DVBS-2 8PSK
+ID No name
+ TNT Sport UK - FA CUP 
+Tamworth v Leyton Orient
+CW: BF 6C 67 92 EE 7D C7 32
 ---FEED-SEPARATOR---
 omid1348 said:
 			FIFA U-17 World Cup Qatar
@@ -118,6 +136,13 @@ FIFA U-17 World Cup Qatar
 3 Nov 2025 – 27 Nov 2025
 Costa Rica - UAE
 CW: D1 AF 7B FB A0 7B 1E 39
+---FEED-SEPARATOR---
+7E
+11665 H 7200
+4.2.0
+ID: UKI-1955-1
+UEFA Champions League
+CW: B2 2C 6D 4B D4 D2 54 FA
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11525 - H - 7500
