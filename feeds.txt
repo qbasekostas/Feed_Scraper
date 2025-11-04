@@ -33,6 +33,7 @@ Eutelsat 7E
 ID: Pitch Coventry V Sheffield UTD
 English Championship - Coventry City v Sheffield United
 CW: 23 24 BB 02 CD 22 42 31
+Also reported as fta.
 ---FEED-SEPARATOR---
 36E
 11626 V 7200
