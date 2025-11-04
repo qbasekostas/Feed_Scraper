@@ -21,6 +21,19 @@ Nuremberg vs  Bayern Munich
 found CW:
  04 11 FE 13 ED 12 55 54
 ---FEED-SEPARATOR---
+EFL Championship
+Coventry V Sheff U
+Eutelsat  @ 7.0E
+12726 V 7119
+4.2.0
+Clear FTA
+---FEED-SEPARATOR---
+Eutelsat 7E
+12727 V 7120 S2 4:2:0
+ID: Pitch Coventry V Sheffield UTD
+English Championship - Coventry City v Sheffield United
+CW: 23 24 BB 02 CD 22 42 31
+---FEED-SEPARATOR---
 36E
 11626 V 7200
 11636 V 7200
@@ -121,6 +134,18 @@ Liverpool F.C. - Real Madrid CF
 CW: AB 21 1B E7 12 A1 CC 7F
 NEW CW: A3 3B 52 30 CA C1 2B B6
 back to old key
+---FEED-SEPARATOR---
+FaDeL® said:
+			Eutelsat 7B @ 7.0°E
+Fréq:11096 - V - 4937
+MPEG 4 - 4:2:0 - DVB-S2 -16APSK
+ID:F634/11.9/PSGvBAYERN FEED B2
+UEFA Champions League
+ Paris Saint-Germain vs Bayern Munich
+found CW: 
+09  DE 42 29 04 76 49 C3
+Click to expand...
+Not working
 ---FEED-SEPARATOR---
 FaDeL® said:
 			found CW: 
