@@ -89,6 +89,39 @@ Eutelsat 7B/7C @ 7.0°E
 ID: Fi03 GBGRM
 CW: 70 2E 96 34 55 E0 82 B7
 ---FEED-SEPARATOR---
+Akrem said:
+			Champions League, Group C
+Hapoel Holon BC
+​
+Cholet Basket
+​
+7°E
+11135
+  H  
+7200
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID: Live Broadcasting Line 1
+CW: AB 57 DC DE 46 DB 06 27
+Click to expand...
+European Champions League
+Hapoel Holon v Cholet
+---FEED-SEPARATOR---
+Champions League, Group C
+Hapoel Holon BC
+Cholet Basket
+​
+7°E
+11135
+  H  
+7200
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID: Live Broadcasting Line 1
+CW: AB 57 DC DE 46 DB 06 27
+---FEED-SEPARATOR---
 FIBA WASL
 Sharjah SC vs Al Arabi SC
 7°E
