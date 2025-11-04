@@ -109,6 +109,27 @@ Eutelsat 7B/7C @ 7.0°E
 ID: Fi03 GBGRM
 CW: 70 2E 96 34 55 E0 82 B7
 ---FEED-SEPARATOR---
+7°E
+11606
+ V  
+7200
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:E 394 FEED D
+CW: B1 1D 6D 3B D4 D2 54 FA
+---FEED-SEPARATOR---
+FTX said:
+			Eutelsat 3B 3E°
+10988 H 7500
+ID : E414 BEIN MENA PARIS MAIN FEED
+any CW Please ?
+Click to expand...
+UEFA Champions League
+About
+ - Paris Saint-Germain vs Bayern Munich
+CW: C6 E3 2A D3 F6 B1 5D 04
+---FEED-SEPARATOR---
 3.1E
 10978 H 7500
 4.2.0
@@ -117,28 +138,16 @@ UEFA Champions League
 Liverpool F.C. - Real Madrid CF
 CW: B2 C1 6A DD E3 28 FD 08
 ---FEED-SEPARATOR---
-Akrem said:
-			Champions League, Group E
-S.Oliver Wurzburg
-​
-Galatasaray SK
-​
-7°E
-12694
- V  
-7200
-DVB-S2
- - 4:2:2 - 
-8PSK
-ID:TKS.TRT.M17- A
-CW: 4E 5B 29 D2 6D D4 6A AB
-Click to expand...
-EUROCUP 
-Turk Telekom v Panionios
+13E
+12583 V 7200
+4.2.0
+ID: D-331 TX1
+Basketball Champions League
+Wurzburg - Galatasaray
+CW: FC 09 DC E1 72 ED 85 E4
 ---FEED-SEPARATOR---
-Champions League, Group E
-S.Oliver Wurzburg
-Galatasaray SK
+Eurocup
+ Turk Telekom vs Panionios
 ​
 7°E
 12694
