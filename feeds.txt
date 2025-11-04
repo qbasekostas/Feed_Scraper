@@ -1,3 +1,14 @@
+16E
+11176 H 9875
+4.2.0
+ID: FFBL Union Berlin
+Frauen-Bundesliga
+1. FC Union Berlin - VfL Wolfsburg Women
+FaDeL® said:
+			found CW:
+ 04 11 FE 13 ED 12 55 54
+Click to expand...
+---FEED-SEPARATOR---
 Gevs999 said:
 			16E
 11188 H 9875
@@ -92,7 +103,7 @@ CW: 2C 5E 2E B8 A2 5C C2 C0
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11096 - V - 4937
-MPEG 4 - 4:2:0 - DVB-S2
+MPEG 4 - 4:2:0 - DVB-S2 -16APSK
 ID:F634/11.9/PSGvBAYERN FEED B2
 UEFA Champions League
  Paris Saint-Germain vs Bayern Munich
@@ -127,7 +138,7 @@ FaDeL® said:
 Click to expand...
 Eutelsat 7B @ 7.0°E
 Fréq:11090 - V - 4826
-MPEG 4 - 4:2:0 - DVB-S2
+MPEG 4 - 4:2:0 - DVB-S2 -16APSK
 ID: EBU HEVC OU 1
 UEFA Champions League
 Liverpool Vs Real Madrid
@@ -186,6 +197,11 @@ ID: BeIn UCL Liverpool
 UEFA Champions League
 Liverpool F.C. - Real Madrid CF
 CW: B2 C1 6A DD E3 28 FD 08
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11188- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: BASKET
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 12592 V 7200
