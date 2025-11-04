@@ -121,6 +121,26 @@ Eutelsat 7B/7C @ 7.0°E
 ID: Fi03 GBGRM
 CW: 70 2E 96 34 55 E0 82 B7
 ---FEED-SEPARATOR---
+FaDeL® said:
+			found CW: 
+09  DE 42 29 04 76 49 C3
+Click to expand...
+Eutelsat 7B @ 7.0°E
+Fréq:11090 - V - 4826
+MPEG 4 - 4:2:0 - DVB-S2
+ID: EBU HEVC OU 1
+UEFA Champions League
+Liverpool Vs Real Madrid
+---FEED-SEPARATOR---
+10E
+10737 H 7200
+4.2.0
+ID: E-412 BRUG-BARC
+About: UEFA Champions League
+Teams' meeting press conference
+Club Brugge - Barcelona
+CW: C2 21 6C 4F 14 D2 54 3A
+---FEED-SEPARATOR---
 Dani Sat said:
 UEFA CL - Matchday 4: 
 Multiplex & Highlights
@@ -131,9 +151,12 @@ Eutelsat 7B/7C @ 7.0°E
  | H.264
 1920*1080 | DVB-S2 | 8PSK
 ID: GVA_Fi01
-CW: 2C 5E 2E B8 A2 5C C2 C0
 Click to expand...
-New CW: 09 DE 42 29 04 76 49 C3
+New
+FaDeL® said:
+			found CW: 
+09  DE 42 29 04 76 49 C3
+Click to expand...
 ---FEED-SEPARATOR---
 UEFA Champions League
 Paris Saint-Germain vs Bayern Munich
@@ -163,6 +186,22 @@ ID: BeIn UCL Liverpool
 UEFA Champions League
 Liverpool F.C. - Real Madrid CF
 CW: B2 C1 6A DD E3 28 FD 08
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12592 V 7200
+4:2:0
+ID: Medialink CRO-024/1
+Basketball Champions League: 
+Trieste vs Igokea
+CW: AE 54 FA FC 30 BE 64 52
+---FEED-SEPARATOR---
+10E
+11246 H 7200
+4.2.0
+ID: F489 MAIN
+EuroCup Basketball
+Buduncnost - Besiktas
+CW: 04 11 AB C0 CD 20 25 12
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 6
 KK Budućnost VOLI vs Beşiktaş Fibabanka
