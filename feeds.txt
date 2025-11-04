@@ -164,6 +164,15 @@ UEFA Champions League
 Liverpool F.C. - Real Madrid CF
 CW: B2 C1 6A DD E3 28 FD 08
 ---FEED-SEPARATOR---
+Eurocup, Group B, Round 6
+KK Budućnost VOLI vs Beşiktaş Fibabanka
+Eutelsat 7B/7C @ 7.0E
+12637 H 4936
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: MNE-001 main
+CW: 7E C5 24 67 17 E4 38 33
+---FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10985 V 9600
 ID: POL11_HARM
