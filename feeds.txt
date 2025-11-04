@@ -1,3 +1,11 @@
+7E
+11543 V 7200
+4.2.0
+ID: E-387 Main
+UEFA Youth League - League stage
+CW: AB 21 1B E7 12 A1 CC 7F
+NEW CW: A3 3B 52 30 CA C1 2B B6
+---FEED-SEPARATOR---
 UEFA Youth League (U-19) - Matchday 4
 Paris St Germain U-19 v Bayern Munich U-19
  ST: 14:00
