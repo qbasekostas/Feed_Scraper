@@ -34,3 +34,25 @@ Eutelsat 7B @ 7.0°E
 Fréq:11553 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
 ID: pSG v ASTON VILLA MAIN FEED
+---FEED-SEPARATOR---
+UEFA Youth League (U-19) - Matchday 4
+Olympiakos U-19 vs. PSV Eindhoven U-19
+Eutelsat 7B/7C @ 7.0°E
+12572 - H - 9700 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OTE 1
+CW: BB 13 23 F1 DF BC 11 AC
+---FEED-SEPARATOR---
+UEFA Youth League (U-19) - Matchday 4
+Liverpool U-19 vs. Real Madrid U-19
+Eutelsat 7B/7C @ 7.0°E
+12560 - H - 9875 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Fi03 GBGRM
+CW: 70 2E 96 34 55 E0 82 B7
