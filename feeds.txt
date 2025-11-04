@@ -138,6 +138,13 @@ UEFA Champions League
 Liverpool F.C. - Real Madrid CF
 CW: B2 C1 6A DD E3 28 FD 08
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:12634 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  YSM-012 Main
+ABA League
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 13E
 12583 V 7200
 4.2.0
