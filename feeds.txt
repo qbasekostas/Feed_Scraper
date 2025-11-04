@@ -121,15 +121,29 @@ Eutelsat 7B/7C @ 7.0°E
 ID: Fi03 GBGRM
 CW: 70 2E 96 34 55 E0 82 B7
 ---FEED-SEPARATOR---
-7°E
-11606
- V  
-7200
-DVB-S2
- - 4:2:0 - 
-8PSK
-ID:E 394 FEED D
-CW: B1 1D 6D 3B D4 D2 54 FA
+Dani Sat said:
+UEFA CL - Matchday 4: 
+Multiplex & Highlights
+Eutelsat 7B/7C @ 7.0°E
+10997 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi01
+CW: 2C 5E 2E B8 A2 5C C2 C0
+Click to expand...
+New CW: 09 DE 42 29 04 76 49 C3
+---FEED-SEPARATOR---
+UEFA Champions League
+Paris Saint-Germain vs Bayern Munich
+Eutelsat 3B @ 3.1° E
+Fréq:10958 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: beIN SPORTS
+Fréq:10968 - H - 7500
+ID:  Service-1
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
 FTX said:
 			Eutelsat 3B 3E°
@@ -150,6 +164,15 @@ UEFA Champions League
 Liverpool F.C. - Real Madrid CF
 CW: B2 C1 6A DD E3 28 FD 08
 ---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10985 V 9600
+ID: POL11_HARM
+Event: 
+Men's basketball: FIBA Europe Cup - match: Anwil Włocławek - Basketball Löwen Braunschweig
+4.2.2-
+ DVB-S2 - 8PSK
+CW: DC AE 20 AA 25 BB 11 F1
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:12634 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
@@ -164,6 +187,18 @@ ID: D-331 TX1
 Basketball Champions League
 Wurzburg - Galatasaray
 CW: FC 09 DC E1 72 ED 85 E4
+---FEED-SEPARATOR---
+Eurocup BASKETBALL
+Trento vs Lietkabilis
+7°E
+11164
+ V  
+7500
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:ENC1 S9 MPEG4 HD
+CW: ED 40 B2 DF 5F C3 74 96
 ---FEED-SEPARATOR---
 Eurocup
  Turk Telekom vs Panionios
