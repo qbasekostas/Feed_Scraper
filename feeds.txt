@@ -67,6 +67,26 @@ Fréq:11553 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
 ID: pSG v ASTON VILLA MAIN FEED
 ---FEED-SEPARATOR---
+UEFA CL - Matchday 4: 
+Multiplex & Highlights
+Eutelsat 7B/7C @ 7.0°E
+10997 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi01
+CW: 2C 5E 2E B8 A2 5C C2 C0
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11096 - V - 4937
+MPEG 4 - 4:2:0 - DVB-S2
+ID:F634/11.9/PSGvBAYERN FEED B2
+UEFA Champions League
+ Paris Saint-Germain vs Bayern Munich
+found CW: 
+09  DE 42 29 04 76 49 C3
+---FEED-SEPARATOR---
 UEFA Youth League (U-19) - Matchday 4
 Olympiakos U-19 vs. PSV Eindhoven U-19
 Eutelsat 7B/7C @ 7.0°E
@@ -89,24 +109,46 @@ Eutelsat 7B/7C @ 7.0°E
 ID: Fi03 GBGRM
 CW: 70 2E 96 34 55 E0 82 B7
 ---FEED-SEPARATOR---
+3.1E
+10978 H 7500
+4.2.0
+ID: BeIn UCL Liverpool
+UEFA Champions League
+Liverpool F.C. - Real Madrid CF
+CW: B2 C1 6A DD E3 28 FD 08
+---FEED-SEPARATOR---
 Akrem said:
-			Champions League, Group C
-Hapoel Holon BC
+			Champions League, Group E
+S.Oliver Wurzburg
 ​
-Cholet Basket
+Galatasaray SK
 ​
 7°E
-11135
-  H  
+12694
+ V  
 7200
 DVB-S2
- - 4:2:0 - 
+ - 4:2:2 - 
 8PSK
-ID: Live Broadcasting Line 1
-CW: AB 57 DC DE 46 DB 06 27
+ID:TKS.TRT.M17- A
+CW: 4E 5B 29 D2 6D D4 6A AB
 Click to expand...
-European Champions League
-Hapoel Holon v Cholet
+EUROCUP 
+Turk Telekom v Panionios
+---FEED-SEPARATOR---
+Champions League, Group E
+S.Oliver Wurzburg
+Galatasaray SK
+​
+7°E
+12694
+ V  
+7200
+DVB-S2
+ - 4:2:2 - 
+8PSK
+ID:TKS.TRT.M17- A
+CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
 Champions League, Group C
 Hapoel Holon BC
