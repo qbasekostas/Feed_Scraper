@@ -51,6 +51,16 @@ UEFA Youth League
 S.L. Benfica - Bayer 04 Leverkusen
 FTA
 ---FEED-SEPARATOR---
+UEFA Champions League
+ Qarabag  Vs Chelsea
+Eutelsat 3B @ 3.1° E
+Fréq:10958 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: beIN SPORTS
+Fréq:10968 - H - 7500
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
 7E
 11606 V 7200
 4.2.0
@@ -133,6 +143,39 @@ Eutelsat 7B-7C   @ 07.0E
 ID: Fi04 GBIV (Eurovision)
 1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
 CW: A3 01 2B CF 60 12 BB 2D
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12601 V 7200
+4:2:0
+ID: OTE 1
+Basketball Champions League: 
+Promitheas Patrasso vs Legia
+CW: FA 82 AD 29 37 FA 15 46
+---FEED-SEPARATOR---
+Eurocup
+Eutelsat 7B/7C @ 7.0E
+12726 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: LAT-002
+CW: BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
+13E
+12592 V 7200
+4.2.0
+ID: TKS TRT M20 A
+Basketball Champions League
+Bursaspor - Joventut
+CW: EE 83 AF 20 56 FD 38 8B
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12610 V 7200
+4:2:0
+ID: LTU-005 main
+Basketball Champions League:
+Rytas vs H
+eidelberg
+CW: CF 37 ED F3 35 CC 96 97
 ---FEED-SEPARATOR---
 7E
 11588 V 7200
