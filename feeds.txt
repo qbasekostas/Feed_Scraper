@@ -212,6 +212,22 @@ Crvena Zvezda - Panathinaikos
 CW: 18 EE 75 7B DB A2 2E AB
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
+12583 V 7200
+4:2:0
+ID: E-285
+Basketball Champions League: 
+Benfica vs Le Mans
+CW: CB 72 AE EB 09 BD 04 CA
+---FEED-SEPARATOR---
+10E
+10721 H 7200
+4.2.2
+ID: SELENIO 2
+Lega Basket Serie A
+Brescia - Milano
+CW: C9 8C 37 8C FE 29 DE 05
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
 12601 V 7200
 4:2:0
 ID: OTE 1
