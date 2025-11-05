@@ -34,6 +34,14 @@ MPEG 4 - 4:2:2 - DVB-S2
 ID:  OVERON 3
 CW: 2F 97 9D 63 C4 51 58 6D
 ---FEED-SEPARATOR---
+7E
+12694 V 7120
+4.2.0
+ID: Pitch Portsmouth v Wrexham
+Championship
+Portsmouth -Wrexham A.F.C. -
+CW: 34 86 73 2D 22 CD 63 52
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11023 Horizontal 7202,17
 ID: VNMVTI 003 M (VNPT)
@@ -90,6 +98,15 @@ ID: SAU-41 M - SAU-039 M - SAU-38 M
 FIFA U-17 World Cup Qatar
 3 Nov 2025 – 27 Nov 2025
 CW: D3 A2 E5 5A C2 7F DC 1D
+---FEED-SEPARATOR---
+Eutelsat 16A (16,0E)
+12550 H 7200
+ DVB-S2 8PSK FEC 2/3
+ HD (1920*1080) 4:2:0
+ ID: Unname
+ FTA
+UEFA Champions League - Matchday 4
+Club Brugge KV - FC Barcelona
 ---FEED-SEPARATOR---
 7E
 11523 V 7200
@@ -241,6 +258,22 @@ ID: IMG A EU
 EuroLeague
 Crvena Zvezda - Panathinaikos
 CW: 18 EE 75 7B DB A2 2E AB
+---FEED-SEPARATOR---
+7E
+12685 H 7200
+4.2.0
+ID: ITA
+EuroCup Basketball
+Reyer - Hamburg
+CW: ED 40 B2 DF 5F C3 74 96
+---FEED-SEPARATOR---
+7E
+11189 H 7200
+4.2.0
+ID: YSM-012 Main
+EuroCup Basketball
+Bahcesehir - Hapoel J-M
+CW: 05 7A DF 5E 5F CC 05 30
 ---FEED-SEPARATOR---
 7E
 12645 H 7200
