@@ -1,3 +1,13 @@
+16E
+11176 H 9875
+11188 H 9875
+4.2.0
+ID: FFBLFrankfurt - FFBL Essen
+Frauen-Bundesliga
+Eintracht Frankfurt - 1. FC Köln 
+SGS Essen - SV Werder Bremen 
+CW: 05 11 CA E0 BC 22 50 2E
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -210,6 +220,25 @@ ID: IMG A EU
 EuroLeague
 Crvena Zvezda - Panathinaikos
 CW: 18 EE 75 7B DB A2 2E AB
+---FEED-SEPARATOR---
+Robertooo said:
+			Eutelsat 7B/7C (7.0 E)
+12564 Horizontal 4935,896 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-015BU
+BG 3x3 League
+Os Braca Vilotijevic vs Os Vuk Karadzic
+CW: AB BA 20 85 25 20 26 6B
+Click to expand...
+Sorry, this is 16.0 E and not 7.0 E
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+12564 Horizontal 4935,896 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-015BU
+BG 3x3 League
+Os Braca Vilotijevic vs Os Vuk Karadzic
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 12583 V 7200
