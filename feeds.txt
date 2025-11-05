@@ -34,6 +34,18 @@ MPEG 4 - 4:2:2 - DVB-S2
 ID:  OVERON 3
 CW: 2F 97 9D 63 C4 51 58 6D
 ---FEED-SEPARATOR---
+omid1348 said:
+			7E
+12694 V 7120
+4.2.0
+ID: Pitch Portsmouth v Wrexham
+Championship
+Portsmouth -Wrexham A.F.C. -
+CW: 34 86 73 2D 22 CD 63 52
+Click to expand...
+ASIASAT5 100.5E
+3905 H 7120 
+---FEED-SEPARATOR---
 7E
 12694 V 7120
 4.2.0
