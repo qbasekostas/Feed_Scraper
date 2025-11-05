@@ -1,3 +1,9 @@
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  OVERON 3
+CW: 2F 97 9D 63 C4 51 58 6D
+---FEED-SEPARATOR---
 Mundial Femenino Sub-17 - Playoffs
 Brasil Sub-17 F
  VS 
@@ -26,6 +32,27 @@ FIFA U-17 World Cup Qatar
 Tajikestan - Czech Republic
 Panama - Ireland
 CW: D3 A2 E5 5A C2 7F DC 1D
+---FEED-SEPARATOR---
+FIFA U-17 World Cup Qatar
+36.0E
+- Name:           SAU-36 M (Service Provider)
+- Freq: 11022,753
+- Pol: Vertical
+- SR: 7199,852
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+---
+France - Chile
+- Name:           SAU-44 M (Service Provider)
+- Freq: 11004,645
+- Pol: Vertical
+- SR: 7199,852
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+PID: 200h  B8h-Crypt8:26 5B 52 AE 9D 93 03 A9  [E] Count:44781
+found CW: D3 A2 E5 5A C2 7F DC 1D
 ---FEED-SEPARATOR---
 36E
 10960 V 7200
@@ -144,14 +171,6 @@ ID: Fi04 GBIV (Eurovision)
 1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
 CW: A3 01 2B CF 60 12 BB 2D
 ---FEED-SEPARATOR---
-Hot Bird (13.0°E)
-12601 V 7200
-4:2:0
-ID: OTE 1
-Basketball Champions League: 
-Promitheas Patrasso vs Legia
-CW: FA 82 AD 29 37 FA 15 46
----FEED-SEPARATOR---
 Eurocup
 Eutelsat 7B/7C @ 7.0E
 12726 V 7200
@@ -183,3 +202,19 @@ CW: CF 37 ED F3 35 CC 96 97
 ID: aris vs salak
 EuroCup Basketball
 CW: F1 6C A1 FE 0C DC 20 08
+---FEED-SEPARATOR---
+7E
+11070 H 7200
+4.2.0
+ID: IMG A EU
+EuroLeague
+Crvena Zvezda - Panathinaikos
+CW: 18 EE 75 7B DB A2 2E AB
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12601 V 7200
+4:2:0
+ID: OTE 1
+Basketball Champions League: 
+Promitheas Patrasso vs Legia
+CW: FA 82 AD 29 37 FA 15 46
