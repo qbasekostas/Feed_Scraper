@@ -1,4 +1,13 @@
 36E
+11626 V 7200
+4.2.0
+ID: SAU-043 B
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+Paraguay - Uzbekistan
+CW: D3 A2 E5 5A C2 7F DC 1D
+---FEED-SEPARATOR---
+36E
 11014 V 7200
 11645 V 7200
 4.2.0
