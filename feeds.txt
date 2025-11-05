@@ -27,6 +27,12 @@ Tajikestan - Czech Republic
 Panama - Ireland
 CW: D3 A2 E5 5A C2 7F DC 1D
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11023 Horizontal 7202,17
+ID: VNMVTI 003 M (VNPT)
+1920x1080 |16,053Mb/Sec |8PSK |4:2:0 HD
+CW: D1 27 D4 CC EF 2A 52 6B
+---FEED-SEPARATOR---
 7E
 11523 V 7200
 4.2.0
@@ -35,9 +41,21 @@ UEFA Youth League
 S.L. Benfica - Bayer 04 Leverkusen
 FTA
 ---FEED-SEPARATOR---
+10E
+11305 V 7200
+4.2.0
+ID: E-228 Main
+UEFA Youth League - Winners Play Offs
+FC Porto U19
+-
+Bravo U19
+CW: CA CA 20 B4 20 CA CA B4
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11091- V - 4826
-MPEG 4 - 4:2:0 - DVB-S2x -16APSK
+MPEG 4 - 
+4:2:0
+ - DVB-S2x -16APSK
 ID:      HOL 270-3
 UEFA Champions League
  Ajax Amsterdam vs Galatasaray
@@ -45,7 +63,9 @@ CW: F9 E5 F3 D1 86 0B 81 12
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11096 - V - 4826
-MPEG 4 - 4:2:0 - DVB-S2x -16APSK
+MPEG 4 - 
+4:2:0
+ - DVB-S2x -16APSK
 ID: EBU HEVC OU 1
 UEFA Champions League
 Manchester City vs Borussia Dortmund
