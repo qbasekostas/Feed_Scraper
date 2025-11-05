@@ -5,3 +5,13 @@ ID: E-285
 UEFA Youth League
 S.L. Benfica - Bayer 04 Leverkusen
 FTA
+---FEED-SEPARATOR---
+International Youth, UEFA Youth League
+Ajax Amsterdam
+ vs. 
+Galatasaray SK
+Eutelsat 7B-7C   @ 07.0E
+12548  Horizontal  9874,854
+ID: Fi04 GBIV (Eurovision)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+CW: A3 01 2B CF 60 12 BB 2D
