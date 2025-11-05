@@ -128,6 +128,14 @@ UEFA Youth League
 S.L. Benfica - Bayer 04 Leverkusen
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 3C @ 3.1° E
+Fréq:3798 - R - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  UEFA
+UEFA Champions League
+ Olympique Marseille vs Atalanta
+CW: 5D 91 8C 7A 9D EA 58 DF
+---FEED-SEPARATOR---
 7E
 11543 V 7200
 11552 V 7200
