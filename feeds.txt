@@ -1,3 +1,14 @@
+36E
+11014 V 7200
+11645 V 7200
+4.2.0
+ID: SAU35-M / SAU-42 M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+Tajikestan - Czech Republic
+Panama - Ireland
+CW: D3 A2 E5 5A C2 7F DC 1D
+---FEED-SEPARATOR---
 7E
 11523 V 7200
 4.2.0
