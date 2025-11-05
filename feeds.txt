@@ -1,3 +1,12 @@
+Mundial Femenino Sub-17 - Playoffs
+Brasil Sub-17 F
+ VS 
+Corea del Norte Sub-17 F
+11460  Vertical  7201,79
+ID: MRC003/Mu17M (SNRT/S.MCM)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: D1 27 D4 CC EF 2A 52 6B
+---FEED-SEPARATOR---
 36E
 11626 V 7200
 4.2.0
