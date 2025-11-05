@@ -26,6 +26,17 @@ UEFA Youth League
 S.L. Benfica - Bayer 04 Leverkusen
 FTA
 ---FEED-SEPARATOR---
+UEFA Youth League (U-19) - Matchday 4
+Newcastle Utd U-19 vs. Athletic Bilbao U-19
+Eutelsat 7B/7C @ 7.0°E
+12560 - H - 9875 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Fi03 CBIV
+CW: BE 3F 0F 0C 04 A2 10 B6
+---FEED-SEPARATOR---
 International Youth, UEFA Youth League
 Ajax Amsterdam
  vs. 
