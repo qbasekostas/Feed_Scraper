@@ -35,6 +35,22 @@ UEFA Youth League
 S.L. Benfica - Bayer 04 Leverkusen
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11091- V - 4826
+MPEG 4 - 4:2:0 - DVB-S2x -16APSK
+ID:      HOL 270-3
+UEFA Champions League
+ Ajax Amsterdam vs Galatasaray
+CW: F9 E5 F3 D1 86 0B 81 12
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11096 - V - 4826
+MPEG 4 - 4:2:0 - DVB-S2x -16APSK
+ID: EBU HEVC OU 1
+UEFA Champions League
+Manchester City vs Borussia Dortmund
+CW: F9 E5 F3 D1 86 0B 81 12
+---FEED-SEPARATOR---
 UEFA Youth League (U-19) - Matchday 4
 Newcastle Utd U-19 vs. Athletic Bilbao U-19
 Eutelsat 7B/7C @ 7.0°E
