@@ -51,6 +51,15 @@ UEFA Youth League
 S.L. Benfica - Bayer 04 Leverkusen
 FTA
 ---FEED-SEPARATOR---
+UEFA Youth League - Domestic Champions path round two - 2nd leg
+PAOK U19 vs Akureyri U19
+7e
+12524 V 9700
+MPEG 4 - 
+4:2:2
+ID: AVP OU
+CW: AC 13 23 E2 DF BC 13 AE
+---FEED-SEPARATOR---
 10E
 11305 V 7200
 4.2.0
