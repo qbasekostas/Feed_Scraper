@@ -34,13 +34,10 @@ MPEG 4 - 4:2:2 - DVB-S2
 ID:  OVERON 3
 CW: 2F 97 9D 63 C4 51 58 6D
 ---FEED-SEPARATOR---
-Mundial Femenino Sub-17 - Playoffs
-Brasil Sub-17 F
- VS 
-Corea del Norte Sub-17 F
-11460  Vertical  7201,79
-ID: MRC003/Mu17M (SNRT/S.MCM)
-1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Eutelsat 7B-7C @ 07.0E
+11023 Horizontal 7202,17
+ID: VNMVTI 003 M (VNPT)
+1920x1080 |16,053Mb/Sec |8PSK |4:2:0 HD
 CW: D1 27 D4 CC EF 2A 52 6B
 ---FEED-SEPARATOR---
 36E
@@ -94,12 +91,6 @@ FIFA U-17 World Cup Qatar
 3 Nov 2025 – 27 Nov 2025
 CW: D3 A2 E5 5A C2 7F DC 1D
 ---FEED-SEPARATOR---
-Eutelsat 7B-7C @ 07.0E
-11023 Horizontal 7202,17
-ID: VNMVTI 003 M (VNPT)
-1920x1080 |16,053Mb/Sec |8PSK |4:2:0 HD
-CW: D1 27 D4 CC EF 2A 52 6B
----FEED-SEPARATOR---
 7E
 11523 V 7200
 4.2.0
@@ -107,19 +98,6 @@ ID: E-285
 UEFA Youth League
 S.L. Benfica - Bayer 04 Leverkusen
 FTA
----FEED-SEPARATOR---
-omid1348 said:
-			7E
-11543 V 7200
-11552 V 7200
-4.2.0
-ID: E458 Feed C NWC ATH PREV CO
-ID: E458 FEED D NWC ATH PREV RE
-UEFA Champions League
-Club Brugge KV - FC Barcelona
-CW: A3 3B 52 30 CA C1 2B B6
-Click to expand...
-Newcastle - Athletic Bilbao
 ---FEED-SEPARATOR---
 7E
 11543 V 7200
@@ -130,19 +108,6 @@ ID: E458 FEED D NWC ATH PREV RE
 UEFA Champions League
 Newcastle United F.C. - Athletic Club
 CW: A3 3B 52 30 CA C1 2B B6
----FEED-SEPARATOR---
-FaDeL® said:
-			Eutelsat 7B @ 7.0°E
-Fréq:11091- V - 4826
-MPEG 4 - 
-4:2:0
- - DVB-S2x -16APSK
-ID:      HOL 270-3
-UEFA Champions League
- Ajax Amsterdam vs Galatasaray
-CW: F9 E5 F3 D1 86 0B 81 12
-Click to expand...
-Club burugge- Barcelona
 ---FEED-SEPARATOR---
 UEFA Champions League
  Qarabag  Vs Chelsea
@@ -203,7 +168,7 @@ MPEG 4 -
  - DVB-S2x -16APSK
 ID:      HOL 270-3
 UEFA Champions League
- Ajax Amsterdam vs Galatasaray
+Club Brugge KV- Barcelona
 CW: F9 E5 F3 D1 86 0B 81 12
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
@@ -276,6 +241,14 @@ ID: IMG A EU
 EuroLeague
 Crvena Zvezda - Panathinaikos
 CW: 18 EE 75 7B DB A2 2E AB
+---FEED-SEPARATOR---
+7E
+12645 H 7200
+4.2.0
+ID: BB EC Ulm
+EuroCup Basketball
+Ulm - Lions
+CW: BB EE 05 AE 11 20 25 56
 ---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 10985 Vertical 9597,91 3/4
