@@ -260,6 +260,14 @@ Crvena Zvezda - Panathinaikos
 CW: 18 EE 75 7B DB A2 2E AB
 ---FEED-SEPARATOR---
 7E
+12643 V 7200
+4.2.0
+ID: ROU-015 MAIN
+FIBA Europe Cup
+Antwerp Giants - Porto
+CW: F1 BA 05 B0 11 AB CD 89
+---FEED-SEPARATOR---
+7E
 12685 H 7200
 4.2.0
 ID: ITA
