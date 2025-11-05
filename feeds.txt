@@ -27,6 +27,16 @@ Tajikestan - Czech Republic
 Panama - Ireland
 CW: D3 A2 E5 5A C2 7F DC 1D
 ---FEED-SEPARATOR---
+36E
+10960 V 7200
+10995 V 7200
+11635 V 7200
+4.2.0
+ID: SAU-41 M - SAU-039 M - SAU-38 M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+CW: D3 A2 E5 5A C2 7F DC 1D
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11023 Horizontal 7202,17
 ID: VNMVTI 003 M (VNPT)
