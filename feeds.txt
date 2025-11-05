@@ -52,6 +52,22 @@ S.L. Benfica - Bayer 04 Leverkusen
 FTA
 ---FEED-SEPARATOR---
 7E
+11606 V 7200
+4.2.0
+ID: E394 FEED D
+UEFA Champions League
+Pafos FC - Villarreal CF (Maybe)
+CW: B1 1D 6D 3B D4 D2 54 FA
+---FEED-SEPARATOR---
+7E
+11597 V 7200
+4.2.0
+ID: E394 FEED C
+UEFA Champions League
+Pafos FC - Villarreal CF (Maybe)
+CW: DD DD 6D 27 D4 D2 54 FA
+---FEED-SEPARATOR---
+7E
 10997 V 9875
 4.2.2
 ID: UCL_IHL_LK_Fi01
@@ -117,3 +133,10 @@ Eutelsat 7B-7C   @ 07.0E
 ID: Fi04 GBIV (Eurovision)
 1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
 CW: A3 01 2B CF 60 12 BB 2D
+---FEED-SEPARATOR---
+7E
+11588 V 7200
+4.2.0
+ID: aris vs salak
+EuroCup Basketball
+CW: F1 6C A1 FE 0C DC 20 08
