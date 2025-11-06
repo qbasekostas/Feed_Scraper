@@ -65,6 +65,12 @@ DVB-S2
 ID:BULI Weekly
 CW: CE BD 66 F1 70 C2 80 B2
 ---FEED-SEPARATOR---
+7e
+12727 V 7120
+4:2:0
+ID: Pitch Reading v Stevenage
+CW: 97 82 6D 86 D7 66 CD 0A
+---FEED-SEPARATOR---
 FIFA U-17 World Cup Qatar
 Eutelsat 36B/36C (Express AMU1) @ 36.0E
 11636  Vertical  7201,79
@@ -181,6 +187,7 @@ CW: 9E A0 B6 F4 42 0A 69 B5
 4.2.2
 ID: SELENIO 3
 Lega Basket Serie A
+Vanoli Cremona - Trento
 CW: 92 55 A2 89 76 3A 36 E6
 ---FEED-SEPARATOR---
 Euroleague
