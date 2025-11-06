@@ -8,3 +8,10 @@ DVB-S2
 8PSK
 ID:BULI Weekly
 CW: CE BD 66 F1 70 C2 80 B2
+---FEED-SEPARATOR---
+[
+B]Eutelsat 7B-7C   @ 07.0E
+11593  Vertical  9874,854
+ID: EuroLeague _M1Main (TV1)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+CW: C1 CB 9A 26 EC FE 92 7C
