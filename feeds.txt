@@ -27,3 +27,20 @@ B]Eutelsat 7B-7C   @ 07.0E
 ID: EuroLeague _M1Main (TV1)
 1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
 CW: C1 CB 9A 26 EC FE 92 7C
+---FEED-SEPARATOR---
+UEFA Europa League - Matchday 4
+Rangers vs. Roma
+Intelsat 10-02 @ 1.0°W
+10965 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 9E A0 B6 F4 42 0A 69 B5
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11070 - H - 7200
+4:2:0
+ID: IMG A EU
+CW: 8E F4 38 BA A4 FA 1A B8
