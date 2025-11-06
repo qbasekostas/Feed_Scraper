@@ -54,6 +54,24 @@ UEFA Europa League
 FK Crvena zvezda - LOSC Lille
 CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
+UEFA Europa League
+GNK Dinamo Zagreb vs Celta Vigo
+Eutelsat 7B/7C @ 7.0E
+11459 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: CRO-021/1
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+11149 Horizontal 17136,191 2/3
+DVB-S2/16APSK (4:2:0)
+ITA 274 1
+UEFA Europa League
+Crvena Zvezda vs Lille
+18:45 CET
+CW: AD B4 52 B3 BD C2 36 B5
+---FEED-SEPARATOR---
 UEL & UECL - Matchday 4/3: 
 Multiplex & Highlights
 Eutelsat 7B/7C @ 7.0°E
@@ -101,6 +119,14 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 9E A0 B6 F4 42 0A 69 B5
+---FEED-SEPARATOR---
+7E
+12634 V 7200
+4.2.0
+ID: F521_Backup
+EuroLeague
+Paris  - Bayern Munich
+CW: 94 9F BE F1 C2 A9 B3 1E
 ---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
