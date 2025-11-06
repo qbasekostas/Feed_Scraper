@@ -9,6 +9,13 @@ DVB-S2
 ID:BULI Weekly
 CW: CE BD 66 F1 70 C2 80 B2
 ---FEED-SEPARATOR---
+FIFA U-17 World Cup Qatar
+Eutelsat 36B/36C (Express AMU1) @ 36.0E
+11636  Vertical  7201,79
+ID: SAU-41 M (Service Provider)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: D4 F9 5E 2B 50 CA E7 01
+---FEED-SEPARATOR---
 36E
 10960 V 7200
 10996 V 7200
@@ -39,7 +46,15 @@ ID: EuroLeague _M1Main (TV1)
 1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
 CW: C1 CB 9A 26 EC FE 92 7C
 ---FEED-SEPARATOR---
-UEFA EL - Matchday 4: 
+16E
+12556 H 4937
+4.2.0
+ID: YSM-013M
+UEFA Europa League
+FK Crvena zvezda - LOSC Lille
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+UEL & UECL - Matchday 4/3: 
 Multiplex & Highlights
 Eutelsat 7B/7C @ 7.0°E
 11021 - V - 9875 
@@ -86,6 +101,16 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 9E A0 B6 F4 42 0A 69 B5
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+11070 - H - 7200
+4:2:0
+ID: IMG A EU
+CW: 8E F4 38 BA A4 FA 1A B8
+Click to expand...
+Euroleague Basketball
+ Fenerbahce v Lyon-Villeurbanne
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11070 - H - 7200
