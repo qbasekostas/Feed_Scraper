@@ -1,3 +1,59 @@
+Robertooo said:
+			Eutelsat 16 A (16.0 E)
+11164 Horizontal 9872,871
+DVB-S2/8PSK (4:2:0)
+FFBL Hoffeneim
+Frauen-Bundesliga
+Hoffenheim N vs Freiburg N
+19:00 CET
+CW: 06 11 FD 14 AB 20 03 CE
+Eutelsat 16A (16.0E)
+11188 Horizontal 9872,894 3/4
+DVB-S2/8PSK (4:2:0)
+FFBL Leipzig
+Frauen-Bundesliga
+RB Leipzig N vs Jena
+19:00 CET
+CW: 06 11 FD 14 AB 20 03 CE
+Click to expand...
+Sorry, the first frequency is not OK.
+Eutelsat 16 A (16.0 E)
+11175 Horizontal 9872,871
+DVB-S2/8PSK (4:2:0)
+FFBL Hoffeneim
+Frauen-Bundesliga
+Hoffenheim N vs Freiburg N
+19:00 CET
+CW: 06 11 FD 14 AB 20 03 CE
+---FEED-SEPARATOR---
+Eutelsat 16 A (16.0 E)
+11164 Horizontal 9872,871
+DVB-S2/8PSK (4:2:0)
+FFBL Hoffeneim
+Frauen-Bundesliga
+Hoffenheim N vs Freiburg N
+19:00 CET
+CW: 06 11 FD 14 AB 20 03 CE
+Eutelsat 16A (16.0E)
+11188 Horizontal 9872,894 3/4
+DVB-S2/8PSK (4:2:0)
+FFBL Leipzig
+Frauen-Bundesliga
+RB Leipzig N vs Jena
+19:00 CET
+CW: 06 11 FD 14 AB 20 03 CE
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+11176 H 9875
+ID: FFBL Hoffenheim
+cw pls?
+---FEED-SEPARATOR---
+16E
+11188 H 9875
+4.2.0
+ID: FFBL Leipzig
+cw pls?
+---FEED-SEPARATOR---
 Bundesliga Highlights
 7°E
 11101
@@ -85,7 +141,7 @@ CW: 9B DA EA 5F FF C0 AE 6D
 ---FEED-SEPARATOR---
 19.2E
 11619 V 7500
-11632 V 7500
+11632 V 7500 Europa League / FC Red Bull Salzburg - Go Ahead Eagles
 4.2.0
 ID: AUT39 UEFA / Rapid ret
 Europa Conference League
