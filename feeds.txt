@@ -176,6 +176,13 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: 9E A0 B6 F4 42 0A 69 B5
 ---FEED-SEPARATOR---
+10E
+10721 H 7200
+4.2.2
+ID: SELENIO 3
+Lega Basket Serie A
+CW: 92 55 A2 89 76 3A 36 E6
+---FEED-SEPARATOR---
 Euroleague
 BC Dubai vs Hapoel Tel-Aviv
 Eutelsat 7B/7C @ 7.0E
