@@ -9,6 +9,18 @@ DVB-S2
 ID:BULI Weekly
 CW: CE BD 66 F1 70 C2 80 B2
 ---FEED-SEPARATOR---
+36E
+11014 V 7200
+11644 V 7200
+11626 v 7200
+4.2.0
+ID: SAU35-M - SAU- 42 M - SAU-043 M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+Portugal - Morocco
+Bolivia - Italy
+CW: D4 F9 5E 2B 50 CA E7 01
+---FEED-SEPARATOR---
 [
 B]Eutelsat 7B-7C   @ 07.0E
 11593  Vertical  9874,854
