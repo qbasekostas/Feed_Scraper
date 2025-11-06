@@ -39,6 +39,15 @@ ID: EuroLeague _M1Main (TV1)
 1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
 CW: C1 CB 9A 26 EC FE 92 7C
 ---FEED-SEPARATOR---
+19.2E
+11619 V 7500
+11632 V 7500
+4.2.0
+ID: AUT39 UEFA / Rapid ret
+Europa Conference League
+SK Rapid Wien - CS Universitatea Craiova
+CW: 25 AD BC 8E 54 23 CA 41
+---FEED-SEPARATOR---
 UEFA Europa League - Matchday 4
 Real Betis vs. Lyon
 Eutelsat 10B @ 10.0°E
