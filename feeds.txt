@@ -120,6 +120,15 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: 9E A0 B6 F4 42 0A 69 B5
 ---FEED-SEPARATOR---
+Euroleague
+BC Dubai vs Hapoel Tel-Aviv
+Eutelsat 7B/7C @ 7.0E
+11522 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  BUL007 EL MD9 M1 Main
+CW: 4B EF 8E C8 DC F7 1A ED
+---FEED-SEPARATOR---
 7E
 12634 V 7200
 4.2.0
