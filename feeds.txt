@@ -61,6 +61,16 @@ Eutelsat 16A (16.0 E)
 DVB-S2/16APSK (4:2:0)
 Uki-1592
 ---FEED-SEPARATOR---
+Albahraniy said:
+			Championship
+Watford vs Bristol City
+CW: 53 27 34 AE B9 00 DE 97
+Click to expand...
+7.0E
+11460 V 7120
+4.2.0 HD
+ID: pitch  Watford v Bristol CITY
+---FEED-SEPARATOR---
 Championship
 Watford vs Bristol City
 Asiasat 5 (100.5°E) C BAND
