@@ -52,6 +52,15 @@ PMT PID: 3850, SID: 43 @ OVERON 1 (Servicios Audiovisuales Overon, S L)
 8PSK 5/6 DVB-S2 H264 4:2:2
 CW: CE A4 A1 13 77 32 93 3C
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12691 Vertical 9997,097 2/3
+DVB-S2/16APSK (4:2:0)
+Uki-1592
+Eutelsat 16A (16.0 E)
+12704 Vertical 9997,945 2/3
+DVB-S2/16APSK (4:2:0)
+Uki-1592
+---FEED-SEPARATOR---
 Championship
 Watford vs Bristol City
 Asiasat 5 (100.5°E) C BAND
@@ -131,6 +140,14 @@ ID: SAU35-M / SAU-043 M
 FIFA U-17 World Cup Qatar
 3 Nov 2025 – 27 Nov 2025
 CW: D5 E3 81 39 05 5B 88 E8
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11457- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: Medialink CRO-025/1
+ABA Liga, Group B
+ KK Zadar vs Bosna Royal Sarajevo
+CW: 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:12639 - V - 4938
