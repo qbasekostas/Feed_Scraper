@@ -1,3 +1,12 @@
+Bundesliga 2025/26 (Wk10
+)
+ Werder Bremen v Wolfsburg
+7.0ºE
+11022 H 9875
+4.2.2 HD
+ID: GVA_Fi03
+CW: 98 37 88 57 41 E7 FF 27
+---FEED-SEPARATOR---
 Jacop said:
 Frauen-Bundesliga
 Bayern Munich vs Union Berlin 
@@ -122,6 +131,13 @@ ID: SAU35-M / SAU-043 M
 FIFA U-17 World Cup Qatar
 3 Nov 2025 – 27 Nov 2025
 CW: D5 E3 81 39 05 5B 88 E8
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:12639 - V - 4938
+MPEG 4 - 4:2:0 - DVB-S2
+ID:   YSM-021M
+ABA League
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 EuroLeague
 FC BARCELONA VS Real Madrid 
