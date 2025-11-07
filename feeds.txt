@@ -1,3 +1,11 @@
+Frauen-Bundesliga
+Bayern Munich vs Union Berlin 
+16.0E
+11061 H 9875
+4.2.0 HD
+ID: FFBL Bayern Munich 
+CW: 07 11 BA D2 CE 95 47 AA
+---FEED-SEPARATOR---
 Spain, LaLiga 2
 CD Mirandesvs. Sporting Gijon
 ​
@@ -104,17 +112,6 @@ ID: SAU35-M / SAU-043 M
 FIFA U-17 World Cup Qatar
 3 Nov 2025 – 27 Nov 2025
 CW: D5 E3 81 39 05 5B 88 E8
----FEED-SEPARATOR---
-Eutelsat 7B-7C   @ 07.0E
-11070  Horizontal  7201,79
-ID: IMG A EU (Eurovision Services)
-1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
-International, Euroleague
-FC Barcelona
- vs. 
-Real Madrid
-​
-CW: D2 9F 84 F5 4C DC AA D2
 ---FEED-SEPARATOR---
 EuroLeague
 FC BARCELONA VS Real Madrid 
