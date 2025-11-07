@@ -25,6 +25,37 @@ PMT PID: 3850, SID: 43 @ OVERON 1 (Servicios Audiovisuales Overon, S L)
 8PSK 5/6 DVB-S2 H264 4:2:2
 CW: CE A4 A1 13 77 32 93 3C
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11023  Vertical  7201,801
+ID:AU-36 M (Service Provider)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: D5 E3 81 39 05 5B 88 E8
+Mundial
+Mundial Sub-17 - Jornada 2
+México Sub-17
+ vs 
+Costa de Marfil Sub-17
+---FEED-SEPARATOR---
+omid1348 said:
+			FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+CW: D5 E3 81 39 05 5B 88 E8
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+10969 - V - 7200
+4:2:0
+ID: SAU-41 M
+---FEED-SEPARATOR---
+omid1348 said:
+			FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+CW: D5 E3 81 39 05 5B 88 E8
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+10987 - V - 7200
+4:2:0
+ID: SAU-039 M
+---FEED-SEPARATOR---
 omid1348 said:
 			FIFA U-17 World Cup Qatar
 3 Nov 2025 – 27 Nov 2025
