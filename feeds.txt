@@ -1,3 +1,10 @@
+German 1. Bundesliga - Week 10
+Mönchengladbach v FC Cologne
+Eutelsat 7B/7c 7.0E - 10982 H 14400 
+4:2:2
+ID:GVA_Fi05
+CW: EE 17 CC D1 BF D4 45 D8
+---FEED-SEPARATOR---
 28.2e
 12589 v 7200
 id: Saarbrucken
