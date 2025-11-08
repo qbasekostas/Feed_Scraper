@@ -73,6 +73,16 @@ Premier League
 Tottenham Hotspur F.C. - Manchester United F.C.
 CW: CA 71 DD 18 CB 19 84 68
 ---FEED-SEPARATOR---
+AsiaSat 5 100.5E 
+3984 V 7119
+8PSK 2/3 DVB-S2
+4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+EFL: Blackburn Rovers vs Derby County 
+F8 59 12 CA BF 6A E3 CE  #CW:
+53 7A 47 14 61 CD E2 10
+   #[E] PID:07D1h
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11457  Horizontal  7501,823
 ID:  TUR 112 MAIN (MEDÄ°APRO TURKEY)
