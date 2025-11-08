@@ -69,6 +69,21 @@ ID serie a
 juventus Vs torino
 CW : E1 BD E8 86 88 5A C4 A6
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,95Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 12
+Teams: RCD Espanyol vs Villarreal CF
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 22.00 CET
+omid1348 said:
+CW: CB 69 8A BE 0E 36 4D 91
+Click to expand...
+---FEED-SEPARATOR---
 10E
 10732 V 34000
 4.2.2
