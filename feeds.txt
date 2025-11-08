@@ -1,3 +1,33 @@
+vnraw said:
+CW: C9 A0 49 B2 71 F1 3C 9E
+LaLiga 2 - MD13
+Málaga vs Córdoba
+Click to expand...
+10E
+10732 V 34000
+4.2.0
+ID: LIGA HYPERMOTION
+---FEED-SEPARATOR---
+vnraw said:
+CW: 1C 75 46 D7 33 42 78 ED
+Spanish La Liga - Matchday 12
+Girona FC vs Deportivo Alavés
+Click to expand...
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 2
+---FEED-SEPARATOR---
+vnraw said:
+CW: 74 FF 5A CD 77 71 35 1D
+Spanish La Liga - Matchday 12
+Sevilla FC vs CA Osasuna
+Click to expand...
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 1
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10734 Vertical 33999,708
 ID: LIGA HYPERMOTION 1 (OVERON)
