@@ -1,4 +1,12 @@
 28.2e
+12589 v 7200
+id: Saarbrucken
+4:2:0
+3. liga
+Saarbrücken v TSV Havelse
+CW: 08 11 AC C5 DC 00 06 E2
+---FEED-SEPARATOR---
+28.2e
 12632 h 7200
 id: D-167
 4:2:0
