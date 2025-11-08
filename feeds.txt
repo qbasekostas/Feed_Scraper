@@ -83,6 +83,34 @@ F8 59 12 CA BF 6A E3 CE  #CW:
 53 7A 47 14 61 CD E2 10
    #[E] PID:07D1h
 ---FEED-SEPARATOR---
+DELETE
+---FEED-SEPARATOR---
+.
+---FEED-SEPARATOR---
+Albahraniy said:
+CW: D6 E1 95 4C 29 8C D2 87
+Click to expand...
+Eutelsat 7B @ 7.0°E
+Fréq:11014 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:SAU35-M
+FIFA U-17 World Cup Qatar
+Uganda  v Chile
+---FEED-SEPARATOR---
+FIFA U-17 World Cup Qatar
+Eutelsat 7B/7C @ 7.0E
+10977 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: SAU- 42 M
+CW: D6 E1 95 4C 29 8C D2 87
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E 
+3975 V 7119
+8PSK 3/4 DVB-S2
+4.2.0
+PMT PID: 256, SID: 1 @ EASL PH - Main (Harmonic)
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11457  Horizontal  7501,823
 ID:  TUR 112 MAIN (MEDÄ°APRO TURKEY)
