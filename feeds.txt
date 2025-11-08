@@ -63,6 +63,20 @@ Schalke 04
 SV 07 Elversberg
 ​
 ---FEED-SEPARATOR---
+10.0E
+3892 H 3750
+ID serie a
+juventus Vs torino
+CW : E1 BD E8 86 88 5A C4 A6
+---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 1
+LaLiga
+RCD Espanyol de Barcelona - Villarreal CF
+CW: CB 69 8A BE 0E 36 4D 91
+---FEED-SEPARATOR---
 omid1348 said:
 			10E
 10732 V 34000
