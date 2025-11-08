@@ -1,3 +1,14 @@
+Eutelsat 16A @ 16.0E
+10975  Horizontal  3600,895
+ID: FAL4 ENC1
+1920x1080 |8,924Mb/Sec |8PSK |4:2:0 HD
+CW: 20 25 AE F3 EA 52 02 3E
+Germany, 2nd Bundesliga
+Schalke 04
+ vs. 
+SV 07 Elversberg
+​
+---FEED-SEPARATOR---
 vnraw said:
 CW: C9 A0 49 B2 71 F1 3C 9E
 LaLiga 2 - MD13
