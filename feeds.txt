@@ -1,0 +1,25 @@
+Eutelsat 10B @ 10.0E
+10734 Vertical 33999,708
+ID: LIGA HYPERMOTION 1 (OVERON)
+1920x1080 |8PSK |4:2:0 HD
+CW: 
+C9A049B271F13C9E
+LaLiga 2 - MD13
+Málaga vs Córdoba
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6
+1080i 4:2:2
+PMT PID: 3850, SID: 43 @ OVERON 1 (Servicios Audiovisuales Overon, S L)
+CW: 74 FF 5A CD 77 71 35 1D
+Spanish La Liga - Matchday 12
+Sevilla FC vs CA Osasuna
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 H264 4:2:2
+PMT PID: 3860, SID: 44 @ OVERON 2 (Servicios Audiovisuales Overon, S L)
+CW: 1C 75 46 D7 33 42 78 ED
+Spanish La Liga - Matchday 12
+Girona FC vs Deportivo Alavés
