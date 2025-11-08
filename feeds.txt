@@ -139,6 +139,16 @@ F8 59 12 CA BF 6A E3 CE  #CW:
 53 7A 47 14 61 CD E2 10
    #[E] PID:07D1h
 ---FEED-SEPARATOR---
+Event:World World Cup U17 - Round 2
+Teams : Paraguay U17 
+ Panama U17
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+10987 V 7200
+ SAU-039 B (Service Provider)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: D6 E1 95 4C 29 8C D2 87
+---FEED-SEPARATOR---
 U17 Women's World Championship
 Brazil U17 vs Mexico U17
 Eutelsat 7B/7C @ 7.0E
