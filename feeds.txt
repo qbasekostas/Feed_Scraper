@@ -139,6 +139,15 @@ F8 59 12 CA BF 6A E3 CE  #CW:
 53 7A 47 14 61 CD E2 10
    #[E] PID:07D1h
 ---FEED-SEPARATOR---
+U17 Women's World Championship
+Brazil U17 vs Mexico U17
+Eutelsat 7B/7C @ 7.0E
+11105 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:MRC003/Mu17B (SNRT/S.MCM)
+CW: D1 37 65 6D 7E 07 51 D6
+---FEED-SEPARATOR---
 Event:World World Cup U17 - Round 2
 Teams :USA U17 
  Tajikistan U17
