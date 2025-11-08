@@ -63,6 +63,15 @@ Schalke 04
 SV 07 Elversberg
 ​
 ---FEED-SEPARATOR---
+Argentina Liga Profesional
+Racing Club vs Defensa y Justicia
+Eutelsat 7B/7C @ 7.0E
+11127 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: AFD
+CW: 90 56 11 F7 87 FA 56 D7
+---FEED-SEPARATOR---
 10.0E
 3892 H 3750
 ID serie a
