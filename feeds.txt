@@ -1,4 +1,35 @@
 28.2e
+12632 h 7200
+id: D-167
+4:2:0
+3. liga
+Ingolstadt v Rot-Weiss Essen
+CW: 08 11 AC C5 DC 00 02 DE
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12624  Horizontal  7202,236
+ID:    D510feed1 (Betamobil)
+1920x1080 |16,053Mb/Sec |8PSK |4:2:0 HD
+3. liga
+12 90 02 B6 3B 03 CB 73  #CW:08 11 AC C5 DC 00 01 DD 
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12572  Vertical  7201,79
+ID: DMC D-361 VERL (Service Provider)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+3. liga
+CW: 08 11 AC C5 DC 00 04 E0
+---FEED-SEPARATOR---
+Germany Amateur, Bundesliga, Women
+VfL Wolfsburg vs. Eintracht Frankfurt
+​
+Eutelsat 16A @ 16.0E
+11062  Horizontal  9874,854
+ID:  FFBL Wolfsburg-Fran (MTI)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+CW: 08 11 FE 17 BB 45 10 10
+---FEED-SEPARATOR---
+28.2e
 12580 v 7200
 id: D-528
 4:2:0
@@ -99,6 +130,16 @@ EFL: Blackburn Rovers vs Derby County
 F8 59 12 CA BF 6A E3 CE  #CW:
 53 7A 47 14 61 CD E2 10
    #[E] PID:07D1h
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+10995 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: SAU-38 B
+Abo Saeid Satellite said:
+Event:World World Cup U17 - Round 2
+CW: D6 E1 95 4C 29 8C D2 87
+Click to expand...
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 10960 V 7200
