@@ -53,3 +53,15 @@ PMT PID: 3860, SID: 44 @ OVERON 2 (Servicios Audiovisuales Overon, S L)
 CW: 1C 75 46 D7 33 42 78 ED
 Spanish La Liga - Matchday 12
 Girona FC vs Deportivo Alavés
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11457  Horizontal  7501,823
+ID:  TUR 112 MAIN (MEDÄ°APRO TURKEY)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:0 HD
+2F 30 CB 45 ED 7E D5 73 
+CW: 8F 6F 6F 6D 9D A8 7F C4
+Turkiye, TBSL
+Bahcesehir Koleji
+ vs. 
+Merkezefendi Belediyesi Denizli Basket
+​
