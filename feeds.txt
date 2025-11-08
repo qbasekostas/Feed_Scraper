@@ -56,6 +56,44 @@ Schalke 04
 SV 07 Elversberg
 ​
 ---FEED-SEPARATOR---
+omid1348 said:
+			10E
+10732 V 34000
+4.2.2
+ID: OVERON 2
+LaLiga
+Atlético de Madrid - Levante UD
+CW: 9F 7F 9C BA FB 09 16 1A
+Click to expand...
+Event:
+ Atlético Madrid vs Levante
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 2
+CW: 9F 7F 9C BA FB 09 16 1A
+Thanks !!!
+---FEED-SEPARATOR---
+Atlético de Madrid Vs  Levante
+Eutelsat 3B @ 3.1° E
+Fréq:10958 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: beIN SPORTS
+Fréq:10968 - H - 7500
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+10E
+10732 V 34000
+4.2.2
+ID: OVERON 2
+LaLiga
+Atlético de Madrid - Levante UD
+CW: 9F 7F 9C BA FB 09 16 1A
+---FEED-SEPARATOR---
 vnraw said:
 CW: C9 A0 49 B2 71 F1 3C 9E
 LaLiga 2 - MD13
