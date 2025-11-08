@@ -279,6 +279,19 @@ AsiaSat 5 100.5E
 4.2.0
 PMT PID: 256, SID: 1 @ EASL PH - Main (Harmonic)
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11609 H 7500
+ TUR156 Main (HDPROTEK)
+MPEG4-
+4:2:2 
+HD 1920x1080 
+|16.396
+  Mbit/Sec|8PSK DVB-S2 HD
+Basketball Turkey Super Lig
+Tofas v Bursaspor
+CW: 81 24 B8 5D 2F 81 7F 2F
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11466 - H - 78500
 MPEG 4 - 4:2:2 - DVB-S2
