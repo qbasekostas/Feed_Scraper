@@ -24,6 +24,13 @@ Germany Amateur, Bundesliga, Women
 FC Carl Zeiss Jena VS SGS Essen-Schonebeck 19/68
 CW: 09 11 CD E7 EE 25 89 9C
 ---FEED-SEPARATOR---
+ITALIAN FOOTBALL SERIE B D12
+PESCARA vs MONZA
+EUT7E DVBS2 8PSK H264 HD 420
+11165 V 7500
+ID ITA 560
+BC 12 20 EE 25 09 11 3F
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -193,6 +200,15 @@ Fiyi Sub-17
  VS 
 Argentina Sub-17
 C6 7A 26 94 BB 86 B2 CF  #CW: D7 D7 EC 9A 5E 4A 9B 43  
+---FEED-SEPARATOR---
+Basketball Turkey Super Lig
+Beşiktaş vs Anadolu Efes
+42.0E
+10982 V 7500
+4.2.2 HD
+ID: TUR-161 Main
+CW: F6 3D B9 EC 1F 91 96 46
+signal left 
 ---FEED-SEPARATOR---
 Turksat 2A-3A-4A @ 42.0E
 11523  Vertical  7501,823
