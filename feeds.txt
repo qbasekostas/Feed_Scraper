@@ -104,22 +104,6 @@ EUT7E DVBS2 8PSK H264 HD 420
 ID ITA 560
 BC 12 20 EE 25 09 11 3F
 ---FEED-SEPARATOR---
-EUTELSAT 10A (10°E)
-Fréq:10731 - V - 34000
-MPEG 4 - 4:2:2 - DVB-S2
-ID: SUPPONOR MENA 1
-LaLiga
-Rayo Vallecano vs.Real Madrid
-found CW: 
-9A CD E8 4F 2E 8D 56 11 
----FEED-SEPARATOR---
-Eutelsat 10B @ 10.0°E
-10733 - V - 34000 |4:2:2 | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: OVERON 3
-8F 78 B8 8E E8 D8 24 60  #CW:
-2F 97 9D 63 C4 51 58 6D
----FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3866 H 7500
 PMT PID: 330, SID: 33 @ CHINA+1 (*unnamed-33*)
@@ -347,6 +331,19 @@ B5 F5 FD A4 24 08 C4 FE  #CW:
 9F 7F 9C BA FB 09 16 1A
 Click to expand...
 The correct one that works is    F4 7F 62 D5 CB 74 6B AA
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 4 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,96Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 12
+Teams: Celta vs FC Barcelona
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+CW: 5E 3B F3 8C 5F 75 24 F8
 ---FEED-SEPARATOR---
 English Premier League
  Reporters' Feed
