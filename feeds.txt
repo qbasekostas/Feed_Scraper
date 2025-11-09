@@ -60,6 +60,14 @@ E0 2F 43 73 B6 27 D7 A5  #CW: 53 23 CF 45 32 88 42 FC
 ID: EFL Highlights 2025/26 - Sh
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 7
+Manisa Basket vs Trabzonspor
+Eutelsat 7A/7B/7C @ 7.0°E
+11456 - H - 7500
+4:2:2
+ID: TUR156 Main
+CW: F0 EE 68 46 45 E6 3B 66
+---FEED-SEPARATOR---
 Basketball Turkey Super Lig
 Manisa vs Trabzonspor
 7.0E
