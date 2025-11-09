@@ -1,3 +1,14 @@
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12702  Vertical  7201,801
+ID:  D-473 (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Alemania
+3. Liga - Jornada 14
+Regensburg
+ VS 
+1860 Múnich
+CW: 09 11 AC C6 DC 00 02 DE
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11164  Horizontal  9874,854
 ID: FFBL KÃ¶ln (MTI)
@@ -30,10 +41,28 @@ Germany Amateur, Bundesliga, Women
 FC Carl Zeiss Jena VS SGS Essen-Schonebeck 19/68
 CW: 09 11 CD E7 EE 25 89 9C
 ---FEED-SEPARATOR---
+faisal6 said:
+CW: BC 12 20 EE 25 09 11 3F
+Click to expand...
+Eutelsat 16A @ 16.0E
+10997  Vertical  9599,854
+ID:   ITA727ENC 1 (CINEVIDEO)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
+Italia
+Serie B - Jornada 12
+Pescara
+ VS 
+Monza
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11009  Vertical  9599,854
 ID:   ITA727ENC2 (CINEVIDEO
 1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
+Italia
+Serie B - Jornada 12
+Pescara
+ VS 
+Monza
 CW: BC 12 20 EE 25 09 11 3F
 ---FEED-SEPARATOR---
 ITALIAN FOOTBALL SERIE B D12
