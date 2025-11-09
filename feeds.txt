@@ -49,6 +49,21 @@ ID: OVERON 3
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,97Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 12
+Teams: Rayo Vallecano vs Real Madrid
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 16.15 CET
+coyotis said:
+CW: C4 3D B3 B4 D4 CC 1B BB
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OVERON 2 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
@@ -200,6 +215,14 @@ Fiyi Sub-17
  VS 
 Argentina Sub-17
 C6 7A 26 94 BB 86 B2 CF  #CW: D7 D7 EC 9A 5E 4A 9B 43  
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11457 - H - 7500
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  TUR 112 MAIN
+TBSL
+ Galatasaray SK vs Mersin Buyuksehir Belediyesi
+CW: 93 68 48 43 94 A9 DC 19
 ---FEED-SEPARATOR---
 Basketball Turkey Super Lig
 Beşiktaş vs Anadolu Efes
