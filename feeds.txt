@@ -22,6 +22,13 @@ ID: OVERON 3
 8F 78 B8 8E E8 D8 24 60  #CW:
 2F 97 9D 63 C4 51 58 6D
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7500
+PMT PID: 330, SID: 33 @ CHINA+1 (*unnamed-33*)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+CW : 00 DD CA A7 D5 A4 D4 4D
+Rayo Vallecano vs Real Madrid
+---FEED-SEPARATOR---
 vnraw said:
 			Spanish La Liga - Matchday 12
 22:15 | Rayo Vallecano vs Real Madrid - GMT+7
@@ -67,6 +74,24 @@ E0 2F 43 73 B6 27 D7 A5  #CW: 53 23 CF 45 32 88 42 FC
 4.2.0
 ID: EFL Highlights 2025/26 - Sh
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+.
+---FEED-SEPARATOR---
+10E
+11255 H 7200
+4.2.2
+ID: SELENIO 1
+Lega Basket Serie A
+Trapani - Vanoli Cremona
+CW: FF D9 6D 45 7B B4 68 97
+---FEED-SEPARATOR---
+liga endesa.Spanish
+GIRONA VS BARCELONA
+7.0E
+11106 H 7200
+4.2.0 HD
+ID: Fi01_ACB
+CW: F2 B7 E9 92 D0 1E 45 33
 ---FEED-SEPARATOR---
 Basketball Turkey Super Lig
 Manisa vs Trabzonspor
