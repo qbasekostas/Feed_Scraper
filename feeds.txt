@@ -30,6 +30,53 @@ ID: OVERON 3
 8F 78 B8 8E E8 D8 24 60  #CW:
 2F 97 9D 63 C4 51 58 6D
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,97Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 12
+Teams: Athletic Club vs Real Oviedo
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 15.00 CET
+coyotis said:
+CW: F4 7F 62 D5 CB 74 6B AA
+Click to expand...
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:   LIGA HYPERMOTION 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:0 HD
+España
+LaLiga Hypermotion - Jornada 13
+Las Palmas
+ VS 
+R. Racing Club
+CW: 53 E4 C9 00 42 D2 C1 D5
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR RUSIA 1
+Rayo Vallecano vs Real Madrid
+CW: 3E 57 5C F1 0A 0A 30 44
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:   SUPPONOR EASTERN 1
+Rayo Vallecano vs Real Madrid
+CW: 42 31 A8 1B 3E 3D B0 2B
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR AFRICA 1
+Rayo Vallecano vs Real Madrid
+CW: E2 09 66 51 6B AB 04 1A
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3975 V 7500
 PMT PID: 330, SID: 33 @ CHINA+1 (*unnamed-33*)
@@ -83,6 +130,25 @@ E0 2F 43 73 B6 27 D7 A5  #CW: 53 23 CF 45 32 88 42 FC
 ID: EFL Highlights 2025/26 - Sh
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Event:World World Cup U17 - Round 3
+Teams : Portugal U17 
+ Japan U17
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+10996 V 7200
+ SAU-38 M (Service Provider)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: D7 D7 EC 9A 5E 4A 9B 43
+---FEED-SEPARATOR---
+Event:World World Cup U17 - Round 3
+Teams :Morocco U17 
+ New Caledonia U17
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+10960Vertical 7200
+ SAU043 B (Service Provider)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: D7 D7 EC 9A 5E 4A 9B 43
+---FEED-SEPARATOR---
 Eutelsat  @ 3.1E
 10960  Horizontal  7501,834
 ID:  beIN SPORTS (JSSC)
@@ -117,6 +183,22 @@ Fiyi Sub-17
  VS 
 Argentina Sub-17
 C6 7A 26 94 BB 86 B2 CF  #CW: D7 D7 EC 9A 5E 4A 9B 43  
+---FEED-SEPARATOR---
+Turksat 2A-3A-4A @ 42.0E
+11523  Vertical  7501,823
+ID:   E333 M (mediapro turkiye)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
+77 A1 22 11 E7 E7 D7 61  #CW:37 D1 AB B3 55 E3 26 5E  
+Basketball Turkey Super Lig
+Petkim Spor vsEsenler Erokspor
+---FEED-SEPARATOR---
+Basketball Turkey Super Lig
+Petkim Spor vsEsenler Erokspor
+7.0E
+11466 H 7500
+4.2.2 HD
+ID: E333 M
+CW: 37 D1 AB B3 55 E3 26 5E
 ---FEED-SEPARATOR---
 10E
 11255 H 7200
