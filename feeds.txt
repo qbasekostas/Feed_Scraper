@@ -1,3 +1,11 @@
+28.2e
+12632 v 7200
+id: d-528
+4:2:0
+3. liga
+Stuttgart II v Alemannia Aachen
+CW: 09 11 AC C6 DC 00 01 DD
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11189  Horizontal  9874,854
 ID: FFBL Jena / Bremen (MTI)
@@ -74,6 +82,17 @@ E0 2F 43 73 B6 27 D7 A5  #CW: 53 23 CF 45 32 88 42 FC
 4.2.0
 ID: EFL Highlights 2025/26 - Sh
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+10978  Vertical  7201,801
+ID:  SAU- 42 M (Service Provider)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Mundial
+Mundial Sub-17 - Jornada 3
+Fiyi Sub-17
+ VS 
+Argentina Sub-17
+C6 7A 26 94 BB 86 B2 CF  #CW: D7 D7 EC 9A 5E 4A 9B 43  
 ---FEED-SEPARATOR---
 .
 ---FEED-SEPARATOR---
