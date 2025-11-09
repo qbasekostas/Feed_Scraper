@@ -1,3 +1,11 @@
+Bundesliga, Round 10
+VfB Stuttgart vs FC Augsburg
+Eutelsat 7A/7B/7C @ 7.0°E
+10984 - H - 9875
+4:2:2
+ID: GVA_Fi04
+CW: 91 43 2B FF 09 12 F6 11
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12702  Vertical  7201,801
 ID:  D-473 (rt1.tv)
@@ -347,6 +355,13 @@ Fiyi Sub-17
  VS 
 Argentina Sub-17
 C6 7A 26 94 BB 86 B2 CF  #CW: D7 D7 EC 9A 5E 4A 9B 43  
+---FEED-SEPARATOR---
+10E
+11255 H 7200
+4.2.2
+ID: SELENIO 3
+Lega Basket Serie A
+CW: D3 A4 FF 76 6F 42 D5 86
 ---FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12606 V  9600
