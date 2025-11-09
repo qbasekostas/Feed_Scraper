@@ -1,3 +1,9 @@
+Eutelsat 16A @ 16.0E
+11164  Horizontal  9874,854
+ID: FFBL KÃ¶ln (MTI)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+CW: 09 11 CD E7 EE 25 89 9C
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0E)
 11176 H 9875
 MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
@@ -23,6 +29,12 @@ ID: FFBL Jena / Bremen (MTI)
 Germany Amateur, Bundesliga, Women
 FC Carl Zeiss Jena VS SGS Essen-Schonebeck 19/68
 CW: 09 11 CD E7 EE 25 89 9C
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+11009  Vertical  9599,854
+ID:   ITA727ENC2 (CINEVIDEO
+1920x1080 |21,396Mb/Sec |8PSK |4:2:2 HD
+CW: BC 12 20 EE 25 09 11 3F
 ---FEED-SEPARATOR---
 ITALIAN FOOTBALL SERIE B D12
 PESCARA vs MONZA
@@ -150,6 +162,15 @@ B5 F5 FD A4 24 08 C4 FE  #CW:
 Click to expand...
 The correct one that works is    F4 7F 62 D5 CB 74 6B AA
 ---FEED-SEPARATOR---
+7E
+11692 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: GCUK Enc 9
+CW: D2 34 CB D1 EA D5 51 10
+Scottish Premiership - Week 12
+Dundee v Rangers
+---FEED-SEPARATOR---
 ASIASAT5 100.5E
 3975 V 7120
 ID BT SES 24 SDI
@@ -161,6 +182,26 @@ E0 2F 43 73 B6 27 D7 A5  #CW: 53 23 CF 45 32 88 42 FC
 4.2.0
 ID: EFL Highlights 2025/26 - Sh
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+World World Cup U17 - group A
+Bolivia 
+U17 vs 
+Qatar U17
+7.0E
+11005 V 7200
+4.2.0 HD
+ID: SAU-4M
+CW: D7 D7 EC 9A 5E 4A 9B 43
+---FEED-SEPARATOR---
+faisal6 said:
+CW: D7 D7 EC 9A 5E 4A 9B 43
+Click to expand...
+Eutelsat 7B @ 7.0°E
+Fréq:11023 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:   SAU-36 M
+World World Cup U17 - Round 3
+Italy v South Africa
 ---FEED-SEPARATOR---
 Event:World World Cup U17 - Round 3
 Teams : Portugal U17 
@@ -215,6 +256,14 @@ Fiyi Sub-17
  VS 
 Argentina Sub-17
 C6 7A 26 94 BB 86 B2 CF  #CW: D7 D7 EC 9A 5E 4A 9B 43  
+---FEED-SEPARATOR---
+ABA Liga, Group A
+BC Dubai vs SC Derby
+7.0E
+11144 H 7500
+4.2.0 HD
+ID: ENC3-Main
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11457 - H - 7500
