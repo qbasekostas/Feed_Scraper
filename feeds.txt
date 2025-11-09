@@ -1,3 +1,11 @@
+Eutelsat 16A @ 16.0E
+11189  Horizontal  9874,854
+ID: FFBL Jena / Bremen (MTI)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+Germany Amateur, Bundesliga, Women
+FC Carl Zeiss Jena VS SGS Essen-Schonebeck 19/68
+CW: 09 11 CD E7 EE 25 89 9C
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
