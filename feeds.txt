@@ -47,3 +47,9 @@ B5 F5 FD A4 24 08 C4 FE  #CW:
 9F 7F 9C BA FB 09 16 1A
 Click to expand...
 The correct one that works is    F4 7F 62 D5 CB 74 6B AA
+---FEED-SEPARATOR---
+7E
+11460 V 7120
+4.2.0
+ID: EFL Highlights 2025/26 - Sh
+CW: 53 23 CF 45 32 88 42 FC
