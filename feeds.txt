@@ -88,6 +88,39 @@ ID: OVERON 3
 8F 78 B8 8E E8 D8 24 60  #CW:
 2F 97 9D 63 C4 51 58 6D
 ---FEED-SEPARATOR---
+faisal6 said:
+Spain, LaLiga
+Valencia CF vs. Real Betis Seville
+Eutelsat 10B @ 10.0E
+10732  Vertical  33999,708
+ID: OVERON 2 (OVERON)
+1920x1080 |84,284Mb/Sec |8PSK |4:2:2 HD
+CW: B9 8A 51 94 72 AC 3F 5D
+Click to expand...
+Event:
+ Valencia vs Real Betis
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 2
+CW: B9 8A 51 94 72 AC 3F 5D
+Thanks !!!
+---FEED-SEPARATOR---
+Event:
+ Mallorca vs Getafe
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 3
+CW: 85 76 5A 55 05 A8 67 14
+Thanks !!!
+---FEED-SEPARATOR---
 Spain, LaLiga
 Valencia CF vs. Real Betis Seville
 Eutelsat 10B @ 10.0E
@@ -199,6 +232,15 @@ B5 F5 FD A4 24 08 C4 FE  #CW:
 Click to expand...
 The correct one that works is    F4 7F 62 D5 CB 74 6B AA
 ---FEED-SEPARATOR---
+English Premier League
+ Reporters' Feed
+Man City vs Liverpool
+7.0E
+11514 V 6666
+4.2.0 HD
+ID: Bein-Man City v Liverpool 
+CW: 95 42 BB 92 CB 19 84 68
+---FEED-SEPARATOR---
 7E
 11692 H 7200 
 4.2.0
@@ -293,6 +335,14 @@ Fiyi Sub-17
  VS 
 Argentina Sub-17
 C6 7A 26 94 BB 86 B2 CF  #CW: D7 D7 EC 9A 5E 4A 9B 43  
+---FEED-SEPARATOR---
+10E
+11246 H 7200
+4.2.2
+ID: SELENIO 2
+Lega Basket Serie A
+Milano - Treviso
+CW: 87 2E FF B4 3F 84 FA BD
 ---FEED-SEPARATOR---
 ABA Liga, Group A
 BC Dubai vs SC Derby
