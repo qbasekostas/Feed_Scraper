@@ -49,6 +49,16 @@ Germany Amateur, Bundesliga, Women
 FC Carl Zeiss Jena VS SGS Essen-Schonebeck 19/68
 CW: 09 11 CD E7 EE 25 89 9C
 ---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 16A @ 16.0E
+11189  Horizontal  9874,854
+ID: FFBL Jena / Bremen (MTI)
+Germany Amateur, Bundesliga, Women
+CW: 09 11 CD E7 EE 25 89 9C
+Click to expand...
+new game 
+Werder Bremen  vs  - RB Leipzig
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 10
 Eintracht Frankfurt v Mainz 05
 Eutelsat 7B/7C 7.0E - 10964 H 9875 4:2:2
@@ -427,6 +437,12 @@ Fiyi Sub-17
 Argentina Sub-17
 C6 7A 26 94 BB 86 B2 CF  #CW: D7 D7 EC 9A 5E 4A 9B 43  
 ---FEED-SEPARATOR---
+ABA League - Round 6 
+Cedevita Olimpija vs Vienna  
+Eutelsat 7B/7C 7.0E - 12657 V 4937 4:2:0
+ID:CRO-025 Main
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Portugal LBP, Round 5
 Galitos Basquetebol vs Sporting CP
 Eutelsat 7B/7C @ 7.0E
@@ -531,6 +547,14 @@ Manisa vs Trabzonspor
 4.2.2 HD
 ID: TUR 156 Main
 CW: F0 EE 68 46 45 E6 3B 66
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11180 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  PAO VS PAOK A
+Super League 
+Panathinaikos Athens vs PAOK Thessaloniki
+CW: AF 45 37 2B 7B 5A F0 C5
 ---FEED-SEPARATOR---
  Super League
 Kifisia vs Olympiacos
