@@ -88,6 +88,18 @@ ID: OVERON 3
 8F 78 B8 8E E8 D8 24 60  #CW:
 2F 97 9D 63 C4 51 58 6D
 ---FEED-SEPARATOR---
+changkhongocnghech said:
+			Event:
+ Mallorca vs Getafe
+ID : 
+OVERON 3
+CW: 85 76 5A 55 05 A8 67 14
+Click to expand...
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 3
+---FEED-SEPARATOR---
 faisal6 said:
 Spain, LaLiga
 Valencia CF vs. Real Betis Seville
@@ -335,6 +347,16 @@ Fiyi Sub-17
  VS 
 Argentina Sub-17
 C6 7A 26 94 BB 86 B2 CF  #CW: D7 D7 EC 9A 5E 4A 9B 43  
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12606 V  9600
+ID: 
+Polsat Sport
+Event:  
+Polish Men's Basketball: ORLEN Basket Liga - match: Zastal Zielona Góra - Legia Warszawa
+4.2.0
+- DVB-S2 - 8PSK
+CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
 10E
 11246 H 7200
