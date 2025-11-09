@@ -1,30 +1,18 @@
-Spanish La Liga - Matchday 12
-20:00 | Athletic Club vs Real Oviedo
- - Bangkok Time GMT+7
-Eutelsat 10B @ 10.0°E
-10733 - V - 34000 |4:2:2 | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: OVERON 2
-AsiaSat 5 100.5E
-3840 H 29998
-8PSK 5/6 DVB-S2 H264 4:2:2
-PMT PID: 3860, SID: 44 @ OVERON 2 (Servicios Audiovisuales Overon, S L)
-B5 F5 FD A4 24 08 C4 FE  #CW:
-9F 7F 9C BA FB 09 16 1A
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR MENA 1
+LaLiga
+Rayo Vallecano vs.Real Madrid
+found CW: 
+9A CD E8 4F 2E 8D 56 11 
 ---FEED-SEPARATOR---
-Spanish La Liga - Matchday 12
-22:15 | Rayo Vallecano vs Real Madrid - GMT+7
-AsiaSat 5 100.5E
-3840 H 29998
-8PSK 5/6
-1080i 4:2:2
-PMT PID: 3850, SID: 43 @ OVERON 1 (Servicios Audiovisuales Overon, S L)
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
 1920*1080 | DVB-S2 | 8PSK
-ID: OVERON 1
-54 57 47 06 1D 3D B5 63  #CW:
-CB 69 8A BE 0E 36 4D 91
+ID: OVERON 3
+8F 78 B8 8E E8 D8 24 60  #CW:
+2F 97 9D 63 C4 51 58 6D
 ---FEED-SEPARATOR---
 vnraw said:
 			Spanish La Liga - Matchday 12
@@ -59,19 +47,3 @@ B5 F5 FD A4 24 08 C4 FE  #CW:
 9F 7F 9C BA FB 09 16 1A
 Click to expand...
 The correct one that works is    F4 7F 62 D5 CB 74 6B AA
----FEED-SEPARATOR---
-EUTELSAT 10A (10°E)
-Fréq:10731 - V - 34000
-MPEG 4 - 4:2:2 - DVB-S2
-ID: SUPPONOR MENA 1
-LaLiga
-Rayo Vallecano vs.Real Madrid
-found CW: 
-9A CD E8 4F 2E 8D 56 11 
----FEED-SEPARATOR---
-Eutelsat 10B @ 10.0°E
-10733 - V - 34000 |4:2:2 | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: OVERON 3
-8F 78 B8 8E E8 D8 24 60  #CW:
-2F 97 9D 63 C4 51 58 6D
