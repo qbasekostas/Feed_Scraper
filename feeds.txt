@@ -49,6 +49,12 @@ Germany Amateur, Bundesliga, Women
 FC Carl Zeiss Jena VS SGS Essen-Schonebeck 19/68
 CW: 09 11 CD E7 EE 25 89 9C
 ---FEED-SEPARATOR---
+German 1. Bundesliga - Week 10
+Eintracht Frankfurt v Mainz 05
+Eutelsat 7B/7C 7.0E - 10964 H 9875 4:2:2
+ID:GVA_Fi03
+CW: F3 B0 89 2C B9 C6 58 D7
+---FEED-SEPARATOR---
 faisal6 said:
 CW: BC 12 20 EE 25 09 11 3F
 Click to expand...
@@ -95,6 +101,71 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 3
 8F 78 B8 8E E8 D8 24 60  #CW:
 2F 97 9D 63 C4 51 58 6D
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:   SUPPONOR AFRICA 1
+LaLiga
+Celta de Vigo vs Barcelona
+found CW: 
+B1 B4 28 8D 3D F5 0C 3E 
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:   SUPPONOR RUSIA 1
+LaLiga
+Celta de Vigo vs Barcelona
+CW: 46 A4 12 FC 33 57 98 22
+---FEED-SEPARATOR---
+My Post No.1000 In Spain Football
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:   SUPPONOR EASTERN 1
+LaLiga
+Celta de Vigo vs Barcelona
+CW: 8E E5 EE 61 65 A6 25 30
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR MENA 1
+LaLiga
+Celta de Vigo vs Barcelona
+CW: F2 CB BF 7C 0F E5 5A 4E
+---FEED-SEPARATOR---
+FaDeL® said:
+			EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+LaLiga
+Celta de Vigo vs Barcelona
+found CW: 
+17 E1 06 FE C2 F9 1E D9
+Click to expand...
+Event:
+ Celta de Vigo vs Barcelona
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 1
+CW: 17 E1 06 FE C2 F9 1E D9
+Thanks !!!
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+LaLiga
+Celta de Vigo vs Barcelona
+found CW: 
+17 E1 06 FE C2 F9 1E D9
 ---FEED-SEPARATOR---
 changkhongocnghech said:
 			Event:
@@ -355,6 +426,21 @@ Fiyi Sub-17
  VS 
 Argentina Sub-17
 C6 7A 26 94 BB 86 B2 CF  #CW: D7 D7 EC 9A 5E 4A 9B 43  
+---FEED-SEPARATOR---
+Portugal LBP, Round 5
+Galitos Basquetebol vs Sporting CP
+Eutelsat 7B/7C @ 7.0E
+11023 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:E-069 MAIN (Mediapro )
+CW: E1 33 6B 7F D6 00 86 5C
+---FEED-SEPARATOR---
+SPAIN - LIGA ACB 
+CLUB Joventut Badalona v Real Madrid
+Eutelsat 7B/7C 7.0E - 11106 H 7200 4:2:0
+ID:Fi01_ACB
+CW: F2 B7 E9 92 D0 1E 45 33
 ---FEED-SEPARATOR---
 10E
 11255 H 7200
