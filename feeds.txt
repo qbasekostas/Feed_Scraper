@@ -1,13 +1,3 @@
-Eutelsat 7B-7C @ 07.0E
-11190 Horizontal 7501,823
-ID: AFD (IKOMG)
-1920x1080 |18,595Mb/Sec |8PSK |4:2:0 HD
-Argentina, Primera LPF, Clausura
-Deportivo Riestra  VS  Independiente Rivadavia Monday, 10 November 2025 23:00
-#CW
-: 
-90 56 11 F7 87 FA 56 D7
----FEED-SEPARATOR---
 FaDeL® said:
 			EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
