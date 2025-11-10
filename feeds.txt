@@ -1,3 +1,12 @@
+Eutelsat (16°E)
+11062 H 9875
+4.2.0
+ID: FFBL Freiburg
+Frauen-Bundesliga
+Event: 
+Freiburg vs Leverkusen
+CW: 10 11 EB 0C DA 74 87 D5
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
