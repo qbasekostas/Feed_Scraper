@@ -7,6 +7,16 @@ Event:
 Freiburg vs Leverkusen
 CW: 10 11 EB 0C DA 74 87 D5
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11190 Horizontal 7501,823
+ID: AFD (IKOMG)
+1920x1080 |18,595Mb/Sec |8PSK |4:2:0 HD
+Argentina, Primera LPF, Clausura
+Deportivo Riestra  VS  Independiente Rivadavia Monday, 10 November 2025 23:00
+#CW
+: 
+90 56 11 F7 87 FA 56 D7
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11141  Vertical  7201,801
 ID:  ITA 81 A (ECM SRL)
@@ -17,6 +27,16 @@ Italia
 Salernitana
  VS 
 Crotone
+---FEED-SEPARATOR---
+FaDeL® said:
+			EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 3
+Click to expand...
+new cw
+38 F8 3B BB 0D F7 33 7B 
+CW: 7F 83 A9 AB E4 DC 0E CE
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
