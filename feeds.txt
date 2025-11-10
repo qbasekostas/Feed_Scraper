@@ -7,6 +7,17 @@ Event:
 Freiburg vs Leverkusen
 CW: 10 11 EB 0C DA 74 87 D5
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11141  Vertical  7201,801
+ID:  ITA 81 A (ECM SRL)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 09 69 DB 4D 07 A7 64 12
+Italia
+ Serie C - Grupo C  
+Salernitana
+ VS 
+Crotone
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
