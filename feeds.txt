@@ -7,6 +7,28 @@ Burgos CF vs Castellon
 CW: D3 F6 C2 8B 8A 85 18 27
 ---FEED-SEPARATOR---
 7E
+10987 V 7200
+ID: SAU-039 M
+Fifa World Cup u-17 Qatar
+Zambia vs Brazil
+CW: D8 D9 DB 8C 04 28 24 50
+---FEED-SEPARATOR---
+FIFA U-17 World Cup Qatar
+Egypt U17 - England U17
+Eutelsat 7A/7B/7C @ 7.0E
+11004 V 7201
+ID:SAU-44 M
+1920x1080 |15.680Mb/Sec 8PSK |4:2:0 HD
+CW: D8 D9 DB 8C 04 28 24 50
+---FEED-SEPARATOR---
+7E
+10986 V 7200
+ID: QAT037 M 
+Fifa World Cup u-17 Qatar
+Honduras vs Indonesia
+CW: D8 D9  DB 8C 04 28 24 50
+---FEED-SEPARATOR---
+7E
 10977 V 7200
 11013 V 7200
 4.2.0
