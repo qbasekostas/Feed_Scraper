@@ -6,6 +6,15 @@ LaLiga 2
 Burgos CF vs Castellon
 CW: D3 F6 C2 8B 8A 85 18 27
 ---FEED-SEPARATOR---
+7E
+10977 V 7200
+11013 V 7200
+4.2.0
+ID: SAU-42 M / SAU35-M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+CW: D8 D9 DB 8C 04 28 24 50
+---FEED-SEPARATOR---
 NBA
 Grizzlies VS Thunder
 7.0E
