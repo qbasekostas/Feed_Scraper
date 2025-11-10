@@ -1,12 +1,3 @@
-Eutelsat (16°E)
-11062 H 9875
-4.2.0
-ID: FFBL Freiburg
-Frauen-Bundesliga
-Event: 
-Freiburg vs Leverkusen
-CW: 10 11 EB 0C DA 74 87 D5
----FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11190 Horizontal 7501,823
 ID: AFD (IKOMG)
@@ -17,17 +8,6 @@ Deportivo Riestra  VS  Independiente Rivadavia Monday, 10 November 2025 23:00
 : 
 90 56 11 F7 87 FA 56 D7
 ---FEED-SEPARATOR---
-Eutelsat 7B-7C   @ 07.0E
-11141  Vertical  7201,801
-ID:  ITA 81 A (ECM SRL)
-1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
-CW: 09 69 DB 4D 07 A7 64 12
-Italia
- Serie C - Grupo C  
-Salernitana
- VS 
-Crotone
----FEED-SEPARATOR---
 FaDeL® said:
 			EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
@@ -37,65 +17,3 @@ Click to expand...
 new cw
 38 F8 3B BB 0D F7 33 7B 
 CW: 7F 83 A9 AB E4 DC 0E CE
----FEED-SEPARATOR---
-EUTELSAT 10A (10°E)
-Fréq:10731 - V - 34000
-MPEG 4 - 4:2:0 - DVB-S2
-ID: LIGA HYPERMOTION 1
-LaLiga 2 
-Burgos CF vs Castellon
-CW: D3 F6 C2 8B 8A 85 18 27
----FEED-SEPARATOR---
-7E
-11460 V 7120
-4.2.0
-EFL - Cheltenham v Notts County
-Football League Two
-Cheltenham Town F.C. - Notts County F.C.
-CW: 72 45 AD 64 34 56 37 C1
----FEED-SEPARATOR---
-7E 
-11022 V 7200
-ID: SAU36-M
-Fifa World Cup U-17 Qatar
-Venezuela vs Haiti
-CW: D8 D9 DB 8C 04 28 24 50
----FEED-SEPARATOR---
-7E
-10987 V 7200
-ID: SAU-039 M
-Fifa World Cup u-17 Qatar
-Zambia vs Brazil
-CW: D8 D9 DB 8C 04 28 24 50
----FEED-SEPARATOR---
-FIFA U-17 World Cup Qatar
-Egypt U17 - England U17
-Eutelsat 7A/7B/7C @ 7.0E
-11004 V 7201
-ID:SAU-44 M
-1920x1080 |15.680Mb/Sec 8PSK |4:2:0 HD
-CW: D8 D9 DB 8C 04 28 24 50
----FEED-SEPARATOR---
-7E
-10986 V 7200
-ID: QAT037 M 
-Fifa World Cup u-17 Qatar
-Honduras vs Indonesia
-CW: D8 D9  DB 8C 04 28 24 50
----FEED-SEPARATOR---
-7E
-10977 V 7200
-11013 V 7200
-4.2.0
-ID: SAU-42 M / SAU35-M
-FIFA U-17 World Cup Qatar
-3 Nov 2025 – 27 Nov 2025
-CW: D8 D9 DB 8C 04 28 24 50
----FEED-SEPARATOR---
-NBA
-Grizzlies VS Thunder
-7.0E
-11014 H 7200
-4.2.0 HD
-ID: WSHT ENC 58
-CW: 27 60 4A D1 FE 84 8B 0D
