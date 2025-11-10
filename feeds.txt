@@ -15,6 +15,14 @@ LaLiga 2
 Burgos CF vs Castellon
 CW: D3 F6 C2 8B 8A 85 18 27
 ---FEED-SEPARATOR---
+7E
+11460 V 7120
+4.2.0
+EFL - Cheltenham v Notts County
+Football League Two
+Cheltenham Town F.C. - Notts County F.C.
+CW: 72 45 AD 64 34 56 37 C1
+---FEED-SEPARATOR---
 7E 
 11022 V 7200
 ID: SAU36-M
