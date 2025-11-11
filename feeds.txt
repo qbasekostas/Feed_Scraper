@@ -120,12 +120,12 @@ A.S. Roma Women - Vålerenga Damer
 CW: 9D 8D 18 42 E6 1C 2F 31
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
-12601 V 7200
+11210 V 7200
 4:2:0
-ID: DMC In Sport 3
-EHF European League: 
-IFK Kristianstad vs HC Vardar 1961
-CW: FF FF D1 CF 11 1E 58 87
+ID: CZE-012-MAIN-BCL Levice
+Basketball Champions League: 
+Levice vs Szolnok
+CW: AD 16 CB 8E 76 FA 37 A7
 ---FEED-SEPARATOR---
 16E
 11013 V 7200
@@ -166,10 +166,10 @@ Dubai v Red Star
 ID:UAE-074- 1
 CW: 55 41 17 AD F5 CB 65 25
 ---FEED-SEPARATOR---
-Hot Bird (13.0°E)
-12583 V 7200
-4:2:0
-ID: TV2NO-BER
-EHF European League: 
-Helverum Handball vs FC Porto
-CW: FF DB D1 AB 11 1E 58 87
+16E
+10996 V 7200
+4.2.0
+ID: F419_BACKUP
+EuroLeague
+Paris - Panathinaikos
+CW: 39 9E 3C 13 41 5D EE 8C
