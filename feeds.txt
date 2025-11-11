@@ -119,6 +119,16 @@ UEFA Women's Champions League
 A.S. Roma Women - Vålerenga Damer
 CW: 9D 8D 18 42 E6 1C 2F 31
 ---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12594 V  9600
+ID: 
+Polsat Sport
+Event: 
+Men's Basketball: EuroCup - match: WKS Śląsk Wrocław - Veolia Towers Hamburg
+4.2.0-
+ DVB-S2 - 8PSK
+CW: 20 25 AB F0 CD 1E CA B5
+---FEED-SEPARATOR---
 7.0E 
 11070 H 7200 
 4.2.0 HD
