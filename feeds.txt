@@ -70,6 +70,17 @@ CW: D9 B1 B0 3A 11 67 9B 13
 ---FEED-SEPARATOR---
 Ferari3000 said:
 			Eutelsat 7B/7C (7.0E)
+10998 H 9875
+ID: AUT34M/M04
+Provider: AUT-34HD
+UEFA Women's Champions League,League Phase,Round 3
+SKN St. Pölten (Aut) W - Chelsea FC (Eng) W (21:00)
+Biss Encrypt?
+Click to expand...
+CW: 8B 4D 34 0C 94 EC 3D BD
+---FEED-SEPARATOR---
+Ferari3000 said:
+			Eutelsat 7B/7C (7.0E)
 10973 H 9876
 ID: OER/F563/5/WCL_MD3/match2/MAIN
 Provider: GLOBECAST
@@ -131,7 +142,8 @@ CW: AD 16 CB 8E 76 FA 37 A7
 11013 V 7200
 4.2.0
 ID: G22 Main
-EuroCup Basketball
+EuroLeague
+Valencia Basket - Real Madrid
 CW: E7 CD C3 77 E1 B3 57 EB
 ---FEED-SEPARATOR---
 Euroleague
@@ -166,6 +178,14 @@ Dubai v Red Star
 ID:UAE-074- 1
 CW: 55 41 17 AD F5 CB 65 25
 ---FEED-SEPARATOR---
+Champions League, Group D, Round 4
+La Laguna Tenerife vs Tofaş Bursa
+Eutelsat 7A/7B/7C @ 7.0°E
+11188 - H - 7200
+4:2:0
+ID: E-229 Main
+CW: AC 56 FE 00 00 CB 62 2D
+---FEED-SEPARATOR---
 7E
 11079 H 7200
 4.2.0
@@ -175,6 +195,7 @@ Vitrus Bologna - Anadolu Efes
 CW: E8 1F 5C 63 D5 B3 1E A6
 ---FEED-SEPARATOR---
 Basketball Champions League
+CARDITSA vs OOSTENDE
 13.0E
 - Name:           OTE 1 (OTE)
 - Freq: 11203,527
