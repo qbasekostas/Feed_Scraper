@@ -68,6 +68,17 @@ FIFA U-17 World Cup Qatar
 3 Nov 2025 – 27 Nov 2025
 CW: D9 B1 B0 3A 11 67 9B 13
 ---FEED-SEPARATOR---
+Ferari3000 said:
+			Eutelsat 7B/7C (7.0E)
+10973 H 9876
+ID: OER/F563/5/WCL_MD3/match2/MAIN
+Provider: GLOBECAST
+UEFA Women's Champions League,League Phase,Round 3
+Olympique Lyon (Fra) W - VfL Wolfsburg (Ger) W (21:00)
+Biss Encrypt?
+Click to expand...
+CW: D3 F6 EF B8 ED 12 E8 E7
+---FEED-SEPARATOR---
 7E
 12703 V 7200
 4.2.0
@@ -154,6 +165,34 @@ Euroleague
 Dubai v Red Star
 ID:UAE-074- 1
 CW: 55 41 17 AD F5 CB 65 25
+---FEED-SEPARATOR---
+7E
+11079 H 7200
+4.2.0
+ID: ITA390_Main sky
+EuroLeague
+Vitrus Bologna - Anadolu Efes
+CW: E8 1F 5C 63 D5 B3 1E A6
+---FEED-SEPARATOR---
+Basketball Champions League
+13.0E
+- Name:           OTE 1 (OTE)
+- Freq: 11203,527
+- Pol: Vertical
+- SR: 7202,05
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+71 07 DE E8 59 62 55 74 
+CW: EB 27 FD 0F 38 CA 86 88
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 7
+Aris BC vs Bahçeşehir Koleji
+Eutelsat 7A/7B/7C @ 7.0°E
+11522 - V - 7200
+4:2:0
+ID: aris vs bahcesehir
+CW: F3 5C B2 01 4F C1 60 70
 ---FEED-SEPARATOR---
 EUROCUP
 ULM vs JL BOURG
