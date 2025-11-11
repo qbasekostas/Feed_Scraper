@@ -6,6 +6,18 @@ FÚTBOL COLOMBIANO
 DIM VS SANTA FE
 CW: AD 90 0F 4C 49 BF 3A 42
 ---FEED-SEPARATOR---
+omid1348 said:
+			FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+CW: D9 B1 B0 3A 11 67 9B 13
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+4:2:0
+10968 - V - 7200
+ID: SAU-41 M
+10986 - V - 7200
+ID: SAU-039 M
+---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
 4:2:0
@@ -39,15 +51,35 @@ FIFA U-17 World Cup Qatar
 CW: D9 B1 B0 3A 11 67 9B 13
 ---FEED-SEPARATOR---
 7E
+12703 V 7200
+4.2.0
+ID: ENC 7
+UEFA Women's Champions League
+SKN St. Pölten - Chelsea F.C. Women
+CW: 66 72 6A 42 48 6E 5B 11
+---FEED-SEPARATOR---
+7E
+12676 V 7200
+4.2.0
+ID: ENC 3
+UEFA Women's Champions League
+A.S. Roma Women - Vålerenga Damer
+CW: 4D 6C F8 B1 BE B8 D8 4E
+---FEED-SEPARATOR---
+7E
 12685 V 7200
 4.2.0
 ID: ENC 1
+UEFA Women's Champions League
+Real Madrid Femenino - Paris FC
 CW: 42 D9 03 1E 67 D0 D9 10
 ---FEED-SEPARATOR---
 7E
 12694 V 7200
 4.2.0
 ID: ENC 2
+UEFA Women's Champions League
+OL Lyonnes - VfL Wolfsburg Women
 CW: 36 8A 5A 1A 2A 9D 20 E7
 ---FEED-SEPARATOR---
 7E
