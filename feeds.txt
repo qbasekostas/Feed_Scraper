@@ -119,6 +119,21 @@ UEFA Women's Champions League
 A.S. Roma Women - Vålerenga Damer
 CW: 9D 8D 18 42 E6 1C 2F 31
 ---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12601 V 7200
+4:2:0
+ID: DMC In Sport 3
+EHF European League: 
+IFK Kristianstad vs HC Vardar 1961
+CW: FF FF D1 CF 11 1E 58 87
+---FEED-SEPARATOR---
+16E
+11013 V 7200
+4.2.0
+ID: G22 Main
+EuroCup Basketball
+CW: E7 CD C3 77 E1 B3 57 EB
+---FEED-SEPARATOR---
 Euroleague
 Virtus Bologna
 Anadolu Efes SK
@@ -150,3 +165,11 @@ Euroleague
 Dubai v Red Star
 ID:UAE-074- 1
 CW: 55 41 17 AD F5 CB 65 25
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12583 V 7200
+4:2:0
+ID: TV2NO-BER
+EHF European League: 
+Helverum Handball vs FC Porto
+CW: FF DB D1 AB 11 1E 58 87
