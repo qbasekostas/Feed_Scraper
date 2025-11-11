@@ -16,17 +16,6 @@ Eutelsat 7A/7B/7C @ 7.0°E
 11022 - V - 7200
 ID: SAU-36 M
 ---FEED-SEPARATOR---
-Red Devils said:
-FIFA U-17 World Cup Qatar
-Saudi Arabia U17 - Mali U17
-Eutelsat 7A/7B/7C @ 7.0E
-11004 V 7201
-ID:SAU-44 M
-1920x1080 |15.680Mb/Sec 8PSK |4:2:0 HD
-CW: D9 B1 B0 3A 11 67 9B 13
-Click to expand...
-del
----FEED-SEPARATOR---
 FIFA U-17 World Cup Qatar
 Saudi Arabia U17 - Mali U17
 Eutelsat 7A/7B/7C @ 7.0E
@@ -165,6 +154,18 @@ Euroleague
 Dubai v Red Star
 ID:UAE-074- 1
 CW: 55 41 17 AD F5 CB 65 25
+---FEED-SEPARATOR---
+EUROCUP
+ULM vs JL BOURG
+7°E
+12546 
+H 
+7200
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:HBL Magdeburg
+CW: BB EE 11 BA 11 20 25 56
 ---FEED-SEPARATOR---
 16E
 10996 V 7200
