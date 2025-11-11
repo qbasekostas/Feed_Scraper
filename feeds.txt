@@ -119,6 +119,20 @@ UEFA Women's Champions League
 A.S. Roma Women - Vålerenga Damer
 CW: 9D 8D 18 42 E6 1C 2F 31
 ---FEED-SEPARATOR---
+Euroleague
+Virtus Bologna
+Anadolu Efes SK
+​
+7°E
+12573 
+ H  
+7200
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:ITA_390_MAIN
+CW: E8 1F 5C 63 D5 B3 1E A6
+---FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12594 V  9600
 ID: 
