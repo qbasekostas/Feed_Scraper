@@ -14,3 +14,11 @@ ID: SAU-42 M / SAU35-M
 FIFA U-17 World Cup Qatar
 3 Nov 2025 – 27 Nov 2025
 CW: D9 B1 B0 3A 11 67 9B 13
+---FEED-SEPARATOR---
+7E
+10961 H 9875
+4.2.2
+ID: ITA 198 UWCL M1 Main
+UEFA Women's Champions League
+A.S. Roma Women - Vålerenga Damer
+CW: 9D 8D 18 42 E6 1C 2F 31
