@@ -111,6 +111,13 @@ Atletico Madrid (Spa) W - Juventus FC (Fra) W (21:00)
 Click to expand...
 CW : 96 CD 27 8A E0 22 9C 9E
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+11012 Vertical 4935,945 3/4
+DVB-S2/8PSK (4:2:0)
+BiH-003-2
+EuroBasket Women - Qualification - First stage - Round 1
+Bosnia & Herzegovina vs Israel
+---FEED-SEPARATOR---
 1W
 11465 V 9600 
 4:2:2
@@ -126,6 +133,14 @@ SABAH BC VS ELAN CHALON
 Eutelsat 7B/7C (7.0E)
 11190 -Horizontal  - 7200 - 4:2:0
 Name : CBC-01
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+10985 Vertical 9597,915 3/4
+DVB-S2/8PSK (4:2:2)
+POL 48 ENC1
+FIBA Europe Cup - Round 5
+Trefl Sopot vs Absheron Lions
+CW: CA E2 92 3E 10 20 25 55
 ---FEED-SEPARATOR---
 omid1348 said:
 			7E
@@ -232,3 +247,19 @@ Eutelsat ( 7.0°E)
 11172 - Horizontal - 7200
 SLQ 001 - JOJ TV
 CW : A2 02 51 F5 11 2C AB E8
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+11018 Vertical 4936,18 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-021M
+ABA League 2 - Round 3
+Mornar Bar vs Vrsac
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+EuroBasket, Women, Qualification, Gr. C, Round 1
+Slovakia vs Poland
+Eutelsat 7A/7B/7C @ 7.0°E
+11170 - H - 7200
+4:2:0
+ID: SLQ 001
+CW: A2 02 51 F5 11 2C AB E8
