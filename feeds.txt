@@ -78,6 +78,20 @@ MPEG4-
   Mbit/Sec|8PSK DVB-S2 HD
 CW: 57 BF 31 47 15 B2 13 DA
 ---FEED-SEPARATOR---
+UEFA Women's Champions League,League Phase,Round 3
+Atletico Madrid  - Juventus FC 
+7E
+11606 - Vertical - 7200
+ENC 5
+CW : 4B 2B AB 21 F4 C5 2F E8
+---FEED-SEPARATOR---
+Uefa champions league women 
+Manchester United VS PSG
+Eutelsat 7C (7.0 E)
+11597 V 7200
+ENC 4
+CW : F2 70 24 86 CD 1C 80 69
+---FEED-SEPARATOR---
 7E
 12694 V 7200
 4.2.0
@@ -247,6 +261,12 @@ Eutelsat ( 7.0°E)
 11172 - Horizontal - 7200
 SLQ 001 - JOJ TV
 CW : A2 02 51 F5 11 2C AB E8
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12643 - V - 7200
+4:2:0
+ID: Eurocup London Lions vs Panionios
+CW: 46 F7 04 41 E4 66 9E E8
 ---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 11018 Vertical 4936,18 3/4
