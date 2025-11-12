@@ -59,11 +59,58 @@ MPEG4-
   Mbit/Sec|8PSK DVB-S2 HD
 CW: 57 BF 31 47 15 B2 13 DA
 ---FEED-SEPARATOR---
+7E
+12694 V 7200
+4.2.0
+ID: ENC 3
+UEFA Women's Champions League
+S.L. Benfica - FC Twente
+CW: B7 E0 42 D9 22 70 B7 49
+---FEED-SEPARATOR---
+7E
+12685 V 7200
+4.2.0
+ID: ENC 1
+UEFA Women's Champions League
+FC Barcelona Femení - Oud-Heverlee Leuven
+CW: E7 19 10 10 EF 9A 71 FA
+---FEED-SEPARATOR---
+7E
+12676 V 7200
+4.2.0
+ID: ENC 2
+UEFA Women's Champions League
+FC Bayern Munich - Arsenal W.F.C.
+CW: 98 3F B1 88 2F 1F 8A D8
+---FEED-SEPARATOR---
 Basketball champions league
 SABAH BC VS ELAN CHALON
 Eutelsat 7B/7C (7.0E)
 11190 -Horizontal  - 7200 - 4:2:0
 Name : CBC-01
+---FEED-SEPARATOR---
+Eutelsat ( 7.0°E)
+11666 - Horizontal - 7200
+CYPRUS VS ROUMANIA
+CW : E2 71 21 74 B3 BB 9D 0B
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+11522 - V - 7200
+4:2:2
+ID: TUR 112 B
+CW: 4E 5B 29 D2 6D D4 6A AB
+Click to expand...
+Basketball Eurocup
+Bestikas v Trento 
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10848 V 7200
+4:2:0
+ID: OTE 1
+Basketball Champions League: 
+AEK vs VEF Riga
+CW: FD 95 AE 40 72 AE 11 31
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11522 - V - 7200
