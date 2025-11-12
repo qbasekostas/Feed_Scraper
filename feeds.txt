@@ -12,20 +12,24 @@ RUSIA
  PERU 
 CW: E3 C5 98 40 3E E2 83 A3
 ---FEED-SEPARATOR---
-Ferari3000 said:
-			Eutelsat 7B/7C (7.0E)
-11010 H 9875 - 4:2:2
-ID: E-387 MD 3 MAIN
-UEFA Women's Champions League,League Phase,Round 3
-Atletico Madrid (Spa) W - Juventus FC (Fra) W (21:00)
-Click to expand...
-CW : 96 CD 27 8A E0 22 9C 9E
----FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 10996 - H - 9875
 4:2:2
 ID: Man U Match 4 Bup
 CW: 3E 3F 15 92 EB 37 81 A3
+---FEED-SEPARATOR---
+UEFA Womens Champions League - League Stage: Round 3
+Atlético Madrid v Juventus
+ ST: 21:00
+7°E
+11009 
+H 
+9875
+DVB-S2
+ - 4:2:2 - 
+8PSK
+ID:E-387 MD 3 MAIN
+CW: 96 CD 27 8A E0 22 9C 9E
 ---FEED-SEPARATOR---
 Event :
 Europe Champions League Women - League phase - Round 3
@@ -91,6 +95,15 @@ UEFA Women's Champions League
 FC Bayern Munich - Arsenal W.F.C.
 CW: 98 3F B1 88 2F 1F 8A D8
 ---FEED-SEPARATOR---
+Ferari3000 said:
+			Eutelsat 7B/7C (7.0E)
+11010 H 9875 - 4:2:2
+ID: E-387 MD 3 MAIN
+UEFA Women's Champions League,League Phase,Round 3
+Atletico Madrid (Spa) W - Juventus FC (Fra) W (21:00)
+Click to expand...
+CW : 96 CD 27 8A E0 22 9C 9E
+---FEED-SEPARATOR---
 1W
 11465 V 9600 
 4:2:2
@@ -106,6 +119,8 @@ SABAH BC VS ELAN CHALON
 Eutelsat 7B/7C (7.0E)
 11190 -Horizontal  - 7200 - 4:2:0
 Name : CBC-01
+---FEED-SEPARATOR---
+..
 ---FEED-SEPARATOR---
 omid1348 said:
 			7E
@@ -152,12 +167,6 @@ ID: ITA 390
 EuroLeague
 Milano - Lyon - Villeurbanne
 CW: BA EA CD 71 28 A2 22 EC
----FEED-SEPARATOR---
-Euro cup
-Eutelsat ( 7.0°E)
-11460 - Vertical - 7200
-CRO-023/1
-CW : 12 7A DF 6B 5F CC 11 3C
 ---FEED-SEPARATOR---
 Eutelsat ( 7.0°E)
 11666 - Horizontal - 7200
