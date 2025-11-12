@@ -107,6 +107,35 @@ Eutelsat 7B/7C (7.0E)
 11190 -Horizontal  - 7200 - 4:2:0
 Name : CBC-01
 ---FEED-SEPARATOR---
+omid1348 said:
+			7E
+12546 H 7200
+4.2.0
+ID: BB EC Chermnitz
+EuroCup Basketball
+Niners - Buducnost
+CW: BB EE 11 BA 11 20 25 56
+Click to expand...
+key not working
+---FEED-SEPARATOR---
+bayuware said:
+Hotbird 13B ( 13E )
+12600 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: CZE-041 BCL NYMBURK MAIN
+Event: Basketball Champions League
+any CW Please? 
+Click to expand...
+CW: FD 85 EB 6D 05 EE 75 68
+---FEED-SEPARATOR---
+7E
+12546 H 7200
+4.2.0
+ID: BB EC Chermnitz
+EuroCup Basketball
+Niners - Buducnost
+CW: BB EE 11 BA 11 20 25 57
+---FEED-SEPARATOR---
 A.ElSadek said:
 			Euro cup
 Eutelsat ( 7.0°E)
