@@ -196,7 +196,7 @@ CW: FD 85 EB 6D 05 EE 75 68
 ID: BB EC Chermnitz
 EuroCup Basketball
 Niners - Buducnost
-CW: BB EE 11 BA 11 20 25 57
+CW: BB EE 11 BA 12 20 25 57
 ---FEED-SEPARATOR---
 A.ElSadek said:
 			Euro cup
@@ -290,11 +290,3 @@ YSM-021M
 ABA League 2 - Round 3
 Mornar Bar vs Vrsac
 CW: AB BA 20 85 25 20 26 6B
----FEED-SEPARATOR---
-EuroBasket, Women, Qualification, Gr. C, Round 1
-Slovakia vs Poland
-Eutelsat 7A/7B/7C @ 7.0°E
-11170 - H - 7200
-4:2:0
-ID: SLQ 001
-CW: A2 02 51 F5 11 2C AB E8
