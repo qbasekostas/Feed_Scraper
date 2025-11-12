@@ -1,3 +1,18 @@
+Event :
+Europe Champions League Women - League phase - Round 3
+Teams :SL Benfica W 
+ Twente W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10985 H 9875
+   E-285 maim (Service Provider)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.396
+  Mbit/Sec|8PSK DVB-S2 HD
+CW: 4C B9 16 1B 61 68 B8 81
+---FEED-SEPARATOR---
 7E
 10961 H 9875
 4.2.2
