@@ -1,3 +1,15 @@
+Eutelsat 7A/7B/7C @ 7.0°E
+11078 - H - 7200
+4:2:0
+ID: MRC003/M259M
+CW: 3B 88 7C 3F 2B 9A 27 EC
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+10996 - H - 9875
+4:2:2
+ID: Man U Match 4 Bup
+CW: 3E 3F 15 92 EB 37 81 A3
+---FEED-SEPARATOR---
 Event :
 Europe Champions League Women - League phase - Round 3
 Teams :SL Benfica W 
