@@ -4,6 +4,18 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: MRC003/M259M
 CW: 3B 88 7C 3F 2B 9A 27 EC
 ---FEED-SEPARATOR---
+Ferari3000 said:
+			Eutelsat 7B/7C (7.0E)
+11010 H 9875
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:2
+ID: E-387 MD 3 MAIN
+Provider: OVERON
+UEFA Women's Champions League,League Phase,Round 3
+Atletico Madrid (Spa) W - Juventus FC (Fra) W (21:00)
+Biss Encrypt?
+Click to expand...
+CW : 96 CD 27 8A E0 22 9C 9E
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 10996 - H - 9875
 4:2:2
@@ -49,3 +61,8 @@ MPEG4-
 22.396
   Mbit/Sec|8PSK DVB-S2 HD
 CW: 57 BF 31 47 15 B2 13 DA
+---FEED-SEPARATOR---
+Eutelsat ( 7.0°E)
+11172 - Horizontal - 7200
+SLQ 001 - JOJ TV
+CW : A2 02 51 F5 11 2C AB E8
