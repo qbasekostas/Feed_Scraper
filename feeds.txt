@@ -1,0 +1,24 @@
+7E
+10961 H 9875
+4.2.2
+ID: 
+E 380 M1 MAIN
+UEFA Women's Champions League
+Barcelona W
+Leuven W
+CW: 2E 46 54 C8 32 27 5C B5
+---FEED-SEPARATOR---
+Event :Europe Champions League Women - League phase - Round 3
+Teams :Bayern Munich W
+ Arsenal 
+W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10973 H 9875
+  CRO-025 UWCL M02 MAIN (Medialink)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.396
+  Mbit/Sec|8PSK DVB-S2 HD
+CW: 57 BF 31 47 15 B2 13 DA
