@@ -65,6 +65,25 @@ Eutelsat 7B/7C (7.0E)
 11190 -Horizontal  - 7200 - 4:2:0
 Name : CBC-01
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11522 - V - 7200
+4:2:2
+ID: TUR 112 B
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Basketball Champions League
+Mersin SK VS Unicaja
+13.0E
+- Name:           TUR 143 M (*unnamed-1*)
+- Freq: 10837,669
+- Pol: Vertical
+- SR: 7199,83
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+4C AF A3 88 E8 C7 F0 6F
+CW: DF 91 BC 2C 34 BC 88 78
+---FEED-SEPARATOR---
 Eutelsat ( 7.0°E)
 11172 - Horizontal - 7200
 SLQ 001 - JOJ TV
