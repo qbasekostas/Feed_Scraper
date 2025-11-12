@@ -262,6 +262,21 @@ Eutelsat ( 7.0°E)
 SLQ 001 - JOJ TV
 CW : A2 02 51 F5 11 2C AB E8
 ---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+12643 - V - 7200
+4:2:0
+ID: Eurocup London Lions vs Panionios
+CW: 46 F7 04 41 E4 66 9E E8
+Click to expand...
+			https://www.sat-universe.com/index.php?threads/biss-feeds-with-incomplete-information-please-request-a-mod-to-move-if-completed.319817/post-2037418463
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11458 - V - 7200
+4:2:2
+ID: CRO-023/1
+CW: 12 7A DF 6B 5F CC 11 3C
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12643 - V - 7200
 4:2:0
