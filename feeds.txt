@@ -4,6 +4,14 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: MRC003/M259M
 CW: 3B 88 7C 3F 2B 9A 27 EC
 ---FEED-SEPARATOR---
+47W SES14 C
+4007H9873
+ID: Fi15_GNVE
+DVB S2 4.2.0 1080i
+RUSIA  
+ PERU 
+CW: E3 C5 98 40 3E E2 83 A3
+---FEED-SEPARATOR---
 Ferari3000 said:
 			Eutelsat 7B/7C (7.0E)
 11010 H 9875 - 4:2:2
@@ -82,6 +90,16 @@ ID: ENC 2
 UEFA Women's Champions League
 FC Bayern Munich - Arsenal W.F.C.
 CW: 98 3F B1 88 2F 1F 8A D8
+---FEED-SEPARATOR---
+1W
+11465 V 9600 
+4:2:2
+DVBS-2 8PSK
+ID Womens FAI Final
+EuroBasket Women - Qualification - First stage
+Ireland W
+ vs 
+Luxembourg W
 ---FEED-SEPARATOR---
 Basketball champions league
 SABAH BC VS ELAN CHALON
