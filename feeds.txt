@@ -12,6 +12,13 @@ RUSIA
  PERU 
 CW: E3 C5 98 40 3E E2 83 A3
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12523 Horizontal 4798,971 3/4
+DVB-S2/8PSK (4:2:2)
+CZE 046
+UEFA Europa Cup Women - 1/8-finals
+Sparta Prague vs Young Boys
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 10996 - H - 9875
 4:2:2
@@ -119,6 +126,17 @@ SABAH BC VS ELAN CHALON
 Eutelsat 7B/7C (7.0E)
 11190 -Horizontal  - 7200 - 4:2:0
 Name : CBC-01
+---FEED-SEPARATOR---
+omid1348 said:
+			7E
+12546 H 7200
+4.2.0
+ID: BB EC Chermnitz
+EuroCup Basketball
+Niners - Buducnost
+CW: BB EE 11 BA 11 20 25 57
+Click to expand...
+Correct CW: BB EE 11 BA 12 20 25 57
 ---FEED-SEPARATOR---
 ..
 ---FEED-SEPARATOR---
