@@ -107,6 +107,29 @@ Eutelsat 7B/7C (7.0E)
 11190 -Horizontal  - 7200 - 4:2:0
 Name : CBC-01
 ---FEED-SEPARATOR---
+A.ElSadek said:
+			Euro cup
+Eutelsat ( 7.0°E)
+11460 - Vertical - 7200
+CRO-023/1
+CW : 12 7A DF 6B 5F CC 11 3C
+Click to expand...
+4.2.2
+---FEED-SEPARATOR---
+7E
+11070 H 7200
+4.2.0
+ID: ITA 390
+EuroLeague
+Milano - Lyon - Villeurbanne
+CW: BA EA CD 71 28 A2 22 EC
+---FEED-SEPARATOR---
+Euro cup
+Eutelsat ( 7.0°E)
+11460 - Vertical - 7200
+CRO-023/1
+CW : 12 7A DF 6B 5F CC 11 3C
+---FEED-SEPARATOR---
 Eutelsat ( 7.0°E)
 11666 - Horizontal - 7200
 CYPRUS VS ROUMANIA
