@@ -1,3 +1,10 @@
+World Cup Qualifying
+France VS Ukraine
+Eutelsat 7C (7.0°E)
+11136 -  Horizontal - 7200
+FRA-UKR VBR
+FTA / CLEAR
+---FEED-SEPARATOR---
 100.5e
 3834 V 7200
 4:2:0
@@ -7,6 +14,34 @@ ASIA:
 World Cup - Qualification - Fifth stage
 United Arab Emirates
 Iraq
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+10998  Vertical  9874,854
+ID:  /F34/ M MATCH 08 (*unnamed-1*)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification, UEFA Group D
+France vs Ukraine 
+CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+11009  Vertical  9874,854
+ID:   IRL-015 M11 MAIN (Vitel.tv)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification
+Ireland
+ vs. 
+Portugal 
+CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+10998  Vertical  9874,854
+ID:   ROU-038- 1- M10 (Eurovision)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification
+Moldova
+vs. 
+Italy
+CW: 13 F8 B6 C1 AC 8F 11 4C
 ---FEED-SEPARATOR---
 omid1348 said:
 			FIFA World Cup European qualifiers
