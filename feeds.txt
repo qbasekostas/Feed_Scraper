@@ -1,3 +1,12 @@
+Eutelsat 7B-7C   @ 07.0E
+11019  Horizontal  14400,14
+ID: CZE-012-2-EQM4 (*unnamed-1*)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+event
+: 
+FIFA World Cup European qualifiers
+CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
 7E
 11000 H 14400
 4.2.2
