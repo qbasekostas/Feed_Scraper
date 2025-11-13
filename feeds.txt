@@ -222,6 +222,25 @@ World Championship Qualification Men,Group F,Round 5
 Armenia - Hungary (18:00)
 CW: 13 F8 B6 C1 AC 8F 11 4C
 ---FEED-SEPARATOR---
+28.2E
+12645 V 5000 
+4:2:2
+DVBS-2 16APSK
+ID: 
+BEL119
+EuroBasket Women 
+Belgium W
+vs 
+Finland W
+---FEED-SEPARATOR---
+Euroleague
+Maccabi Tel Aviv vs Baskonia
+7E
+11523 V 7200
+DVB-S2 4:2:0 8PSK
+ID: GVA_Fi02
+CW: 16 E6 FF FB 4B 97 BD 9F
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 11018 Vertical 4936,155 3/4
 DVB-S2/8PSK (4:2:0)
@@ -236,6 +255,14 @@ Eutelsat 7A/7B/7C @ 7.0°E
 4:2:0
 ID: Sepahan(IRN) vs Ahal FC (TKM)
 CW: D0 89 B3 0C C7 27 16 04
+---FEED-SEPARATOR---
+7E
+11070 H 7200
+4.2.0
+ID: IMG A EU
+Euroleague Basketball
+ Fenerbahce v Hapoel Tel-Aviv
+CW: 11 2E 6B AA 41 BB 25 21
 ---FEED-SEPARATOR---
 FIBA Women's Eurobasket 2027 Qualifiers test feed
 19.2E
