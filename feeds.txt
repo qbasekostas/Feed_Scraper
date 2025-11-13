@@ -1,3 +1,18 @@
+Eutelsat 16A (16.0 E)
+12523 Horizontal 4798,963 3/4
+DVB-S2/8PSK (4:2:2)
+CZE 042
+Friendly International
+Czech Republic vs San Marino
+---FEED-SEPARATOR---
+1W
+11674 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID Fotbal PO
+UEFA U-21 Championship 2027 Qualifiers
+Slovakia U-21 v Kazakhstan U-21
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11606  Vertical  7201,801
 ID: chan A (Service Provider)
@@ -206,6 +221,14 @@ Provider: MEDIA PRO
 World Championship Qualification Men,Group F,Round 5
 Armenia - Hungary (18:00)
 CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+11018 Vertical 4936,155 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-013M
+ABA League 2 - Round 3
+Zlatibor vs Borac Banja Luka
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 FIBA WASL - West Asia League 2025-2026
 Eutelsat 7A/7B/7C @ 7.0°E
