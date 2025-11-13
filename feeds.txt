@@ -1,3 +1,13 @@
+Eutelsat 7B-7C   @ 07.0E
+11606  Vertical  7201,801
+ID: chan A (Service Provider)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: FTA
+International, World Cup Qualification, AFC, Round 5
+United Arab Emirates
+ vs. 
+Iraq
+---FEED-SEPARATOR---
 World Cup Qualifying
 France VS Ukraine
 Eutelsat 7C (7.0°E)
@@ -14,6 +24,24 @@ ASIA:
 World Cup - Qualification - Fifth stage
 United Arab Emirates
 Iraq
+---FEED-SEPARATOR---
+16E
+12570 H 9875
+4.2.2
+ID: D535_Luxemburg
+FIFA World Cup European qualifiers
+Luxemburg - Germany (Tomorrow)
+CW: 13 AC 12 D1 AB 20 25 F0
+---FEED-SEPARATOR---
+8.0°W
+12535 V 7200
+4:2:0
+ID: Orion feed-1
+12518 V 9800
+4:2:0 - UHD - HEVC- DVB-S2x
+ID: PRIVATIF UHD
+CW: 20 25 FE 43 ED 16 02 05
+France - Ukraine
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 10998  Vertical  9874,854
@@ -151,6 +179,13 @@ ID: E 360 M 26M
 FIFA World Cup European qualifiers
 Ireland - Portugal ??
 CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
+FIBA WASL - West Asia League 2025-2026
+Eutelsat 7A/7B/7C @ 7.0°E
+12685 - V - 7500
+4:2:0
+ID: Sepahan(IRN) vs Ahal FC (TKM)
+CW: D0 89 B3 0C C7 27 16 04
 ---FEED-SEPARATOR---
 FIBA Women's Eurobasket 2027 Qualifiers test feed
 19.2E
