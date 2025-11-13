@@ -40,6 +40,13 @@ World Cup - Qualification - Fifth stage
 United Arab Emirates
 Iraq
 ---FEED-SEPARATOR---
+7.0°E
+11145 V 14400
+4:2:0
+ID: RAI BUL007 TV1 Main
+CW: A1 20 61 22 92 3C 47 15
+Moldova - Italy for RAI
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3833 V 7199 C-Band
 ID: UAE074 - 1
@@ -144,7 +151,7 @@ CW: 13 F8 B6 C1 AC 8F 11 4C
 Click to expand...
 Eutelsat 7A/7B/7C @ 7.0°E
 11008 - V - 9875
-4:2:0
+4:2:2
 World Championship Qualification Men,Group K,Round 7
 England - Serbia (20:45)
 ID: UKI1866 Eng v Serb Main
