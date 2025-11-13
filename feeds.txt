@@ -240,6 +240,14 @@ Belgium W
 vs 
 Finland W
 ---FEED-SEPARATOR---
+7E
+11022 V 7200
+4.2.0
+ID: F419_MAIN
+EuroLeague
+Paris - Valencia Basket
+CW: D1 65 49 7F BD C9 DE 64
+---FEED-SEPARATOR---
 Euroleague
 Maccabi Tel Aviv vs Baskonia
 7E
