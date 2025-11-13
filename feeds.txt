@@ -1,4 +1,24 @@
 7E
+11000 H 14400
+4.2.2
+ID: 
+NOR-035 - 1 - EQM3
+FIFA World Cup European qualifiers
+Norway
+Estonia
+CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
+7E
+10982 H 14400
+4.2.2
+ID: 
+AZE-013_MAIN_CHAIN
+FIFA World Cup European qualifiers
+Azerbaijan
+Iceland
+CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
+7E
 10964 H 14400
 4.2.2
 ID: E 360 M 26M
