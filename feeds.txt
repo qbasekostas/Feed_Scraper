@@ -8,6 +8,71 @@ World Cup - Qualification - Fifth stage
 United Arab Emirates
 Iraq
 ---FEED-SEPARATOR---
+Albahraniy said:
+			FIFA World Cup European qualifiers
+Eutelsat 7B/7C @ 7.0E
+11065 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:ROU-015 M10 MAIN
+CW: 13 F8 B6 C1 AC 8F 11 4C
+Click to expand...
+Moldova vs Italy
+---FEED-SEPARATOR---
+Albahraniy said:
+			Eutelsat 7B/7C @ 7.0E
+11098 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: UAE074 - 1
+CW: 7C 6D 57 40 63 66 26 EF
+Click to expand...
+			https://www.sat-universe.com/index.php?threads/asia-football-eg-afc-qualifiers-and-competitions.251875/post-2037418396
+---FEED-SEPARATOR---
+omid1348 said:
+			FIFA World Cup European qualifiers
+CW: 13 F8 B6 C1 AC 8F 11 4C
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11047 - V - 14400
+4:2:2
+ID: E380 M M7A
+---FEED-SEPARATOR---
+World Cup Qualification, AFC, Round 5, FinalUnited
+Arab Emirates vs Iraq
+Eutelsat 7B/7C @ 7.0E
+11098 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: UAE074 - 1
+CW: 7C 6D 57 40 63 66 26 EF
+---FEED-SEPARATOR---
+FIFA World Cup European qualifiers
+maybe: Ireland vs Portugal
+Eutelsat 7B/7C @ 7.0E
+11083 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:uki1482 EQ M11 Main
+CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
+FIFA World Cup European qualifiers
+Eutelsat 7B/7C @ 7.0E
+11065 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:ROU-015 M10 MAIN
+CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
+omid1348 said:
+			FIFA World Cup European qualifiers
+CW: 13 F8 B6 C1 AC 8F 11 4C
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11008 - V - 9875
+4:2:0
+ID: UKI1866 Eng v Serb Main
+---FEED-SEPARATOR---
 omid1348 said:
 			7E
 10964 H 14400
