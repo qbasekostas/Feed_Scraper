@@ -1,10 +1,46 @@
+faisal6 said:
 Eutelsat 7B-7C   @ 07.0E
 11019  Horizontal  14400,14
 ID: CZE-012-2-EQM4 (*unnamed-1*)
 1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
 event
 : 
+WORLD: 
+Friendly International
+CW: 13 F8 B6 C1 AC 8F 11 4C
+Click to expand...
+International, International Friendly Games
+Czech Republic
+vs. 
+San Marino 
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+10982  Vertical  14400,184
+ID:   YSM-016-1-M6 (*unnamed-1*)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification
+Armenia
+ vs. 
+Hungary
+CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+10965  Vertical  14400,184
+ID:   LTU-005-B/U-MATCH 05 EUROPE (Satgat
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+event: 
 FIFA World Cup European qualifiers
+Lithuaniavs. Israel
+CW: 13 F8 B6 C1 AC 8F 11 4C
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11019  Horizontal  14400,14
+ID: CZE-012-2-EQM4 (*unnamed-1*)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+event
+: 
+WORLD: 
+Friendly International
 CW: 13 F8 B6 C1 AC 8F 11 4C
 ---FEED-SEPARATOR---
 7E
