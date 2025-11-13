@@ -25,34 +25,28 @@ World Cup - Qualification - Fifth stage
 United Arab Emirates
 Iraq
 ---FEED-SEPARATOR---
-faisal6 said:
-Eutelsat 7B-7C   @ 07.0E
-10982  Vertical  14400,184
-ID:   YSM-016-1-M6 (*unnamed-1*)
-1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
-International, World Cup Qualification
-Armenia
- vs. 
-Hungary
-CW: 13 F8 B6 C1 AC 8F 11 4C
+Asiasat 5 @ 100.5°E
+3833 V 7199 C-Band
+ID: UAE074 - 1
+(Provider ID: N/A)
+MPEG4 | DVB-S2
+1920x1080i |14,14Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: ASIA - AFC Asian Qualifiers Road to FIFA World Cup 26™ (5th Round)
+Teams: United Arab Emirates vs Iraq
+Time / Kickoff: 23.00 JKT-TH / 00.00 MY-SG / 16.00 GMT / 17.00 CET
+xFayez95 said:
+CW: 7C 6D 57 40 63 66 26 EF
 Click to expand...
-International Friendly Match
-North Macedonia - Latvia (18:00)
 ---FEED-SEPARATOR---
-omid1348 said:
-			7E
-10964 H 14400
-4.2.2
-ID: E 360 M 26M
-FIFA World Cup European qualifiers
-Ireland - Portugal ??
-CW: 13 F8 B6 C1 AC 8F 11 4C
-Click to expand...
-ID: 
-E 360 M
-Provider: MEDIA PRO
-World Championship Qualification Men,Group F,Round 5
-Armenia - Hungary (18:00)
+7E
+12511 V 4937
+4.2.0
+ID: UAE 095 -MAIN
+Friendlies
+Cape Verde - Iran
+CW: 25 5A 31 B0 1E 50 E6 54
 ---FEED-SEPARATOR---
 16E
 12570 H 9875
@@ -160,10 +154,8 @@ Eutelsat 7B-7C   @ 07.0E
 10982  Vertical  14400,184
 ID:   YSM-016-1-M6 (*unnamed-1*)
 1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
-International, World Cup Qualification
-Armenia
- vs. 
-Hungary
+International Friendly Match
+North Macedonia - Latvia (18:00)
 CW: 13 F8 B6 C1 AC 8F 11 4C
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
@@ -209,8 +201,10 @@ CW: 13 F8 B6 C1 AC 8F 11 4C
 10964 H 14400
 4.2.2
 ID: E 360 M 26M
-FIFA World Cup European qualifiers
-Ireland - Portugal ??
+ID: E 360 M
+Provider: MEDIA PRO
+World Championship Qualification Men,Group F,Round 5
+Armenia - Hungary (18:00)
 CW: 13 F8 B6 C1 AC 8F 11 4C
 ---FEED-SEPARATOR---
 FIBA WASL - West Asia League 2025-2026
