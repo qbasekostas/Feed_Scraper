@@ -25,6 +25,35 @@ World Cup - Qualification - Fifth stage
 United Arab Emirates
 Iraq
 ---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 7B-7C   @ 07.0E
+10982  Vertical  14400,184
+ID:   YSM-016-1-M6 (*unnamed-1*)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification
+Armenia
+ vs. 
+Hungary
+CW: 13 F8 B6 C1 AC 8F 11 4C
+Click to expand...
+International Friendly Match
+North Macedonia - Latvia (18:00)
+---FEED-SEPARATOR---
+omid1348 said:
+			7E
+10964 H 14400
+4.2.2
+ID: E 360 M 26M
+FIFA World Cup European qualifiers
+Ireland - Portugal ??
+CW: 13 F8 B6 C1 AC 8F 11 4C
+Click to expand...
+ID: 
+E 360 M
+Provider: MEDIA PRO
+World Championship Qualification Men,Group F,Round 5
+Armenia - Hungary (18:00)
+---FEED-SEPARATOR---
 16E
 12570 H 9875
 4.2.2
@@ -78,6 +107,8 @@ Click to expand...
 Eutelsat 7A/7B/7C @ 7.0°E
 11047 - V - 14400
 4:2:2
+World Championship Qualification Men,Group K,Round 8 or 7
+Andorra - Albania (20:45)
 ID: E380 M M7A
 ---FEED-SEPARATOR---
 FIFA World Cup European qualifiers
@@ -105,6 +136,8 @@ Click to expand...
 Eutelsat 7A/7B/7C @ 7.0°E
 11008 - V - 9875
 4:2:0
+World Championship Qualification Men,Group K,Round 7
+England - Serbia (20:45)
 ID: UKI1866 Eng v Serb Main
 ---FEED-SEPARATOR---
 faisal6 said:
