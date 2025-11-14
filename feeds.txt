@@ -6,6 +6,14 @@ Torneo Apertura Betano 2025
 ​
 CW: 11 11 22 44 22 33 33 88
 ---FEED-SEPARATOR---
+Eutelsat 36B @ 36.1° E
+Fréq:10959 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  SAU-043 M
+FIFA U-17 World Cup Qatar 2025
+France vs Colombia
+CW: D1 0A 83 5E 08 6B 0D 80
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group L, Round 9
 Gibraltar vs. Montenegro
 Eutelsat 7B/7C @ 7.0°E
