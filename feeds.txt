@@ -312,8 +312,18 @@ Eutelsat 7B/7C (7.0E)
 11580 V 7200
 MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
 ID: CRO-019/1
-Provider: Media Link 
+Provider: Media Link
 CW: 20 25 AB F0 CD 20 26 13
+ABA League
+Zadar - Mega
+---FEED-SEPARATOR---
+16E
+11097 H 7200
+4.2.0
+ID: ITA 390
+EuroLeague
+Milano - Olympiacos
+CW: 9B 26 7F 40 B3 51 5F 63
 ---FEED-SEPARATOR---
 7E
 11023 V 7200
