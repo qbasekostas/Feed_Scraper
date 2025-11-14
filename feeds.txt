@@ -6,6 +6,14 @@ Torneo Apertura Betano 2025
 ​
 CW: 11 11 22 44 22 33 33 88
 ---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID:LIGA HYPERMOTION 1
+LaLiga 2 
+Real Valladolid vs Las Palmas
+CW: E3 C1 FF A3 05 62 6B D2
+---FEED-SEPARATOR---
 16E
 12701 V 8000 
 4:2:2
@@ -272,6 +280,22 @@ ID: Deutschland-Malta
 Euro U21 - Qualification
 Germany U21 v Malta U21
 CW: 14 11 DA FF BB 12 60 2D
+---FEED-SEPARATOR---
+7E
+10982 V 7500
+4.2.2
+ID: TUR 112 MAIN
+Basketbol Süper Ligi
+Buyukcekmece - Galatasaray
+CW: 62 9A D4 D0 9A 7A 95 A9
+---FEED-SEPARATOR---
+7E
+11457 H 7500
+4.2.2
+ID: TUR 112 MAIN
+Basketbol Süper Ligi
+Buyukcekmece - Galatasaray
+CW: A3 41 6C 50 14 D2 54 3A
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:12573- H - 7200
