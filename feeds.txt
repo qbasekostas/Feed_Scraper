@@ -14,6 +14,14 @@ LaLiga 2
 Real Valladolid vs Las Palmas
 CW: E3 C1 FF A3 05 62 6B D2
 ---FEED-SEPARATOR---
+1W
+11674 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID SLQ-002 BU
+FIFA/UEFA WC 2026 Qualifiers - Group A, Round 9
+Slovakia v Northern Ireland
+---FEED-SEPARATOR---
 16E
 12701 V 8000 
 4:2:2
