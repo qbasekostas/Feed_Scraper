@@ -6,6 +6,22 @@ Torneo Apertura Betano 2025
 ​
 CW: 11 11 22 44 22 33 33 88
 ---FEED-SEPARATOR---
+16E
+12701 V 8000 
+4:2:2
+DVB-S2 8PSK
+ID: SVK-NI Path-2
+FIFA/UEFA WC 2026 Qualifiers - Group A, Round 9
+Slovakia v Northern Ireland
+---FEED-SEPARATOR---
+16E
+12692 V 8000 
+4:2:2
+DVB-S2 8PSK
+ID: SVK-NI Path-1
+FIFA/UEFA WC 2026 Qualifiers - Group A, Round 9
+Slovakia v Northern Ireland
+---FEED-SEPARATOR---
 UEFA U-21 Championship 2027 Qualifiers
 GREECE VS Georgia 
 39.0E
@@ -48,6 +64,26 @@ Friendlies
 Saudi Arabia - Ivory Coast
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 36B @ 36.1° E
+Fréq:11014 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:   SAU-44 M
+FIFA U-17 World Cup Qatar 2025
+USA vs Morocco
+CW: D1 0A 83 5E 08 6B 0D 80
+---FEED-SEPARATOR---
+AhmedCeNa said:
+Friendly
+Morocco vs Mozambique
+Click to expand...
+3.1E
+11665 H 5000
+DVB-S2 4:2:0 8PSK
+ID: M260-MRC-004-Bu
+AhmedCeNa said:
+CW: FE ED 14 FF 11 20 25 56
+Click to expand...
+---FEED-SEPARATOR---
 Friendly
 Morocco vs Mozambique
 21.6E
@@ -71,6 +107,7 @@ Fréq:11005 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
 ID:  SAU-039 M
 FIFA U-17 World Cup Qatar 2025
+Rep Ireland vs Canada
 CW: D1 0A 83 5E 08 6B 0D 80
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers
@@ -211,6 +248,14 @@ FÚTBOL AMISTOSO
 ECUADOR 
 VS CANADA
 CW: CA12330F03A909B5
+---FEED-SEPARATOR---
+Eutelsat 36B @ 36.1° E
+Fréq:11022 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:   SAU-36 M
+FIFA U-17 World Cup Qatar 2025
+Paraguay  vs Brazil 
+CW: D1 0A 83 5E 08 6B 0D 80
 ---FEED-SEPARATOR---
 10E
 10721 H 7200
