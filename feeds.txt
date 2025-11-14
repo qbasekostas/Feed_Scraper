@@ -72,14 +72,6 @@ Friendlies
 Saudi Arabia - Ivory Coast
 FTA
 ---FEED-SEPARATOR---
-Eutelsat 36B @ 36.1° E
-Fréq:11014 - V - 7200
-MPEG 4 - 4:2:0 - DVB-S2
-ID:   SAU-44 M
-FIFA U-17 World Cup Qatar 2025
-USA vs Morocco
-CW: D1 0A 83 5E 08 6B 0D 80
----FEED-SEPARATOR---
 AhmedCeNa said:
 Friendly
 Morocco vs Mozambique
@@ -117,6 +109,13 @@ ID:  SAU-039 M
 FIFA U-17 World Cup Qatar 2025
 Rep Ireland vs Canada
 CW: D1 0A 83 5E 08 6B 0D 80
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+10974 Vertical 9597,954 3/4
+DVB-S2/8PSK (4:2:2)
+POL-90a
+Poland vs Netherlands (TVP Sport)
+CW: 5D 22 0B C3 6E CC 85 71
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers
 Luxembourg vs Germany
@@ -258,6 +257,16 @@ VS CANADA
 CW: CA12330F03A909B5
 ---FEED-SEPARATOR---
 Eutelsat 16A  16° E
+10973 V 9600
+ID: 
+POL-90a
+Event: 
+Football: World Cup qualifying - match: Poland - Netherlands
+4.2.2
+- DVB-S2 - 8PSK
+CW: DC AE 20 AA 25 BB 11 F1
+---FEED-SEPARATOR---
+Eutelsat 16A  16° E
 10985 V 9600
 ID: 
 POL-033 out1
@@ -283,6 +292,14 @@ FIFA U-17 World Cup Qatar 2025
 Paraguay  vs Brazil 
 CW: D1 0A 83 5E 08 6B 0D 80
 ---FEED-SEPARATOR---
+Eutelsat 36B @ 36.1° E
+Fréq:11014 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:   SAU-44 M
+FIFA U-17 World Cup Qatar 2025
+USA vs Morocco
+CW: D1 0A 83 5E 08 6B 0D 80
+---FEED-SEPARATOR---
 10E
 10721 H 7200
 4.2.0
@@ -291,7 +308,22 @@ Euro U21 - Qualification
 Germany U21 v Malta U21
 CW: 14 11 DA FF BB 12 60 2D
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+11580 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: CRO-019/1
+Provider: Media Link 
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
 7E
+11023 V 7200
+4.2.0
+ID: TUR-034
+EuroLeague
+Anadolu Efes - Bayern Munich
+CW: D1 ED 93 51 F3 53 EC 32
+---FEED-SEPARATOR---
+42E
 10982 V 7500
 4.2.2
 ID: TUR 112 MAIN
