@@ -1,3 +1,13 @@
+Eutelsat 7B-7C   @ 07.0E
+10986  Vertical  9874,854
+ID:  FIN-012-M1-MAIN (YLE)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+CW: 14 F8 B6 C2 AC 8F 11 4C
+International, World Cup Qualification, UEFA Group G
+Finland
+ vs. 
+Malta
+---FEED-SEPARATOR---
 55W INTELSAT 34 C 
 4127H7200
 ID: T/A BT to IS34 CANADA VS. ECUADOR 
