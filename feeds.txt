@@ -6,6 +6,58 @@ Torneo Apertura Betano 2025
 ​
 CW: 11 11 22 44 22 33 33 88
 ---FEED-SEPARATOR---
+UEFA U-21 Championship 2027 Qualifiers
+GREECE VS Georgia 
+39.0E
+11026 V 7200
+4.2.0 HD
+ID: BAV
+FTA
+---FEED-SEPARATOR---
+omid1348 said:
+7E
+11665 H 7200
+4.2.0
+ID: SAU-032-A
+Friendlies
+Saudi Arabia - Ivory Coast
+FTA
+Click to expand...
+Also on 21.5E 
+12593 H 7200 420 HD MPEG4 FTA
+ID: SAUDI ARABIA vs 
+KO 17:30 CET
+---FEED-SEPARATOR---
+omid1348 said:
+7E
+11665 H 7200
+4.2.0
+ID: SAU-032-A
+Friendlies
+Saudi Arabia - Ivory Coast
+FTA
+Click to expand...
+Same on
+21.6E 12594 H 7200 FTA
+---FEED-SEPARATOR---
+7E
+11665 H 7200
+4.2.0
+ID: SAU-032-A
+Friendlies
+Saudi Arabia - Ivory Coast
+FTA
+---FEED-SEPARATOR---
+Friendly
+Morocco vs Mozambique
+21.6E
+11582 H 7200
+DVB-S2 
+4:2:2 
+8PSK
+ID: MRC008-BU
+CW: FE ED 14 FF 11 20 25 56
+---FEED-SEPARATOR---
 Africa World Series (Friendly)
 Uganda vs Chad
 21.6E
