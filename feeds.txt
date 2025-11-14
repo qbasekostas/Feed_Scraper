@@ -249,6 +249,14 @@ ECUADOR
 VS CANADA
 CW: CA12330F03A909B5
 ---FEED-SEPARATOR---
+7E
+11000 V 4937
+4.2.0
+ID: UAE 095 - MAIN
+Friendlies
+Uzbekistan - Egypt
+CW: F2 93 83 08 B8 B5 D1 3E
+---FEED-SEPARATOR---
 Eutelsat 36B @ 36.1° E
 Fréq:11022 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
@@ -264,3 +272,11 @@ ID: Deutschland-Malta
 Euro U21 - Qualification
 Germany U21 v Malta U21
 CW: 14 11 DA FF BB 12 60 2D
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:12573- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:UAE074 - 1
+Euroleague 
+Dubai Basketball vs Zalgiris Kaunas
+CW: 72 63 71 46 6F 81 E5 D5
