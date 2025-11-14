@@ -264,6 +264,14 @@ ECUADOR
 VS CANADA
 CW: CA12330F03A909B5
 ---FEED-SEPARATOR---
+Africa World Series (Friendly)
+Burkina Faso vs Niger
+21.6E
+11596 H 4000
+DVB-S2 4:2:0 8PSK
+ID: M104-MRC007-Main
+CW: FE ED 14 FF 11 20 25 56
+---FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10973 V 9600
 ID: 
@@ -315,6 +323,13 @@ ID: Deutschland-Malta
 Euro U21 - Qualification
 Germany U21 v Malta U21
 CW: 14 11 DA FF BB 12 60 2D
+---FEED-SEPARATOR---
+Euroleague - Round 11
+ASVEL Villeurbanne vs Partizan
+16e
+11106 H 7200
+ID: F560
+CW: A5 B7 3D 99 AE 44 FC EE
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0E)
 11580 V 7200
