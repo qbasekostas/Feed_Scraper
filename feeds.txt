@@ -14,6 +14,14 @@ LaLiga 2
 Real Valladolid vs Las Palmas
 CW: E3 C1 FF A3 05 62 6B D2
 ---FEED-SEPARATOR---
+7E
+11604 V 9600
+4.2.0
+ID: M-Three 622 Feed_1
+UEFA EURO U-21 qualification
+Spain U21 - San Marino U21
+FTA
+---FEED-SEPARATOR---
 1W
 11674 V 7200 
 4:2:0
@@ -263,14 +271,6 @@ FÚTBOL AMISTOSO
 ECUADOR 
 VS CANADA
 CW: CA12330F03A909B5
----FEED-SEPARATOR---
-FIFA/UEFA WC 2026 Qualifiers
-Luxembourg vs Germany
-16.0E
-12569 H 9875
-4.2.2 HD
-ID: D535_Luxemburg
-CW: 13 AC 12 D1 AB 20 25 F0
 ---FEED-SEPARATOR---
 Hot Bird 13F / Hot Bird 13G @ 13° E
 10821 V SR 7120
