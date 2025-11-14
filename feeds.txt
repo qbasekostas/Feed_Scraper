@@ -6,6 +6,30 @@ Torneo Apertura Betano 2025
 ​
 CW: 11 11 22 44 22 33 33 88
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers
+Luxembourg vs Germany
+16.0E
+10998 V 9875
+4.2.2 HD
+ID: M4_Feed_B_M
+CW: 14 F8 B6 C2 AC 8F 11 4C
+---FEED-SEPARATOR---
+Eutelsat 36B @ 36.1° E
+Fréq:10995 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: SAU-41 M
+FIFA U-17 World Cup Qatar 2025
+Argentina vs Mexico
+CW: D1 0A 83 5E 08 6B 0D 80
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11014 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  ANA-2  
+International Friendly game
+Egypt vs Algeria
+CW: 98 74 DE EA FC 5B 6A C1
+---FEED-SEPARATOR---
 Eutelsat 36B @ 36.1° E
 Fréq:10959 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
