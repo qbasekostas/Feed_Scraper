@@ -264,6 +264,23 @@ ECUADOR
 VS CANADA
 CW: CA12330F03A909B5
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers
+Luxembourg vs Germany
+16.0E
+12569 H 9875
+4.2.2 HD
+ID: D535_Luxemburg
+CW: 13 AC 12 D1 AB 20 25 F0
+---FEED-SEPARATOR---
+Hot Bird 13F / Hot Bird 13G @ 13° E
+10821 V SR 7120
+ID: NLEMG HOL219-1
+Event: 
+Football: World Cup qualifying - match: Poland - Netherlands
+4.2.0
+- DVB-S2 - 8PSK
+CW: 2E A7 93 68 CD 57 A3 C7
+---FEED-SEPARATOR---
 Africa World Series (Friendly)
 Burkina Faso vs Niger
 21.6E
@@ -323,6 +340,16 @@ ID: Deutschland-Malta
 Euro U21 - Qualification
 Germany U21 v Malta U21
 CW: 14 11 DA FF BB 12 60 2D
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12594 V  9600
+ID:
+ Polsat Sport
+Event: 
+Polish Men's Basketball: ORLEN Basket Liga - match: WKS Śląsk Wrocław - Legia Warszawa
+4.2.0
+- DVB-S2 - 8PSK
+CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
 Euroleague - Round 11
 ASVEL Villeurbanne vs Partizan
