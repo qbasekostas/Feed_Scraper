@@ -257,6 +257,16 @@ ECUADOR
 VS CANADA
 CW: CA12330F03A909B5
 ---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10985 V 9600
+ID: 
+POL-033 out1
+Event: 
+Football: UEFA European Under-21 Championship Qualifiers - Match: Poland vs. Italy
+4.2.2
+- DVB-S2 - 8PSK
+CW: 20 25 CA 0F E1 14 78 6D
+---FEED-SEPARATOR---
 7E
 11000 V 4937
 4.2.0
