@@ -6,6 +6,21 @@ Torneo Apertura Betano 2025
 ​
 CW: 11 11 22 44 22 33 33 88
 ---FEED-SEPARATOR---
+Africa World Series (Friendly)
+Uganda vs Chad
+21.6E
+11596 H 4000
+DVB-S2 4:2:0 8PSK
+ID: M104-MRC007-Main
+CW: FE ED 14 FF 11 20 25 56
+---FEED-SEPARATOR---
+Eutelsat 36B @ 36.1° E
+Fréq:11005 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  SAU-039 M
+FIFA U-17 World Cup Qatar 2025
+CW: D1 0A 83 5E 08 6B 0D 80
+---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers
 Luxembourg vs Germany
 16.0E
