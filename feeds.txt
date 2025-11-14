@@ -7,6 +7,26 @@ Torneo Apertura Betano 2025
 CW: 11 11 22 44 22 33 33 88
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
+11000  Horizontal  14400,311
+ID: ENC-2 (*unnamed-1*)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+FIFA Internationals, FIFA World Cup 2014, 2018, 2022, 2026 & Qualifiers/Friendlies. World Club Championship. (7°E,10°E etc)
+International, World Cup Qualification, UEFA Group A
+Luxembourg
+vs. 
+Germa
+ny
+CW: 14 F8 B6 C2 AC 8F 11 4C
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:10964 - V - 14400
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  NTF M06 BU
+World Cup Qualification, UEFA Group A 
+Slovakia vs Northern Ireland 
+CW: 14 F8 B6 C2 AC 8F 11 4C
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
 10986  Vertical  9874,854
 ID:  FIN-012-M1-MAIN (YLE)
 1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
