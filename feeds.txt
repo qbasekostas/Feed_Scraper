@@ -273,6 +273,27 @@ VS CANADA
 CW: CA12330F03A909B5
 ---FEED-SEPARATOR---
 Hot Bird 13F / Hot Bird 13G @ 13° E
+10830 V SR 7120
+ID: 
+NLEMG HOL219-2
+Event: 
+Football: World Cup qualifying - match: Poland - Netherlands
+4.2.0
+- DVB-S2 - 8PSK
+CW: 2E A7 93 68 CD 57 A3 C7
+---FEED-SEPARATOR---
+Mundial
+Amistosos Internacionales
+Marruecos
+ VS 
+Mozambique
+Eutelsat  @ 3.1E
+11667  Horizontal  4999,927
+ID:  M260-MRC-004-Bu (*unnamed-1*)
+1920x1080 |11,143Mb/Sec |8PSK |4:2:0 HD
+E2 D0 8B 22 B2 11 FC 5B  #CW:FE ED 14 FF 11 20 25 56
+---FEED-SEPARATOR---
+Hot Bird 13F / Hot Bird 13G @ 13° E
 10821 V SR 7120
 ID: NLEMG HOL219-1
 Event: 
