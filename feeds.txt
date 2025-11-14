@@ -1,4 +1,12 @@
 Eutelsat 7B-7C   @ 07.0E
+11460  Vertical  7501,834
+ID:   AFD (iKOMG)
+1920x1080 |18,595Mb/Sec |8PSK |4:2:0 HD
+Torneo Apertura Betano 2025
+​
+CW: 11 11 22 44 22 33 33 88
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
 10986  Vertical  9874,854
 ID:  FIN-012-M1-MAIN (YLE)
 1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
