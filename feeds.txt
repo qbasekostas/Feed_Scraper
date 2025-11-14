@@ -6,6 +6,36 @@ Torneo Apertura Betano 2025
 ​
 CW: 11 11 22 44 22 33 33 88
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group L, Round 9
+Gibraltar vs. Montenegro
+Eutelsat 7B/7C @ 7.0°E
+10982 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: E-95 - M3 - BACKUP
+CW: 14 F8 B6 C2 AC 8F 11 4C
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group L, Round 9
+Croatia vs. Faroe Islands
+Eutelsat 7B/7C @ 7.0°E
+10964  - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: CRO-025 NTF M02 MAIN
+CW: 14 F8 B6 C2 AC 8F 11 4C
+---FEED-SEPARATOR---
+Eutelsat 36B @ 36.1° E
+Fréq:11644 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:   SAU-38 M
+FIFA U-17 World Cup Qatar 2025
+Switzerland Vs Egypt
+CW: D1 0A 83 5E 08 6B 0D 80
+---FEED-SEPARATOR---
 16e
 11009 V 9875
 4:2:2
