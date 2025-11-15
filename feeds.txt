@@ -22,6 +22,14 @@ Real Madrid
 ID: LIGA HYPERMOTION 1
 CW: 66 AD E0 F3 C5 1E 98 7B
 ---FEED-SEPARATOR---
+28.2E
+12632 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish League 1 - Week 14
+East Fife v Stenhousemuir
+---FEED-SEPARATOR---
 7E
 12685 V 7120
 4.2.0
@@ -175,10 +183,10 @@ CW: BB DD 89 21 98 2D 2D F2
 Eutelsat 16A @ 16.0E
 11009  Vertical  9874,854
 ID:   E 363 M03 M (*unnamed-1*)
-1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
 International, World Cup Qualification, UEFA Group E 
 Georgia
- vs. 
+vs. 
 Spain
 CW: 15 F8 B6 C3 AC 8F 11 4C
 ---FEED-SEPARATOR---
