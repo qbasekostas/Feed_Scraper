@@ -6,6 +6,14 @@ DFB-Pokal Frauen
 1. FC Union Berlin - FC Carl Zeiss Jena
 CW: 15 11 FD 23 AE 69 74 8B
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11459 - V - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID:AFD
+Primera LPF, Clausura
+Godoy Cruz vs Deportivo Riestra 
+CW: 71 27 12 AA CC D1 41 DE
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 12526  Vertical  7201,79
 ID:unnamed-1* (*unnamed-1*)
@@ -21,6 +29,8 @@ Real Madrid
 4:2:0
 ID: LIGA HYPERMOTION 1
 CW: 66 AD E0 F3 C5 1E 98 7B
+LaLiga 2
+Real Racing Club - Granada CF
 ---FEED-SEPARATOR---
 28.2E
 12632 V 7120 
