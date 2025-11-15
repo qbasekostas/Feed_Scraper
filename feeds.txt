@@ -4,6 +4,20 @@
 ID: LIGA HYPERMOTION 1
 CW: 66 AD E0 F3 C5 1E 98 7B
 ---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10982 V 14400
+  YSM-016-2-M6 (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 15 F8 B6 C3 AC 8F 11 4C
+Click to expand...
+Bosnia & Herzegovina vs Romania
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 10982 V 14400
@@ -119,6 +133,19 @@ DVB-S2 4.2.0 1080I
 FÚTBOL AMISTOSO 
 VENEZUELA VS AUSTRALIA 
 CW: BB DD 89 21 98 2D 2D F2
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+11000 V 14400
+  E-399-2 (Overon)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+32.091 
+Mbit/Sec|8PSK DVB-S2 HD
+CW: 15 F8 B6 C3 AC 8F 11 4C
+Click to expand...
+Greece vs Scotland
 ---FEED-SEPARATOR---
 Event :TurkeySuper Lig - Round 8
 Teams :Bursaspor
