@@ -434,6 +434,25 @@ Codec: H264 - MPEG-4 AVC (part 10) (h264)
 5E D1 58 CF E9 4A DE E9  
 CW: CC C8 91 25 EE 26 88 9C
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+11065 Horizontal 4936,154 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-013M
+EuroBasket Women - Qualification - First stage - Round 2
+Serbia vs Portugal
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+AdmiralBet ABA League - Round 7
+Buducnost vs Ilirija
+19:30 CET
+Eutelsat 16A (16.0 E)
+11059 Horizontal 4936,186 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-021M
+Basketball - Aba league
+Podgorica?
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 10986  Vertical  9599,854
 ID:    POL 030 (Provider)
