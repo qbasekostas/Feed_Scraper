@@ -4,20 +4,6 @@
 ID: LIGA HYPERMOTION 1
 CW: 66 AD E0 F3 C5 1E 98 7B
 ---FEED-SEPARATOR---
-Abo Saeid Satellite said:
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-10982 V 14400
-  YSM-016-2-M6 (*unnamed-1*)
-MPEG4-
-4:2:2
- HD 1920x1080 |
-32.091
- Mbit/Sec|8PSK DVB-S2 HD
-CW: 15 F8 B6 C3 AC 8F 11 4C
-Click to expand...
-Bosnia & Herzegovina vs Romania
----FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 10982 V 14400
@@ -49,6 +35,19 @@ Turkiye
 vs. 
 Bulgaria
 Click to expand...
+---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 7B-7C   @ 7.0E
+11000  Horizontal  14400,14
+ID:E360 B (MEDIAPRO TURKEY)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:0 HD
+International, World Cup Qualification, UEFA Group E
+Turkiye
+vs. 
+Bulgaria
+Click to expand...
+THIS IS
+Georgia  VS   Spain
 ---FEED-SEPARATOR---
 fusillo said:
 			7.0°E
@@ -134,6 +133,52 @@ FÚTBOL AMISTOSO
 VENEZUELA VS AUSTRALIA 
 CW: BB DD 89 21 98 2D 2D F2
 ---FEED-SEPARATOR---
+Event :EuropeWorld Cup - Qualification
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11018 V 14400
+  UKI-1462 - NTF M9 BACKUP (Service Provider)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+32.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 15 F8 B6 C3 AC 8F 11 4C
+---FEED-SEPARATOR---
+36E
+11644 V 7200
+4.2.0
+ID: SAU-043 M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+Italy - Czechia
+CW: D1 1D D9 C7 1A 13 27 54
+---FEED-SEPARATOR---
+Event :EuropeWorld Cup - Qualification
+Teams : Denmark 
+ Belarus
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11044 V 9875
+   DNK37-1-EQ-MD9 (East Production)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 15 F8 B6 C3 AC 8F 11 4C
+---FEED-SEPARATOR---
+36E
+11626 V 7200
+11636  V 7200
+4.2.0
+ID: SAU-44 M / SAU35-M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+Senegal - Uganda
+South Korea - England
+CW: D1 1D D9 C7 1A 13 27 54
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
 11000 V 14400
@@ -146,6 +191,43 @@ Mbit/Sec|8PSK DVB-S2 HD
 CW: 15 F8 B6 C3 AC 8F 11 4C
 Click to expand...
 Greece vs Scotland
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10982 V 14400
+  YSM-016-2-M6 (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 15 F8 B6 C3 AC 8F 11 4C
+Click to expand...
+Bosnia & Herzegovina vs Romania
+---FEED-SEPARATOR---
+Event :TurkeySuper Lig - Round 8
+Teams :Mersin SK 
+ Turk Telekom
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11465 H 7500
+ TUR156 Main (HDPROTEK)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+16.396 
+ Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: EF 4A 70 A9 79 DD 6E C4
+---FEED-SEPARATOR---
+100.5e
+3966 V 7120
+4:2:0
+ID: 
+EASL Cebu - Main
+EASL  /  Meralco Bolts  VS  Macau Black Bears
+fta
 ---FEED-SEPARATOR---
 Event :TurkeySuper Lig - Round 8
 Teams :Bursaspor
