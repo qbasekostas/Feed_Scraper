@@ -147,6 +147,36 @@ FÚTBOL AMISTOSO
 VENEZUELA VS AUSTRALIA 
 CW: BB DD 89 21 98 2D 2D F2
 ---FEED-SEPARATOR---
+55W INTELSAT 34 C 
+4123V9873
+ID: ATL HENC002X
+DVB-S2 4.2.0 1080I 
+FÚTBOL AAMISTOSO 
+RUSIA VS CHILE 
+CW: AF FA 12 BB 14 BC DE AE
+@sahafe
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+12548  Horizontal  9874,854
+ID: SUI25-1-VBR (ACTUA SUI-25)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+CW: D9 85 DA 38 64 DA EF 2D
+International, World Cup Qualification, UEFA Group B
+Switzerland
+ vs. 
+Sweden
+---FEED-SEPARATOR---
+36E
+11014 V 7200
+11022 V 7200
+4.2.0
+ID: SAU-38 M / SAU-36 M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+Autria - Tunisia
+Croatia - Uzbekistan
+CW: D1 1D D9 C7 1A 13 27 54
+---FEED-SEPARATOR---
 36E
 11004 V 7200
 4.2.0
@@ -262,6 +292,15 @@ MPEG4-
 CW: 15 F8 B6 C3 AC 8F 11 4C
 Click to expand...
 Bosnia & Herzegovina vs Romania
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11523  Vertical  7122,181
+ID:  Pitch - Brazil v Senegal WF (NEP Connect)
+1920x1080 |14,109Mb/Sec |8PSK |4:2:0 HD
+CW: 24 21 CC 11 DD 22 11 10
+MUNDIAL: 
+Amistosos Internacionales
+Brazil v Senegal
 ---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event :TurkeySuper Lig - Round 8
