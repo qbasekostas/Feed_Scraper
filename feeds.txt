@@ -22,6 +22,13 @@ Real Madrid
 ID: LIGA HYPERMOTION 1
 CW: 66 AD E0 F3 C5 1E 98 7B
 ---FEED-SEPARATOR---
+13.0°E
+10846 V 9700
+4:2:0
+ID: Bra v Sen..
+#FTA
+Brazil - Senegal
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 10982 V 14400
@@ -156,6 +163,16 @@ DVB-S2 4.2.0 1080I
 FÚTBOL AMISTOSO 
 VENEZUELA VS AUSTRALIA 
 CW: BB DD 89 21 98 2D 2D F2
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+11009  Vertical  9874,854
+ID:   E 363 M03 M (*unnamed-1*)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+International, World Cup Qualification, UEFA Group E 
+Georgia
+ vs. 
+Spain
+CW: 15 F8 B6 C3 AC 8F 11 4C
 ---FEED-SEPARATOR---
 FIFA U-17 World Cup Qatar2025
 Autria vs Tunisia
@@ -341,6 +358,14 @@ Burgos Santiago vs Bilbao Basket
 - Std: DVB-S2
 FTA
 ---FEED-SEPARATOR---
+7E
+11106 H 7200
+4.2.0
+ID: E-069 MAIN
+Liga Portuguesa de Basqquetebol
+Benfica - Porto
+CW: FA A9 08 AB 58 52 18 C2
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event :TurkeySuper Lig - Round 8
 Teams :Mersin SK 
@@ -377,14 +402,6 @@ MPEG4-
 Codec: H264 - MPEG-4 AVC (part 10) (h264)
 CW: EF 4A 70 A9 79 DD 6E C4
 ---FEED-SEPARATOR---
-100.5e
-3966 V 7120
-4:2:0
-ID: 
-EASL Cebu - Main
-EASL  /  Meralco Bolts  VS  Macau Black Bears
-fta
----FEED-SEPARATOR---
 Event :TurkeySuper Lig - Round 8
 Teams :Bursaspor
  Petkim Spor
@@ -401,10 +418,23 @@ Codec: H264 - MPEG-4 AVC (part 10) (h264)
 5E D1 58 CF E9 4A DE E9  
 CW: CC C8 91 25 EE 26 88 9C
 ---FEED-SEPARATOR---
-7E
-11106 H 7200
-4.2.0
-ID: E-069 MAIN
-Liga Portuguesa de Basqquetebol
-Benfica - Porto
-CW: FA A9 08 AB 58 52 18 C2
+Eutelsat 16A @ 16.0E
+10986  Vertical  9599,854
+ID:    POL 030 (Provider)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+43 18 4C 32 F8 6C C0 43  #CW:20 25 CA 0F E1 03 05 E9   #[E] PID:0200h
+Poland, PLK
+Twarde Pierniki Torun
+ vs. 
+Anwil Wroclawek 
+---FEED-SEPARATOR---
+Ferari3000 said:
+			Eutelsat 7B/7C (7.0E)
+11683 H 7200
+ID: Cyprus Slovakia MAIN
+Biss Encrypt?
+Click to expand...
+FIBA EUROBASKET
+CYPRUS vs SLOVAKIA
+13 3B 09 2B 31 91 2B F7  #[E] PID:0200h
+found CW: E2 71 21 74 B3 BA 1C 89
