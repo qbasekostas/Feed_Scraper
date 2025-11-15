@@ -14,6 +14,9 @@ MPEG4-
 32.091
  Mbit/Sec|8PSK DVB-S2 HD
 CW: 15 F8 B6 C3 AC 8F 11 4C
+Event :Europe World Cup - Qualification
+Teams : Bosnia & Herzegovina 
+ Romania
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
 11000 V 14400
@@ -24,6 +27,9 @@ HD 1920x1080 |
 32.091 
 Mbit/Sec|8PSK DVB-S2 HD
 CW: 15 F8 B6 C3 AC 8F 11 4C
+Event :Europe World Cup - Qualification
+Teams : Greece 
+ Scotland
 ---FEED-SEPARATOR---
 faisal6 said:
 Eutelsat 7B-7C   @ 7.0E
@@ -134,6 +140,30 @@ VENEZUELA VS AUSTRALIA
 CW: BB DD 89 21 98 2D 2D F2
 ---FEED-SEPARATOR---
 Event :EuropeWorld Cup - Qualification
+Teams :Switzerland 
+ Sweden
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12572 H 9875
+   SUI109-MD9 BKP (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.396
+  Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: 15 F8 B6 C3 AC 8F 11 4C
+---FEED-SEPARATOR---
+36E
+10960 V 7200
+4.2.0
+ID: SAU-42 M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+Japan - South Korea
+CW: D1 1D D9 C7 1A 13 27 54
+---FEED-SEPARATOR---
+Event :EuropeWorld Cup - Qualification
 Eutelsat 7A/7B/7C @ 7.0°E 
 ( KU-BAND )
 11018 V 14400
@@ -144,6 +174,7 @@ HD 1920x1080 |
 32.091
  Mbit/Sec|8PSK DVB-S2 HD
 CW: 15 F8 B6 C3 AC 8F 11 4C
+Slovenia vs Kosovo
 ---FEED-SEPARATOR---
 36E
 11644 V 7200
@@ -205,6 +236,27 @@ MPEG4-
 CW: 15 F8 B6 C3 AC 8F 11 4C
 Click to expand...
 Bosnia & Herzegovina vs Romania
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event :TurkeySuper Lig - Round 8
+Teams :Mersin SK 
+ Turk Telekom
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11465 H 7500
+ TUR156 Main (HDPROTEK)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+16.396 
+ Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: EF 4A 70 A9 79 DD 6E C4
+Click to expand...
+42E
+10982 V 7500
+4.2.2
+Same
 ---FEED-SEPARATOR---
 Event :TurkeySuper Lig - Round 8
 Teams :Mersin SK 
