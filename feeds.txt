@@ -1,3 +1,10 @@
+7.0°E
+10964 H 14400
+4:2:2
+ID: KAZ005M
+CW: 15 F8 B6 C3 AC 8F 11 4C
+Kazakhstan - Belgium
+---FEED-SEPARATOR---
 58W INTELSAT21 C
 4013 H 7500
 ID: Enc Titan M WF Ven vs. Aus
