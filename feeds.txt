@@ -147,6 +147,15 @@ FÚTBOL AMISTOSO
 VENEZUELA VS AUSTRALIA 
 CW: BB DD 89 21 98 2D 2D F2
 ---FEED-SEPARATOR---
+36E
+10995 V 7200
+4.2.0
+ID: SAU-41 M
+FIFA U-17 World Cup Qatar
+3 Nov 2025 – 27 Nov 2025
+Germany - Burkina Faso
+CW: D1 1D D9 C7 1A 13 27 54
+---FEED-SEPARATOR---
 Event :EuropeWorld Cup - Qualification
 Teams :Switzerland 
  Sweden
