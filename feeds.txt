@@ -4,6 +4,20 @@
 ID: LIGA HYPERMOTION 1
 CW: 66 AD E0 F3 C5 1E 98 7B
 ---FEED-SEPARATOR---
+Event :Europe World Cup - Qualification
+Teams : Turkey 
+ Bulgaria
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+10964 V 14400
+  TUR-057 MAIN (Eurovision)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 15 F8 B6 C3 AC 8F 11 4C
+---FEED-SEPARATOR---
 7.0°E
 10964 H 14400
 4:2:2
