@@ -6,6 +6,16 @@ DFB-Pokal Frauen
 1. FC Union Berlin - FC Carl Zeiss Jena
 CW: 15 11 FD 23 AE 69 74 8B
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+12526  Vertical  7201,79
+ID:unnamed-1* (*unnamed-1*)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 2F 71 ED 8D F2 3A 28 54
+Spain, Primera Division Femenina
+FC Barcelona
+vs. 
+Real Madrid
+---FEED-SEPARATOR---
 10.0°E
 10732 V 34000
 4:2:0
@@ -146,6 +156,23 @@ DVB-S2 4.2.0 1080I
 FÚTBOL AMISTOSO 
 VENEZUELA VS AUSTRALIA 
 CW: BB DD 89 21 98 2D 2D F2
+---FEED-SEPARATOR---
+FIFA U-17 World Cup Qatar2025
+Autria vs Tunisia
+3.1°E
+10959 H 7500
+ID: beinSport 
+4.2.0 HD
+ 10969 H 7500
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 2421CC11DD221110
+ Brazil vs Senegal
 ---FEED-SEPARATOR---
 55W INTELSAT 34 C 
 4123V9873
@@ -301,6 +328,18 @@ CW: 24 21 CC 11 DD 22 11 10
 MUNDIAL: 
 Amistosos Internacionales
 Brazil v Senegal
+---FEED-SEPARATOR---
+Burgos Santiago vs Bilbao Basket
+28.2E
+- Name:           A1PRO Via1 (Net 1)
+- VID PID:       512
+- Freq: 12572,903
+- Pol: Vertical
+- SR: 7200,232
+- Mod: 8PSK
+- FEC: 2/3
+- Std: DVB-S2
+FTA
 ---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event :TurkeySuper Lig - Round 8
