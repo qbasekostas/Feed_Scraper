@@ -57,6 +57,14 @@ ID: ITA-415 MAIN
 CW: CD 21 BB A9 7E 54 99 6B
 Euro Qualifiers: Albania - England
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+10963 - H - 14400
+4:2:2
+ID: UKI-1324-M01M
+World Championship Qualification,Group G,Round 6
+Hungary - Ireland
+CW: 16 F8 B6 C4 AC 8F 11 4C
+---FEED-SEPARATOR---
 World Cup Qualification,
 AZERBAIJAN VS FRANCE
 36.0E
