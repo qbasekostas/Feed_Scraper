@@ -57,6 +57,14 @@ ID:UKI-1324-M01M (UKI-1324)
 1920x1080 |32.091Mb/Sec 8PSK |4:2:2 HD
 CW: 16 F8 B6 C4 AC 8F 11 4C
 ---FEED-SEPARATOR---
+World Cup Qual. CAF, Final
+Nigeria vs DR Congo
+Eutelsat 7A/7B/7C @ 7.0°E
+11096 - H - 7200
+4:2:0
+ID: MRC003/M261M
+CW: 96 E1 2E A5 C8 06 6E 3C
+---FEED-SEPARATOR---
 Jacop said:
 World Cup Qualification, 
 AZERBAIJAN VS FRANCE
