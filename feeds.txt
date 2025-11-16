@@ -153,6 +153,14 @@ Albania
  vs. 
 England
 ---FEED-SEPARATOR---
+10E
+10721 H 7200
+4.2.2
+ID: SELENIO 2
+Lega Basket Serie A
+Milano - Trapani
+CW: 35 CD 6E 70 94 37 C5 90
+---FEED-SEPARATOR---
 Azerbaijan Basketball Federation 
 Baku vs Sabah
 46.0E
