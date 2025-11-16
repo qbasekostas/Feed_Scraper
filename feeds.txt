@@ -91,6 +91,19 @@ Albania
  vs. 
 England
 ---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 7B-7C   @ 7.0E
+11023  Vertical  7201,79
+ID:  Fi01_ACB (CM5000)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+97 5D F9 DA D5 E1 7E 29  #CW:AF 9C 90 DB 1C 8E 20 CA   
+Spain, Liga ACB
+Basquet Manresa
+vs. 
+Caprabo Lleida
+Click to expand...
+Valencia Basket - La Laguna Tenerife
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11023  Vertical  7201,79
 ID:  Fi01_ACB (CM5000)
