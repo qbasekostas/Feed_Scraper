@@ -18,6 +18,16 @@ Red Devils said:
 World Cup Qualification,
 CW: 16 F8 B6 C4 AC 8F 11 4C
 Click to expand...
+Azerbaijan-France
+Eutelsat 7A/7B/7C @ 7.0E
+11000 H 14399
+ID:AZE-012 B/U (Eurovision)
+1920x1080 |32.095Mb/Sec 8PSK |4:2:2 HD
+---FEED-SEPARATOR---
+Red Devils said:
+World Cup Qualification,
+CW: 16 F8 B6 C4 AC 8F 11 4C
+Click to expand...
 Portugal - Armenia
 Eutelsat 7A/7B/7C @ 7.0E
 11044 V 9874
@@ -31,3 +41,15 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID:UKI-1324-M01M (UKI-1324)
 1920x1080 |32.091Mb/Sec 8PSK |4:2:2 HD
 CW: 16 F8 B6 C4 AC 8F 11 4C
+---FEED-SEPARATOR---
+Red Devils said:
+CW: 16 F8 B6 C4 AC 8F 11 4C
+Click to expand...
+Eutelsat 7B-7C   @ 7.0E
+10983  Horizontal  14400,206
+ID:  BUL007 NTF M3 Main HD2 (TV1 )
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification, UEFA Group K
+Albania
+ vs. 
+England
