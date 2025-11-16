@@ -83,6 +83,23 @@ Albania
  vs. 
 England
 ---FEED-SEPARATOR---
+faisal6 said:
+Turkiye, TBSL
+Anadolu Efes SK
+vs. 
+Bahcesehir Koleji
+Eutelsat 7B-7C   @ 7.0E
+11458  Horizontal  7501,823
+ID:    TUR-062 A (*unnamed-1*)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
+70 04 0C 9B AF B3 3E 89  #CW
+:9E 40 FD DB C8 C3 47 D2 
+Click to expand...
+42E
+11092 V 7500
+4.2.2
+Same
+---FEED-SEPARATOR---
 Turkiye, TBSL
 Anadolu Efes SK
  vs. 
