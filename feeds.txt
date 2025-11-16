@@ -8,6 +8,13 @@ Independiente  vs Rosario Central
 4.2.0 HD
 ID: AFD
 ---FEED-SEPARATOR---
+La Liga 2
+Cordoba VS Deportivo
+Eutelsat 7B / 7C (7°0 E)
+11545 - Vertical - 9600
+Name : E455 M33 MAIN
+CW : AB EA 12 A7 12 EB CB C8
+---FEED-SEPARATOR---
 Eutelsat 10A @ 10.0°E
 10732 - V - 34000
 4:2:0
