@@ -42,6 +42,18 @@ ID:UKI-1324-M01M (UKI-1324)
 1920x1080 |32.091Mb/Sec 8PSK |4:2:2 HD
 CW: 16 F8 B6 C4 AC 8F 11 4C
 ---FEED-SEPARATOR---
+faisal6 said:
+CW: 16 F8 B6 C4 AC 8F 11 4C
+International, World Cup Qualification
+Click to expand...
+Albania
+ vs. 
+England 
+Eutelsat 16A @ 16.0E
+10997  Vertical  9874,854
+ID:  BUL006 M3 M (TV1)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+---FEED-SEPARATOR---
 .
 ---FEED-SEPARATOR---
 World Cup Qualification,
@@ -70,3 +82,13 @@ International, World Cup Qualification, UEFA Group K
 Albania
  vs. 
 England
+---FEED-SEPARATOR---
+Turkiye, TBSL
+Anadolu Efes SK
+ vs. 
+Bahcesehir Koleji
+Eutelsat 7B-7C   @ 7.0E
+11458  Horizontal  7501,823
+ID:    TUR-062 A (*unnamed-1*)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:2 HD
+70 04 0C 9B AF B3 3E 89  #CW:9E 40 FD DB C8 C3 47 D2 
