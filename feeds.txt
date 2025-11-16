@@ -13,3 +13,21 @@ Eutelsat 10A @ 10.0°E
 4:2:0
 ID: LIGA HYPERMOTION 1
 CW: 73 57 04 CE 51 92 6E 51
+---FEED-SEPARATOR---
+Red Devils said:
+World Cup Qualification,
+CW: 16 F8 B6 C4 AC 8F 11 4C
+Click to expand...
+Portugal - Armenia
+Eutelsat 7A/7B/7C @ 7.0E
+11044 V 9874
+ID:E-228  Main (MEDIAPRO PORTUGAL)
+1920x1080 |22.009Mb/Sec 8PSK |4:2:2 HD
+---FEED-SEPARATOR---
+World Cup Qualification,
+Hungary-Ireland
+Eutelsat 7A/7B/7C @ 7.0E
+10964 H 14397
+ID:UKI-1324-M01M (UKI-1324)
+1920x1080 |32.091Mb/Sec 8PSK |4:2:2 HD
+CW: 16 F8 B6 C4 AC 8F 11 4C
