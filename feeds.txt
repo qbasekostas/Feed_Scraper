@@ -42,6 +42,23 @@ ID:UKI-1324-M01M (UKI-1324)
 1920x1080 |32.091Mb/Sec 8PSK |4:2:2 HD
 CW: 16 F8 B6 C4 AC 8F 11 4C
 ---FEED-SEPARATOR---
+.
+---FEED-SEPARATOR---
+World Cup Qualification,
+Italy-Norway
+Eutelsat 7A/7B/7C @ 7.0E
+11018 H 14399
+ID: ITA 274-M5-M (Live Images)
+1920x1080 |32.095Mb/Sec 8PSK |4:2:2 HD
+CW: 16 F8 B6 C4 AC 8F 11 4C
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+10965  Vertical  14400,184
+ID:  POL-142 -2- EQM 6  BACKUP (*unnamed-1*)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+CW: 16 F8 B6 C4 AC 8F 11 4C
+International, World Cup Qualification
+---FEED-SEPARATOR---
 Red Devils said:
 CW: 16 F8 B6 C4 AC 8F 11 4C
 Click to expand...
