@@ -42,6 +42,16 @@ ID:UKI-1324-M01M (UKI-1324)
 1920x1080 |32.091Mb/Sec 8PSK |4:2:2 HD
 CW: 16 F8 B6 C4 AC 8F 11 4C
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+10982  Vertical  14400,206
+ID:ROU-015 M07 MAIN (ROSVA)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+CW: 16 F8 B6 C4 AC 8F 11 4C
+International, World Cup Qualification, UEFA Group D 
+Ukraine
+ vs. 
+Iceland
+---FEED-SEPARATOR---
 faisal6 said:
 CW: 16 F8 B6 C4 AC 8F 11 4C
 International, World Cup Qualification
@@ -53,8 +63,6 @@ Eutelsat 16A @ 16.0E
 10997  Vertical  9874,854
 ID:  BUL006 M3 M (TV1)
 1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
----FEED-SEPARATOR---
-.
 ---FEED-SEPARATOR---
 World Cup Qualification,
 Italy-Norway
@@ -82,6 +90,16 @@ International, World Cup Qualification, UEFA Group K
 Albania
  vs. 
 England
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11023  Vertical  7201,79
+ID:  Fi01_ACB (CM5000)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+97 5D F9 DA D5 E1 7E 29  #CW:AF 9C 90 DB 1C 8E 20 CA   
+Spain, Liga ACB
+Basquet Manresa
+ vs. 
+Caprabo Lleida
 ---FEED-SEPARATOR---
 faisal6 said:
 Turkiye, TBSL
