@@ -14,6 +14,14 @@ Eutelsat 10A @ 10.0°E
 ID: LIGA HYPERMOTION 1
 CW: 73 57 04 CE 51 92 6E 51
 ---FEED-SEPARATOR---
+28.2E
+12703 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish SWPL 1 - Week 11
+Hibernian v Hearts
+---FEED-SEPARATOR---
 Red Devils said:
 World Cup Qualification,
 CW: 16 F8 B6 C4 AC 8F 11 4C
@@ -42,6 +50,13 @@ ID:UKI-1324-M01M (UKI-1324)
 1920x1080 |32.091Mb/Sec 8PSK |4:2:2 HD
 CW: 16 F8 B6 C4 AC 8F 11 4C
 ---FEED-SEPARATOR---
+13.0°E
+10843 V 7120
+4:2:2
+ID: ITA-415 MAIN
+CW: CD 21 BB A9 7E 54 99 6B
+Euro Qualifiers: Albania - England
+---FEED-SEPARATOR---
 World Cup Qualification,
 AZERBAIJAN VS FRANCE
 36.0E
@@ -49,40 +64,6 @@ AZERBAIJAN VS FRANCE
 4.2.2 HD
 ID: TUR-119 Main
 CW: 20 25 FE 43 ED 16 08 0B
----FEED-SEPARATOR---
-faisal6 said:
-Eutelsat 7B-7C   @ 7.0E
-10982  Vertical  14400,206
-ID:ROU-015 M07 MAIN (ROSVA)
-1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
-CW: 16 F8 B6 C4 AC 8F 11 4C
-International, World Cup Qualification, UEFA Group D 
-Ukraine
- vs.
-Iceland
-Click to expand...
-Israel vs Moldova
----FEED-SEPARATOR---
-Red Devils said:
-World Cup Qualification,
-Italy-Norway
-Eutelsat 7A/7B/7C @ 7.0E
-11018 H 14399
-ID: ITA 274-M5-M (Live Images)
-1920x1080 |32.095Mb/Sec 8PSK |4:2:2 HD
-CW: 16 F8 B6 C4 AC 8F 11 4C
-Click to expand...
-Serbia vs Latvia
----FEED-SEPARATOR---
-faisal6 said:
-Eutelsat 7B-7C   @ 7.0E
-10965  Vertical  14400,184
-ID:  POL-142 -2- EQM 6  BACKUP (*unnamed-1*)
-1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
-CW: 16 F8 B6 C4 AC 8F 11 4C
-International, World Cup Qualification
-Click to expand...
-Ukraine vs Iceland
 ---FEED-SEPARATOR---
 Red Devils said:
 Azerbaijan-France
@@ -122,9 +103,7 @@ ID:ROU-015 M07 MAIN (ROSVA)
 1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
 CW: 16 F8 B6 C4 AC 8F 11 4C
 International, World Cup Qualification, UEFA Group D 
-Ukraine
- vs. 
-Iceland
+Israel vs Moldova
 ---FEED-SEPARATOR---
 faisal6 said:
 CW: 16 F8 B6 C4 AC 8F 11 4C
@@ -144,6 +123,7 @@ Eutelsat 7A/7B/7C @ 7.0E
 11018 H 14399
 ID: ITA 274-M5-M (Live Images)
 1920x1080 |32.095Mb/Sec 8PSK |4:2:2 HD
+Serbia vs Latvia
 CW: 16 F8 B6 C4 AC 8F 11 4C
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
@@ -152,6 +132,7 @@ ID:  POL-142 -2- EQM 6  BACKUP (*unnamed-1*)
 1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
 CW: 16 F8 B6 C4 AC 8F 11 4C
 International, World Cup Qualification
+Ukraine vs Iceland
 ---FEED-SEPARATOR---
 Red Devils said:
 CW: 16 F8 B6 C4 AC 8F 11 4C
