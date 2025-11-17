@@ -16,6 +16,14 @@ EGYPT 2 VS ALGERIA 2
 ID: ANA-2
 FTA
 ---FEED-SEPARATOR---
+Friendly Match
+Qatar-Zimbabwe
+Eutelsat 7A/7B/7C @ 7.0E
+11522  Vertical  7199.341
+ID:QAT37M  SNG1 (AlkASS)
+1920x1080 |16.047Mb/Sec 8PSK |4:2:0 HD
+CW: FTA
+---FEED-SEPARATOR---
 Event :Europe World Cup - Qualification
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
