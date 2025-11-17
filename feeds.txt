@@ -112,6 +112,20 @@ FIFA World Cup Asian qualifiers
 Iraq - United Arab Emirates
 CW: D2 93 F6 5B BF DE FE 9B
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group A, Round 10
+Germany v Slovakia
+ ST: 20:45
+7°E
+11070 
+H 
+7200
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:IMG A EU
+Old CW:
+EF 5D 21 6D AE 42 BE AE 
+---FEED-SEPARATOR---
 Event: 
 World Cup Qualification, UEFA Group A, Germany - Slovakia
 19.0E
