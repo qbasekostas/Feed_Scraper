@@ -37,6 +37,14 @@ ID:QAT37M  SNG1 (AlkASS)
 1920x1080 |16.047Mb/Sec 8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
+7E
+10982 V 4937
+4.2.0
+ID: chan A
+Friendlies
+Cape Verde - Egypt
+CW: 8F 23 5D 0F 04 84 66 EE
+---FEED-SEPARATOR---
 Event :Europe World Cup - Qualification
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
