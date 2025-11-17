@@ -37,6 +37,64 @@ ID:QAT37M  SNG1 (AlkASS)
 1920x1080 |16.047Mb/Sec 8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
+Event :Europe World Cup - Qualification
+Teams :Czech Republic 
+ Gibraltar
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+11000 H 14400
+ CZE-012-1-EQM5 (*unnamed-1*)
+MPEG4-4:2:2 HD 1920x1080 |32.396 Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: :17 F8 B6 C5 AC 8F 11 4C
+---FEED-SEPARATOR---
+Event :Europe World Cup - Qualification
+Teams :Montenegro 
+ Croatia
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+11017 H 14400
+ YSM-021 Main
+MPEG4-4:2:2 HD 1920x1080 |32.396 Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: :17 F8 B6 C5 AC 8F 11 4C
+---FEED-SEPARATOR---
+Event :Europe World Cup - Qualification
+Teams : Netherlands 
+ Lithuania
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+10960 V 9875
+ HOL318 1 EQM4 Main
+MPEG4-4:2:2 HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
+CW: :17 F8 B6 C5 AC 8F 11 4C
+---FEED-SEPARATOR---
+Event :Europe World Cup - Qualification
+Teams : Germany 
+ Slovakia
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+10973 V 9875
+ HOL311 M6 M
+MPEG4-4:2:2 HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
+CW: :17 F8 B6 C5 AC 8F 11 4C
+---FEED-SEPARATOR---
+Event :Europe World Cup - Qualification
+Teams :Malta 
+ Poland
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+10965 H 14400
+ ITA 689 M02 MAIN
+MPEG4-4:2:2 HD 1920x1080 |32.396 Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: :17 F8 B6 C5 AC 8F 11 4C
+---FEED-SEPARATOR---
+Event :Europe World Cup - Qualification
+Teams :Northern Ireland 
+ Luxembourg
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+10983 H 14400
+ NTF Match 03
+MPEG4-4:2:2 HD 1920x1080 |32.396 Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: :17 F8 B6 C5 AC 8F 11 4C
+---FEED-SEPARATOR---
 7E
 10982 V 4937
 4.2.0
@@ -44,58 +102,6 @@ ID: chan A
 Friendlies
 Cape Verde - Egypt
 CW: 8F 23 5D 0F 04 84 66 EE
----FEED-SEPARATOR---
-Event :Europe World Cup - Qualification
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-11000 H 14400
- CZE-012-1-EQM5 (*unnamed-1*)
-MPEG4-
-4:2:2 
-HD 1920x1080 |
-32.396
-  Mbit/Sec|8PSK DVB-S2 HD
-Codec: H264 - MPEG-4 AVC (part 10) (h264)
-CW: 17 F8 B6 C5 AC 8F 11 4C
----FEED-SEPARATOR---
-Event :Europe World Cup - Qualification
-Eutelsat 7A/7B/7C @ 7.0°E 
-( KU-BAND )
-10973Vertical 9875
- 2Sat HOL311 MD10 M6-2 (2-SAT Europe)
-MPEG4-
-4:2:2 
-HD 1920x1080 |
-22.091
- Mbit/Sec|8PSK DVB-S2 HD
-CW: 17 F8 B6 C5 AC 8F 11 4C
----FEED-SEPARATOR---
-Event :
-Europe World Cup - Qualification
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-10982 H 14400
- NTF Match 03  (Vitel.tv)
-MPEG4-
-4:2:2
- HD 1920x1080 |
-32.396  
-Mbit/Sec|8PSK DVB-S2 HD
-Codec: H264 - MPEG-4 AVC (part 10) (h264)
-CW: 17 F8 B6 C5 AC 8F 11 4C
----FEED-SEPARATOR---
-Event :Europe World Cup - Qualification
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-11017 H 14400
- YSM-021 Main (*unnamed-1*)
-MPEG4-
-4:2:2
- HD 1920x1080 |
-32.396  
-Mbit/Sec|8PSK DVB-S2 HD
-Codec: H264 - MPEG-4 AVC (part 10) (h264)
-CW: 17 F8 B6 C5 AC 8F 11 4C
 ---FEED-SEPARATOR---
 7E
 11023 V 7200
@@ -105,6 +111,26 @@ FIFA World Cup Asian qualifiers
 (Tomorrow)
 Iraq - United Arab Emirates
 CW: D2 93 F6 5B BF DE FE 9B
+---FEED-SEPARATOR---
+bayuware said:
+Astra 1KR-1L-1M-1N ( 19.2E )
+11208 H 9600
+DVB-S2 - 4:2:0 - 8PSK
+ID: ZDF DSNG2 D563 Zug A
+Event: 
+World Cup Qualification, UEFA Group A, Germany - Slovakia
+any CW please? 
+Click to expand...
+81 58 F0 F6 25 CF 47 7C  
+CW: 52 02 A1 F5 1E 17 11 46
+---FEED-SEPARATOR---
+Albahraniy said:
+CW: AB BA 20 85 25 20 26 6B
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+12645 - V - 4938
+4:2:0
+ID: YSM-013M
 ---FEED-SEPARATOR---
 21.6E
 11579 H 5000
