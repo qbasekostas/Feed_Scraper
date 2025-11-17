@@ -1,3 +1,14 @@
+Eutelsat 7B/7C (7.0 E)
+11133 V 7200
+DVB-S2/8PSK (4:2:0)
+ID:
+ ITA 81 A
+Serie C Group C
+Event: 
+Foggia vs Cavese
+CW:
+9C 2C 3F 07 10 C6 71 47
+---FEED-SEPARATOR---
 Spain, LaLiga 2
 Cultural Leonesa
  vs. 
@@ -111,6 +122,27 @@ FIFA World Cup Asian qualifiers
 (Tomorrow)
 Iraq - United Arab Emirates
 CW: D2 93 F6 5B BF DE FE 9B
+---FEED-SEPARATOR---
+Akrem said:
+			FIFA/UEFA WC 2026 Qualifiers - Group A, Round 10
+Germany v Slovakia
+ ST: 20:45
+7°E
+11070 
+H 
+7200
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:IMG A EU
+Old CW:
+EF 5D 21 6D AE 42 BE AE 
+Click to expand...
+Intelsat 34 55w 
+4150 H 7200
+ID.IMG AM 
+4.2.0
+Germany v Slovakia
 ---FEED-SEPARATOR---
 FIFA/UEFA WC 2026 Qualifiers - Group A, Round 10
 Germany v Slovakia
