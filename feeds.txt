@@ -8,6 +8,14 @@ ID:  LIGA HYPERMOTION 1 (OVERON)
 1920x1080 |84,280Mb/Sec |8PSK |4:2:0 HD
 CW: 6C E0 57 A3 94 BD 57 A8
 ---FEED-SEPARATOR---
+Friendly Match 
+EGYPT 2 VS ALGERIA 2
+7.0E
+11022 V 7200
+4.2.0 HD
+ID: ANA-2
+FTA
+---FEED-SEPARATOR---
 Event :Europe World Cup - Qualification
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
