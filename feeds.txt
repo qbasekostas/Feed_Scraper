@@ -112,6 +112,15 @@ FIFA World Cup Asian qualifiers
 Iraq - United Arab Emirates
 CW: D2 93 F6 5B BF DE FE 9B
 ---FEED-SEPARATOR---
+Event: 
+World Cup Qualification, UEFA Group A, Germany - Slovakia
+19.0E
+ID: ZDF DSNG2 D563 Zug B
+11220 H 9600
+4:2:2
+04 6B CB 9C 91 54 39 8D  
+CW: 05 11 CA E0 FE 52 02 52
+---FEED-SEPARATOR---
 bayuware said:
 Astra 1KR-1L-1M-1N ( 19.2E )
 11208 H 9600
@@ -121,6 +130,7 @@ Event:
 World Cup Qualification, UEFA Group A, Germany - Slovakia
 any CW please? 
 Click to expand...
+4:2:2
 81 58 F0 F6 25 CF 47 7C  
 CW: 52 02 A1 F5 1E 17 11 46
 ---FEED-SEPARATOR---
