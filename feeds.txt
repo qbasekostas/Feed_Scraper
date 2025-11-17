@@ -8,6 +8,15 @@ ID:  LIGA HYPERMOTION 1 (OVERON)
 1920x1080 |84,280Mb/Sec |8PSK |4:2:0 HD
 CW: 6C E0 57 A3 94 BD 57 A8
 ---FEED-SEPARATOR---
+Jacop said:
+World Cup Qualification
+CW: 17 F8 B6 C5 AC 8F 11 4C
+Click to expand...
+7.0E
+10960 V 9875
+4.2.2 HD
+ID: HOL318 2 EQM4 Bu
+---FEED-SEPARATOR---
 World Cup Qualification
 7.0E
 10965 H 14400
