@@ -9,6 +9,19 @@ ID:  LIGA HYPERMOTION 1 (OVERON)
 CW: 6C E0 57 A3 94 BD 57 A8
 ---FEED-SEPARATOR---
 Event :Europe World Cup - Qualification
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11000 H 14400
+ CZE-012-1-EQM5 (*unnamed-1*)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+32.396
+  Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: 17 F8 B6 C5 AC 8F 11 4C
+---FEED-SEPARATOR---
+Event :Europe World Cup - Qualification
 Eutelsat 7A/7B/7C @ 7.0°E 
 ( KU-BAND )
 10973Vertical 9875
