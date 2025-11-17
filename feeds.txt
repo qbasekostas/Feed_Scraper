@@ -16,6 +16,19 @@ EGYPT 2 VS ALGERIA 2
 ID: ANA-2
 FTA
 ---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group A, Round 10
+Northern Ireland v Luxembourg
+ ST: 23:15
+Eutelsat 16A (16.0°E)
+12690 V 7999
+12700 V 7999
+DVB-S2 
+4:2:2
+ HD
+ID: Nl v lux BBC DIRTY
+ID: NI V lux WORLD CLEAN
+FTA / CLEAR
+---FEED-SEPARATOR---
 Friendly Match
 Qatar-Zimbabwe
 Eutelsat 7A/7B/7C @ 7.0E
