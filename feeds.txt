@@ -7,3 +7,12 @@ Eutelsat 10B @ 10.0E
 ID:  LIGA HYPERMOTION 1 (OVERON)
 1920x1080 |84,280Mb/Sec |8PSK |4:2:0 HD
 CW: 6C E0 57 A3 94 BD 57 A8
+---FEED-SEPARATOR---
+7E
+11023 V 7200
+4.2.0
+ID: IRQ014-1
+FIFA World Cup Asian qualifiers 
+(Tomorrow)
+Iraq - United Arab Emirates
+CW: D2 93 F6 5B BF DE FE 9B
