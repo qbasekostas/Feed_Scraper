@@ -190,7 +190,7 @@ Click to expand...
 CW: 52 02 A1 F5 1E 17 11 46
 ---FEED-SEPARATOR---
 LBA / Seria A 
-NUTRIBULLET VS VIRTUS OLIDATA
+Treviso VS Virtus Bologna
 Eutelsat 10A (10.0E)
 10721 - Horizontal - 7200
 DVB-S2 -
