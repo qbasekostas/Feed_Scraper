@@ -84,3 +84,19 @@ FIFA World Cup Asian qualifiers
 (Tomorrow)
 Iraq - United Arab Emirates
 CW: D2 93 F6 5B BF DE FE 9B
+---FEED-SEPARATOR---
+AdmiralBet ABA League
+FMP Beograd vs BC Dubai
+Eutelsat 7B/7C @ 7.0E
+12632 V 4936
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: YSM-016 MAIN
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+BAHRAIN BASKETBALL 3X3.MANAMA FINAL
+26.0E
+11480 V 5000
+4.2.0 HD
+ID: BHR-015 Backup
+CW: 99 9F FF 37 44 4C CC 5C
