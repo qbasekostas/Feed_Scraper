@@ -1,3 +1,12 @@
+vincenzko said:
+			Eutelsat 7B/7C (7.0E)
+11124 V 7200
+ID: ITA 81 A
+CW pls?
+Click to expand...
+CW: 9C 2C 3F 07 10 C6 71 47
+Italian "Serie C" Foggia - Cavese feed for Rai Sport
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 11133 V 7200
 DVB-S2/8PSK (4:2:0)
@@ -179,6 +188,15 @@ Click to expand...
 4:2:2
 81 58 F0 F6 25 CF 47 7C  
 CW: 52 02 A1 F5 1E 17 11 46
+---FEED-SEPARATOR---
+LBA / Seria A 
+NUTRIBULLET VS VIRTUS OLIDATA
+Eutelsat 10A (10.0E)
+10721 - Horizontal - 7200
+DVB-S2 -
+ 4.2.2
+Name: SELENIO
+CW : EE B3 6E 0F CB 83 ED 3B
 ---FEED-SEPARATOR---
 Albahraniy said:
 CW: AB BA 20 85 25 20 26 6B
