@@ -12,6 +12,30 @@ faisal6 said:
 CW: 18 F8 B6 C6 AC 8F 11 4C
 Click to expand...
 Eutelsat 7B-7C   @ 7.0E
+10998  Vertical  9874,854
+ID:  UKI-957 M4 Sco Den BU spare (*unna
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification, UEFA Group C
+Scotland
+ vs. 
+Denmark
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 18 F8 B6 C6 AC 8F 11 4C
+Click to expand...
+Eutelsat 7B-7C   @ 7.0E
+10982  Horizontal  14400,184
+ID: ROU-015-2 - M2 (Eurovision)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification, UEFA Group H
+Romania
+ vs. 
+San Marino
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 18 F8 B6 C6 AC 8F 11 4C
+Click to expand...
+Eutelsat 7B-7C   @ 7.0E
 10964  Horizontal  14400,184
 ID:  CYP-005_PATH1 match03 (CyBC)
 1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
