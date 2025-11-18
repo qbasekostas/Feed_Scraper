@@ -15,6 +15,15 @@ CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
 ---FEED-SEPARATOR---
+Friends Match 
+Brazil vs Tunisia
+Pierre-Mauroy Stadium, France
+4.8E
+12603 H 7200
+4.2.0 HD
+ID: BEL 120
+FTA
+---FEED-SEPARATOR---
 7E
 11665 H 7200
 4.2.0
@@ -109,9 +118,7 @@ Eutelsat 7B-7C   @ 7.0E
 11010  Vertical  9874,854
 ID:SWE-043-5-BACKUP (Mobilelinks)
 1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
-Austria
- vs. 
-Bosnia and Herzegovina
+Sweden v Slovenia
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11000  Horizontal  14404,728
@@ -353,6 +360,18 @@ Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
    AUT34M/M8  (AUT-34HD  )
 MPEG4-4:2:2 HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
 CW: 18 F8 B6 C6 AC 8F 11 4C
+---FEED-SEPARATOR---
+UEFA U-21 Championship 2027 Qualifiers
+Montenegro vs Italy
+7°E
+12564  
+H 
+ 7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:YSM-021-M
+CW: 71 27 12 AA CC D1 41 DE
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10848 V 7200
