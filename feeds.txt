@@ -18,8 +18,10 @@ CW: 09 FF 54 5C 7B 77 71 63
 16,0°E
 11024 V 7200
 DVB-S2 8PSK FEC 3/4
-HD (1920*1080) 4:2:0  FTA
+HD (1920*1080) 4:2:0  
+FTA
 ID: Service 01
+FIFA/UEFA WC 2026 Qualifiers - Group C, Round 10
 Scotland v Denmark
 ---FEED-SEPARATOR---
 Friends Match 
@@ -384,6 +386,17 @@ Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
    AUT34M/M8  (AUT-34HD  )
 MPEG4-4:2:2 HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
 CW: 18 F8 B6 C6 AC 8F 11 4C
+---FEED-SEPARATOR---
+Gevs999 said:
+			Eutelsat 16A (16.0 E)
+12515 Horizontal 4798,974 3/4
+DVB-S2/8PSK (4:2:2)
+CZE 001/1
+Cw pls?
+Click to expand...
+U21 EURO, Qualification, Group B, Round
+Czechia U21 vs Portugal U21
+CW. : D1 1D D9 C7 1A 13 27 54
 ---FEED-SEPARATOR---
 UEFA U-21 Championship 2027 Qualifiers
 Georgia U-21 v Germany U-21
