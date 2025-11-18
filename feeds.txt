@@ -58,13 +58,11 @@ Iraq
  vs. 
 United Arab Emirates
 ---FEED-SEPARATOR---
-faisal6 said:
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+10964 V 14400
+   AUT34M/M8  (AUT-34HD  )
+MPEG4-4:2:2 HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
 CW: 18 F8 B6 C6 AC 8F 11 4C
-Click to expand...
-Eutelsat 7A/7B/7C @ 7.0°E
-11080 - V - 9875
-4:2:2
-ID: E393 M 7 MAIN
 ---FEED-SEPARATOR---
 B]Eutelsat 7B-7C   @ 7.0E
 11093  Vertical  9874,854
@@ -226,23 +224,6 @@ Croatia
 Serbia
 CW: 18 F8 B6 C6 AC 8F 11 4C
 ---FEED-SEPARATOR---
-bayuware said:
-Astra 1KR-1L-1M-1N ( 19.2E )
-11633 H 7500
-DVB-S2 - 4:2:0 - 8PSK
-ID: STV AUT 39
-Event: 
-World Cup Qualification, Group H, Austria - Bosnia & Herzegovina
-Astra 1KR-1L-1M-1N ( 19.2E )
-11647 H 7500
-DVB-S2 - 4:2:0 - 8PSK
-ID: Rapid ret
-Event: 
-World Cup Qualification, Group H, Austria - Bosnia & Herzegovina
-any CW Please? 
-Click to expand...
-CW: 35 DB CA DA 42 53 DA 6F
----FEED-SEPARATOR---
 International Friendly
 Burkina Faso 
  vs Benin 
@@ -381,12 +362,6 @@ DVB-S2/8PSK (4:2:0)
 Name : SAU-38 M
 CW : D1 2C 96 93 02 B6 BC 74
 ---FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
-10964 V 14400
-   AUT34M/M8  (AUT-34HD  )
-MPEG4-4:2:2 HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
-CW: 18 F8 B6 C6 AC 8F 11 4C
----FEED-SEPARATOR---
 Gevs999 said:
 			Eutelsat 16A (16.0 E)
 12515 Horizontal 4798,974 3/4
@@ -454,6 +429,21 @@ ID: TUR-M25-B
 Basketball Champions League: 
 Galatasaray vs Trieste
 CW: FB 44 FF 3E 58 CF 84 AB
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+12594 - V - 9600
+4:2:0
+ID: Polsat Sport
+CW: 25 CA 11 00 DB 18 EA DD
+Click to expand...
+Men's basketball: FIBA Europe Cup - match: WKS Śląsk Wrocław - Bahcesehir College Istanbul
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12594 - V - 9600
+4:2:0
+ID: Polsat Sport
+CW: 25 CA 11 00 DB 18 EA DD
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10820 V 7200
