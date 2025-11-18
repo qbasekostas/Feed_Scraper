@@ -7,3 +7,13 @@ EMELEC VS LIGA QUITO
 CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11066  Vertical  14400,206
+ID:  CRO-025 NTF M12 MAIN (Medialink)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+International Youth, U19 UEFA European Championship
+Croatia
+ vs. 
+Serbia
+CW: 18 F8 B6 C6 AC 8F 11 4C
