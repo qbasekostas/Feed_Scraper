@@ -8,6 +8,27 @@ CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
 ---FEED-SEPARATOR---
+100.5e
+3809 H 7200
+4:2:0
+ID: 
+CNBRTV-001M
+Friendly International
+ China U22  vs  Uzbekistan U22
+CW: 20 25 11 56 18 19 00 31
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 18 F8 B6 C6 AC 8F 11 4C
+International, World Cup Qualification
+Click to expand...
+Eutelsat 7B-7C   @ 7.0E
+11010  Vertical  9874,854
+ID:SWE-043-5-BACKUP (Mobilelinks)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+Austria
+ vs. 
+Bosnia and Herzegovina
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11000  Horizontal  14404,728
 ID:    ROU038 M03 BKP (Eurovision)
