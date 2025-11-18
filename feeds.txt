@@ -8,6 +8,18 @@ CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
 ---FEED-SEPARATOR---
+faisal6 said:
+CW: 18 F8 B6 C6 AC 8F 11 4C
+Click to expand...
+Eutelsat 7B-7C   @ 7.0E
+10964  Horizontal  14400,184
+ID:  CYP-005_PATH1 match03 (CyBC)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+International, International Friendly Games
+Cyprus
+ vs. 
+Estonia 
+---FEED-SEPARATOR---
 100.5e
 4133 H 9875
 4:2:0
