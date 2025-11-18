@@ -15,6 +15,29 @@ CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
 ---FEED-SEPARATOR---
+16E
+12692 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+FIFA/UEFA WC 2026 Qualifiers - Group C, Round 10
+Scotland v Denmark
+---FEED-SEPARATOR---
+16E
+12705 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+FIFA/UEFA WC 2026 Qualifiers - Group C, Round 10
+Scotland v Denmark
+---FEED-SEPARATOR---
+47W SES14
+3989V9699
+FTA
+ID: GCUK ENC1
+DVB-S2 4.2.0 1080I
+BRASIL VS TÚNEZ
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 12734 Vertical 5998,71 3/4
 DVB-S2/8PSK (4:2:0)
@@ -494,6 +517,14 @@ ID: TUR-M25-B
 Basketball Champions League: 
 Galatasaray vs Trieste
 CW: FB 44 FF 3E 58 CF 84 AB
+---FEED-SEPARATOR---
+Champions League, Group H, Round 5
+Le Mans Basket vs Gran Canaria
+Eutelsat 7A/7B/7C @ 7.0°E
+11188 - H - 7200
+4:2:0
+ID: VS7-2/BASKET BCL LE MANS (VS)
+CW: CE 50 BC DA 07 CC 03 D6
 ---FEED-SEPARATOR---
 Eurocup, Group A, Round 8
 Klaipėdos Neptūnas vs Aris BC
