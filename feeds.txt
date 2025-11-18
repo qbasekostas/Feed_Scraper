@@ -15,6 +15,15 @@ CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
 ---FEED-SEPARATOR---
+16,0°E
+12511 H 7200
+DVB-S2 8PSK FEC 2/3
+HD (1920*1080) 4:2:0  
+FTA
+ID: Noname
+FIFA/UEFA WC 2026 Qualifiers - Group J, Round 10
+Belgium - Liechtenstein
+---FEED-SEPARATOR---
 16E
 12692 V 10000 
 4:2:0
