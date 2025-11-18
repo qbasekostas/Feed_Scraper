@@ -8,6 +8,21 @@ CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
 ---FEED-SEPARATOR---
+7E
+11665 H 7200
+4.2.0
+ID: SAU-033
+Friendlies
+Saudi Arabia - Algeria
+FTA
+---FEED-SEPARATOR---
+21.6E
+12593 H 7200
+4.2.0
+ID: SAUDI ARABIA vs ALGERIA
+Friendlies
+FTA
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11023  Vertical  7201,801
 ID: IRQ014-1 (EUROVISION)
@@ -17,6 +32,14 @@ International, World Cup Qualification, AFC, Round 5
 Iraq
  vs. 
 United Arab Emirates
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 18 F8 B6 C6 AC 8F 11 4C
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11080 - V - 9875
+4:2:2
+ID: E393 M 7 MAIN
 ---FEED-SEPARATOR---
 B]Eutelsat 7B-7C   @ 7.0E
 11093  Vertical  9874,854
@@ -177,4 +200,37 @@ International Youth, U19 UEFA European Championship
 Croatia
  vs. 
 Serbia
+CW: 18 F8 B6 C6 AC 8F 11 4C
+---FEED-SEPARATOR---
+International Friendly
+Guinea 
+ vs Niger 
+21.6E
+11592 H 4000
+DVB-S2 4:2:0 8PSK
+ID: M187-MRC007-Bu
+CW: FE ED 18 03 11 20 25 56
+---FEED-SEPARATOR---
+Mexico VS Portugal
+Eutelsat 36B (36.0°E)
+11645 -   Vertical - 7200
+DVB-S2/8PSK (4:2:0)
+Name : SAU-42 M
+A.ElSadek said:
+			U17 FIFA WorldChampionship
+CW : D1 2C 96 93 02 B6 BC 74
+Click to expand...
+---FEED-SEPARATOR---
+U17 FIFA WorldChampionship
+Uganda - Burkina Faso
+Eutelsat 36B (36.0°E)
+11627 -   Vertical - 7200
+DVB-S2/8PSK (4:2:0)
+Name : SAU-38 M
+CW : D1 2C 96 93 02 B6 BC 74
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+10964 V 14400
+   AUT34M/M8  (AUT-34HD  )
+MPEG4-4:2:2 HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
 CW: 18 F8 B6 C6 AC 8F 11 4C
