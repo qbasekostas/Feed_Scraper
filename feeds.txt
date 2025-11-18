@@ -15,6 +15,13 @@ CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
 ---FEED-SEPARATOR---
+16,0°E
+11024 V 7200
+DVB-S2 8PSK FEC 3/4
+HD (1920*1080) 4:2:0  FTA
+ID: Service 01
+Scotland v Denmark
+---FEED-SEPARATOR---
 Friends Match 
 Brazil vs Tunisia
 Pierre-Mauroy Stadium, France
@@ -217,6 +224,23 @@ Croatia
 Serbia
 CW: 18 F8 B6 C6 AC 8F 11 4C
 ---FEED-SEPARATOR---
+bayuware said:
+Astra 1KR-1L-1M-1N ( 19.2E )
+11633 H 7500
+DVB-S2 - 4:2:0 - 8PSK
+ID: STV AUT 39
+Event: 
+World Cup Qualification, Group H, Austria - Bosnia & Herzegovina
+Astra 1KR-1L-1M-1N ( 19.2E )
+11647 H 7500
+DVB-S2 - 4:2:0 - 8PSK
+ID: Rapid ret
+Event: 
+World Cup Qualification, Group H, Austria - Bosnia & Herzegovina
+any CW Please? 
+Click to expand...
+CW: 35 DB CA DA 42 53 DA 6F
+---FEED-SEPARATOR---
 International Friendly
 Burkina Faso 
  vs Benin 
@@ -362,6 +386,43 @@ MPEG4-4:2:2 HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
 CW: 18 F8 B6 C6 AC 8F 11 4C
 ---FEED-SEPARATOR---
 UEFA U-21 Championship 2027 Qualifiers
+Georgia U-21 v Germany U-21
+ ST: 18:00
+7°E
+12546 
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:URG-001
+CW: AB 18 11 D4 20 25 AB F0
+---FEED-SEPARATOR---
+bayuware said:
+Astra 1KR-1L-1M-1N ( 19.2E )
+11647 H 7500
+DVB-S2 - 4:2:0 - 8PSK
+ID: Rapid ret
+Event: 
+World Cup Qualification, Group H, Austria - Bosnia & Herzegovina
+any CW Please? 
+Click to expand...
+EF 04 3E 2D 96 2D D3 11 
+CW: 35 DB CA DA 42 53 DA 6F
+---FEED-SEPARATOR---
+bayuware said:
+Astra 1KR-1L-1M-1N ( 19.2E )
+11633 H 7500
+DVB-S2 - 4:2:0 - 8PSK
+ID: STV AUT 39
+Event: 
+World Cup Qualification, Group H, Austria - Bosnia & Herzegovina
+any CW Please? 
+Click to expand...
+00 17 9D 77 17 FE 3E 3E  
+CW: 35 DB CA DA 42 53 DA 6F
+---FEED-SEPARATOR---
+UEFA U-21 Championship 2027 Qualifiers
 Montenegro vs Italy
 7°E
 12564  
@@ -380,3 +441,11 @@ ID: TUR-M25-B
 Basketball Champions League: 
 Galatasaray vs Trieste
 CW: FB 44 FF 3E 58 CF 84 AB
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10820 V 7200
+4:2:0
+ID: POL-141 ENC1
+Basketball Champions League: 
+Legia vs Rytas
+CW: FE 48 BA 00 43 AA 57 44
