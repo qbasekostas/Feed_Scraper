@@ -20,16 +20,6 @@ Eutelsat 16A (16.0 E)
 DVB-S2/8PSK (4:2:0)
 UKI-1884 Coder 1
 ---FEED-SEPARATOR---
-47W SES14 C 
-4166 h 7199 
-ID: Fi10_GNVE
-DVB-S2 4.2.0 1080I 
-FÚTBOL AMISTOSO 
-UZBEKISTÁN VS IRÁN 
-CW: A3 A2 ED 32 82 19 02 9D
-@FaDeL®
-🫡
----FEED-SEPARATOR---
 16,0°E
 12717 V 8000
 DVB-S2 8PSK FEC 3/4
@@ -254,6 +244,51 @@ Croatia
 Serbia
 CW: 18 F8 B6 C6 AC 8F 11 4C
 ---FEED-SEPARATOR---
+47W SES14 C
+4166 h 7199
+ID: Fi10_GNVE
+DVB-S2 4.2.0 1080I
+FÚTBOL AMISTOSO
+UZBEKISTÁN VS IRÁN
+CW: A3 A2 ED 32 82 19 02 9D
+@FaDeL®
+🫡
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3965 V 7119 C-Band
+ID: BT_SES_24_SDI
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,27Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: FIFA - Friendly Match 2025
+Teams: Brazil vs Tunisia
+Time / Kickoff: 02.30 JKT-TH / 03.30 MY-SG / 19.30 GMT / 20.30 CET
+CW: 31 32 CC 2F DD 24 22 23
+---FEED-SEPARATOR---
+FaDeL® said:
+			Eutelsat 7B @ 7.0°E
+Fréq:12676 - V - 7121
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  2Sat HOL307 MAIN M29
+CW: 31 32 CC 2F DD 24 22 23
+Click to expand...
+7E
+12686 V 7120
+4.2.0
+ID: HOL307BU
+Friendlies
+Brazil - Tunisia
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:12676 - V - 7121
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  2Sat HOL307 MAIN M29
+International Friendly Match
+ Brazil vs Tunisia
+CW: 31 32 CC 2F DD 24 22 23
+---FEED-SEPARATOR---
 International Friendly
 Burkina Faso 
  vs Benin 
@@ -460,18 +495,6 @@ Basketball Champions League:
 Galatasaray vs Trieste
 CW: FB 44 FF 3E 58 CF 84 AB
 ---FEED-SEPARATOR---
-Verdeoro said:
-Hot Bird (13.0°E)
-10820 V 7200
-4:2:0
-ID: POL-141 ENC1
-Basketball Champions League: 
-Legia vs Rytas
-CW: FE 48 BA 00 43 AA 57 44
-Click to expand...
-10820 
-H
----FEED-SEPARATOR---
 Eurocup, Group A, Round 8
 Klaipėdos Neptūnas vs Aris BC
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -488,23 +511,15 @@ DVB-S2 4:2:0 8PSK
 ID: WPA D-322 Main
 CW: ED 04 CA BB 05 BD 49 0B
 ---FEED-SEPARATOR---
-xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
 12594 - V - 9600
 4:2:0
 ID: Polsat Sport
-CW: 25 CA 11 00 DB 18 EA DD
-Click to expand...
 Men's basketball: FIBA Europe Cup - match: WKS Śląsk Wrocław - Bahcesehir College Istanbul
----FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0°E
-12594 - V - 9600
-4:2:0
-ID: Polsat Sport
 CW: 25 CA 11 00 DB 18 EA DD
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
-10820 V 7200
+10820 H 7200
 4:2:0
 ID: POL-141 ENC1
 Basketball Champions League: 
