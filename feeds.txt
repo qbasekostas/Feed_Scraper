@@ -202,6 +202,87 @@ Croatia
 Serbia
 CW: 18 F8 B6 C6 AC 8F 11 4C
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3833 V 7199 C-Band
+ID: IRQ014-1
+ (Provider ID: EUROVISION)
+MPEG4 | DVB-S2
+1920x1080i |14,14Mb/Sec |8PSK| 4:2:0 HD
+Event: ASIA - AFC Asian Qualifiers Road to FIFA World Cup 26™ (2nd Leg - 5th Round)
+Teams: Iraq vs United Arab Emirates
+Time / Kickoff: 23.00 JKT-TH / 00.00 MY-SG / 16.00 GMT / 17.00 CET
+CW: D2 93 F6 5B BF DE FE 9B
+---FEED-SEPARATOR---
+International Friendly
+Guinea vs Niger
+21.6E
+11591 H 4000
+DVB-S2 4:2:0 8PSK
+ID: M187-MRC007-Bu
+CW: FE ED 18 03 11 20 25 56
+---FEED-SEPARATOR---
+A.ElSadek said:
+			U17 FIFA WorldChampionship
+CW : D1 2C 96 93 02 B6 BC 74
+Click to expand...
+Switzerland VS Ireland 
+Eutelsat 36B (36.0°E)
+10996 -   Vertical - 7200
+DVB-S2/8PSK (4:2:0)
+Name : SAU-043 M
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+11009 Vertical 9873,187 3/4
+DVB-S2/8PSK (4:2:2)
+BUL006 M11 M
+World Cup - Qualification
+Switzerland vs Kosovo
+20:45 CET
+CW: 18 F8 B6 C6 AC 8F 11 4C
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 18 F8 B6 C6 AC 8F 11 4C
+Click to expand...
+World Cup Qual. UEFA B, Round 10
+Kosovo vs Switzerland
+Eutelsat 16A (16.0 E)
+11008 - V - 9875
+4:2:2
+ID: BUL006 M11 M 
+---FEED-SEPARATOR---
+A.ElSadek said:
+			U17 FIFA WorldChampionship
+CW : D1 2C 96 93 02 B6 BC 74
+Click to expand...
+France VS Barzil
+Eutelsat 36B (36.0°E)
+10960 - Vertical - 7200
+DVB-S2/8PSK (4:2:0)
+Name : SAU-41 M
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+10997 Vertical 9872,983 3/4
+DVB-S2/8PSK (4:2:2)
+AUT23 M8 M
+World Cup - Qualification
+Austria vs Bosnia & Herzegovina
+20:45 CET
+CW: 18 F8 B6 C6 AC 8F 11 4C
+---FEED-SEPARATOR---
+FIFA/UEFA WC 2026 Qualifiers - Group C, Round 10
+Belarus v Greece
+ ST: 20:45
+7°E
+11176 
+H
+ 14400
+DVB-S2-
+4:2:0
+-8PSK
+ID:BEL-GRE
+CW: BC 20 25 01 11 18 CB F4
+The signal returns shortly before the match.
+---FEED-SEPARATOR---
 International Friendly
 Guinea 
  vs Niger 
