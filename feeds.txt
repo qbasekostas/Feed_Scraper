@@ -276,6 +276,14 @@ Croatia
 Serbia
 CW: 18 F8 B6 C6 AC 8F 11 4C
 ---FEED-SEPARATOR---
+55W INTELSAT34 C
+4100V7500
+ID: PAN vs ES
+DVB-S2 4.2.0 1080I 
+ELIMINATORIAS CONCACAF 
+PANAMA VS SALVADOR
+CW: 14 15 FF 28 FF 20 25 44
+---FEED-SEPARATOR---
 1W
 11468 V 14400 
 4:2:2 
@@ -543,6 +551,14 @@ ID: TUR-M25-B
 Basketball Champions League: 
 Galatasaray vs Trieste
 CW: FB 44 FF 3E 58 CF 84 AB
+---FEED-SEPARATOR---
+EuroBasket, Women, Qualification, Gr. G, Round 3
+Portugal vs Iceland
+Eutelsat 7A/7B/7C @ 7.0°E
+12555 - H - 7200
+4:2:0
+ID: E-069 BK
+CW: 70 48 36 EE 1E 8F 1F CC
 ---FEED-SEPARATOR---
 Champions League, Group H, Round 5
 Le Mans Basket vs Gran Canaria
