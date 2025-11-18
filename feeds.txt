@@ -15,6 +15,30 @@ CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12734 Vertical 5998,71 3/4
+DVB-S2/8PSK (4:2:0)
+UKI-1884 Coder 1
+---FEED-SEPARATOR---
+47W SES14 C 
+4166 h 7199 
+ID: Fi10_GNVE
+DVB-S2 4.2.0 1080I 
+FÚTBOL AMISTOSO 
+UZBEKISTÁN VS IRÁN 
+CW: A3 A2 ED 32 82 19 02 9D
+@FaDeL®
+🫡
+---FEED-SEPARATOR---
+16,0°E
+12717 V 8000
+DVB-S2 8PSK FEC 3/4
+HD (1920*1080) 4:2:0  
+FTA
+ID: UKI 1973 Coder 1
+FIFA/UEFA WC 2026 Qualifiers - Group J, Round 10
+Wales v North Macedonia
+---FEED-SEPARATOR---
 16,0°E
 11024 V 7200
 DVB-S2 8PSK FEC 3/4
@@ -61,7 +85,13 @@ United Arab Emirates
 Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
 10964 V 14400
    AUT34M/M8  (AUT-34HD  )
-MPEG4-4:2:2 HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
+MPEG4-
+4:2:2 
+HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
+Event :
+Europe World Cup - Qualification
+Teams : Austria 
+ Bosnia & Herzegovina
 CW: 18 F8 B6 C6 AC 8F 11 4C
 ---FEED-SEPARATOR---
 B]Eutelsat 7B-7C   @ 7.0E
@@ -429,6 +459,34 @@ ID: TUR-M25-B
 Basketball Champions League: 
 Galatasaray vs Trieste
 CW: FB 44 FF 3E 58 CF 84 AB
+---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird (13.0°E)
+10820 V 7200
+4:2:0
+ID: POL-141 ENC1
+Basketball Champions League: 
+Legia vs Rytas
+CW: FE 48 BA 00 43 AA 57 44
+Click to expand...
+10820 
+H
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 8
+Klaipėdos Neptūnas vs Aris BC
+Eutelsat 7A/7B/7C @ 7.0°E
+12726 - V - 7200
+4:2:0
+ID: LTU-005 main
+CW: BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
+European Basketball Champions League
+Heidelberg vs Promitheas
+13E
+11213 V 7200
+DVB-S2 4:2:0 8PSK
+ID: WPA D-322 Main
+CW: ED 04 CA BB 05 BD 49 0B
 ---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
