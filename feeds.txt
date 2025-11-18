@@ -8,6 +8,15 @@ CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
 ---FEED-SEPARATOR---
+100.5e
+4133 H 9875
+4:2:0
+ID: 
+Fi01 JPKDDI
+Friendly International
+Japan  vs  Bolivia
+CW: AF AC DA 35 91 69 AE A8
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11066  Vertical  14400,206
 ID:  CRO-025 NTF M12 MAIN (Medialink)
