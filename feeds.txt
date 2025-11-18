@@ -1,3 +1,10 @@
+Intelsat 34 55w
+4122 v 9875
+CW.AF FA 12 BB 14 BC DE AE
+ID.ATL HENC002X
+4.2.0
+Chile vs Perú
+---FEED-SEPARATOR---
 55W INTELSAT34 C 
 4150 V 7200
 ID: DXA ECU
@@ -71,6 +78,7 @@ ID:   UKI-1324-1-EQM9 (UKI-1324)
 1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
 CW: 18 F8 B6 C6 AC 8F 11 4C
 International, World Cup Qualification, UEFA Group
+Belarus vs Greece
 ---FEED-SEPARATOR---
 faisal6 said:
 CW: 18 F8 B6 C6 AC 8F 11 4C
@@ -202,43 +210,73 @@ Croatia
 Serbia
 CW: 18 F8 B6 C6 AC 8F 11 4C
 ---FEED-SEPARATOR---
-Asiasat 5 @ 100.5°E
-3833 V 7199 C-Band
-ID: IRQ014-1
- (Provider ID: EUROVISION)
-MPEG4 | DVB-S2
-1920x1080i |14,14Mb/Sec |8PSK| 4:2:0 HD
-Event: ASIA - AFC Asian Qualifiers Road to FIFA World Cup 26™ (2nd Leg - 5th Round)
-Teams: Iraq vs United Arab Emirates
-Time / Kickoff: 23.00 JKT-TH / 00.00 MY-SG / 16.00 GMT / 17.00 CET
-CW: D2 93 F6 5B BF DE FE 9B
----FEED-SEPARATOR---
 International Friendly
-Guinea vs Niger
+Burkina Faso 
+ vs Benin 
 21.6E
-11591 H 4000
+11596 H 4000
 DVB-S2 4:2:0 8PSK
-ID: M187-MRC007-Bu
+ID: M104-MRC007-Main
 CW: FE ED 18 03 11 20 25 56
+---FEED-SEPARATOR---
+7E
+12510 V 4937
+4.2.0
+ID: chan a
+Friendlies
+Iran - Uzbekistan
+CW: A3 A2 ED 32 82 19 02 9D
 ---FEED-SEPARATOR---
 A.ElSadek said:
 			U17 FIFA WorldChampionship
 CW : D1 2C 96 93 02 B6 BC 74
 Click to expand...
-Switzerland VS Ireland 
+Austria VS England
+Eutelsat 36B (36.0°E)
+11023 - Vertical - 7200
+DVB-S2/8PSK (4:2:0)
+Name : SAU-036M
+---FEED-SEPARATOR---
+A.ElSadek said:
+			U17 FIFA WorldChampionship
+CW : D1 2C 96 93 02 B6 BC 74
+Click to expand...
+Morocco VS Mali 
+Eutelsat 36B (36.0°E)
+11014 - Vertical - 7200
+DVB-S2/8PSK (4:2:0)
+Name : SAU-044M
+---FEED-SEPARATOR---
+U17 FIFA WorldChampionship
+North Korea VS Japan
+Eutelsat 36B (36.0°E)
+11005 - Vertical - 7200
+DVB-S2/8PSK (4:2:0)
+Name : SAU-039M
+CW : D1 2C 96 93 02 B6 BC 74
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3833 V 7199 C-Band
+ID: IRQ014-1
+(Provider ID: EUROVISION)
+MPEG4 | DVB-S2
+1920x1080i |13,23Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: ASIA - AFC Asian Qualifiers Road to FIFA World Cup 26™ (2nd Leg - 5th Round)
+Teams: Iraq vs United Arab Emirates
+Time / Kickoff: 23.00 JKT-TH / 00.00 MY-SG / 16.00 GMT / 17.00 CET
+CW: D2 93 F6 5B BF DE FE 9B
+---FEED-SEPARATOR---
+A.ElSadek said:
+			U17 FIFA WorldChampionship
+CW : D1 2C 96 93 02 B6 BC 74
+Click to expand...
+Switzerland VS Ireland
 Eutelsat 36B (36.0°E)
 10996 -   Vertical - 7200
 DVB-S2/8PSK (4:2:0)
 Name : SAU-043 M
----FEED-SEPARATOR---
-Eutelsat 16A (16.0 E)
-11009 Vertical 9873,187 3/4
-DVB-S2/8PSK (4:2:2)
-BUL006 M11 M
-World Cup - Qualification
-Switzerland vs Kosovo
-20:45 CET
-CW: 18 F8 B6 C6 AC 8F 11 4C
 ---FEED-SEPARATOR---
 faisal6 said:
 CW: 18 F8 B6 C6 AC 8F 11 4C
@@ -315,3 +353,11 @@ Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
    AUT34M/M8  (AUT-34HD  )
 MPEG4-4:2:2 HD 1920x1080 |22.091 Mbit/Sec|8PSK DVB-S2 HD
 CW: 18 F8 B6 C6 AC 8F 11 4C
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10848 V 7200
+4:2:0
+ID: TUR-M25-B
+Basketball Champions League: 
+Galatasaray vs Trieste
+CW: FB 44 FF 3E 58 CF 84 AB
