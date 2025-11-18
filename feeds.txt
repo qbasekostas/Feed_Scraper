@@ -8,6 +8,59 @@ CW: 09 FF 54 5C 7B 77 71 63
 @sahafe
  Thanks for the key 🫡
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11023  Vertical  7201,801
+ID: IRQ014-1 (EUROVISION)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: fta
+International, World Cup Qualification, AFC, Round 5
+Iraq
+ vs. 
+United Arab Emirates
+---FEED-SEPARATOR---
+B]Eutelsat 7B-7C   @ 7.0E
+11093  Vertical  9874,854
+ID: EL-095 - 3 - EQM10 (EMG)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+CW: 18F8B6C6AC8F114C
+International, World Cup Qualification, UEFA Group J
+Belgium vs. Liechtenstein
+---FEED-SEPARATOR---
+International Friendly
+Morocco vs Uganda
+21.6E
+11582 H 7200
+DVB-S2 4:2:0 8PSK
+ID: M260-MRC-004-main
+CW: FE ED 18 03 11 20 25 56
+---FEED-SEPARATOR---
+Friendly International
+MAROOCO VS UGANDA 
+3.1E
+11663 H 5000
+4.2.0 HD
+ID: MRCO05 BAKUP
+CW: FE ED 18 03 11 20 25 56
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+10983  Vertical  14400,184
+ID:   UKI-1324-1-EQM9 (UKI-1324)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+CW: 18 F8 B6 C6 AC 8F 11 4C
+International, World Cup Qualification, UEFA Group
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 18 F8 B6 C6 AC 8F 11 4C
+Click to expand...
+Eutelsat 7B-7C   @ 7.0E
+11048  Vertical  14400,184
+ID:   BUL007 M11 B (TV1 )
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+International, World Cup Qualification, UEFA Group E
+Bulgaria
+ vs. 
+Georgia
+---FEED-SEPARATOR---
 100.5e
 3809 H 7200
 4:2:0
