@@ -10,6 +10,12 @@ ID: Repretel backup
 DVB-S2 4.2.0 1080I FTA
 COSTA RICA VS HONDURAS 
 ---FEED-SEPARATOR---
+AsiaSat 5 100.5E 
+4191 V 7199
+8PSK 3/4 DVB-S2 4.2.0
+PMT PID: 2048, SID: 1 @ SUI-15_3_main (FIFA WC26 PO Draw)
+CW: C9 5B C1 E5 48 6C F9 AD
+---FEED-SEPARATOR---
 Draws | FIFA World Cup 26™ Play-offs
 20th November 2025, 14:50
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -42,3 +48,18 @@ DVB-S2 4.2.0 1080I
 FÚTBOL AMISTOSO 
 USA VS URUGUAY 
 CW: 67 7F 4D 33 31 B7 68 50
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Round 4
+Juventus VS OL Lyonnes
+Eutelsat 7C (7.0 E)
+10971 - Horizontal - 9875 -
+ 4.2.2 
+Name : ITA198 UWCL Main
+CW : 5B AB A7 AD 3B DF 42 5C
+---FEED-SEPARATOR---
+UEFA Champions League, Women Round 4
+VfL Wolfsburg vs Manchester United
+Eutelsat 7C (7.0 E)
+10961 - Horizontal - 9875 - 4.2.2
+Name : CRO-023/1
+CW : 6E 67 63 38 B0 6A E0 FA
