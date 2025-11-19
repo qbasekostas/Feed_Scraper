@@ -49,6 +49,22 @@ FÚTBOL AMISTOSO
 USA VS URUGUAY 
 CW: 67 7F 4D 33 31 B7 68 50
 ---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 4
+Vålerenga vs SKN St. Pölten
+Eutelsat 7A/7B/7C @ 7.0°E
+11170 - H - 7200
+4:2:0
+ID: ENC 6
+CW: 75 F1 31 97 F5 A5 D2 6C
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12726 - V - 7200
+4:2:0
+ID: Seventeen Japan
+Event: 
+UEFA Champions League Women - Arsenal vs Real Madrid
+CW: EB 96 7D FE 04 19 FD 1A
+---FEED-SEPARATOR---
 UEFA Champions League, Women, Round 4
 Valerenga  - St.Pölten
 Eutelsat 7C (7.0 E)
@@ -111,6 +127,17 @@ Eutelsat 7C (7.0 E)
 Name : CRO-023/1
 CW : 6E 67 63 38 B0 6A E0 FA
 ---FEED-SEPARATOR---
+1W
+11674 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID: 
+Basket PD
+Fiba Europe Cup
+Prievidza
+ vs 
+Cedevita
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0°E)
 11096 - Horizontal - 4938
 DVB-S2 4:2:0 HD
@@ -132,6 +159,14 @@ ID: KAZ008M
 FTA / CLEAR
 ASIA WASL - West Asia League
 Astana Vs. Scheduled
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12592 V 7200
+4:2:0
+ID: FR CHOLET BASKET
+Basketball Champions League: 
+Cholet vs Bursaspor
+CW: DB 56 EC 1D 44 CB 78 87
 ---FEED-SEPARATOR---
 Eurocup, Group A, Round 8
 KK Cedevita Olimpija vs Hamburg Towers
