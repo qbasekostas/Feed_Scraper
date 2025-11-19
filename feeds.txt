@@ -112,6 +112,22 @@ FTA / CLEAR
 ASIA WASL - West Asia League
 Astana Vs. Scheduled
 ---FEED-SEPARATOR---
+Eurocup, Group A, Round 8
+KK Cedevita Olimpija vs Hamburg Towers
+Eutelsat 7A/7B/7C @ 7.0°E
+11459 - V - 7200
+4:2:0
+ID: Medialink CRO-024/1
+CW: 19 7A DF 72 5F CC 11 3C
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10829 V 7200
+4:2:0
+ID: YSM-016 MAIN
+Basketball Champions League: 
+Spartak vs Benfica
+CW: EB 70 CC 27 66 FD 64 C7
+---FEED-SEPARATOR---
 Eutelsat 7A (7.0 E)
 12646 - Horizontal - 7200 - 4.2.0
 Name : Unname
