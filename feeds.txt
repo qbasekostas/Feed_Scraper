@@ -112,6 +112,13 @@ FTA / CLEAR
 ASIA WASL - West Asia League
 Astana Vs. Scheduled
 ---FEED-SEPARATOR---
+Eutelsat 7A (7.0 E)
+12646 - Horizontal - 7200 - 4.2.0
+Name : Unname
+Eurocup, Group B, Round 8
+London Lions vs JL Bourg
+CW : 85 97 C4 E0 1A AA C9 8D
+---FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10985 V 9600
 ID: 
