@@ -112,6 +112,16 @@ FTA / CLEAR
 ASIA WASL - West Asia League
 Astana Vs. Scheduled
 ---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10985 V 9600
+ID: 
+POL11_HARM
+Event: 
+Men's basketball: FIBA Europe Cup - match: Anwil Włocławek - KB Trepca
+4.2.2
+- DVB-S2 - 8PSK
+CW: DC AE 20 AA 25 BB 11 F1
+---FEED-SEPARATOR---
 ggg1122 said:
 CW: AB BA 20 85 25 20 26 6B
 Click to expand...
