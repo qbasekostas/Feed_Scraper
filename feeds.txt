@@ -49,6 +49,13 @@ FÚTBOL AMISTOSO
 USA VS URUGUAY 
 CW: 67 7F 4D 33 31 B7 68 50
 ---FEED-SEPARATOR---
+UEFA Champions League, Women, Round 4
+Valerenga  - St.Pölten
+Eutelsat 7C (7.0 E)
+10997 - Horizontal - 9875 - 4.2.2
+Name : NOR-35-1-M4
+CW : 02 82 68 EC AE 9F 3C 89
+---FEED-SEPARATOR---
 UEFA Champions League, Women, League Phase, Round 4
 Paris FC vs Benfica
 7.0E
