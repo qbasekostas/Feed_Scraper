@@ -50,6 +50,14 @@ USA VS URUGUAY
 CW: 67 7F 4D 33 31 B7 68 50
 ---FEED-SEPARATOR---
 UEFA Champions League, Women, League Phase, Round 4
+Paris FC vs Benfica
+7.0E
+12685 V 7200
+4.2.0 HD
+ID: ENC5
+CW: 19 4D 8B F1 E2 E6 E9 B1
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 4
 Arsenal vs Real Madrid
 Eutelsat 7A/7B/7C @ 7.0°E
 10984 - H - 9875
