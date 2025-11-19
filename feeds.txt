@@ -49,6 +49,22 @@ FÚTBOL AMISTOSO
 USA VS URUGUAY 
 CW: 67 7F 4D 33 31 B7 68 50
 ---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 4
+Arsenal vs Real Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+10984 - H - 9875
+4:2:2
+ID: UKI1866 Match 03 Ars/Mad Main
+CW: 92 EB CD 4A 8F 55 CB AF
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 4
+Paris FC vs Benfica
+Eutelsat 7A/7B/7C @ 7.0°E
+11008 - H - 9875
+4:2:2
+ID: F634/M MATCH 05 PARIS FC/BENFICA
+CW: D3 CB D2 70 F8 12 D0 DA
+---FEED-SEPARATOR---
 UEFA Champions League, Women, Round 4
 Juventus VS OL Lyonnes
 Eutelsat 7C (7.0 E)
@@ -63,3 +79,9 @@ Eutelsat 7C (7.0 E)
 10961 - Horizontal - 9875 - 4.2.2
 Name : CRO-023/1
 CW : 6E 67 63 38 B0 6A E0 FA
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0°E)
+11021 V 7198
+DVB-S2 4:2:0 HD
+ID: KAZ008M
+FTA / CLEAR
