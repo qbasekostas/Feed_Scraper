@@ -1,3 +1,14 @@
+Futbol
+ de Peru​
+55W C
+​
+ID: AT GRAU VS CRISTAL  
+TP:4151-V-7199
+Using PID: 512
+PID: 200h  B8h-Crypt8:02 F7 54 80 6F 7C 9B E8  [E] Count:2493509
+found CW: 65 23 89 11 26 BA 12 F2 
+Search CW done (245 sec.)
+---FEED-SEPARATOR---
 55W INTELSAT 34 C 
 4127V7500
 ID: CPF TELEVISA
@@ -48,6 +59,14 @@ DVB-S2 4.2.0 1080I
 FÚTBOL AMISTOSO 
 USA VS URUGUAY 
 CW: 67 7F 4D 33 31 B7 68 50
+---FEED-SEPARATOR---
+UEFA Women's Europa Cup, Round of 16
+Sporting CP vs Glasgow City LFC 
+Eutelsat 7A/7B/7C @ 7.0°E
+11126 - H - 7200
+4:2:0
+ID: E- 285 MAIN
+CW: 19 11 20 4A 25 FA CA E9
 ---FEED-SEPARATOR---
 UEFA Champions League, Women, League Phase, Round 4
 Vålerenga vs SKN St. Pölten
@@ -127,6 +146,14 @@ Eutelsat 7C (7.0 E)
 Name : CRO-023/1
 CW : 6E 67 63 38 B0 6A E0 FA
 ---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10848 V 7200
+4:2:0
+ID: EDS807HD.1
+Basketball Champions League: 
+Joventut vs Hapoel Holon
+ FTA
+---FEED-SEPARATOR---
 1W
 11674 V 7200 
 4:2:0
@@ -142,6 +169,8 @@ Eutelsat 16A (16.0°E)
 11096 - Horizontal - 4938
 DVB-S2 4:2:0 HD
 Name : BIH007
+Europe Cup, Group A, Round 6
+Bosna vs BC Rilski Sportist
 FTA / CLEAR
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
