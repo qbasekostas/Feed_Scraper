@@ -85,3 +85,5 @@ Eutelsat 16A (16.0°E)
 DVB-S2 4:2:0 HD
 ID: KAZ008M
 FTA / CLEAR
+ASIA WASL - West Asia League
+Astana Vs. Scheduled
