@@ -57,6 +57,22 @@ Paris FC vs Benfica
 ID: ENC5
 CW: 19 4D 8B F1 E2 E6 E9 B1
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12703 - V - 7200
+4:2:0
+ID: ENC 8
+CW: 3B 78 D3 86 D7 A6 00 7D
+UEFA Champions League, Women, League Phase, Round 4
+VfL Wolfsburg vs Manchester United
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12695 - V - 7200
+4:2:2
+ID: ENC 7
+CW: 28 35 E8 45 E5 E1 FD C3
+UEFA Champions League, Women, League Phase, Round 4
+Juventus vs OL Lyonnes
+---FEED-SEPARATOR---
 UEFA Champions League, Women, League Phase, Round 4
 Arsenal vs Real Madrid
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -95,6 +111,20 @@ ID: KAZ008M
 FTA / CLEAR
 ASIA WASL - West Asia League
 Astana Vs. Scheduled
+---FEED-SEPARATOR---
+ggg1122 said:
+CW: AB BA 20 85 25 20 26 6B
+Click to expand...
++
+BG League  
+16.0E
+- Name:           YSM-013M   (YSM-13M   )
+- Freq: 10993,578
+- Pol: Vertical
+- SR: 4938,124
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
 ---FEED-SEPARATOR---
 Europe : ABA League 2
 Podgorica vs Student 
