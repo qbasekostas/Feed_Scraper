@@ -96,6 +96,14 @@ FTA / CLEAR
 ASIA WASL - West Asia League
 Astana Vs. Scheduled
 ---FEED-SEPARATOR---
+Europe : ABA League 2
+Podgorica vs Student 
+Eutelsat 7A/7B/7C @ 7.0°E
+12633 - V - 4937
+4:2:0
+ID: YSM-021M
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Eutelsat 7C (7.0 E)
 12727 - Vertical - 7200
 DVB-S2 8PSK -  4.2.2
