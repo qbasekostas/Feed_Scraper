@@ -105,6 +105,20 @@ Name : CRO-023/1
 CW : 6E 67 63 38 B0 6A E0 FA
 ---FEED-SEPARATOR---
 Eutelsat 16A (16.0°E)
+11096 - Horizontal - 4938
+DVB-S2 4:2:0 HD
+Name : BIH007
+FTA / CLEAR
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10838 V 7200
+4:2:0
+ID: BiH-003-2
+Basketball Champions League: 
+Igokea vs Wurzburg
+FTA
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0°E)
 11021 V 7198
 DVB-S2 4:2:0 HD
 ID: KAZ008M
