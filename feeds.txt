@@ -67,3 +67,11 @@ Champions League Women
 Twente W  vs   Atl. Madrid W
 4F 8C 61 DD 79 E2 56 8D  #CW: 
 41 DD 9A B8 FA 84 34 B2
+---FEED-SEPARATOR---
+7E
+11079 H 7200
+4.2.0
+ID: ITA 390
+EuroLeague
+Milano - Hapoel Tel Aviv
+CW: 1F 2E E9 36 BD 14 39 0A
