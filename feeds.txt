@@ -9,6 +9,14 @@ PID:1011h  B8h-Crypt8:53 22 CD 2A 24 C3 3F 40  [E] Count:112
 found CW: 14 C5 64 3D 02 CC 04 D2 
 Search CW done (214 sec.)
 ---FEED-SEPARATOR---
+7E
+11522 V 7120
+4.2.0
+ID: Pitch - Peterborough V Stockport
+Football League One
+Peterborough United F.C. - Stockport County F.C.
+CW: 78 AD 35 5A 67 45 78 24
+---FEED-SEPARATOR---
 xFayez95 said:
 Draws | FIFA World Cup 26™ Play-offs
 20th November 2025, 14:50
