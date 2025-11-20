@@ -20,6 +20,22 @@ CW: C9 5B C1 E5 48 6C F9 AD
 Click to expand...
 ID: SUI-15_3_main
 ---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 4
+Chelsea FC vs Fútbol Club Barcelon
+Eutelsat 7A/7B/7C @ 7.0°E
+10972 - H - 9875
+4:2:2
+ID: UKI1866 M02 Che/Bar Main
+CW: AE F5 8A 2D EB 9C 1C A3
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 4
+Paris Saint-Germain vs FC Bayern München
+Eutelsat 7A/7B/7C @ 7.0°E
+10996 - H - 9875
+4:2:2
+ID: F634/M MATCH 04 PSG/BAYERN
+CW: 4E 63 B6 67 34 F1 E6 0B
+---FEED-SEPARATOR---
 7e
 10961 H 9875
 4:2:2
