@@ -25,6 +25,30 @@ Astra 2E/2F/2G (28.2 E)
 DVB-S2/16APSK (4:2:2)
 BEL119
 ---FEED-SEPARATOR---
+7E
+11189 H 7200
+4.2.0
+ID: ENC 6
+UEFA Women's Champions League
+Oud-Heverlee Leuven - A.S. Roma
+CW: 1E 79 F9 90 1D A9 A4 6A
+---FEED-SEPARATOR---
+7E
+11180 H 7200
+4.2.0
+ID: Seventeen Japan
+UEFA Women's Champions League
+Paris Saint-Germain FC - FC Bayern Munich
+CW: 75 F1 31 97 F5 A5 D2 6C
+---FEED-SEPARATOR---
+7E
+11171 H 7200
+4.2.0
+ID: ENC 8
+UEFA Women's Champions League
+Chelsea F.C. Women - FC Barcelona Femení
+CW: 9C D7 AF 22 CC FD 75 3E
+---FEED-SEPARATOR---
 Event:
 Europe Champions League Women - League phase - Round 4
 Teams :Twente W 
