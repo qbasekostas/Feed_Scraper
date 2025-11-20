@@ -12,14 +12,3 @@ Using PID: 513
 HD 4.2.0
 PID: 201h  B8h-Crypt8:EB B6 AA FE 40 25 99 10  [E] Count:32155
 CW: BF 2D DD C9 2E 74 DA 7C
----FEED-SEPARATOR---
-Asiasat 5 (100.5°E) C BAND
-3933 V 7119
-DVB-S2 - 1080P - 8PSK
-4:2:0
-ID: BT_SES_22_SDI (SES)
-omid1348 said:
-			Football League One
-Peterborough United F.C. - Stockport County F.C.
-CW: 78 AD 35 5A 67 45 78 24
-Click to expand...
