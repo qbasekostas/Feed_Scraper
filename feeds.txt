@@ -20,6 +20,11 @@ CW: C9 5B C1 E5 48 6C F9 AD
 Click to expand...
 ID: SUI-15_3_main
 ---FEED-SEPARATOR---
+Astra 2E/2F/2G (28.2 E)
+12645 Vertical 4998,943 5/6
+DVB-S2/16APSK (4:2:2)
+BEL119
+---FEED-SEPARATOR---
 Event:
 Europe Champions League Women - League phase - Round 4
 Teams :Twente W 
@@ -28,7 +33,7 @@ Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
 12704 V 7200
  ENC 7 (*unnamed-1*)
 MPEG4-
-4:2:2
+4:2:0
  HD 1920x1080 |
 16.016
  Mbit/Sec | 8PSK | DVB-S2 HD
