@@ -8,3 +8,24 @@ HD 4.2.0
 PID:1011h  B8h-Crypt8:53 22 CD 2A 24 C3 3F 40  [E] Count:112
 found CW: 14 C5 64 3D 02 CC 04 D2 
 Search CW done (214 sec.)
+---FEED-SEPARATOR---
+xFayez95 said:
+Draws | FIFA World Cup 26™ Play-offs
+20th November 2025, 14:50
+Eutelsat 7A/7B/7C @ 7.0°E
+10995 - V - 7200
+4:2:0
+ID: SUI-15_4_bkp
+CW: C9 5B C1 E5 48 6C F9 AD
+Click to expand...
+ID: SUI-15_3_main
+---FEED-SEPARATOR---
+7e
+10961 H 9875
+4:2:2
+ID: 
+HOL311 UWCL M1 MAIN
+Champions League Women
+Twente W  vs   Atl. Madrid W
+4F 8C 61 DD 79 E2 56 8D  #CW: 
+41 DD 9A B8 FA 84 34 B2
