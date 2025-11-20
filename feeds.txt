@@ -1,13 +1,17 @@
-Futbol de Colombia
-​
-47,5 W C 
-ID:BUCSAN1 
-TP:3748-V-7500
-Using PID: 4113
+Feed Futbol de Colombia
+47.5W C
+ID: REPEAT 1
+TP:3858-V-6666
+Using PID: 513
 HD 4.2.0
-PID:1011h  B8h-Crypt8:53 22 CD 2A 24 C3 3F 40  [E] Count:112
-found CW: 14 C5 64 3D 02 CC 04 D2 
-Search CW done (214 sec.)
+PID: 201h  B8h-Crypt8:9E 90 13 F5 10 24 81 56  [E] Count:62358
+CW: BD 36 4B 3E 20 BC 8E 6A
+ID:CUNBOC1 
+TP:3850-V-6666
+Using PID: 513
+HD 4.2.0
+PID: 201h  B8h-Crypt8:EB B6 AA FE 40 25 99 10  [E] Count:32155
+CW: BF 2D DD C9 2E 74 DA 7C
 ---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3933 V 7119
@@ -19,107 +23,3 @@ omid1348 said:
 Peterborough United F.C. - Stockport County F.C.
 CW: 78 AD 35 5A 67 45 78 24
 Click to expand...
----FEED-SEPARATOR---
-7E
-11522 V 7120
-4.2.0
-ID: Pitch - Peterborough V Stockport
-Football League One
-Peterborough United F.C. - Stockport County F.C.
-CW: 78 AD 35 5A 67 45 78 24
----FEED-SEPARATOR---
-xFayez95 said:
-Draws | FIFA World Cup 26™ Play-offs
-20th November 2025, 14:50
-Eutelsat 7A/7B/7C @ 7.0°E
-10995 - V - 7200
-4:2:0
-ID: SUI-15_4_bkp
-CW: C9 5B C1 E5 48 6C F9 AD
-Click to expand...
-ID: SUI-15_3_main
----FEED-SEPARATOR---
-Astra 2E/2F/2G (28.2 E)
-12645 Vertical 4998,943 5/6
-DVB-S2/16APSK (4:2:2)
-BEL119
----FEED-SEPARATOR---
-7E
-11189 H 7200
-4.2.0
-ID: ENC 6
-UEFA Women's Champions League
-Oud-Heverlee Leuven - A.S. Roma
-CW: 1E 79 F9 90 1D A9 A4 6A
----FEED-SEPARATOR---
-7E
-11180 H 7200
-4.2.0
-ID: Seventeen Japan
-UEFA Women's Champions League
-Paris Saint-Germain FC - FC Bayern Munich
-CW: 75 F1 31 97 F5 A5 D2 6C
----FEED-SEPARATOR---
-7E
-11171 H 7200
-4.2.0
-ID: ENC 8
-UEFA Women's Champions League
-Chelsea F.C. Women - FC Barcelona Femení
-CW: 9C D7 AF 22 CC FD 75 3E
----FEED-SEPARATOR---
-Event:
-Europe Champions League Women - League phase - Round 4
-Teams :Twente W 
- Atl. Madrid W
-Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
-12704 V 7200
- ENC 7 (*unnamed-1*)
-MPEG4-
-4:2:0
- HD 1920x1080 |
-16.016
- Mbit/Sec | 8PSK | DVB-S2 HD
-CW: 52 5A 01 AD 8A 2A 12 C6
----FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0°E
-10984 - H - 9875
-4:2:2
-UEFA Champions League, Women, League Phase, Round 4
-Oud-Heverlee Leuven vs AS Roma
-ID: BEL095 - UWCL M3 - MAIN
-CW: D3 99 A5 11 76 FA 57 C7
----FEED-SEPARATOR---
-UEFA Champions League, Women, League Phase, Round 4
-Chelsea FC vs Fútbol Club Barcelon
-Eutelsat 7A/7B/7C @ 7.0°E
-10972 - H - 9875
-4:2:2
-ID: UKI1866 M02 Che/Bar Main
-CW: AE F5 8A 2D EB 9C 1C A3
----FEED-SEPARATOR---
-UEFA Champions League, Women, League Phase, Round 4
-Paris Saint-Germain vs FC Bayern München
-Eutelsat 7A/7B/7C @ 7.0°E
-10996 - H - 9875
-4:2:2
-ID: F634/M MATCH 04 PSG/BAYERN
-CW: 4E 63 B6 67 34 F1 E6 0B
----FEED-SEPARATOR---
-7e
-10961 H 9875
-4:2:2
-ID: 
-HOL311 UWCL M1 MAIN
-Champions League Women
-Twente W  vs   Atl. Madrid W
-4F 8C 61 DD 79 E2 56 8D  #CW: 
-41 DD 9A B8 FA 84 34 B2
----FEED-SEPARATOR---
-7E
-11079 H 7200
-4.2.0
-ID: ITA 390
-EuroLeague
-Milano - Hapoel Tel Aviv
-CW: 1F 2E E9 36 BD 14 39 0A
