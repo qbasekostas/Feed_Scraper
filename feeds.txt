@@ -20,6 +20,28 @@ CW: C9 5B C1 E5 48 6C F9 AD
 Click to expand...
 ID: SUI-15_3_main
 ---FEED-SEPARATOR---
+Event:
+Europe Champions League Women - League phase - Round 4
+Teams :Twente W 
+ Atl. Madrid W
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+12704 V 7200
+ ENC 7 (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+16.016
+ Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 52 5A 01 AD 8A 2A 12 C6
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+10984 - H - 9875
+4:2:2
+UEFA Champions League, Women, League Phase, Round 4
+Oud-Heverlee Leuven vs AS Roma
+ID: BEL095 - UWCL M3 - MAIN
+CW: D3 99 A5 11 76 FA 57 C7
+---FEED-SEPARATOR---
 UEFA Champions League, Women, League Phase, Round 4
 Chelsea FC vs Fútbol Club Barcelon
 Eutelsat 7A/7B/7C @ 7.0°E
