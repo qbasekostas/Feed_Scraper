@@ -1,3 +1,12 @@
+Bundesliga 2 _ 
+Round 13
+Bochum vs Dresden
+16.0ºE
+10975  H 3600
+4.2.0 HD
+ID: Fal4 Enc1
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 47W SES14 C 
 3850H6666 
 ID: NACAME
@@ -23,6 +32,30 @@ HD 4.2.0
 PID: 201h  B8h-Crypt8:EB B6 AA FE 40 25 99 10  [E] Count:32155
 CW: BF 2D DD C9 2E 74 DA 7C
 ---FEED-SEPARATOR---
+Spanish La Liga 2 - Matchday 15
+Las Palmas vs. Albacete
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 48 B6 1E 1C 3E D7 B1 C6
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 13
+Valencia vs. Levante
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+vnraw said:
+CW: B3 E1 B7 4B 86 01 76 FD
+Click to expand...
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3840 H 29998
 8PSK 5/6
@@ -32,6 +65,14 @@ CW: B3 E1 B7 4B 86 01 76 FD
   #[E] PID:0F0Bh
 Spanish La Liga - Matchday 13
 Valencia CF vs Levante
+---FEED-SEPARATOR---
+U17 FIFA World Cup, Knockout stage, Quarterfinals
+Morocco U17 vs Brazil U17
+Eutelsat 7A/7B/7C @ 7.0°E
+10960 - V - 7200
+4:2:0
+ID: SAU-44 M
+CW: D1 3F FE 0E AD CD 93 0D
 ---FEED-SEPARATOR---
 WORLD: World Cup U17 - Play Offs
 Austria U17 - Japan U17
