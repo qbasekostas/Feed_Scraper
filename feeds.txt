@@ -113,6 +113,21 @@ ID: SAU- 42 M (Service Provider)
 1920x1080 |16.047Mb/Sec 8PSK |4:2:0 HD
 CW: D1 3F FE 0E AD CD 93 0D
 ---FEED-SEPARATOR---
+TURKEY:  Super Lig
+Mersin SK VS 
+Karsiyaka
+13.0E
+- Name:           TUR156 Main (HDPROTEK)
+- Freq: 12610,667
+- Pol: Vertical
+- SR: 7502,082
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+9E 46 E5 25 BC 53 D5 DD 
+CW: 3D 4D 44 CE 9D C6 2A 8D
+  #[E] PID:0200h
+---FEED-SEPARATOR---
 42e
 11092 V 7500
 4:2:2
