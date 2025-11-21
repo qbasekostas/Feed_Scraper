@@ -147,6 +147,20 @@ HD (1920*1080) 4:2:0
 ID: B 191 DGI
 CSM Oradea - SCM Timisoara
 ---FEED-SEPARATOR---
+WT Manama Final 2025 Pool B  |  Nov 21, 2025​
+​
+Chongming – Hangzhou​
+26.0E
+- Name:           BHR-015 Backup (Service 1)
+- Freq: 11481,298
+- Pol: Vertical
+- SR: 5000,068
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+06 24 74 83 97 A8 8D 5D  
+CW: 99 9F FF 37 44 4C CC 5C
+---FEED-SEPARATOR---
 Euroleague
 Olympiacos BC vs Paris Basketball
 Eutelsat 7B/7C @ 7.0E
@@ -157,7 +171,7 @@ ID: AVP G22 Main
 CW: 4F 9E 9C 89 17 D8 55 44
 ---FEED-SEPARATOR---
 Eutelsat 7A /7C (7.0°E)
-11691 - Horizontal - 7200
+11689 - Horizontal - 7200
 H264/14.0Mb - DVB-S2 8PSK - 4:2:0
 Name : MediaLink CRO-24/1
 ABA League, Round 8
