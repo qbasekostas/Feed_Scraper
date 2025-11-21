@@ -1,3 +1,14 @@
+Eutelsat 7A /7C (7.0°E)
+11021 - Vertical - 9875
+H264/18.36Mbps - DVB-S2 8PSK
+ - 
+4:2:2
+Name : 
+GVA_Fi03
+Bundesliga, Round 11
+FSV Mainz 05 vs TSG Hoffenheim
+CW: C2 CC D0 5E 28 9A BA 7C
+---FEED-SEPARATOR---
 Bundesliga 2 _ 
 Round 13
 Bochum vs Dresden
@@ -81,3 +92,14 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID: SAU- 42 M (Service Provider)
 1920x1080 |16.047Mb/Sec 8PSK |4:2:0 HD
 CW: D1 3F FE 0E AD CD 93 0D
+---FEED-SEPARATOR---
+42e
+11092 V 7500
+4:2:2
+ID: 
+TUR156 Main
+TURKEY:  Super Lig
+Mersin SK
+Karsiyaka
+9E 46 E5 25 BC 53 D5 DD  #CW: 
+3D 4D 44 CE 9D C6 2A 8D
