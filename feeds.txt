@@ -32,3 +32,11 @@ CW: B3 E1 B7 4B 86 01 76 FD
   #[E] PID:0F0Bh
 Spanish La Liga - Matchday 13
 Valencia CF vs Levante
+---FEED-SEPARATOR---
+WORLD: World Cup U17 - Play Offs
+Austria U17 - Japan U17
+Eutelsat 7A/7B/7C @ 7.0E
+10986 V 7199
+ID: SAU- 42 M (Service Provider)
+1920x1080 |16.047Mb/Sec 8PSK |4:2:0 HD
+CW: D1 3F FE 0E AD CD 93 0D
