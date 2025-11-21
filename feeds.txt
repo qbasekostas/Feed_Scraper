@@ -36,6 +36,17 @@ Bochum vs Dresden
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+CONMEBOL Copa Sudamericana - FINAL
+Lanús vs. Atlético Mineiro
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OCC 1
+CW: 12 54 AD 13 E4 23 CB D2
+---FEED-SEPARATOR---
 47W SES14 C 
 3850H6666 
 ID: NACAME
