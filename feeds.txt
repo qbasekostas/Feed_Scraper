@@ -111,6 +111,19 @@ ID: Service01
 Scottish Championship - Week 16
 Queen's Park v Ross County
 ---FEED-SEPARATOR---
+English Championship - Week 16
+Preston N.E. vs. Blackburn Rovers
+Eutelsat 7B/7C @ 7.0°E
+11665 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch - Preston v Blackburn
+Albahraniy said:
+CW: 02 AD 35 E4 65 32 C5 5C
+Click to expand...
+---FEED-SEPARATOR---
 Dani Sat said:
 English Womens FA Cup - 1st Round
 Wolves vs. Stoke City
@@ -245,6 +258,17 @@ Mersin SK
 Karsiyaka
 9E 46 E5 25 BC 53 D5 DD  #CW: 
 3D 4D 44 CE 9D C6 2A 8D
+---FEED-SEPARATOR---
+Albahraniy said:
+			Euroleague
+Eutelsat 7B/7C @ 7.0E
+10969 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: AVP G22 Main
+CW: 4F 9E 9C 89 17 D8 55 44
+Click to expand...
+ Valencia v Crvena Zvezda 
 ---FEED-SEPARATOR---
 ralf111 said:
 			7E
