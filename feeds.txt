@@ -86,6 +86,16 @@ CW: B3 E1 B7 4B 86 01 76 FD
 Spanish La Liga - Matchday 13
 Valencia CF vs Levante
 ---FEED-SEPARATOR---
+28.2E
+12572 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: 
+No name
+CW: A6 8D B8 EB A1 35 AB 81
+English Womens FA Cup - 1st Round
+Wolves vs. Stoke City
+---FEED-SEPARATOR---
 English Womens FA Cup - 1st Round
 Wolves vs. Stoke City
 Intelsat 10-02 @ 1.0°W
@@ -136,6 +146,23 @@ DVBS-2 8PSK FEC 3/4
 HD (1920*1080) 4:2:0
 ID: B 191 DGI
 CSM Oradea - SCM Timisoara
+---FEED-SEPARATOR---
+Euroleague
+Olympiacos BC vs Paris Basketball
+Eutelsat 7B/7C @ 7.0E
+10969 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: AVP G22 Main
+CW: 4F 9E 9C 89 17 D8 55 44
+---FEED-SEPARATOR---
+Eutelsat 7A /7C (7.0°E)
+11691 - Horizontal - 7200
+H264/14.0Mb - DVB-S2 8PSK - 4:2:0
+Name : MediaLink CRO-24/1
+ABA League, Round 8
+KK Split vs KK Krka Novo
+CW: 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 TURKEY:  Super Lig
 Mersin SK VS 
