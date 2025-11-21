@@ -95,6 +95,39 @@ CW: B3 E1 B7 4B 86 01 76 FD
 Spanish La Liga - Matchday 13
 Valencia CF vs Levante
 ---FEED-SEPARATOR---
+16E
+12705 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship - Week 16
+Queen's Park v Ross County
+---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship - Week 16
+Queen's Park v Ross County
+---FEED-SEPARATOR---
+Dani Sat said:
+English Womens FA Cup - 1st Round
+Wolves vs. Stoke City
+Intelsat 10-02 @ 1.0°W
+10969 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 16 B0 C3 89 19 3B A5 F9
+Click to expand...
+Also 
+10984 V 7200 
+4:2:0
+DVBS2 8PSK
+---FEED-SEPARATOR---
 28.2E
 12572 V 7200 
 4.2.0
@@ -212,6 +245,20 @@ Mersin SK
 Karsiyaka
 9E 46 E5 25 BC 53 D5 DD  #CW: 
 3D 4D 44 CE 9D C6 2A 8D
+---FEED-SEPARATOR---
+ralf111 said:
+			7E
+10960 H 7200
+4.2.0
+ID: ita390 m
+EuroLeague
+Virtus Bologna vs Maccabi
+CW : 81 C1 FF 41 C6 3A 8D 8D
+Click to expand...
++
+7e
+11006 H 7200
+ID: i390 sky m
 ---FEED-SEPARATOR---
 7E
 10960 H 7200
