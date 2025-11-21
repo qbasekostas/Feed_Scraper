@@ -77,6 +77,15 @@ CW: B3 E1 B7 4B 86 01 76 FD
 Spanish La Liga - Matchday 13
 Valencia CF vs Levante
 ---FEED-SEPARATOR---
+England Championship
+Preston North End vs Blackburn Rovers
+Asiasat 5 (100.5°E) C BAND
+3983 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI 
+CW: 02 AD 35 E4 65 32 C5 5C
+---FEED-SEPARATOR---
 U17 FIFA World Cup, Knockout stage, Quarterfinals
 Morocco U17 vs Brazil U17
 Eutelsat 7A/7B/7C @ 7.0°E
