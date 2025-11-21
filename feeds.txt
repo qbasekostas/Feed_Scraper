@@ -212,3 +212,11 @@ Mersin SK
 Karsiyaka
 9E 46 E5 25 BC 53 D5 DD  #CW: 
 3D 4D 44 CE 9D C6 2A 8D
+---FEED-SEPARATOR---
+7E
+10960 H 7200
+4.2.0
+ID: ita390 m
+EuroLeague
+Virtus Bologna vs Maccabi
+CW : 81 C1 FF 41 C6 3A 8D 8D
