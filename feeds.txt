@@ -1,3 +1,31 @@
+Eutelsat (16°E)
+11189 H 9875
+4.2.0
+ID: FFBL Freiburg
+Frauen-Bundesliga
+Event: 
+Freiburg vs Jena
+CW: 22 11 DC 0F CA 79 14 57
+---FEED-SEPARATOR---
+SNG69 said:
+			BC 13 20 EF 25 22 11 58
+Click to expand...
+10.0°E
+11260 H 9600
+4:2:2
+ID: ITA555a
+11272 H 9600
+4:2:2
+ID: ita 555
+Serie BKT: Avellino - Empoli
+---FEED-SEPARATOR---
+ITALIAN FOOTBALL SERIE B MD13
+ENTELLA vs PALERMO
+EUT7E DVBS2 H264 4:2:0 HD
+11163 V 7500
+ID: ITA864MAIN 
+BC 13 20 EF 25 22 11 58
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -39,3 +67,11 @@ ID:  OVERON 1
 LaLiga
  Barcelona vs.Athletic Bilbao
 CW: 77 A8 31 50 7F BF 27 65
+---FEED-SEPARATOR---
+42E
+11496 V 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Besiktas - Manisa
+CW: 1D 98 D5 8A 5B 30 1E A9
