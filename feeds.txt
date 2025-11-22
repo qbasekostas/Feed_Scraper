@@ -228,10 +228,26 @@ Albahraniy said:
 CW: A2 45 43 2A 78 BC 35 69
 Click to expand...
 ---FEED-SEPARATOR---
+Eutelsat 7.0 E
+11664 H 7200 -4.2.0
+ID: JOR_001MN
+CW: FTA
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 12523 Horizontal 4798,97 3/4
 DVB-S2/8PSK (4:2:2)
 CZE 039
+---FEED-SEPARATOR---
+10e
+10721 H 7200
+4:2:2
+ID: 
+SELENIO 1
+Italy Lega A
+Trento
+Treviso
+74 E5 A0 64 FC CB D7 2C  #CW: 
+E4 46 F8 22 93 7D E5 F5
 ---FEED-SEPARATOR---
 sahafe said:
 TURKEY: Super Lig
