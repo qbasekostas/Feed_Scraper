@@ -1,3 +1,15 @@
+Bundesliga
+Bayern M vs Friburgo
+47.5W C
+ID:LEUK FI 08
+TP:3896-V-9875
+Using PID: 512
+HD 4.2.0
+PID: 200h  B8h-Crypt8
+E 09 EE 72 04 EF 8C 46  [E] Count:16131
+found CW: 91 0E A6 45 38 34 02 6E
+Search CW done (207 sec.
+---FEED-SEPARATOR---
 Robertooo said:
 			Eutelsat 16A (16.0 E)
 11176 Horizontal 9872,865 3/4
@@ -139,6 +151,14 @@ LaLiga
  Barcelona vs.Athletic Bilbao
 CW: 77 A8 31 50 7F BF 27 65
 ---FEED-SEPARATOR---
+Premier League
+Bournemouth vs West Ham United.
+47.5W C
+ID: PL Pack 6
+TP3818 V 7200
+HD 4.2.2 
+Fta
+---FEED-SEPARATOR---
 salah hadhod said:
 			England: Championship
 Coventry vs West Brom
@@ -171,6 +191,11 @@ ID: Pitch - Birmingham
 Albahraniy said:
 CW: A2 45 43 2A 78 BC 35 69
 Click to expand...
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12523 Horizontal 4798,97 3/4
+DVB-S2/8PSK (4:2:2)
+CZE 039
 ---FEED-SEPARATOR---
 sahafe said:
 TURKEY: Super Lig
