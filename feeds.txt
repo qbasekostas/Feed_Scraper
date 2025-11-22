@@ -1,3 +1,28 @@
+Robertooo said:
+			Eutelsat 16A (16.0 E)
+11176 Horizontal 9872,865 3/4
+DVB-S2/8PSK (4:2:0)
+FFBL Bayer Leverkus
+CW: 22 11 DC 0F CA 79 14 57
+Click to expand...
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+10980 Horizontal 3599,197 5/6
+DVB-S2/8PSK (4:2:0)
+Bundesliga - Round 11
+Fal4 Enc2
+FC Köln vs Eintracht Frankfurt
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+11177 H 9875
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+FFBL Bayern Leverkus
+Germany Bundesliga Women,Round 11
+Bayern Leverkusen W - SGS Essen W (14:00)
+CW: 22 11 DC 0F CA 79 14 57
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3862 V 30001 C-Band
 ID: LEUK_Fi07
@@ -20,20 +45,9 @@ Event:
 Freiburg vs Jena
 CW: 22 11 DC 0F CA 79 14 57
 ---FEED-SEPARATOR---
-omid1348 said:
-			16E
-11128 H 9600
-11140 H 9600
-4.2.2
-Serie B
-ID: ITA396 main / ITA396 Cam1
-Carrarese Calcio 1908 - AC Reggiana 1919
-CW: BC 13 20 EF 25 22 11 58
-Click to expand...
-it looks to me virtus entella - palermo, am I wrong?
----FEED-SEPARATOR---
 16E
 11128 H 9600
+Serie B, Round 13 Virtus Entella vs Palermo
 11140 H 9600
 4.2.2
 Serie B
