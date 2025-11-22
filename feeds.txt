@@ -249,6 +249,15 @@ LaLiga
  Barcelona vs.Athletic Bilbao
 CW: 77 A8 31 50 7F BF 27 65
 ---FEED-SEPARATOR---
+7E
+11162 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: GCUK Enc 8
+Scottish Premiership - Week 13
+St Mirren v Celtic
+Free To Air ATM
+---FEED-SEPARATOR---
 28,2°E
 12704 V 7120
 DVB-S2 8PSK FEC 3/4
