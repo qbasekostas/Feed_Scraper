@@ -76,6 +76,13 @@ lanus (Arg) vs atletico mineiro (Bra)
 E3 68 BA 52 61 9C B8 20
 CW: AB CD 79 F1 53 EC AD EC
 ---FEED-SEPARATOR---
+C_ Eutelsat 10.0°E C-Band
+Italian Serie A  - Week 12
+Fiorentina vs Juventus 
+3895  V 3750
+ID: SERIE A
+CW: 2A 8F C5 7E 29 BF 5B 43
+---FEED-SEPARATOR---
 Serie B, Round 13
 Padova vs Venezia
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -123,6 +130,20 @@ EUT7E DVBS2 H264 4:2:0 HD
 11163 V 7500
 ID: ITA864MAIN 
 BC 13 20 EF 25 22 11 58
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+Fréq:3840 - H - 30001
+MPEG 4 - 4:2:2 - DVB-S2
+ID OVERON 1
++
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+LaLiga
+Villarreal CF vs RCD Mallorca
+found CW: 
+77 A1 E3 FB 09 79 C2 44
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 13
 00:30 | CA Osasuna vs Real Sociedad 
@@ -197,6 +218,13 @@ LaLiga
  Barcelona vs.Athletic Bilbao
 CW: 77 A8 31 50 7F BF 27 65
 ---FEED-SEPARATOR---
+C_ Eutelsat 10.0°E C-Band
+Spanish La Liga (Primera)  - Week 13
+Osasuna vs Real Sociedad
+ 3905 V 3750
+ID: LALIGA
+CW: 2A 8F C5 7E 29 BF 5B 43
+---FEED-SEPARATOR---
 28,2°E
 12704 V 7120
 DVB-S2 8PSK FEC 3/4
@@ -264,6 +292,27 @@ Eutelsat 16A (16.0 E)
 12523 Horizontal 4798,97 3/4
 DVB-S2/8PSK (4:2:2)
 CZE 039
+---FEED-SEPARATOR---
+7E
+11106 H 7200
+4.2.0
+ID: Fi02_ACB
+Liga ACB
+Unicaja - Manresa
+CW: C0 9E A9 07 7F E3 19 7B
+---FEED-SEPARATOR---
+LIGA ENDESA
+Unicaja VS BAXI Manresa
+30.0W
+- Name:           E336 G18 VIA 1 (Service Provider)
+- Freq: 11590,073
+- Pol: Horizontal
+- SR: 9600,081
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+5B DB D6 BC B7 E0 DB 0C  
+CW: A1 6A CC D7 12 3A 11 5D
 ---FEED-SEPARATOR---
 10e
 10721 H 7200
