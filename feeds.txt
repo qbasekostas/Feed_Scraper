@@ -1,0 +1,31 @@
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR RUSIA 1
+LaLiga
+ Barcelona vs Athletic Bilbao
+CW: 6E 9A FB 03 F6 7D AB 1E
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR AFRICA 1
+LaLiga
+ Barcelona vs Athletic Bilbao
+CW: 19 F6 2A 39 0B 43 18 66
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 2
+LaLiga
+LaLiga Deportivo Alaves vs. Celta de Vigo
+CW: 9C FF 0F AA 85 8B AA BA
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 1
+LaLiga
+ Barcelona vs.Athletic Bilbao
+CW: 77 A8 31 50 7F BF 27 65
