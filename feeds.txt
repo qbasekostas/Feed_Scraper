@@ -89,6 +89,70 @@ LaLiga
  Barcelona vs.Athletic Bilbao
 CW: 77 A8 31 50 7F BF 27 65
 ---FEED-SEPARATOR---
+salah hadhod said:
+			England: Championship
+Coventry vs West Brom
+12726 V 7118 - 4.2.0 HD
+ID: pitch Conventry v WBA
+CW: 36 78 25 00 67 23 AD 37
+Click to expand...
+xachik said:
+CW: 63 78 25 00 67 23 AD 37
+Click to expand...
+---FEED-SEPARATOR---
+Championship
+Coventry City vs West Bromwich Albion 
+Asiasat 5 (100.5°E) C BAND
+3906 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI
+CW: 63 78 25 00 67 23 AD 37
+---FEED-SEPARATOR---
+sahafe said:
+TURKEY: Super Lig
+13.0E
+- Name:           TUR 112 MAIN (MEDÄ°APRO TURKEY)
+- Freq: 12601,681
+- Pol: Vertical
+- SR: 7499,863
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+E5 CC 3C 54 C5 03 9D AD 
+CW: F4 E3 86 5D D7 5C CF 02
+Click to expand...
+42E
+11523 V 7500
+4.2.2
+ID: TUR 112 MAIN
+Same
+---FEED-SEPARATOR---
+TURKEY: Super Lig
+13.0E
+- Name:           E333 M (mediapro turkiye)
+- Freq: 12610,860
+- Pol: Vertical
+- SR: 7502,071
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+13 F5 B0 C2 65 D3 2B 1E  
+CW: 1D 98 D5 8A 5B 30 1E A9
+ #[E] PID:0200h
+---FEED-SEPARATOR---
+TURKEY: Super Lig
+13.0E
+- Name:           TUR 112 MAIN (MEDÄ°APRO TURKEY)
+- Freq: 12601,681
+- Pol: Vertical
+- SR: 7499,863
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+E5 CC 3C 54 C5 03 9D AD 
+CW: F4 E3 86 5D D7 5C CF 02
+---FEED-SEPARATOR---
 42E
 11496 V 7500
 4.2.2
