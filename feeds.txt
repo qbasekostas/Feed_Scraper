@@ -45,6 +45,16 @@ Event:
 Freiburg vs Jena
 CW: 22 11 DC 0F CA 79 14 57
 ---FEED-SEPARATOR---
+SNG69 said:
+CW: BC 13 20 EF 25 22 11 58
+Click to expand...
+Serie BKT
+Avellino vs Empoli
+16.0E
+11107 H 7200
+4.2.2 HD
+ID: ITA 609_A
+---FEED-SEPARATOR---
 16E
 11128 H 9600
 Serie B, Round 13 Virtus Entella vs Palermo
@@ -135,6 +145,19 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_22_SDI
 CW: 63 78 25 00 67 23 AD 37
+---FEED-SEPARATOR---
+English Championship - Week 16
+Birmingham City vs. Norwich City
+Eutelsat 7B/7C @ 7.0°E
+12677 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch - Birmingham
+Albahraniy said:
+CW: A2 45 43 2A 78 BC 35 69
+Click to expand...
 ---FEED-SEPARATOR---
 sahafe said:
 TURKEY: Super Lig
