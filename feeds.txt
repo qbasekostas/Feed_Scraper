@@ -66,6 +66,25 @@ Event:
 Freiburg vs Jena
 CW: 22 11 DC 0F CA 79 14 57
 ---FEED-SEPARATOR---
+candu said:
+			Eutelsat 10E
+10768 V 34000 S2
+ID: OCC 3
+BISS Key,please?
+Click to expand...
+lanus (Arg) vs atletico mineiro (Bra)
+E3 68 BA 52 61 9C B8 20
+CW: AB CD 79 F1 53 EC AD EC
+---FEED-SEPARATOR---
+Serie B, Round 13
+Padova vs Venezia
+Eutelsat 7A/7B/7C @ 7.0°E
+12525 - V - 7200
+4:2:0
+Video type(s): H.264/AVC Video, Avg bitrate: 15.71 Mbit/s
+ID: ITA
+CW: BC 13 20 EF 25 22 11 58
+---FEED-SEPARATOR---
 SNG69 said:
 CW: BC 13 20 EF 25 22 11 58
 Click to expand...
