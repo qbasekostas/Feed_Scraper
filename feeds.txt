@@ -1,3 +1,12 @@
+Bundesliga, Round 11
+1. FC Köln vs Eintracht Frankfurt
+Eutelsat 7A/7B/7C @ 7.0°E
+11017 - H - 14400
+4:2:2
+Video type(s): H.264/AVC Video, Avg bitrate: 31.34 Mbit/s
+ID: GVA_Fi05
+CW: CF 6C F7 32 18 7F 8A 21
+---FEED-SEPARATOR---
 Bundesliga
 Bayern M vs Friburgo
 47.5W C
@@ -96,6 +105,24 @@ EUT7E DVBS2 H264 4:2:0 HD
 ID: ITA864MAIN 
 BC 13 20 EF 25 22 11 58
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 13
+00:30 | CA Osasuna vs Real Sociedad 
+- Bangkok Time GMT+7
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: C6 55 EC 07 05 5B 3D 9D
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 H264 4:2:2
+PMT PID: 3860, SID: 44 @ OVERON 2 (Servicios Audiovisuales Overon, S L)
+CW: C6 55 EC 07 05 5B 3D 9D
+   #[E] PID:0F15h
+Spanish La Liga - Matchday 13
+CA Osasuna vs Real Sociedad 
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 3 
@@ -179,6 +206,15 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI
 CW: 63 78 25 00 67 23 AD 37
 ---FEED-SEPARATOR---
+Newcastle United vs Manchester City
+Reporter feed
+Eutelsat 7A/7B/7C @ 7.0°E
+11513 - V - 6666
+4:2:0
+Video type(s): H.264/AVC Video, Avg bitrate: 14.58 Mbit/s
+ID: Newcastle v Man City
+CW: 55 44 DB 74 CC 19 84 69
+---FEED-SEPARATOR---
 English Championship - Week 16
 Birmingham City vs. Norwich City
 Eutelsat 7B/7C @ 7.0°E
@@ -196,6 +232,25 @@ Eutelsat 16A (16.0 E)
 12523 Horizontal 4798,97 3/4
 DVB-S2/8PSK (4:2:2)
 CZE 039
+---FEED-SEPARATOR---
+sahafe said:
+TURKEY: Super Lig
+13.0E
+- Name:           TUR 112 MAIN (MEDÄ°APRO TURKEY)
+- Freq: 12601,681
+- Pol: Vertical
+- SR: 7499,863
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+E5 CC 3C 54 C5 03 9D AD 
+CW: F4 E3 86 5D D7 5C CF 02
+Click to expand...
+NEW KEY
+- Name:           TUR156 Main (HDPROTEK)
+70 14 1F 39 BF 8E 20 8C  
+CW: B3 E7 25 BF 24 43 C4 2B
+   #[E] PID:0200h
 ---FEED-SEPARATOR---
 ABA Liga, Group B, Round 8
 Ilirija vs KK Bosna
