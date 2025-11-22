@@ -66,6 +66,29 @@ Event:
 Freiburg vs Jena
 CW: 22 11 DC 0F CA 79 14 57
 ---FEED-SEPARATOR---
+Final Copa Sudamericana 
+A Mineiro vs Lanus 
+47,5W C 
+ID: TX BU
+Tp:3938 H 7500
+HD 4.2.0 
+CW: 22 25 11 20 53 25 F1 4A 60
+---FEED-SEPARATOR---
+Final Copa Sudamericana
+A Mineiro vs Lanus 
+47.5W C 
+ID: LAN vs MIN POR 
+TP:3924-H-10000
+Using PID: 512
+HD 4.2.2
+ID:LAN vs MIN ESP 
+TP:3912 H 10000 
+Using PID:512
+HD 4.2.2
+PID: 200h  B8h-Crypt8:E3 68 BA 52 61 9C B8 20  [E] Count:78574
+found CW: AB CD 79 F1 53 EC AD EC 
+Search CW done (202 sec.)
+---FEED-SEPARATOR---
 candu said:
 			Eutelsat 10E
 10768 V 34000 S2
@@ -217,13 +240,6 @@ ID:  OVERON 1
 LaLiga
  Barcelona vs.Athletic Bilbao
 CW: 77 A8 31 50 7F BF 27 65
----FEED-SEPARATOR---
-C_ Eutelsat 10.0°E C-Band
-Spanish La Liga (Primera)  - Week 13
-Osasuna vs Real Sociedad
- 3905 V 3750
-ID: LALIGA
-CW: 2A 8F C5 7E 29 BF 5B 43
 ---FEED-SEPARATOR---
 28,2°E
 12704 V 7120
