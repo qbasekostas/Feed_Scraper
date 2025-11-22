@@ -1,3 +1,16 @@
+Asiasat 5 @ 100.5°E
+3862 V 30001 C-Band
+ID: LEUK_Fi07
+(Provider ID: EUROVISION SA)
+MPEG4 | DVB-S2
+1920x1080i |16,63Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: Germany - Bundesliga (Matchday 11)
+Teams: FC Bayern München vs SC Freiburg
+Time / Kickoff: 21.30 JKT-TH / 22.30 MY-SG / 14.30 GMT / 15.30 CET
+CW: 34 76 FD A7 C9 DD 10 B6
+---FEED-SEPARATOR---
 Eutelsat (16°E)
 11189 H 9875
 4.2.0
