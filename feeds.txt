@@ -84,6 +84,19 @@ EUT7E DVBS2 H264 4:2:0 HD
 ID: ITA864MAIN 
 BC 13 20 EF 25 22 11 58
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,97Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 13
+Teams: FC Barcelona vs Athletic Club
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 16.15 CET
+CW: A8 A0 A1 E9 DA 4F 63 8C
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
