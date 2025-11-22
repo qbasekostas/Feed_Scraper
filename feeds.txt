@@ -197,6 +197,15 @@ Eutelsat 16A (16.0 E)
 DVB-S2/8PSK (4:2:2)
 CZE 039
 ---FEED-SEPARATOR---
+ABA Liga, Group B, Round 8
+Ilirija vs KK Bosna
+Eutelsat 7A/7B/7C @ 7.0°E
+11466 - V - 4937
+4:2:0
+Video type(s): H.264/AVC Video, Avg bitrate: 10.76 Mbit/s
+ID: Medialink CRO-025/1
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 sahafe said:
 TURKEY: Super Lig
 13.0E
