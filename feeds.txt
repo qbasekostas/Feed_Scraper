@@ -14,6 +14,11 @@ LaLiga
  Barcelona vs Athletic Bilbao
 CW: 19 F6 2A 39 0B 43 18 66
 ---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+Fréq:3840 - H - 30001
+MPEG 4 - 4:2:2 - DVB-S2
+ID OVERON 2
++
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -22,10 +27,15 @@ LaLiga
 LaLiga Deportivo Alaves vs. Celta de Vigo
 CW: 9C FF 0F AA 85 8B AA BA
 ---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+Fréq:3840 - H - 30001
+MPEG 4 - 4:2:2 - DVB-S2
+ID OVERON 1
++
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
-ID:OVERON 1
+ID:  OVERON 1
 LaLiga
  Barcelona vs.Athletic Bilbao
 CW: 77 A8 31 50 7F BF 27 65
