@@ -7,6 +7,15 @@ Event:
 Freiburg vs Jena
 CW: 22 11 DC 0F CA 79 14 57
 ---FEED-SEPARATOR---
+16E
+11128 H 9600
+11140 H 9600
+4.2.2
+Serie B
+ID: ITA396 main / ITA396 Cam1
+Carrarese Calcio 1908 - AC Reggiana 1919
+CW: BC 13 20 EF 25 22 11 58
+---FEED-SEPARATOR---
 SNG69 said:
 			BC 13 20 EF 25 22 11 58
 Click to expand...
