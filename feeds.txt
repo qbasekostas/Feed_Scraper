@@ -96,6 +96,15 @@ CW: 2F 10 00 3F 8D 1B F0 98
 ID: SUPPONOR RUSIA 1
 CW: 15 4D 56 B8 B4 FD 92 43
 ---FEED-SEPARATOR---
+EFL
+Sheffield Wednesday vs Sheffield United
+AsiaSat 5 100.5E
+3915 H 7119
+8PSK 2/3 DVB-S2 4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+CW: 33 AF 28 0A 74 EE D3 35
+  #[E] PID:07D1h
+---FEED-SEPARATOR---
 Event: 
 EFL Highlights
 Eutelsat 7A/7B/7C @ 7.0°E 
