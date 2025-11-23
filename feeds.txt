@@ -1,7 +1,0 @@
-Primera LPF, Clausura Playoffs, Round of 16
-Rosario Central vs Estudiantes de La Plata 
-Eutelsat 7B/7C @ 7.0E
-11606 - Vertical - 7500
-DVB-S2 - 4.2.0
-Name : AFF
-CW : A5 25 27 F1 41 91 CC 9E
