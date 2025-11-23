@@ -90,6 +90,28 @@ ID: ITA-209 Main
 CW: A5 B1 C3 19 D3 E8 F2 AD
 Serie A Women: Milan - Sassuolo
 ---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 2
+LaLiga 
+Getafe  vsAtletico Madrid
+CW: 50 98 F7 DF 8E 19 7E 25
+---FEED-SEPARATOR---
+00:30 | 
+Getafe vs Atletico Madrid
+ - BKK Time GMT+7
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 4.2.2
+ID: OVERON 2
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 50 98 F7 DF 8E 19 7E 25
+   #[E] PID:0F15h
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10768 - V - 34000 |4:2:2 | H.264
 1920*1080 | DVB-S2 | 8PSK
@@ -160,6 +182,15 @@ ID: OVERON 2
 CW: 2F 10 00 3F 8D 1B F0 98
 ID: SUPPONOR RUSIA 1
 CW: 15 4D 56 B8 B4 FD 92 43
+---FEED-SEPARATOR---
+𝗔𝗯𝗼𝘂𝘁 𝗣𝗥𝗘𝗠𝗜𝗘𝗥 𝗟𝗘𝗔𝗚𝗨𝗘
+𝗔𝗿𝘀𝗲𝗻𝗮𝗹 𝘃𝘀 𝗧𝗼𝘁𝘁𝗲𝗻𝗵𝗮𝗺
+𝟳.𝟬°𝗘
+𝟭𝟮𝟳𝟬𝟰 𝗩 𝟳𝟭𝟮𝟬
+𝟰:𝟮:𝟬
+𝗜𝗗:𝗘𝗡𝗖 𝟰 (𝗦𝗘𝗦)
+CW
+: 𝗙𝗧𝗔
 ---FEED-SEPARATOR---
 28.2E
 12702 V 7120 
