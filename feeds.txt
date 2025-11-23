@@ -65,6 +65,16 @@ RB Leipzig  vs Wolfsburg
 ID: FFBL Leipzig
 CW: 23 11 EF 23 CD 87 17 6B
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+11062 H 9875
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+FFBL Bremen - Koeln
+Provider: Adtec Digital
+Germany Bundesliga Women Round 11
+Werder Bremen W - 1.FC Köln W (18:30)
+CW: 23 11 EF 23 CD 87 17 6B
+---FEED-SEPARATOR---
 hobo232 said:
 			Event: Vélez Sarsfield  VS Argentinos Juniors
 CW: A5 25 27 F1 41 91 CC 9E
@@ -89,6 +99,13 @@ CW: A5 25 27 F1 41 91 CC 9E
 ID: ITA-209 Main
 CW: A5 B1 C3 19 D3 E8 F2 AD
 Serie A Women: Milan - Sassuolo
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3985 V 7500
+PMT PID: 330, SID: 33 @ CHINA+1 (*unnamed-33*)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+06 EE BB ED 84 81 EB F3  #CW:37 8C 50 13 C8 FD 0C D1   
+ Elche vs Real Madrid
 ---FEED-SEPARATOR---
 LaLiga 2
 Málaga vs Mirandés
@@ -405,7 +422,23 @@ AdmiralBet ABA League - Round 8
 Spartak Subotica vs Cedevita Olimpija
 CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
-what signal in db you have 12601v 7200 hotbird in db ?
+Verdeoro said:
+Hot Bird (13°E)
+12610 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: AEK VS ARIS A
+Event: 
+Greek Super League - AEK vs Aris
+CW: 6C A5 BC CD 60 91 65 56
+Click to expand...
+---FEED-SEPARATOR---
+Hot Bird (13°E)
+12610 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: AEK VS ARIS A
+Event: 
+Greek Super League - AEK vs Aris
+CW: 6C A5 BC CD 60 91 65 56
 ---FEED-SEPARATOR---
 Hot Bird (13°E)
 12601 - V - 7200
