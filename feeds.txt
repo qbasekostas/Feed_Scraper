@@ -95,3 +95,20 @@ ID: OVERON 2
 CW: 2F 10 00 3F 8D 1B F0 98
 ID: SUPPONOR RUSIA 1
 CW: 15 4D 56 B8 B4 FD 92 43
+---FEED-SEPARATOR---
+Event: 
+EFL Highlights
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12727 V 7120
+  Pitch - EFL Highlights - Show 13 (NEP Connect)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+E0 2F 43 73 B6 27 D7 A5  
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+42.0°E
+10976 V 7500
+4:2:2
+ID: TUR-161 Main
+CW: E6 C1 E4 8B 1B 5B 48 BE
+Basketbol Süper Ligi: Petkim Spor - Merkezefendi Belediyesi Denizli Basket
