@@ -90,6 +90,36 @@ ID: ITA-209 Main
 CW: A5 B1 C3 19 D3 E8 F2 AD
 Serie A Women: Milan - Sassuolo
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11550 V 19195
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: LIGA HYPERMOTION 1
+CW: E7 FD 10 F4 94 B5 A0 E9
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11550 V 19195
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:SUPPONOR RUSIA 1
+CW: 15 4D 56 B8 B4 FD 92 43
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11550 V 19195
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: SUPPONOR EASTERN 1
+CW: D7 EE 7D 42 00 D1 CC 9D
+---FEED-SEPARATOR---
+LaLiga : Elche v Real Madrid 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+ OVERON 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |12,4 dB | 
+4:2:2
+CW: BA 90 42 8C C8 BD DD 62
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -352,6 +382,8 @@ YSM-021M
 AdmiralBet ABA League - Round 8
 Spartak Subotica vs Cedevita Olimpija
 CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+what signal in db you have 12601v 7200 hotbird in db ?
 ---FEED-SEPARATOR---
 Hot Bird (13°E)
 12601 - V - 7200
