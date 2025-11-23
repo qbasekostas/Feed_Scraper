@@ -1,3 +1,13 @@
+hobo232 said:
+			Event: Vélez Sarsfield  VS Argentinos Juniors
+CW: A5 25 27 F1 41 91 CC 9E
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11690 - H - 7500
+4:2:0
+Video type(s): H.264/AVC Video, Avg bitrate: 18.20 Mbit/s
+ID: AFD
+---FEED-SEPARATOR---
 7E
 11523 V 7500
 DVB-S2 1080HD
@@ -5,6 +15,43 @@ DVB-S2 1080HD
 ID: AFD
 Event: Vélez Sarsfield  VS Argentinos Juniors
 CW: A5 25 27 F1 41 91 CC 9E
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR MENA 1
+CW: F3 9E 98 29 43 DE FF 20   #[E] PID:09C5h
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR MENA 2
+CW: 6A 5E 11 D9 28 48 B7 27   #[E] PID:0A29h
+---FEED-SEPARATOR---
+20:00 | Real Oviedo vs Rayo Vallecano
+ - BKK GMT+7
+Laliga MD13
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 4.2.2
+ID: OVERON 2
+CW: 2F 10 00 3F 8D 1B F0 98   #[E] PID:0F15h
+---FEED-SEPARATOR---
+22:15 | Real Betis vs Girona FC
+ - BKK Time GMT+7
+Laliga MD13
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+AsiaSat 5 100.5E 
+3840 H 29998
+8PSK 5/6 DVB-S2 4.2.2
+ID: OVERON 1
+CW: CE AE FB 77 15 A4 8B 44   #[E] PID:0F0Bh
 ---FEED-SEPARATOR---
 10E
 10732 V 34000
