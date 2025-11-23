@@ -115,6 +115,14 @@ MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 E0 2F 43 73 B6 27 D7 A5  
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+ABA League, Round 8
+Mega Basket vs KBudućnost 
+Eutelsat 7B / Eutelsat 7C 7° E
+12543 - Vertical - 4938
+ DVB-S2 - 8PSK - 4.2.0
+Name : YSM-012 MAIN
+CW: AB BA 20 85 25 20 26 6V
+---FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12594 V  9600
 ID: 
