@@ -16,6 +16,38 @@ ID: AFD
 Event: Vélez Sarsfield  VS Argentinos Juniors
 CW: A5 25 27 F1 41 91 CC 9E
 ---FEED-SEPARATOR---
+vnraw said:
+20:00 | Real Oviedo vs Rayo Vallecano
+ - BKK GMT+7
+Laliga MD13
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 4.2.2
+ID: OVERON 2
+CW: 2F 10 00 3F 8D 1B F0 98   #[E] PID:0F15h
+Click to expand...
+			https://www.sat-universe.com/index.php?threads/spain-football-please-include-4-2-0-or-4-2-2-info-in-your-post.249958/post-2037420843
+---FEED-SEPARATOR---
+vnraw said:
+22:15 | Real Betis vs Girona FC
+ - BKK Time GMT+7
+Laliga MD13
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 4.2.2
+ID: OVERON 1
+CW: CE AE FB 77 15 A4 8B 44   #[E] PID:0F0Bh
+Click to expand...
+			https://www.sat-universe.com/index.php?threads/spain-football-please-include-4-2-0-or-4-2-2-info-in-your-post.249958/post-2037420843
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
 1920*1080 | DVB-S2 | 8PSK
