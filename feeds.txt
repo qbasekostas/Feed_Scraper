@@ -345,6 +345,14 @@ ID: TUR-161 Main
 CW: E6 C1 E4 8B 1B 5B 48 BE
 Basketbol Süper Ligi: Petkim Spor - Merkezefendi Belediyesi Denizli Basket
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12508 Horizontal 4936,257 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-021M
+AdmiralBet ABA League - Round 8
+Spartak Subotica vs Cedevita Olimpija
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Greek Super League 1
 Panseraikos
  Vs 
