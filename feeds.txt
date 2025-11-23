@@ -90,6 +90,8 @@ ID: ITA-209 Main
 CW: A5 B1 C3 19 D3 E8 F2 AD
 Serie A Women: Milan - Sassuolo
 ---FEED-SEPARATOR---
+LaLiga 2
+Málaga vs Mirandés
 Eutelsat 7B/7C @ 7.0E
 11550 V 19195
 DVB-S2 - 1080P - 8PSK
@@ -97,6 +99,8 @@ DVB-S2 - 1080P - 8PSK
 ID: LIGA HYPERMOTION 1
 CW: E7 FD 10 F4 94 B5 A0 E9
 ---FEED-SEPARATOR---
+LaLiga
+Elche vs Real Madrid
 Eutelsat 7B/7C @ 7.0E
 11550 V 19195
 DVB-S2 - 1080P - 8PSK
@@ -104,6 +108,8 @@ DVB-S2 - 1080P - 8PSK
 ID:SUPPONOR RUSIA 1
 CW: 15 4D 56 B8 B4 FD 92 43
 ---FEED-SEPARATOR---
+LaLiga
+Elche vs Real Madrid
 Eutelsat 7B/7C @ 7.0E
 11550 V 19195
 DVB-S2 - 1080P - 8PSK
@@ -374,6 +380,22 @@ CW: 15 58 35 A2 71 42 63 16
 ID: TUR-161 Main
 CW: E6 C1 E4 8B 1B 5B 48 BE
 Basketbol Süper Ligi: Petkim Spor - Merkezefendi Belediyesi Denizli Basket
+---FEED-SEPARATOR---
+7E
+11106 H 7200
+4.2.0
+ID: Fi02-ACB
+Liga ACB
+Gran Canaria - Barcelona
+CW: 83 1F 0F B1 D2 6D 0C 4B
+---FEED-SEPARATOR---
+10E
+10721 H 7200
+4.2.2
+ID: SELENIO 3
+Lega Basket Serie A
+Cantu - Virtus Bologna
+CW: DF 42 7F A0 5C CD C2 EB
 ---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 12508 Horizontal 4936,257 3/4
