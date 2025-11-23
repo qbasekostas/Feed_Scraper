@@ -90,6 +90,18 @@ ID: ITA-209 Main
 CW: A5 B1 C3 19 D3 E8 F2 AD
 Serie A Women: Milan - Sassuolo
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: C694409A68BECAF0
+ID: SUPPONOR RUSIA 2
+CW: 0F3977BF249D4B0C
+ID: SUPPONOR EASTERN 2
+found CW: C6 32 6D 65 63 73 4E 24 
+ID: SUPPONOR AFRICA 2
+CW: A9 5F B8 C0 A6 35 72 4D   #[E] PID:0899h
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3975 V 7500
 PMT PID: 340, SID: 34 @ CHINA+2 (*unnamed-34*)
@@ -265,6 +277,13 @@ HD (1920*1080) 4:2:0
 ID: E-266 8MM Via1
 Liga Femenia
 Estudiantes - Uni Girona
+---FEED-SEPARATOR---
+10.0°E
+10721 H 7200
+4:2:2
+ID: SELENIO 2
+CW: 44 FD 72 B3 59 D2 8B B6
+LBA: Pallacanestro Trieste - EA7 Emporio Armani Milano
 ---FEED-SEPARATOR---
 omid1348 said:
 			Basketbol Süper Ligi
