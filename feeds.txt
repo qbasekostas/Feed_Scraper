@@ -110,6 +110,17 @@ Eutelsat 7B / 7C (7°E)
 12677 - Vertical - 7120
 Name : Pitch EFL - Sheffield Wedn
 ---FEED-SEPARATOR---
+ABS-3A 3W
+11010 V 10000 
+4:2:0
+DVBS-2 8PSK
+ID: UKI-1798 Sheff Wed v Sheff Utd
+CW: A5 C4 1A 83 BC 11 24 F1
+English Championship - Week 16
+Sheffield Wednesday
+ v 
+Sheffield United
+---FEED-SEPARATOR---
 vnraw said:
 			EFL
 Sheffield Wednesday vs Sheffield United
@@ -144,6 +155,22 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 E0 2F 43 73 B6 27 D7 A5  
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+28,2°E
+12693 & 12705 V 9600
+DVB-S2 8PSK FEC 3/4
+HD (1920*1080) 4:2:0
+ID: AVP 1080P LINEUP 1&2
+Andorra - 
+ Juventut
+---FEED-SEPARATOR---
+28,2°E
+12511 H 7200
+DVB-S2 8PSK FEC 2/3
+HD (1920*1080) 4:2:0
+ID: E-266 8MM Via1
+Liga Femenia
+Estudiantes - Uni Girona
 ---FEED-SEPARATOR---
 ABA League, Round 8
 Mega Basket vs KBudućnost 
