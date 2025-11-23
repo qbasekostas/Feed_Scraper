@@ -1,24 +1,46 @@
-Albahraniy said:
-			Germany Bundesliga
-RB Leipzig vs SV Werder Bremen
-Eutelsat 7B/7C @ 7.0E
-12542 V 7200
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID:RB Salzburg-WSG Tir
-CW: 23 11 CE 02 AD 85 47 79
-Click to expand...
-Austrian Bundesliga - Week 14
-Salzburg v WSG Tirol
+Event :Germany Bundesliga - Round 11
+Teams :St. Pauli 
+ Union Berlin
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11009 H 9875
+   GVA_Fi04 (EUROVISION SA)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+22.396 
+ Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: 97 34 C9 94 FC 98 D9 6D
 ---FEED-SEPARATOR---
-Germany Bundesliga
-RB Leipzig vs SV Werder Bremen
-Eutelsat 7B/7C @ 7.0E
-12542 V 7200
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID:RB Salzburg-WSG Tir
-CW: 23 11 CE 02 AD 85 47 79
+Eutelsat 16A (16.0E)
+11062 H 9875
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+FFBL Hoffenheim-FCB
+Provider: Adtec Digital
+Germany Bundesliga Women Round 11
+TSG Hoffenheim W - FC Bayern München W (15:30)
+CW: 23 11 EF 23 CD 87 17 6B
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event :
+Germany Bundesliga - Round 11
+Teams :RB Leipzig 
+ Werder Bremen
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11020 H 9875
+   GVA_Fi03 (EUROVISION SA)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+22.396 
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: C9 70 6A A3 10 84 8C 20
+Click to expand...
+NEW
+CW: D1 84 33 88 CA 8D A5 FC
 ---FEED-SEPARATOR---
 Event :
 Germany Bundesliga - Round 11
