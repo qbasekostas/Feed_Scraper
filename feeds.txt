@@ -61,6 +61,14 @@ ID: AFD
 Event: Vélez Sarsfield  VS Argentinos Juniors
 CW: A5 25 27 F1 41 91 CC 9E
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7500
+PMT PID: 340, SID: 34 @ CHINA+2 (*unnamed-34*)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+44 95 F3 1F 8D EE 36 9E  #CW:59 DC 83 B8 BC B3 6A D9
+Now : Real Oviedo vs Rayo Vallecano
+Next : Getafe vs Atletico Madrid
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E 
 3840 H 29998
 8PSK 5/6 DVB-S2 4.2.2
@@ -163,6 +171,17 @@ Sheffield Wednesday VS  Sheffield United
 Eutelsat 7B / 7C (7°E)
 12677 - Vertical - 7120
 Name : Pitch EFL - Sheffield Wedn
+---FEED-SEPARATOR---
+Scottish Premiership - Week 13
+Aberdeen vs. Hearts
+Eutelsat 7B/7C @ 7.0°E
+11190 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 15
+CW: A2 44 AB 91 AA D6 61 E1
 ---FEED-SEPARATOR---
 ABS-3A 3W
 11010 V 10000 
