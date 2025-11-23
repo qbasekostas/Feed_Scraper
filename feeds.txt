@@ -269,6 +269,32 @@ ID: E-266 8MM Via1
 Liga Femenia
 Estudiantes - Uni Girona
 ---FEED-SEPARATOR---
+Liga ACB
+Basket Zaragoza vs La Laguna Tenerife
+Eutelsat 7B/7C @ 7.0E
+11107 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Fi02_ACB
+CW: 83 1F 0F B1 D2 6D 0C 4B
+---FEED-SEPARATOR---
+42E
+11109 V 7500
+4.2.2
+ID: TUR 112 MAIN
+Basketbol Süper Ligi
+Fenerbahce - Bursaspor
+CW: 2B A7 E1 B3 7B 67 2F 11
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 9
+Tofaş Bursa vs Anadolu Efes
+Eutelsat 7A/7B/7C @ 7.0°E
+11497 - H - 7499
+4:2:2
+Video type(s): H.264/AVC Video, Avg bitrate: 5.36 Mbit/s
+ID: TUR156 Main
+CW: 89 23 12 BE 7D 53 E8 B8
+---FEED-SEPARATOR---
 10.0°E
 10721 H 7200
 4:2:2
