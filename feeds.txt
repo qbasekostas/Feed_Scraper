@@ -353,6 +353,15 @@ AdmiralBet ABA League - Round 8
 Spartak Subotica vs Cedevita Olimpija
 CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
+Hot Bird (13°E)
+12601 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: SNG ABC 1
+Event: 
+Greek
+Super League - Paok vs Kīfisias
+CW: 5D 83 7F 5F 12 31 56 99
+---FEED-SEPARATOR---
 Greek Super League 1
 Panseraikos
  Vs 
