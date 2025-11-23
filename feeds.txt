@@ -121,22 +121,6 @@ Sheffield Wednesday
  v 
 Sheffield United
 ---FEED-SEPARATOR---
-vnraw said:
-			EFL
-Sheffield Wednesday vs Sheffield United
-AsiaSat 5 100.5E
-3915 H 7119
-8PSK 2/3 DVB-S2 4.2.0
-PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
-CW: 33 AF 28 0A 74 EE D3 35
-  #[E] PID:07D1h
-Click to expand...
-English Championship - Week 16
-Sheffield Wednesday v Sheffield United
-Eutelsat 7A-7B 7.0E - 12677 Vertical 7120 4.2.0
-ID: Pitch EFL - Sheffield Wednesday v Sheffield Utd (NEP Connect)
-Same key
----FEED-SEPARATOR---
 EFL
 Sheffield Wednesday vs Sheffield United
 AsiaSat 5 100.5E
@@ -171,6 +155,14 @@ HD (1920*1080) 4:2:0
 ID: E-266 8MM Via1
 Liga Femenia
 Estudiantes - Uni Girona
+---FEED-SEPARATOR---
+42E
+11523 V 7500
+4.2.2
+ID: E33 M
+Basketbol Süper Ligi
+Galatasaray - Esenler
+CW: ED CA F3 AA C3 B1 5A CE
 ---FEED-SEPARATOR---
 ABA League, Round 8
 Mega Basket vs KBudućnost 
