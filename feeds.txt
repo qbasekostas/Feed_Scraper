@@ -1,4 +1,13 @@
 Argentina, Primera LPF, Clausura Playoffs, Round of 16
+Racing Club vs River Plate
+Eutelsat 7A/7B/7C @ 7.0°E
+11691 - H - 7499
+4:2:0
+Video type(s): H.264/AVC Video, Avg bitrate: 17.37 Mbit/s
+ID: AFD
+CW: A5 25 27 F1 41 91 CC 9E
+---FEED-SEPARATOR---
+Argentina, Primera LPF, Clausura Playoffs, Round of 16
 Deportivo Riestra vs Barracas Central
 Eutelsat 7A/7B/7C @ 7.0°E
 11521 - V - 7499
