@@ -48,7 +48,16 @@ DVB S2 - 8PSK - 4.2.0
 Name : SAU-42 M
 CW : D1 4F 39 59 E6 8F 5E D3
 ---FEED-SEPARATOR---
-UEFA CHAMPIONS LIGA 
+7E
+12685 H 7200
+4.2.0
+ID: UKI-1955-1
+UEFA Champions League press Conference
+CW: 20 25 6C B1 14 D2 53 39
+---FEED-SEPARATOR---
+UEFA CHAMPIONS LEAGUE Press Conference
+Tuesday November 25th 2025
+Slavia Prage vs Athletic Bilbao
 EUTELSAT 7E
 11552 V 7200.  4:2:0
 Id: FEED PRAGA
