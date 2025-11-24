@@ -1,3 +1,12 @@
+Segunda Division
+Real Sociedad B vs Real Valladolid CF
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:0
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 44 A9 27 14 52 E4 EB 21
+   #[E] PID:04BBh
+---FEED-SEPARATOR---
 Laliga MD 13
 RCD Espanyol vs Sevilla FC
 AsiaSat 5 100.5E
