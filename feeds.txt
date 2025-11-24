@@ -19,3 +19,11 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 5D DB C1 F9 C5 EA 68 17
    #[E] PID:0F0Bh
+---FEED-SEPARATOR---
+U17 FIFA World Cup, Semifinals
+Austria VS  Italy 
+Eutelsat 7B/7C ( 7.0E)
+10996 - Vertical - 7200
+DVB S2 - 8PSK - 4.2.0
+Name : SAU-42 M
+CW : D1 4F 39 59 E6 8F 5E D3
