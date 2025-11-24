@@ -17,13 +17,6 @@ Event:
 Livorno vs Torres
 CW: FA 86 1C 9C 7C 9D 03 1C
 ---FEED-SEPARATOR---
-La liga, Round 13
-Sevilla vs Espanyol 
-C_Eutelsat 10°E Cband 
-3905 V 3750
-ID: LA Liga
-CW: 2A 8F C6 7E 29 BF 5B 43
----FEED-SEPARATOR---
 Segunda Division
 Real Sociedad B vs Real Valladolid CF
 Eutelsat 10B @ 10.0°E
