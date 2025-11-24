@@ -48,11 +48,19 @@ DVB S2 - 8PSK - 4.2.0
 Name : SAU-42 M
 CW : D1 4F 39 59 E6 8F 5E D3
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12563 - H - 7199
+4:2:0
+Video type(s): H.264/AVC Video, Avg bitrate: 15.46 Mbit/s
+ID: E 340 Feed C BVB ViL Rueda Prensa
+CW: AB DC 74 FB 32 CD BA B9
+---FEED-SEPARATOR---
 7E
 12685 H 7200
 4.2.0
 ID: UKI-1955-1
 UEFA Champions League press Conference
+Chelsea F.C. - FC Barcelona
 CW: 20 25 6C B1 14 D2 53 39
 ---FEED-SEPARATOR---
 UEFA CHAMPIONS LEAGUE Press Conference
@@ -62,3 +70,11 @@ EUTELSAT 7E
 11552 V 7200.  4:2:0
 Id: FEED PRAGA
 CW: BB 43 12 10 21 34 BB 10
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12554 H 4937
+DVB-S2/8PSK (4:2:0)
+Ident: YSM-016 MAIN
+Event: 
+AdmiralBet ABA League - Borak vs Igokea
+CW: AB BA 20 85 25 20 26 6B
