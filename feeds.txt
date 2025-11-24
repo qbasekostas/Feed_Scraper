@@ -1,3 +1,12 @@
+Argentina, Primera LPF, Clausura Playoffs, Round of 16
+Deportivo Riestra vs Barracas Central
+Eutelsat 7A/7B/7C @ 7.0°E
+11521 - V - 7499
+4:2:0
+Video type(s): H.264/AVC Video, Avg bitrate: 17.67 Mbit/s
+ID: AFD
+CW: A5 25 27 F1 41 91 CC 9E
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 11124 V 7200
 DVB-S2/8PSK (4:2:0)
@@ -7,6 +16,13 @@ Serie C Group B
 Event: 
 Livorno vs Torres
 CW: FA 86 1C 9C 7C 9D 03 1C
+---FEED-SEPARATOR---
+La liga, Round 13
+Sevilla vs Espanyol 
+C_Eutelsat 10°E Cband 
+3905 V 3750
+ID: LA Liga
+CW: 2A 8F C6 7E 29 BF 5B 43
 ---FEED-SEPARATOR---
 Segunda Division
 Real Sociedad B vs Real Valladolid CF
