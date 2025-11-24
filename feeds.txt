@@ -20,6 +20,16 @@ ID: OVERON 1
 CW: 5D DB C1 F9 C5 EA 68 17
    #[E] PID:0F0Bh
 ---FEED-SEPARATOR---
+Event:WorldWorld Cup U17 - Play Offs - Semi-finals
+Teams  Portugal U17
+ Brazil U17
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10986 V 7200
+   SAU-44 B (Service Provider)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: D1 4F 39 59 E6 8F 5E D3
+---FEED-SEPARATOR---
 U17 FIFA World Cup, Semifinals
 Austria VS  Italy 
 Eutelsat 7B/7C ( 7.0E)
