@@ -1,3 +1,21 @@
+Italian Serie A - Week 12
+ Torino v Como 
+ ST: 18:30
+EUTELSAT 10 E cband 
+3900 V 3750    4:2:0
+Id: Serie A
+CW: 2A 8F C5 7E 29 BF 5B 43
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+11124 V 7200
+DVB-S2/8PSK (4:2:0)
+ID:
+ SERIE_C_LIV_TOR_MN
+Serie C Group B
+Event: 
+Livorno vs Torres
+CW: FA 86 1C 9C 7C 9D 03 1C
+---FEED-SEPARATOR---
 Segunda Division
 Real Sociedad B vs Real Valladolid CF
 Eutelsat 10B @ 10.0°E
@@ -37,3 +55,9 @@ Eutelsat 7B/7C ( 7.0E)
 DVB S2 - 8PSK - 4.2.0
 Name : SAU-42 M
 CW : D1 4F 39 59 E6 8F 5E D3
+---FEED-SEPARATOR---
+UEFA CHAMPIONS LIGA 
+EUTELSAT 7E
+11552 V 7200.  4:2:0
+Id: FEED PRAGA
+CW: BB 43 12 10 21 34 BB 10
