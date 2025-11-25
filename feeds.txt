@@ -102,6 +102,15 @@ ID: EBU HEVC OU 1
  - HEVC - DVB-S2x
 CW: EA 22 62 6E 05 9A 13 B2
 ---FEED-SEPARATOR---
+Euroleague
+Hapoel Tel-Aviv vs Real Madrid 
+Eutelsat 7B/7C @ 7.0E
+11096  V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BUL007 EL M3 Main
+CW: 58 2E 58 DE 31 A7 7C 54
+---FEED-SEPARATOR---
 Euro league , Round 18 
 BS Dubai VS Paris 
 Eutelsat 7B/7C ( 7.0E)
