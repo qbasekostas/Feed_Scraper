@@ -23,6 +23,30 @@ Kuwait vs Mauritania
 ID: QAT37 M
 CW: AB 20 25 F0 CD 20 25 12
 ---FEED-SEPARATOR---
+7E
+11514 V 6666
+4.2.0
+ID: Bein UCL Chelsea
+UEFA Champions League
+About
+Chelsea F.C. - FC Barcelona
+CW: A4 D2 CA 40 2E A3 3A 0B
+---FEED-SEPARATOR---
+Acherf said:
+UEFA CHAMPIONS LEAGUE Press Conference
+Tuesday November 25th 2025
+Slavia Prage vs Athletic Bilbao
+EUTELSAT 7E
+11552 V 7200.  4:2:0
+Id: FEED PRAGA
+CW: BB 43 12 10 21 34 BB 10
+Click to expand...
+7E
+11543 V 7200
+4.2.0
+ID: FEED C PRAGA
+Same
+---FEED-SEPARATOR---
 UEFA Youth league
 Galatasaray VS USG
 Eutelsat 7B/7C ( 7.0E)
