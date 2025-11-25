@@ -23,6 +23,13 @@ Kuwait vs Mauritania
 ID: QAT37 M
 CW: AB 20 25 F0 CD 20 25 12
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:10998 - V - 9874
+MPEG 4 - 4:2:2 - DVB-S2
+ID: UCL IHL
+UEFA Champions League
+Multiplex & Highlights
+---FEED-SEPARATOR---
 7E
 11514 V 6666
 4.2.0
