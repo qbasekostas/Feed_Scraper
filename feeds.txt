@@ -105,6 +105,14 @@ ID: EBU HEVC OU 1
  - HEVC - DVB-S2x
 CW: EA 22 62 6E 05 9A 13 B2
 ---FEED-SEPARATOR---
+Euroleague, Round 13
+Valencia Basket vs Bayern München
+Eutelsat 7A/7B/7C @ 7.0°E
+12554 - H - 7199
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.54 Mbit/s
+ID: AVP G22 Main
+CW: B5 B5 9D 07 35 32 68 CF
+---FEED-SEPARATOR---
 Euroleague
 Hapoel Tel-Aviv vs Real Madrid 
 Eutelsat 7B/7C @ 7.0E
