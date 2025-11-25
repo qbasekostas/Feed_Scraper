@@ -15,3 +15,11 @@ DVB S2 - 8PSK -
 4.2.2
 Name : TKS.TRT .M22-A
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Euro league , Round 18 
+BS Dubai VS Paris 
+Eutelsat 7B/7C ( 7.0E)
+11107 - Vertical - 7200
+DVB-S2 - 4.2.0
+Name : UAE74 - 1 
+CW : 1F C9 B7 9F 52 C7 52 6B
