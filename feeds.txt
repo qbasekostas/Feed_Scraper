@@ -1,3 +1,11 @@
+England Championship, Round 17
+Asiasat 5 (100.5°E) C BAND
+3915 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_24_SDI (SES)
+CW: 26 77 FA 97 D3 56 74 9D
+---FEED-SEPARATOR---
 Arab Cup Qualifying
 Palestine VS Libya 
 Badr-8 (26°E)
@@ -29,6 +37,13 @@ MPEG 4 - 4:2:2 - DVB-S2
 ID: UCL IHL
 UEFA Champions League
 Multiplex & Highlights
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12574 H SR 7200
+ID: E-73 FEED D
+4.2.0
+- DVB-S2 - 8PSK
+FTA
 ---FEED-SEPARATOR---
 7E
 11514 V 6666
@@ -62,6 +77,16 @@ DVB S2 - 8PSK -
 4.2.2
 Name : TKS.TRT .M22-A
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+12563 - H - 7199
+4:2:0
+Video type(s): H.264/AVC Video, Avg bitrate: 15.46 Mbit/s
+ID: E 340 Feed C BVB ViL Rueda Prensa
+CW: AB DC 74 FB 32 CD BA B9
+Click to expand...
+Active right now
 ---FEED-SEPARATOR---
 7E
 10997 V 9875
