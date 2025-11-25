@@ -1,0 +1,7 @@
+UEFA Youth league 
+Galatasaray VS USG 
+Eutelsat 7B/7C ( 7.0E)
+12704 - Vertical - 7200
+DVB S2 - 8PSK - 4.2.2
+Name : TKS.TRT .M22-A
+CW : 4E 5B 29 D2 6D D4 6A AB
