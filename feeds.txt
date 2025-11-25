@@ -78,6 +78,14 @@ DVB S2 - 8PSK -
 Name : TKS.TRT .M22-A
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
+FTX said:
+			Active right now
+Click to expand...
+Event:
+Europe Champions League - League phase - Round 5
+Teams : Dortmund  
+ Villarreal
+---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
 12563 - H - 7199
