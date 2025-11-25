@@ -78,23 +78,18 @@ DVB S2 - 8PSK -
 Name : TKS.TRT .M22-A
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
-FTX said:
-			Active right now
+krzyś1 said:
+			Eutelsat 7B / Eutelsat 7C  7° E
+12574 H SR 7200
+ID: E-340 Feed D BVB ViL Previa Redactor
 Click to expand...
-Event:
-Europe Champions League - League phase - Round 5
-Teams : Dortmund  
- Villarreal
----FEED-SEPARATOR---
-xFayez95 said:
-Eutelsat 7A/7B/7C @ 7.0°E
-12563 - H - 7199
-4:2:0
-Video type(s): H.264/AVC Video, Avg bitrate: 15.46 Mbit/s
-ID: E 340 Feed C BVB ViL Rueda Prensa
+krzyś1 said:
+4.2.2
+- DVB-S2 - 8PSK
+Click to expand...
+Event: 
+Borussia Dortmund v Villarreal
 CW: AB DC 74 FB 32 CD BA B9
-Click to expand...
-Active right now
 ---FEED-SEPARATOR---
 7E
 10997 V 9875
