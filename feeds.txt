@@ -10,7 +10,7 @@ CW: AB 20 25 F0 CD 20 25 12
 UEFA Youth league
 Galatasaray VS USG
 Eutelsat 7B/7C ( 7.0E)
-12704 - Vertical - 7200
+12704 - Vertical - 7000
 DVB S2 - 8PSK - 
 4.2.2
 Name : TKS.TRT .M22-A
