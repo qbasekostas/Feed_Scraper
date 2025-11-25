@@ -1,3 +1,12 @@
+FIFA
+ .Arab Cup Qualifiers 2026.QATER
+Kuwait vs Mauritania
+26.E
+11573 V 7500
+4.2.0 HD
+ID: QAT37 M
+CW: AB 20 25 F0 CD 20 25 12
+---FEED-SEPARATOR---
 UEFA Youth league
 Galatasaray VS USG
 Eutelsat 7B/7C ( 7.0E)
