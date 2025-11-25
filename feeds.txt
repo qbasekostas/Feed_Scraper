@@ -1,3 +1,19 @@
+Arab Cup Qualifying
+Palestine VS Libya 
+Badr-8 (26°E)
+11630 - Horizontal - 7500
+DVB-S2 - 4.2.0
+Name : SNG 1 M PLA LBY
+CW : AC 20 25 F1 CE D2 02 A2
+---FEED-SEPARATOR---
+Arab Cup Qualifying
+Syria VS South Sudan
+Badr-8  (26°E)
+11582 - Vertical - 7500
+DVB-S2 - 4.2.0
+Name : QAT 039 MAIN
+CW : AB DE 20 A9 25 CD E2 D4
+---FEED-SEPARATOR---
 FIFA
  .Arab Cup Qualifiers 2026.QATER
 Kuwait vs Mauritania
