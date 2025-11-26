@@ -1,3 +1,21 @@
+FIFA .Arab Cup Qualifiers 2026.QATER
+SUDAN VS Lebanon
+26.0E
+11111 H 7500
+4.2.0 HD
+ID:SNG1 M SDN LBN
+CW: AB 20 25 F0 CD 20 25 12
+---FEED-SEPARATOR---
+A.ElSadek said:
+			Badr-8 (26°E)
+11630 - Horizontal - 7500
+DVB-S2 - 4.2.0
+Click to expand...
+Arab Cup Qualifying
+Yemen VS Comoros 
+Name : QAT 039 MAIN
+CW: AB DE 20 A9 25 CD E2 D4
+---FEED-SEPARATOR---
 Arab Cup Qualifying
 Oman VS Somalia 
 Badr-8 (26°E)
@@ -22,7 +40,7 @@ DVB-S2 - 4.2.0 - Name :  E-228 Main
 CW : BB 11 62 2E 05 F5 BA B4
 ---FEED-SEPARATOR---
 UEFA Champions League - Matchday 5
-Arsenal vs. Bayern Munich
+Liverpool vs. PSV Eindhoven
 Intelsat 10-02 @ 1.0°W
 11463 - V - 7200 
 |
