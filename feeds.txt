@@ -1,3 +1,19 @@
+Arab Cup Qualifying
+Oman VS Somalia 
+Badr-8 (26°E)
+11577 - Vertical - 15000
+DVB-S2 - 4.2.0
+Name : Service  
+CW : AC 20 25 F1 CE D2 02 A2
+---FEED-SEPARATOR---
+Arab Cup Qualifying
+Bahrain VS Djibouti 
+Badr-8 (26°E)
+11577 - Vertical - 15000
+DVB-S2 - 4.2.0
+Name : Qata073 M 
+CW : AC 20 25 F1 CE D2 02 A2
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11542 - V - 7200
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.29 Mbit/s
