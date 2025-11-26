@@ -14,6 +14,24 @@ DVB-S2 - 4.2.0
 Name : Qata073 M 
 CW : AC 22 2E FC F2 02 5A 4E
 ---FEED-SEPARATOR---
+UEFA Youth league , Round 3 two legs
+Porto VS Real Betis
+Eutelsat 7B/7C ( 7.0E)
+11693 - Horizontal - 7200
+DVB-S2 - 4.2.0 - Name :  E-228 Main 
+CW : BB 11 62 2E 05 F5 BA B4
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 5
+Arsenal vs. Bayern Munich
+Intelsat 10-02 @ 1.0°W
+11463 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: C4 F9 F1 AE 96 B5 E8 33
+---FEED-SEPARATOR---
 candu said:
 			Eutelsat 10E
 11303 V 7200 S2
@@ -30,3 +48,12 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: E 413 YOUTH AT DE MADRID
 UEFA YOUTH League: Atlético Madrid U-19 vs. Inter Milan U-19
 CW: AB BD 54 BC 5A CB BA DF
+---FEED-SEPARATOR---
+World Cup Qualifying 
+Game Day 1 , Group C  - FIBAWC 
+Tomorrow 27 Nov 2025
+IRAN VS IRAQ 
+Eutelsat 7B/7C ( 7.0E)
+12635 -  Vertical- 7200
+DVB-S2 - 4.2.0 - Name : LBN 030 main
+CW : 96 09 7E 1D 01 21 01 23 
