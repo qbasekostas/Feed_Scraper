@@ -1,0 +1,8 @@
+Eutelsat 7A/7B/7C @ 7.0°E
+11017 - H - 14400
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 10.41 Mbit/s
+ID: Fi14_GNVE
+Bundesliga Germany Weekly Highlights
+CW: 68 94 00 FC C5 75 67 A1
