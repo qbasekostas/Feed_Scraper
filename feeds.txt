@@ -102,6 +102,14 @@ ID: E 413 YOUTH AT DE MADRID
 UEFA YOUTH League: Atlético Madrid U-19 vs. Inter Milan U-19
 CW: AB BD 54 BC 5A CB BA DF
 ---FEED-SEPARATOR---
+Euroleague, Round 13
+Barça Basket vs LDLC ASVEL Lyon-Villeurbanne
+Eutelsat 7A/7B/7C @ 7.0°E
+11069 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.31 Mbit/s
+ID: IMG A EU
+CW: 4A F7 84 C5 9D B2 D3 22
+---FEED-SEPARATOR---
 World Cup Qualifying 
 Game Day 1 , Group C  - FIBAWC 
 Tomorrow 27 Nov 2025
