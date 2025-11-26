@@ -7,6 +7,14 @@ Event:
 Sambenedettese vs Union Brescia
 CW: 54 3C E1 71 E9 EC 58 2D
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:12725 - V - 7121
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  Pitch - EFL - West Brom v Birmingham
+Championship 
+West Bromwich Albion vs Birmingham City
+CW: 57 49 AD 4D 3E 32 67 D7
+---FEED-SEPARATOR---
 England Championship, Round 17
 Asiasat 5 (100.5°E) C BAND
 3915 H 7119
