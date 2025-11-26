@@ -32,6 +32,15 @@ DVB-S2 - 4.2.0
 Name : Qata073 M 
 CW : AC 22 2E FC F2 02 5A 4E
 ---FEED-SEPARATOR---
+UEFA Youth League 2025/26 (
+U19, Round 5)
+Olympiakos v Real Madrid
+13.0E
+11042 H 9700
+4.2.2 HD
+ID: OTE 1
+CW: AB 11 23 DF DF BC 22 BD
+---FEED-SEPARATOR---
 UEFA Youth league , Round 3 two legs
 Porto VS Real Betis
 Eutelsat 7B/7C ( 7.0E)
