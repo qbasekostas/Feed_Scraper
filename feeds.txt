@@ -1,3 +1,12 @@
+Eutelsat 7B/7C (7.0 E)
+11124 V 7200
+DVB-S2/8PSK (4:2:0)
+ID: ITA 81 A
+Coppa Italia Serie C
+Event: 
+Sambenedettese vs Union Brescia
+CW: 54 3C E1 71 E9 EC 58 2D
+---FEED-SEPARATOR---
 England Championship, Round 17
 Asiasat 5 (100.5°E) C BAND
 3915 H 7119
@@ -50,6 +59,16 @@ FTA
 Click to expand...
 Active: 
 Olympiacos v Real Madrid
+---FEED-SEPARATOR---
+UEFA Champions League
+ Liverpool vs PSV Eindhoven
+Eutelsat 3B @ 3.1° E
+Fréq:10958 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: beIN SPORTS
+Fréq:10968 - H - 7500
+ID:  Service-1
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
 Reporter Feed
 Olympiacos FC vs Real Madrid
@@ -121,6 +140,14 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: E 413 YOUTH AT DE MADRID
 UEFA YOUTH League: Atlético Madrid U-19 vs. Inter Milan U-19
 CW: AB BD 54 BC 5A CB BA DF
+---FEED-SEPARATOR---
+Euroleague, Round 13
+Monaco Basket vs Anadolu Efes
+Eutelsat 7A/7B/7C @ 7.0°E
+11105 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 9.48 Mbit/s
+ID: F489 MAIN
+CW: 77 19 81 11 3B DC D9 F0
 ---FEED-SEPARATOR---
 Euroleague, Round 13
 Barça Basket vs LDLC ASVEL Lyon-Villeurbanne
