@@ -40,6 +40,15 @@ DVB-S2 - 4.2.0
 Name : Qata073 M 
 CW : AC 22 2E FC F2 02 5A 4E
 ---FEED-SEPARATOR---
+Reporter Feed
+Olympiacos FC vs Real Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+12563 - H - 7198909
+4:2:0
+Video type(s): H.264/AVC Video, Avg bitrate: 15.71 Mbit/s
+ID: E-073 FEED C
+CW: AB DC 74 FB 32 CD BA B9
+---FEED-SEPARATOR---
 FaDeL® said:
 UEFA Champions League
 Multiplex & Highlights
