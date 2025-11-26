@@ -68,6 +68,14 @@ Click to expand...
 Active: 
 Olympiacos v Real Madrid
 ---FEED-SEPARATOR---
+Eutelsat 3B @ 3.1° E
+Fréq:3798 - L - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  UEFA
+UEFA Champions League 
+Atletico Madrid vs Inter Milano
+CW: 5D 91 8C 7A 9D EA 58 DF
+---FEED-SEPARATOR---
 UEFA Champions League
  Liverpool vs PSV Eindhoven
 Eutelsat 3B @ 3.1° E
