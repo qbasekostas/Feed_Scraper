@@ -1,3 +1,11 @@
+England Championship, Round 17
+Asiasat 5 (100.5°E) C BAND
+3915 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_24_SDI (SES)
+CW: 57 49 AD 4D 3E 32 67 D7
+---FEED-SEPARATOR---
 FIFA .Arab Cup Qualifiers 2026.QATER
 SUDAN VS Lebanon
 26.0E
@@ -31,6 +39,16 @@ Badr-8 (26°E)
 DVB-S2 - 4.2.0
 Name : Qata073 M 
 CW : AC 22 2E FC F2 02 5A 4E
+---FEED-SEPARATOR---
+FaDeL® said:
+UEFA Champions League
+Multiplex & Highlights
+CW: 04 4E AF 01 AE 1A C8 90
+Click to expand...
+Eutelsat 7B @ 7.0°E
+Fréq:10996 - V - 9874
+MPEG 4 - 4:2:2 - DVB-S2
+ID:   UCL IHL
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11018 - V - 4827
