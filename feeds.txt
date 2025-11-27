@@ -53,6 +53,20 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: SAU-44 M
 CW: D1 5A E7 12 87 0D A2 36
 ---FEED-SEPARATOR---
+16e
+11101 H 17137
+11185 H 17137
+4:2:2
+DVB S2 X
+ID: 
+ITA 274-D1-FEED1
+ID: 
+ITA 274-D2-FEED2
+Europa Liga
+Maccabi Tel Aviv
+Lyon
+CW: 45 8D AD 7F 65 8D ED DF
+---FEED-SEPARATOR---
 UEFA Conference League - Matchday 5
 Rijeka vs. AEK Larnaca
 Eutelsat 7B/7C @ 7.0°E
