@@ -141,3 +141,11 @@ Eutelsat 7A/7B/7C @ 7.0°E
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.32 Mbit/s
 ID: LBN 030 main
 CW: 12 54 AB 11 BB B9 53 C7
+---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers, Group A, Round 1
+Georgia vs Ukraine 
+Eutelsat 7A/7B/7C @ 7.0°E
+12572 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.41 Mbit/s
+ID: TUR139-Main
+CW: 15 66 AB 26 22 31 BA 0D
