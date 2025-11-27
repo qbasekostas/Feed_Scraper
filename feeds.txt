@@ -31,6 +31,35 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: SAU-44 M
 CW: D1 5A E7 12 87 0D A2 36
 ---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers, Group A, Round 1
+Georgia vs Ukraine
+Eutelsat 7A/7B/7C @ 7.0°E
+12563 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.44 Mbit/s
+ID: TUR139-Main
+CW: 15 66 AB 26 22 31 BA 0D
+---FEED-SEPARATOR---
+19.2E
+11605 H 7200
+4.2.0
+ID: GREECE VS ROMANIA
+FIBA 
+Basketball World Cup
+ 2027 
+European Qualifiers
+CW: 15 66 AB 26 22 31 BA 0D
+---FEED-SEPARATOR---
+19.2E
+11618 H 7200
+4.2.0
+ID: MNE-001 main
+FIBA 
+Basketball World Cup
+ 2027 
+European Qualifiers
+Montenegro - Portugal
+CW: 15 66 AB 26 22 31 BA 0D
+---FEED-SEPARATOR---
 FIBA World Cup, Asian & Oceanian Qualifiers
 JORDAN VS SYRIA 
 7.0E
