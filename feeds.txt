@@ -148,6 +148,46 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: LBN 030 main
 CW: 12 54 AB 11 BB B9 53 C7
 ---FEED-SEPARATOR---
+7 E
+11107 V 7200
+4.2.0
+ID: ITA
+FIBA 
+Basketball World Cup
+ 2027 
+European Qualifiers
+Italy - Iceland
+CW: 15 66 AB 26 22 31 BA 0D
+---FEED-SEPARATOR---
+Astra 19.2
+11443 v 7200
+TSK.TRT.M17.A
+Türkiye--Bosna-Hersek 
+4.2.0 1080i 8psk
+Cw..15 66 AB 26 22 31 BA 0D
+---FEED-SEPARATOR---
+19.2E
+11634 H 7200
+4.2.0
+ID: ITA
+FIBA 
+Basketball World Cup
+ 2027 
+European Qualifiers
+Italy - Iceland
+CW: 15 66 AB 26 22 31 BA 0D
+---FEED-SEPARATOR---
+omid1348 said:
+			ID: TUN 009 MAIN
+FIBA Basketball World Cup 2027 African Qualifiers
+Nigeria - Tunisia
+CW: AD 58 DD E2 93 23 23 D9
+Click to expand...
+SES 4 (22.0°W)
+Fréq:12545 -| H |-7200
+MPEG 4 -4:2:0- DVB-S2
+ID: TUN 009 MAIN
+---FEED-SEPARATOR---
 FIBA World Cup, European Qualifiers, Group C, Round 1
 Serbia vs Switzerland
 Eutelsat 7A/7B/7C @ 7.0°E
