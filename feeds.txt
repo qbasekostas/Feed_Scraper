@@ -148,6 +148,13 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: LBN 030 main
 CW: 12 54 AB 11 BB B9 53 C7
 ---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers, Group C, Round 1
+Serbia vs Switzerland
+Eutelsat 7A/7B/7C @ 7.0°E
+12634 - V - 7200
+ID: YSM-013M
+CW: 15 66 AB 26 22 31 BA 0D
+---FEED-SEPARATOR---
 FIBA World Cup, European Qualifiers, Group A, Round 1
 Georgia vs Ukraine 
 Eutelsat 7A/7B/7C @ 7.0°E
