@@ -31,6 +31,17 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: SAU-44 M
 CW: D1 5A E7 12 87 0D A2 36
 ---FEED-SEPARATOR---
+19.2E
+11632 V 7200
+4.2.0
+ID: DNK-ORE6
+FIBA 
+Basketball World Cup
+ 2027 
+European Qualifiers
+Denmark - Spain
+CW: 15 66 AB 26 22 31 BA 0D
+---FEED-SEPARATOR---
 FIBA World Cup, European Qualifiers, Group A, Round 1
 Georgia vs Ukraine
 Eutelsat 7A/7B/7C @ 7.0°E
