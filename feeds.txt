@@ -6,3 +6,11 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: Fi14_GNVE
 Bundesliga Germany Weekly Highlights
 CW: 68 94 00 FC C5 75 67 A1
+---FEED-SEPARATOR---
+7E
+11523 V 7500
+DVB-S2 1080HD
+4.2.0
+ID:  AFD
+Event: Club Atlético Lanús Vs Club Atlético Tigre
+CW: A5 25 27 F1 41 91 CC 9E
