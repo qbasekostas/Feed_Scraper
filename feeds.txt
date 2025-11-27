@@ -15,6 +15,14 @@ ID:  AFD
 Event: Club Atlético Lanús Vs Club Atlético Tigre
 CW: A5 25 27 F1 41 91 CC 9E
 ---FEED-SEPARATOR---
+U17 FIFA World Cup, Knockout stage, Final
+Portugal U17 vs Austria U17
+Eutelsat 7A/7B/7C @ 7.0°E
+12554 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.49 Mbit/s
+ID: SAU- 42 M
+CW: D1 5A E7 12 87 0D A2 36
+---FEED-SEPARATOR---
 U17 FIFA World Cup, Knockout stage, Match for 3rd place
 Brazil U17 vs Italy U17
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -22,6 +30,14 @@ Eutelsat 7A/7B/7C @ 7.0°E
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.49 Mbit/s
 ID: SAU-44 M
 CW: D1 5A E7 12 87 0D A2 36
+---FEED-SEPARATOR---
+FIBA World Cup, Asian & Oceanian Qualifiers
+JORDAN VS SYRIA 
+7.0E
+12643 V 7200
+4.2.0 HD
+ID: JOR021/MAIN
+CW: : 12 54 AB 11 BB B9 53 C7
 ---FEED-SEPARATOR---
 FIBA World Cup, Asian & Oceanian Qualifiers, Gr. D, Round 1
 Saudi Arabia vs India 
