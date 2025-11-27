@@ -17,6 +17,14 @@ CW: A5 25 27 F1 41 91 CC 9E
 ---FEED-SEPARATOR---
 U17 FIFA World Cup, Knockout stage, Final
 Portugal U17 vs Austria U17
+3.1ºE
+10987 H 7500
+4.2.0 HD
+ID: beIN Sport HD
+CW: 25 6B FA 8A CD 81 7E CC
+---FEED-SEPARATOR---
+U17 FIFA World Cup, Knockout stage, Final
+Portugal U17 vs Austria U17
 Eutelsat 7A/7B/7C @ 7.0°E
 12554 - H - 7200
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.49 Mbit/s
