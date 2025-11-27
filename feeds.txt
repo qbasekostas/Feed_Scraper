@@ -62,6 +62,14 @@ Eutelsat 7B/7C @ 7.0°E
 ID: LEUK_Fi05
 CW: 8D 88 E0 F5 49 67 BB 6B
 ---FEED-SEPARATOR---
+7E
+11106 V 7200
+4.2.0
+ID: TUN 009 MAIN
+FIBA Basketball World Cup 2027 African Qualifiers
+Nigeria - Tunisia
+CW: AD 58 DD E2 93 23 23 D9
+---FEED-SEPARATOR---
 19.2E
 11632 V 7200
 4.2.0
