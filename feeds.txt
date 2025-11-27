@@ -53,6 +53,17 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: SAU-44 M
 CW: D1 5A E7 12 87 0D A2 36
 ---FEED-SEPARATOR---
+UEFA Conference League - Matchday 5
+Rijeka vs. AEK Larnaca
+Eutelsat 7B/7C @ 7.0°E
+11172 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: CRO-023/1
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
 Intelsat 10-02 / Thor 5-6 (0.8°W)
 Frequency: 12541 - Pol: V - SR: 6660 - FEC: 3/4
 Category: Sport - Football
@@ -155,6 +166,17 @@ Eutelsat 7A/7B/7C @ 7.0°E
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.32 Mbit/s
 ID: LBN 030 main
 CW: 12 54 AB 11 BB B9 53 C7
+---FEED-SEPARATOR---
+19.2E
+11647 H 7200
+4.2.0
+ID: FIBA Basketball world cup
+FIBA 
+Basketball World Cup
+ 2027 
+European Qualifiers
+Great Britain - Lithuania
+CW: 15 66 AB 26 22 31 BA 0D
 ---FEED-SEPARATOR---
 7 E
 11107 V 7200
