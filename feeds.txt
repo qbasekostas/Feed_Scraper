@@ -15,6 +15,14 @@ ID:  AFD
 Event: Club Atlético Lanús Vs Club Atlético Tigre
 CW: A5 25 27 F1 41 91 CC 9E
 ---FEED-SEPARATOR---
+League Two, Round 18
+Grimsby Town vs Tranmere Rovers
+Eutelsat 7A/7B/7C @ 7.0°E
+12726 - V - 7120
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.32 Mbit/s
+ID: Pitch - EFL - Grimsby Town v Tranmere
+CW: 92 45 BD 94 13 52 AD 12
+---FEED-SEPARATOR---
 ASIASAT5 100.5E
 3915 H 7120
 ID BT_SES_24_SDI
