@@ -39,6 +39,29 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: SAU-44 M
 CW: D1 5A E7 12 87 0D A2 36
 ---FEED-SEPARATOR---
+Intelsat 10-02 / Thor 5-6 (0.8°W)
+Frequency: 12541 - Pol: V - SR: 6660 - FEC: 3/4
+Category: Sport - Football
+UEFA Conference League - Matchday 4
+Transmitted in: MPEG-4 crypte
+ID: 
+backup
+CW: 27 11 20 58 25 AB CD 9D
+Info: 
+Universitatea Craiova - Mainz 05 (18:45 cet)
+--------------------------------------------------------
+---FEED-SEPARATOR---
+UEL / UECL - Matchday 5/4: 
+Multiplex & Highlights
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LEUK_Fi05
+CW: 8D 88 E0 F5 49 67 BB 6B
+---FEED-SEPARATOR---
 19.2E
 11632 V 7200
 4.2.0
