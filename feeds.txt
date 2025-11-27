@@ -22,3 +22,11 @@ Eutelsat 7A/7B/7C @ 7.0°E
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.49 Mbit/s
 ID: SAU-44 M
 CW: D1 5A E7 12 87 0D A2 36
+---FEED-SEPARATOR---
+FIBA World Cup, Asian & Oceanian Qualifiers, Gr. C, Round 1
+Iran vs Iraq
+Eutelsat 7A/7B/7C @ 7.0°E
+12634 - V - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.32 Mbit/s
+ID: LBN 030 main
+CW: 12 54 AB 11 BB B9 53 C7
