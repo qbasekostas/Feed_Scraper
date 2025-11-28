@@ -10,8 +10,10 @@ CW: 20 25 AE F3 EA 52 02 3E
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
-ID:OCC 1 
-LA Liga Spain: Getafe CF VS Elche CF
+ID:OCC 1
+CONMEBOL Libertadores - Final
+Palmeiras  vs Flamengo  
+29/11/2025
 found CW: 
 AD E4 C2 53 3B 01 02 3E
 ---FEED-SEPARATOR---
