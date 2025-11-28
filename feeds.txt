@@ -1,3 +1,10 @@
+Eutelsat 7B @ 7.0°E
+Fréq:11579 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: A1PRO Via1 
+Friendlies Women
+Ukraine vs Scotland
+---FEED-SEPARATOR---
 19.2E
 11619 H 7200
 ROU-062 - GUM - PHI - MAIN
