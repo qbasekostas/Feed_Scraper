@@ -1,0 +1,6 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3985 V 7200
+ID: CHNCMG-001
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 1254AB11BBBEED66
+FIBA Basketball World Cup 2027 Asian Qualifiers ( China vs Kor )
