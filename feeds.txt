@@ -8,3 +8,28 @@ Vasco Da Gama
 CW: F0 F0 28 08 11 20 25 56
 @sahafe
  🫡
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 2
+LaLiga
+ RCD Mallorca vs Osasuna
+CW: 2B 56 6F F0 12 26 F7 2F
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 1
+LaLiga 
+Barcelona vs Deportivo Alaves
+CW: A0 30 55 25 2D 85 F2 A4
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR AFRICA 1
+LaLiga
+Barcelona vs Deportivo Alaves
+found CW: 
+FA AB 6C 11 F7 EF 6F 55 
