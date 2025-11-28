@@ -45,6 +45,16 @@ ID: A1PRO Via1
 Friendlies Women
 Ukraine vs Scotland
 ---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10985 V 9600
+ID: 
+POL 48 ENC1
+Event: 
+Women's football - friendly match: Poland - Slovenia
+4.2.2
+- DVB-S2 - 8PSK
+CW: 11 07 17 2F CA 25 11 00
+---FEED-SEPARATOR---
 Friendly Women
 MOROCCO VS BURKENA FASOU
 21E
@@ -71,6 +81,16 @@ Friendly Women
 Turkey W  vs   Albania W
 B9 D5 26 1D 2E 90 13 7A  #CW: 
 65 23 00 88 00 65 23 88
+---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10973 V 9600
+ID: 
+POL-78 ENC 1
+Event:
+ Men's Basketball: World Cup Qualifiers - Match: Poland vs. Austria
+4.2.0
+- DVB-S2 - 8PSK
+CW: DC AE 20 AA 25 BB 11 F1
 ---FEED-SEPARATOR---
 Jacop said:
 FIBA Basketball World Cup 2027 European Qualifiers . GROUP E
