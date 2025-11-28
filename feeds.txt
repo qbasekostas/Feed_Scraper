@@ -1,3 +1,12 @@
+Eutelsat (16°E)
+10980 H 3600
+4.2.0
+ID: Fal4 Enc2
+Bundesliga
+Event: 
+Borussia vs RB Lipsia
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
