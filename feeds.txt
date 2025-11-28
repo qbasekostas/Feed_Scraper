@@ -82,6 +82,19 @@ Turkey W  vs   Albania W
 B9 D5 26 1D 2E 90 13 7A  #CW: 
 65 23 00 88 00 65 23 88
 ---FEED-SEPARATOR---
+Women's Friendly Match
+Morocco vs. Burkina Faso
+21.6E
+ID:       fifM (*unnamed-2*)
+- Freq: 11592,685
+- Pol: Horizontal
+- SR: 7199,83
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+2A 9D 51 C3 D9 65 67 26
+CW: FE ED 28 13 11 20 25 56
+---FEED-SEPARATOR---
 Eutelsat 16A  16° E
 10973 V 9600
 ID: 
