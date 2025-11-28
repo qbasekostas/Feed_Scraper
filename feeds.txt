@@ -31,6 +31,13 @@ Getafe v Elche
 ID: OVERON 1
 CW: 85 E8 6E DB C5 80 1F 64
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3967 V 7120
+ID: BT_SES_24_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+97 C1 BA B6 CF 81 B2 B6  #CW:54 7A EA B8 4C 46 7E 10   #[E] PID:07D1h
+Oxford vs Ipswich
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11579 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
