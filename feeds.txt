@@ -32,6 +32,14 @@ B9 D5 26 1D 2E 90 13 7A  #CW:
 65 23 00 88 00 65 23 88
 ---FEED-SEPARATOR---
 19.2E
+11605 H 7200
+4.2.0
+ID: SLO-008 Tx 1
+FIBA Basketball World Cup 2027 European Qualifiers
+Slovenia - Estonia
+CW: 15 66 AB 26 22 DA DB D7
+---FEED-SEPARATOR---
+19.2E
 11632 V 7200
 4.2.0
 ID: Medialink CRO-025/1
