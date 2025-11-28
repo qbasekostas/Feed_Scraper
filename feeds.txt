@@ -63,6 +63,14 @@ Turkey W  vs   Albania W
 B9 D5 26 1D 2E 90 13 7A  #CW: 
 65 23 00 88 00 65 23 88
 ---FEED-SEPARATOR---
+19.2E
+11634 H 7200
+4.2.0
+ID: FIBA BWC 2027 EUROPEAN QUAL
+FIBA Basketball World Cup 2027 European Qualifiers
+France - Belgium
+CW: 15 66 AB 26 22 DA DB D7
+---FEED-SEPARATOR---
 FIBA Basketball World Cup 2027 European Qualifiers . GROUP E
 Croatiavs Cyprus
 7.0E
