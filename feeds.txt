@@ -5,6 +5,24 @@ ID: A1PRO Via1
 Friendlies Women
 Ukraine vs Scotland
 ---FEED-SEPARATOR---
+42e
+11469 V 6800
+4:2:2
+ID: 
+TKS.TRT.M17A
+Friendly Women
+Turkey W  vs   Albania W
+B9 D5 26 1D 2E 90 13 7A  #CW: 
+65 23 00 88 00 65 23 88
+---FEED-SEPARATOR---
+19.2E
+11632 V 7200
+4.2.0
+ID: Medialink CRO-025/1
+FIBA Basketball World Cup 2027 European Qualifiers
+Croatia - Cyprus
+CW: 16 46 20 7C 57 74 55 20
+---FEED-SEPARATOR---
 19.2E
 11619 H 7200
 ROU-062 - GUM - PHI - MAIN
