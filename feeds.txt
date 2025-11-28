@@ -45,6 +45,15 @@ ID: A1PRO Via1
 Friendlies Women
 Ukraine vs Scotland
 ---FEED-SEPARATOR---
+Friendly Women
+MOROCCO VS BURKENA FASOU
+21E
+11593
+H
+7200
+ID:fifm
+CW: FE ED 28 13 11 20 25 56
+---FEED-SEPARATOR---
 NATIONAL TEAM 
 PORTUGAL VS NETHERLANDS
 10.0E
@@ -62,6 +71,27 @@ Friendly Women
 Turkey W  vs   Albania W
 B9 D5 26 1D 2E 90 13 7A  #CW: 
 65 23 00 88 00 65 23 88
+---FEED-SEPARATOR---
+Jacop said:
+FIBA Basketball World Cup 2027 European Qualifiers . GROUP E
+Croatiavs Cyprus
+7.0E
+11610 H 7200
+4.2.0 HD
+ID: CRO-023/1
+CW: 20 25 AB F0 CD 20 26 13
+Click to expand...
+not working
+---FEED-SEPARATOR---
+omid1348 said:
+CW: 15 66 AB 26 22 DA DB D7
+Click to expand...
+19.2E
+11647 H 7200
+4.2.0
+ID: POL-033 OUT2
+Event: 
+FIBA Basketball World Cup 2027 European Qualifiers - Poland vs Austria
 ---FEED-SEPARATOR---
 19.2E
 11634 H 7200
