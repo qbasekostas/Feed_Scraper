@@ -31,6 +31,20 @@ Getafe v Elche
 ID: OVERON 1
 CW: 85 E8 6E DB C5 80 1F 64
 ---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3967 V 7120
+ID: BT_SES_24_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+97 C1 BA B6 CF 81 B2 B6  #CW:54 7A EA B8 4C 46 7E 10   #[E] PID:07D1h
+Oxford vs Ipswich
+Click to expand...
+7E
+11606 V 7120
+4.2.0
+ID: EFL - Oxford v Ipswich
+EFL Championship
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3967 V 7120
 ID: BT_SES_24_SDI
