@@ -170,6 +170,27 @@ CW: A0 30 55 25 2D 85 F2 A4
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,91Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 14
+Teams: Atlético de Madrid vs Real Oviedo
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 22.00 CET
+CW: 8E E8 BB 31 29 86 CD 7C
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+LaLiga
+Atl. Madrid  vs  Oviedo
+CW: 8E E8 BB 31 29 86 CD 7C
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OVERON 2 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
