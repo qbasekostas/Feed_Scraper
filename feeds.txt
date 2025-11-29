@@ -1,3 +1,12 @@
+Eutelsat (16°E)
+10980 H 3600
+4.2.0
+ID: Fal4 Enc2
+Bundesliga
+Event: 
+Bayern Leverkusen vs Borussia Dortmund
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 28.2E
 12633 H 7200 
 4.2.0
@@ -114,6 +123,33 @@ LaLiga
 Barcelona vs Deportivo Alaves
 found CW: 
 FA AB 6C 11 F7 EF 6F 55 
+---FEED-SEPARATOR---
+Dani Sat said:
+English Championship - Week 17
+West Bromwich Albion vs. Swansea City
+Eutelsat 7B/7C @ 7.0°E
+12634 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch - EFL W Brom v Swansea
+CW: 29 34 DE 3B 43 43 7A 00
+Click to expand...
+ASIASAT 5
+3976 V 7120
+ID BT SES 22 SDI
+---FEED-SEPARATOR---
+English Championship - Week 17
+West Bromwich Albion vs. Swansea City
+Eutelsat 7B/7C @ 7.0°E
+12634 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch - EFL W Brom v Swansea
+CW: 29 34 DE 3B 43 43 7A 00
 ---FEED-SEPARATOR---
 vnraw said:
 			EFL
