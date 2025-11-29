@@ -56,6 +56,15 @@ CW: 29 11 DE 18 BB 68 94 B7
 German 3. Liga - Week 16
 Saarbrücken v Rot-Weiss Essen
 ---FEED-SEPARATOR---
+INTELSAT34 C de 55 W
+4100H7500
+ID: Liga 1
+DVB S2 4.2.0 1080i
+Final de la Copa Libertadores 
+Palmeiras 
+ Flamengo
+CW: EE EE 10 EC 02 29 11 3C
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -269,6 +278,21 @@ AsiaSat 5 100.5E
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 #CW:
  8240BC7E24326AC0
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4155 H 7199 C-Band
+ID: W Nations League Friendly - England V China
+(Provider ID: NEP Connect)
+MPEG4 | DVB-S2
+1920x1080i |12,19Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: FIFA - W Nations League Friendly 2025
+Teams: England vs China PR
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
+xFayez95 said:
+CW: FF 3A 67 A0 DD 29 11 17
+Click to expand...
 ---FEED-SEPARATOR---
 International Friendly Games, Women, Round 1
 England vs China
