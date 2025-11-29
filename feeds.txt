@@ -1,0 +1,7 @@
+7°E
+11467 V 4800
+DVB-S2 1080HD
+4.2.0 H264
+ID: GVA_Fi03
+Event: Boston Celtics Vs Minnesota Timberwolves
+CW: BD 74 FD 2E 95 EA 31 B0
