@@ -1,3 +1,13 @@
+Bundesliga, Round 12
+Bayer 04 Leverkusen vs Borussia Dortmund
+Eutelsat 7A/7B/7C @ 7.0°E
+11017 - H - 14400
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 30.71 Mbit/s
+ID: GVA_Fi05_BULI 06
+CW: 97 81 77 8F 4A 0E 42 9A
+---FEED-SEPARATOR---
 Eutelsat (16°E)
 10980 H 3600
 4.2.0
@@ -247,6 +257,14 @@ AsiaSat 5 100.5E
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 #CW:
  8240BC7E24326AC0
+---FEED-SEPARATOR---
+International Friendly Games, Women, Round 1
+England vs China
+Eutelsat 7A/7B/7C @ 7.0°E
+11143 - H - 7120
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.97 Mbit/s
+ID: W Nations League Friendly - England V China
+CW: FF 3A 67 A0 DD 29 11 17
 ---FEED-SEPARATOR---
 FIBA BASKETBALL WCQ-2025
 Asiasat 5 (100.5°E) C BAND
