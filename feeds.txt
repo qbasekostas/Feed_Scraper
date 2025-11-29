@@ -34,6 +34,24 @@ CW: 29 11 DE 18 BB 68 94 B7
 German 3. Liga - Week 16
 Saarbrücken v Rot-Weiss Essen
 ---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OCC 3
+CONMEBOL Libertadores - Final
+Palmeiras vs Flamengo
+found CW: 
+DE 32 B1 C1 D2 43 AF C4 
+---FEED-SEPARATOR---
+INTELSAT34 C de 55 W
+4123V10000
+ID: SERVICIO 1
+DVB S2 4.2.2 1080i
+Final de la Copa Libertadores 
+Palmeiras 
+ Flamengo
+CW: 23 65 AD 35 F1 CF E3 A3
+---FEED-SEPARATOR---
 61W AMAZONAS C
 4070H7500
 ID: CONECTA T
@@ -99,6 +117,22 @@ ID:OVERON 1
 LaLiga 
 Barcelona vs Deportivo Alaves
 CW: A0 30 55 25 2D 85 F2 A4
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2- DVB-S2
+ID: OVERON 2
+LaLiga 
+Levante  vs Athletic Bilbao
+CW: D3 F8 9C 67 50 7D 2F FC
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:0- DVB-S2
+ID:  LIGA HYPERMOTION 2
+LaLiga 2
+ Real Valladolid vs Malaga
+CW: 86 B3 2C 65 63 E4 A7 EE
 ---FEED-SEPARATOR---
 Event: Spain - LALIGA EA SPORTS Matchday 14
 Teams: FC Barcelona vs Deportivo Alavés
