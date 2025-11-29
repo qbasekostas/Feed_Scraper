@@ -100,6 +100,30 @@ LaLiga
 Barcelona vs Deportivo Alaves
 CW: A0 30 55 25 2D 85 F2 A4
 ---FEED-SEPARATOR---
+Event: Spain - LALIGA EA SPORTS Matchday 14
+Teams: FC Barcelona vs Deportivo Alavés
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 16.15 CET
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,98Mb/Sec |8PSK| 
+4:2:2
+ HD
+FaDeL® said:
+CW: A0 30 55 25 2D 85 F2 A4
+Click to expand...
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,75Mb/Sec |8PSK| 
+4:2:2
+ HD
+CW: F1 10 2B 2C 45 F0 85 BA
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 2 
@@ -123,6 +147,8 @@ LaLiga
 Barcelona vs Deportivo Alaves
 found CW: 
 FA AB 6C 11 F7 EF 6F 55 
+---FEED-SEPARATOR---
+Delete
 ---FEED-SEPARATOR---
 Dani Sat said:
 English Championship - Week 17
