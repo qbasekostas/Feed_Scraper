@@ -119,7 +119,7 @@ Barcelona vs Deportivo Alaves
 CW: A0 30 55 25 2D 85 F2 A4
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
-Fréq:10768 - V - 34000
+Fréq:10731- V - 34000
 MPEG 4 - 4:2:2- DVB-S2
 ID: OVERON 2
 LaLiga 
