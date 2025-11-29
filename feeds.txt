@@ -1,3 +1,30 @@
+28.2E
+12633 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: D-109 Cottbus 3 Buli
+CW: 29 11 DE 18 BB 68 94 B7
+German 3. Liga - Week 16
+Energie Cottbus v Viktoria Cologne
+---FEED-SEPARATOR---
+28.2E
+12642 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: D-437 Osnabrueck 3 Buli
+CW: 29 11 DE 18 BB 68 94 B7
+German 3. Liga - Week 16
+Ingolstadt v Hoffenheim II
+---FEED-SEPARATOR---
+28.2E
+12624 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: D-473
+CW: 29 11 DE 18 BB 68 94 B7
+German 3. Liga - Week 16
+Saarbrücken v Rot-Weiss Essen
+---FEED-SEPARATOR---
 61W AMAZONAS C
 4070H7500
 ID: CONECTA T
@@ -64,6 +91,21 @@ LaLiga
 Barcelona vs Deportivo Alaves
 CW: A0 30 55 25 2D 85 F2 A4
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,14Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 14
+Teams: RCD Mallorca vs CA Osasuna
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 15.00 CET
+FaDeL® said:
+CW: 2B 56 6F F0 12 26 F7 2F
+Click to expand...
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -95,3 +137,11 @@ AsiaSat 5 100.5E
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 #CW:
  8240BC7E24326AC0
+---FEED-SEPARATOR---
+FIBA BASKETBALL WCQ-2025
+Asiasat 5 (100.5°E) C BAND
+3975 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:FIBA BASKETBALL WCQ-2025
+CW: 29 4E A2 19 6C 29 F6 8B
