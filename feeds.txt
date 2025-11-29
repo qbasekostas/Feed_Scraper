@@ -33,3 +33,12 @@ LaLiga
 Barcelona vs Deportivo Alaves
 found CW: 
 FA AB 6C 11 F7 EF 6F 55 
+---FEED-SEPARATOR---
+EFL
+Leicester City vs. Sheffield United
+AsiaSat 5 100.5E
+3966 V 7120
+8PSK 2/3 DVB-S2 4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+#CW:
+ 8240BC7E24326AC0
