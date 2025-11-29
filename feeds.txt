@@ -1,3 +1,15 @@
+xFayez95 said:
+Bundesliga, Round 12
+Bayer 04 Leverkusen vs Borussia Dortmund
+CW: 97 81 77 8F 4A 0E 42 9A
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11020 - V - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 21.11 Mbit/s
+ID: D-408 LEV
+---FEED-SEPARATOR---
 Bundesliga, Round 12
 Bayer 04 Leverkusen vs Borussia Dortmund
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -273,3 +285,10 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID:FIBA BASKETBALL WCQ-2025
 CW: 29 4E A2 19 6C 29 F6 8B
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 12
+Aris vs AEL
+13e
+10820 V 7200
+ID: ARIS VS AEL A
+CW: E0 32 2E 40 BC 56 E1 F3
