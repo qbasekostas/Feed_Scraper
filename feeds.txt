@@ -81,6 +81,19 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: ED C1 CD 7B 45 54 11 AA
 ---FEED-SEPARATOR---
+19.2E
+11618 H 7200
+4.2.0
+ID: Fribourg SUI
+FIBA Basketball World Cup 2027 European Qualifiers
+Switzerland - Turkey
+CW: 15 66 E3 5E 20 BB 39 14
+---FEED-SEPARATOR---
+Jacop said:
+New CW: 35 B9 19 07 9D FA 6B 02
+Click to expand...
+key not working
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11003 - H - 7200
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
