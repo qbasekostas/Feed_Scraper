@@ -135,6 +135,21 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: ED C1 CD 7B 45 54 11 AA
 ---FEED-SEPARATOR---
+believing_boy said:
+World Cup - Qualification - First round - Round 2
+Lebanon vs Qatar
+Eutelsat 7B/7C 7.0E - 12634 Vertical 7200 4:2:0
+ID:LBN 030 main
+CW: 12 E4 D3 C9 89 92 BB D6
+Click to expand...
+			https://www.sat-universe.com/index.php?threads/basketball-cba-wcba-lnb-tbl-euroleague-nba-feeds-7%C2%B0e-10%C2%B0e-16%C2%B0e-62%C2%B0e-100-5%C2%B0e-110-5%C2%B0e.259695/post-2037422385
+---FEED-SEPARATOR---
+World Cup - Qualification - First round - Round 2
+Lebanon vs Qatar
+Eutelsat 7B/7C 7.0E - 12634 Vertical 7200 4:2:0
+ID:LBN 030 main
+CW: 12 E4 D3 C9 89 92 BB D6
+---FEED-SEPARATOR---
 Astra 1KR/1L/1M/1N (19.2E)
 11442 V 7200
 MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
@@ -257,6 +272,23 @@ DVB-S2 1080HD
 ID: GVA_Fi03
 Event: Boston Celtics Vs Minnesota Timberwolves
 CW: BD 74 FD 2E 95 EA 31 B0
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 12
+Panathinaikos vs AEK
+13e
+10820 V 7200
+ID: TANDBERG
+CW: 4E 09 AD 04 7E E0 26 84
+---FEED-SEPARATOR---
+Greek Super League 1
+Levadiakos
+ Vs Paok
+ 39.0°E @ Hellas Sat 3/4
+11007 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: E394 MAIN (OVERON)
+CW: A9 1E A3 6A 73 D8 6E B9
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 12
 Panetolikos vs Olympiacos
