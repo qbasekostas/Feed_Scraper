@@ -22,6 +22,22 @@ Germany2. Bundesliga - Round 14
 SG Dynamo Dresden vs Dusseldorf
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Serie D, Group A, Round 14
+Derthona vs Sanremese live score
+Eutelsat 7A/7B/7C @ 7.0°E
+11551 - V - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.04 Mbit/s
+ID: E- 285 MAIN
+CW: 30 11 AA EB BB 20 25 00
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 2
+LaLiga
+ Celta de Vigo vs Espanyol
+CW: 99 C3 EF 4B B6 B4 B9 23
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
 1920*1080 | DVB-S2 | 8PSK
@@ -80,6 +96,14 @@ Eutelsat 7A/7B/7C @ 7.0°E
   GCUK Enc 8 (GlobeCast UK)
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: ED C1 CD 7B 45 54 11 AA
+---FEED-SEPARATOR---
+Jacop said:
+found cw: 12 E4 D3 C9 89 92 BB D6
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11003 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.05 Mbit/s
+ID: JOR021/MAIN
 ---FEED-SEPARATOR---
 19.2E
 11632 V 7200
