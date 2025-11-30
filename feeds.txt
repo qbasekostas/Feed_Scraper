@@ -135,21 +135,6 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: ED C1 CD 7B 45 54 11 AA
 ---FEED-SEPARATOR---
-believing_boy said:
-World Cup - Qualification - First round - Round 2
-Lebanon vs Qatar
-Eutelsat 7B/7C 7.0E - 12634 Vertical 7200 4:2:0
-ID:LBN 030 main
-CW: 12 E4 D3 C9 89 92 BB D6
-Click to expand...
-			https://www.sat-universe.com/index.php?threads/basketball-cba-wcba-lnb-tbl-euroleague-nba-feeds-7%C2%B0e-10%C2%B0e-16%C2%B0e-62%C2%B0e-100-5%C2%B0e-110-5%C2%B0e.259695/post-2037422385
----FEED-SEPARATOR---
-World Cup - Qualification - First round - Round 2
-Lebanon vs Qatar
-Eutelsat 7B/7C 7.0E - 12634 Vertical 7200 4:2:0
-ID:LBN 030 main
-CW: 12 E4 D3 C9 89 92 BB D6
----FEED-SEPARATOR---
 Astra 1KR/1L/1M/1N (19.2E)
 11442 V 7200
 MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
@@ -212,11 +197,6 @@ ID: Fribourg SUI
 FIBA Basketball World Cup 2027 European Qualifiers
 Switzerland - Turkey
 CW: 15 66 E3 5E 20 BB 39 14
----FEED-SEPARATOR---
-Jacop said:
-New CW: 35 B9 19 07 9D FA 6B 02
-Click to expand...
-key not working
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11003 - H - 7200
