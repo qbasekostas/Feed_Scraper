@@ -1,4 +1,14 @@
 Bundesliga, Round 12
+SC Freiburg vs 1. FSV Mainz 05
+Eutelsat 7A/7B/7C @ 7.0°E
+11091 - H - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.90 Mbit/s
+ID: GVA_Fi03
+CW: B9 B1 ED 57 E2 A2 46 CA
+---FEED-SEPARATOR---
+Bundesliga, Round 12
 Eintracht Frankfurt vs VfL Wolfsburg
 Eutelsat 7A/7B/7C @ 7.0°E
 11079 - H - 9875
@@ -39,6 +49,24 @@ Eutelsat 7A/7B/7C @ 7.0°E
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.04 Mbit/s
 ID: E- 285 MAIN
 CW: 30 11 AA EB BB 20 25 00
+---FEED-SEPARATOR---
+LaLiga : Girona v Real Madrid 
+Eutelsat 10A @ 10.E
+10732 Vertical  34000,262
+ID:
+  SUPPONOR MENA 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |10,7 dB | 
+4:2:2
+CW: 1B 47 28 8A 99 44 A3 80
+---FEED-SEPARATOR---
+LaLiga : Girona v Real Madrid 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+ OVERON 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |12,4 dB | 
+4:2:2
+CW: 60 AB 65 70 C2 E2 1D C1
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
