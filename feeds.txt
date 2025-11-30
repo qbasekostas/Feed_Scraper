@@ -1,3 +1,13 @@
+Bundesliga, Round 12
+Eintracht Frankfurt vs VfL Wolfsburg
+Eutelsat 7A/7B/7C @ 7.0°E
+11079 - H - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.77 Mbit/s
+ID: GVA_Fi04
+CW: 00 8E 3D CB AF 81 77 A7
+---FEED-SEPARATOR---
 Event :
 Germany Bundesliga - Round 12
 Teams :Hamburger SV 
