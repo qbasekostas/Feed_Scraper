@@ -42,6 +42,15 @@ Germany2. Bundesliga - Round 14
 SG Dynamo Dresden vs Dusseldorf
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Liga Argentina Clausura Quatros
+El Derby Del Ban.dito Maradona
+Boca Juniors
+Argentinos Juniors
+Eutelsat 7°E
+11693 H 7500 - 4.2.0
+ID: AFD
+CW: 71 32 BB 5E 19 14 11 3E
+---FEED-SEPARATOR---
 Serie D, Group A, Round 14
 Derthona vs Sanremese live score
 Eutelsat 7A/7B/7C @ 7.0°E
