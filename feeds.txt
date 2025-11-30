@@ -81,6 +81,24 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: ED C1 CD 7B 45 54 11 AA
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11003 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
+ID: FIBA WORLD CUP LIMASSOL
+CW: 35 B9 19 07 9D FA 6B 02
+---FEED-SEPARATOR---
+Jacop said:
+FIBA World Cup, Asian & Oceanian Qualifiers . 
+GROUP C
+SYRIA VS JORDAN
+7.0E
+12643 V 7200
+4.2.0 HD
+ID: JOR021/MAIN
+CW: EF 26 F1 06 8A 36 C5 85
+Click to expand...
+New CW: 35 B9 19 07 9D FA 6B 02
+---FEED-SEPARATOR---
 FIBA World Cup, Asian & Oceanian Qualifiers . 
 GROUP C
 SYRIA VS JORDAN
