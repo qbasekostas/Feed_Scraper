@@ -82,6 +82,35 @@ MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: ED C1 CD 7B 45 54 11 AA
 ---FEED-SEPARATOR---
 19.2E
+11632 V 7200
+4.2.0
+ID: ROU-15 - ROU-MNE MAIN
+FIBA Basketball World Cup 2027 European Qualifiers
+Romania - Montenegro
+CW: 15 66 E3 5E 20 BB 39 14
+---FEED-SEPARATOR---
+Jacop said:
+FIBA World Cup, Asian & Oceanian Qualifiers . 
+GROUP C
+SYRIA VS JORDAN
+7.0E
+12643 V 7200
+4.2.0 HD
+ID: JOR021/MAIN
+CW: EF 26 F1 06 8A 36 C5 85
+Click to expand...
+New CW: 35 B9 19 07 9D FA 6B 02
+found cw: 12 E4 D3 C9 89 92 BB D6
+---FEED-SEPARATOR---
+19.2E
+11620 V 7200
+4.2.0
+ID: LTU-005 FIBA LTU-ITA main
+FIBA Basketball World Cup 2027 European Qualifiers
+Lithuania - Italy
+CW: 15 66 E3 5E 20 BB 39 14
+---FEED-SEPARATOR---
+19.2E
 11618 H 7200
 4.2.0
 ID: Fribourg SUI
@@ -148,3 +177,10 @@ DVB-S2 1080HD
 ID: GVA_Fi03
 Event: Boston Celtics Vs Minnesota Timberwolves
 CW: BD 74 FD 2E 95 EA 31 B0
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 12
+Panetolikos vs Olympiacos
+13e
+10820 V 7200
+ID: PANE VS OSFP A
+CW: 63 F7 B2 0C D7 6F C3 09
