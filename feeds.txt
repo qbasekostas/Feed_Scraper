@@ -135,6 +135,16 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: ED C1 CD 7B 45 54 11 AA
 ---FEED-SEPARATOR---
+Astra 1KR/1L/1M/1N (19.2E)
+11442 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+LAT-001 M
+Provider: LTV
+FIBA Basketball World Cup 2027 European Qualifiers,Group A,Round 2
+Ukraine M - Denmark M (18:00)
+CW: 15 66 E3 5E 20 BB 39 14
+---FEED-SEPARATOR---
 19.2E
 11634 H 7200
 4.2.0
