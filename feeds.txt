@@ -107,6 +107,14 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: ED C1 CD 7B 45 54 11 AA
 ---FEED-SEPARATOR---
+19.2E
+11634 H 7200
+4.2.0
+ID: BIH007 M
+FIBA Basketball World Cup 2027 European Qualifiers
+Bosnia & Herzegovina - Serbia
+CW: 15 66 E3 5E 20 BB 39 14
+---FEED-SEPARATOR---
 Jacop said:
 found cw: 12 E4 D3 C9 89 92 BB D6
 Click to expand...
