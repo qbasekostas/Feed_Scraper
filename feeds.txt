@@ -111,6 +111,14 @@ Estonia vs. Czech Republic
  (19:00 CET)
 CW: 1A A0 E2 9C E2 26 B0 B8
 ---FEED-SEPARATOR---
+19.2E
+11632 V 7200
+4.2.0
+ID: HOL324 TX1
+FIBA Basketball World Cup 2027 European Qualifiers
+Netherlands - Poland
+CW: 15 66 88 03 37 29 FF 5F
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12634 - V - 7200
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.04 Mbit/s
