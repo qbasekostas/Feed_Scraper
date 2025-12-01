@@ -6,6 +6,16 @@ Argentine Primera División
 Barracas Central - Club de Gimnasia y Esgrima La Plata
 CW: 71 32 BB 5E 19 14 11 3E
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+11133 V 7200
+DVB-S2/8PSK (4:2:0)
+ID:
+ ITA 81 A
+Serie C Group C
+Event: 
+Benevento vs Salernitana
+CW: 97 60 DB D2 07 A9 07 B7
+---FEED-SEPARATOR---
 LALIGA MD14 - 
 Rayo Vallecano vs Valencia CF 
 AsiaSat 5 100.5E
@@ -133,6 +143,22 @@ FIBA Basketball World Cup 2027 European Qualifiers
 Estonia vs. Czech Republic
  (19:00 CET)
 CW: 1A A0 E2 9C E2 26 B0 B8
+---FEED-SEPARATOR---
+International, FIBA World Cup, European Qualifiers, Group F
+Netherlands vs. Poland
+Astra 1KR/1L/1M/1N @ 19.2E
+11633  Vertical  7201,79
+ID: HOL324 TX1 (Newslive.nl)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 15 66 88 03 37 29 FF 5F
+---FEED-SEPARATOR---
+International, FIBA World Cup, European Qualifiers, Group H
+Estonia vs. Czech Republic
+Astra 1KR/1L/1M/1N @ 19.2E
+11620  Vertical  7201,79
+ID:  EST-003 MAIN (Levira)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 15 66 88 03 37 29 FF 5F
 ---FEED-SEPARATOR---
 19.2E
 11430 V 7200
