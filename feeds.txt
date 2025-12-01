@@ -12,6 +12,13 @@ CW: 5D 3E 1F BA E9 7D 04 6A
    #[E] PID:0065h
 ---FEED-SEPARATOR---
 Friendlies Women
+France U23  W vs Germany U23 W
+Eutelsat 7.0°E
+12643 V 7200 - 4.2.0
+ID: U23 GER_FRA
+CW: FTA
+---FEED-SEPARATOR---
+Friendlies Women
 Austria W vs Ukraine W
 Eutelsat 7°E
 12693 H 7198
