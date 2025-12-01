@@ -11,6 +11,13 @@ ID: OVERON 1
 CW: 5D 3E 1F BA E9 7D 04 6A
    #[E] PID:0065h
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3967 V 7120
+ID: BT_SES_24_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+found CW: 26 67 11 9E 56 DA F3 23 
+Birmingham vs Watford
+---FEED-SEPARATOR---
 Friendlies Women
 France U23  W vs Germany U23 W
 Eutelsat 7.0°E
@@ -110,6 +117,15 @@ FIBA Basketball World Cup 2027 European Qualifiers
 Estonia vs. Czech Republic
  (19:00 CET)
 CW: 1A A0 E2 9C E2 26 B0 B8
+---FEED-SEPARATOR---
+19.2E
+11430 V 7200
+4.2.0
+ID: LAT-001 M
+FIBA Basketball World Cup 2027 European Qualifiers
+Israel vs. Croatia
+ (20:00 CET)
+CW: 15 66 88 03 37 29 FF 5F
 ---FEED-SEPARATOR---
 yun said:
 			19.2E
