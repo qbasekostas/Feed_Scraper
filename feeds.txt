@@ -1,3 +1,11 @@
+7E
+11692 H 7500
+4.2.0
+ID: AFD
+Argentine Primera División
+Barracas Central - Club de Gimnasia y Esgrima La Plata
+CW: 71 32 BB 5E 19 14 11 3E
+---FEED-SEPARATOR---
 LALIGA MD14 - 
 Rayo Vallecano vs Valencia CF 
 AsiaSat 5 100.5E
@@ -10,6 +18,14 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 5D 3E 1F BA E9 7D 04 6A
    #[E] PID:0065h
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:12725 - V - 7121
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  EFL - Birmingham v Watford
+EFL
+Birmingham vs Watford
+CW: 26 67 11 9E 56 DA F3 23
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3967 V 7120
