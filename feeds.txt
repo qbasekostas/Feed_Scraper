@@ -144,14 +144,6 @@ Estonia vs. Czech Republic
  (19:00 CET)
 CW: 1A A0 E2 9C E2 26 B0 B8
 ---FEED-SEPARATOR---
-International, FIBA World Cup, European Qualifiers, Group F
-Netherlands vs. Poland
-Astra 1KR/1L/1M/1N @ 19.2E
-11633  Vertical  7201,79
-ID: HOL324 TX1 (Newslive.nl)
-1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
-CW: 15 66 88 03 37 29 FF 5F
----FEED-SEPARATOR---
 International, FIBA World Cup, European Qualifiers, Group H
 Estonia vs. Czech Republic
 Astra 1KR/1L/1M/1N @ 19.2E
