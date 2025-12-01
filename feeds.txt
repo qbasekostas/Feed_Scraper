@@ -11,6 +11,14 @@ ID: OVERON 1
 CW: 5D 3E 1F BA E9 7D 04 6A
    #[E] PID:0065h
 ---FEED-SEPARATOR---
+Friendlies Women
+Austria W vs Ukraine W
+Eutelsat 7°E
+12693 H 7198
+MPEG 4 - 4:2:0 - DVB-S2
+ID: A1PRO Via1
+CW: FTA
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event : 
 FIFA ARABE CUP
