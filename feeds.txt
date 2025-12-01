@@ -63,6 +63,30 @@ FIFA ARAB CUP
 Qatar vs Palestine
 2F 08 7D 74 A6 CE 4F 3D  #CW:25 6B FA 8A CD 81 7E CC  
 ---FEED-SEPARATOR---
+19.2E
+11620 H 7200
+4.2.0
+ID: SWE-018 main
+FIBA Basketball World Cup 2027 European Qualifiers
+Sweden vs. Slovenia
+ (19:00 CET)
+CW: C9 3A B0 B3 24 79 16 B3
+---FEED-SEPARATOR---
+yun said:
+			19.2E
+11620 V 7200
+4.2.0
+ID: EST-003 MAIN
+FIBA Basketball World Cup 2027 European Qualifiers
+Estonia vs. Czech Republic
+ (19:00 CET)
+CW: 1A A0 E2 9C E2 26 B0 B8
+Click to expand...
+Testing new match on this frequencies
+Netherlands vs. Poland
+ID: HOL324 TX2
+99 8A 77 9A 77 45 58 14
+---FEED-SEPARATOR---
 FIBA Basketball World Cup 2027 European Qualifiers
 Asiasat 5 (100.5°E) C BAND
 3966 V 7200
@@ -79,3 +103,12 @@ FIBA Basketball World Cup 2027 European Qualifiers
 Estonia vs. Czech Republic
  (19:00 CET)
 CW: 1A A0 E2 9C E2 26 B0 B8
+---FEED-SEPARATOR---
+19.2E
+11605 H 7200
+4.2.0
+ID: YLE
+FIBA Basketball World Cup 2027 European Qualifiers
+Finland vs. France 
+(17:30 CET)
+CW: 15 66 88 03 37 29 FF 5F
