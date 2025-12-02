@@ -6,6 +6,25 @@ DFB-Pokal
 Borussia Dortmund - Bayer 04 Leverkusen
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+47W SES14 C
+3775V7500
+ID: VEN VS PERÚ PGM HD
+DVB S2 1080i 4.2.0
+FUTBOL FEMENINO CONMEBOL
+VENEZUELA 
+ PERÚ 
+CW: FE 44 56 98 98 AA BB FD
+---FEED-SEPARATOR---
+47W SES14 C
+3850V6666
+ID: CUCREA 1 FINAL 
+DVB S2 1080i 4.2.0
+Futbol Colombia 
+Serie B Final 
+Cúcuta 
+ Real Cundinamarca 
+CW: 52 64 D5 8B 0E 4F 5D BA
+---FEED-SEPARATOR---
 Spain, LaLiga
 FC Barcelona
 vs.
@@ -40,6 +59,16 @@ ID:
  OVERON 1 (OVERON)
 40 23 98 E0 71 59 00 0F 
 CW: 76 12 E4 6C D9 5F BE F6
+---FEED-SEPARATOR---
+Spanish Cup (Copa del Rey)
+Navalcarnero
+ vs 
+Getafe
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12637  Horizontal  9599,854
+ID: AVP G22 Main (AVP G22 LINEUP1)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+CW: 44 23 A2 09 13 23 32 68
 ---FEED-SEPARATOR---
 28.2E
 12626 H 9600 
