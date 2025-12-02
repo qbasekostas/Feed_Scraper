@@ -44,7 +44,7 @@ CW: 76 12 E4 6C D9 5F BE F6
 Copa del Rey, Round 2
 Numancia vs Mallorca
 Eutelsat 7B/7C @ 7.0E
-11020 v 9600
+11020 V 9600
 DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: E115 G65 VIA 2
@@ -53,7 +53,7 @@ CW: 11 5A C1 2C 34 58 A1 2D
 Copa del Rey, Round 2
 Club Portugalete vs Deportivo Alavés
 Eutelsat 7B/7C @ 7.0E
-11008 v 9600
+11008 V 9600
 DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: E115 G65 VIA 1
@@ -102,6 +102,20 @@ Badr 4/5/6/7 @ 26.0E
 ID: Qat037 M         (Vislink
 1920x1080 |16,720Mb/Sec |8PSK |4:2:0 HD
 CW: AB C2 02 6F 5D EF 18 64
+---FEED-SEPARATOR---
+Huntercuts said:
+			21.5 E
+11583
+ - Pol: 
+H
+ - SR: 
+7200
+W: Morocco x South Africa
+CW pls ?
+Click to expand...
+81 16 7A 5B CB B1 DE 30 
+CW: FE ED 02 ED 12 20 25 57
+ #[E] PID:0200h
 ---FEED-SEPARATOR---
 ABS-3A 3W
 11667 V 10000 
