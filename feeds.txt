@@ -41,6 +41,38 @@ ID:
 40 23 98 E0 71 59 00 0F 
 CW: 76 12 E4 6C D9 5F BE F6
 ---FEED-SEPARATOR---
+28.2E
+12626 H 9600 
+4.2.0
+DVBS-2 8PSK
+ID: E336 G18 VIA 1
+CW: 54 C1 23 38 A1 64 1A 1F
+Spanish Cup (Copa del Rey)
+Ebro
+ vs 
+Osasuna
+---FEED-SEPARATOR---
+Albahraniy said:
+			Copa del Rey, Round 2
+Club Portugalete vs Deportivo Alavés
+Eutelsat 7B/7C @ 7.0E
+11008 V 9600
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: E115 G65 VIA 1
+CW: C1 34 11 06 5A 58 A1 53
+Click to expand...
+28.2E
+12521 H 9600 
+4.2.0
+DVBS-2 8PSK
+ID: E-447 VIA BROADCAST PRODUC
+CW: C1 34 11 06 5A 58 A1 53
+Spanish Cup (Copa del Rey)
+Club Portugalete
+ vs 
+Deportivo Alavés
+---FEED-SEPARATOR---
 Copa del Rey, Round 2
 Numancia vs Mallorca
 Eutelsat 7B/7C @ 7.0E
@@ -74,6 +106,15 @@ ID: E-387 3 MAIN
 UEFA Women's Nations League
 Spain - Germany
 FTA
+---FEED-SEPARATOR---
+FIFA ARAB CUP
+Eutelsat 21B @21.6E
+11588 V 6666
+ID: ARA MCR ENC 2
+Saudi Arabia 
+VS
+ Oman
+CW: E3 19 DD D9 05 A7 3C E8
 ---FEED-SEPARATOR---
  FIFA ARABE CUP
 Saudi Arabia 
