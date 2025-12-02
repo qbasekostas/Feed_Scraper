@@ -41,6 +41,24 @@ ID:
 40 23 98 E0 71 59 00 0F 
 CW: 76 12 E4 6C D9 5F BE F6
 ---FEED-SEPARATOR---
+Copa del Rey, Round 2
+Numancia vs Mallorca
+Eutelsat 7B/7C @ 7.0E
+11020 v 9600
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: E115 G65 VIA 2
+CW: 11 5A C1 2C 34 58 A1 2D
+---FEED-SEPARATOR---
+Copa del Rey, Round 2
+Club Portugalete vs Deportivo Alavés
+Eutelsat 7B/7C @ 7.0E
+11008 v 9600
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: E115 G65 VIA 1
+CW: C1 34 11 06 5A 58 A1 53
+---FEED-SEPARATOR---
 UEFA Women's Nations League
 FINAL (2nd Leg)
 Spain vs Germany
