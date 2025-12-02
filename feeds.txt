@@ -33,6 +33,39 @@ ID:
 40 23 98 E0 71 59 00 0F 
 CW: 76 12 E4 6C D9 5F BE F6
 ---FEED-SEPARATOR---
+faisal6 said:
+FIFA Arab Cup - Jornada 1
+Egipto
+ VS  
+Kuwait
+Badr 4/5/6/7 @ 26.0E
+11631  Horizontal  7501,823
+ID:  SNG1 M SDN  LBN (AlkASS)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:0 HD
+CW: AB  C2 02  6F   5D EF 17  63
+Click to expand...
+Event : 
+World FIFA Arab Cup - Round 1
+Teams
+ :Saudi Arabia 
+ Oman
+---FEED-SEPARATOR---
+FIFA Arab Cup - Jornada 1
+Egipto
+ VS  
+Kuwait
+Badr 4/5/6/7 @ 26.0E
+11631  Horizontal  7501,823
+ID:  SNG1 M SDN  LBN (AlkASS)
+1920x1080 |16,720Mb/Sec |8PSK |4:2:0 HD
+CW: AB  C2 02  6F   5D EF 17  63
+---FEED-SEPARATOR---
+FIFA ARABE CUP
+Badr 4/5/6/7 @ 26.0°E
+11582 H 7500 - 4.2.0
+ID: SERVICE 01
+CW: AB C2 02 6F 5D EF 20 6C
+---FEED-SEPARATOR---
 FIFA Arab Cup - Jornada 1
 Marruecos
  VS 
