@@ -60,6 +60,14 @@ ID:
 40 23 98 E0 71 59 00 0F 
 CW: 76 12 E4 6C D9 5F BE F6
 ---FEED-SEPARATOR---
+LaLiga, Round 19
+Barcelona vs Atlético Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+11691 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.29 Mbit/s
+ID: E 340 Feed 1
+CW: 55 23 63 DB 46 AB AB 9C
+---FEED-SEPARATOR---
 7°E
 11093 V 9600
 DVB-S2|1080HD
