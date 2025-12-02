@@ -152,6 +152,22 @@ UEFA Women's Nations League
 Spain - Germany
 FTA
 ---FEED-SEPARATOR---
+International Friendly Games, Women, Round 1
+Netherlands vs South Korea
+Eutelsat 7A/7B/7C @ 7.0°E
+11608 - H - 7120
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.97 Mbit/s
+ID: NL RED BEE MEDIA
+CW: 1A 9B A7 5C C3 BD A5 25
+---FEED-SEPARATOR---
+International Friendly Games, Women, Round 1
+England vs Ghana
+Eutelsat 7A/7B/7C @ 7.0°E
+12685 - V - 7120
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.85 Mbit/s
+ID: X20 SDI Enc 4
+CW: FA AC D5 7B 6A 02 12 7E
+---FEED-SEPARATOR---
 10E
 11305 V 7200
 4.2.0
