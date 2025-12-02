@@ -41,6 +41,14 @@ ID:
 40 23 98 E0 71 59 00 0F 
 CW: 76 12 E4 6C D9 5F BE F6
 ---FEED-SEPARATOR---
+UEFA Women's Nations League
+FINAL (2nd Leg)
+Spain vs Germany
+Hispasat 30W-6 30.0°W
+12582  4:2:2 - V 14999
+ID: P1 FINAL METRO
+CW: FTA
+---FEED-SEPARATOR---
 7E
 11547 V 15000
 4.2.0
@@ -76,6 +84,18 @@ Badr 4/5/6/7 @ 26.0E
 ID: Qat037 M         (Vislink
 1920x1080 |16,720Mb/Sec |8PSK |4:2:0 HD
 CW: AB C2 02 6F 5D EF 18 64
+---FEED-SEPARATOR---
+ABS-3A 3W
+11667 V 10000 
+4:2:0
+DVBS-2 8PSK
+ID: Women's International England V Ghana
+CW: A1 24 4A 0F BC 15 C4 95
+WORLD: 
+Friendly International Women
+England W
+ VS 
+Ghana W
 ---FEED-SEPARATOR---
 Eutelsat 7B 7C (7.0E)
 11606 V 7200
