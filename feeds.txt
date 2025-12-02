@@ -4,6 +4,18 @@ vs.
 Atletico Madrid
 Eutelsat 10B @ 10.0E
 10732  Vertical  33999,708
+ID: 
+SUPPONOR AFRICA 1
+ (OVERON)
+1920x1080 |84,284Mb/Sec |8PSK |4:2:2 HD
+CW: 81 5F D1 B1 5F 45 CA 6E
+---FEED-SEPARATOR---
+Spain, LaLiga
+FC Barcelona
+vs.
+Atletico Madrid
+Eutelsat 10B @ 10.0E
+10732  Vertical  33999,708
 ID:
 OVERON 3 
 (OVERON)
