@@ -33,18 +33,6 @@ ID:
 40 23 98 E0 71 59 00 0F 
 CW: 76 12 E4 6C D9 5F BE F6
 ---FEED-SEPARATOR---
-FIFA Arab Cup, Round 1
-Badr 4/5/6/7 @ 26.0°E
-11580 V 7500
-1920x1080 |16,720Mb/Sec |8PSK |4:2:0 HD
-ID: SERVICE 01
-CW: AB C2 02 6F 5D EF 20 6C
-----
-AhmedCeNa said:
-			Service 02 has a different CW
-CW: AB AB DC 32 DC 01 89 66
-Click to expand...
----FEED-SEPARATOR---
 FIFA Arab Cup - Jornada 1
 Marruecos
  VS 
