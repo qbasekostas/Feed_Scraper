@@ -1,3 +1,11 @@
+16E
+10977 H 7200
+4.2.0
+ID: F3-1 9MHz
+DFB-Pokal
+Borussia Dortmund - Bayer 04 Leverkusen
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 Spain, LaLiga
 FC Barcelona
 vs.
@@ -69,6 +77,28 @@ ID: Qat037 M         (Vislink
 1920x1080 |16,720Mb/Sec |8PSK |4:2:0 HD
 CW: AB C2 02 6F 5D EF 18 64
 ---FEED-SEPARATOR---
+Eutelsat 7B 7C (7.0E)
+11606 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+SWE-029 SWE-FRA
+Provider: Mobilelinks 
+UEFA NATIONS LEAGUE Women, League A, Playoffs,3rd Place,2nd Match (Result 1 st Match 1:2)
+Sweden W - France W (19:00)
+CW: AC 24 B1 81 3E 21 4A A9
+---FEED-SEPARATOR---
+Event: UEFA Women's Nations League Final: Spain - Germany
+19.2°E
+- Name:           SNG (ARD)
+- Freq: 11587,238
+- Pol: Vertical
+- SR: 7199,83
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+FD D8 69 B7 53 27 B6 59  
+CW: 43 93 C2 98 39 8A 94 57
+---FEED-SEPARATOR---
 19.2°E
 11650 V 9600
 DVB-S2|1080HD
@@ -83,3 +113,11 @@ DVB-S2|1080HD
 ID: NATIONS ARD NO VBR
 Event: UEFA Women's Nations League Final: Spain - Germany
 CW: 43 93 C2 98 39 8A 94 57
+---FEED-SEPARATOR---
+16E
+11100 H 9700
+4.2.2
+ID: OTE 1
+Greek Football Cup
+Volos F.C. - Egaleo F.C.
+CW: AB 11 21 DD AB AB 11 67
