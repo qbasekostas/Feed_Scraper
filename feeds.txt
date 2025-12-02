@@ -60,6 +60,14 @@ ID:
 40 23 98 E0 71 59 00 0F 
 CW: 76 12 E4 6C D9 5F BE F6
 ---FEED-SEPARATOR---
+7°E
+11093 V 9600
+DVB-S2|1080HD
+4.2.2|H264
+ID: E-064 G55 Via 2
+Event: Copa del Rey Navalcarnero vs Getafe
+CW: 44 23 A2 09 13 23 32 68
+---FEED-SEPARATOR---
 Spanish Cup (Copa del Rey)
 Navalcarnero
  vs 
