@@ -136,6 +136,14 @@ UEFA Women's Nations League
 Spain - Germany
 FTA
 ---FEED-SEPARATOR---
+10E
+11305 V 7200
+4.2.0
+ID: SINTRA 1 BK
+Friendly International Women
+Portugal - Brasil
+CW: 2D A3 7C 4C 9E 1B 4F 08
+---FEED-SEPARATOR---
 FIFA ARAB CUP
 Eutelsat 21B @21.6E
 11588 V 6666
