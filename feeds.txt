@@ -68,3 +68,18 @@ Badr 4/5/6/7 @ 26.0E
 ID: Qat037 M         (Vislink
 1920x1080 |16,720Mb/Sec |8PSK |4:2:0 HD
 CW: AB C2 02 6F 5D EF 18 64
+---FEED-SEPARATOR---
+19.2°E
+11650 V 9600
+DVB-S2|1080HD
+4.2.2|H264
+ID: E-467 NATIONS ARD VBR
+Event: UEFA Women's Nations League Final: Spain - Germany
+CW: 43 93 C2 98 39 8A 94 57
+19.2°E
+11662 V 9600
+DVB-S2|1080HD
+4.2.2|H264
+ID: NATIONS ARD NO VBR
+Event: UEFA Women's Nations League Final: Spain - Germany
+CW: 43 93 C2 98 39 8A 94 57
