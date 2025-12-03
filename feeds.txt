@@ -30,6 +30,18 @@ LaLiga
 Athletic Club - Real Madrid CF
 CW: 83 8F AD BF D6 C8 65 03
 ---FEED-SEPARATOR---
+FIFA Arab Cup - Jornada
+Jordania
+ VS 
+Emiratos Árabes Unidos
+Badr 4/5/6/7 @ 26.0E
+11578  Vertical  15000,228
+ID:    Service 01       (Vislink)
+1920x1080 |33,435Mb/Sec |8PSK |4:2:0 HD
+EC 73 70 E7 F7 C1 08 1C 
+CW: AB C2 02 6F 5D EC CB 1
+4
+---FEED-SEPARATOR---
 26E
 11110 H 7500
 4.2.0
@@ -48,12 +60,36 @@ ID: SNG3 SYR TUN M (TANDBERG Television)
 1920x1080 |16,722Mb/Sec |8PSK |4:2:0 HD
 CW: AB DE F2 7B 02 5F 99 FA
 ---FEED-SEPARATOR---
+FIFA Arab Cup - Jornada
+Jordania
+ VS 
+Emiratos Árabes Unidos
+Badr 4/5/6/7 @ 26.0E
+11578 Vertical 15000,228)
+ID: Service 02 (Vislink)
+1920x1080 |33,435Mb/Sec |8PSK |4:2:0 HD
+CW: AB AB DC 32 DC 01 89 66
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11092 - V - 9875
 1920x1080 | H.264/AVC Video | 4:2:0 | 19.32 Mbit/s
 ID: Fi12_GNVE
 UEFA Womens Euro 2029 Host Announcement
 CW: 9A EC BC 42 2B 57 2D AF
+---FEED-SEPARATOR---
+Greek Cup 
+Levadiakos vs FC Markopoulo
+13.0E
+- Name:           TANDBERG (TANDBERG Television)
+- Freq: 11053,986
+- Pol: Horizontal
+- SR: 9700,114
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+E4 EB 01 3E 4C 90 D3 1E 
+CW: 55 22 BB 32 CC 12 34 12
+  #[E] PID:0065h
 ---FEED-SEPARATOR---
 Greek Cup, League phase - Matchday 4
 Ellas Syrou vs Olympiacos
