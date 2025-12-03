@@ -1,3 +1,11 @@
+Germany, DFB Pokal - 1/8-finals
+Bochum 
+ Stuttgart
+C_Eutelsat 3.1°E Cband 
+3793 H 3750 - 4.2.0
+ID: DFB - Bochum v Stuttgart 
+CW: CA FE BA 82 BE 56 78 8C
+---FEED-SEPARATOR---
 28.2E
 12626 H 9600 
 4.2.0
