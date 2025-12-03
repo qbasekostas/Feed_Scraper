@@ -114,6 +114,17 @@ ID: Fi12_GNVE
 UEFA Womens Euro 2029 Host Announcement
 CW: 9A EC BC 42 2B 57 2D AF
 ---FEED-SEPARATOR---
+13E
+11066 H 9700
+4.2.2
+ID: AVP_OU_A
+Greek Football Cup
+Panathinaikos F.C. - A.E. Kifisia F.C.
+CW: AB 11 21 DD AB AB 1
+2
+ 6
+8
+---FEED-SEPARATOR---
 yun said:
 Hotbird 13B ( 13E )
 11043 H 9700
