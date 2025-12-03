@@ -39,3 +39,10 @@ Badr 4/5/6/7 @ 26.0E
 ID: SNG3 SYR TUN M (TANDBERG Television)
 1920x1080 |16,722Mb/Sec |8PSK |4:2:0 HD
 CW: AB DE F2 7B 02 5F 99 FA
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11092 - V - 9875
+1920x1080 | H.264/AVC Video | 4:2:0 | 19.32 Mbit/s
+ID: Fi12_GNVE
+UEFA Womens Euro 2029 Host Announcement
+CW: 9A EC BC 42 2B 57 2D AF
