@@ -1,3 +1,10 @@
+Coppa Italia - Ottavi di Finale
+SSC Napoli v Cagliari
+ Eutelsat 10.0°E C-Band
+ 3905 H 3750.    4:2:0
+Id: coppa Italia
+CW: 00 8E 3D CB AF 81 77 A7
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
