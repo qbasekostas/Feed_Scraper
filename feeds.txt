@@ -54,3 +54,10 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: Fi12_GNVE
 UEFA Womens Euro 2029 Host Announcement
 CW: 9A EC BC 42 2B 57 2D AF
+---FEED-SEPARATOR---
+Greek Cup, League phase - Matchday 4
+Ellas Syrou vs Olympiacos
+13e
+11042 H 9600
+ID: SNG ABC 1
+CW: AA BB 12 77 34 BB CC BB
