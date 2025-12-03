@@ -30,6 +30,14 @@ LaLiga
 Athletic Club - Real Madrid CF
 CW: 83 8F AD BF D6 C8 65 03
 ---FEED-SEPARATOR---
+26E
+11110 H 7500
+4.2.0
+ID: SNG1  B
+FIFA Arab Cup
+Iraq - Bahrain
+CW: AB DE F2 7B 02 6F 76 E7
+---FEED-SEPARATOR---
 FIFA Arab Cup - Jornada 
   Argelia
  VS 
