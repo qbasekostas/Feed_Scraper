@@ -142,20 +142,6 @@ Torrent
 Real Betis
 CW: 21 4C 1A 87 73 C1 A7 DB
 ---FEED-SEPARATOR---
-faisal6 said:
-Eutelsat 7B-7C   @ 7.0E
-10998  Vertical  9599,854
-ID: AVP 1080P LINEUP 2 (AVP 1080P)
-1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
-España
-Copa del Rey - 1/32 de final
-Antoniano
- VS 
-Villarreal
-CW: 12 C7 15 EE 36 54 31 BB
-Click to expand...
-Ourense vs Girona
----FEED-SEPARATOR---
 7E
 11106 V 9600
 4.2.0
@@ -170,9 +156,7 @@ ID: AVP 1080P LINEUP 2 (AVP 1080P)
 1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
 España
 Copa del Rey - 1/32 de final
-Antoniano
- VS 
-Villarreal
+Ourense vs Girona
 CW: 12 C7 15 EE 36 54 31 BB
 ---FEED-SEPARATOR---
 7E
