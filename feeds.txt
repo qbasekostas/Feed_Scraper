@@ -6,6 +6,50 @@ C_Eutelsat 3.1°E Cband
 ID: DFB - Bochum v Stuttgart 
 CW: CA FE BA 82 BE 56 78 8C
 ---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12521  Horizontal  9599,854
+ID:    E336 G18 VIA 1 (Service Provider)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Reus FCR
+ VS 
+Real Sociedad
+CW: 12 C7 15 EE 36 54 31 BB
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12509  Horizontal  9599,854
+ID:  M-56  VIA1 (E-61 VIA 1)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Cieza
+ VS 
+Levante
+CW: A2 C7 54 BD 31 15 36 7C
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12586  Vertical  9599,854
+ID:    AVP G22 Back Up (AVP G22 LINEUP 2)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Torrent
+ vs 
+Real Betis
+CW: 21 4C 1A 87 73 C1 A7 DB
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12573  Vertical  9599,854
+ID:   AVP G22 Main (AVP G22 LINEUP1)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Torrent
+ vs 
+Real Betis
+CW: 21 4C 1A 87 73 C1 A7 DB
+---FEED-SEPARATOR---
 28.2E
 12626 H 9600 
 4.2.0
@@ -113,6 +157,18 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: Fi12_GNVE
 UEFA Womens Euro 2029 Host Announcement
 CW: 9A EC BC 42 2B 57 2D AF
+---FEED-SEPARATOR---
+Greek Football Cup
+13.0E
+- Name:           SNG ATLAS-SAT 1 (GRC-017)
+- Freq: 11041,631
+- Pol: Horizontal
+- SR: 9700,103
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+1C 80 69 BF FE 95 01 73 
+CW: 88 AA 55 87 BB 12 BB 88
 ---FEED-SEPARATOR---
 13E
 11066 H 9700
