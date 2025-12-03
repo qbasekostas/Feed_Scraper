@@ -29,3 +29,13 @@ ID: OVERON 1
 LaLiga
 Athletic Club - Real Madrid CF
 CW: 83 8F AD BF D6 C8 65 03
+---FEED-SEPARATOR---
+FIFA Arab Cup - Jornada 
+  Argelia
+ VS 
+Sudán
+Badr 4/5/6/7 @ 26.0E
+11631  Horizontal  7502,203
+ID: SNG3 SYR TUN M (TANDBERG Television)
+1920x1080 |16,722Mb/Sec |8PSK |4:2:0 HD
+CW: AB DE F2 7B 02 5F 99 FA
