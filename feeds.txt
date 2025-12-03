@@ -1,10 +1,3 @@
-Coppa Italia - Ottavi di Finale
-SSC Napoli v Cagliari
- Eutelsat 10.0°E C-Band
- 3905 H 3750.    4:2:0
-Id: coppa Italia
-CW: 00 8E 3D CB AF 81 77 A7
----FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -91,6 +84,8 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: Fi12_GNVE
 UEFA Womens Euro 2029 Host Announcement
 CW: 9A EC BC 42 2B 57 2D AF
+---FEED-SEPARATOR---
+pao kifisia?
 ---FEED-SEPARATOR---
 yun said:
 Hotbird 13B ( 13E )
