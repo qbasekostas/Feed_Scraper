@@ -11,6 +11,7 @@ CW: CA FE BA 82 BE 56 78 8C
 4.2.0
 ID: E155 G65 VIA 1
 Copa del Rey
+CD Cieza - Levante UD
 CW: 15 36 12 5D C7 54 31 4C
 ---FEED-SEPARATOR---
 faisal6 said:
@@ -131,6 +132,18 @@ Athletic Club - Real Madrid CF
 CW: 83 8F AD BF D6 C8 65 03
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
+10973  Vertical  9599,854
+ID:E-064 G55 Via 2 (VIPER 40 2024)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Torrent
+ VS 
+Real Betis
+CW: 21 4C 1A 87 73 C1 A7 DB
+---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 7B-7C   @ 7.0E
 10998  Vertical  9599,854
 ID: AVP 1080P LINEUP 2 (AVP 1080P)
 1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
@@ -140,6 +153,35 @@ Antoniano
  VS 
 Villarreal
 CW: 12 C7 15 EE 36 54 31 BB
+Click to expand...
+Ourense vs Girona
+---FEED-SEPARATOR---
+7E
+11106 V 9600
+4.2.0
+ID: E155 G65 VIA 2
+Copa del Rey
+Reus FC Reddis - Real Sociedad
+CW: 12 C7 15 EE 36 54 31 BB
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+10998  Vertical  9599,854
+ID: AVP 1080P LINEUP 2 (AVP 1080P)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Antoniano
+ VS 
+Villarreal
+CW: 12 C7 15 EE 36 54 31 BB
+---FEED-SEPARATOR---
+7E
+12639 H 7200
+4.2.0
+ID: GCUK Enc 8
+Scottish Premiership
+Dundee United F.C. - Rangers F.C.
+CW: 89 9B CE F2 9F F7 CD 63
 ---FEED-SEPARATOR---
 FIFA Arab Cup - Jornada
 Jordania
