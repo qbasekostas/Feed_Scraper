@@ -1,3 +1,24 @@
+28.2E
+12626 H 9600 
+4.2.0
+DVBS-2 QPSK
+ID: BSA 01 E-377
+CW: A2 C7 54 BD 31 15 36 7C
+Spanish Cup (Copa del Rey)
+Quintanar del Rey
+ vs 
+Elche
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OVERON 1
+omid1348 said:
+			Athletic Club - Real Madrid CF
+CW: 83 8F AD BF D6 C8 65 03
+Click to expand...
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -84,8 +105,6 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: Fi12_GNVE
 UEFA Womens Euro 2029 Host Announcement
 CW: 9A EC BC 42 2B 57 2D AF
----FEED-SEPARATOR---
-pao kifisia?
 ---FEED-SEPARATOR---
 yun said:
 Hotbird 13B ( 13E )
