@@ -6,6 +6,25 @@ C_Eutelsat 3.1°E Cband
 ID: DFB - Bochum v Stuttgart 
 CW: CA FE BA 82 BE 56 78 8C
 ---FEED-SEPARATOR---
+7E
+11092 V 9600
+4.2.0
+ID: E155 G65 VIA 1
+Copa del Rey
+CW: 15 36 12 5D C7 54 31 4C
+---FEED-SEPARATOR---
+faisal6 said:
+CW: A2 C7 54 BD 31 15 36 7C
+Click to expand...
+Eutelsat 7B-7C   @ 7.0E
+10962  Vertical  9599,854
+ID:  E-064 G55 Via1 (TBS)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Quintanar del Rey VS 
+Elche
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12521  Horizontal  9599,854
 ID:    E336 G18 VIA 1 (Service Provider)
@@ -111,6 +130,17 @@ LaLiga
 Athletic Club - Real Madrid CF
 CW: 83 8F AD BF D6 C8 65 03
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+10998  Vertical  9599,854
+ID: AVP 1080P LINEUP 2 (AVP 1080P)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Antoniano
+ VS 
+Villarreal
+CW: 12 C7 15 EE 36 54 31 BB
+---FEED-SEPARATOR---
 FIFA Arab Cup - Jornada
 Jordania
  VS 
@@ -159,6 +189,7 @@ UEFA Womens Euro 2029 Host Announcement
 CW: 9A EC BC 42 2B 57 2D AF
 ---FEED-SEPARATOR---
 Greek Football Cup
+Aris x PAOK
 13.0E
 - Name:           SNG ATLAS-SAT 1 (GRC-017)
 - Freq: 11041,631
