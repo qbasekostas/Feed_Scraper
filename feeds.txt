@@ -1,14 +1,5 @@
-Event:Asia Arabian Gulf Cup U23 - Round 1
-Teams :Iraq U23 
- Yemen U23
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-11022 H 7200
- UAE074 - 1 (*unnamed-1*)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
-CW: 2E C5 E0 D3 55 51 88 2E
----FEED-SEPARATOR---
 FIFA Arab Cup
+Palestine vs  Tunisia
 26.0E
 - Name:           Service 01       (Vislink)
 - Freq: 11581,143
