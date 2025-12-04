@@ -22,3 +22,27 @@ Palestine vs  Tunisia
 - Std: DVB-S2
 CC AF E8 64 A0 35 B9 28  
 CW: AB C2 02 6F 6D EF 22 7E
+---FEED-SEPARATOR---
+13E
+11042 H 9700
+4.2.2
+ID: OTE 1
+Greek Football Cup
+Iraklis F.C. - Panetolikos F.C.
+CW: BA 11 21 EC AB CB 22 98
+---FEED-SEPARATOR---
+sahafe said:
+Greek Football Cup
+Aris x PAOK
+13.0E
+- Name:           SNG ATLAS-SAT 1 (GRC-017)
+- Freq: 11041,631
+- Pol: Horizontal
+- SR: 9700,103
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+1C 80 69 BF FE 95 01 73 
+CW: 88 AA 55 87 BB 12 BB 88
+Click to expand...
+new cw pls?
