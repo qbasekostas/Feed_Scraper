@@ -1,3 +1,25 @@
+7E
+10973 V 9600
+4.2.0
+ID: G 19 E349 Via 2
+Copa del Rey
+CD Atlético Baleares - RCD Espanyol de Barcelona
+CW: 93 1C 7C 2B 1A 53 41 AE
+---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12521  Horizontal  9599,854
+ID: E-96 FEED 1 (Overon)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Leganés
+ vs 
+Albacete
+CW: 93 1C 7C 2B 1A 53 41 AE
+Click to expand...
+Atlético Baleares vs. Espanyol
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12625  Horizontal  9599,854
 ID: G10 AVP 1080P (AVP 1080P)
