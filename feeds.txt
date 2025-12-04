@@ -6,6 +6,18 @@ FÚTBOL COLOMBIANO
 NACIONAL VS MEDELLÍN 
 CW: F3 40 59 8C A5 FA AB 4A
 ---FEED-SEPARATOR---
+Copa del Rey
+Cartagena vs Valencia
+30.0W
+- Name:           AVP G22 Main (AVP G22 LINEUP1)
+- Freq: 11625,701
+- Pol: Horizontal
+- SR: 9600,234
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+CW: 26 2A 3C 8C 15 67 AA 26
+---FEED-SEPARATOR---
 omid1348 said:
 			7E
 11104 V 9600
@@ -151,6 +163,19 @@ Hispasat 30W-6 30.0°W
 12578 V 7200 | 4:2:0
 ID: A1PRO Via1
 CW: 4A 04 B1 FF 2C 20 25 71
+---FEED-SEPARATOR---
+Copa del Rey
+Tenerife vs Granada
+30.0W
+- Name:           E-401 V1   (Net 1)
+- Freq: 11601,699
+- Pol: Horizontal
+- SR: 9600,125
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+61 E1 F3 FE 6C 10 9D AB  
+CW: 23 AC 52 21 A2 24 17 DD
 ---FEED-SEPARATOR---
 FA Cup Preview Show
 Eutelsat 7B/7C @ 7.0E
