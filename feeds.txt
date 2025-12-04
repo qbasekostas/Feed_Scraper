@@ -1,3 +1,11 @@
+47W SES14 C
+4148H9873
+Id: Fi10_GNVE
+DVB S2 1080i 4.2.0
+Copa del Rey
+CD Atlético Baleares - RCD Espanyol de Barcelona
+CW: 93 1C 7C 2B 1A 53 41 AE
+---FEED-SEPARATOR---
 7E
 10973 V 9600
 4.2.0
@@ -102,6 +110,30 @@ Palestine vs  Tunisia
 - Std: DVB-S2
 CC AF E8 64 A0 35 B9 28  
 CW: AB C2 02 6F 6D EF 22 7E
+---FEED-SEPARATOR---
+Euroleague, Round 14
+Hapoel Tel-Aviv vs LDLC ASVEL Lyon-Villeurbanne
+Eutelsat 7A/7B/7C @ 7.0°E
+11087 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.38 Mbit/s
+ID: EuLeag_M5 MAIN
+CW: 48 68 4E FE 6E 54 EA AC
+---FEED-SEPARATOR---
+United Cup, Group B, Round 4
+KK Igokea Aleksandrovac mtl vs Zenit St. Petersburg
+Eutelsat 7A/7B/7C @ 7.0°E
+12640 - V - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.26 Mbit/s
+ID: BIH007 M
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 9
+Aris BC vs U-Banca Transilvania Cluj-Napoca
+Eutelsat 7A/7B/7C @ 7.0°E
+11691 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.16 Mbit/s
+ID: aris vs cluj napuca
+CW: C1 3A F1 EC 4B F8 6A AD
 ---FEED-SEPARATOR---
 delete..
 ---FEED-SEPARATOR---
