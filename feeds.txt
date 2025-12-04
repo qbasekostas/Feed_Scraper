@@ -166,6 +166,17 @@ Palestine vs  Tunisia
 CC AF E8 64 A0 35 B9 28  
 CW: AB C2 02 6F 6D EF 22 7E
 ---FEED-SEPARATOR---
+hobo232 said:
+			7°E
+11089 H 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: F489 MAIN
+Event: Euroleague AS Monaco Vs Paris
+CW: A6 35 71 4C 19 D8 18 09
+Click to expand...
+11080 H 7200
+---FEED-SEPARATOR---
 7°E
 11089 H 7200
 DVB-S2|1080HD
