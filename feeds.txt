@@ -1,3 +1,24 @@
+47W SES14 C 
+3849H6666 
+ID: NACMED 1
+DVB-S2 4.2.0 1080I 
+FÚTBOL COLOMBIANO 
+NACIONAL VS MEDELLÍN 
+CW: F3 40 59 8C A5 FA AB 4A
+---FEED-SEPARATOR---
+omid1348 said:
+			7E
+11104 V 9600
+4.2.0
+ID: E115 G65 VIA 1
+Copa del Rey
+FC Cartagena - Valencia CF
+CW: 26 2A 3C 8C 15 67 AA 26
+Click to expand...
+47W SES14 C 
+4160H9873
+ID: FI16 GNVE
+---FEED-SEPARATOR---
 Copa del Rey, Round 2
 CD Extremadura vs Sevilla
 Eutelsat 7A/7B/7C @ 7.0°E
