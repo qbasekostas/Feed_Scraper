@@ -1,0 +1,11 @@
+FIFA Arab Cup
+26.0E
+- Name:           Service 01       (Vislink)
+- Freq: 11581,143
+- Pol: Vertical
+- SR: 7499,874
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+CC AF E8 64 A0 35 B9 28  
+CW: AB C2 02 6F 6D EF 22 7E
