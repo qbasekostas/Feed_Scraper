@@ -1,3 +1,15 @@
+FIFA Arab Cup 
+26.0E
+- Name:           Qat037 M         (Vislink)
+- Freq: 11572,372
+- Pol: Vertical
+- SR: 7499,863
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+47 F9 5E 0A FC BD C1 77
+CW: AB C2 02 6F 0D EF EE EA
+---FEED-SEPARATOR---
 FIFA Arab Cup
 Palestine vs  Tunisia
 26.0E
