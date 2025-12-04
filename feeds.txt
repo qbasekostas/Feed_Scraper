@@ -1,4 +1,5 @@
 FIFA Arab Cup 
+Syria vs. Qatar
 26.0E
 - Name:           Qat037 M         (Vislink)
 - Freq: 11572,372
@@ -22,6 +23,14 @@ Palestine vs  Tunisia
 - Std: DVB-S2
 CC AF E8 64 A0 35 B9 28  
 CW: AB C2 02 6F 6D EF 22 7E
+---FEED-SEPARATOR---
+7°E
+11692 H 7200
+DVB-S2|1080HD
+4.2.2|H264
+ID: aris VS cluj napoca
+Event: BKT Euro Cup Aris v Cluj-Napoca
+CW: C1 3A F1 EC 4B F8 6A AD
 ---FEED-SEPARATOR---
 13E
 11042 H 9700
