@@ -1,4 +1,12 @@
 7E
+11092 V 9600
+4.2.0
+ID: E115 G65 VIA 2
+Copa del Rey
+CD Extremadura - Sevilla FC
+CW: 52 A2 23 17 AC 24 17 E7
+---FEED-SEPARATOR---
+7E
 11104 V 9600
 4.2.0
 ID: E115 G65 VIA 1
