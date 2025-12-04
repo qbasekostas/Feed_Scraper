@@ -103,6 +103,40 @@ Palestine vs  Tunisia
 CC AF E8 64 A0 35 B9 28  
 CW: AB C2 02 6F 6D EF 22 7E
 ---FEED-SEPARATOR---
+delete..
+---FEED-SEPARATOR---
+7E
+11665 H 7200
+4.2.0
+ID: YSM-012 MAIN
+EuroCup Basketball
+Hapoel J-M - Reyer
+CW: 11 53 CB 2F 31 A5 26 FC
+---FEED-SEPARATOR---
+7°E
+12677 H 7200
+DVB-S2|1080HD
+4.2.2|H264
+ID: BBL Chemnitz
+Event: BKT Euro Cup NINERS Chemnitz Vs Turk Telekom Ankara
+CW: BB EE 04 AD 12 20 25 57
+---FEED-SEPARATOR---
+7°E
+12686 H 7200
+DVB-S2|1080HD
+4.2.2|H264
+ID: BBL Ulm
+Event: BKT Euro Cup ratiopharm ulm Vs Dolomiti Energia Trento
+CW: BB EE 12 BB 04 20 25 49
+---FEED-SEPARATOR---
+7°E
+12727 V 7200
+DVB-S2|1080HD
+4.2.2|H264
+ID: LAT-002
+Event: BKT Euro Cup Lietkabelis Panevezys Vs London Lions
+CW: BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
 7°E
 11607 V 7200
 DVB-S2|1080HD
