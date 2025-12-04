@@ -1,3 +1,42 @@
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12625  Horizontal  9599,854
+ID: G10 AVP 1080P (AVP 1080P)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+CD Extremadura
+ vs 
+Sevilla
+CW: 52 A2 23 17 AC 24 17 E7
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12521  Horizontal  9599,854
+ID: E-96 FEED 1 (Overon)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Leganés
+ vs 
+Albacete
+CW: 93 1C 7C 2B 1A 53 41 AE
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12509  Horizontal  9599,854
+ID:  E-447 VIA 1 BROADCAST PRODUC (Harm
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+Copa del Rey, Round 2
+Real Ávila CF vs Rayo Vallecano
+CW: 1A AA 62 26 C1 1C 73 50
+---FEED-SEPARATOR---
+Copa del Rey, Round 2
+Real Ávila CF vs Rayo Vallecano
+Eutelsat 7B/7C @ 7.0E
+10960 V 9600
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: G19 E349 Via 1
+CW: 1A AA 62 26 C1 1C 73 50
+---FEED-SEPARATOR---
 Spain
 , 
 Copa del Rey - 1/32-final
@@ -41,6 +80,14 @@ Palestine vs  Tunisia
 - Std: DVB-S2
 CC AF E8 64 A0 35 B9 28  
 CW: AB C2 02 6F 6D EF 22 7E
+---FEED-SEPARATOR---
+7°E
+11607 V 7200
+DVB-S2|1080HD
+4.2.2|H264
+ID: CRO-023/1
+Event: BKT Euro Cup Cedevita Olimpija Ljubljana Vs Slask Wroclaw
+CW: 04 7A DF 5D 5F CC 12 3D
 ---FEED-SEPARATOR---
 Eurocup
 Bahçeşehir Koleji vs Klaipėdos Neptūnas
