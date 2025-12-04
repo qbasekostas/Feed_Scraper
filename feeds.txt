@@ -1,3 +1,11 @@
+Copa del Rey, Round 2
+CD Extremadura vs Sevilla
+Eutelsat 7A/7B/7C @ 7.0°E
+11008 - V - 9600
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.74 Mbit/s
+ID: E-064 G55 Via 2
+CW: 23 AC 52 21 A2 24 17 DD
+---FEED-SEPARATOR---
 7E
 11092 V 9600
 4.2.0
