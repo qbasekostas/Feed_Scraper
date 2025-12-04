@@ -1,3 +1,41 @@
+7E
+11104 V 9600
+4.2.0
+ID: E115 G65 VIA 1
+Copa del Rey
+FC Cartagena - Valencia CF
+CW: 26 2A 3C 8C 15 67 AA 26
+---FEED-SEPARATOR---
+7E
+11021 V 9600
+4.2.0
+ID: E-064 G55 Via 1
+Copa del Rey
+UE Sant Andreu - RC Celta de Vigo
+CW: 44 23 A2 09 13 23 32 68
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12586  Vertical  9599,854
+ID:   E336 G18 VIA 3 BACK UP (Service Provider)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+España
+Copa del Rey - 1/32 de final
+Sant Andreu
+ VS 
+Celta de Vigo
+CW: 44 23 A2 09 13 23 32 68
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12574  Vertical  9599,854
+ID:  E336 G18 VIA 1 (Service Provider)
+1920x1080 |21,396Mb/Sec |8PSK |4:2:0 HD
+CW: 44 23 A2 09 13 23 32 68
+España
+Copa del Rey - 1/32 de final
+Sant Andreu
+ VS 
+Celta de Vigo
+---FEED-SEPARATOR---
 47W SES14 C
 4148H9873
 Id: Fi10_GNVE
@@ -120,6 +158,14 @@ Palestine vs  Tunisia
 CC AF E8 64 A0 35 B9 28  
 CW: AB C2 02 6F 6D EF 22 7E
 ---FEED-SEPARATOR---
+7°E
+11089 H 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: F489 MAIN
+Event: Euroleague AS Monaco Vs Paris
+CW: A6 35 71 4C 19 D8 18 09
+---FEED-SEPARATOR---
 Euroleague, Round 14
 Hapoel Tel-Aviv vs LDLC ASVEL Lyon-Villeurbanne
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -135,16 +181,6 @@ Eutelsat 7A/7B/7C @ 7.0°E
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.26 Mbit/s
 ID: BIH007 M
 CW: AB BA 20 85 25 20 26 6B
----FEED-SEPARATOR---
-Eurocup, Group A, Round 9
-Aris BC vs U-Banca Transilvania Cluj-Napoca
-Eutelsat 7A/7B/7C @ 7.0°E
-11691 - H - 7200
-1920x1080 | H.264/AVC Video | 4:2:0 | 15.16 Mbit/s
-ID: aris vs cluj napuca
-CW: C1 3A F1 EC 4B F8 6A AD
----FEED-SEPARATOR---
-delete..
 ---FEED-SEPARATOR---
 7E
 11665 H 7200
@@ -202,6 +238,16 @@ DVB-S2|1080HD
 ID: aris VS cluj napoca
 Event: BKT Euro Cup Aris v Cluj-Napoca
 CW: C1 3A F1 EC 4B F8 6A AD
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11071  Horizontal  7201,757
+ID:  IMG A EU (Eurovision Services)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Event
+:
+Euroleague
+Žalgiris v Maccabi Tel Aviv
+CW: D1 99 A3 0D A7 B4 3F 9A
 ---FEED-SEPARATOR---
 13E
 11042 H 9700
