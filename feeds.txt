@@ -57,6 +57,15 @@ AsiaSat 5 100.5E
 ID: OVERON 1
 CW: 31 AC 0E EB 4D 82 96 65
 ---FEED-SEPARATOR---
+archiesat said:
+			Scottish Championship - Week 17
+Greenock Morton v Queen's Park
+Click to expand...
+Eutelsat 16A @ 16.0E
+12702  Vertical  9999,808
+ID: Uki-1592   (BBC SCOT  )
+1920x1080 |22,288Mb/Sec |8PSK |4:2:0 HD
+---FEED-SEPARATOR---
 The FA Cup 2025/26, Round 2
 Salford City vs Layton Orient
 7E
@@ -168,6 +177,22 @@ TURKEY: Super Lig
 Trabzonspor - Tofas
 12610 V 7500 
 MPEG-4 4:2:2
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+10985 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.14 Mbit/s
+ID: E115 G65 VIA 1
+CW: 13 11 AA CE CC 20 23 0F
+Click to expand...
+EuroCup Basketball
+Manresa - Hamburg
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+10985 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.14 Mbit/s
+ID: E115 G65 VIA 1
+CW: 13 11 AA CE CC 20 23 0F
 ---FEED-SEPARATOR---
 10E
 11287 V 7200
