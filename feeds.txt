@@ -57,6 +57,22 @@ AsiaSat 5 100.5E
 ID: OVERON 1
 CW: 31 AC 0E EB 4D 82 96 65
 ---FEED-SEPARATOR---
+16E
+12722 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship - Week 17
+Greenock Morton v Queen's Park
+---FEED-SEPARATOR---
+16E
+12715 V 10000
+ 4:2:0
+DVB-S2 8PSK
+ID: Uki-1592
+Scottish Championship - Week 17
+Greenock Morton v Queen's Park
+---FEED-SEPARATOR---
 archiesat said:
 			Scottish Championship - Week 17
 Greenock Morton v Queen's Park
