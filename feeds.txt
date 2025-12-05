@@ -168,6 +168,14 @@ DVB-S2 - 1080P - 8PSK
 ID: YSM-016 MAIN
 CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11070 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: IMG A EU
+Euroleague
+Kosner Baskonia Vitoria-Gasteiz 
+CW: 2C 51 ED 6A 22 74 7C 12
+---FEED-SEPARATOR---
 Eurocup, Group B, Round 9
 Beşiktaş Gain vs Panionios BC
 Eutelsat 7A/7B/7C @ 7.0°E
