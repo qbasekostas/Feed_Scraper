@@ -1,3 +1,13 @@
+Bundesliga, Round 13
+1. FSV Mainz 05 vs Borussia M'gladbach
+Eutelsat 7A/7B/7C @ 7.0°E
+11020 - V - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.89 Mbit/s
+ID: GVA_Fi03
+CW: 3E F7 FB 30 70 DD 13 60
+---FEED-SEPARATOR---
 Eutelsat (16°E)
 11062 H 9875
 4.2.0
@@ -46,6 +56,14 @@ AsiaSat 5 100.5E
 8PSK 5/6 DVB-S2 4.2.2
 ID: OVERON 1
 CW: 31 AC 0E EB 4D 82 96 65
+---FEED-SEPARATOR---
+The FA Cup 2025/26, Round 2
+Salford City vs Layton Orient
+7E
+11692 H 7200
+4:2:0
+ID: Pitch FA cup Salford City v Layton Orient
+FTA
 ---FEED-SEPARATOR---
 16E
 12703 V 10000
@@ -150,6 +168,20 @@ TURKEY: Super Lig
 Trabzonspor - Tofas
 12610 V 7500 
 MPEG-4 4:2:2
+---FEED-SEPARATOR---
+10E
+11287 V 7200
+4.2.0
+ID: F-489 MAIN
+EuroCup Basketball
+Bourg-en-Bresse - Buducnost
+CW: 05 12 BC D3 AD 20 25 F2
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12638 - V - 4938
+H.264/AVC Video | 10.24 Mbit/s
+ID: YSM-021M
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 ABA Liga
 KK Zadar vs BC Vienna
