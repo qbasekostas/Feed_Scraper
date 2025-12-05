@@ -55,6 +55,14 @@ ID: Uki-1592
 Scottish Championship - Week 17
 Greenock Morton v Queen's Park
 ---FEED-SEPARATOR---
+Championship, Round 19
+Hull City vs Middlesbrough
+Eutelsat 7A/7B/7C @ 7.0°E
+11605 - V - 7120
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.99 Mbit/s
+ID: Pitch EFL - Hull FC v Middlesbrough
+CW: 25 93 39 F1 92 BE 34 84
+---FEED-SEPARATOR---
 0.8°W
 11468 V 15000
 4:2:2
