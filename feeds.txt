@@ -1,6 +1,0 @@
-LALIGA MD15 - Real Oviedo vs RCD Mallorca 
-AsiaSat 5 100.5E
-3840 H 29998
-8PSK 5/6 DVB-S2 4.2.2
-ID: OVERON 1
-CW: 31 AC 0E EB 4D 82 96 65
