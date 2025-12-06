@@ -149,8 +149,43 @@ Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
 ID:OVERON 1
 LaLiga 
-LaLiga Villarreal  v Getafe
+Deportivo Alaves vs Real Sociedad 
 CW: 63 70 3B 0E 8D 52 72 51
+---FEED-SEPARATOR---
+England
+, 
+FA Cup - 1/64-finals
+Chelmsford
+Weston-super-Mare
+0.8W
+11152 V 7200 - 4.2.0
+ID: UKI 1870 PATH 1
+CW: FTA
+---FEED-SEPARATOR---
+England
+FA Cup - 1/64-finals
+Cheltenham
+Buxton
+ 0.8°W
+11498 V 7200 - 4.2.0
+ID: FA CUP CHELTENHAM 
+CW: 53 7E 30 01 7F EF F6 64
+---FEED-SEPARATOR---
+FA Cup - 1/64-finals
+Sutton
+Shrewsbury
+Thor 0,8°W
+11480 V 7200 - 4.2.0
+ID: UNNAME 
+CW: FF FB 30 2A BF 6C F9 24
+---FEED-SEPARATOR---
+England, FA Cup
+Sutton United vs. Shrewsbury Town
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12590  Vertical  7201,911
+ID:WBD SUTTON (Timeline  )
+1920x1080 |16,051Mb/Sec |8PSK |4:2:2 HD
+CW: AA 23 44 11 AB BB 1A 80
 ---FEED-SEPARATOR---
 ABS 3.0°W
 11995 V 10000
