@@ -17,6 +17,14 @@ vs.
 Werder Bremen
 CW: 06 12 ED 05 CC 54 88 A8
 ---FEED-SEPARATOR---
+19.2e
+11441 v 7200
+id: 1860-Schweinfurt 
+4:2:0
+3. liga
+1860 Munich v Schweinfurt
+CW: 06 12 BE D6 FA 68 13 75
+---FEED-SEPARATOR---
 19.2E
 11647 h 7201
 3liga Viktoria Cologne v SSV Ulm
@@ -143,6 +151,12 @@ ID:OVERON 1
 LaLiga 
 LaLiga Villarreal  v Getafe
 CW: 63 70 3B 0E 8D 52 72 51
+---FEED-SEPARATOR---
+ABS 3.0°W
+11995 V 10000
+MPEG4 | 4.2.0 | DVBS2
+ID: Derby Leicester
+CW: C6 C4 1A A4 BC 11 24 F1
 ---FEED-SEPARATOR---
 Championship, Round 19
 Bristol City vs Millwall
