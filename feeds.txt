@@ -17,6 +17,13 @@ vs.
 Werder Bremen
 CW: 06 12 ED 05 CC 54 88 A8
 ---FEED-SEPARATOR---
+19.2E
+11647 h 7201
+3liga Viktoria Cologne v SSV Ulm
+id: dmc d-361
+4:2:0
+CW: 06 12 BE D6 FA 68 13 75
+---FEED-SEPARATOR---
 Astra 1KR/1L/1M/1N @ 19.2E
 11634  Horizontal  7201,79
 ID:  D415feed1 (Betamobil)
@@ -155,6 +162,31 @@ PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 EFL: Derby County vs Leicester City
 CW: 32 16 37 7F 67 77 AD 8B
    #[E] PID:07D1h
+---FEED-SEPARATOR---
+sahafe said:
+Arab Cup 2025
+United Arab Emirates vs. Egypt
+26.0E
+- Name:           Qat037 M         (Vislink)
+- VID PID:       512
+- AUD PID:       4112 eng, 4128 eng, 4144 eng, 4160 eng
+- Freq: 11580,885
+- Pol: Vertical
+- SR: 7499,863
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+35 12 D5 D9 AF D0 BA 24  #[E] PID:0200h
+found CW: AB C2 11 7E 2D EF DA F6 
+Click to expand...
+Algeria vs Bahrain
+Round 2, Group D
+---FEED-SEPARATOR---
+AhmedCeNa said:
+			Bahrain vs Algeria
+Click to expand...
+Algeria vs Bahrain 
+Round 2, Group D
 ---FEED-SEPARATOR---
 sahafe said:
 Arab Cup 2025
