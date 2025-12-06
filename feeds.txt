@@ -288,6 +288,16 @@ Arab Cup 2025
 Kuwait v Jordan
 CW: AB C2 12 7F 5D EF 2A 76
 ---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12606 V  9600
+ID: 
+POL-080 MAIN
+Event: 
+Polish Men's Basketball: ORLEN Basket Liga - match: Legia Warszawa - Energa Trefl Sopot
+4.2.2
+- DVB-S2 - 8PSK 
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 Turksat 2A-3A-4A @ 42.0E
 11460  Vertical  6802,236
 ID: TUR-145-B (*unnamed-1
