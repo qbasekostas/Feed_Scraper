@@ -1,6 +1,32 @@
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR MENA 2
+LaLiga 
+Real Betis Seville vs Barcelona
+found CW: 
+E5 A6 90 1B 9D 6E B7 C2 
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR MENA 1
+LaLiga 
+Real Betis Seville vs Barcelona
+CW: 8C 83 EE FD 31 1B 9B E7
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 2
+LaLiga 
+Deportivo Alaves vs Real Sociedad
+CW: 0E A3 8B 3C 07 CB 18 EA
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
 ID:OVERON 1
-LaLiga HighLights
+LaLiga 
+LaLiga Villarreal  v Getafe
 CW: 63 70 3B 0E 8D 52 72 51
