@@ -104,6 +104,31 @@ Verl
 https://www.flashscore.es/#
 CW: 06 12 BE D6 FA 68 13 75
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11549 - V - 19200
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 29.92 Mbit/s
+ID: SUPPONOR RUSIA 1
+CW: 38 2C 86 EA A0 59 6F 68
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11549 - V - 19200
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 29.85 Mbit/s
+ID: SUPPONOR EASTERN 1
+CW: 9F C0 4B AA 13 2A A6 E3
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR MENA 2
+LaLiga
+Real Betis Seville vs Barcelona
+found CW: E5 A6 90 1B 9D 6E B7 C2
+Real Betis vs Barcelona
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
 ID: OVERON 4
@@ -318,6 +343,14 @@ Event:
 Arab Cup 2025
 Kuwait v Jordan
 CW: AB C2 12 7F 5D EF 2A 76
+---FEED-SEPARATOR---
+AdmiralBet KLS, Round 10
+KK Joker vs KK Sloboda
+Eutelsat 16A @ 16.0°E
+10999 - V - 4938
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.40 Mbit/s
+ID: YSM-016 MAIN
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 ADMIRAL
 .ABA
