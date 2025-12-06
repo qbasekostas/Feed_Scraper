@@ -179,6 +179,31 @@ EFL: Derby County vs Leicester City
 CW: 32 16 37 7F 67 77 AD 8B
    #[E] PID:07D1h
 ---FEED-SEPARATOR---
+sahafe said:
+Arab Cup 2025
+26.0E
+- Name:           SNG1 M (AlkASS)
+- Freq: 11110,265
+- Pol: Horizontal
+- SR: 7499,863
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+CW: AB C2 02 6F 6D EF 6C C8
+Click to expand...
+FIFA Arab Cup - Round 2
+Sudan
+Iraq
+---FEED-SEPARATOR---
+FIFA Arab Cup - Round 2
+United Arab Emirates
+Egypt
+Badrsat 26.0ºE
+11628 H 7500
+MPEG4 | 4.2.0 | DVB S2
+ID: Service 01 
+CW: AB C2 12 7F 5D EF 72 BE
+---FEED-SEPARATOR---
 Arab Cup 2025
 26.0E
 - Name:           SNG1 M (AlkASS)
