@@ -1,3 +1,29 @@
+Eutelsat 16A @ 16.0E
+11188  Horizontal  9874,854
+ID:  FFBL Jena-Bremen (*unnamed-1*)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+Germany Amateur, Bundesliga, Women
+FC Carl Zeiss Jena
+vs. 
+Werder Bremen
+CW: 06 12 ED 05 CC 54 88 A8
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:     SUPPONOR EASTERN 2
+LaLiga
+Real Betis Seville vs Barcelona
+CW: A8 E3 B7 42 F0 4C 03 3F
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR RUSIA 2
+LaLiga
+Real Betis Seville vs Barcelona
+CW: C5 AB C1 31 4B 87 B2 84
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
