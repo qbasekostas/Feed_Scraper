@@ -144,6 +144,14 @@ LaLiga
 LaLiga Villarreal  v Getafe
 CW: 63 70 3B 0E 8D 52 72 51
 ---FEED-SEPARATOR---
+Championship, Round 19
+Derby County vs Leicester City
+Eutelsat 7A/7B/7C @ 7.0°E
+12726 - V - 7120
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.93 Mbit/s
+ID: Pitch EFL Derby V Leicester
+CW: 32 16 37 7F 67 77 AD 8B
+---FEED-SEPARATOR---
 vnraw said:
 CW: 32 16 37 7F 67 77 AD 8B
 Click to expand...
