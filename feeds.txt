@@ -17,6 +17,18 @@ vs.
 Werder Bremen
 CW: 06 12 ED 05 CC 54 88 A8
 ---FEED-SEPARATOR---
+Astra 1KR/1L/1M/1N @ 19.2E
+11429  Vertical  7201,79
+ID:   D-167 (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+ALEMANIA: 
+3. Liga
+Havelse
+ VS 
+Verl
+https://www.flashscore.es/#
+CW: 06 12 BE D6 FA 68 13 75
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -82,7 +94,38 @@ LaLiga
 LaLiga Villarreal  v Getafe
 CW: 63 70 3B 0E 8D 52 72 51
 ---FEED-SEPARATOR---
+vnraw said:
+CW: 32 16 37 7F 67 77 AD 8B
+Click to expand...
+Eutelsat 7B @ 7.0°E
+Fréq:11598 - V - 7120
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  Derby V Leicester
+EFL
+ Derby County vs Leicester City
+CW: 32 16 37 7F 67 77 AD 8B
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E 
+3933 H 7119
+8PSK 2/3 DVB-S2 4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+EFL: Derby County vs Leicester City
+CW: 32 16 37 7F 67 77 AD 8B
+   #[E] PID:07D1h
+---FEED-SEPARATOR---
 Arab Cup 2025
+26.0E
+- Name:           SNG1 M (AlkASS)
+- Freq: 11110,265
+- Pol: Horizontal
+- SR: 7499,863
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+CW: AB C2 02 6F 6D EF 6C C8
+---FEED-SEPARATOR---
+Arab Cup 2025
+United Arab Emirates vs. Egypt
 26.0E
 - Name:           Qat037 M         (Vislink)
 - VID PID:       512
