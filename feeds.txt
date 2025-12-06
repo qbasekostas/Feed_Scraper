@@ -31,6 +31,20 @@ LaLiga
 LaLiga Villarreal  v Getafe
 CW: 63 70 3B 0E 8D 52 72 51
 ---FEED-SEPARATOR---
+Arab Cup 2025
+26.0E
+- Name:           Qat037 M         (Vislink)
+- VID PID:       512
+- AUD PID:       4112 eng, 4128 eng, 4144 eng, 4160 eng
+- Freq: 11580,885
+- Pol: Vertical
+- SR: 7499,863
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+35 12 D5 D9 AF D0 BA 24  #[E] PID:0200h
+found CW: AB C2 11 7E 2D EF DA F6 
+---FEED-SEPARATOR---
 EshailSat 1 @ 25.5E
 11572 V 7500  | 4:2:0 | 8PSK
 ID: 
