@@ -329,12 +329,18 @@ Arab Cup 2025
 Kuwait v Jordan
 CW: AB C2 12 7F 5D EF 2A 76
 ---FEED-SEPARATOR---
-ABA League - Matchday 9
-KK Krka Novo mesto vs Borac Čačak
-7e
-12651 V 4937
-ID: Medialink CRO-025/1
-CW: AB BA 20 85 25 20 26 6B
+Turkish Super League
+BURSASPOR vs GS MCT TECHNIC
+13.0E
+- Name:           E333 M (mediapro turkiye)
+- Freq: 11212,343
+- Pol: Vertical
+- SR: 7499,863
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+55 B6 B5 70 31 7C 96 FD  
+CW: 26 C4 AD 97 A3 B7 ED 47
 ---FEED-SEPARATOR---
 ABA Liga, Group A, Round 9
 KK Krka Novo Mesto vs KK Borac Mozzart
