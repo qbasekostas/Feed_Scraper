@@ -17,6 +17,23 @@ vs.
 Werder Bremen
 CW: 06 12 ED 05 CC 54 88 A8
 ---FEED-SEPARATOR---
+Germany Bundesliga
+RB Leipzig vs Eintracht Frankfurt
+Eutelsat 7B/7C @ 7.0E
+11020 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: D535_LPZG_2M12_1
+CW: 49 C2 D4 DF 92 3E E8 B8
+---FEED-SEPARATOR---
+Bundesliga - Matchday 13
+Leipzig vs Eintracht Frankfurt
+7e
+11000 V 14400
+4:2:2
+ID: GVA_Fi05
+CW: 49 C2 D4 DF 92 3E E8 B8
+---FEED-SEPARATOR---
 19.2e
 11441 v 7200
 id: 1860-Schweinfurt 
@@ -86,6 +103,13 @@ Havelse
 Verl
 https://www.flashscore.es/#
 CW: 06 12 BE D6 FA 68 13 75
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+ID: OVERON 2
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+found CW: 4C 5F A0 4B BD 6A 86 AD
+Real Betis  vs Barcelona
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
