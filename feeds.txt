@@ -29,6 +29,7 @@ Fréq:10768 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
 ID:  LIGA HYPERMOTION 2
 LaLiga2
+Real Sociedad BVs Real Sporting de Gijón
 CW: A7 1A 4E 0F D3 1C 6F 5E
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
