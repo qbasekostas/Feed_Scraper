@@ -238,6 +238,15 @@ Weston-super-Mare
 ID: UKI 1870 PATH 1
 CW: FTA
 ---FEED-SEPARATOR---
+7E
+11181 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: GCUK Enc 8
+CW: 45 BB DE DE 11 CD CD AB
+Scottish Premiership 
+Kilmarnock  v Rangers
+---FEED-SEPARATOR---
 England
 FA Cup - 1/64-finals
 Cheltenham
