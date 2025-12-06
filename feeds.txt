@@ -17,6 +17,18 @@ vs.
 Werder Bremen
 CW: 06 12 ED 05 CC 54 88 A8
 ---FEED-SEPARATOR---
+Albahraniy said:
+			Germany Bundesliga
+RB Leipzig vs Eintracht Frankfurt
+CW: 49 C2 D4 DF 92 3E E8 B8
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+10999 - V - 14400
+1920 x 1080 | H.264/AVC Video | 
+4:2:2
+ | 30.69 Mbit/s
+ID: GVA_Fi05
+---FEED-SEPARATOR---
 Germany Bundesliga
 RB Leipzig vs Eintracht Frankfurt
 Eutelsat 7B/7C @ 7.0E
@@ -103,6 +115,14 @@ Havelse
 Verl
 https://www.flashscore.es/#
 CW: 06 12 BE D6 FA 68 13 75
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:OVERON 1
+LaLiga 
+Ath Bilbao vs. Atl. Madrid
+CW: 2C 4C 55 CD BB B7 E0 52
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11549 - V - 19200
