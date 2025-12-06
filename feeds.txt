@@ -53,3 +53,9 @@ Event:
 Arab Cup 2025
 Kuwait v Jordan
 CW: AB C2 12 7F 5D EF 2A 76
+---FEED-SEPARATOR---
+Turksat 2A-3A-4A @ 42.0E
+11460  Vertical  6802,236
+ID: TUR-145-B (*unnamed-1
+1920x1080 |15,162Mb/Sec |8PSK |4:2:2 HD
+CW: 45 68 00 AD 00 45 68 AD
