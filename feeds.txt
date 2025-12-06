@@ -30,3 +30,12 @@ ID:OVERON 1
 LaLiga 
 LaLiga Villarreal  v Getafe
 CW: 63 70 3B 0E 8D 52 72 51
+---FEED-SEPARATOR---
+EshailSat 1 @ 25.5E
+11572 V 7500  | 4:2:0 | 8PSK
+ID: 
+SNG3 KUW JR M
+Event: 
+Arab Cup 2025
+Kuwait v Jordan
+CW: AB C2 12 7F 5D EF 2A 76
