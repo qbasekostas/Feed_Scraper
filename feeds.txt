@@ -1,8 +1,0 @@
-LaLiga
-Athletic Club vs Atlético Madrid
-Asiasat 5 (100.5°E) C BAND
-3984 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: CHINA+1
-CW: D5 3C 30 41 33 6C 85 24
