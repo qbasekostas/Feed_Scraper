@@ -148,6 +148,37 @@ ID: OVERON 3
 4D 85 89 5B A1 27 E4 AC 
   #[E] PID:0F1Fh
 ---FEED-SEPARATOR---
+Hackintosh said:
+LaLiga : Real Madrid v Celta Vigo 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+ OVERON 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |12,4 dB | 
+4:2:2
+CW: AE 62 09 19 B3 3D 0F FF
+Click to expand...
+Event:
+ Real Madrid v Celta Vigo
+AsiaSat 5 - 100.5 E - CBand
+TP : 
+3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:2
+ID : 
+OVERON 1
+CW: AE 62 09 19 B3 3D 0F FF
+Thanks !!!
+---FEED-SEPARATOR---
+LaLiga : Real Madrid v Celta Vigo 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+ OVERON 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |12,4 dB | 
+4:2:2
+CW: AE 62 09 19 B3 3D 0F FF
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -436,6 +467,12 @@ Basketbol Süper Ligi: Merkezefendi Belediyesi Denizli Basket - Fenerbahçe
 ID: SELENIO 2
 CW: C7 8F 9A F0 D6 DC A5 57
 LBA: Olimpia Milano - Trento
+---FEED-SEPARATOR---
+Super League Greece
+Paok v Aris
+Eutelsat 7A-7B 7.0E - 11162 Horizontal 7200 4.2.0 
+ID:SNG ABC 1
+CW: 81 71 E6 D8 31 C8 27 20
 ---FEED-SEPARATOR---
 Event:Greece Super League - Round 13
 Teams :AEL Larissa 
