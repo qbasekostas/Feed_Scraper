@@ -90,6 +90,18 @@ DVB-S2 - 8PSK -1080P
 ID:  BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+E
+utelsat 28A-2A-2E-2F @ 28.2E
+12625  Horizontal  7201,79
+ID:  1693-GATESvWAL-ISO (SWITCH ISO 4 AUDIOS)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 7F A1 FF 1F 1F 78 2A C1
+Inglaterra
+FA Cup - 1/64 de final
+Gateshead
+ VS 
+Walsall
+---FEED-SEPARATOR---
 faisal6 said:
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12631  Vertical  7201,79
