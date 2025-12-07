@@ -1,3 +1,13 @@
+Jacop said:
+7.0E
+11093  H 9875
+4.2.2 HD
+ID: GVA_Fi03_BULI_07
+CW: B2 67 41 5A F3 9A 7C 09
+Click to expand...
+Bundesliga
+Hamburg vs Hertha Berlin
+---FEED-SEPARATOR---
 Bundesliga 2
 7.0E
 11093  H 9875
@@ -255,6 +265,13 @@ Badr 4/5/6/7 @ 26.0E
 ID: Service 02 (Vislink)
 1920x1080 |33,435Mb/Sec |8PSK |4:2:0 HD
 CW: AB AB DC 32 DC 01 89 66
+---FEED-SEPARATOR---
+13.0°E
+10820 V 7500
+4:2:2
+ID: PCO 27
+CW: 54 4A 81 1F 9B 40 27 02
+Basketbol Süper Ligi: Karşıyaka - Besiktas
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E 
 ( KU-BAND )
