@@ -87,6 +87,16 @@ CW: 39 15 22 70 07 AB 25 D7
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10768  Vertical  34010,27
+ID:   LIGA HYPERMOTION 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+Spain, LaLiga 2
+Cadiz CF
+ vs.
+Racing Santander
+CW: E8 7D 15 7A A1 02 47 EA
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
 ID:      SUPPONOR EASTERN 1 (OVERON)
 1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
 Spain, LaLiga
@@ -95,14 +105,6 @@ vs.
 Girona FC
 13 0D BC 1B 2D 38 C9 56  
 CW: 9F C0 4B AA 13 2A A6 E3
----FEED-SEPARATOR---
-La Liga
-10.0°E C @ Eutelsat 10B 
-3905 V 3749
-MPEG 4 - 4:2:0
-DVB-S2 - 8PSK -1080P
-ID: La Liga (IKOMG)
-CW: 00 8E 3D CB AF 81 77 A7
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
@@ -138,15 +140,19 @@ ID: OVERON 3
 4D 85 89 5B A1 27 E4 AC 
   #[E] PID:0F1Fh
 ---FEED-SEPARATOR---
-Eutelsat 10B @ 10.0E
-10768  Vertical  34010,27
-ID:   LIGA HYPERMOTION 1 (OVERON)
-1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
-Spain, LaLiga 2
-Cadiz CF
- vs.
-Racing Santander
-CW: E8 7D 15 7A A1 02 47 EA
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+LaLiga
+Espanyol  vs Rayo Vallecano
+CW: BE FE B8 74 08 FC 6D 71
+---FEED-SEPARATOR---
+FA Cup
+Blackpool v Carlisle UTD
+Eutelsat 7A-7B 7.0E - 11692 Horizontal 7120 8PSK 4.2.0
+ID: Pitch Blackpool V Carlisle
+Free to air
 ---FEED-SEPARATOR---
 19.2°E
 11626 V 15000
@@ -211,7 +217,7 @@ Click to expand...
 Astra 1KR/1L/1M/1N @ 19.2E
 11429  Vertical  7201,922
 ID:     WBD B-WOOD (Timeline  )
-1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+1920x1080 |16,051Mb/Sec |8PSK |4:2:2 HD
 FA Cup: Boreham Wood
  VS 
 Newport
