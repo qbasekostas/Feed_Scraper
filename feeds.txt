@@ -90,8 +90,12 @@ Click to expand...
 Same key
 12609 V 7200 
 4:2:2 
+DVBS2 8PSK
+ID No name
 12591 V 7200 
 4:2:2 
+DVBS2 8PSK
+ID No name
 ---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12631  Vertical  7201,79
@@ -106,3 +110,10 @@ CW: CB 37 4D 4F 56 95 95 80
 ID: unnamed
 CW: 79 AB E8 0C BF ED B3 5F
 FA Cup
+---FEED-SEPARATOR---
+13.0°E
+12610 V 7500
+4:2:0
+ID: unnamed
+CW: 9F 4B 24 0E 5A CC 66 8C
+Basketbol Süper Ligi: Merkezefendi Belediyesi Denizli Basket - Fenerbahçe
