@@ -111,6 +111,20 @@ ID: unnamed
 CW: 79 AB E8 0C BF ED B3 5F
 FA Cup
 ---FEED-SEPARATOR---
+fusillo said:
+			13.0°E
+12610 V 7500
+4:2:0
+ID: unnamed
+CW: 9F 4B 24 0E 5A CC 66 8C
+Basketbol Süper Ligi: Merkezefendi Belediyesi Denizli Basket - Fenerbahçe
+Click to expand...
+42E
+11523 V 7500
+4.2.2
+ID: TUR-161 Main
+Basketbol Süper Ligi
+---FEED-SEPARATOR---
 13.0°E
 12610 V 7500
 4:2:0
