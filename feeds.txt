@@ -1,3 +1,14 @@
+Astra 1KR/1L/1M/1N @ 19.2E
+11648  Horizontal  7201,801
+ID: D-109 Mannheim 3 Buli. (rt1.tv
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Alemania
+3. Liga - Jornada 17
+Mannheim
+ VS 
+Saarbrücken
+CW: 07 12 BA D3 DD 98 44 B9
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3860 V 29998
 8PSK 3/4 DVB-S2 4.2.0
