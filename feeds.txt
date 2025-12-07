@@ -1,3 +1,10 @@
+Bundesliga 2
+7.0E
+11093  H 9875
+4.2.2 HD
+ID: GVA_Fi03_BULI_07
+CW: B2 67 41 5A F3 9A 7C 09
+---FEED-SEPARATOR---
 Eutelsat (16°E)
 11189 H 9875
 4.2.0
@@ -86,6 +93,16 @@ ID: OVERON 3
 4D 85 89 5B A1 27 E4 AC 
   #[E] PID:0F1Fh
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:   LIGA HYPERMOTION 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+Spain, LaLiga 2
+Cadiz CF
+ vs.
+Racing Santander
+CW: E8 7D 15 7A A1 02 47 EA
+---FEED-SEPARATOR---
 19.2°E
 11626 V 15000
 4:2:2
@@ -124,6 +141,34 @@ MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
 ID:  BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+8.0°W
+12742 V 7200
+4:2:2
+ID: unnamed
+CW: EC 96 04 86 08 98 99 39
+FA Cup: Slough Town - Macclesfield
+---FEED-SEPARATOR---
+8.0°W
+12734 V 7200
+4:2:2
+ID: unnamed
+CW: 62 F7 E9 42 AD F3 A5 45
+FA Cup: Blackpool - Carlisle
+---FEED-SEPARATOR---
+8.0°W
+12720 V 7200
+4:2:2
+ID: unnamed
+CW: 62 F7 E9 42 AD F3 A5 45
+FA Cup: Blackpool - Carlisle
+---FEED-SEPARATOR---
+8.0°W
+12673 V 7200
+4:2:0
+ID: unnamed
+CW: EC 96 04 86 08 98 99 39
+FA Cup
 ---FEED-SEPARATOR---
 0.8°W
 11481 V 7200
@@ -183,6 +228,14 @@ ID: unnamed
 CW: 79 AB E8 0C BF ED B3 5F
 FA Cup
 ---FEED-SEPARATOR---
+Arab Cup, Group A, Round 3
+Syria vs Palestine
+Badr 4/5/6/7 @ 26.0°E
+11629 - H - 7500
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.69 Mbit/s
+ID: SNG3 SYR PLE M
+CW: AB D2 12 8F 6D EF 2B 87
+---FEED-SEPARATOR---
 FIFA Arab Cup
 Siria
  VS 
@@ -234,3 +287,14 @@ Basketbol Süper Ligi
 ID: unnamed
 CW: 9F 4B 24 0E 5A CC 66 8C
 Basketbol Süper Ligi: Merkezefendi Belediyesi Denizli Basket - Fenerbahçe
+---FEED-SEPARATOR---
+Greek Super League 1
+Asteras Tripolis
+Vs
+Levadiakos
+39.0°E @ Hellas Sat 3/4
+11007 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: E394 MAIN (OVERON)
+CW: A6 2E FF D3 13 A7 9A 54
