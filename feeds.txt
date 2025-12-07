@@ -1,3 +1,11 @@
+Bundesliga Women - Matchday 12
+Eintracht Frankfurt W vs Bayern Munich W
+16e
+11175 H 9875
+4:2:0
+ID: FFBL Frankfurt
+CW: 07 12 BA D3 AC 91 57 94
+---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
 11161 - H - 7200
@@ -307,6 +315,14 @@ Badr 4/5/6/7 @ 26.0E
 ID: Service 02 (Vislink)
 1920x1080 |33,435Mb/Sec |8PSK |4:2:0 HD
 CW: AB AB DC 32 DC 01 89 66
+---FEED-SEPARATOR---
+42E
+11496 V 7500
+4.2.2
+ID: TUR 112 MAIN
+Basketbol Süper Ligi
+Anadolu Efes - Petkim Spor
+CW: 4A 5C A3 49 DB F8 16 E9
 ---FEED-SEPARATOR---
 13.0°E
 10820 V 7500
