@@ -498,6 +498,15 @@ ID: unnamed
 CW: 9F 4B 24 0E 5A CC 66 8C
 Basketbol Süper Ligi: Merkezefendi Belediyesi Denizli Basket - Fenerbahçe
 ---FEED-SEPARATOR---
+USA
+NBA
+Toronto Raptors
+Boston Celtics
+Eutelsat 7°E
+11090 V 7200 - 4.2.0
+ID: WSHT Enc55
+CW: 75 BE B0 E3 60 AF 88 97
+---FEED-SEPARATOR---
 fusillo said:
 			13.0°E
 10820 V 7500
