@@ -182,6 +182,8 @@ CW: E8 7D 15 7A A1 02 47 EA
 Click to expand...
 new cw
 CW: BC 36 A7 99 FF 0D D7 E3
+thanks 
+SharKistani 
 ---FEED-SEPARATOR---
 Hackintosh said:
 LaLiga : Real Madrid v Celta Vigo 
@@ -495,6 +497,16 @@ Basketbol Süper Ligi
 ID: unnamed
 CW: 9F 4B 24 0E 5A CC 66 8C
 Basketbol Süper Ligi: Merkezefendi Belediyesi Denizli Basket - Fenerbahçe
+---FEED-SEPARATOR---
+fusillo said:
+			13.0°E
+10820 V 7500
+4:2:2
+ID: PCO 27
+CW: 54 4A 81 1F 9B 40 27 02
+Basketbol Süper Ligi: Karşıyaka - Besiktas
+Click to expand...
+new match Esenler Erokspor - Turk Telecom
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12644 - V - 4938
