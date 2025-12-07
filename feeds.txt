@@ -461,6 +461,14 @@ ID: unnamed
 CW: 9F 4B 24 0E 5A CC 66 8C
 Basketbol Süper Ligi: Merkezefendi Belediyesi Denizli Basket - Fenerbahçe
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12644 - V - 4938
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.14 Mbit/s
+ID: ROU-051 MAIN
+ABA Liga, Group A, Round 9
+U-Banca Transilvania Cluj-Napoca vs KK Partizan Mozzart Bet
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 7.0°E
 11606 V 7200
 4:2:2
