@@ -1,0 +1,7 @@
+7°E
+11606 V 7500
+DVB-S2|1080HD
+4.2.0|H264
+ID: AFD
+Event: Boca Juniors Vs Racing Club
+CW: 11 53 CB 2F 31 A5 26 FC
