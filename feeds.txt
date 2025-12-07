@@ -163,6 +163,26 @@ DVB-S2 - 8PSK -1080P
 ID:  BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+faisal6 said:
+CW: AA 23 44 11 AB BB 1A 80
+Click to expand...
+Astra 1KR/1L/1M/1N @ 19.2E
+11429  Vertical  7201,922
+ID:     WBD B-WOOD (Timeline  )
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+FA Cup: Boreham Wood
+ VS 
+Newport
+---FEED-SEPARATOR---
+Astra 1KR/1L/1M/1N @ 19.2E
+11568  Vertical  15000,25
+ID:      Boreham Reverse (BBC MOTD)
+1920x1080 |37,185Mb/Sec |8PSK |4:2:0 HD
+ FA Cup: Boreham Wood
+ VS 
+Newport
+CW: AA 23 44 11 AB BB 1A 80
+---FEED-SEPARATOR---
 8.0°W
 12742 V 7200
 4:2:2
