@@ -430,6 +430,13 @@ ID: unnamed
 CW: 9F 4B 24 0E 5A CC 66 8C
 Basketbol Süper Ligi: Merkezefendi Belediyesi Denizli Basket - Fenerbahçe
 ---FEED-SEPARATOR---
+7.0°E
+11606 V 7200
+4:2:2
+ID: SELENIO 2
+CW: C7 8F 9A F0 D6 DC A5 57
+LBA: Olimpia Milano - Trento
+---FEED-SEPARATOR---
 Event:Greece Super League - Round 13
 Teams :AEL Larissa 
  Panathinaikos
