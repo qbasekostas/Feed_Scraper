@@ -79,6 +79,20 @@ DVB-S2 - 8PSK -1080P
 ID:  BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12631  Vertical  7201,79
+ID:  *unnamed-1* (*unnamed-1*)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:2 HD
+England, FA Cup Slough Town FC vs. Macclesfield FC
+CW: CB 37 4D 4F 56 95 95 80
+Click to expand...
+Same key
+12609 V 7200 
+4:2:2 
+12591 V 7200 
+4:2:2 
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12631  Vertical  7201,79
 ID:  *unnamed-1* (*unnamed-1*)
