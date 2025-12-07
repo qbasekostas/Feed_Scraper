@@ -347,6 +347,16 @@ ID: unnamed
 CW: 9F 4B 24 0E 5A CC 66 8C
 Basketbol Süper Ligi: Merkezefendi Belediyesi Denizli Basket - Fenerbahçe
 ---FEED-SEPARATOR---
+Event:Greece Super League - Round 13
+Teams :AEL Larissa 
+ Panathinaikos
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11172 H 7200
+  AEL VS PAO A (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 6C C6 D8 0A 3D 14 BE 0F
+---FEED-SEPARATOR---
 Greek Super League 1
 Asteras Tripolis
 Vs
