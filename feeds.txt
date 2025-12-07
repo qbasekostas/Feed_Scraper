@@ -1,3 +1,19 @@
+19.2E
+11634 H 7200
+4.2.0
+ID: D415feed1
+3. Liga
+FC Hansa Rostock - Alemannia Aachen
+CW: 07 12 BA D3 DD 98 44 B9
+---FEED-SEPARATOR---
+Bundesliga - Matchday 13
+Borussia Dortmund vs Hoffenheim
+7e
+11105 H 9875
+ID: GVA_Fi04
+4:2:2
+CW: 18 02 70 8A 1F 1D EE 2A
+---FEED-SEPARATOR---
 Bundesliga Women - Matchday 12
 Eintracht Frankfurt W vs Bayern Munich W
 16e
@@ -171,6 +187,13 @@ DVB-S2 - 8PSK -1080P
 ID:  BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+8.0°W
+12720 V 15000
+4:2:2
+ID: unnamed
+CW: 62 F7 E9 42 AD F3 A5 45
+FA Cup: Blackpool - Carlisle
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E 
 ( KU-BAND )
 11180 H 7200
@@ -315,6 +338,26 @@ Badr 4/5/6/7 @ 26.0E
 ID: Service 02 (Vislink)
 1920x1080 |33,435Mb/Sec |8PSK |4:2:0 HD
 CW: AB AB DC 32 DC 01 89 66
+---FEED-SEPARATOR---
+bayuware said:
+Hotbird 13B ( 13E )
+10832 V 7500
+DVB-S2 - 4:2:0 - 8PSK
+ID: USM v ORA
+Event: any Football-Game
+any CW please?
+Click to expand...
+TBSL
+ Anadolu Efes SK vs Petkim Spor Aliaga
+CW: 4A 5C A3 49 DB F8 16 E9
+---FEED-SEPARATOR---
+ABA Liga, Group A, Round 9
+FMP Beograd vs KK Split 
+Eutelsat 7A/7B/7C @ 7.0°E
+12632 - V - 4938
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.17 Mbit/s 
+ID: YSM-016 MAIN
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 42E
 11496 V 7500
