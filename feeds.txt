@@ -47,6 +47,13 @@ ID: OVERON 3
 4D 85 89 5B A1 27 E4 AC 
   #[E] PID:0F1Fh
 ---FEED-SEPARATOR---
+0.8°W
+10970 V 15000
+4:2:2
+ID: unnamed
+CW: 79 AB E8 0C BF ED B3 5F
+FA Cup: Slough Town - Macclesfield
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11580  Vertical  7121,768
 ID:    Pitch EFL Highlights  (NEP Connect)
@@ -71,3 +78,17 @@ MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
 ID:  BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12631  Vertical  7201,79
+ID:  *unnamed-1* (*unnamed-1*)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:2 HD
+England, FA Cup Slough Town FC vs. Macclesfield FC
+CW: CB 37 4D 4F 56 95 95 80
+---FEED-SEPARATOR---
+0.8°W
+10983 V 7200
+4:2:0
+ID: unnamed
+CW: 79 AB E8 0C BF ED B3 5F
+FA Cup
