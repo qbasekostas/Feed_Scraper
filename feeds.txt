@@ -163,6 +163,14 @@ DVB-S2 - 8PSK -1080P
 ID:  BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11180 H 7200
+  GCUK Enc 8 (GlobeCast UK)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+SPL: Celtic vs Hearts
+CW: 31 AE CD AC 45 12 41 98
+---FEED-SEPARATOR---
 faisal6 said:
 CW: AA 23 44 11 AB BB 1A 80
 Click to expand...
