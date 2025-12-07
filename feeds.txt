@@ -77,6 +77,19 @@ PMT PID: 2048, SID: 11 @ LK ENC 09 (CM5000)
 CW: 
 FB0821241BBF4E28
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+11188 H 9875
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+FFBL Essen
+Provider: MTI
+Germany Bundesliga Women Round 12
+SGS Essen W - 1.FC Nürnberg W (18:30)
+CW: 07 12 BA D3 AC 91 57 94
+						dream Droid 1765132371758 hosted at ImgBB
+Image dream Droid 1765132371758 hosted on ImgBB
+					ibb.co
+---FEED-SEPARATOR---
 19.2E
 11647 H 7200
 4.2.0
@@ -147,6 +160,28 @@ ID: OVERON 3
 5B EC 24 D4 FF 77 BD C5  #CW:
 4D 85 89 5B A1 27 E4 AC 
   #[E] PID:0F1Fh
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR EASTERN 1
+LaLiga 
+ Real Madrid v Celta Vigo
+CW: 55 75 DA A4 DA A0 36 B0
+---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:   LIGA HYPERMOTION 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+Spain, LaLiga 2
+Cadiz CF
+vs.
+Racing Santander
+CW: E8 7D 15 7A A1 02 47 EA
+Click to expand...
+new cw
+CW: BC 36 A7 99 FF 0D D7 E3
 ---FEED-SEPARATOR---
 Hackintosh said:
 LaLiga : Real Madrid v Celta Vigo 
