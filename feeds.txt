@@ -1,3 +1,12 @@
+Eutelsat (16°E)
+11189 H 9875
+4.2.0
+ID: FFBL Hoffenheim
+Frauen-Bundesliga
+Event: 
+Hoffenheim vs Union Berlin
+CW: 07 12 BA D3 AC 91 57 94
+---FEED-SEPARATOR---
 Astra 1KR/1L/1M/1N @ 19.2E
 11648  Horizontal  7201,801
 ID: D-109 Mannheim 3 Buli. (rt1.tv
@@ -23,6 +32,25 @@ DVB-S2 4.2.0 1080I
 Futbol Perú 
 ALIANZA LIMA vs SPORTIN CRISTAL
 CW: 39 15 22 70 07 AB 25 D7
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:      SUPPONOR EASTERN 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2 HD
+Spain, LaLiga
+Elche CF
+vs. 
+Girona FC
+13 0D BC 1B 2D 38 C9 56  
+CW: 9F C0 4B AA 13 2A A6 E3
+---FEED-SEPARATOR---
+La Liga
+10.0°E C @ Eutelsat 10B 
+3905 V 3749
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: La Liga (IKOMG)
+CW: 00 8E 3D CB AF 81 77 A7
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
@@ -58,6 +86,13 @@ ID: OVERON 3
 4D 85 89 5B A1 27 E4 AC 
   #[E] PID:0F1Fh
 ---FEED-SEPARATOR---
+19.2°E
+11626 V 15000
+4:2:2
+ID: BBC B-WOOD
+#FTA
+FA Cup: Borehamwood - Newport
+---FEED-SEPARATOR---
 0.8°W
 10970 V 15000
 4:2:2
@@ -89,6 +124,20 @@ MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
 ID:  BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+0.8°W
+11481 V 7200
+4:2:2
+ID: unnamed
+CW: 64 F6 69 C3 90 DA 31 9B
+FA Cup
+---FEED-SEPARATOR---
+19.2°E
+11429 V 7200
+4:2:2
+ID: WBD B-WOOD
+CW: AA 23 44 11 AB BB 1A 80
+FA Cup: Borehamwood - Newport
 ---FEED-SEPARATOR---
 E
 utelsat 28A-2A-2E-2F @ 28.2E
@@ -133,6 +182,37 @@ CW: CB 37 4D 4F 56 95 95 80
 ID: unnamed
 CW: 79 AB E8 0C BF ED B3 5F
 FA Cup
+---FEED-SEPARATOR---
+FIFA Arab Cup
+Siria
+ VS 
+Palestina
+Badr 4/5/6/7 @ 26.0E
+11578 Vertical 15000,272
+ID: Service 01 (Vislink)
+1920x1080 |33,435Mb/Sec |8PSK |4:2:0 HD
+CW: AB D2 02 7F 7D EF 7B E7
+---FEED-SEPARATOR---
+FIFA Arab Cup
+Catar
+ SV 
+Túnez
+Badr 4/5/6/7 @ 26.0E
+11578 Vertical 15000,272
+ID: Service 02 (Vislink)
+1920x1080 |33,435Mb/Sec |8PSK |4:2:0 HD
+CW: AB AB DC 32 DC 01 89 66
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11022 V 7200
+NEW
+:  Fi01_ACB (CM5000)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+Event: 
+Basketball Liga ACB Endessa- Real Madrid - Tenerife
+30 9D 47 D1 1D 0B 09 3C  
+CW: 80 FE 44 C2 44 40 BB 3F
 ---FEED-SEPARATOR---
 fusillo said:
 			13.0°E
