@@ -21,3 +21,10 @@ ID:  LIGA HYPERMOTION 1
 LaLiga 2
  Malaga vs Real Zaragoza
 CW: 13 A0 C5 78 31 B9 92 7C
+---FEED-SEPARATOR---
+Emirates FA CUP 2025/26 Highlights
+7.0E
+12676 V 7120
+4.2.0 HD
+ID: Pitch FA CUP Round 2 Complete 
+CW: FF EC 4A 35 AA 08 12 C4
