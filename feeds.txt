@@ -1,3 +1,12 @@
+Eutelsat 16A (16.0 E)
+11062 Horizontal 9872,879 3/4
+DVB-S2/8PSK (4:2:0)
+FFBL Hamburger SV
+Bundesliga Women - Round 12
+Hamburger SV vs Köln
+18:00 CET
+CW: 08 12 BB D5 BA 87 12 53
+---FEED-SEPARATOR---
 7°E
 11606 V 7500
 DVB-S2|1080HD
@@ -34,6 +43,26 @@ LaLiga 2
  Malaga vs Real Zaragoza
 CW: 13 A0 C5 78 31 B9 92 7C
 ---FEED-SEPARATOR---
+0.8°W
+11499 V 7200
+4:2:0
+ID: Tower OB TX4
+11490 V 7200
+4:2:0
+ID: Tower OB TX4
+CW: 92 C2 E2 36 81 BB 6E AA
+Could be FA Cup later, so far TNT Return Channels
+---FEED-SEPARATOR---
+0.8°W
+11468 V 15000
+4:2:2
+ID: UKI1957 Main
+11481 V 7200
+4:2:0
+ID: unnamed
+CW: 5A F0 0C 56 10 2A 41 7B
+Not sure which English match, could be FA Cup for TNT Sports
+---FEED-SEPARATOR---
 barney115 said:
 			Event:
  FA Cup Round 2 : Brackley Town vs Burton Albion 
@@ -61,6 +90,27 @@ Emirates FA CUP 2025/26 Highlights
 4.2.0 HD
 ID: Pitch FA CUP Round 2 Complete 
 CW: FF EC 4A 35 AA 08 12 C4
+---FEED-SEPARATOR---
+28.2°E
+12520 H 7200
+4:2:0
+ID: Tower OB TX5
+CW: 92 C2 E2 36 81 BB 6E AA
+ FA Cup Later
+---FEED-SEPARATOR---
+fusillo said:
+			0.8°W
+11468 V 15000
+4:2:2
+ID: UKI1957 Main
+11481 V 7200
+4:2:0
+ID: unnamed
+CW: 5A F0 0C 56 10 2A 41 7B
+Not sure which English match, could be FA Cup for TNT Sports
+Click to expand...
+FA Cup Round 2
+Brackley vs Burton Albion
 ---FEED-SEPARATOR---
 FIFA Arab Cup 2025
 Group B, Round 3
