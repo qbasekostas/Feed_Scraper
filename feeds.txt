@@ -34,6 +34,27 @@ LaLiga 2
  Malaga vs Real Zaragoza
 CW: 13 A0 C5 78 31 B9 92 7C
 ---FEED-SEPARATOR---
+barney115 said:
+			Event:
+ FA Cup Round 2 : Brackley Town vs Burton Albion 
+CW: D5 3F 18 2C A9 D1 09 83
+Click to expand...
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12629  Horizontal  15004,816
+ID: *unnamed-1* (*unnamed-1*)
+1920x1080 |49,663Mb/Sec |8PSK |4:2:2 HD
+---FEED-SEPARATOR---
+E
+utelsat 28A-2A-2E-2F @ 28.2E
+12642 H 7200 DVB-S2 8PSK
+MPEG 4 - 
+4:2:2
+ - HDTV 
+ID: Empty 
+Event:
+ FA Cup Round 2 : Brackley Town vs Burton Albion 
+CW: D5 3F 18 2C A9 D1 09 83
+---FEED-SEPARATOR---
 Emirates FA CUP 2025/26 Highlights
 7.0E
 12676 V 7120
