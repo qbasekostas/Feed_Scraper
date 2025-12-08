@@ -6,6 +6,18 @@ ID: AFD
 Event: Boca Juniors Vs Racing Club
 CW: 11 53 CB 2F 31 A5 26 FC
 ---FEED-SEPARATOR---
+ITALIAN FOOTBALL
+ SERIE B MD15
+AVELLINO vs VENEZIA
+________________________________________________________
+EUT 7E - 
+S2 8PSK - H264 HD 4:2:0
+11.164,750 V  SR 7.500 FEC 8/9
+PILOT ON -  ROLL OFF 0,2
+ID ITA 741
+_____________________________________________
+BC 15 20 F1 25 08 12 3F
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
