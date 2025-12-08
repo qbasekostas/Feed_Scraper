@@ -40,3 +40,22 @@ Emirates FA CUP 2025/26 Highlights
 4.2.0 HD
 ID: Pitch FA CUP Round 2 Complete 
 CW: FF EC 4A 35 AA 08 12 C4
+---FEED-SEPARATOR---
+FIFA Arab Cup 2025
+Oman vs Comoros 
+Badrsat 26.0ºE
+11108 H 7500
+MPEG4 | 4.2.0 | DVB S2
+ID: SNG1 M
+CW: AB DE F2 7B 00 4F DA 29
+---FEED-SEPARATOR---
+Event :
+ WorldFIFA Arab Cup - Round 1
+Teams :Morocco 
+ Saudi Arabia
+Badr 4-5-6-7 @ 26.0°E 
+( KU-BAND )
+11630 H 7500
+  SERVICE 01
+MPEG4-4.2.0 1920x1080 |16.340 Mbit/s |8PSK| DVB-S2 HD
+CW: AB DE F2 7B 00 6F DA 49
