@@ -42,7 +42,8 @@ ID: Pitch FA CUP Round 2 Complete
 CW: FF EC 4A 35 AA 08 12 C4
 ---FEED-SEPARATOR---
 FIFA Arab Cup 2025
-Oman vs Comoros 
+Group B, Round 3
+Oman vs Comoros
 Badrsat 26.0ºE
 11108 H 7500
 MPEG4 | 4.2.0 | DVB S2
