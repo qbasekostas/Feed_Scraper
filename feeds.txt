@@ -7,6 +7,14 @@ Hamburger SV vs Köln
 18:00 CET
 CW: 08 12 BB D5 BA 87 12 53
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11598 - V - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: AFD
+ LPF, Clausura
+ Gimnasia Y Esgrima La Plata vs Estudiantes de La Plata
+CW: 11 53 CB 2F 31 A5 26 FC
+---FEED-SEPARATOR---
 7°E
 11606 V 7500
 DVB-S2|1080HD
@@ -133,6 +141,12 @@ Badr 4-5-6-7 @ 26.0°E
   SERVICE 01
 MPEG4-4.2.0 1920x1080 |16.340 Mbit/s |8PSK| DVB-S2 HD
 CW: AB DE F2 7B 00 6F DA 49
+---FEED-SEPARATOR---
+28.2°E
+12511 H 7200
+4:2:0
+ID: E-266 8MM Via1
+#FTA
 ---FEED-SEPARATOR---
 ABA League - Matchday 9
 Igokea vs Dubai
