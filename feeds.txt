@@ -134,6 +134,13 @@ Badr 4-5-6-7 @ 26.0°E
 MPEG4-4.2.0 1920x1080 |16.340 Mbit/s |8PSK| DVB-S2 HD
 CW: AB DE F2 7B 00 6F DA 49
 ---FEED-SEPARATOR---
+ABA League - Matchday 9
+Igokea vs Dubai
+7e
+12639 V 4937
+ID: BIH007 M
+FTA
+---FEED-SEPARATOR---
 Europe
 , 
 AdmiralBet ABA League - Round 9
@@ -144,21 +151,16 @@ Eutelsat 7°E
 ID: BiH-003-2
 CW: FTA
 ---FEED-SEPARATOR---
-Gevs999 said:
-			new cw pls?
-Click to expand...
-B5 74 2F 58 33 BB DD CB
+BG League - Krupanj MTS Karavan U15 3x3
+7e
+12645 V 4937
+ID: YSM-021M
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
-fusillo said:
-			7.0°E
-11606 V 7200
-4:2:2
-ID: SELENIO 3
-ITALY: 
-Lega A
-(Basketball)
-Virtus Bologna
-Tortona
-CW: B5 74 2F 58 33 BB DD CB
-thanks @Dolg 
-Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+12685 - V - 7500
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.77 Mbit/s
+ID: MAIN
+WASL Gulf League, Group A
+ AL Ittihad vs Shabab Al-Ahli Dubai FC
+CW: 35 D4 12 1B 8F 0E 97 34
