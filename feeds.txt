@@ -15,6 +15,14 @@ ID: AFD
 Event: Boca Juniors Vs Racing Club
 CW: 11 53 CB 2F 31 A5 26 FC
 ---FEED-SEPARATOR---
+Serie B, Round 15
+Virtus Entella vs Spezia
+Eutelsat 7A/7B/7C @ 7.0°E
+11125 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.21 Mbit/s
+ID: ITA671
+CW: BC 15 20 F1 25 08 12 3F
+---FEED-SEPARATOR---
 ITALIAN FOOTBALL
  SERIE B MD15
 AVELLINO vs VENEZIA
@@ -90,6 +98,13 @@ Emirates FA CUP 2025/26 Highlights
 12676 V 7120
 4.2.0 HD
 ID: Pitch FA CUP Round 2 Complete 
+CW: FF EC 4A 35 AA 08 12 C4
+---FEED-SEPARATOR---
+The FA Cup Round 2 - Live Draw Show
+Eutelsat 7A/7B/7C @ 7.0°E
+12726 - V - 7120
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.87 Mbit/s
+ID: The FA Cup Round 2 - Live Draw Show (Round 3)
 CW: FF EC 4A 35 AA 08 12 C4
 ---FEED-SEPARATOR---
 28.2°E
