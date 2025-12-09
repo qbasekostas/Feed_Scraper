@@ -21,3 +21,12 @@ If there are any changes, they will be posted here as usual
 			https://www.sat-universe.com/index.php?threads/fifa-internationals-fifa-world-cup-2014-2018-2022-2026-qualifiers-friendlies-world-club-championship-7%C2%B0e-10%C2%B0e-etc.240056/post-2037424008
 ***
 			https://www.sat-universe.com/index.php?threads/fifa-internationals-fifa-world-cup-2014-2018-2022-2026-qualifiers-friendlies-world-club-championship-7%C2%B0e-10%C2%B0e-etc.240056/post-2037424007
+---FEED-SEPARATOR---
+Event: Europe Champions League - League phase - Round 6
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11107 V 4938
+   ITA548 UCL M6 Feed B P2  (Elpitel)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+2E E8 DF E5 E9 7F D0 69  
+CW: 80 22 61 03 DA D3 17 C4
