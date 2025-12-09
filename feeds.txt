@@ -6,6 +6,21 @@ EVENT: LA LIGA
 Highlights
 CW: 04 F3 E8 DF E5 D7 80 3C
 ---FEED-SEPARATOR---
+100.5e
+3934 H 7120
+4:2:0
+ID: BT_SES_22_SDI
+20 54 FA 2A 4A DC FF 9C  #CW: 36 CB 43 44 90 A4 15 49
+Championship    QPR  vs  Birmingham
+---FEED-SEPARATOR---
+Championship, Round 20
+Queens Park Rangers vs Birmingham City
+Eutelsat 7A/7B/7C @ 7.0°E
+12727 - V - 7120
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.94 Mbit/s
+ID: Pitch EFL QPR V Birmingham
+CW: 36 CB 43 44 90 A4 15 49
+---FEED-SEPARATOR---
 Emirates FA CUP 2025/26 Highlights
 7.0E
 12686 V 7120
@@ -56,6 +71,16 @@ Badrsat 26.0ºE
 MPEG4 | 4.2.0 | DVB S2
 FC DD 6B 93 1A 19 9E 7E  
 CW: AB D2 11 8E 2D EF 7B 97
+---FEED-SEPARATOR---
+16E
+12548 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: No name
+UEFA Champions League - Matchday 6
+Union St Gilloise
+ vs 
+Marseille
 ---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
