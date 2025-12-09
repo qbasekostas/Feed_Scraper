@@ -57,6 +57,13 @@ MPEG4 | 4.2.0 | DVB S2
 FC DD 6B 93 1A 19 9E 7E  
 CW: AB D2 11 8E 2D EF 7B 97
 ---FEED-SEPARATOR---
+UEFA Champions League
+Eutelsat 7A/7B/7C @ 7.0°E
+11560 V 4936
+ID: Unname
+1920x1080 - HEVC - 4:2:0 - DVB-S2 HD
+FTA
+---FEED-SEPARATOR---
 International Clubs, UEFA Champions League
 FC Barcelona vs. Eintracht Frankfurt
 Eutelsat 28A-2A-2E-2F @ 28.2E
@@ -189,6 +196,22 @@ ID: CRO-025 M2  B2 (Medialin
 EVENT: International Clubs, UEFA Champions League
 4C 8C 73 D4 0A 28 14 41
 CW: D3 87 CD 27 50 AA F4 EE
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 10
+BV Chemnitz 99 vs Panionios BC
+Eutelsat 7A/7B/7C @ 7.0°E
+12640 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.99 Mbit/s
+ID: BBL Chemnitz
+CW: BB EE 09 B2 12 20 25 57
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12601 V 7200
+4:2:0
+ID: 2-SAT HOL319
+Basketball Champions League: 
+Oostende vs Malaga
+CW: BF 99 DC 34 98 DF 72 E9
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 12633  Vertical  4938,12
