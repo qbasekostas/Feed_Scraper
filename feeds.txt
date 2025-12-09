@@ -190,6 +190,14 @@ EVENT: International Clubs, UEFA Champions League
 4C 8C 73 D4 0A 28 14 41
 CW: D3 87 CD 27 50 AA F4 EE
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+12633  Vertical  4938,12
+ID: YSM-016 MAIN (*unnamed-1*)
+1920x1080 |11,007Mb/Sec |8PSK |4:2:0 HD
+CW: AB BA 20 85 25 20 26 6B
+International, ABA Liga 2
+KK Sutjeska Niksic vs. Kk Zlatibor 
+---FEED-SEPARATOR---
 13E
 12592 V 7200
 4.2.0
