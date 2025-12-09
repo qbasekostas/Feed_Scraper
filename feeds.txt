@@ -6,9 +6,18 @@ ID:  The FA CUP Round 2 Revie
 CW: FF EC 4A 35 AA 08 12 C4
 ---FEED-SEPARATOR---
 FIFA Arab Cup
+Egypt vs Jordan
 26.0E
 ID: SNG1 M
 11653 H 7500
 MPEG4 | 4.2.0 | DVB S2
 E7 66 CE 95 A9 EF 4B 33  
 CW: AB D2 11 8E 1D CD 7C 66
+=====
+The frequency 
+11578 V 15000
+keys haven't changed... so older posts will be updated.
+If there are any changes, they will be posted here as usual
+			https://www.sat-universe.com/index.php?threads/fifa-internationals-fifa-world-cup-2014-2018-2022-2026-qualifiers-friendlies-world-club-championship-7%C2%B0e-10%C2%B0e-etc.240056/post-2037424008
+***
+			https://www.sat-universe.com/index.php?threads/fifa-internationals-fifa-world-cup-2014-2018-2022-2026-qualifiers-friendlies-world-club-championship-7%C2%B0e-10%C2%B0e-etc.240056/post-2037424007
