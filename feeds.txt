@@ -169,6 +169,14 @@ EVENT: International Clubs, UEFA Champions League
 4C 8C 73 D4 0A 28 14 41
 CW: D3 87 CD 27 50 AA F4 EE
 ---FEED-SEPARATOR---
+European North Basketball League, Group B
+KB Sigal Prishtina vs BK Opava 
+Eutelsat 7A/7B/7C @ 7.0°E
+11189 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.98 Mbit/s
+ID: Live Broadcasting Line 1
+CW: DF 64 DD 20 18 EB 20 23
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11181  Horizontal  7201,801
 ID:BMC-SNG1 MAIN (Service Provider)
