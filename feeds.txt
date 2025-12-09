@@ -1,3 +1,11 @@
+Eutelsat 10B @ 10.0E
+10732 V 34003
+ID: OVERON 3
+1920x1080 |84,280Mb/Sec |8PSK |4:2:2 HD
+EVENT: LA LIGA 
+Highlights
+CW: 04 F3 E8 DF E5 D7 80 3C
+---FEED-SEPARATOR---
 Emirates FA CUP 2025/26 Highlights
 7.0E
 12686 V 7120
@@ -104,7 +112,6 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: FEED 2
 CW: 09 12 CA E5 DB 02 56 33
 Click to expand...
-correct SR = 17139
 UEFA Champions League, Round 6
 Royale Union Saint-Gilloise vs Olympique de Marseille
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -171,6 +178,8 @@ CW: F1 9C B4 41 82 06 AA 32
 11022 - H 9874
 ID: UWCL MATCH 02 EUROPE M
 1920x1080 - 8PSK - 4:2:2 HD
+UEFA Women's Champions League, League Phase, Round 5​
+Arsenal WFC VS FC Twente Vrouwen
 CW: 8C 7F 45 50 98 88 1E 3E
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
@@ -180,6 +189,24 @@ ID: CRO-025 M2  B2 (Medialin
 EVENT: International Clubs, UEFA Champions League
 4C 8C 73 D4 0A 28 14 41
 CW: D3 87 CD 27 50 AA F4 EE
+---FEED-SEPARATOR---
+13E
+12592 V 7200
+4.2.0
+ID: AVP_OU_A
+Champions League
+AS Karditsas
+-
+Mersin SK
+CW: BC 93 DA 29 19 BA 07 DA
+---FEED-SEPARATOR---
+WASL Gulf League, Group B
+Al-Ula vs Al Sharjah
+Eutelsat 7A/7B/7C @ 7.0°E
+12727 - V - 7500
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.78 Mbit/s
+ID: MAIN
+CW: 14 0D B5 D6 18 C3 72 4D
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 10
 Beşiktaş Gain vs Panevežio 7Bet-Lietkabelis
