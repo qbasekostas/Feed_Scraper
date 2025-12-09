@@ -27,6 +27,7 @@ Badr 4/5/6/7 a 26.0E
 11578 Verticales 15000,272
 ID: Servicio 01 (Vislink)  
 1920x1080 | 33,435 Mb/s | 8PSK | 4:2:0 HD
+NEW KEY
 CW: AB D2 11 8E 2D CD 7B 75
 ---FEED-SEPARATOR---
 Copa Árabe de la FIFA 2025
@@ -47,6 +48,14 @@ Badrsat 26.0ºE
 MPEG4 | 4.2.0 | DVB S2
 FC DD 6B 93 1A 19 9E 7E  
 CW: AB D2 11 8E 2D EF 7B 97
+---FEED-SEPARATOR---
+International Clubs, UEFA Champions League
+FC Barcelona vs. Eintracht Frankfurt
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12576  Vertical  14400,162
+ID: UCL25 MD06 FCB (Overon)
+1920x1080 |32,098Mb/Sec |8PSK |4:2:2 HD
+CW: FTA
 ---FEED-SEPARATOR---
 Event: Europe Champions League - League phase - Round 6
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -76,6 +85,31 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 2E E8 DF E5 E9 7F D0 69  
 CW: 80 22 61 03 DA D3 17 C4
+---FEED-SEPARATOR---
+7.0E
+11021 H 9875
+4.2.2 HD
+ID: UWCL MATCH 02 EUROPE M
+CW: 8C 7F 45 50 98 88 1E 3E
+---FEED-SEPARATOR---
+UEFA Youth League, Knockout stage
+PAOK U19 vs Legia Warszawa U19
+7.0E
+12654 V 9700
+4.2.2
+ HD
+ID: OTE1
+CW: AC 13 23 E2 DF BC 13 AE
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 5
+Real Madrid vs VfL Wolfsburg
+Eutelsat 7A/7B/7C @ 7.0°E
+11104 - H - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.83 Mbit/s
+ID: UWCL MATCH 04 EUROPE
+CW: F1 9C B4 41 82 06 AA 32
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11096  Vertical  4938,125
