@@ -89,6 +89,14 @@ CW: 80 22 61 03 DA D3 17 C4
 Click to expand...
 correct CW: D3 87 CD 27 50 AA F4 EE
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+10996 - V - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.97 Mbit/s
+ID: UCL_IHL_GVA_Fi01
+CW: D3 87 CD 27 50 AA F4 EE
+---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
 11686 - H - 17100
@@ -114,9 +122,11 @@ ID: 2Sat HOL311 FEED 1
 CW: 09 12 CA E5 DB 02 56 33
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
-11686 - H - 17100
+11686 - H - 17139
 1920x1080 | H.265/HEVC Video | 4:2:0 | 20.76 Mbit/s
 ID: FEED 2
+UEFA Champions League, Round 6
+ Royale Union Saint-Gilloise vs Olympique de Marseille
 CW: 09 12 CA E5 DB 02 56 33
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
@@ -134,6 +144,8 @@ Eutelsat 7A/7B/7C @ 7.0°E
 12704 - V - 7200
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.29 Mbit/s
 ID: ENC 5
+UEFA Women's Champions League
+ SKN St. Pölten vs Juventus F.C. Women
 CW: 79 CE 3D 84 25 68 0D 9A
 ---FEED-SEPARATOR---
 UEFA Youth League, Knockout stage
@@ -168,6 +180,14 @@ ID: CRO-025 M2  B2 (Medialin
 EVENT: International Clubs, UEFA Champions League
 4C 8C 73 D4 0A 28 14 41
 CW: D3 87 CD 27 50 AA F4 EE
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 10
+Beşiktaş Gain vs Panevežio 7Bet-Lietkabelis
+Eutelsat 7A/7B/7C @ 7.0°E
+12695 - V - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.12 Mbit/s
+ID: TUR-M25-B
+CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
 European North Basketball League, Group B
 KB Sigal Prishtina vs BK Opava 
