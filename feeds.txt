@@ -104,6 +104,30 @@ CW: 80 22 61 03 DA D3 17 C4
 Click to expand...
 correct CW: D3 87 CD 27 50 AA F4 EE
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11597 - V - 7200
+  1920x1080 | 4:2:0
+  ID: ENC 2
+Event: 
+UEFA Women's Champions League - Real Madrid vs Wolfsburg
+CW: D3 3B CF DD 9E BE D3 2F
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 5
+Paris Saint-Germain vs Oud-Heverlee Leuven
+Eutelsat 7A/7B/7C @ 7.0°E
+11587 - V - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.30 Mbit/s
+ID: ENC 4
+CW: B9 B7 AD 1D A2 4C CD BB
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11606 - V - 7200
+1920x1080 | 4:2:0
+ID: ENC 6
+Event: 
+UEFA Women's Champions League - Arsenal vs Twente
+CW: 4B CF 08 22 D5 C5 56 F0
+---FEED-SEPARATOR---
 UEFA Champions League, Round 6
 PSV Eindhoven vs Atlético Madrid 
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -217,6 +241,15 @@ ID: CRO-025 M2  B2 (Medialin
 EVENT: International Clubs, UEFA Champions League
 4C 8C 73 D4 0A 28 14 41
 CW: D3 87 CD 27 50 AA F4 EE
+---FEED-SEPARATOR---
+Basketball Eurocup
+7.0°E
+11570 V 7200
+4:2:0
+ID:sng1
+FTA
+						1765306973351 — Postimages
+					postimg.cc
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 12610 V 7200
