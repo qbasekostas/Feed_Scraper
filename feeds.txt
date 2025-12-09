@@ -89,6 +89,30 @@ CW: 80 22 61 03 DA D3 17 C4
 Click to expand...
 correct CW: D3 87 CD 27 50 AA F4 EE
 ---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+11686 - H - 17100
+1920x1080 | H.265/HEVC Video | 4:2:0 | 20.76 Mbit/s
+ID: FEED 2
+CW: 09 12 CA E5 DB 02 56 33
+Click to expand...
+correct SR = 17139
+UEFA Champions League, Round 6
+Royale Union Saint-Gilloise vs Olympique de Marseille
+Eutelsat 7A/7B/7C @ 7.0°E
+11686 - H - 17139
+1920x1080 | H.265/HEVC Video | 4:2:0 | 38.22 Mbit/s
+ID: FEED 2
+CW: 09 12 CA E5 DB 02 56 33
+---FEED-SEPARATOR---
+UEFA Champions League, Round 6
+Royale Union Saint-Gilloise vs Olympique de Marseille
+Eutelsat 7A/7B/7C @ 7.0°E
+11668 - H - 17139
+1920x1080 | H.265/HEVC Video | 4:2:0 | 19.89 Mbit/s
+ID: 2Sat HOL311 FEED 1
+CW: 09 12 CA E5 DB 02 56 33
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11686 - H - 17100
 1920x1080 | H.265/HEVC Video | 4:2:0 | 20.76 Mbit/s
