@@ -104,6 +104,17 @@ CW: 80 22 61 03 DA D3 17 C4
 Click to expand...
 correct CW: D3 87 CD 27 50 AA F4 EE
 ---FEED-SEPARATOR---
+UEFA Champions League, Round 6
+PSV Eindhoven vs Atlético Madrid 
+Eutelsat 7A/7B/7C @ 7.0°E
+11153 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.35 Mbit/s
+ID: E412 PSV - ATL Madrid FEED D
+11161 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.39 Mbit/s
+ID: E-412 PSV - ATL Madrid - FEED C
+CW: 11 15 6C 92 14 B6 53 1D
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 10996 - V - 9875
 1920x1080 | H.264/AVC Video | 
@@ -181,6 +192,16 @@ Eutelsat 7A/7B/7C @ 7.0°E
 ID: UWCL MATCH 04 EUROPE
 CW: F1 9C B4 41 82 06 AA 32
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11091 - H - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 19.47 Mbit/s
+ID: OER/F504/1/ FEED 1
+UEFA Champions League, Women, League Phase, Round 5
+Paris Saint-Germain vs Oud-Heverlee Leuven
+CW: DF AB F5 7F 53 64 B1 68
+---FEED-SEPARATOR---
 7.0E
 11022 - H 9874
 ID: UWCL MATCH 02 EUROPE M
@@ -196,6 +217,22 @@ ID: CRO-025 M2  B2 (Medialin
 EVENT: International Clubs, UEFA Champions League
 4C 8C 73 D4 0A 28 14 41
 CW: D3 87 CD 27 50 AA F4 EE
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12610 V 7200
+4:2:0
+ID: VS7-2/BASKET BCL chalon
+Basketball Champions League: 
+Chalon vs ALBA Berlino
+CW: CB 53 CE EC 99 AE 71 B8
+---FEED-SEPARATOR---
+10E
+11287 V 7200
+4.2.0
+ID: F419_MAIN
+EuroCup Basketball
+Bourg-en-Bresse - Trento
+CW: 09 12 AB C6 CD 20 25 12
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 10
 BV Chemnitz 99 vs Panionios BC
