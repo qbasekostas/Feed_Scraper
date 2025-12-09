@@ -129,6 +129,18 @@ CW: 80 22 61 03 DA D3 17 C4
 Click to expand...
 correct CW: D3 87 CD 27 50 AA F4 EE
 ---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+10996 - V - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.97 Mbit/s
+ID: UCL_IHL_GVA_Fi01
+CW: D3 87 CD 27 50 AA F4 EE
+Click to expand...
+UEFA Champions League, Round 6
+Inter vs Liverpool 
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11597 - V - 7200
   1920x1080 | 4:2:0
