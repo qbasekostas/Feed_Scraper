@@ -22,6 +22,32 @@ If there are any changes, they will be posted here as usual
 ***
 			https://www.sat-universe.com/index.php?threads/fifa-internationals-fifa-world-cup-2014-2018-2022-2026-qualifiers-friendlies-world-club-championship-7%C2%B0e-10%C2%B0e-etc.240056/post-2037424007
 ---FEED-SEPARATOR---
+Egipto vs. Jordania ==> activo 12-09-2025
+Badr 4/5/6/7 a 26.0E
+11578 Verticales 15000,272
+ID: Servicio 01 (Vislink)  
+1920x1080 | 33,435 Mb/s | 8PSK | 4:2:0 HD
+CW: AB D2 11 8E 2D CD 7B 75
+---FEED-SEPARATOR---
+Copa Árabe de la FIFA 2025
+Bahréin
+ VS 
+Sudán
+Badr 4/5/6/7 a 26.0E
+11630 Horizontal 7502,214
+ID: SNG3 SYR PLE M (TANDBERG Televisio
+1920 x 1080 | 16722 Mbps | 8PSK | 4:2:0 HD
+CW: AB D2 10 8D 1D EF 6E 7A
+---FEED-SEPARATOR---
+FIFA Arab Cup 2025
+ Algeria vs Iraq
+Badrsat 26.0ºE
+- Name:           Qat037 M         (Vislink)
+11109 H 7500
+MPEG4 | 4.2.0 | DVB S2
+FC DD 6B 93 1A 19 9E 7E  
+CW: AB D2 11 8E 2D EF 7B 97
+---FEED-SEPARATOR---
 Event: Europe Champions League - League phase - Round 6
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
@@ -50,6 +76,14 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 2E E8 DF E5 E9 7F D0 69  
 CW: 80 22 61 03 DA D3 17 C4
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11096  Vertical  4938,125
+ID: CRO-025 M2  B2 (Medialin
+1920x1080 |11,007Mb/Sec |8PSK |4:2:0 HD
+EVENT: International Clubs, UEFA Champions League
+4C 8C 73 D4 0A 28 14 41
+CW: D3 87 CD 27 50 AA F4 EE
 ---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
