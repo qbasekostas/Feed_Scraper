@@ -25,8 +25,40 @@ If there are any changes, they will be posted here as usual
 Event: Europe Champions League - League phase - Round 6
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
+11095 V 4938
+  CRO-025 M2  B2 (Medialink)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: FTA
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event: Europe Champions League - League phase - Round 6
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
 11107 V 4938
    ITA548 UCL M6 Feed B P2  (Elpitel)
 MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
 2E E8 DF E5 E9 7F D0 69  
 CW: 80 22 61 03 DA D3 17 C4
+Click to expand...
+correct CW: D3 87 CD 27 50 AA F4 EE
+---FEED-SEPARATOR---
+Event: Europe Champions League - League phase - Round 6
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11107 V 4938
+   ITA548 UCL M6 Feed B P2  (Elpitel)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+2E E8 DF E5 E9 7F D0 69  
+CW: 80 22 61 03 DA D3 17 C4
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+11008 - H - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 19.13 Mbit/s
+ID: AUT34M/M01
+CW: 8C F2 1E 9C 75 1F EA 7E
+Click to expand...
+UEFA Champions League, Women, League Phase, Round 5
+SKN St. Pölten vs Juventus
