@@ -1,3 +1,21 @@
+AFC Champions League 2
+7.0E
+11107 H 7200
+4.2.0 HD
+ID: QAT 037 M
+CW: D1 A7 7A F2 CC 30 2E 2A
+---FEED-SEPARATOR---
+omid1348 said:
+10E
+11290 H 7200
+4.2.0
+ID: CBC SPORT M1
+UEFA Youth League
+Qarabağ FK under-19 - AFC Ajax under-19
+FTA
+Click to expand...
+AUDIO encrypted
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11607  Vertical  7201,768
 ID:  E-289 (Mediapro Portugal) 
@@ -13,9 +31,9 @@ Eutelsat 7B-7C   @ 7.0E
 ID:    CAMARA 1 UM38 (*unnamed-1*
 1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
 International Youth, UEFA Youth League
-Athletic Bilbao
- vs. 
-Paris Saint-Germain
+Athletic Bilbao sub 19
+vs. 
+Paris Saint-Germain sub 19
 26 62 C8 A4 5F DC E3 E8  
 CW: A3 2C 52 21 BB C1 22 9E
 ---FEED-SEPARATOR---
