@@ -272,6 +272,13 @@ Toronto Raptors
 New York Knicks
 CW: 31 1D 21 6F 24 CF D8 CB
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+12640 H 7201
+ID: BBL Ulm (MTI Teleport MUC)
+1920x1080 |15,680Mb/Sec |8PSK |4:2:0 HD
+International, Euroleague Women, Main Round, Group EZVVZ USK Praha vs. Galatasaray 
+90 7B A7 9F 63 49 77 7E  #CW:BB EE 10 B9 12 20 25 57  
+---FEED-SEPARATOR---
 xFayez95 said:
 Eurocup, Group A, Round 10
 Aris BC vs Umana Reyer Venezia 
