@@ -6,6 +6,16 @@ Cruz Azul vs Flamengo
 ID: QAT 037 M
 CW: D1 A7 7A F2 CC 30 2E 2A
 ---FEED-SEPARATOR---
+Event: World Club Friendly
+Teams :Al Wahda (Uae) 
+ Al Nassr (Sau)
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11095 H 4938
+   SNG07 Chain A (LIVE SNG)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 78 78 2B 1B 60 F5 56 AB
+---FEED-SEPARATOR---
 omid1348 said:
 10E
 11290 H 7200
@@ -75,6 +85,36 @@ Villarreal CF
  vs. 
 FC Copenhagen 
 CW: B3 1C 5A 29 CB C1 23 AF
+---FEED-SEPARATOR---
+UEFA Youth League, Knockout stage
+Puskás U19 vs FCSB U19
+39.0E
+11008 V 7200
+4.2.0 HD
+ID: UYL
+CW: 13 57 AB 15 CD 24 68 59
+---FEED-SEPARATOR---
+Event: Europe Champions League - League phase - Round 6
+Teams :Ath Bilbao 
+ PSG
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+12566 H 19205
+  G19 E349 Via 1 (AVP 1080P)
+MPEG4-4:2:0 HD 1920x1080 |
+47.680 
+Mbit/Sec|8PSK DVB-S2 HD
+CW: AB DF 56 E0 48 BA FA FC
+---FEED-SEPARATOR---
+Event: Europe Champions League Women - League phase - Round 5
+Teams : Barcelona W 
+ SL Benfica W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12704 V 7200
+  ENC 5 (SES)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+99 E6 7A BE 3F 8B 6A 62  
+CW: 53 B4 37 3E 87 7B 97 99
 ---FEED-SEPARATOR---
 UEFA Women's Champions League
 Atletico Madrid vs Bayern Munich
