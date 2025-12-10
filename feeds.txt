@@ -76,6 +76,38 @@ Villarreal CF
 FC Copenhagen 
 CW: B3 1C 5A 29 CB C1 23 AF
 ---FEED-SEPARATOR---
+.
+---FEED-SEPARATOR---
+UEFA Women's Champions League
+Atletico Madrid vs Bayern Munich
+7E
+11105 H 9875
+DVB-S2 
+4:2:2
+ 8PSK
+ID: UWCL MATCH 05 EUROPE C/B
+CW: 6A 63 D9 A6 73 90 CA CD
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11021  Horizontal  9874,854
+ID:  UKI 1983 UWCL Match 04 Main (*unnamed-1*)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+International Clubs, UEFA Champions League, Wome
+Chelsea F
+ VS 
+Roma F
+76 35 68 5E EB 77 D8 17  #CW:29 FD CE F4 0F 86 58 ED  
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11010  Horizontal  9874,854
+ID: Man Utd-OL Lyonnes Match 03 MAIN (*unnamed-1*)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+International Clubs, UEFA Champions League, Wome
+Manchester United WFC
+ vs. 
+Olympique Lyon
+D2 43 35 89 46 64 C0 DD  #CW:5E 97 8D 82 6B 47 C7 79   
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11089 Vertical 7200,032
 ID:WSHT ENC 55 (EBUER)
