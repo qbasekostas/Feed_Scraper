@@ -32,6 +32,18 @@ Event:
 Potenza vs Crotone
 CW: FA 86 1C 9C 7C 9D 03 1C
 ---FEED-SEPARATOR---
+Satfun2017 said:
+Championship 
+Hull City Vs Wrexham
+Click to expand...
+7E
+12727 V 7120
+DVB-S2 4:2:0 8PSK
+ID: Pitch EFL Hull V Wresham
+Satfun2017 said:
+CW: 55 5C 6B 1C B4 45 37 30
+Click to expand...
+---FEED-SEPARATOR---
 Championship 
 Hull City Vs Wrexham
 100.5°E C
@@ -160,6 +172,14 @@ DVB-S2
 8PSK
 ID:Fi13_GNVE
 CW: BC 62 C7 E5 31 B2 C2 A5
+---FEED-SEPARATOR---
+Eutelsat 3C @ 3.1° E
+Fréq:3798 - L - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: UEFA
+UEFA Champions League
+Club Brugge vs Arsenal
+CW: 5D 91 8C 7A 9D EA 58 DF
 ---FEED-SEPARATOR---
 UEFA Champions League, Women, League Phase, Round 5
 Chelsea FC vs AS Roma
@@ -332,6 +352,14 @@ Toronto Raptors
  VS 
 New York Knicks
 CW: 31 1D 21 6F 24 CF D8 CB
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 10
+BAXI Manresa vs KK Cedevita Olimpija 
+Eutelsat 7A/7B/7C @ 7.0°E
+11087 - H - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.00 Mbit/s
+ID: E351 G22 Main
+CW: 13 11 AA CE CC 20 23 0F
 ---FEED-SEPARATOR---
 Intelsat 10-02 @ 1.0W
 12534  Vertical  4799,927
