@@ -76,8 +76,6 @@ Villarreal CF
 FC Copenhagen 
 CW: B3 1C 5A 29 CB C1 23 AF
 ---FEED-SEPARATOR---
-.
----FEED-SEPARATOR---
 UEFA Women's Champions League
 Atletico Madrid vs Bayern Munich
 7E
@@ -107,6 +105,17 @@ Manchester United WFC
  vs. 
 Olympique Lyon
 D2 43 35 89 46 64 C0 DD  #CW:5E 97 8D 82 6B 47 C7 79   
+---FEED-SEPARATOR---
+Event: EuropeABA League 2 - Round 4
+Teams : Vrsac 
+ Radnicki
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12633 V 4938
+   YSM-021M (DSNG)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+3C 72 98 CD 97 7F 18 3C
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11089 Vertical 7200,032
