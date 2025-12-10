@@ -1,0 +1,7 @@
+Eutelsat 7B-7C   @ 7.0E
+11102 V 14401
+ID:Service 1 (EBUER)
+1920x1080 |31,360Mb/Sec |8PSK |4:2:2 HD
+event: liga germany 
+2025/26 Highlights
+CW: FC CD BB 84 E2 AE 10 A0
