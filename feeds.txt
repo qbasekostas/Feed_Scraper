@@ -37,14 +37,6 @@ SL Benfica
  vs. 
 SSC Napoli
 ---FEED-SEPARATOR---
-UEFA Champions League 
-(Feed B)
-7.0°E
-11096 V 4936
-ID: E389 M8 B2 MAIN
-1080P - 4.2.0 - 8PSK
-CW: 4C C7 FA 0D 5C EA 21 67
----FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 10986  Horizontal  9874,854
 ID:   SWE-043 UWCL M01 BACKUP (Mobilelinks)
@@ -85,6 +77,19 @@ Villarreal CF
  vs. 
 FC Copenhagen 
 CW: B3 1C 5A 29 CB C1 23 AF
+---FEED-SEPARATOR---
+UEFA U-19 CHAMPIOSHIP
+2026/2027
+Round 1 Draw 
+7°E
+11104  
+V  
+9875
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:Fi13_GNVE
+CW: BC 62 C7 E5 31 B2 C2 A5
 ---FEED-SEPARATOR---
 UEFA Youth League, Knockout stage
 Puskás U19 vs FCSB U19
@@ -145,6 +150,14 @@ Manchester United WFC
  vs. 
 Olympique Lyon
 D2 43 35 89 46 64 C0 DD  #CW:5E 97 8D 82 6B 47 C7 79   
+---FEED-SEPARATOR---
+UEFA Champions League 
+(Feed B)
+7.0°E
+11096 V 4936
+ID: E389 M8 B2 MAIN
+1080P - 4.2.0 - 8PSK
+CW: 4C C7 FA 0D 5C EA 21 67
 ---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event: Europe Eurocup - Round 10
