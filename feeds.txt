@@ -1,3 +1,27 @@
+Eutelsat 16A @ 16.0E
+11062  Horizontal  9874,854
+ID:     FFBL NÃŒrnberg (Adtec Digital)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+Alemania
+Bundesliga - Femenina - Jornada 11
+1.FC Nurnberg F
+ SV 
+Eintracht Fráncfort F
+ED AC 57 7E 0A CD 9A 1E  
+CW: 10 12 BE E0 FA 96 25 B5
+---FEED-SEPARATOR---
+Robertooo said:
+			Eutelsat 16A (16.0 E)
+11062 Horizontal 9872,879 3/4
+DVB-S2/8PSK (4:2:0)
+FFBL Hamburger SV
+Bundesliga Women - Round 12
+Hamburger SV vs Köln
+18:00 CET
+CW: 08 12 BB D5 BA 87 12 53
+Click to expand...
+new cw pls?
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 11124 V 7200
 DVB-S2/8PSK (4:2:0)
@@ -231,13 +255,13 @@ ID: E389 M8 B2 MAIN
 1080P - 4.2.0 - 8PSK
 CW: 4C C7 FA 0D 5C EA 21 67
 ---FEED-SEPARATOR---
-Eurocup, Group A, Round 10
-Aris BC vs Umana Reyer Venezia 
-Eutelsat 7A/7B/7C @ 7.0°E
-11170 - H - 7200
-1920x1080 | H.264/AVC Video | 4:2:0 | 15.20 Mbit/s
-ID: aris vs slask wroclaw
-CW: F1 6C A1 FE 0C DC 20 08
+Basketball Champions League
+AEK vs Levicki Patrioti
+13E
+12610 V 7200
+DVB-S2 4:2:0 8PSK
+ID: AVP_OU_A
+CW: FF 18 ED 04 19 ED 95 9B
 ---FEED-SEPARATOR---
 Event: Europe Eurocup - Round 10
 Teams : Bahcesehir Kol. 
@@ -271,6 +295,14 @@ Toronto Raptors
  VS 
 New York Knicks
 CW: 31 1D 21 6F 24 CF D8 CB
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 10
+KK Budućnost VOLI vs London Lions 
+Eutelsat 7A/7B/7C @ 7.0°E
+11107 - V - 4938
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.10 Mbit/s
+ID: MNE-001 main
+CW: 27 C9 3F 2F DB 97 99 0B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 12640 H 7201
@@ -307,11 +339,3 @@ ID: LAT-002
 Event:
  BKT Eurocup - Neptunas vs Slask Wroclaw
 CW: BA 23 DE BB 81 CD 72 C0
----FEED-SEPARATOR---
-Basketball Champions League
-AEK vs Levicki Patrioti
-13E
-12610 V 7200
-DVB-S2 4:2:0 8PSK
-ID: AVP_OU_A
-CW: FF 18 ED 04 19 ED 95 9B
