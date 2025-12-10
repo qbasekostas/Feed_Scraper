@@ -161,8 +161,6 @@ DVB-S2
 ID:Fi13_GNVE
 CW: BC 62 C7 E5 31 B2 C2 A5
 ---FEED-SEPARATOR---
-DELETE
----FEED-SEPARATOR---
 UEFA Champions League, Women, League Phase, Round 5
 Chelsea FC vs AS Roma
 Eutelsat 7A/7B/7C @ 7.0°E
