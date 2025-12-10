@@ -1,0 +1,11 @@
+Eutelsat 7B-7C @ 07.0E
+11089 Vertical 7200,032
+ID:WSHT ENC 55 (EBUER)
+DVB-S2 | 8PSK | 1080i |12,8 dB | 4:2:0
+EVENT: 
+ESTADOS UNIDOS: 
+NBA Cup - Playoffs
+Toronto Raptors
+ VS 
+New York Knicks
+CW: 31 1D 21 6F 24 CF D8 CB
