@@ -1,4 +1,20 @@
+Jacop said:
 AFC Champions League 2
+Cruz Azul vs Flamengo
+7.0E
+11107 H 7200
+4.2.0 HD
+ID: QAT 037 M
+CW: D1 A7 7A F2 CC 30 2E 2A
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11080 H 7200
+ Qat037 M
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+CW: D1 A7 7A F2 CC 30 2E 2A
+---FEED-SEPARATOR---
+FIFA INTERCONTINENTAL CUP - QUARTER-FINALS
 Cruz Azul vs Flamengo
 7.0E
 11107 H 7200
@@ -158,20 +174,6 @@ UEFA Champions League
 ID: E389 M8 B2 MAIN
 1080P - 4.2.0 - 8PSK
 CW: 4C C7 FA 0D 5C EA 21 67
----FEED-SEPARATOR---
-Abo Saeid Satellite said:
-Event: Europe Eurocup - Round 10
-Teams : Bahcesehir Kol. 
- Cluj-Napoca
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-12695 V 7200
-   TUR-M25-A (*unnamed-2*)
-MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
-CW: 4E 5B 29 D2 6D D4 6A AB
-Click to expand...
-EURO CUP 
-Bahcesehir Kol. v Cluj-Napoca
 ---FEED-SEPARATOR---
 Event: Europe Eurocup - Round 10
 Teams : Bahcesehir Kol. 
