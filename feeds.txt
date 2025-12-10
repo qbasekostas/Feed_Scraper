@@ -296,6 +296,17 @@ Toronto Raptors
 New York Knicks
 CW: 31 1D 21 6F 24 CF D8 CB
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11154 H 7200
+ID:E229 Carrier 2 (Service Provider)
+1920x1080 |15,680Mb/Sec |8PSK |4:2:0 HD
+Europa
+Champions League - Jornada 5
+La Laguna Tenerife
+ VS 
+Trapani
+CW: FB 83 FE 7C 81 BD 05 43
+---FEED-SEPARATOR---
 Eurocup, Group B, Round 10
 KK Budućnost VOLI vs London Lions 
 Eutelsat 7A/7B/7C @ 7.0°E
