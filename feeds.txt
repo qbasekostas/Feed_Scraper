@@ -107,6 +107,23 @@ DVB-S2
 ID:Fi13_GNVE
 CW: BC 62 C7 E5 31 B2 C2 A5
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+10996 - V - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 21.04 Mbit/s
+ID: UCL_IHL_GVA_Fi01
+UEFA CL Instant Highlights Feed
+CW: 4C C7 FA 0D 5C EA 21 67
+---FEED-SEPARATOR---
+UEFA Champions League
+Real Madrid vs Manchester City
+3.1E
+10988 H 7500
+DVB-S2 4:2:0 8PSK
+ID: RMA HD2D Perso BeIN Mena
+CW: D2 A3 C1 36 A3 3A F4 D1
+---FEED-SEPARATOR---
 UEFA Youth League, Knockout stage
 Puskás U19 vs FCSB U19
 39.0E
