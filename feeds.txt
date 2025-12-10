@@ -8,35 +8,8 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: 92 48 EF C9 88 94 F0 0C
 ---FEED-SEPARATOR---
-.
----FEED-SEPARATOR---
-Jacop said:
-7.0E
-11107 H 7200
-4.2.0 HD
-ID: QAT 037 M
-CW: D1 A7 7A F2 CC 30 2E 2A
-Click to expand...
- FIFA Intercontinental Cup .Qater. Quarter-Final 
+AFC Champions League 2
 Cruz Azul vs Flamengo
----FEED-SEPARATOR---
-Jacop said:
-AFC Champions League 2
-7.0E
-11107 H 7200
-4.2.0 HD
-ID: QAT 037 M
-CW: D1 A7 7A F2 CC 30 2E 2A
-Click to expand...
-FIFA INTERCONTINENTAL CUP - QUARTER-FINALS
-Cruz Azul vs Flamengo RJ
-Venue: Ahmad bin Ali Stadium (Al Rayyan)
-						1765364703941 — Postimages
-					postimg.cc
-						1765364303508 — Postimages
-					postimg.cc
----FEED-SEPARATOR---
-AFC Champions League 2
 7.0E
 11107 H 7200
 4.2.0 HD
