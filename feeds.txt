@@ -106,6 +106,30 @@ Manchester United WFC
 Olympique Lyon
 D2 43 35 89 46 64 C0 DD  #CW:5E 97 8D 82 6B 47 C7 79   
 ---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event: Europe Eurocup - Round 10
+Teams : Bahcesehir Kol. 
+ Cluj-Napoca
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12695 V 7200
+   TUR-M25-A (*unnamed-2*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 4E 5B 29 D2 6D D4 6A AB
+Click to expand...
+EURO CUP 
+Bahcesehir Kol. v Cluj-Napoca
+---FEED-SEPARATOR---
+Event: Europe Eurocup - Round 10
+Teams : Bahcesehir Kol. 
+ Cluj-Napoca
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12695 V 7200
+   TUR-M25-A (*unnamed-2*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
 Event: EuropeABA League 2 - Round 4
 Teams : Vrsac 
  Radnicki
