@@ -76,6 +76,16 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: 78 78 2B 1B 60 F5 56 AB
 ---FEED-SEPARATOR---
+16E
+12548 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: No name
+UEFA Champions League - Matchday 6
+Club Brugge
+ v 
+Arsenal
+---FEED-SEPARATOR---
 omid1348 said:
 10E
 11290 H 7200
@@ -150,6 +160,35 @@ DVB-S2
 8PSK
 ID:Fi13_GNVE
 CW: BC 62 C7 E5 31 B2 C2 A5
+---FEED-SEPARATOR---
+DELETE
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 5
+Chelsea FC vs AS Roma
+Eutelsat 7A/7B/7C @ 7.0°E
+11605 - V - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.32 Mbit/s
+ID: ENC 7
+CW: 78 0E 4E D4 2A 81 1B C6
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 5
+Manchester United vs OL Lyonnes
+Eutelsat 7A/7B/7C @ 7.0°E
+11596 - V - 7200
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.29 Mbit/s
+ID: ENC 2
+CW: 78 0E 4E D4 2A 81 1B C6
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11589 V 7200
+ID:   ENC 4 (SES)
+1920x1080 |15,680Mb/Sec |8PSK |4:2:0 HD
+Europa
+Champions League Femenina - Fase de liga - Jornada 5
+Atlético de Madrid F
+ VS 
+Bayern Múnich F
+83 8B 77 89 CC A3 58 B7  #CW:A1 3C 3C 19 BD 48 05 0A 
 ---FEED-SEPARATOR---
 Event:
  Europe Champions League Women - League phase - Round 5
@@ -295,6 +334,17 @@ Toronto Raptors
  VS 
 New York Knicks
 CW: 31 1D 21 6F 24 CF D8 CB
+---FEED-SEPARATOR---
+Intelsat 10-02 @ 1.0W
+12534  Vertical  4799,927
+ID: B 191 DGI (DIGI TV)
+1920x1080 |10,697Mb/Sec |8PSK |4:2:0 HD
+EUROPA: 
+FIBA Europe Cup - Segunda fase
+CSM Oradea
+ VS 
+KK Bosna
+CW: 10 12 20 42 25 AB CD 9D
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11154 H 7200
