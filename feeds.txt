@@ -1,3 +1,13 @@
+Eutelsat 7B-7C   @ 7.0E
+11607  Vertical  7201,768
+ID:  E-289 (Mediapro Portugal) 
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: fta
+International Youth, UEFA Youth Leagu
+SL Benfica
+ vs. 
+SSC Napoli
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11089 Vertical 7200,032
 ID:WSHT ENC 55 (EBUER)
