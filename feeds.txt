@@ -8,6 +8,27 @@ SL Benfica
  vs. 
 SSC Napoli
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11543  Vertical  7201,79
+ID:    CAMARA 1 UM38 (*unnamed-1*
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+International Youth, UEFA Youth League
+Athletic Bilbao
+ vs. 
+Paris Saint-Germain
+26 62 C8 A4 5F DC E3 E8  
+CW: A3 2C 52 21 BB C1 22 9E
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+11553  Vertical  7201,779
+ID: E-269 via1  (OVERON)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+International Youth, UEFA Youth League
+Villarreal CF
+ vs. 
+FC Copenhagen 
+CW: B3 1C 5A 29 CB C1 23 AF
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11089 Vertical 7200,032
 ID:WSHT ENC 55 (EBUER)
