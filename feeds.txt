@@ -1,3 +1,15 @@
+Event:Asia Arabian Gulf Cup U23 - Round 3
+Teams :Oman U23 
+ Yemen U23
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11190 H 7200
+ UAE074 - 1 (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 92 48 EF C9 88 94 F0 0C
+---FEED-SEPARATOR---
+.
+---FEED-SEPARATOR---
 Jacop said:
 7.0E
 11107 H 7200
@@ -51,6 +63,16 @@ International Youth, UEFA Youth Leagu
 SL Benfica
  vs. 
 SSC Napoli
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 7.0E
+10986  Horizontal  9874,854
+ID:   SWE-043 UWCL M01 BACKUP (Mobilelinks)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:2 HD
+International Clubs, UEFA Champions League, Women
+Valerenga Oslo
+ vs. 
+Paris FC
+CW: 5D 8E B4 9F 96 88 0D 2B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 10998  Horizontal  9874,854
