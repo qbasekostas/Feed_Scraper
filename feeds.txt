@@ -1,3 +1,13 @@
+Eutelsat 7B/7C (7.0 E)
+11124 V 7200
+DVB-S2/8PSK (4:2:0)
+ID:
+ ITA 81 A
+Coppa Italia Serie C 
+Event: 
+Potenza vs Crotone
+CW: FA 86 1C 9C 7C 9D 03 1C
+---FEED-SEPARATOR---
 Jacop said:
 AFC Champions League 2
 Cruz Azul vs Flamengo
@@ -106,6 +116,26 @@ DVB-S2
 8PSK
 ID:Fi13_GNVE
 CW: BC 62 C7 E5 31 B2 C2 A5
+---FEED-SEPARATOR---
+Event:
+ Europe Champions League Women - League phase - Round 5
+Teams : Barcelona W 
+ SL Benfica W
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11580 V 7200
+   ENC 6 (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.016 Mbit/Sec | 8PSK | DVB-S2 HD
+E0 0D F8 40 C1 B8 D4 EF  
+CW: E6 24 12 1C F2 C9 57 12
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11070 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  E-408 VIA 1
+UEFA Champions League
+Real Madrid vs Manchester City
+CW: 87 81 41 49 88 19 93 34
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 10996 - V - 9875
