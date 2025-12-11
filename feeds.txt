@@ -53,6 +53,18 @@ UEFA Europa League
 SK Sturm Graz - FK Crvena zvezda
 FTA
 ---FEED-SEPARATOR---
+Intelsat 10-02 / Thor 5-6 (0.8°W)
+Frequency: 12541 - Pol: V - SR: 6660 - FEC: 3/4
+Category: Sport - Football
+UEFA Conference League - Matchday 5
+Transmitted in: MPEG-4 crypte
+ID: 
+B115DGS
+CW: 11 12 20 43 25 AB CD 9D
+Info: 
+Universitatea Craiova - Sparta Prague (18:45 cet)
+--------------------------------------------------------
+---FEED-SEPARATOR---
 UEFA Europa League - Matchday 6
 Celtic vs. Roma
 Intelsat 10-02 @ 1.0°W
