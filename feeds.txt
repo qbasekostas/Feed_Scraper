@@ -105,6 +105,11 @@ DVB-S2 - 1080P - 8PSK
 ID:Fi19_GNVE
 CW: 9F 4D 39 25 18 3C 00 54
 ---FEED-SEPARATOR---
+7E
+Ludogorets-PAOK
+11079 - Pol: V - SR: 8023 - FEC: -
+Please Biss Keys?
+---FEED-SEPARATOR---
 Intelsat 10-02 @ 1.0W
 11490  Vertical  7201,79
 ID:  Shel V Crys (NEP Ireland)
