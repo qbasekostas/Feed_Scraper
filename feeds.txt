@@ -6,6 +6,19 @@ event: liga germany
 2025/26 Highlights
 CW: FC CD BB 84 E2 AE 10 A0
 ---FEED-SEPARATOR---
+FIFA Arab Cup 2025
+Morocco vs. Syria
+Badr 4/5/6/7 a 26.0E
+- Name:           SNG3 MAR SYR M (TANDBERG Television)
+- Freq: 11109,888
+- Pol: Horizontal
+- SR: 7500,254
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+51 7E 36 76 35 E9 BE A5
+CW: AB C2 02 6F 5A BE FE 16
+---FEED-SEPARATOR---
 UEFA WOMENS UNDER-17 CHAMPIONSHIP
 Eutelsat 7B/7C @ 7.0E
 11105  V 7200
