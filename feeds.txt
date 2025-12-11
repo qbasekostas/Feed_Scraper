@@ -30,6 +30,25 @@ Badr 4/5/6/7 a 26.0E
 51 7E 36 76 35 E9 BE A5
 CW: AB C2 02 6F 5A BE FE 16
 ---FEED-SEPARATOR---
+19.2E
+11632 V 7500
+4.2.0
+ID: Graz Feed 3
+UEFA Europa League
+SK Sturm Graz - FK Crvena zvezda
+FTA
+---FEED-SEPARATOR---
+UEFA Europa League - Matchday 6
+Celtic vs. Roma
+Intelsat 10-02 @ 1.0°W
+11463 - V - 7200 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 09 EE 21 18 8D D9 74 DA
+---FEED-SEPARATOR---
 UEFA WOMENS UNDER-17 CHAMPIONSHIP
 Eutelsat 7B/7C @ 7.0E
 11105  V 7200
