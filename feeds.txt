@@ -104,3 +104,26 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:Fi19_GNVE
 CW: 9F 4D 39 25 18 3C 00 54
+---FEED-SEPARATOR---
+Intelsat 10-02 @ 1.0W
+11490  Vertical  7201,79
+ID:  Shel V Crys (NEP Ireland)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+International Clubs, UEFA Conference League Shelbourne FCvs. Crystal Palace 
+9B BF BE 69 1C 38 38 CD  #CW:A0 53 A1 94 56 1F 74 E9 
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+12546 H 7201
+ID:      E351 Euroligue BU (TBS)
+1920x1080 |15,680Mb/Sec |8PSK |4:2:0 HD
+International, Euroleague     Valencia Basketvs. Anadolu Efes SK
+CW: 8B 3C 9C 63 99 79 11 23
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C 7° E
+11071 H 7200
+ID: IMG A EU
+4.2.0- DVB-S2 - 8PSK
+Event:
+ Euroleague Basketball - Real Madrid vs 
+Saski Baskonia
+CW: AC 19 5F 24 D3 6E 52 93
