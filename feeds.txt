@@ -123,6 +123,14 @@ ID:  Shel V Crys (NEP Ireland)
 International Clubs, UEFA Conference League Shelbourne FCvs. Crystal Palace 
 9B BF BE 69 1C 38 38 CD  #CW:A0 53 A1 94 56 1F 74 E9 
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12563 H 7200
+ID: ITA315_BKP
+4.2.0- DVB-S2 - 8PSK
+Event:
+Euroleague Basketball - Olimpia Milano vs Panathinaikos 
+CW: 8D A6 14 47 BB 49 AF B3
+---FEED-SEPARATOR---
 Euroleague, Round 15
 Paris Basketball vs Kauno Žalgiris 
 Eutelsat 7A/7B/7C @ 7.0°E
