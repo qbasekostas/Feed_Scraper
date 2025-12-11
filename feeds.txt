@@ -105,10 +105,16 @@ DVB-S2 - 1080P - 8PSK
 ID:Fi19_GNVE
 CW: 9F 4D 39 25 18 3C 00 54
 ---FEED-SEPARATOR---
-7E
-Ludogorets-PAOK
-11079 - Pol: V - SR: 8023 - FEC: -
-Please Biss Keys?
+UEFA Conference League - Matchday 5
+Rijeka vs. Celje
+Eutelsat 7B/7C @ 7.0°E
+11460 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Medialink CRO-024/1
+CW: 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 Intelsat 10-02 @ 1.0W
 11490  Vertical  7201,79
