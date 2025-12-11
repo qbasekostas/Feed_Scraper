@@ -30,6 +30,21 @@ Badr 4/5/6/7 a 26.0E
 51 7E 36 76 35 E9 BE A5
 CW: AB C2 02 6F 5A BE FE 16
 ---FEED-SEPARATOR---
+omid1348 said:
+19.2E
+11632 V 7500
+4.2.0
+ID: Graz Feed 3
+UEFA Europa League
+SK Sturm Graz - FK Crvena zvezda
+FTA
+Click to expand...
+ALSO
+19.2E
+11620 V 7500
+4.2.0
+ID: ATV AUT 39
+---FEED-SEPARATOR---
 19.2E
 11632 V 7500
 4.2.0
