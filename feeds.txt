@@ -53,6 +53,27 @@ UEFA Europa League
 SK Sturm Graz - FK Crvena zvezda
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11581 V 9876
+ID:  CRO-021/1 (MediaLink)
+1920x1080 |21,510Mb/Sec |8PSK |4:2:0 HD
+International Clubs, UEFA Conference League
+GNK Dinamo Zagreb
+ vs. 
+Real Betis Seville
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
+UEL / UECL - Matchday 6/5: 
+Multiplex & Highlights
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UEL_IHL_GVA_Fi05
+CW: 65 EF 87 DB 0D 84 1B AC
+---FEED-SEPARATOR---
 Intelsat 10-02 / Thor 5-6 (0.8°W)
 Frequency: 12541 - Pol: V - SR: 6660 - FEC: 3/4
 Category: Sport - Football
