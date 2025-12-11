@@ -6,6 +6,17 @@ event: liga germany
 2025/26 Highlights
 CW: FC CD BB 84 E2 AE 10 A0
 ---FEED-SEPARATOR---
+FIFA Arab Cup 2025 - Quarter Finals
+Palestine vs. Saudi Arabia
+Es'hail Sat 1-2 @ 25.8°E
+11580 - V - 7500 
+|
+4:2:0
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: Service 01
+CW: AB DE 20 A9 27 EF EE 04
+---FEED-SEPARATOR---
 FIFA Arab Cup 2025
 Morocco vs. Syria
 Badr 4/5/6/7 a 26.0E
