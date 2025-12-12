@@ -1,3 +1,13 @@
+Bundesliga
+,
+Union Berlin vs Leipzig
+16.0E
+10978 H 7200
+(sky German)
+4.2.0 HD
+ID: F7-1 9MHZ
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11062  Horizontal  9874,854
 ID:   FBL Bremen (Adtec Digital)
@@ -28,6 +38,14 @@ Ulm
  VS 
 Osnabruck
 CW: 12 12 BA DE AC 25 45 16
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°E
+10976 - H - 7200
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 4:2:0 | 16.27 Mbit/s
+ID: F7-1 9MHz
+GERMAN FOOTBALL - Union Berlin vs RB Leipzig 
+CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10732  Vertical  33999,708
