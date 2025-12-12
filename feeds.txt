@@ -1,3 +1,11 @@
+Eutelsat 7B-7C   @ 07.0E
+11105 H 9876
+ID: GVA_Fi03 (EUROVISION SA)
+1920x1080 |21,510Mb/Sec |8PSK 
+|4:2:2 HD 
+Germany, 2nd Bundesliga Greuther Furthvs. Hertha BSC
+CW: AA 3A 51 25 C3 C4 C1 48
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12702  Vertical  7201,801
 ID:  D-528 Ulm (rt1.tv)
@@ -27,11 +35,10 @@ Es'hail Sat 1-2 @ 25.8°E
 1920*1080 - DVB-S2 - 8PSK
 ID: Service 01
 CW: AC DE F2 7C 02 6E FF 6F
-#OLD CW  
 faisal6 said:
-FIFA Arab Cup
-ID: Service 02 (Vislink)
-CW: AB AB DC 32 DC 01 89 66
+ID: Service 02
+OLD #CW
+: AB AB DC 32 DC 01 89 66
 Click to expand...
 ---FEED-SEPARATOR---
 Badr 4/5/6/7 a 26.0E
@@ -44,6 +51,17 @@ Jordania
  VS 
 Irak
 CW: AB DE E2 6B 02 6E FE 6E
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11460 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: Medialink CRO-024/1
+EUROPE: 
+AdmiralBet ABA League
+(Basketball)
+Split
+Igokea
+CW: 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 EuroLeague
 Monaco Basket vs Fenerbahçe
