@@ -126,6 +126,15 @@ Scottish Championship - Week 18
 Ayr United v 
 St Johnstone
 ---FEED-SEPARATOR---
+Scotland, Championship, Round 18
+Ayr United vs St. Johnstone
+Eutelsat 7A/7B/7C @ 7.0°E
+12649 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.14 Mbit/s
+ID: GCUK Enc 8
+CW: 89 9B CE F2 9F F7 CD 63
+---FEED-SEPARATOR---
 BLACKCRUSADER said:
 ASIASAT 5 100.5E
 EFL West Bromwich Albion vs Sheffield United
@@ -167,6 +176,15 @@ Jordania
  VS 
 Irak
 CW: AB DE E2 6B 02 6E FE 6E
+---FEED-SEPARATOR---
+Euroleague, Round 15
+Virtus Bologna vs Hapoel Tel-Aviv
+Eutelsat 7A/7B/7C @ 7.0°E
+12653 - V - 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.94 Mbit/s
+ID: ITA
+CW: A4 4B C3 B2 2D EF 11 2D
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11460 - V - 7200
