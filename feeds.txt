@@ -167,6 +167,11 @@ Jordania
 Irak
 CW: AB DE E2 6B 02 6E FE 6E
 ---FEED-SEPARATOR---
+Eutelsat 7B - 7C (7.0°E)   
+Fréquence: 11070 - Pol: H - 
+SR: 7200 Sport - Basketball Transmis en: MPEG-4 crypté ℹ Barcelona-Olympiacos
+key pleaseee??
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11460 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
