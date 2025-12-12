@@ -97,7 +97,9 @@ ID:   OVERON 1 (OVERON)
 Spain, LaLiga Real Sociedad VS Girona FC
 CW: CF 36 00 05 4E 60 29 D7
 Click to expand...
-new cw pls?
+NEW 
+7B A4 5C 87 B9 EA 0C 7F  #
+CW: 6D FE 17 82 FB A4 8B 2A
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10732  Vertical  33999,708
@@ -123,6 +125,20 @@ ID: Uki-1592
 Scottish Championship - Week 18
 Ayr United v 
 St Johnstone
+---FEED-SEPARATOR---
+BLACKCRUSADER said:
+ASIASAT 5 100.5E
+EFL West Bromwich Albion vs Sheffield United
+3935 H 7120
+CW: 32 93 0D D2 E3 3A E3 00
+Click to expand...
+7e
+12694 v 7120
+---FEED-SEPARATOR---
+ASIASAT 5 100.5E
+EFL West Bromwich Albion vs Sheffield United
+3935 H 7120
+CW: 32 93 0D D2 E3 3A E3 00
 ---FEED-SEPARATOR---
 FIFA Arab Cup Qatar 2025 - Quarter Finals
 Algeria vs. United Arab Emirates
