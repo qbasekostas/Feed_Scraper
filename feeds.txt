@@ -1,3 +1,14 @@
+faisal6 said:
+Eutelsat 7B-7C   @ 07.0E
+11105 H 9876
+ID: GVA_Fi03 (EUROVISION SA)
+1920x1080 |21,510Mb/Sec |8PSK 
+|4:2:2 HD 
+Germany, 2nd Bundesliga Greuther Furthvs. Hertha BSC
+CW: AA 3A 51 25 C3 C4 C1 48
+Click to expand...
+bad key?
+---FEED-SEPARATOR---
 Bundesliga
 ,
 Union Berlin vs Leipzig
@@ -53,6 +64,24 @@ ID:   OVERON 1 (OVERON)
 1920x1080 |84,284Mb/Sec |8PSK |4:2:2 HD
 Spain, LaLiga Real Sociedad VS Girona FC
 CW: CF 36 00 05 4E 60 29 D7
+---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship - Week 18
+Ayr United v
+ St Johnstone
+---FEED-SEPARATOR---
+16E
+12703 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship - Week 18
+Ayr United v 
+St Johnstone
 ---FEED-SEPARATOR---
 FIFA Arab Cup Qatar 2025 - Quarter Finals
 Algeria vs. United Arab Emirates
