@@ -32,3 +32,19 @@ Jordania
  VS 
 Irak
 CW: AB DE E2 6B 02 6E FE 6E
+---FEED-SEPARATOR---
+EuroLeague
+Monaco Basket vs Fenerbahçe
+7.0E
+11089 H 7200
+4.2.0 HD
+ID: F489 MAIN
+CW: 89 A4 CA F7 33 3D 53 C3
+---FEED-SEPARATOR---
+42E
+11496 V 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Galatasaray - Merkezefendi Denizli
+CW: AE 2B 86 5F 87 A7 1D 4B
