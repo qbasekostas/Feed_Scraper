@@ -8,3 +8,10 @@ Jordania
  VS 
 Irak
 CW: AB DE E2 6B 02 6E FE 6E
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - KuBand
+TP : 12525 H 7200
+ID: cctv-dsng
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : CC BB 12 99 34 FF DD 10
+CBA Round 1
