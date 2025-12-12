@@ -1,3 +1,34 @@
+Jacop said:
+Bundesliga
+,
+Union Berlin vs Leipzig
+16.0E
+10978 H 7200
+(sky German)
+4.2.0 HD
+ID: F7-1 9MHZ
+CW: 20 25 AE F3 EA 52 02 3E
+Click to expand...
+Post in thread 'GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post!)'
+https://www.sat-universe.com/index....this-info-in-your-post.253481/post-2037424859
+---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 7B-7C   @ 07.0E
+11105 H 9876
+ID: GVA_Fi03 (EUROVISION SA)
+1920x1080 |21,510Mb/Sec |8PSK 
+|4:2:2 HD 
+Germany, 2nd Bundesliga Greuther Furthvs. Hertha BSC
+CW: AA 3A 51 25 C3 C4 C1 48
+Click to expand...
+Germany, Bundesliga
+Union Berlin
+vs. 
+RB Leipzi
+LO CORRECT 
+77 80 8F E0 82 7B D3 C1  
+CW: AA 3A 51 35 C3 C4 C1 48
+---FEED-SEPARATOR---
 faisal6 said:
 Eutelsat 7B-7C   @ 07.0E
 11105 H 9876
@@ -57,6 +88,16 @@ DVB-S2 | 8PSK | 5/6
 ID: F7-1 9MHz
 GERMAN FOOTBALL - Union Berlin vs RB Leipzig 
 CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 10B @ 10.0E
+10732  Vertical  33999,708
+ID:   OVERON 1 (OVERON)
+1920x1080 |84,284Mb/Sec |8PSK |4:2:2 HD
+Spain, LaLiga Real Sociedad VS Girona FC
+CW: CF 36 00 05 4E 60 29 D7
+Click to expand...
+new cw pls?
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10732  Vertical  33999,708
