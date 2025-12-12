@@ -1,3 +1,14 @@
+Eutelsat 16A @ 16.0E
+11062  Horizontal  9874,854
+ID:   FBL Bremen (Adtec Digital)
+1920x1080 |22,009Mb/Sec |8PSK 
+|4:2:0 HD
+AC 0D A9 E5 8C 63 27 0E  #CW:12 12 DE 02 CC 95 77 D8 
+Germany Amateur, Bundesliga, Women
+Werder Bremen
+vs. 
+Bayer Leverkusen 
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11105 H 9876
 ID: GVA_Fi03 (EUROVISION SA)
@@ -62,6 +73,17 @@ AdmiralBet ABA League
 Split
 Igokea
 CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11070- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: Service1
+Event: 
+Euroleague Basketball -  
+Barcelona
+ v 
+Olympiacos
+CW: FA 1D E7 FE AB D1 F6 72
 ---FEED-SEPARATOR---
 EuroLeague
 Monaco Basket vs Fenerbahçe
