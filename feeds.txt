@@ -1,3 +1,16 @@
+FIFA Arab Cup Qatar 2025 - Quarter Finals
+Algeria vs. United Arab Emirates
+Es'hail Sat 1-2 @ 25.8°E
+11576 - V - 15000 
+|
+4:2:0
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: Service 01
+CW: AC DE F2 7C 02 6E FF 6F
+ID: Service 02
+CW: AB AB DC 32 DC 01 89 66
+---FEED-SEPARATOR---
 Badr 4/5/6/7 a 26.0E
 11630 H  7500,272
 ID: SNG3 JOR IRQ M (TANDBERG Television)
@@ -16,10 +29,3 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: Fi13_GNVE
 CW: 83 11 F3 87 BA 1C 97 6D
----FEED-SEPARATOR---
-AsiaSat 5 - 100.5 E - KuBand
-TP : 12525 H 7200
-ID: cctv-dsng
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-CW : CC BB 12 99 34 FF DD 10
-CBA Round 1
