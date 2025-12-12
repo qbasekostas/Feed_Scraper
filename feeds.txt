@@ -133,6 +133,7 @@ EFL West Bromwich Albion vs Sheffield United
 CW: 32 93 0D D2 E3 3A E3 00
 Click to expand...
 7e
+ID: Pitch EFL West Brom
 12694 v 7120
 ---FEED-SEPARATOR---
 ASIASAT 5 100.5E
@@ -166,11 +167,6 @@ Jordania
  VS 
 Irak
 CW: AB DE E2 6B 02 6E FE 6E
----FEED-SEPARATOR---
-Eutelsat 7B - 7C (7.0°E)   
-Fréquence: 11070 - Pol: H - 
-SR: 7200 Sport - Basketball Transmis en: MPEG-4 crypté ℹ Barcelona-Olympiacos
-key pleaseee??
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11460 - V - 7200
