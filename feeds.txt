@@ -8,8 +8,12 @@ Es'hail Sat 1-2 @ 25.8°E
 1920*1080 - DVB-S2 - 8PSK
 ID: Service 01
 CW: AC DE F2 7C 02 6E FF 6F
-ID: Service 02
+#OLD CW  
+faisal6 said:
+FIFA Arab Cup
+ID: Service 02 (Vislink)
 CW: AB AB DC 32 DC 01 89 66
+Click to expand...
 ---FEED-SEPARATOR---
 Badr 4/5/6/7 a 26.0E
 11630 H  7500,272
@@ -21,11 +25,3 @@ Jordania
  VS 
 Irak
 CW: AB DE E2 6B 02 6E FE 6E
----FEED-SEPARATOR---
-UEFA EUROPEAN WOMENS FUTSAL CHAMPIONSHIP 2026/27
-Eutelsat 7B/7C @ 7.0E
-11044 V 9875
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID: Fi13_GNVE
-CW: 83 11 F3 87 BA 1C 97 6D
