@@ -94,6 +94,39 @@ SGS Essen-Schonebeck 19/68
 ---FEED-SEPARATOR---
 delet
 ---FEED-SEPARATOR---
+Spanish La Liga 2 - Matchday 18
+Dep. La Coruna vs. Real Sociedad B 
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:0 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 55 00 96 EB 9F DC C8 43
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 16
+Getafe vs. Espanyol
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: 24 BC 1C FC BB 2A EC D1
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 16
+Getafe vs. Espanyol
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 36 65 25 C0 79 D9 D9 2B
+---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3840 H 30000
 DVB-S2 - 1080P - 8PSK
@@ -263,6 +296,17 @@ ID: MRC008-Principal (*sin nombre-1*)
 1920x1080 |16,051Mb/seg |8PSK |4:2:0 HD
 EVENT: FIFA WOMEN CHAMPIONS CUP 2026
 CW: D0 54 D2 F6 67 28 AC 3B
+---FEED-SEPARATOR---
+Italy, Lega A Basket, Round 11
+Dolomiti Energia Trento vs Umana Reyer Venezia
+Eutelsat 7A/7B/7C @ 7.0°E
+11605 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2 
+| 14.10 Mbit/s
+ID: SELENIO 1
+CW: 8A 4D D2 A9 A3 37 8D 67
 ---FEED-SEPARATOR---
 42E
 11496 V 7500
