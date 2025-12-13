@@ -55,6 +55,12 @@ Wolves Women Football Club
 Nottingham Forest Women
 Please move thanks
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C a 7.0E
+11080 Vertical 7201,79
+ID: MRC008-Principal (*sin nombre-1*)
+1920x1080 |16,051Mb/seg |8PSK |4:2:0 HD
+CW: D0 54 D2 F6 67 28 AC 3B
+---FEED-SEPARATOR---
 42E
 10976 V 7500
 4.2.2
