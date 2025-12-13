@@ -1,3 +1,37 @@
+faisal6 said:
+CW: 13 12 FE 23 BC 68 94 B8
+Click to expand...
+Stuttgart II
+ VS 
+Rostock
+ALEMANIA: 
+3. Liga
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12702  Vertical  7201,801
+ID:  D-528 Stuttgart (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 13 12 FE 23 BC 68 94 B8
+Click to expand...
+ALEMANIA: 
+3. Liga
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12631  Vertical  7201,801
+ID:  DMC D-361 (Service Provider
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+---FEED-SEPARATOR---
+ALEMANIA: 
+3. Liga
+Ingolstadt
+ VS 
+1860 Múnich
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12642  Horizontal  7201,79
+ID: D-473 Ingolstadt 3 Buli (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 13 12 FE 23 BC 68 94 B8
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11188  Horizontal  9874,854
 ID: FBL Freiburg (Adtec Digital)
@@ -38,6 +72,21 @@ Eutelsat 10A @ 10.0°E
  | 16.77 Mbit/s
 ID: OVERON 1
 CW: 98 69 E2 E3 0A 32 8C C8
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11581 - V - 7120
+MPEG 4 - 4:2:0 - DVB-S2
+ID:   Pitch EFL - Norwich v Southampton
+Championship EFL
+Norwich City vs Southampton
+CW: 54 61 CD 82 21 2A 33 7E
+---FEED-SEPARATOR---
+100.5e
+3976 V 7120
+4:2:0
+ID: BT_SES_24_SDI
+Championship Wrexham  vs  Watford
+58 15 EA 51 8B CB AA 5B  #CW: 12 35 B2 F9 28 21 54 9D
 ---FEED-SEPARATOR---
 1W
 11468 V 15000 
