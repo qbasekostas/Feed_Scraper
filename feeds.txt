@@ -187,6 +187,16 @@ Eutelsat 10A @ 10.0°E
 ID: OVERON 1
 CW: 98 69 E2 E3 0A 32 8C C8
 ---FEED-SEPARATOR---
+7E
+12650 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: GCUK Enc 8
+CW: C4 52 31 47 1D EA AB B2
+Scottish Premiership
+Falkirk v
+ Hearts
+---FEED-SEPARATOR---
 English Championship - Week 21
 Wrexham vs. Watford
 Eutelsat 7B/7C @ 7.0°E
