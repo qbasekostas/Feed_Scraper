@@ -28,3 +28,11 @@ Eutelsat 10A @ 10.0°E
  | 16.77 Mbit/s
 ID: OVERON 1
 CW: 98 69 E2 E3 0A 32 8C C8
+---FEED-SEPARATOR---
+42E
+10976 V 7500
+4.2.2
+ID: TUR156 Main
+Basketbol Süper Ligi
+Turk Telekom - Bursaspor
+CW: F7 F4 9E 89 12 91 35 D8
