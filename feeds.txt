@@ -86,6 +86,17 @@ Eutelsat 10A @ 10.0°E
 ID: OVERON 1
 CW: 98 69 E2 E3 0A 32 8C C8
 ---FEED-SEPARATOR---
+English Championship - Week 21
+Wrexham vs. Watford
+Eutelsat 7B/7C @ 7.0°E
+11606 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch EFL -  Wrexham v Watford
+CW: 12 35 B2 F9 28 21 54 9D
+---FEED-SEPARATOR---
 28.2E
 12524 H 7200 
 4:2:0
