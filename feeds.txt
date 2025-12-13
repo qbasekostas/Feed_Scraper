@@ -1,3 +1,14 @@
+Bundesliga, Round 14
+Bayer 04 Leverkusen vs 1. FC Köln
+Eutelsat 7A/7B/7C @ 7.0°E
+11017 - H - 14400
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 30.54 Mbit/s
+ID: GVA_Fi05
+CW: B6 41 1B 12 5F A2 A3 A4
+---FEED-SEPARATOR---
 Bundesliga
 Leverkusen vs FC Köln
 16.0E
