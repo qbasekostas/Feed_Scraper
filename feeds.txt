@@ -42,6 +42,8 @@ SC Freiburg
  vs. 
 SGS Essen-Schonebeck 19/68
 ---FEED-SEPARATOR---
+delet
+---FEED-SEPARATOR---
 Eutelsat 10A @ 10.0°E
 10731 - V - 34000
 1920x1080 | H.264/AVC Video | 
@@ -72,6 +74,18 @@ Eutelsat 10A @ 10.0°E
  | 16.77 Mbit/s
 ID: OVERON 1
 CW: 98 69 E2 E3 0A 32 8C C8
+---FEED-SEPARATOR---
+archiesat said:
+CW: 7F D9 DA 32 D5 E4 1E D7
+Women’s FA Cup
+Wolves Women Football Club
+ v 
+Nottingham Forest Women
+Click to expand...
+0.8°W
+11132 V 7200
+4:2:0
+ID: unnamed
 ---FEED-SEPARATOR---
 Championship EFL
 Norwich City vs Southampton
@@ -127,6 +141,15 @@ ID: MRC008-Principal (*sin nombre-1*)
 1920x1080 |16,051Mb/seg |8PSK |4:2:0 HD
 EVENT: FIFA WOMEN CHAMPIONS CUP 2026
 CW: D0 54 D2 F6 67 28 AC 3B
+---FEED-SEPARATOR---
+ABA Liga
+Ilirija vs KK Budućnost VOLI
+Eutelsat 7B/7C @ 7.0E
+12686 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:Medialink CRO-025/1
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 42E
 10976 V 7500
