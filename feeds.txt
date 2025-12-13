@@ -332,3 +332,12 @@ ID: TUR156 Main
 Basketbol Süper Ligi
 Turk Telekom - Bursaspor
 CW: F7 F4 9E 89 12 91 35 D8
+---FEED-SEPARATOR---
+AdmiralBet ABA League - Round 10
+Cedevita Olimpija VS KK Bosna
+Eutelsat 7A/7B/7C @ 7.0°E
+11466 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.39 Mbit/s
+ID: Medialink CRO-025/1
+CW: AB BA 20 85 25 20 26 6B
