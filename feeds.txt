@@ -1,3 +1,13 @@
+Eutelsat 16A @ 16.0E
+11188  Horizontal  9874,854
+ID: FBL Freiburg (Adtec Digital)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+86 D1 CF 05 1D C6 27 E8  #CW:13 12 DB 00 BB 78 14 47  
+Germany Amateur, Bundesliga, Women
+SC Freiburg
+ vs. 
+SGS Essen-Schonebeck 19/68
+---FEED-SEPARATOR---
 Eutelsat 10A @ 10.0°E
 10731 - V - 34000
 1920x1080 | H.264/AVC Video | 
@@ -40,7 +50,6 @@ Women’s FA Cup
 Wolves Women Football Club
  v 
 Nottingham Forest Women
-Please move thanks
 ---FEED-SEPARATOR---
 1W
 11482 V 7200 
@@ -53,12 +62,12 @@ Women’s FA Cup
 Wolves Women Football Club
  v 
 Nottingham Forest Women
-Please move thanks
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C a 7.0E
 11080 Vertical 7201,79
 ID: MRC008-Principal (*sin nombre-1*)
 1920x1080 |16,051Mb/seg |8PSK |4:2:0 HD
+EVENT: FIFA WOMEN CHAMPIONS CUP 2026
 CW: D0 54 D2 F6 67 28 AC 3B
 ---FEED-SEPARATOR---
 42E
