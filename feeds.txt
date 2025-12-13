@@ -1,3 +1,13 @@
+Bundesliga, Round 14
+Bayer 04 Leverkusen vs 1. FC Köln
+Eutelsat 7A/7B/7C @ 7.0°E
+11042 - V - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.96 Mbit/s
+ID: D-408 LEV
+CW: 57 40 29 C0 37 A9 00 E0
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12590  Vertical  7201,79
 ID: D-109 (rt1.tv)
