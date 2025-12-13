@@ -1,3 +1,44 @@
+Argentine Primera División
+Final
+RACING CLUP VS ESTUDIANTES
+7.0E
+11606 V 7500
+4.2.0 HD
+ID: AFD
+CW: 16 A1 CC 83 B1 41 A2 94
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR MENA 1
+LaLiga
+Deportivo Alaves vs Real Madrid
+CW: 7A 9B AB C0 87 F1 0C 84
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR AFRICA 1
+LaLiga 
+Deportivo Alaves vs Real Madrid
+CW: B7 5C C6 D9 D8 91 71 DA
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+LaLiga 
+Sevilla vs Real Oviedo
+CW: 01 FA 42 3D 64 79 E4 C1
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+LaLiga 
+Celta de Vigo vs Athletic Bilbao
+CW: FA 8C DF 65 74 04 B4 2C
+---FEED-SEPARATOR---
 Emirates NBA Cup 2025
 ​
 7°E
