@@ -73,6 +73,15 @@ Eutelsat 10A @ 10.0°E
 ID: OVERON 1
 CW: 98 69 E2 E3 0A 32 8C C8
 ---FEED-SEPARATOR---
+Championship EFL
+Norwich City vs Southampton
+Asiasat 5 (100.5°E) C BAND
+3933 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_22_SDI
+CW: 54 61 CD 82 21 2A 33 7E
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11581 - V - 7120
 MPEG 4 - 4:2:0 - DVB-S2
