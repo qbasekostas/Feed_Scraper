@@ -1,3 +1,13 @@
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12590  Vertical  7201,79
+ID: D-109 (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+3. Liga - Jornada 18
+Verl
+ vs 
+RW Essen
+CW: 13 12 FE 23 BC 68 94 B8
+---FEED-SEPARATOR---
 Bundesliga, Round 14
 Bayer 04 Leverkusen vs 1. FC Köln
 Eutelsat 7A/7B/7C @ 7.0°E
