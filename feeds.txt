@@ -1,3 +1,11 @@
+Bundesliga
+Leverkusen vs FC Köln
+16.0E
+10981  H 3600
+4.2.0 HD
+ID: Fal4 Enc2
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 faisal6 said:
 CW: 13 12 DB 00 BB 78 14 47
 Click to expand...
@@ -54,6 +62,14 @@ SC Freiburg
 SGS Essen-Schonebeck 19/68
 ---FEED-SEPARATOR---
 delet
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+LaLiga 
+ Barcelona vs Osasuna
+CW: 13 A9 5D 19 92 90 97 B9
 ---FEED-SEPARATOR---
 Liga F Moeve
 FC Badalona vs Fútbol Club Barcelona 
