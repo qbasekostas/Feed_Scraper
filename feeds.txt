@@ -86,6 +86,30 @@ Eutelsat 10A @ 10.0°E
 ID: OVERON 1
 CW: 98 69 E2 E3 0A 32 8C C8
 ---FEED-SEPARATOR---
+28.2E
+12524 H 7200 
+4:2:0
+DVBS2 8PSK
+ID 
+Boxxer Clarke-TKV
+CW: 12 C4 B2 88 A5 1C 34 F5
+Women’s FA Cup
+Wolves Women Football Club
+ v 
+Nottingham Forest Women
+---FEED-SEPARATOR---
+28.2E
+12511 H 10000 
+4:2:0
+DVBS2 8PSK
+ID 
+Boxxer Clarke-TKV
+CW: 12 C4 B2 88 A5 1C 34 F5
+Women’s FA Cup
+Wolves Women Football Club
+ v 
+Nottingham Forest Women
+---FEED-SEPARATOR---
 archiesat said:
 CW: 7F D9 DA 32 D5 E4 1E D7
 Women’s FA Cup
