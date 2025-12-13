@@ -55,6 +55,17 @@ SGS Essen-Schonebeck 19/68
 ---FEED-SEPARATOR---
 delet
 ---FEED-SEPARATOR---
+Liga F Moeve
+FC Badalona vs Fútbol Club Barcelona 
+Eutelsat 7A/7B/7C @ 7.0°E
+11126 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 15.11 Mbit/s
+ID: unnamed
+CW: B4 F8 9C 48 71 EC B2 0F
+---FEED-SEPARATOR---
 Eutelsat 10A @ 10.0°E
 10731 - V - 34000
 1920x1080 | H.264/AVC Video | 
@@ -181,12 +192,28 @@ Wolves Women Football Club
  v 
 Nottingham Forest Women
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:10960- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:   Qat037 M
+FIFA Intercontinental Cup 
+CR Flamengo  vs Pyramids
+CW: D1 E0 59 0A 44 76 5A 14
+---FEED-SEPARATOR---
 Eutelsat 7B-7C a 7.0E
 11080 Vertical 7201,79
 ID: MRC008-Principal (*sin nombre-1*)
 1920x1080 |16,051Mb/seg |8PSK |4:2:0 HD
 EVENT: FIFA WOMEN CHAMPIONS CUP 2026
 CW: D0 54 D2 F6 67 28 AC 3B
+---FEED-SEPARATOR---
+42E
+11496 V 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Bahcesehir - Besiktas
+CW: 45 71 AD 63 4C 9E 22 0C
 ---FEED-SEPARATOR---
 ABA Liga
 Ilirija vs KK Budućnost VOLI
