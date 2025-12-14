@@ -53,6 +53,15 @@ RACING CLUP VS ESTUDIANTES
 ID: AFD
 CW: 16 A1 CC 83 B1 41 A2 94
 ---FEED-SEPARATOR---
+10E
+11251 H 9600
+11263 H 9600
+4.2.2
+ID: ITA727ENC 1 / 2
+Serie B
+Delfino Pescara 1936 - Frosinone Calcio
+CW: BC 16 20 F2 25 14 12 4B
+---FEED-SEPARATOR---
 Serie B, Round 16
 Carrarese vs Virtus Entella
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -97,6 +106,15 @@ ID: OVERON 1
 LaLiga 
 Celta de Vigo vs Athletic Bilbao
 CW: FA 8C DF 65 74 04 B4 2C
+---FEED-SEPARATOR---
+Scottish League Cup, Final
+St. Mirren vs Celtic
+Eutelsat 7A/7B/7C @ 7.0°E
+12649 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.16 Mbit/s
+ID: GCUK Enc 8
+CW: BE E1 DE 7D DE 34 BA CC
 ---FEED-SEPARATOR---
 Reporter Feed:
 Premier League, Round 16
@@ -178,6 +196,14 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.23 Mbit/s
 ID: UAE074 - 1
 CW: 6F 1E CC 59 B8 D2 DB 65
+---FEED-SEPARATOR---
+42E
+11514 V 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Mersin BSB - Esenier Erokspor
+CW: E4 41 B8 E3 DF 6B E3 2D
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11105 - V - 7200
