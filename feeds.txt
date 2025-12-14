@@ -24,6 +24,28 @@ CW: 20 25 AE F3 EA 52 02 3E
 womens bundesliga
 bayern munich
 ---FEED-SEPARATOR---
+Bundesliga, Round 14
+SV Werder Bremen vs VfB Stuttgart
+Eutelsat 7A/7B/7C @ 7.0°E
+11055 - V - 9875
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.75 Mbit/s
+ID: GVA_Fi03
+CW: EF 11 D5 D5 FA F9 79 6C
+---FEED-SEPARATOR---
+3. Liga - Jornada 18
+Schweinfurt
+ vs 
+Havels
+e
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12631  Vertical  7201,79
+ID:  D-528 Schweinfurt (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK 
+|4:2:0 HD
+CW: 14 12 AA D0 CC 56 56 78
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3860 V 30000
 PMT PID: 2048, SID: 11 @ LK ENC 09 (CM5000)
@@ -106,6 +128,21 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 7.79 Mbit/s
 ID: i390 bk
 CW: BC 16 20 F2 25 14 12 4B
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,66Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 16
+Teams: Deportivo Alavés vs Real Madrid
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 22.00 CET
+Dani Sat said:
+CW: 0C 49 B1 06 24 FD EA 0B
+Click to expand...
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 16
 Deportivo Alaves vs. Real Madrid
@@ -387,6 +424,14 @@ DVB-S2
 8PSK
 ID:WSHT ENC 55
 CW: 6D BC A2 CB 1C 58 F0 64
+---FEED-SEPARATOR---
+Hot Bird (13°E)
+10829 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: TANDBERG
+Event: 
+Greek Super League - Panathinaikos vs Volos
+CW: 4D A2 6C 5B 3F 5D D5 71
 ---FEED-SEPARATOR---
 Hot Bird (13°E)
 12601 - V - 7200
