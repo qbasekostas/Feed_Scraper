@@ -72,6 +72,23 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11105 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.10 Mbit/s
+ID: Fi01_ACB
+Liga Endesa Basketball -> 
+UCAM Murcia - Joventut Badalona on Dec 14, 2025 at 11:30:00 AM
+CW: 8A E8 51 C3 A6 2C 5B 2D
+---FEED-SEPARATOR---
+42E
+11589 V 7500
+4.2.2
+ID: TUR 156 Backup
+Basketbol Süper Ligi
+Petkim Spor - Trabzonspor
+CW: 31 C5 CF C5 97 DA 57 C8
+---FEED-SEPARATOR---
 Emirates NBA Cup 2025
 ​
 7°E
