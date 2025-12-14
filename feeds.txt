@@ -24,6 +24,17 @@ CW: 20 25 AE F3 EA 52 02 3E
 womens bundesliga
 bayern munich
 ---FEED-SEPARATOR---
+3. Liga
+Regensburg
+ VS 
+Mannheim
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12725  Horizontal  7201,79
+ID: D-473 Regensburg 3 Buli (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK 
+|4:2:0 HD
+CW: 14 12 AA D0 CC 56 56 78
+---FEED-SEPARATOR---
 Argentine Primera División
 Final
 RACING CLUP VS ESTUDIANTES
