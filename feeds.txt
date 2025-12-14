@@ -1,3 +1,22 @@
+German 1. Bundesliga - Week 14
+Freiburg vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+11057 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi03
+CW: 1E AD D3 9E 74 B4 F4 1C
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+11188 Horizontal 9872,88 3/4
+DVB-S2/8PSK (4:2:0)
+FBL FC Bayern
+Bundesliga Women - Round 13
+Bayern Munich - Hamburger SV
+CW: 14 12 FE 24 FE 33 69 9A
+---FEED-SEPARATOR---
 16e
 10981 h 3600
 id: F6-2 4.5MH
@@ -58,6 +77,16 @@ ID: OVERON 1
 LaLiga 
 Celta de Vigo vs Athletic Bilbao
 CW: FA 8C DF 65 74 04 B4 2C
+---FEED-SEPARATOR---
+Reporter Feed:
+Premier League, Round 16
+Sunderland vs Newcastle United 
+Eutelsat 7A/7B/7C @ 7.0°E
+11513 - V - 6666
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.92 Mbit/s
+ID: BeIn Media Sund v Ncastle
+CW: BA 88 DB 1D CC 19 CC B1
 ---FEED-SEPARATOR---
 Women's FA Cup, Third Round
 Lewes FC vs Crystal Palace
