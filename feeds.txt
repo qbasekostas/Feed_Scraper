@@ -24,6 +24,16 @@ CW: 20 25 AE F3 EA 52 02 3E
 womens bundesliga
 bayern munich
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+11188 H 9876
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:2
+ID: 
+FBL FC Bayern
+Provider: Adtec Digital
+Germany Bundesliga Women Round 13
+RB Leipzig W - Hoffenheim W (18:30)
+CW: 14 12 FE 24 FE 33 69 9A
+---FEED-SEPARATOR---
 Bundesliga, Round 14
 SV Werder Bremen vs VfB Stuttgart
 Eutelsat 7A/7B/7C @ 7.0°E
