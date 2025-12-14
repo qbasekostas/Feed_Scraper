@@ -163,10 +163,8 @@ Partick Thistle
 4:2:0
 DVBS-2 8PSK
 ID Cloudbass
-Scottish League 1 - Week 13
-Rangers
- v 
-Partick Thistle
+Scottish Women Premier League 
+Rangers W v Partick Thistle W
 ---FEED-SEPARATOR---
 Scottish League Cup, Final
 St. Mirren vs Celtic
@@ -275,6 +273,16 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.23 Mbit/s
 ID: UAE074 - 1
 CW: 6F 1E CC 59 B8 D2 DB 65
+---FEED-SEPARATOR---
+Italy, Lega A - Round 11
+Basket Napoli VS Cremona
+Eutelsat 7A/7B/7C @ 7.0°E
+11595 - V - 7200
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 14.25 Mbit/s
+ID: SELENIO 2
+CW: 95 2F CC 90 54 43 87 1E
 ---FEED-SEPARATOR---
 omid1348 said:
 			42E
