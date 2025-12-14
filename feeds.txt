@@ -248,6 +248,17 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+xFayez95 said:
+Women's Champions Cup, Round 2
+AS FAR Rabat vs Wuhan Chegu Jiangda
+CW: D1 A7 7A F2 CC 30 2E 2A
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11087 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
+ID: Fi09_GNVE
+---FEED-SEPARATOR---
 Women's Champions Cup, Round 2
 AS FAR Rabat vs Wuhan Chegu Jiangda
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -334,6 +345,14 @@ DVB-S2
 8PSK
 ID:WSHT ENC 55
 CW: 6D BC A2 CB 1C 58 F0 64
+---FEED-SEPARATOR---
+Hot Bird (13°E)
+12601 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: BAV
+Event: 
+Greek Super League - Aris vs Olympiakos
+CW: 28 E8 0C 1C 09 3C 79 BE
 ---FEED-SEPARATOR---
 Hot Bird (13°E)
 10848 - V - 7200
