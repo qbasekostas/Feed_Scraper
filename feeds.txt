@@ -197,6 +197,20 @@ DVB-S2 | 8PSK | 3/4
 ID: UAE074 - 1
 CW: 6F 1E CC 59 B8 D2 DB 65
 ---FEED-SEPARATOR---
+omid1348 said:
+			42E
+11589 V 7500
+4.2.2
+ID: TUR 156 Backup
+Basketbol Süper Ligi
+Petkim Spor - Trabzonspor
+CW: 31 C5 CF C5 97 DA 57 C8
+Click to expand...
+13.0°E
+11619 V 7500
+4:2:2
+ID: TUR156 Main
+---FEED-SEPARATOR---
 42E
 11514 V 7500
 4.2.2
