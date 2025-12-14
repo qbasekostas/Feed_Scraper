@@ -24,6 +24,13 @@ CW: 20 25 AE F3 EA 52 02 3E
 womens bundesliga
 bayern munich
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3860 V 30000
+PMT PID: 2048, SID: 11 @ LK ENC 09 (CM5000)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 80 DD EF 4C D0 E2 03 B5
+Bayern Munich vs Mainz
+---FEED-SEPARATOR---
 Event: Germany Bundesliga - Round 14
 Teams : Bayern Munich 
  Mainz
@@ -99,6 +106,15 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 7.79 Mbit/s
 ID: i390 bk
 CW: BC 16 20 F2 25 14 12 4B
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+LaLiga
+ Levante  vs Villarreal
+found CW:
+ 05 95 D7 71 4B 45 93 23
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
@@ -214,6 +230,15 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Women's Champions Cup, Round 2
+AS FAR Rabat vs Wuhan Chegu Jiangda
+Eutelsat 7A/7B/7C @ 7.0°E
+11078 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.18 Mbit/s
+ID: MRC008-Main
+CW: D1 A7 7A F2 CC 30 2E 2A
+---FEED-SEPARATOR---
 FIFA WOMEN CHAMPIONS CUP 2026
 ASFAR vs Wuhan Jiangda
 3.1E
@@ -281,3 +306,11 @@ DVB-S2
 8PSK
 ID:WSHT ENC 55
 CW: 6D BC A2 CB 1C 58 F0 64
+---FEED-SEPARATOR---
+Hot Bird (13°E)
+10848 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: ATROMITOS VS PAOK A
+Event: 
+Greek Super League - Atromitos vs Paok
+CW: FA 4B 23 68 67 AD DE F2
