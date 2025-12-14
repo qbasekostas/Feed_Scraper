@@ -14,6 +14,19 @@ RACING CLUP VS ESTUDIANTES
 ID: AFD
 CW: 16 A1 CC 83 B1 41 A2 94
 ---FEED-SEPARATOR---
+Serie B, Round 16
+Carrarese vs Virtus Entella
+Eutelsat 7A/7B/7C @ 7.0°E
+11175 - H - 4800
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 9.96 Mbit/s
+ID: ita390 m
+11181 - H - 4800
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 7.79 Mbit/s
+ID: i390 bk
+CW: BC 16 20 F2 25 14 12 4B
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -71,6 +84,15 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_22_SDI
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Arabian Gulf Cup U23, Knockout stage, Semifinals
+Iraq U23 vs Qatar U23
+Eutelsat 7A/7B/7C @ 7.0°E
+11078 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.23 Mbit/s
+ID: UAE074 - 1
+CW: 6F 1E CC 59 B8 D2 DB 65
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11105 - V - 7200
