@@ -148,6 +148,26 @@ LaLiga
 Celta de Vigo vs Athletic Bilbao
 CW: FA 8C DF 65 74 04 B4 2C
 ---FEED-SEPARATOR---
+28.2E
+12619 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish League 1 - Week 13
+Rangers
+ v 
+Partick Thistle
+---FEED-SEPARATOR---
+28.2E
+12703 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish League 1 - Week 13
+Rangers
+ v 
+Partick Thistle
+---FEED-SEPARATOR---
 Scottish League Cup, Final
 St. Mirren vs Celtic
 Eutelsat 7A/7B/7C @ 7.0°E
