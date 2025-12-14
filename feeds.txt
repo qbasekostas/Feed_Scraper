@@ -59,6 +59,34 @@ LaLiga
 Celta de Vigo vs Athletic Bilbao
 CW: FA 8C DF 65 74 04 B4 2C
 ---FEED-SEPARATOR---
+Women's FA Cup, Third Round
+Lewes FC vs Crystal Palace
+28.2°E
+12581 - V - 7200
+DVB-S2 - 4.2.0 - 1080P
+ID: FA CUP LEWES
+12590 - V - 7200
+DVB-S2 - 4.2.2 - 1080P
+ID: Unname
+CW: 83 A4 4D 74 6F 72 8D 6E
+---FEED-SEPARATOR---
+English Womens FA Cup - 1/32 Finals
+Lewes FC vs. Crystal Palace
+Intelsat 10-02 @ 1.0°W
+11128 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+11153 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 83 A4 4D 74 6F 72 8D 6E
+---FEED-SEPARATOR---
 Albahraniy said:
 			Highlights
 Asiasat 5 (100.5°E) C BAND
