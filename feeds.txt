@@ -381,6 +381,17 @@ DVB-S2 | 8PSK | 3/4
 ID: UAE074 - 1
 CW: 6F 1E CC 59 B8 D2 DB 65
 ---FEED-SEPARATOR---
+SATELLITE Name : Eutelsat 7 (7.0°E)
+KU Band
+FREQUENCY: 12633V SR:4937
+DVB-S2 8PSK
+Format 4:2:0
+Event
+ ABA League
+FMP - Partizan
+1080p HD FORMAT
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Italy, Lega A Basket, Round 11
 EA7 Emporio Armani Milano vs Virtus Bologna
 Eutelsat 7A/7B/7C @ 7.0°E
