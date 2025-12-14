@@ -68,6 +68,16 @@ RACING CLUP VS ESTUDIANTES
 ID: AFD
 CW: 16 A1 CC 83 B1 41 A2 94
 ---FEED-SEPARATOR---
+Serie B, Round 16
+Pescara vs Frosinone
+Eutelsat 7A/7B/7C @ 7.0°E
+11125 - H - 7200
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 15.06 Mbit/s
+ID: ITA 81 A
+CW: BC 16 20 F2 25 14 12 4B
+---FEED-SEPARATOR---
 10E
 11251 H 9600
 11263 H 9600
@@ -130,6 +140,15 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.16 Mbit/s
 ID: GCUK Enc 8
 CW: BE E1 DE 7D DE 34 BA CC
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12541 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.90 Mbit/s
+ID: Premier League
+Premier League, Round 16
+ Sunderland vs Newcastle United
+CW: 14 12 ED 13 AA 12 44 00
 ---FEED-SEPARATOR---
 Reporter Feed:
 Premier League, Round 16
