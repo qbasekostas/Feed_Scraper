@@ -39,6 +39,14 @@ LaLiga
 Celta de Vigo vs Athletic Bilbao
 CW: FA 8C DF 65 74 04 B4 2C
 ---FEED-SEPARATOR---
+Highlights
+Asiasat 5 (100.5°E) C BAND
+3933 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
 Emirates NBA Cup 2025
 ​
 7°E
