@@ -24,6 +24,15 @@ CW: 20 25 AE F3 EA 52 02 3E
 womens bundesliga
 bayern munich
 ---FEED-SEPARATOR---
+Frauen-Bundesliga, Round 13
+1. FC Köln vs FC Carl Zeiss Jena
+Eutelsat 16A @ 16.0°E
+11175 - H - 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.84 Mbit/s
+ID: FBL KÃ¶ln
+CW: 14 12 FE 24 FE 33 69 9A
+---FEED-SEPARATOR---
 3. Liga
 Regensburg
  VS 
