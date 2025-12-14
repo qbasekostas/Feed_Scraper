@@ -24,6 +24,21 @@ CW: 20 25 AE F3 EA 52 02 3E
 womens bundesliga
 bayern munich
 ---FEED-SEPARATOR---
+Event: Germany Bundesliga - Round 14
+Teams : Bayern Munich 
+ Mainz
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11044 V 9875
+    GVA_Fi04 (EUROVISION SA)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.016
+ Mbit/Sec | 8PSK | DVB-S2 HD
+2D 41 14 64 D7 DD D6 2D
+CW: 89 EE D3 4A 39 60 CD 66
+---FEED-SEPARATOR---
 Frauen-Bundesliga, Round 13
 1. FC Köln vs FC Carl Zeiss Jena
 Eutelsat 16A @ 16.0°E
