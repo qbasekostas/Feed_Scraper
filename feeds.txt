@@ -1,3 +1,16 @@
+German Frauen Bundesliga - Week 13
+Union Berlin v Eintracht Frankfurt
+ ST: 18:00
+16°E
+11060 
+H  
+9875
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:FBL Union Berlin
+CW: 15 12 CC F3 CD 52 11 30
+---FEED-SEPARATOR---
 Segunda Division MD18 - CD Castellon vs Mirandés
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
