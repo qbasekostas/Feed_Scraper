@@ -33,20 +33,16 @@ CW: E4 74 97 EF CF 6E AC E9
 10987 H 7500
 4.2.0
 ID: beIN SPORTS / beIN SPORTS HD
-Paris Saint-Germain (PSG) vs Flamengo
- FIFA Intercontinental Cup 2025 final
- Wednesday, December 17, 2025, at 8pm (17:00 GMT)
- Ahmad bin Ali Stadium, Doha, Qatar
+FIFA Arab Cup
+ Morocco - United Arab Emirates
 CW: 25 6B FA 8A CD 81 7E CC
 ---FEED-SEPARATOR---
 3.1E
 10968 H 7500
 4.2.0
 ID: QAT029-ENC-2
-Paris Saint-Germain (PSG) vs Flamengo
- FIFA Intercontinental Cup 2025 final
- Wednesday, December 17, 2025, at 8pm (17:00 GMT)
- Ahmad bin Ali Stadium, Doha, Qatar
+FIFA Arab Cup
+Morocco - United Arab Emirates
 CW: D8 41 9F B8 F7 65 11 6D
 ---FEED-SEPARATOR---
 Mundial
