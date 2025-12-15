@@ -16,6 +16,18 @@ ID: OVERON 1
 Laliga MD16 - Rayo Vallecano vs Real Betis 
 CW: 6A 6D 13 EA 57 02 32 8B
 ---FEED-SEPARATOR---
+Mundial
+FIFA Arab Cup - Playoffs - Semifinales
+Marruecos
+ VS 
+Emiratos Árabes Unidos
+Eutelsat 7B-7C @ 07.0E
+11515 V 6667
+ID: QAT_030_1 (Service Provider)
+1920x1080 |14,520Mb/Sec |8PSK 
+|4:2:0 HD
+CW: E4 74 97 EF CF 6E AC E9
+---FEED-SEPARATOR---
 3.1E
 10978 H 7500
 10987 H 7500
