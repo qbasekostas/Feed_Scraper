@@ -11,6 +11,19 @@ DVB-S2
 ID:FBL Union Berlin
 CW: 15 12 CC F3 CD 52 11 30
 ---FEED-SEPARATOR---
+Italian Serie C Girone C - Girone C - 18
+Foggia v Monopoli
+ ST: 20:30
+7°E
+11140 
+V  
+7200
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:ITA 81 A
+CW: 0A 63 C2 2F 07 A9 F6 A6
+---FEED-SEPARATOR---
 Segunda Division MD18 - CD Castellon vs Mirandés
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
