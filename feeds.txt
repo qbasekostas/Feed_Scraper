@@ -17,10 +17,24 @@ Laliga MD16 - Rayo Vallecano vs Real Betis
 CW: 6A 6D 13 EA 57 02 32 8B
 ---FEED-SEPARATOR---
 3.1E
+10978 H 7500
+10987 H 7500
+4.2.0
+ID: beIN SPORTS / beIN SPORTS HD
+Paris Saint-Germain (PSG) vs Flamengo
+ FIFA Intercontinental Cup 2025 final
+ Wednesday, December 17, 2025, at 8pm (17:00 GMT)
+ Ahmad bin Ali Stadium, Doha, Qatar
+CW: 25 6B FA 8A CD 81 7E CC
+---FEED-SEPARATOR---
+3.1E
 10968 H 7500
 4.2.0
 ID: QAT029-ENC-2
-PSG vs Flamengo: Intercontinental Cup​
+Paris Saint-Germain (PSG) vs Flamengo
+ FIFA Intercontinental Cup 2025 final
+ Wednesday, December 17, 2025, at 8pm (17:00 GMT)
+ Ahmad bin Ali Stadium, Doha, Qatar
 CW: D8 41 9F B8 F7 65 11 6D
 ---FEED-SEPARATOR---
 Mundial
@@ -30,6 +44,7 @@ Marruecos
 Emiratos Árabes Unidos
 Badr 4/5/6/7 a 26.0E
 11630 H 7500,272
-ID: SNG 3 MAR UAE
-1920x1080 | 33,435 Mb/s | 8PSK | 4:2:0 HD
+ID: SNG3 MAR UAE M (TANDBERG Television)
+1920x1080 | 33,435 Mb/s | 8PSK
+ | 4:2:0 HD
 CW: AB CE EF 68 20 25 EF 34
