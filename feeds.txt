@@ -1,0 +1,17 @@
+Segunda Division MD18 - CD Castellon vs Mirandés
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+LIGA HYPERMOTION 1
+CW: 75 BD F8 2A EE E3 7C 4D
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 4.2.2
+ID: OVERON 1
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+Laliga MD16 - Rayo Vallecano vs Real Betis 
+CW: 6A 6D 13 EA 57 02 32 8B
