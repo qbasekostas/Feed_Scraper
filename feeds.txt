@@ -42,6 +42,12 @@ ID: OVERON 1
 Laliga MD16 - Rayo Vallecano vs Real Betis 
 CW: 6A 6D 13 EA 57 02 32 8B
 ---FEED-SEPARATOR---
+ASIASAT5 100.3E
+3935 H 7120
+ID BT SES 22 SDI
+CW: 53 26 FA 73 DF 35 AC C0
+EFL Champsionship Sheffield Wednesday vs Derby County
+---FEED-SEPARATOR---
 Es'hail Sat 1 @ 25.5°E
 Fréq:11628 - H - 7500
 MPEG 4 - 4:2:0 - DVB-S2
