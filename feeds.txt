@@ -64,3 +64,26 @@ ID: SNG3 MAR UAE M (TANDBERG Television)
 1920x1080 | 33,435 Mb/s | 8PSK
  | 4:2:0 HD
 CW: AB CE EF 68 20 25 EF 34
+---FEED-SEPARATOR---
+Mundial
+FIFA Arab Cup - Playoffs - Semifinales
+Arabia Saudí
+ VS 
+Jordania
+Badr 4/5/6/7 a 26.0E
+11578 v 15000
+ID: Sservice 2
+1920x1080 | 33,435 Mb/s | 8PSK | 4:2:0 HD
+CW: AB AB DC 32 DC 01 89 66
+---FEED-SEPARATOR---
+Mundial
+FIFA Arab Cup - Playoffs - Semifinales
+Arabia Saudí
+ VS 
+Jordania
+Badr 4/5/6/7 a 26.0E
+11578 v 15000
+ID: Sservice 1
+1920x1080 | 33,435 Mb/s | 8PSK 
+| 4:2:0 HD
+CW: AB DF E2 6C 11 1E FA 29
