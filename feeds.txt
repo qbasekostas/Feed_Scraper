@@ -16,6 +16,14 @@ ID: OVERON 1
 Laliga MD16 - Rayo Vallecano vs Real Betis 
 CW: 6A 6D 13 EA 57 02 32 8B
 ---FEED-SEPARATOR---
+Es'hail Sat 1 @ 25.5°E
+Fréq:11628 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: SNG3 MAR UAE M
+FIFA Arab Cup Qatar 2025
+Morocco Vs United Arab Emirates
+CW: AC DE FB 85 20 29 EE 37
+---FEED-SEPARATOR---
 Mundial
 FIFA Arab Cup - Playoffs - Semifinales
 Marruecos
