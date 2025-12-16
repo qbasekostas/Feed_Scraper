@@ -38,6 +38,15 @@ CW: 1A B7 21 F2 12 45 7B D2
 ID:  ITA-630 GFX ENG
 CW: 31 C5 7C 72 89 91 EA 04
 ---FEED-SEPARATOR---
+Copa del Rey, Round of 32
+Sporting Gijón vs Valencia
+Eutelsat 7A/7B/7C @ 7.0°E
+11104 - V - 9600
+DVB-S2 | QPSK-S2 | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 6.47 Mbit/s
+ID: BSA 01 E-377
+CW: 44 23 A2 09 13 23 32 68
+---FEED-SEPARATOR---
 xFayez95 said:
 Copa del Rey, Round of 32
 CD Eldense vs Real Sociedad
@@ -92,6 +101,13 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID:   BT_SES_24_SDI (SES)
 CW: 14 31 DD 22 DC 22 42 40
+---FEED-SEPARATOR---
+Eutelsat 7E
+11013 H 7200 S2 4:2:0
+ID: EGY-017-main 
+Friendly match
+Egypt vs. Nigeria
+FTA
 ---FEED-SEPARATOR---
 European North Basketball League, Group B
 Manchester Basketball vs BK Opava
