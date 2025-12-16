@@ -76,6 +76,15 @@ DVB-S2 | 8PSK | 3/4
 ID: E351 Euroligue M3 BU
 CW: 21 4C 1A 87 23 C1 A2 86
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11080 - V - 9600
+DVB-S2 | QPSK-S2 | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.60 Mbit/s
+ID: E-447 VIA 1 BROADCAST PRODUCCI
+Copa del Rey, Round of 32
+ Guadalajara vs Barcelona
+CW: 21 4C 1A 87 23 C1 A2 86
+---FEED-SEPARATOR---
 Copa del Rey, Round of 32
 Deportivo La Coruña vs Mallorca 
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -179,6 +188,14 @@ CW: F9 B9 B9 6B ED F6 13 F6
 7e. 10996v7200
 NBA: Boston Celtics  V's  Detroit Pistons
 CW: 6D BC A2 CB 1C 58 F0 64
+---FEED-SEPARATOR---
+7°E
+11165 V 7500
+DVB-S2|1080HD
+4.2.0|H264
+ID: ENC1 S9 MPEG4 HD
+Event:  BKT Euro cup Trento Vs Buducnost Voli
+CW: C4 3B D3 D2 4C FF 14 5F
 ---FEED-SEPARATOR---
 fisher5 said:
 			NO BASKET FENER VS PAO
