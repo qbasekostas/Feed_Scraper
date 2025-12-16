@@ -38,6 +38,18 @@ CW: 1A B7 21 F2 12 45 7B D2
 ID:  ITA-630 GFX ENG
 CW: 31 C5 7C 72 89 91 EA 04
 ---FEED-SEPARATOR---
+xFayez95 said:
+Copa del Rey, Round of 32
+Guadalajara vs Barcelona
+CW: 21 4C 1A 87 23 C1 A2 86
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11091 - V - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.38 Mbit/s
+ID: E351 Copa del Rey BU
+CW: 21 4C 1A 87 23 C1 A2 86
+---FEED-SEPARATOR---
 Copa del Rey, Round of 32
 Sporting Gijón vs Valencia
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -101,6 +113,29 @@ Eibar vs Elche
 DVB-S2 4:2:0 8PSK
 ID: G19 E349 Via 1
 CW: 11 5A C1 2C 34 58 A1 2D
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4190 V 9875
+ID: G10 E272.COPA.Ingles
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 54 C1 23 38 A1 64 1A 1F
+CD Eldense vs Real Sociedad
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4178 V 9875
+ID: BSA 01 E-377
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 44 23 A2 09 13 23 32 68
+Sporting Gijón vs Valencia
+---FEED-SEPARATOR---
+EFL Cup, Quarterfinals
+Cardiff City vs Chelsea
+Eutelsat 7A/7B/7C @ 7.0°E
+12686 - V - 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.57 Mbit/s
+ID: Carabao Cup - Cardiff v Chelsea
+CW: 14 31 DD 22 DC 22 42 40
 ---FEED-SEPARATOR---
 EFL Cup Quarter finals
 Cardiff City vs Chelsea
