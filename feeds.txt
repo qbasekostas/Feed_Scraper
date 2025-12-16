@@ -1,0 +1,7 @@
+7°E
+11010 H 9873
+DVB-S2|1080HD
+4.2.2|H264
+ID: DECBC Cologne
+Event: Bundesliga Diamonds
+CW: 0A 0F E6 FF 1C B5 70 41
