@@ -224,6 +224,24 @@ CW: F9 B9 B9 6B ED F6 13 F6
 NBA: Boston Celtics  V's  Detroit Pistons
 CW: 6D BC A2 CB 1C 58 F0 64
 ---FEED-SEPARATOR---
+Champions League, Group H, Round 6
+Le Mans Sarthe Basket vs KK Spartak Office Shoes
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+12592 - V - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.76 Mbit/s
+ID: F386 - 1
+CW: BE 67 FE 23 84 AB 81 B0
+---FEED-SEPARATOR---
+Champions League, Group F, Round 6
+NHSZ-Szolnoki Olajbányász vs AEK BC
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+12609 - V - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.68 Mbit/s
+ID: VS7-2/BASKET BCL chalon
+CW: CB 25 CC BC 99 AF 23 6B
+---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10838 V 7200
 4:2:0
