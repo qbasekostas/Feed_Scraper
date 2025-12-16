@@ -38,6 +38,15 @@ CW: 1A B7 21 F2 12 45 7B D2
 ID:  ITA-630 GFX ENG
 CW: 31 C5 7C 72 89 91 EA 04
 ---FEED-SEPARATOR---
+Copa del Rey, Round of 32
+Deportivo La Coruña vs Mallorca 
+Eutelsat 7A/7B/7C @ 7.0°E
+11056 - V - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.55 Mbit/s
+ID: E336 G18 VIA 1
+CW: C1 34 11 06 5A 58 A1 53
+---FEED-SEPARATOR---
 Copa Del Rey - Round of 32
 Eibar vs Elche
 7E
@@ -45,6 +54,24 @@ Eibar vs Elche
 DVB-S2 4:2:0 8PSK
 ID: G19 E349 Via 1
 CW: 11 5A C1 2C 34 58 A1 2D
+---FEED-SEPARATOR---
+WASL Gulf League, Group A
+Al Muharraq vs Kazma
+Eutelsat 7A/7B/7C @ 7.0°E
+12686 - V - 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.22 Mbit/s
+ID: SNG 3
+CW: DA 36 01 11 48 C5 72 7F
+---FEED-SEPARATOR---
+Euroleague, Round 16
+Fenerbahçe Beko vs Panathinaikos BC
+Eutelsat 7A/7B/7C @ 7.0°E
+12736 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.32 Mbit/s
+ID: ENC 2
+CW: 15 A5 21 DB 66 E9 A2 F1
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 12583 V 7200
@@ -70,6 +97,13 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.16 Mbit/s
 ID: Main
 CW: B1 4C 84 81 49 83 C9 95
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+10978 Horizontal 7198,564 5/6
+DVB-S2/8PSK (4:2:0)
+F7-1 9MHz
+BASKETBALL CHAMPIONS LEAGUE - ALBA BERLIN VS SABAH BC
+CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 11070 H 7200
