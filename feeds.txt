@@ -55,6 +55,24 @@ DVB-S2 4:2:0 8PSK
 ID: G19 E349 Via 1
 CW: 11 5A C1 2C 34 58 A1 2D
 ---FEED-SEPARATOR---
+EFL Cup Quarter finals
+Cardiff City vs Chelsea
+Asiasat 5 (100.5°E) C BAND
+3906 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:   BT_SES_24_SDI (SES)
+CW: 14 31 DD 22 DC 22 42 40
+---FEED-SEPARATOR---
+European North Basketball League, Group B
+Manchester Basketball vs BK Opava
+Eutelsat 7A/7B/7C @ 7.0E
+11126 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.02 Mbit/s
+ID: Live Broadcasting Line 1
+CW: AA 65 EC FB 11 BD 12 E0
+---FEED-SEPARATOR---
 WASL Gulf League, Group A
 Al Muharraq vs Kazma
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -116,3 +134,30 @@ CW: F9 B9 B9 6B ED F6 13 F6
 7e. 10996v7200
 NBA: Boston Celtics  V's  Detroit Pistons
 CW: 6D BC A2 CB 1C 58 F0 64
+---FEED-SEPARATOR---
+ABA League 2, Round 5
+Spd Radnički Kragujevac vs Kansai Helios Domžale
+Eutelsat 7A/7B/7C @ 7.0°E
+12638 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 9.90 Mbit/s
+ID: YSM-013M
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 11
+KK Cedevita Olimpija vs Hapoel Jerusalem BC
+Eutelsat 7A/7B/7C @ 7.0°E
+11664 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.25 Mbit/s
+ID: Medialink CRO-025/1
+CW: 16 7A DF 6F 5F CC 12 3D
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 11
+Panevežio 7Bet-Lietkabelis vs BV Chemnitz 99 
+Eutelsat 7A/7B/7C @ 7.0°E
+12727 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.87 Mbit/s
+ID: LAT-002
+CW: BA 23 DE BB 81 CD 72 C0
