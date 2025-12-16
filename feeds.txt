@@ -38,6 +38,26 @@ CW: 1A B7 21 F2 12 45 7B D2
 ID:  ITA-630 GFX ENG
 CW: 31 C5 7C 72 89 91 EA 04
 ---FEED-SEPARATOR---
+xFayez95 said:
+Copa del Rey, Round of 32
+CD Eldense vs Real Sociedad
+CW: 54 C1 23 38 A1 64 1A 1F
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+10972 - V - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.51 Mbit/s
+ID: G10 AVP 1080P
+---FEED-SEPARATOR---
+Copa del Rey, Round of 32
+CD Eldense vs Real Sociedad
+Eutelsat 7A/7B/7C @ 7.0°E
+10960 - V - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.48 Mbit/s
+ID: G10 1080P AVP UP2
+CW: 54 C1 23 38 A1 64 1A 1F
+---FEED-SEPARATOR---
 Copa del Rey, Round of 32
 Guadalajara vs Barcelona
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -143,6 +163,32 @@ CW: F9 B9 B9 6B ED F6 13 F6
 7e. 10996v7200
 NBA: Boston Celtics  V's  Detroit Pistons
 CW: 6D BC A2 CB 1C 58 F0 64
+---FEED-SEPARATOR---
+fisher5 said:
+			NO BASKET FENER VS PAO
+Click to expand...
+Feed change now to: WEEKLY EREDIVISE Highlights
+---FEED-SEPARATOR---
+xFayez95 said:
+Euroleague, Round 16
+Fenerbahçe Beko vs Panathinaikos BC
+Eutelsat 7A/7B/7C @ 7.0°E
+12736 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.32 Mbit/s
+ID: ENC 2
+CW: 15 A5 21 DB 66 E9 A2 F1
+Click to expand...
+NO BASKET FENER VS PAO
+---FEED-SEPARATOR---
+Champions League, Group H, Round 6
+Dreamland Gran Canaria vs SL Benfica
+Eutelsat 7A/7B/7C @ 7.0°E
+11143 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.56 Mbit/s
+ID: E411- Via 1
+CW: EA 36 AA CA 20 DD 37 34
 ---FEED-SEPARATOR---
 Champions League, Group B, Round 6
 ALBA Berlin vs BC Sabah
