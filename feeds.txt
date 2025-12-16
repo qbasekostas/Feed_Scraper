@@ -46,6 +46,39 @@ DVB-S2 4:2:0 8PSK
 ID: G19 E349 Via 1
 CW: 11 5A C1 2C 34 58 A1 2D
 ---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12583 V 7200
+4:2:0
+ID: BCL251216
+Basketball Champions League: 
+Szolnok vs Aek BC
+CW: DA 32 DE EA 30 EE 29 47
+---FEED-SEPARATOR---
+ABA League
+Eutelsat 7B/7C @ 7.0E
+12633 V 4936
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:YSM-016 MAIN
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Euroleague, Round 16
+BC Dubai vs Maccabi Tel Aviv
+Eutelsat 7A/7B/7C @ 7.0°E
+11013 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.16 Mbit/s
+ID: Main
+CW: B1 4C 84 81 49 83 C9 95
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11070 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  IMG A EU
+Euroleague Basketball Fenerbahçe-Panathinaikos
+CW: F9 B9 B9 6B ED F6 13 F6
+---FEED-SEPARATOR---
 7e. 10996v7200
 NBA: Boston Celtics  V's  Detroit Pistons
 CW: 6D BC A2 CB 1C 58 F0 64
