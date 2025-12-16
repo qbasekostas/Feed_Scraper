@@ -1,3 +1,57 @@
+xFayez95 said:
+Super Cup, Semifinals
+Napoli vs Milan
+18/12/2025
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11686 - H - 14000
+DVB-S2 | 16APSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 40.09 Mbit/s
+ID: MEDIASET UNI MAIN
+CW: BB D9 E6 7A 25 B8 7A 57
+---FEED-SEPARATOR---
+AhmedCeNa said:
+Super Coppa Italia
+Napoli vs Milan
+CW: BB D9 E6 7A 25 B8 7A 57
+Click to expand...
+Eutelsat 10B @ 10° E
+Fréq:11688 - H - 14400
+MPEG 4 - 4:2:2 - DVB-S2
+ID:MEDIASET UNI MAIN
+CW: BB D9 E6 7A 25 B8 7A 57
+---FEED-SEPARATOR---
+Super Coppa Italia
+Napoli vs Milan
+7E
+11670 H 14000
+DVB-S2 
+4:2:2
+ 8PSK
+ID: PGM LEGA MAIN
+CW: BB D9 E6 7A 25 B8 7A 57
+---FEED-SEPARATOR---
+Super Cup, Semifinals
+Napoli vs Milan
+18/12/2025
+Eutelsat 7A/7B/7C @ 7.0°E
+11501 - H - 14000
+DVB-S2 | 16APSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 40.47 Mbit/s
+11522 - H - 9600
+DVB-S2 | 16APSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 27.76 Mbit/s
+ID:  ITA-630 MAIN MEDIASET DR
+CW: 1A B7 21 F2 12 45 7B D2
+ID:  ITA-630 GFX ENG
+CW: 31 C5 7C 72 89 91 EA 04
+---FEED-SEPARATOR---
 7e. 10996v7200
 NBA: Boston Celtics  V's  Detroit Pistons
 CW: 6D BC A2 CB 1C 58 F0 64
