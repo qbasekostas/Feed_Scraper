@@ -144,6 +144,44 @@ CW: F9 B9 B9 6B ED F6 13 F6
 NBA: Boston Celtics  V's  Detroit Pistons
 CW: 6D BC A2 CB 1C 58 F0 64
 ---FEED-SEPARATOR---
+Champions League, Group B, Round 6
+ALBA Berlin vs BC Sabah
+Eutelsat 7A/7B/7C @ 7.0°E
+11135 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.13 Mbit/s
+ID: BB CL Berlin
+CW: FC 65 FA 5B 50 FB 51 9C
+---FEED-SEPARATOR---
+Euroleague, Round 16
+Paris Basketball vs Barça Basket 
+Eutelsat 7A/7B/7C @ 7.0°E
+10986 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.50 Mbit/s
+ID: F419_MAIN
+CW: DD 2C B1 BA 9E CB C2 2B
+---FEED-SEPARATOR---
+13e
+10848 V 7200
+4:2:0
+ID: 
+CZE-012-CHL BASKET LEVICE-MAIN
+Champions league 
+Levice
+VEF Riga
+D7 FB 49 4D 68 FC 65 7F  #CW: 
+CF 42 AB BC 74 FE 67 D9
+---FEED-SEPARATOR---
+Euroleague, Round 16
+EA7 Emporio Armani Milano vs Real Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+10995 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.12 Mbit/s
+ID: ITA340 EUROLEAGUE MILAN BK
+CW: 4D FE 6B B6 51 38 41 CA
+---FEED-SEPARATOR---
 ABA League 2, Round 5
 Spd Radnički Kragujevac vs Kansai Helios Domžale
 Eutelsat 7A/7B/7C @ 7.0°E
