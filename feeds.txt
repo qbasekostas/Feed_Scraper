@@ -39,6 +39,15 @@ ID:  ITA-630 GFX ENG
 CW: 31 C5 7C 72 89 91 EA 04
 ---FEED-SEPARATOR---
 Copa del Rey, Round of 32
+Guadalajara vs Barcelona
+Eutelsat 7A/7B/7C @ 7.0°E
+11068 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.15 Mbit/s
+ID: E351 Euroligue M3 BU
+CW: 21 4C 1A 87 23 C1 A2 86
+---FEED-SEPARATOR---
+Copa del Rey, Round of 32
 Deportivo La Coruña vs Mallorca 
 Eutelsat 7A/7B/7C @ 7.0°E
 11056 - V - 9600
