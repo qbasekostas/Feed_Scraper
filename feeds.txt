@@ -1,3 +1,3 @@
 7e. 10996v7200
-NBA    Boston Celtics    Detroit Pistons
-6dbca2cb1c58f064
+NBA: Boston Celtics  V's  Detroit Pistons
+CW: 6D BC A2 CB 1C 58 F0 64
