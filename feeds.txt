@@ -1,23 +1,9 @@
-xFayez95 said:
-Super Cup, Semifinals
-Napoli vs Milan
-18/12/2025
-Click to expand...
-Eutelsat 7A/7B/7C @ 7.0°E
-11686 - H - 14000
-DVB-S2 | 16APSK | 3/4
-1920x1080 | H.264/AVC Video | 
-4:2:2
- | 40.09 Mbit/s
-ID: MEDIASET UNI MAIN
-CW: BB D9 E6 7A 25 B8 7A 57
----FEED-SEPARATOR---
 AhmedCeNa said:
 Super Coppa Italia
 Napoli vs Milan
 CW: BB D9 E6 7A 25 B8 7A 57
 Click to expand...
-Eutelsat 10B @ 10° E
+Eutelsat 7A/7B/7C @ 7.0°E
 Fréq:11688 - H - 14400
 MPEG 4 - 4:2:2 - DVB-S2
 ID:MEDIASET UNI MAIN
@@ -26,7 +12,7 @@ CW: BB D9 E6 7A 25 B8 7A 57
 Super Coppa Italia
 Napoli vs Milan
 7E
-11670 H 14000
+11670 H 14400
 DVB-S2 
 4:2:2
  8PSK
@@ -51,6 +37,14 @@ ID:  ITA-630 MAIN MEDIASET DR
 CW: 1A B7 21 F2 12 45 7B D2
 ID:  ITA-630 GFX ENG
 CW: 31 C5 7C 72 89 91 EA 04
+---FEED-SEPARATOR---
+Copa Del Rey - Round of 32
+Eibar vs Elche
+7E
+11045 V 9600
+DVB-S2 4:2:0 8PSK
+ID: G19 E349 Via 1
+CW: 11 5A C1 2C 34 58 A1 2D
 ---FEED-SEPARATOR---
 7e. 10996v7200
 NBA: Boston Celtics  V's  Detroit Pistons
