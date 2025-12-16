@@ -224,6 +224,14 @@ CW: F9 B9 B9 6B ED F6 13 F6
 NBA: Boston Celtics  V's  Detroit Pistons
 CW: 6D BC A2 CB 1C 58 F0 64
 ---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10838 V 7200
+4:2:0
+ID: TKS TRT M20 A
+Basketball Champions League: 
+Tofas vs Trapani
+CW: BF 02 CE 8F 38 EB 12 35
+---FEED-SEPARATOR---
 7°E
 11165 V 7500
 DVB-S2|1080HD
