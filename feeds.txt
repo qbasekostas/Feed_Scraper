@@ -210,6 +210,27 @@ International Clubs, UEFA Champions League, Women
 TWENTE VS REAL MADRID
 07 B5 46 2B 9E 43 45 9A  #CW:21 8B 22 CE 8B FB B7 3D 
 ---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11665- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:unnamed
+Eurocup
+London Lions vs Besiktas
+CW: 46 F7 04 41 E4 66 9E E8
+---FEED-SEPARATOR---
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+12609 - V - 7200
+Promitheas vs Rytas
+CW: AC 14 CE 8E 48 DE 37 5D
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10848 V 7200
+4:2:0
+ID: POL-90a
+Basketball Champions League: 
+Legia vs Heidelberg
+CW: EE 69 EE 45 85 CE 42 95
+---FEED-SEPARATOR---
 Eurocup, Group B, Round 11
 Türk Telekom B.K. vs JL Bourg Basket
 Eutelsat 7A/7B/7C @ 7.0°E
