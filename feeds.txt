@@ -17,6 +17,16 @@ ID: PGM LEGA MAIN (Alamiya)
 CW: BB D9 E6 7A 25 B8 7A 57
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
+11093 V 9601
+ID: M-Three ITA 622 Feed1 (Service Provider)
+1920x1080 |20,910Mb/Sec |8PSK |4:2:0 HD
+Copa del Rey, Round of 32
+CD Atletico Baleares
+ vs. 
+Atletico Madrid
+CW: 12 C7 15 EE 36 54 31 BB
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
 11081 V 9601
 ID: BSA 01 E-377 (BSA 01 E-377)
 1920x1080 |13,940Mb/Sec |8PSK |4:2:0 HD
