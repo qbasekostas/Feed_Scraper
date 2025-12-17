@@ -16,6 +16,20 @@ ID: PGM LEGA MAIN (Alamiya)
 1920x1080 |15,680Mb/Sec |8PSK |4:2:2 HD
 CW: BB D9 E6 7A 25 B8 7A 57
 ---FEED-SEPARATOR---
+FaDeL® said:
+			Eutelsat 7A/B @7.0°E
+Fréq:11093 - H - 9600
+MPEG 4 - 4:2:2 - DVB-S2
+ID: F_96 FEED 1
+Copa del Rey, Round of 32
+Atletico Baleares vs Atletico Madrid
+CW: 11 AC CA 87 12 21 AC DF
+Click to expand...
+ASIASAT 5 100.5E
+3890 H 9875 
+ID E96 FEED Overon1
+BE F1 F6 23 D0 1B 8E E2  # CW: 11 AC CA 87 12 21 AC DF   
+---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:11093 - H - 9600
 MPEG 4 - 4:2:2 - DVB-S2
@@ -301,6 +315,24 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 14.55 Mbit/s
 ID: SHAHRDARI vs AL RIYADI
 CW: F9 31 82 AC 8D 31 AC 6A
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 11
+Hamburg Towers vs Aris BC
+Eutelsat 7A/7B/7C @ 7.0°E
+12640 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.98 Mbit/s
+ID: BB Veolia Hamburg
+CW: BB EE 17 C0 12 20 25 57
+---FEED-SEPARATOR---
+United Cup, Group A, Round 6
+KK Mega Basket vs Parma Permsky Kray
+Eutelsat 7A/7B/7C @ 7.0°E
+12652 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.98 Mbit/s
+ID: YSM-012 MAIN
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10820 V 7200
