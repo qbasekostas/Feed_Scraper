@@ -139,6 +139,18 @@ Spain, Copa del Rey
 Cultural Leonesa v Levante
 61 F3 FA 73 38 82 49 32  #CW:12 CA 16 F2 52 21 AC 1F
 ---FEED-SEPARATOR---
+safrifulkamal said:
+Event: England - EFL Carabao Cup 2025/26 (Quarter-final)
+Teams: Manchester City vs Brentford
+Time / Kickoff: 02.30 JKT-TH / 03.30 MY-SG / 19.30 GMT / 20.30 CET
+CW: 14 24 AD E5 DC 13 11 00
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+12686 - V - 7120
+DVB-S2 | 8-PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 5.56 Mbit/s
+ID: PITCH Man City v Brentford
+---FEED-SEPARATOR---
 ABS-3A 3W
 10996 V 10000 
 4:2:0
@@ -229,6 +241,15 @@ ID: QAT029-ENC-2
 FIFA Intercontinental Cup - Final
  Paris Saint-Germain vs Flamengo
 CW: D8 41 9F B8 F7 65 11 6D
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 6
+OL Lyonnes vs Club Atlético de Madrid 
+Eutelsat 7A/7B/7C @ 7.0°E
+12677 - H - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.52 Mbit/s
+ID: ENC 21
+CW: DB F4 96 65 C8 02 74 3E
 ---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:12643 - V - 7200
