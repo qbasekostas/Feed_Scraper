@@ -15,3 +15,28 @@ Eutelsat 7B-7C   @ 07.0E
 ID: PGM LEGA MAIN (Alamiya)
 1920x1080 |15,680Mb/Sec |8PSK |4:2:2 HD
 CW: BB D9 E6 7A 25 B8 7A 57
+---FEED-SEPARATOR---
+7e
+11079 H 7200
+4:2:0
+ID: 
+Qat037 M   
+FIFA Intercontinental Cup - Final
+Paris Saint-Germain vs Flamengo
+CW: 54 7F 40 13 99 44 8A 67
+---FEED-SEPARATOR---
+Eutelsat 3B @ 3.1° E
+Fréq:10967 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  QAT_ 030_2
+FIFA Intercontinental Cup - Final
+ Paris Saint-Germain vs Flamengo
+CW: 9B 02 4A E7 C1 8D 33 81
+---FEED-SEPARATOR---
+Eutelsat 3B @ 3.1° E
+Fréq:10958 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: QAT029-ENC-2
+FIFA Intercontinental Cup - Final
+ Paris Saint-Germain vs Flamengo
+CW: D8 41 9F B8 F7 65 11 6D
