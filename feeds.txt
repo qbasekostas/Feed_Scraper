@@ -49,9 +49,96 @@ FIFA Intercontinental Cup - Final
  Paris Saint-Germain vs Flamengo
 CW: D8 41 9F B8 F7 65 11 6D
 ---FEED-SEPARATOR---
+7e
+10997 H 9875
+4:2:2
+ID: 
+CRO23 UWCL M4 Bu
+UEFA Champions League, Women
+Wolfsburg W
+Chelsea W
+CW: 7F 98 8E A5 95 CD B4 16
+---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 7B-7C   @ 07.0E
+10973 V 9876
+ID:     OER/F634/1/UWCL25 PARIS MAIN (OER)
+1920x1080 |21,510Mb/Sec |8PSK |4:2:2 HD
+International Clubs, UEFA Champions League, Women
+Paris FC
+vs. 
+FC Barcelona
+CW: 19 28 B7 F8 43 BB 5A 58
+Click to expand...
+Correct CW: 92 8B 74 91 3B B5 A5 95
+---FEED-SEPARATOR---
+7e
+10973 H 9875
+4:2:2
+ID: 
+F503/5/UWCL_MATCH02/MAIN
+UEFA Champions League, Women
+Lyon W
+Atl. Madrid W
+B9 22 20 12 B2 7E 71 4F  #CW: 
+0F E1 26 16 5D 2B 60 E8
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 6
+AS Roma vs SKN St. Pölten
+Eutelsat 7A/7B/7C @ 7.0°E
+11020 - H - 9875
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 19.76 Mbit/s
+ID: ITA548 UWCL M6 BCKP
+CW: 07 A1 9D 45 C8 8E 4C A2
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+10986 H 9876
+ID: CRO-025 UWCL M3 BACKUP (*unnamed-1*)
+1920x1080 |21,510Mb/Sec |8PSK |4:2:2 HD
+International Clubs, UEFA Champions League, Women
+Bayern Múnich F
+ VS 
+Vålerenga F
+0E 26 65 B6 1B 55 72 1B  #CW:62 45 C3 6A 08 3B BB FE
+---FEED-SEPARATOR---
+7e
+10961 H 9875
+4:2:2
+ID: 
+E-95 - M1 - BACKUP
+UEFA Champions League, Women
+SL Benfica W
+PSG W
+FC 3C 42 D0 2E 61 D3 BE  #CW: 
+A8 72 BD D7 19 B3 B6 82
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11010 H 9876
+ID:  ITA198 UWCL M5 BCKP (Elpitel)
+1920x1080 |21,510Mb/Sec |8PSK |4:2:2 HD
+International Clubs, UEFA Champions League, Women
+Juventus Turin
+ vs. 
+Manchester United WFC
+11 5D 10 38 8B 4F 04 9F  #CW:2E FF 04 31 9E 99 B0 E7  
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+10973 V 9876
+ID:     OER/F634/1/UWCL25 PARIS MAIN (OER)
+1920x1080 |21,510Mb/Sec |8PSK |4:2:2 HD
+International Clubs, UEFA Champions League, Women
+Paris FC
+vs. 
+FC Barcelona
+CW: 19 28 B7 F8 43 BB 5A 58
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 10961 V 9876
 ID:  HOL311 UWCL M7-1 (2SAT Europe)
 1920x1080 |21,510Mb/Sec |8PSK |4:2:2 HD
 International Clubs, UEFA Champions League, Women
+TWENTE VS REAL MADRID
 07 B5 46 2B 9E 43 45 9A  #CW:21 8B 22 CE 8B FB B7 3D 
