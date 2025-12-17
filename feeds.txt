@@ -5,3 +5,13 @@ DVB-S2|1080HD
 ID: DECBC Cologne
 Event: Bundesliga Diamonds
 CW: 0A 0F E6 FF 1C B5 70 41
+---FEED-SEPARATOR---
+Super Coppa Italia
+Napoli vs Milan                                                
+18/12/2025
+Eutelsat 7B-7C   @ 07.0E
+11665  Horizontal  
+7201
+ID: PGM LEGA MAIN (Alamiya)
+1920x1080 |15,680Mb/Sec |8PSK |4:2:2 HD
+CW: BB D9 E6 7A 25 B8 7A 57
