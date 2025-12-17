@@ -16,6 +16,50 @@ ID: PGM LEGA MAIN (Alamiya)
 1920x1080 |15,680Mb/Sec |8PSK |4:2:2 HD
 CW: BB D9 E6 7A 25 B8 7A 57
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4124 H 9875 C-Band
+ID: M-Three ITA 622 Feed1 
+(Provider ID: Service Provider)
+MPEG4 | DVB-S2
+1920x1080i |19,13Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: Spain - Copa del Rey 2025/26 (Round of 32)
+Teams: SD Huesca vs CA Osasuna
+Time / Kickoff: 01.00 JKT-TH / 02.00 MY-SG / 18.00 GMT / 19.00 CET
+faisal6 said:
+CW: 12 C7 15 EE 36 54 31 BB
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4104 H 9875 C-Band
+ID: BSA 01 E-377 
+(Provider ID: BSA 01 E-377)
+MPEG4 | DVB-S2
+1920x1080i |6,03Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: Spain - Copa del Rey 2025/26 (Round of 32)
+Teams: Real Racing Club de Santander vs Villarreal CF
+Time / Kickoff: 01.00 JKT-TH / 02.00 MY-SG / 18.00 GMT / 19.00 CET
+faisal6 said:
+#
+CW: A2 C7 54 BD 31 15 36 7C
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4134 H 9875 C-Band
+ID: E336 G18 VIA 1 
+(Provider ID: Service Provider)
+MPEG4 | DVB-S2
+1920x1080i |19,26Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: Spain - Copa del Rey 2025/26 (Round of 32)
+Teams: Cultural Leonesa vs Levante UD
+Time / Kickoff: 00.00 JKT-TH / 01.00 MY-SG / 17.00 GMT / 18.00 CET
+CW: 12 CA 16 F2 52 21 AC 1F
+---FEED-SEPARATOR---
 FaDeL® said:
 			Eutelsat 7A/B @7.0°E
 Fréq:11093 - H - 9600
@@ -95,6 +139,29 @@ Spain, Copa del Rey
 Cultural Leonesa v Levante
 61 F3 FA 73 38 82 49 32  #CW:12 CA 16 F2 52 21 AC 1F
 ---FEED-SEPARATOR---
+ABS-3A 3W
+10996 V 10000 
+4:2:0
+DVBS-2 8PSK
+ID: ITV Sport-Newcastle v Fulham
+CW: 16 C4 1A F4 3C 1D 24 7D
+English League Cup - Quarter Final
+Newcastle v Fulham
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3904 H 7119 C-Band
+ID:
+BT_SES_24_SDI
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,47Mb/Sec |8PSK| 
+4:2:0
+HD
+Event: England - EFL Carabao Cup 2025/26 (Quarter-final)
+Teams: Manchester City vs Brentford
+Time / Kickoff: 02.30 JKT-TH / 03.30 MY-SG / 19.30 GMT / 20.30 CET
+CW: 14 24 AD E5 DC 13 11 00
+---FEED-SEPARATOR---
 ASIASAT 5 100.5E
 3915 H 7120
 ID BT SES 22 SDI
@@ -162,6 +229,67 @@ ID: QAT029-ENC-2
 FIFA Intercontinental Cup - Final
  Paris Saint-Germain vs Flamengo
 CW: D8 41 9F B8 F7 65 11 6D
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:12643 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: ENC 10
+UEFA Champions League, Women
+CW: 52 5A 97 43 10 A6 DC 92
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 6
+Juventus vs Manchester United
+Eutelsat 7A/7B/7C @ 7.0°E
+11596 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.34 Mbit/s
+ID: ENC 6
+CW: 97 B7 B7 05 F8 6F 8A F1
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 6
+FC Twente Vrouwen vs Real Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+11578 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.23 Mbit/s
+ID: ENC 3
+CW: 57 8B 1C FE 6B FF 6B D5
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 6
+Paris FC vs Fútbol Club Barcelona
+Eutelsat 7A/7B/7C @ 7.0°E
+11569 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.28 Mbit/s
+ID: ENC 5
+CW: 57 8B 1C FE 6B FF 6B D5
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 6
+FC Bayern München vs Vålerenga
+Eutelsat 7A/7B/7C @ 7.0°E
+12634 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.33 Mbit/s
+ID: ENC 7
+CW: 0A CC 6B 41 E9 58 48 89
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 6
+AS Roma vs SKN St. Pölten
+Eutelsat 7A/7B/7C @ 7.0°E
+11587 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.24 Mbit/s
+ID: ENC 4
+CW: 57 CD 0B 2F 68 C9 EC 1D
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 6
+VfL Wolfsburg vs Chelsea FC
+Eutelsat 7A/7B/7C @ 7.0°E
+12649 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.28 Mbit/s
+ID: ENC 8
+CW: 57 8B 1C FE 6B FF 6B D5
 ---FEED-SEPARATOR---
 7e
 10997 H 9875
@@ -315,6 +443,12 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 14.55 Mbit/s
 ID: SHAHRDARI vs AL RIYADI
 CW: F9 31 82 AC 8D 31 AC 6A
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10830 V 7200
+4:2:0
+Mersin SK vs Oostende
+2E BD CA FC C8 DA 3A 72  #CW  DF 54 CF 02 35 BB 92 82
 ---FEED-SEPARATOR---
 Eurocup, Group A, Round 11
 Hamburg Towers vs Aris BC
