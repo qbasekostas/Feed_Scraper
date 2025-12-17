@@ -87,13 +87,15 @@ Fréq:11044 - V - 9600
 MPEG 4 - 4:2:0 - DVB-S2
 ID: E351 Spanish Graph main
 Copa del Rey, Round of 32
+Talavera de La Reina vs Real Madrid
 CW: 21 4C 1A 87 23 C1 A2 86
 ---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:11069 - V - 9600
 MPEG 4 - 4:2:0 - DVB-S2
-ID: E447 Via 1 BROADCAST 
+ID: E447 Via 1 BROADCAST
 Copa del Rey, Round of 32
+Talavera de La Reina vs Real Madrid
 CW: 21 4C 1A 87 23 C1 A2 86
 ---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
@@ -101,6 +103,7 @@ Fréq:11059 - V - 9600
 MPEG 4 - 4:2:0 - DVB-S2
 ID: E351 English Graph BU
 Copa del Rey, Round of 32
+Talavera de La Reina vs Real Madrid
 CW: 21 4C 1A 87 23 C1 A2 86
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
@@ -241,6 +244,15 @@ ID: QAT029-ENC-2
 FIFA Intercontinental Cup - Final
  Paris Saint-Germain vs Flamengo
 CW: D8 41 9F B8 F7 65 11 6D
+---FEED-SEPARATOR---
+UEFA Champions League, Women, League Phase, Round 6
+Benfica vs Paris Saint-Germain
+Eutelsat 7A/7B/7C @ 7.0°E
+11605 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.14 Mbit/s
+ID: ENC-13
+CW: F2 6B 44 A1 3A 3C 0A 80
 ---FEED-SEPARATOR---
 UEFA Champions League, Women, League Phase, Round 6
 OL Lyonnes vs Club Atlético de Madrid 
