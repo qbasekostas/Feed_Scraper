@@ -16,12 +16,40 @@ ID: PGM LEGA MAIN (Alamiya)
 1920x1080 |15,680Mb/Sec |8PSK |4:2:2 HD
 CW: BB D9 E6 7A 25 B8 7A 57
 ---FEED-SEPARATOR---
+faisal6 said:
 Eutelsat 7B-7C   @ 07.0E
 11021 V 9600
 ID: E336 G18 VIA 1 (Service Provider)
 1920x1080 |20,910Mb/Sec |8PSK |4:2:0 HD
 Spain, Copa del Rey
 61 F3 FA 73 38 82 49 32  #CW:12 CA 16 F2 52 21 AC 1F
+Click to expand...
+Cultural Leonesa v Levante
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11021 V 9600
+ID: E336 G18 VIA 1 (Service Provider)
+1920x1080 |20,910Mb/Sec |8PSK |4:2:0 HD
+Spain, Copa del Rey
+61 F3 FA 73 38 82 49 32  #CW:12 CA 16 F2 52 21 AC 1F
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 25 6B FA 8A CD 81 7E CC
+Click to expand...
+FIFA Intercontinental Cup - Final
+Paris Saint-Germain vs Flamengo
+Eutelsat  @ 3.1E
+10987  Horizontal  7501,834
+ID:beIN SPORTS HD (TANDBERG Television)
+1920x1080 |11,161Mb/Sec |8PSK |4:2:0 HD
+---FEED-SEPARATOR---
+FIFA Intercontinental Cup - Final
+Paris Saint-Germain vs Flamengo
+Eutelsat  @ 3.1E
+10978  Horizontal  7501,834
+ID: beIN SPORTS (JSSC)
+1920x1080 |11,161Mb/Sec |8PSK |4:2:0 HD
+CW: 25 6B FA 8A CD 81 7E CC
 ---FEED-SEPARATOR---
 FIFA Intercontinental Cup - Final
 Paris Saint-Germain vs Flamengo
@@ -149,6 +177,35 @@ ID:  HOL311 UWCL M7-1 (2SAT Europe)
 International Clubs, UEFA Champions League, Women
 TWENTE VS REAL MADRID
 07 B5 46 2B 9E 43 45 9A  #CW:21 8B 22 CE 8B FB B7 3D 
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 11
+Türk Telekom B.K. vs JL Bourg Basket
+Eutelsat 7A/7B/7C @ 7.0°E
+12676 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 14.90 Mbit/s
+ID: TKS.TRT.M17 - A
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 11
+U-Banca Transilvania Cluj-Napoca vs Klaipėdos Neptūnas
+Eutelsat 7A/7B/7C @ 7.0°E
+12704 - V - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.10 Mbit/s
+ID: ROU045
+CW: A3 B1 D2 26 34 B7 52 3D
+---FEED-SEPARATOR---
+WASL West Asia
+Shahrdari Gorgan vs Al Riyadi Beirut
+Eutelsat 7A/7B/7C @ 7.0°E
+12686 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.55 Mbit/s
+ID: SHAHRDARI vs AL RIYADI
+CW: F9 31 82 AC 8D 31 AC 6A
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 11622  Vertical  9699,821
