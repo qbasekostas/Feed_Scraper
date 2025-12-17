@@ -142,3 +142,10 @@ ID:  HOL311 UWCL M7-1 (2SAT Europe)
 International Clubs, UEFA Champions League, Women
 TWENTE VS REAL MADRID
 07 B5 46 2B 9E 43 45 9A  #CW:21 8B 22 CE 8B FB B7 3D 
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11622  Vertical  9699,821
+ID: AVP_OU_A (OTE)
+1920x1080 |21,619Mb/Sec |8PSK |4:2:2 HD
+Kavala - Panathinaikos
+CW: AA 11 21 DC AB AB 22 78
