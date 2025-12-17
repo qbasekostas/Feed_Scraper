@@ -16,21 +16,32 @@ ID: PGM LEGA MAIN (Alamiya)
 1920x1080 |15,680Mb/Sec |8PSK |4:2:2 HD
 CW: BB D9 E6 7A 25 B8 7A 57
 ---FEED-SEPARATOR---
-faisal6 said:
 Eutelsat 7B-7C   @ 07.0E
-11021 V 9600
-ID: E336 G18 VIA 1 (Service Provider)
-1920x1080 |20,910Mb/Sec |8PSK |4:2:0 HD
+11081 V 9601
+ID: BSA 01 E-377 (BSA 01 E-377)
+1920x1080 |13,940Mb/Sec |8PSK |4:2:0 HD
+8F 89 77 4D E6 64 C6 69  #CW:A2 C7 54 BD 31 15 36 7C  
 Spain, Copa del Rey
-61 F3 FA 73 38 82 49 32  #CW:12 CA 16 F2 52 21 AC 1F
-Click to expand...
-Cultural Leonesa v Levante
+Racing Santander
+ vs. 
+Villarreal CF
+​
+---FEED-SEPARATOR---
+Copa del Rey, Round of 32
+Albacete Balompié vs Celta Vigo
+Eutelsat 7A/7B/7C @ 7.0°E
+11008 - V - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.47 Mbit/s
+ID: G10 E272.ALBACETE Eng
+CW: 11 AC C2 7F 56 51 AA 51
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 11021 V 9600
 ID: E336 G18 VIA 1 (Service Provider)
 1920x1080 |20,910Mb/Sec |8PSK |4:2:0 HD
 Spain, Copa del Rey
+Cultural Leonesa v Levante
 61 F3 FA 73 38 82 49 32  #CW:12 CA 16 F2 52 21 AC 1F
 ---FEED-SEPARATOR---
 faisal6 said:
@@ -58,6 +69,17 @@ Eutelsat 16A @ 16.0E
 ID: UAE074 - 1 (*unnamed-1*)
 1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
 CW: 24 C7 BC A7 36 FA 5C 8C
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:11514 - V - 6666
+MPEG 4 - 4:2:0 - DVB-S2
+ID:QAT_030_1
+Looks like it's ...
+BEin Sport FRANCE - FIFA Intercontinental Cup 2025
+Paris Saint-Germain vs
+. 
+Flamengo
+CW: E4 74 97 EF CF 6E AC E9
 ---FEED-SEPARATOR---
 7e
 11079 H 7200
