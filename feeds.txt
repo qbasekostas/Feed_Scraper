@@ -21,9 +21,7 @@ Eutelsat 7B-7C   @ 07.0E
 ID: M-Three ITA 622 Feed1 (Service Provider)
 1920x1080 |20,910Mb/Sec |8PSK |4:2:0 HD
 Copa del Rey, Round of 32
-CD Atletico Baleares
- vs. 
-Atletico Madrid
+Huesca vs. Osasuna
 CW: 12 C7 15 EE 36 54 31 BB
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
@@ -210,14 +208,6 @@ International Clubs, UEFA Champions League, Women
 TWENTE VS REAL MADRID
 07 B5 46 2B 9E 43 45 9A  #CW:21 8B 22 CE 8B FB B7 3D 
 ---FEED-SEPARATOR---
-Eutelsat 7B @ 7.0°E
-Fréq:11665- H - 7200
-MPEG 4 - 4:2:0 - DVB-S2
-ID:unnamed
-Eurocup
-London Lions vs Besiktas
-CW: 46 F7 04 41 E4 66 9E E8
----FEED-SEPARATOR---
 Eutelsat Hotbird 13B/13C/13G @ 13.0°E
 12609 - V - 7200
 Promitheas vs Rytas
@@ -230,6 +220,15 @@ ID: POL-90a
 Basketball Champions League: 
 Legia vs Heidelberg
 CW: EE 69 EE 45 85 CE 42 95
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11069 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.04 Mbit/s
+Euro League Basketball
+Baskonia v Monaco
+ID: IMG A EU
+CW: BA 41 C5 C0 96 5E 4B 3F
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 11
 Türk Telekom B.K. vs JL Bourg Basket
@@ -259,6 +258,22 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 14.55 Mbit/s
 ID: SHAHRDARI vs AL RIYADI
 CW: F9 31 82 AC 8D 31 AC 6A
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12601 V 7200
+4:2:0
+ID: ITA 560 TRIESTE
+Basketball Champions League: 
+Trieste vs Wurzburg
+CW: DF 41 DA FA 16 AA 62 22
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11665- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:unnamed
+Eurocup
+London Lions vs Besiktas
+CW: 46 F7 04 41 E4 66 9E E8
 ---FEED-SEPARATOR---
 16E
 11061 H 9700
