@@ -25,6 +25,20 @@ DVB-S2 | 8PSK | 3/4
 ID: G19 E349 Via 2
 CW: 52 A2 23 17 AC 24 17 E7
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4120 H 9875
+ID: G19 E349 Via 1
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 52 A2 23 17 AC 24 17 E7
+Burgos Club de Fútbol vs Getafe
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4132 H 9875
+ID: E336 G18 VIA 1
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 44 23 A2 09 13 23 32 68
+Ourense CF vs Athletic Club
+---FEED-SEPARATOR---
 omid1348 said:
 			3.1E
 10978 H 7500
