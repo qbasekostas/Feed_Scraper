@@ -84,6 +84,18 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 44 23 A2 09 13 23 32 68
 Ourense CF vs Athletic Club
 ---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3933 H 7120
+ID: BT_SES_22_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : AA 44 99 87 20 C3 CC AF
+Reading vs Luton
+Click to expand...
++
+7EAST 12725 V 7120
+ID: PITCH reading v lutton
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3933 H 7120
 ID: BT_SES_22_SDI
