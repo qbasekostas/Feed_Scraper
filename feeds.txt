@@ -41,6 +41,13 @@ DVB-S2 | 8PSK | 3/4
 ID: G19 E349 Via 2
 CW: 52 A2 23 17 AC 24 17 E7
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3868 H 9875
+ID: G10 E272.Murcia. Eng
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 23 AC 52 21 A2 24 17 DD
+Real Murcia vs Real Betis
+---FEED-SEPARATOR---
 HBO said:
 			AsiaSat 5 - 100.5 E - CBand
 TP : 4132 H 9875
