@@ -1,3 +1,26 @@
+omid1348 said:
+			3.1E
+10978 H 7500
+10987 H 7500
+4.2.0
+ID: beIN SPORTS / beIN SPORTS HD
+CW: 2
+5 6B FA 8A CD 81 7E CC
+Click to expand...
+FIFA Arab Cup- 3rd
+Saudi Arabia Vs  United Arab Emirates
+FIFA Arab Cup-Final
+Jordan Vs Morocco
+---FEED-SEPARATOR---
+Es'hail Sat 1 @ 25.5°E
+Fréq:11580 - V - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: Service 01
+FIFA Arab Cup-Final
+Jordan Vs Morocco
+found CW: 
+AB CD EE 66 20 26 EF 35
+---FEED-SEPARATOR---
 Event : 
 FIFA Arab Cup - Play Offs - 3rd place
 Teams :Saudi Arabia 
