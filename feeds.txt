@@ -1,4 +1,13 @@
 Copa del Rey, Round of 32
+Ourense CF vs Athletic Club
+Eutelsat 7A/7B/7C @ 7.0°E
+12560 - H - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.46 Mbit/s
+ID: E336 G18 VIA 1
+CW: 44 23 A2 09 13 23 32 68
+---FEED-SEPARATOR---
+Copa del Rey, Round of 32
 Burgos Club de Fútbol vs Getafe
 Eutelsat 7A/7B/7C @ 7.0°E
 12571 - H - 9600
