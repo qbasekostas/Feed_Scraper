@@ -25,6 +25,19 @@ DVB-S2 | 8PSK | 3/4
 ID: G19 E349 Via 2
 CW: 52 A2 23 17 AC 24 17 E7
 ---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 4132 H 9875
+ID: E336 G18 VIA 1
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 44 23 A2 09 13 23 32 68
+Ourense CF vs Athletic Club
+Click to expand...
+47W SES14 C 
+4123H9998 
+ID: Fi12_GNVE 
+DVB-S2 4.2.0 1080I
+---FEED-SEPARATOR---
 Copa del Rey, Round of 32
 Real Murcia vs Real Betis
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -109,3 +122,15 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.14 Mbit/s
 ID: ITA315_B
 CW: D4 63 58 8F B5 11 CD 93
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11069 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.63 Mbit/s
+ID: IMG A EU
+EURO LEAGUE Basketball 
+18/12/2025
+ -
+ Maccabi Tel Aviv B.C. vs 
+Valencia 
+CW: 27 35 BF 1B 55 42 DD 74
