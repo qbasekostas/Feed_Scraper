@@ -1,3 +1,19 @@
+21.6E
+12568 V 14400
+4.2.2
+ID: MEDIASET UNI BKP
+Supercoppa Italiana
+SSC Napoli - AC Milan
+CW: BF CD C2 5D 05 F8 A6 A3
+---FEED-SEPARATOR---
+21.6E
+12514 V 14400
+4.2.2
+ID: PGM LIGA BACKUP
+Supercoppa Italiana
+SSC Napoli - AC Milan
+CW: 25 64 E7 70 98 B5 72 BF
+---FEED-SEPARATOR---
 FaDeL® said:
 Eutelsat 7A/7B/7C @ 7.0°E
 Fréq:11688 - H - 14400
@@ -60,6 +76,13 @@ ID: E336 G18 VIA 1
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 44 23 A2 09 13 23 32 68
 Ourense CF vs Athletic Club
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3933 H 7120
+ID: BT_SES_22_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : AA 44 99 87 20 C3 CC AF
+Reading vs Luton
 ---FEED-SEPARATOR---
 omid1348 said:
 			3.1E
