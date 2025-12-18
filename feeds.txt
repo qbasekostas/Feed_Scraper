@@ -1,3 +1,14 @@
+Event : 
+FIFA Arab Cup - Play Offs - 3rd place
+Teams :Saudi Arabia 
+ United Arab Emirates
+Badr 4-5-6-7 @ 26.0°E
+ ( KU-BAND )
+11630 H 7500
+  SNG3 KSA UAE B (AL5CSSON Television)
+MPEG4-4.2.0 1920x1080 |16.340 Mbit/s |8PSK| DVB-S2 HD
+CW: AB DE F2 7B 02 4E FE 4E
+---FEED-SEPARATOR---
 ROAD TO
 UEFA WOMENS CHAMPIONS LEAGUE
 Eutelsat 7B/7C @ 7.0E
