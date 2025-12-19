@@ -79,6 +79,11 @@ Laliga MD17 - Valencia CF vs RCD Mallorca
 CW: EC E7 EF C2 01 B8 40 F9
    #[E] PID:0F0Bh
 ---FEED-SEPARATOR---
+7E
+12694 v 7120
+id: pitch efl swansea v wrexham
+CW: 49 93 D3 AF 34 F3 5A 81
+---FEED-SEPARATOR---
 10.0°E
 11245 H 5000
 4:2:0
