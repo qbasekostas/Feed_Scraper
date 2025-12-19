@@ -33,14 +33,13 @@ Copa Ecuador
 LDU Quito vs. Univ. Católica
 CW: 128514ABDD01FEDC
 ---FEED-SEPARATOR---
-Eutelsat 7B @ 7.0°E
-Fréq:11524- H - 9800
-MPEG 4 - 4:2:2 - DVB-S2
-ID:  ITA-630 MAIN MEDIASET DR
-I
-talian Super Cup (Supercoppa) - Semi Final
-Bologna vs Inter Milan
-CW: 1A B7 21 F2 12 45 7B D2
+Super Coppa Italia
+INTER vs BOLOGNA 
+Eut07.0E 
+S2 8PSK H264 HD 4:2:2
+11665 H 14400
+ID: PGM LEGA MAIN 
+BB D9 E6 7A 25 B8 7A 57
 ---FEED-SEPARATOR---
 Italian Super Cup (Supercoppa) - Semi Final
 Bologna vs. Inter Milan
