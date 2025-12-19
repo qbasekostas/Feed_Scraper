@@ -73,6 +73,14 @@ Laliga MD17 - Valencia CF vs RCD Mallorca
 CW: EC E7 EF C2 01 B8 40 F9
    #[E] PID:0F0Bh
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12633 V 4937
+ID: ROU-051 MAIN
+4.2.0- DVB-S2 - 8PSK
+Event:
+ABA League Basketball - Cluj Napoca vs Krka
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11070- H - 7200
 MPEG 4 - 4:2:0 - DVB-S2
