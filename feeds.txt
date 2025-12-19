@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 15
+Borussia Dortmund vs. Mönchengladbach
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D-408 DO
+CW: 7D B8 B6 EB 03 6E E0 51
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 10980 Horizontal 3599,207 5/6
 DVB-S2/8PSK (4:2:0)
@@ -14,6 +25,33 @@ DSports.  Testing.  Final.
 Copa Ecuador 
 LDU Quito vs. Univ. Católica
 CW: 128514ABDD01FEDC
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11524- H - 9800
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  ITA-630 MAIN MEDIASET DR
+I
+talian Super Cup (Supercoppa) - Semi Final
+Bologna vs Inter Milan
+CW: 1A B7 21 F2 12 45 7B D2
+---FEED-SEPARATOR---
+Italian Super Cup (Supercoppa) - Semi Final
+Bologna vs. Inter Milan
+Eutelsat 7B/7C @ 7.0°E
+11190 - H - 2500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Service_02
+CW: 54 AC B2 B2 87 4C C8 9B
+11193 - H - 2500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Service_01
+CW: 67 FC C2 25 89 2D C8 7E
 ---FEED-SEPARATOR---
 10E
 10732 V 34000
@@ -34,3 +72,11 @@ ID: OVERON 1
 Laliga MD17 - Valencia CF vs RCD Mallorca 
 CW: EC E7 EF C2 01 B8 40 F9
    #[E] PID:0F0Bh
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11070- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  IMG A EU
+Euroleague
+ Crvena zvezda Belgrade vs Bologna
+CW: 4A 2C 12 88 D7 D3 68 12
