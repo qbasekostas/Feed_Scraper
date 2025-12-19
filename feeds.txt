@@ -6,3 +6,15 @@ DSports.  Testing.  Final.
 Copa Ecuador 
 LDU Quito vs. Univ. Católica
 CW: 128514ABDD01FEDC
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 4.2.2
+ID: OVERON 1
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+Laliga MD17 - Valencia CF vs RCD Mallorca 
+CW: EC E7 EF C2 01 B8 40 F9
+   #[E] PID:0F0Bh
