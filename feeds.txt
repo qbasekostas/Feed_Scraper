@@ -90,6 +90,15 @@ CW: 49 93 D3 AF 34 F3 5A 81
 ID: ITA556 HD16
 #FTA
 ---FEED-SEPARATOR---
+ABA Liga, Group B, Round 11
+KK Zadar vs Ilirija
+Eutelsat 7A/7B/7C @ 7.0°E
+11125 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.20 Mbit/s
+ID: Medialink CRO-024/1
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12633 V 4937
 ID: ROU-051 MAIN
