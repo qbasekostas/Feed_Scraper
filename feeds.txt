@@ -79,6 +79,15 @@ Laliga MD17 - Valencia CF vs RCD Mallorca
 CW: EC E7 EF C2 01 B8 40 F9
    #[E] PID:0F0Bh
 ---FEED-SEPARATOR---
+Championship
+Swansea City vs Wrexham
+Asiasat 5 (100.5°E) C BAND
+3933 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_22_SDI
+CW: 49 93 D3 AF 34 F3 5A 81
+---FEED-SEPARATOR---
 7E
 12694 v 7120
 id: pitch efl swansea v wrexham
