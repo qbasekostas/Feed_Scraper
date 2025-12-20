@@ -76,6 +76,17 @@ Bundesliga - Femenina
 TSG Hoffenheim VS FC Carl Zeiss Jena 
 CW: 20 12 DC 0E CA 29 01 F4
 ---FEED-SEPARATOR---
+Alemania
+3. Liga - Jornada 19
+1860 Múnich
+ VS 
+Verl
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12519  Horizontal  7201,801
+ID:   3.Liga 1860 (MTI
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 20 12 EF 21 FE 22 15 35 #[E] PID:0134h
+---FEED-SEPARATOR---
 ITALIAN FOOTBALL SERIE B MD17
 AVELLINO vs PALERMO
 EUT7E DVBS2 8PSK H264 HD 4:2:0
@@ -188,6 +199,18 @@ ID:   PITCH Ipswich v Sheffield W. (NEP Connect)
 1920x1080 |14,100Mb/Sec |8PSK |4:2:0 HD
 CW: 42 70 83 35 35 FF ED 21
 ---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3974 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  BT_SES_24_SDI
+Event: 
+England - 
+EFL Championship (Matchday 21)
+Teams: 
+Ipswich Town vs Sheffield Wednesday
+CW: 42 70 83 35 35 FF ED 21
+---FEED-SEPARATOR---
 Event: England Championship - Round 22
 Teams : Southampton 
  Coventry
@@ -205,6 +228,28 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI
 EFL Championship: Southampton v Coventry
 CW: 20 49 58 C1 83 C1 12 56
+---FEED-SEPARATOR---
+omid1348 said:
+			42E
+10983 V 7500
+4.2.2
+ID: TUR156 Main
+Basketbol Süper Ligi
+Trabzonspor - Fenerbahce
+CW: B7 F9 4C FC D9 7C 43 98
+Click to expand...
+13E
+12610 V 7500
+4.2.2
+ID: TUR156 Main
+---FEED-SEPARATOR---
+42E
+10983 V 7500
+4.2.2
+ID: TUR156 Main
+Basketbol Süper Ligi
+Trabzonspor - Fenerbahce
+CW: B7 F9 4C FC D9 7C 43 98
 ---FEED-SEPARATOR---
 42E
 11523 V 7500
