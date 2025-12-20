@@ -1,3 +1,12 @@
+Eutelsat (16°E)
+10980 H 3600
+4.2.0
+ID: Fal7 Enc2
+Bundesliga
+Event: 
+RB Lipsia vs Bayern 04 Leverkusen
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 faisal6 said:
 			20 12 EF 21 FE 22 15 35 #[E] PID:0134h
 Click to expand...
@@ -74,6 +83,21 @@ EUT7E DVBS2 8PSK H264 HD 4:2:0
 ID ITA 609 A
 BC 17 20 F3 25 20 12 57
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:LIGA HYPERMOTION 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:0 HD
+Spain, LaLiga 2CD Leganesvs. Sporting Gijon
+CW: 72 60 2F 01 7C 89 D5 DA
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10768  Vertical  34010,27
+ID:   SUPPONOR EASTERN 1 (OVERON)
+1920x1080 |84,311Mb/Sec |8PSK |4:2:2HD
+Event: Spain - LALIGA EA SPORTS Matchday 17
+Teams: Levante UD vs Real Sociedad
+CW: 58 28 01 81 CA 42 1B 27
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
@@ -135,6 +159,24 @@ ID: OVERON 1
 LaLiga
  Levante  vs Real Sociedad
 CW: 59 19 56 C8 E6 A2 6C F4
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3975 V 7119 C-Band
+ID: BT_SES_24_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,28Mb/Sec |8PSK| 
+4:2:0
+HD
+Event: 
+England - 
+EFL Championship (Matchday 21)
+Teams: 
+Ipswich Town vs Sheffield Wednesday
+Time / Kickoff: 22.00 JKT-TH / 23.00 MY-SG / 15.00 GMT / 16.00 CET
+faisal6 said:
+CW: 42 70 83 35 35 FF ED 21
+Click to expand...
 ---FEED-SEPARATOR---
 England, Championship
 Ipswich Town
