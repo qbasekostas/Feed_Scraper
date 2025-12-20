@@ -1,0 +1,31 @@
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR MENA 1
+LaLiga
+ Real Madrid vs Sevilla
+CW: 20 1B 16 51 7A 00 54 CE
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR AFRICA 1
+LaLiga
+ Real Madrid vs  Sevilla
+CW: 0C 39 41 86 84 71 F3 E8
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+LaLiga
+ Real Oviedo vs Celta de Vigo
+CW: 8F ED 0C 88 77 15 7F 0B
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+LaLiga
+ Levante  vs Real Sociedad
+CW: 59 19 56 C8 E6 A2 6C F4
