@@ -76,6 +76,17 @@ Bundesliga - Femenina
 TSG Hoffenheim VS FC Carl Zeiss Jena 
 CW: 20 12 DC 0E CA 29 01 F4
 ---FEED-SEPARATOR---
+German 1. Bundesliga - Week 15
+RB Leipzig vs. Bayer Leverkusen
+Eutelsat 7B/7C @ 7.0°E
+11048 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi05
+CW: 1C DA 08 FE 2D 42 4E BD
+---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:10998 - V - 9874
 MPEG 4 - 4:2:2 - DVB-S2
