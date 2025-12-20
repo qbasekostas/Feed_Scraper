@@ -253,6 +253,14 @@ ID: BT_SES_22_SDI
 EFL Championship: Southampton v Coventry
 CW: 20 49 58 C1 83 C1 12 56
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+10978 V 8022
+ID:  Fi14_GNVE (EBUER)
+1920x1080 |21,500Mb/Sec |16 PSK 
+|4:2:0 H265
+IEFA Conference League Recorded Highlights
+13 27 56 7B 9F B4 2E 0E  #CW:64 11 AE 23 7E 0B 6C F5 
+---FEED-SEPARATOR---
 omid1348 said:
 			42E
 10983 V 7500
@@ -294,15 +302,6 @@ CW: F0 EC 3D 19 86 7D 27 2A
 11496 V 7500
 4.2.2
 ID: E333 M
----FEED-SEPARATOR---
-Mozzart Bet Superliga, Round 20
-FK Crvena zvezda vs FK Mladost Lučani
-Eutelsat 7B/7C @ 7.0E
-12633 V 4938
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID: YSM-021M (DSNG)
-CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Hot Bird (13°E)
 12583 - V - 7200
