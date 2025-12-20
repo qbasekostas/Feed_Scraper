@@ -16,15 +16,18 @@ Eutelsat 28A-2A-2E-2F @ 28.2E
 12633  Horizontal  7201,801
 ID:   D-528 (rt1.tv)
 1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
-RW Essen
- sv 
-Ulm
+Aue
+ vs 
+Schweinfurt
 ---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12624  Horizontal  7202,17
 ID:  D415feed2 (Betamobil)
 1920x1080 |16,053Mb/Sec |8PSK |4:2:0 HD
-AE 7B 83 54 F9 B7 1B 66  #CW:20 12 EF 21 FE 22 15 35   #[E] PID:0134h
+Rostock
+ vs 
+Saarbrücken
+CW: 20 12 EF 21 FE 22 15 35
 ---FEED-SEPARATOR---
 28.2E
 12512 h 7200
@@ -63,6 +66,13 @@ Alemania
 Bundesliga - Femenina 
 TSG Hoffenheim VS FC Carl Zeiss Jena 
 CW: 20 12 DC 0E CA 29 01 F4
+---FEED-SEPARATOR---
+ITALIAN FOOTBALL SERIE B MD17
+AVELLINO vs PALERMO
+EUT7E DVBS2 8PSK H264 HD 4:2:0
+11165 V 7500
+ID ITA 609 A
+BC 17 20 F3 25 20 12 57
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
