@@ -1,3 +1,50 @@
+faisal6 said:
+			20 12 EF 21 FE 22 15 35 #[E] PID:0134h
+Click to expand...
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12642  Horizontal  7201,79
+ID:  D-167 Mannheim (rt1.t
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Mannheim
+ vs 
+Ingolstadt
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 20 12 EF 21 FE 22 15 35 #[E] PID:0134h
+Click to expand...
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12633  Horizontal  7201,801
+ID:   D-528 (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+RW Essen
+ sv 
+Ulm
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12624  Horizontal  7202,17
+ID:  D415feed2 (Betamobil)
+1920x1080 |16,053Mb/Sec |8PSK |4:2:0 HD
+AE 7B 83 54 F9 B7 1B 66  #CW:20 12 EF 21 FE 22 15 35   #[E] PID:0134h
+---FEED-SEPARATOR---
+28.2E
+12512 h 7200
+ID: D-361
+4:2:0 
+3. liga
+essen - ulm
+CW: 20 12 EF 21 FE 22 15 35
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 20 12 DC 0E CA 29 01 F4
+Click to expand...
+Eutelsat (16°E)
+11176 H 9875
+4.2.0
+ID: FBL Nuernberg
+Frauen-Bundesliga
+Event: 
+Nurnberg vs Union Berlin
+---FEED-SEPARATOR---
 3. liga 
 Osnabruck
  VS 
@@ -66,6 +113,14 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI
 EFL Championship: Southampton v Coventry
 CW: 20 49 58 C1 83 C1 12 56
+---FEED-SEPARATOR---
+42E
+11523 V 7500
+4.2.2
+ID: TUR 112 MAIN
+Basketbol Süper Ligi
+Besiktas - Tofas
+CW: C9 36 4D 4C 5F 6B ED B7
 ---FEED-SEPARATOR---
 13E
 12610 V 7500
