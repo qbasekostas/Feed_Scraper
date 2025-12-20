@@ -143,3 +143,11 @@ CW: F0 EC 3D 19 86 7D 27 2A
 11496 V 7500
 4.2.2
 ID: E333 M
+---FEED-SEPARATOR---
+Hot Bird (13°E)
+12583 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: ASTERAS VS ARIS
+Event: 
+Greek Super League - Asteras VS Aris
+CW: BB 0D 5D 25 A5 E3 C9 51
