@@ -74,6 +74,21 @@ EUT7E DVBS2 8PSK H264 HD 4:2:0
 ID ITA 609 A
 BC 17 20 F3 25 20 12 57
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,90Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 17
+Teams: Real Oviedo vs Celta
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 14.00 CET
+FaDeL® said:
+CW: 8F ED 0C 88 77 15 7F 0B
+Click to expand...
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -143,6 +158,15 @@ CW: F0 EC 3D 19 86 7D 27 2A
 11496 V 7500
 4.2.2
 ID: E333 M
+---FEED-SEPARATOR---
+Mozzart Bet Superliga, Round 20
+FK Crvena zvezda vs FK Mladost Lučani
+Eutelsat 7B/7C @ 7.0E
+12633 V 4938
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: YSM-021M (DSNG)
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Hot Bird (13°E)
 12583 - V - 7200
