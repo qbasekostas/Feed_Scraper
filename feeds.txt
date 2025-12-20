@@ -1,3 +1,13 @@
+3. liga 
+Osnabruck
+ VS 
+Stuttgart II
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12702  Vertical  7201,79
+ID:  D-109 (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+CW: 20 12 EF 21 FE 22 15 35
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11187 Horizontal 9874,854
 ID: FFBL Hoffenheim (Adtec Digital)
@@ -6,15 +16,6 @@ Alemania
 Bundesliga - Femenina 
 TSG Hoffenheim VS FC Carl Zeiss Jena 
 CW: 20 12 DC 0E CA 29 01 F4
----FEED-SEPARATOR---
-Spain, LaLiga 
-Real Oviedo vs RC Celta de Vigo
-Eutelsat 10B @ 10.0E
-10732  Vertical  33999,708
-ID:OVERON 1 (OVERON)
-1920x1080 |84,284Mb/Sec |8PSK |4:2:2 HD
-1E D5 66 EE AD 6F CA 2A
-CW: 59 19 56 C8 E6 A2 6C F4
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
@@ -47,6 +48,24 @@ ID: OVERON 1
 LaLiga
  Levante  vs Real Sociedad
 CW: 59 19 56 C8 E6 A2 6C F4
+---FEED-SEPARATOR---
+Event: England Championship - Round 22
+Teams : Southampton 
+ Coventry
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12686 V 7120
+   Pitch Southampton v Coventry (NEP Connect)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 20 49 58 C1 83 C1 12 56
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3966 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI
+EFL Championship: Southampton v Coventry
+CW: 20 49 58 C1 83 C1 12 56
 ---FEED-SEPARATOR---
 13E
 12610 V 7500
