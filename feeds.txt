@@ -47,3 +47,15 @@ ID: OVERON 1
 LaLiga
  Levante  vs Real Sociedad
 CW: 59 19 56 C8 E6 A2 6C F4
+---FEED-SEPARATOR---
+13E
+12610 V 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Pinar Karsiyaka - Bahcesehir Koleji
+CW: F0 EC 3D 19 86 7D 27 2A
+42E
+11496 V 7500
+4.2.2
+ID: E333 M
