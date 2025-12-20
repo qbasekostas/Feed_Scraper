@@ -1,3 +1,12 @@
+Eutelsat 16A @ 16.0E
+11187 Horizontal 9874,854
+ID: FFBL Hoffenheim (Adtec Digital)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 H
+Alemania
+Bundesliga - Femenina 
+TSG Hoffenheim VS FC Carl Zeiss Jena 
+CW: 20 12 DC 0E CA 29 01 F4
+---FEED-SEPARATOR---
 Spain, LaLiga 
 Real Oviedo vs RC Celta de Vigo
 Eutelsat 10B @ 10.0E
