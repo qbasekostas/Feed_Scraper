@@ -320,6 +320,14 @@ ID:  Fi14_GNVE (EBUER)
 IEFA Conference League Recorded Highlights
 13 27 56 7B 9F B4 2E 0E  #CW:64 11 AE 23 7E 0B 6C F5 
 ---FEED-SEPARATOR---
+10E
+10721 H 7200
+4.2.2
+ID: SELENIO 1
+Lega Basket Serie A
+Cantu - Milano
+CW: B2 DE 5A EA 9D 62 92 91
+---FEED-SEPARATOR---
 omid1348 said:
 			42E
 10983 V 7500
