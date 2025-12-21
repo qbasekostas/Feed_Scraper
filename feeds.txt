@@ -26,6 +26,38 @@ DVB-S2 - 1080P - 8PSK
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Event :Italy Super Cup - Final
+22.12.2025 21:00
+Teams :Napoli 
+ Bologna
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11503 H 14400
+ ITA-630 GFX ENG (Alamiya)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+32.396
+  Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: 31 C5 7C 72 89 91 EA 04
+---FEED-SEPARATOR---
+Event :Italy Super Cup - Final
+22.12.2025 21:00
+Teams :Napoli 
+ Bologna 
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11688 H 14400
+ PGM LEGA MAIN (Alamiya)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.396 
+ Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: BB D9 E6 7A 25 B8 7A 57
+---FEED-SEPARATOR---
 10.0°E
 11260 H 9600
 4:2:2
@@ -237,8 +269,6 @@ ID: OVERON 1
 LaLiga
  Villarreal  vs Barcelona
 CW: 5E D7 4F 84 E5 DA 04 C3
----FEED-SEPARATOR---
-delet
 ---FEED-SEPARATOR---
 Scottish Premiership - Week 18
 Hearts vs. Rangers
