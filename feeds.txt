@@ -56,6 +56,13 @@ Serie B
 Virtus Entella - FC Südtirol
 CW: BC 17 20 F3 25 20 12 57
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3985 V 7500
+ID: CHINA+1
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+65 5B 44 FC A8 9B B2 56  #CW:6B B0 47 62 71 EC 82 DF   
+Villarreal vs Barcelona
+---FEED-SEPARATOR---
 Event :Spain LaLiga - Round 17
 Event :SpainLaLiga2 - Round 19
 Teams : Girona 
