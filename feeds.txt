@@ -1,3 +1,12 @@
+Germany2. Bundesliga, Round 17
+Eintracht Braunschweig vs FC Schalke 04
+Eutelsat 16A @ 16.0E
+10975 H 3600
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: Fal4 Enc1
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
