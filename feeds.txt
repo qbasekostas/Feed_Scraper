@@ -1,3 +1,11 @@
+28.2E
+12702 v 7200
+ID: D-109 (rt1.tv)
+4:2:0
+3. liga
+TSV Havelse v Alemannia Aachen
+CW: 21 12 BE F1 BB 54 68 77
+---FEED-SEPARATOR---
 Germany2. Bundesliga, Round 17
 Eintracht Braunschweig vs FC Schalke 04
 Eutelsat 16A @ 16.0E
@@ -6,6 +14,25 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+11164 V 7500
+DVB-S2/8PSK (4:2:0)
+ID:
+ ITA864A
+Serie B
+Event: 
+Virtus Entella vs Sudtirol
+CW: BC 17 20 F3 25 20 12 57
+---FEED-SEPARATOR---
+10E
+11259 H 9600
+11272 H 9600
+4.2.2
+ID: ITA396 main / ITA396 Cam1
+Serie B
+Virtus Entella - FC Südtirol
+CW: BC 17 20 F3 25 20 12 57
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
