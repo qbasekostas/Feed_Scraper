@@ -1,0 +1,32 @@
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR MENA 1
+LaLiga
+Villarreal vs Barcelona
+found CW: 
+FA CF F7 C0 01 26 98 BF
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR MENA 2
+LaLiga 
+Villarreal  vs Barcelona
+CW: 5C BB 37 4E 68 B9 CA EB
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+LaLiga 
+Girona vs Atletico Madrid
+CW: D0 3A CF D9 2C 37 04 67
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+LaLiga
+ Villarreal  vs Barcelona
+CW: 5E D7 4F 84 E5 DA 04 C3
