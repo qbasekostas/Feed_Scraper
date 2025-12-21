@@ -15,6 +15,20 @@ DVB-S2 - 1080P - 8PSK
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Event:Italy Super Cup - Final
+Teams :Napoli 
+ Bologna
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11664 H 7200
+ PGM LEGA MAIN (Alamiya)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+16.680 
+Mbit/Sec|8PSK DVB-S2 HD
+CW: BB D9 E6 7A 25 B8 7A 57
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 11164 V 7500
 DVB-S2/8PSK (4:2:0)
@@ -33,6 +47,43 @@ ID: ITA396 main / ITA396 Cam1
 Serie B
 Virtus Entella - FC Südtirol
 CW: BC 17 20 F3 25 20 12 57
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,00Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 17
+Teams: Girona FC vs Atlético de Madrid
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 14.00 CET
+FaDeL® said:
+#CW:
+D0 3A CF D9 2C 37 04 67
+Click to expand...
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+ID: OVERON 3
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+28 D7 4D 31 A6 9F 46 52  #CW:AE 1F A3 70 BB A7 79 DB   
+Villarreal vs Barcelona
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+ID: OVERON 4
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+CW :  F5 6F CC 30 27 8C 2E E1
+Girona vs Atletico Madrid
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3925 V 7500
+ID: CHINA+2
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+32 AA 1D B7 91 4A 0B 9B  #CW:6E E2 FC 4C 1D 5B 9E 16   
+Girona vs Atletico Madrid
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11552 V 19200 | 4:2:2 | 8PSK
@@ -162,6 +213,15 @@ Anadolu Efes
 Galatasaray
 1D 1D 86 15 DB BE 9F 44  #CW: 
 30 38 48 B0 25 CF 46 3A
+---FEED-SEPARATOR---
+ABA Liga, Group A, Round 11
+KK SC Derby vs BC Dubai
+Eutelsat 7B/7C @ 7.0E
+12633 V 4936
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:   YSM-021M (DSNG)
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Eutelsat 7B @ 7.0°E
 Fréq:11106- H - 7200
