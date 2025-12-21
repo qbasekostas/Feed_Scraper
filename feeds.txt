@@ -1,8 +1,0 @@
-EUTELSAT 10A (10°E)
-Fréq:10731 - V - 34000
-MPEG 4 - 4:2:0 - DVB-S2
-ID: LIGA HYPERMOTION 1
-LALIGA 2
-Granada Vs Absences
-found CW: 
-EF 74 C2 25 55 83 60 38
