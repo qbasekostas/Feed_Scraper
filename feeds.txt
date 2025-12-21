@@ -200,6 +200,17 @@ LaLiga
  Villarreal  vs Barcelona
 CW: 5E D7 4F 84 E5 DA 04 C3
 ---FEED-SEPARATOR---
+Scottish Premiership - Week 18
+Hearts vs. Rangers
+Eutelsat 7B/7C @ 7.0°E
+12677 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 8
+CW: 5C C1 DE FB  DE 43 12 33
+---FEED-SEPARATOR---
 England - EFL Championship Highlights
 Asiasat 5 (100.5°E) C BAND
 3966 V 7119
