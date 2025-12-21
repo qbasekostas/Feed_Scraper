@@ -154,6 +154,22 @@ Serie B
 Virtus Entella - FC Südtirol
 CW: BC 17 20 F3 25 20 12 57
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,97Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 17
+Teams: Elche CF vs Rayo Vallecano
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
+Dani Sat said:
+CW: C2 3D 2B 2A 10 2F 52 91
+Click to expand...
+Sorry for the good usual screenshot, miss the moment 
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 17
 Real Betis vs. Getafe
 Eutelsat 10B @ 10.0°E
