@@ -1,0 +1,13 @@
+USA, NBA
+Cleveland Cavaliers
+vs. 
+Charlotte Hornets
+New York Knicks
+ vs. 
+Miami Heat
+​
+Eutelsat 7B-7C   @ 7.0E
+10996  Vertical  7202,104
+ID:  WSHT ENC55 (EBUER)
+1920x1080 |16,053Mb/Sec |8PSK |4:2:0 HD
+CW: 67 91 F4 EC 27 38 B3 12
