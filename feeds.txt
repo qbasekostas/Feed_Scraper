@@ -180,7 +180,7 @@ Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
 Dani Sat said:
 CW: C2 3D 2B 2A 10 2F 52 91
 Click to expand...
-Sorry for the good usual screenshot, miss the moment 
+Sorry for the usual good screenshot, I missed the moment 
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 17
 Real Betis vs. Getafe
@@ -350,6 +350,21 @@ ID: OVERON 1
 LaLiga
  Villarreal  vs Barcelona
 CW: 5E D7 4F 84 E5 DA 04 C3
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,19Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 17
+Teams: Real Betis vs Getafe CF
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+Dani Sat said:
+CW: 5B 82 16 F3 19 55 86 F4
+Click to expand...
 ---FEED-SEPARATOR---
 Scottish Premiership - Week 18
 Hearts vs. Rangers
