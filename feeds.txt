@@ -143,6 +143,17 @@ Serie B
 Virtus Entella - FC Südtirol
 CW: BC 17 20 F3 25 20 12 57
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 17
+Elche vs. Rayo Vallecano
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: C2 3D 2B 2A 10 2F 52 91
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
