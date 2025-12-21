@@ -155,6 +155,17 @@ Virtus Entella - FC Südtirol
 CW: BC 17 20 F3 25 20 12 57
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 17
+Real Betis vs. Getafe
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 5B 82 16 F3 19 55 86 F4
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 17
 Elche vs. Rayo Vallecano
 Eutelsat 10B @ 10.0°E
 10732 - V - 34000 
@@ -363,6 +374,14 @@ Anadolu Efes
 Galatasaray
 1D 1D 86 15 DB BE 9F 44  #CW: 
 30 38 48 B0 25 CF 46 3A
+---FEED-SEPARATOR---
+42E
+10983 V 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Manisa - Petkim Spor
+CW: 74 E5 A0 F9 A2 68 F5 FF
 ---FEED-SEPARATOR---
 42E
 11523 V 7500
