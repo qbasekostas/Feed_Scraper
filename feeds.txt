@@ -34,6 +34,30 @@ Serie B
 Virtus Entella - FC Südtirol
 CW: BC 17 20 F3 25 20 12 57
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11552 V 19200 | 4:2:2 | 8PSK
+ID: SUPPONOR EASTERN 2
+Event: 
+LaLiga
+Villarreal vs Barcelona
+CW: 78 64 C4 A0 62 23 53 D8
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11552 V 19200 | 4:2:0 | 8PSK
+ID: LIGA HYPERMOTION 1
+Event: 
+Spanish La Liga 2 - Week 19
+Málaga v Almería
+CW: EF 74 C2 25 55 83 60 38
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11552 V 19200 | 4:2:2 | 8PSK
+ID: SUPPONOR EASTERN 1
+Event: 
+LaLiga
+Villarreal vs Barcelona
+CW: 9A 09 82 25 C1 44 E8 ED
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10768 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -138,6 +162,14 @@ Anadolu Efes
 Galatasaray
 1D 1D 86 15 DB BE 9F 44  #CW: 
 30 38 48 B0 25 CF 46 3A
+---FEED-SEPARATOR---
+Eutelsat 7B @ 7.0°E
+Fréq:11106- H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: Fi01_ACB
+Liga ACB 
+ Barcelona vsClub Joventut Badalona
+CW: 77 20 69 00 BD B6 5B CE
 ---FEED-SEPARATOR---
 10E
 10721 H 7200
