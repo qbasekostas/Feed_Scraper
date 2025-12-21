@@ -1,3 +1,15 @@
+fil1 said:
+			28.2E
+12702 v 7200
+ID: D-109 (rt1.tv)
+4:2:0
+3. liga
+TSV Havelse v Alemannia Aachen
+CW: 21 12 BE F1 BB 54 68 77
+Click to expand...
+active again
+Viktoria Cologne v Duisburg
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 15
 Heidenheim vs. Bayern Munich
 Eutelsat 7B/7C @ 7.0°E
@@ -431,6 +443,13 @@ ID: SELENIO 2
 Lega Basket Serie A
 Dinamo Sassari - Trapani
 CW: D4 9D 82 F3 5B 2A 7E 03
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 15
+AEK vs OFI
+13
+10838 V 7200
+ID: AEK VS OFI A
+CW: A6 57 6F 6C D1 27 E1 D9
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 15
 PAOK vs Panathinaikos
