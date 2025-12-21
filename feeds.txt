@@ -8,6 +8,37 @@ ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR AFRICA 2
+LaLiga
+Villarreal vs Barcelona
+CW: F0 1C 95 A1 64 89 31 1E
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10767 V 34000 | 4:2:2 | 8PSK
+ID: SUPPONOR RUSIA 2
+Event: LaLiga
+Villarreal vs Barcelona
+CW: 81 1D 9B 39 F7 C2 6A 23
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10767 V 34000 | 4:2:2 | 8PSK
+ID: SUPPONIR RUSIA 1
+Event: 
+LaLiga
+Villarreal vs Barcelona
+CW: BC 29 C1 A6 68 A2 2F 39
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+10767 V 34000 | 4:2:2 | 8PSK
+ID: SUPPONOR AFRICA 1
+Event: 
+LaLiga
+Villarreal vs Barcelona
+CW: D2 CE 45 E5 58 54 4E FA
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
 ID: SUPPONOR MENA 1
