@@ -33,7 +33,7 @@ CW: 5E D7 4F 84 E5 DA 04 C3
 ---FEED-SEPARATOR---
 England - EFL Championship Highlights
 Asiasat 5 (100.5°E) C BAND
-3933 H 7119
+3966 V 7119
 DVB-S2 - 1080P - 8PSK
 4:2:0
 ID:BT_SES_22_SDI
