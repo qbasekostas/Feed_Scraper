@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 15
+Mainz 05 vs. St Pauli
+Eutelsat 7B/7C @ 7.0°E
+11021 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi03
+CW: 79 A3 D7 F3 CC 08 9A 6E
+---FEED-SEPARATOR---
 28.2E
 12702 v 7200
 ID: D-109 (rt1.tv)
@@ -14,6 +25,30 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+10.0°E
+11260 H 9600
+4:2:2
+ID: ITA396 main
+11272 H 9600
+4:2:2
+ID: ITA396 Cam1
+CW: BC 17 20 F3 25 20 12 57
+Serie BKT: Virtus Entella - Sudtirol
+---FEED-SEPARATOR---
+7.0°E
+11665 H 7200
+4:2:2
+ID: PGM LEGA MAIN
+CW: BB D9 E6 7A 25 B8 7A 57
+About EA Sport Italian Super Cup Final
+---FEED-SEPARATOR---
+7.0°E
+11164 V 7500
+4:2:0
+ID: ITA864A
+CW: BC 17 20 F3 25 20 12 57
+Serie BKT: Virtus Entella - Sudtirol
 ---FEED-SEPARATOR---
 21.6E
 12510 V 7200
@@ -62,25 +97,6 @@ ID: CHINA+1
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
 65 5B 44 FC A8 9B B2 56  #CW:6B B0 47 62 71 EC 82 DF   
 Villarreal vs Barcelona
----FEED-SEPARATOR---
-Event :Spain LaLiga - Round 17
-Event :SpainLaLiga2 - Round 19
-Teams : Girona 
- Atl. Madrid
-Teams : Austria 
- Bosnia & Herzegovina
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-11550 V 19200
- SUPPONOR EASTERN 1
- SUPPONOR EASTERN 2
- LIGA HYPERMOTION 1
-MPEG4-4:2:2 HD 1920x1080 |
-47.594
- Mbit/Sec|8PSK DVB-S2 HD
-CW: 9A 09 82 25 C1 44 E8 ED
-CW: 78 64 C4 A0 62 23 53 D8
-CW: E2 E0 DF A1 AF BD C2 2E
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
