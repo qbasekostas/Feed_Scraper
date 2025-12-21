@@ -31,6 +31,16 @@ LaLiga
  Villarreal  vs Barcelona
 CW: 5E D7 4F 84 E5 DA 04 C3
 ---FEED-SEPARATOR---
+Event: 
+England - EFL Championship
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12727 V 7120
+    PITCH Pitch Highlights Show 25/26 (NEP Connect)
+MPEG4-4:2:0 HD 1920x1080 |15.856 Mbit/Sec | 8PSK | DVB-S2 HD
+E0 2F 43 73 B6 27 D7 A5  
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
 42e
 11496 V 7500
 4:2:2
