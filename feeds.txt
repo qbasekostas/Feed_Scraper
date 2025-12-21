@@ -26,6 +26,26 @@ DVB-S2 - 1080P - 8PSK
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Italian Super Cup (Supercoppa) - FINAL
+Napoli vs. Bologna
+Dani Sat said:
+Eutelsat 7B/7C @ 7.0°E
+11190 - H - 2500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Service_02
+CW: 54 AC B2 B2 87 4C C8 9B
+11193 - H - 2500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Service_01
+CW: 67 FC C2 25 89 2D C8 7E
+Click to expand...
+---FEED-SEPARATOR---
 Event :Italy Super Cup - Final
 22.12.2025 21:00
 Teams :Napoli 
