@@ -30,3 +30,14 @@ ID: OVERON 1
 LaLiga
  Villarreal  vs Barcelona
 CW: 5E D7 4F 84 E5 DA 04 C3
+---FEED-SEPARATOR---
+42e
+11496 V 7500
+4:2:2
+ID: 
+beIN SNG 2 Backup
+Turkey Superlig
+Anadolu Efes
+Galatasaray
+1D 1D 86 15 DB BE 9F 44  #CW: 
+30 38 48 B0 25 CF 46 3A
