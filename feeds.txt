@@ -1,4 +1,15 @@
 German 1. Bundesliga - Week 15
+Heidenheim vs. Bayern Munich
+Eutelsat 7B/7C @ 7.0°E
+11009 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi04
+CW: C1 B4 6A DF 6F 19 BA 42
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 15
 Mainz 05 vs. St Pauli
 Eutelsat 7B/7C @ 7.0°E
 11021 - H - 9875 
