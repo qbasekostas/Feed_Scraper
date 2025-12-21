@@ -15,6 +15,14 @@ DVB-S2 - 1080P - 8PSK
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+21.6E
+12510 V 7200
+4.2.2
+ID: PGM LIGA BACKUP
+Supercoppa Italiana
+SSC Napoli - Bologna FC 1909
+CW: 25 64 E7 70 98 B5 72 BF
+---FEED-SEPARATOR---
 Event:Italy Super Cup - Final
 Teams :Napoli 
  Bologna
@@ -47,6 +55,25 @@ ID: ITA396 main / ITA396 Cam1
 Serie B
 Virtus Entella - FC Südtirol
 CW: BC 17 20 F3 25 20 12 57
+---FEED-SEPARATOR---
+Event :Spain LaLiga - Round 17
+Event :SpainLaLiga2 - Round 19
+Teams : Girona 
+ Atl. Madrid
+Teams : Austria 
+ Bosnia & Herzegovina
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11550 V 19200
+ SUPPONOR EASTERN 1
+ SUPPONOR EASTERN 2
+ LIGA HYPERMOTION 1
+MPEG4-4:2:2 HD 1920x1080 |
+47.594
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 9A 09 82 25 C1 44 E8 ED
+CW: 78 64 C4 A0 62 23 53 D8
+CW: E2 E0 DF A1 AF BD C2 2E
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
@@ -213,6 +240,14 @@ Anadolu Efes
 Galatasaray
 1D 1D 86 15 DB BE 9F 44  #CW: 
 30 38 48 B0 25 CF 46 3A
+---FEED-SEPARATOR---
+42E
+11523 V 7500
+4.2.2
+ID: TUR- 119 Backup
+Basketbol Süper Ligi
+Bursaspor - Mesin BSB
+CW: E4 30 F6 0A FB 6E 38 A1
 ---FEED-SEPARATOR---
 ABA Liga, Group A, Round 11
 KK SC Derby vs BC Dubai
