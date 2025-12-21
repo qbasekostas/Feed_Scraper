@@ -60,6 +60,16 @@ MPEG4-4:2:0 HD 1920x1080 |15.856 Mbit/Sec | 8PSK | DVB-S2 HD
 E0 2F 43 73 B6 27 D7 A5  
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+International, ABA Liga, Group B 
+KK Mega Basket Belgrade
+vs. 
+KK Cedevita Olimpija Ljubljana
+Eutelsat 7B-7C   @ 7.0E
+12639  Vertical  4937,913
+ID: YSM-013M   (YSM-13M   )
+1920x1080 |11,005Mb/Sec |8PSK |4:2:0 HD
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 42e
 11496 V 7500
 4:2:2
@@ -70,3 +80,11 @@ Anadolu Efes
 Galatasaray
 1D 1D 86 15 DB BE 9F 44  #CW: 
 30 38 48 B0 25 CF 46 3A
+---FEED-SEPARATOR---
+10E
+10721 H 7200
+4.2.2
+ID: SELENIO 2
+Lega Basket Serie A
+Dinamo Sassari - Trapani
+CW: D4 9D 82 F3 5B 2A 7E 03
