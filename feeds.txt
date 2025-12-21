@@ -396,3 +396,10 @@ ID: SELENIO 2
 Lega Basket Serie A
 Dinamo Sassari - Trapani
 CW: D4 9D 82 F3 5B 2A 7E 03
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 15
+PAOK vs Panathinaikos
+13e
+12601 V 7200
+ID: SNG ABC 1
+CW: D1 C6 F1 88 66 DC 38 7A
