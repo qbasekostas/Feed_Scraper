@@ -8,6 +8,15 @@ Bayer Leverkusen
 vs. 
 Bayern Munich​
 ---FEED-SEPARATOR---
+Italy, Serie C, Girone A
+Union Brescia vs.Inter Milano U23
+​
+Eutelsat 7B-7C   @ 07.0E
+11123 V 7201
+ID: ITA360_1 (VIDEOSYSTEM.TV)
+1920x1080 |15,680Mb/Sec |8PSK |4:2:0 HD
+44 C6 37 4D E5 97 25 9D  #CW:FA 86 1C 9C 7C 9D 03 1C 
+---FEED-SEPARATOR---
 ITALIAN SUPERCUP
 NAPOLI vs BOLOGNA
 EUT7E S2 8PSK HD H264 4:2:2
