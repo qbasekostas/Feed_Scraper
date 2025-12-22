@@ -8,6 +8,13 @@ ID: OVERON 1 (OVERON)
 1920x1080 |84,284Mb/Sec |8PSK |4:2:2 HD
 CW: 96 16 CD 79 49 3B 8F 13
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+12633 V 4938
+ID:Medialink CRO-025/1 (Medialink)
+1920x1080 |10,750Mb/Sec |8PSK |4:2:0 HD
+International, ABA Liga, Group AKK Krka Novo Mestovs. KK Partizan Nis Belgrad
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 USA, NBA
 Cleveland Cavaliers
 vs. 
