@@ -42,6 +42,17 @@ ID: OVERON 1 (OVERON)
 1920x1080 |84,284Mb/Sec |8PSK |4:2:2 HD
 CW: 96 16 CD 79 49 3B 8F 13
 ---FEED-SEPARATOR---
+Italy, Lega A Basket, Round 12
+Virtus Bologna vs Germani Brescia
+Eutelsat 10A @ 10.0°E
+10721 - H - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 13.90 Mbit/s
+ID: SELENIO 3
+CW: 94 29 47 04 57 2D B8 3C
+---FEED-SEPARATOR---
 Serbia, AdmiralBet KLS, Round 12
 KK Metalac vs KK Dynamic Belgrade
 Eutelsat 7A/7B/7C @ 7.0°E
