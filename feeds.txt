@@ -8,6 +8,14 @@ Bayer Leverkusen
 vs. 
 Bayern Munich​
 ---FEED-SEPARATOR---
+7E
+11524 H 9800
+4.2.2
+ID: ITA-630 MAIN MEDIASET DR
+Supercoppa Italiana
+SSC Napoli - Bologna FC 1909
+CW: 1A B7 21 F2 12 45 7B D2
+---FEED-SEPARATOR---
 Italy, Serie C, Girone A
 Union Brescia vs.Inter Milano U23
 ​
