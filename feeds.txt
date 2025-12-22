@@ -32,6 +32,21 @@ EUT7E S2 8PSK HD H264 4:2:2
 ID: PGM LEGA MAIN
 BB D9 E6 7A 25 B8 7A 57
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,99Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 17
+Teams: Athletic Club vs RCD Espanyol
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+faisal6 said:
+CW: 96 16 CD 79 49 3B 8F 13
+Click to expand...
+---FEED-SEPARATOR---
 Spain, LaLiga
 Athletic Bilbao
  vs. 
