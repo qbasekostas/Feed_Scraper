@@ -1,3 +1,13 @@
+Eutelsat 16A @ 16.0E
+11061  Horizontal  9875,212
+ID:    FFBL B. Leverkusen (Adtec Digital)
+1920x1080 |22,011Mb/Sec |8PSK |4:2:0 HD
+69 C3 32 61 B0 DD EB 64  #CW:22 12 FA 2E BB 29 01 E5
+Germany Amateur, Bundesliga, Women
+Bayer Leverkusen
+vs. 
+Bayern Munich​
+---FEED-SEPARATOR---
 ITALIAN SUPERCUP
 NAPOLI vs BOLOGNA
 EUT7E S2 8PSK HD H264 4:2:2
@@ -14,6 +24,31 @@ Eutelsat 10B @ 10.0E
 ID: OVERON 1 (OVERON)
 1920x1080 |84,284Mb/Sec |8PSK |4:2:2 HD
 CW: 96 16 CD 79 49 3B 8F 13
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+12639 V 4937
+ID: ROU-051 MAIN (STUDIO VIDEO ART)
+1920x1080 |10,750Mb/Sec |8PSK |4:2:0 HD
+CW: AB BA 20 85 25 20 26 6B
+International, ABA Liga, Group A
+CS Universitatea Cluj-Napoca
+vs. 
+Kk Split​
+---FEED-SEPARATOR---
+Turkiye, TBSLEsenler Erokspor vs. Buyukcekmece Basketbol
+Hot Bird 13B/13C/13E @ 13.0E
+12610  Vertical  7502,148
+ID: TUR 112 MAIN (MEDÄ°APRO TURKEY)
+1920x1080 |16,722Mb/Sec |8PSK |4:2:2 HD
+CW: 5C 5F A2 5D CD 3C A7 B0
+---FEED-SEPARATOR---
+42°E 
+11505 V 7500
+DVB-S2|1080HD
+4.2.2|H264
+ID: TUR 112 MAIN
+Event: Basketbol Super Ligi Esenler Erokspor Vs buykcekmece
+CW: 5C 5F A2 5D CD 3C A7 B0
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 12633 V 4938
