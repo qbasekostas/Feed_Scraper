@@ -1,3 +1,32 @@
+.
+---FEED-SEPARATOR---
+28.2E
+12725 H 7200 
+4:2:0
+DVBS-2 8PSK
+ID: UKI-1797 ITV Backup Carabao Cup 
+Arsenal vs CP
+CW: 5C C4 1A 3A B2 1D 24 F3
+English League Cup - Quarter Final
+Arsenal vs Crystal Palace
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3906 H 7120
+ID: BT_SES_24_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+C9 92 7C 5A 44 D4 A7 6C  #CW:
+34 21 DC 31 CD 24 42 33
+Arsenal vs Crystal Palace
+---FEED-SEPARATOR---
+Euroleague, Round 18
+BC Dubai vs EA7 Emporio Armani Milano
+Eutelsat 7A/7B/7C @ 7.0°E
+11078 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.80 Mbit/s
+ID: Main
+CW: 57 15 CA 36 96 DF 67 DC
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 12542 V 7200
 ID: BB Chemnitz (Adtec Digital)
