@@ -1,3 +1,11 @@
+Eutelsat 7A/B @7.0°E
+Fréq:12676 - V - 7120
+MPEG 4 - 4:2:0 - DVB-S2
+ID:    Carabao Cup Arseenal v Crys Pal (NEP Connect)
+English League Cup - Quarter Final
+Arsenal vs Crystal Palace
+CW: 34 21 DC 31 CD 24 42 33
+---FEED-SEPARATOR---
 28.2E
 12725 H 7200 
 4:2:0
@@ -15,6 +23,15 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 C9 92 7C 5A 44 D4 A7 6C  #CW:
 34 21 DC 31 CD 24 42 33
 Arsenal vs Crystal Palace
+---FEED-SEPARATOR---
+Euroleague, Round 18
+Paris Basketball vs KK Crvena zvezda
+Eutelsat 7A/7B/7C @ 7.0°E
+11105 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.02 Mbit/s
+ID: F419_MAIN
+CW: C8 BC 64 E8 A3 C1 11 75
 ---FEED-SEPARATOR---
 Euroleague, Round 18
 BC Dubai vs EA7 Emporio Armani Milano
@@ -51,3 +68,10 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:  E351 Spanish Graph Main
 CW: F8 14 A9 B5 22 F5 A1 B8
+---FEED-SEPARATOR---
+Eutelsat 7B-7C   @ 07.0E
+11070 H 7201
+ASVEL Lyon Villeurbanne vs. Anadolu Efes SK
+ID: IMG A EU (Eurovision Services)
+1920x1080 |15,680Mb/Sec |8PSK |4:2:0 HD
+CW: E2 99 71 EC 38 BB 1A 0D
