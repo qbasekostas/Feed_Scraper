@@ -1,0 +1,8 @@
+Euroleague, Round 18
+Valencia Basket vs Saski Baskonia
+Eutelsat 7B/7C @ 7.0E
+11089 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  E351 Spanish Graph Main
+CW: F8 14 A9 B5 22 F5 A1 B8
