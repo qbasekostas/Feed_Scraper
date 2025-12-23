@@ -1,3 +1,21 @@
+Eutelsat 7B-7C   @ 07.0E
+12542 V 7200
+ID: BB Chemnitz (Adtec Digital)
+1920x1080 |15,680Mb/Sec |8PSK |4:2:0 HD
+30 4A DC 7D 78 F2 C2 66  #CW:BB EE 23 CC 12 20 25 57
+Bayern Munich
+Hapoel Tel-Aviv
+---FEED-SEPARATOR---
+Romania, Cupa Romaniei
+Csm Targu Mures
+CSU Sibiu
+​
+Intelsat 10-02 @ 1.0W
+12541  Vertical  6659,863
+ID:B115DGS (Digi B)
+1920x1080 |14,843Mb/Sec |8PSK |4:2:0 HD
+CW: 23 12 20 55 25 AB C2 92
+---FEED-SEPARATOR---
 Euroleague, Round 18
 Valencia Basket vs Saski Baskonia
 Eutelsat 7B/7C @ 7.0E
