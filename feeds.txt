@@ -1,0 +1,14 @@
+Eutelsat 7B-7C   @ 07.0E
+10969 H 7121
+ID:Carabao Cup R5 Highlights (NEP Connect)
+1920x1080 |14,100Mb/Sec |8PSK |4:2:0 HD
+event: Carabao Cup R5 Highlights
+CW: 22 11 DC 0F CD 24 21 12
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3933 H 7120
+ID: BT_SES_24_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+found CW: 
+22 11 DC 0F CD 24 21 12 
+English League Cup Highlights
