@@ -1,7 +1,0 @@
-AsiaSat 5 - 100.5 E - CBand
-TP : 3933 H 7120
-ID: BT_SES_24_SDI
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-found CW: 
-22 11 DC 0F CD 24 21 12 
-English League Cup Highlights
