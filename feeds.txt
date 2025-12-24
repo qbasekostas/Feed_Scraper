@@ -12,3 +12,11 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 found CW: 
 22 11 DC 0F CD 24 21 12 
 English League Cup Highlights
+---FEED-SEPARATOR---
+7°E
+12633 V 4936
+DVB-S2|1080HD
+4.2.0|H264
+ID: YSM-021M
+Event: ABA League 2 SUT (Sutjeska Elektroprivreda) vs. JAH (Jahorina Pale)
+CW: AB BA 20 85 25 20 26 6B
