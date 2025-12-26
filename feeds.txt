@@ -1,3 +1,16 @@
+English Championship - Week 23
+Birmingham City vs. Derby County
+Eutelsat 7B/7C @ 7.0°E
+12727 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: EFL Birmingham v Derby County
+HBO said:
+CW: FB 64 B3 12 23 63 44 CA
+Click to expand...
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3966 V 7120
 ID: BT_SES_22_SDI
