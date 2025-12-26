@@ -55,6 +55,16 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 93 2F FB 82 06 34 C8 7F  #CW:FB 64 B3 12 23 63 44 CA   #[E] PID:07D1h
 Birmingham City vs Derby County
 ---FEED-SEPARATOR---
+Championship
+Wrexham Vs Sheffield Utd
+100.5°E C
+@ AsiaSat 5
+3966 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_22_SDI
+CW: 98 74 DE EA 35 35 78 E2
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11460 V 7500  | 4:2:0 | 8PSK
 ID:
