@@ -43,3 +43,10 @@ ID: BT_SES_22_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 93 2F FB 82 06 34 C8 7F  #CW:FB 64 B3 12 23 63 44 CA   #[E] PID:07D1h
 Birmingham City vs Derby County
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11460 V 7500  | 4:2:0 | 8PSK
+ID:
+ MAIN
+Event: ABA Basket League
+CW: AB BA 20 85 25 20 26 6B
