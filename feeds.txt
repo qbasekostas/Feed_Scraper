@@ -55,6 +55,14 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 93 2F FB 82 06 34 C8 7F  #CW:FB 64 B3 12 23 63 44 CA   #[E] PID:07D1h
 Birmingham City vs Derby County
 ---FEED-SEPARATOR---
+Premier League - Round 18
+Manchester Utd-Newcastle
+Eutelsat 7A/7B/7C 7.0E
+11513 V 6665
+4.2.0 HD  DVB-S2 - 1080P - 8PSK
+ID: Bein Man Utd v Newcastle (NEP Connec
+CW: BA CD 54 DB 87 18 DC 7B
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12694 V 7119
 DVB-S2 - 1080P - 8PSK
