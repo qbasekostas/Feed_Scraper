@@ -82,7 +82,18 @@ Eutelsat 7B-7C @ 07.0E
 ID:
  MAIN
 Event: ABA Basket League
+Dubai v KK Krka Novo mesto
 CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12594 V  9600
+ID: 
+POL 058_T2
+Event: 
+Polish Men's Basketball: ORLEN Basket Liga - match: WKS Śląsk Wrocław - Anwil Włocławek
+4.2.2
+- DVB-S2 - 8PSK
+🗝: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
 Türksat 5A @ 30.9° E
 TP: 10967 H 7500
@@ -97,13 +108,3 @@ Tofas — Bahcesehir Koleji
 and
 Hot Bird 13F / Hot Bird 13G @ 13° E
 12592 V 7500
----FEED-SEPARATOR---
-Super Saiyan said:
-			Eutelsat 7B-7C @ 07.0E
-11460 V 7500  | 4:2:0 | 8PSK
-ID:
- MAIN
-Event: ABA Basket League
-CW: AB BA 20 85 25 20 26 6B
-Click to expand...
-Dubai v KK Krka Novo mesto
