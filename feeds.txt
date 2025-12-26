@@ -72,6 +72,20 @@ ID:
 Event: ABA Basket League
 CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
+Türksat 5A @ 30.9° E
+TP: 10967 H 7500
+MPEG 4 - 
+4:2:0
+DVB-S2 - 1080P - 8PSK
+ID: 
+ E333M
+CW: D1 6E 8B CA B5 4C 53 54
+Basketball - Turkey Superleague
+Tofas — Bahcesehir Koleji
+and
+Hot Bird 13F / Hot Bird 13G @ 13° E
+12592 V 7500
+---FEED-SEPARATOR---
 Super Saiyan said:
 			Eutelsat 7B-7C @ 07.0E
 11460 V 7500  | 4:2:0 | 8PSK
