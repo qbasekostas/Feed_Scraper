@@ -1,3 +1,29 @@
+Championship
+Middlesbrough Vs Blackburn Rovers
+                   or
+League Two 
+Chesterfield Vs Notts County
+100.5°E C
+@ AsiaSat 5
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_14_SDI
+CW: 23 BB 47 25 82 EF D4 45
+---FEED-SEPARATOR---
+Championship
+Middlesbrough Vs Blackburn Rovers
+                    or
+League Two 
+Chesterfield Vs Notts County
+100.5°E C
+@ AsiaSat 5
+3975 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: DA A4 B6 34 93 0D 30 D0
+---FEED-SEPARATOR---
 English Championship - Week 23
 Birmingham City vs. Derby County
 Eutelsat 7B/7C @ 7.0°E
