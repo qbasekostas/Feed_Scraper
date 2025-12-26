@@ -1,0 +1,6 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+ID: BT_SES_22_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+93 2F FB 82 06 34 C8 7F  #CW:FB 64 B3 12 23 63 44 CA   #[E] PID:07D1h
+Birmingham City vs Derby County
