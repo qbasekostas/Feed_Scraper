@@ -85,6 +85,17 @@ Event: ABA Basket League
 Dubai v KK Krka Novo mesto
 CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
+SATELLITE Name : Eutelsat 7 (7.0°E)
+KU Band
+FREQUENCY: 11079H SR:7200
+DVB-S2 8PSK
+Format 4:2:0
+Event
+ EuroLeague
+Monaco - Real
+1080p HD FORMAT
+CW: CA EE 29 E1 29 67 25 B5
+---FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12594 V  9600
 ID: 
