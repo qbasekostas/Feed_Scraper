@@ -50,3 +50,13 @@ ID:
  MAIN
 Event: ABA Basket League
 CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Eutelsat 7B-7C @ 07.0E
+11460 V 7500  | 4:2:0 | 8PSK
+ID:
+ MAIN
+Event: ABA Basket League
+CW: AB BA 20 85 25 20 26 6B
+Click to expand...
+Dubai v KK Krka Novo mesto
