@@ -1,3 +1,20 @@
+Eutelsat 7B-7C @ 07.0E
+12686 V 7120 | 4:2:0 | 8PSK
+ID:Middlesbrough v blackburn
+English Championship - Week 23
+Middlesbrough v Blackburn Rovers
+Satfun2017 said:
+CW: 23 BB 47 25 82 EF D4 45
+Click to expand...
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12676 V 7120 | 4:2:0 | 8PSK
+ID:EFL Chesterfield v Notts Co
+Event: 
+English League Two - Week 22
+Chesterfield v Notts County
+CW: DA A4 B6 34 93 0D 30 D0
+---FEED-SEPARATOR---
 Championship
 Middlesbrough Vs Blackburn Rovers
                    or
