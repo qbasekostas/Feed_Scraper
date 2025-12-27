@@ -3,3 +3,12 @@ Eutelsat 7B-7C @ 07.0E
 ID: GVA_Fi01
 Event: Youth: ATM x JUV
 CW: C6 1A F7 D7 5D 53 13 C3
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12676 H 7200  | 4:2:0 | 8PSK
+ID:
+ GCUK Enc 1
+Event: 
+Scottish Premiership - Week 19
+Hibernian v Hearts
+CW: 65 FE EE 51 41 CD BB C9
