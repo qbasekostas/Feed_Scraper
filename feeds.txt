@@ -5,6 +5,15 @@ Event: Youth: ATM x JUV
 CW: C6 1A F7 D7 5D 53 13 C3
 ---FEED-SEPARATOR---
 7E
+12676 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: GCUK Enc 1
+CW: DE 56 CD 01 AA B1 B1 0C
+Scottish Premiership
+Aberdeen v Dundee United
+---FEED-SEPARATOR---
+7E
 12686 H 7200 
 4.2.0
 DVBS-2 8PSK
