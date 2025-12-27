@@ -110,6 +110,7 @@ CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Portugal LBP, Round 9
 Galitos Basquetebol vs Porto
+Eutelsat 7B/7C @ 7.0E
 11060 V 7200
 DVB-S2 - 1080P - 8PSK
 4.2.0
