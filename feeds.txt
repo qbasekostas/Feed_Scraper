@@ -4,6 +4,15 @@ ID: GVA_Fi01
 Event: Youth: ATM x JUV
 CW: C6 1A F7 D7 5D 53 13 C3
 ---FEED-SEPARATOR---
+7E
+12686 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: GCUK Enc2
+CW: 34 1A CD 1B CD E4 54 05
+Scottish Premiership
+Livingston vs Celtic
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12676 H 7200  | 4:2:0 | 8PSK
 ID:
@@ -12,3 +21,18 @@ Event:
 Scottish Premiership - Week 19
 Hibernian v Hearts
 CW: 65 FE EE 51 41 CD BB C9
+---FEED-SEPARATOR---
+Portugal LBP, Round 9
+Galitos Basquetebol vs Porto
+11060 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  E-073 (Mediapro Portugal)
+CW: 8C D6 45 A7 39 7D 2D E3
+---FEED-SEPARATOR---
+13.0°E
+11204 V 7500
+4:2:2
+ID: E333M
+CW: FF 4B 6A B4 64 43 91 38
+Basketbol Süper Ligi: Turk Telekom - Anadolu Efes
