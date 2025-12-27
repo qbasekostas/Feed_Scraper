@@ -22,6 +22,26 @@ Scottish Premiership - Week 19
 Hibernian v Hearts
 CW: 65 FE EE 51 41 CD BB C9
 ---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0E
+12632 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.02 Mbit/s
+ID: CRO-023/1
+CW: AB BA 20 85 25 20 26 6B
+Click to expand...
+ABA Liga, Group B, Round 12
+Ilirija vs BC Vienna
+---FEED-SEPARATOR---
+U23 BG LEAGUE
+FROM THE STREETS TO THE OLYMPICS
+Eutelsat 7B/7C @ 7.0E
+12657 V 4938
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  YSM-012 MAIN (DSNG)
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 fusillo said:
 			13.0°E
 11204 V 7500
