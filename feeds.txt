@@ -31,6 +31,14 @@ Scottish Premiership - Week 19
 Hibernian v Hearts
 CW: 65 FE EE 51 41 CD BB C9
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+10994 Vertical 4936,129 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-013M
+Serbia - First League - Round 13
+Joker vs KK Metalac
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0E
 12632 - V - 4938
