@@ -1,0 +1,5 @@
+Eutelsat 7B-7C @ 07.0E
+11104 H 9875 | 4:2:2 H265 | 8PSK
+ID: GVA_Fi01
+Event: Youth: ATM x JUV
+CW: C6 1A F7 D7 5D 53 13 C3
