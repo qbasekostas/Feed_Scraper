@@ -31,6 +31,22 @@ Scottish Premiership - Week 19
 Hibernian v Hearts
 CW: 65 FE EE 51 41 CD BB C9
 ---FEED-SEPARATOR---
+ABA Liga, Group B, Round 12
+KK Crvena zvezda vs KK Cedevita Olimpija
+Eutelsat 7A/7B/7C @ 7.0E
+12639 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.37 Mbit/s
+ID: YSM-016 MAIN
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+13.0°E
+11213 V 7500
+4:2:2
+ID: E 363 M03 M
+CW: FF 79 7B F3 D0 FA 4F 19
+Basketbol Süper Ligi: Galatasaray - Trabzonspor
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 10994 Vertical 4936,129 3/4
 DVB-S2/8PSK (4:2:0)
