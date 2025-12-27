@@ -22,6 +22,29 @@ Scottish Premiership - Week 19
 Hibernian v Hearts
 CW: 65 FE EE 51 41 CD BB C9
 ---FEED-SEPARATOR---
+fusillo said:
+			13.0°E
+11204 V 7500
+4:2:2
+ID: E333M
+CW: FF 4B 6A B4 64 43 91 38
+Basketbol Süper Ligi: Turk Telekom - Anadolu Efes
+Click to expand...
+42E
+10976 V 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Turk Telekom - Anadolu Efes
+CW: FF 4B 6A B4 64 43 91 38
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12632 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.02 Mbit/s
+ID: CRO-023/1
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Portugal LBP, Round 9
 Galitos Basquetebol vs Porto
 11060 V 7200
