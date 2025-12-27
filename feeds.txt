@@ -31,6 +31,16 @@ Scottish Premiership - Week 19
 Hibernian v Hearts
 CW: 65 FE EE 51 41 CD BB C9
 ---FEED-SEPARATOR---
+10e
+10721 H 7200
+4:2:2
+ID: SELENIO 1
+Lega A
+ITALY: 
+Trento
+Udine
+15 A3 DC 97 63 FA 41 20  #CW:36 AE 7F 63 B8 B6 65 D3
+---FEED-SEPARATOR---
 ABA Liga, Group B, Round 12
 KK Crvena zvezda vs KK Cedevita Olimpija
 Eutelsat 7A/7B/7C @ 7.0E
