@@ -8,8 +8,6 @@ Event:
 English League Two - Coventry City vs Ipswich Town
 ---FEED-SEPARATOR---
 Championship
-Wrexham Vs Preston N.E.
-                OR
 Birmingham Vs Southampton
 100.5°E C
 @ AsiaSat 5
@@ -31,8 +29,6 @@ CW: 83 44 F8 BF 83 88 24 2F
 ---FEED-SEPARATOR---
 Championship
 Wrexham Vs Preston N.E.
-                OR
-Birmingham Vs Southampton
 100.5°E C
 @ AsiaSat 5
 3984 V 7120
