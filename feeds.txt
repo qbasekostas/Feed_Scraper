@@ -1,4 +1,15 @@
 Satfun2017 said:
+Championship
+Birmingham Vs Southampton
+CW: 24 72 77 0D 7E 31 2F DE
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+12685 - V - 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.90 Mbit/s
+ID: EFL Birmingham v Southampton
+---FEED-SEPARATOR---
+Satfun2017 said:
 CW: 35 29 DA 38 3D 59 0E A4
 Click to expand...
 Eutelsat 7B-7C @ 07.0E
