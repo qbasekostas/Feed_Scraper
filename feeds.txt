@@ -5,7 +5,7 @@ Eutelsat 7B-7C @ 07.0E
 12726 V 7120 | 4:2:0 | 8PSK
 ID: Pitch Coventry V Ipsiwch
 Event: 
-English League Two - Coventry City v Ipswich Town
+English League Two - Coventry City vs Ipswich Town
 ---FEED-SEPARATOR---
 Championship
 100.5°E C
