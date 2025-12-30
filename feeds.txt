@@ -1,3 +1,12 @@
+Scottish Premiership, Round 20
+Motherwell vs Celtic 
+Eutelsat 7A/7B/7C @ 7.0°E
+12676 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.15 Mbit/s
+ID: GCUK Enc 8
+CW: DB B1 BD 49 45 52 21 B8
+---FEED-SEPARATOR---
 EFL Highlights - Show 19 
 Eutelsat 7B/7C @ 7.0E
 12726 V 7119
@@ -46,6 +55,24 @@ ID: TKS TRT M20 A
 EuroCup Basketball
 Bahcesehir - Hamburg
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Euroleague, Round 19
+Valencia Basket vs KK Partizan Mozzart Bet
+Eutelsat 7A/7B/7C @ 7.0°E
+11096 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.27 Mbit/s
+ID: E-447 VIA 1 BROADCAST PRODUCCI
+CW: 3D FB C2 FA CC 55 52 73
+---FEED-SEPARATOR---
+Spain, Liga ACB, Round 13
+UCAM Murcia vs Real Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+10959 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.35 Mbit/s
+ID: Fi01_ACB
+CW: DE 14 31 23 C1 99 A9 03
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11164 - V - 7500
