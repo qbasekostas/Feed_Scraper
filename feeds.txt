@@ -47,6 +47,17 @@ EuroCup Basketball
 Bahcesehir - Hamburg
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
+Verdeoro said:
+Eutelsat 7A/7B/7C @ 7.0°E
+11164 - V - 7500
+DVB-S2 | 8PSK |1920x1080 | 4:2:0 |
+ID: ENC1 S9 MPEG4 HD
+Event: 
+BKT EuroCup - Trento vs London Lions
+CW: C2 3A B4 B0 3C AA 14 FA
+Click to expand...
+not working
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11164 - V - 7500
 DVB-S2 | 8PSK |1920x1080 | 4:2:0 |
