@@ -47,6 +47,23 @@ EuroCup Basketball
 Bahcesehir - Hamburg
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11164 - V - 7500
+DVB-S2 | 8PSK |1920x1080 | 4:2:0 |
+ID: ENC1 S9 MPEG4 HD
+Event: 
+BKT EuroCup - Trento vs London Lions
+CW: C2 3A B4 B0 3C AA 14 FA
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 12
+KK Budućnost VOLI vs Türk Telekom B.K.
+Eutelsat 7A/7B/7C @ 7.0°E
+11011 - H - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 9.99 Mbit/s
+ID: MNE-001 main
+CW: F4 8E DA 5C 5F B8 B6 CD
+---FEED-SEPARATOR---
 7E
 11098 H 7200
 4.2.0
