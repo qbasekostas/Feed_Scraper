@@ -46,3 +46,11 @@ ID: TKS TRT M20 A
 EuroCup Basketball
 Bahcesehir - Hamburg
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+7E
+11098 H 7200
+4.2.0
+ID: E-447 VIA 1 BROADCAST PROUD
+EuroLeague
+Valencia Basket - Partizan
+CW: 3D FB C2 FA CC 55 52 73
