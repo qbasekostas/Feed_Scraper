@@ -16,6 +16,29 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI (SES)
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12523 Horizontal 4798,988 3/4
+DVB-S2/8PSK (4:2:2)
+CZE 001/1
+Pardubice vs NH Ostrava
+---FEED-SEPARATOR---
+7E
+11189 H 7200
+4.2.0
+ID: F489 MAIN
+EuroCup Basketball
+Bourg-en-Bresse - Panionios
+CW: 30 12 AB ED CD 20 25 12
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 12
+Aris BC vs KK Cedevita Olimpija
+Eutelsat 7A/7B/7C @ 7.0°E
+11179 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.17 Mbit/s
+ID: ARIS vs CEDEVITA
+CW: 81 D4 63 B8 FF A4 C4 67
+---FEED-SEPARATOR---
 7E
 12677 V 7200
 4.2.0
