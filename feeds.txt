@@ -16,6 +16,7 @@ Eutelsat 7A/7B/7C @ 7.0°E
 12695 - V - 7120
 DVB-S2 | 8PSK | 2/3
 1920x1080 | H.264/AVC Video | 4:2:0 | 13.10 Mbit/s
+Report of incorrect key. Correct key: #CW: F3 47 34 6E 12 DE 25 15
 ID: Pitch Wycombe v Cardiff
 ---FEED-SEPARATOR---
 Championship
