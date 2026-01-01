@@ -1,0 +1,8 @@
+Championship
+Blackburn Vs Wrexham
+100.5°E C @ AsiaSat 5
+3975 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: F4 83 21 98 31 CC E4 E1
