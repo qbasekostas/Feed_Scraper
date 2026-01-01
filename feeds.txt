@@ -1,10 +1,34 @@
-LONDON PARADE
-SES 14 at 47.5°W
-4157 V 7200
+28.2E
+12642 H 7500 
+4:2:2
+DVBS-2 8PSK
+ID Gigatel HD
+Cymru Premier - Week 21
+Colwyn Bay v Flint Town United
+---FEED-SEPARATOR---
+Championship
+Southampton Vs Millwall
+OR
+League One 
+Wycombe Wanderers Vs Cardiff City
+100.5°E C @ AsiaSat 5
+3966 V 7120
 MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
-ID: GCUK Enc 10 (GlobeCast UK)
-FTA
+ID: BT_SES_22_SDI
+CW: 15 49 0D 6B 23 27 22 6C
+---FEED-SEPARATOR---
+Championship
+Southampton Vs Millwall
+OR
+League One 
+Wycombe Wanderers Vs Cardiff City
+100.5°E C @ AsiaSat 5
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_14_SDI
+CW: F3 47 34 6E 12 DE 25 15
 ---FEED-SEPARATOR---
 7.0E @ Eutelsat 7B/7C 
 12726 V 7119
