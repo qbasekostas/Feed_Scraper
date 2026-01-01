@@ -8,8 +8,6 @@ Colwyn Bay v Flint Town United
 ---FEED-SEPARATOR---
 Satfun2017 said:
 Championship
-Southampton Vs Millwall
-OR
 League One 
 Wycombe Wanderers Vs Cardiff City
 CW: 15 49 0D 6B 23 27 22 6C
@@ -22,9 +20,6 @@ ID: Pitch Wycombe v Cardiff
 ---FEED-SEPARATOR---
 Championship
 Southampton Vs Millwall
-OR
-League One 
-Wycombe Wanderers Vs Cardiff City
 100.5°E C @ AsiaSat 5
 3966 V 7120
 MPEG 4 - 4:2:0
