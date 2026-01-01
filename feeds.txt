@@ -1,3 +1,10 @@
+SES 14 at 47.5°W
+4157 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: GCUK Enc 10 (GlobeCast UK)
+FTA
+---FEED-SEPARATOR---
 Championship
 Blackburn Vs Wrexham
 100.5°E C @ AsiaSat 5
