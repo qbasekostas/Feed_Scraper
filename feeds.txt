@@ -58,6 +58,15 @@ DVB-S2 - 8PSK -1080P
 ID: BT_SES_24_SDI
 CW: F4 83 21 98 31 CC E4 E1
 ---FEED-SEPARATOR---
+Reporters Feed
+Sunderland v Man City
+Eutelsat 7A/7B/7C @ 7.0°E
+11513 - V - 6666
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.71 Mbit/s
+ID: BeIn Media Sunderland v Man City
+CW: 44 CD AA BB 87 AA DC 0D
+---FEED-SEPARATOR---
 English Championship - Week 25
 Sheffield United vs. Leicester City
 Eutelsat 7B/7C @ 7.0°E
