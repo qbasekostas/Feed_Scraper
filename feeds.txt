@@ -6,6 +6,20 @@ ID Gigatel HD
 Cymru Premier - Week 21
 Colwyn Bay v Flint Town United
 ---FEED-SEPARATOR---
+Satfun2017 said:
+Championship
+Southampton Vs Millwall
+OR
+League One 
+Wycombe Wanderers Vs Cardiff City
+CW: 15 49 0D 6B 23 27 22 6C
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+12695 - V - 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.10 Mbit/s
+ID: Pitch Wycombe v Cardiff
+---FEED-SEPARATOR---
 Championship
 Southampton Vs Millwall
 OR
@@ -50,3 +64,16 @@ MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
 ID: BT_SES_24_SDI
 CW: F4 83 21 98 31 CC E4 E1
+---FEED-SEPARATOR---
+English Championship - Week 25
+Southampton vs. Millwall
+Eutelsat 7B/7C @ 7.0°E
+12686 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Southampton v Millwall
+Satfun2017 said:
+CW: 15 49 0D 6B 23 27 22 6C
+Click to expand...
