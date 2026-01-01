@@ -57,6 +57,15 @@ DVB-S2 - 8PSK -1080P
 ID: BT_SES_24_SDI
 CW: F4 83 21 98 31 CC E4 E1
 ---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+12695 - V - 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.10 Mbit/s
+ID: Pitch Wycombe v Cardiff
+Click to expand...
+CW: F3 47 34 6E 12 DE 25 15
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3976 V 7120
 ID: BT_SES_24_SDI
