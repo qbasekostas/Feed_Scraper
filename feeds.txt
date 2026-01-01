@@ -27,9 +27,6 @@ DVB-S2 - 8PSK -1080P
 ID: BT_SES_22_SDI
 CW: 15 49 0D 6B 23 27 22 6C
 ---FEED-SEPARATOR---
-Championship
-Southampton Vs Millwall
-OR
 League One 
 Wycombe Wanderers Vs Cardiff City
 100.5°E C @ AsiaSat 5
@@ -59,6 +56,13 @@ MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
 ID: BT_SES_24_SDI
 CW: F4 83 21 98 31 CC E4 E1
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3976 V 7120
+ID: BT_SES_24_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 87 63 D1 BB 24 1D D3 14
+Sheffield United vs Leicester City
 ---FEED-SEPARATOR---
 English Championship - Week 25
 Southampton vs. Millwall
