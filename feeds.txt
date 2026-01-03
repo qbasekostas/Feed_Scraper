@@ -175,6 +175,14 @@ Hellas Sat 3/4 (39.0 E)
 DVB-S2/8PSK (4:2:0)
 FADE PATH HD4
 ---FEED-SEPARATOR---
+30°W
+11591 H 9598
+DVB-S2|1080HD
+4.2.0|H264
+ID: E-400 V1
+Event: Liga Endesa  Gran Canaria V Ucam Murcia
+CW: 52 A2 23 17 AC 21 22 EF
+---FEED-SEPARATOR---
 lABA Liga, Group A, Round 13
 KK Krka Novo Mesto vs KK SC Derby
 Eutelsat 7A/7B/7C @ 7.0E
