@@ -1,3 +1,14 @@
+Spanish La Liga - Matchday 18
+Elche vs. Villarreal
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: D5 FD 83 55 E4 BF 6C 0F
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10731 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -61,6 +72,15 @@ Hellas Sat 3/4 (39.0 E)
 11025 Vertical 7198,433 3/4
 DVB-S2/8PSK (4:2:0)
 FADE PATH HD4
+---FEED-SEPARATOR---
+ABA Liga, Group B, Round 13
+KK Cedevita Olimpija vs KK Spartak Office Shoes
+Eutelsat 7A/7B/7C @ 7.0E
+12642 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.29 Mbit/s
+ID: Medialink CRO-021/2
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11069 - V - 7200
