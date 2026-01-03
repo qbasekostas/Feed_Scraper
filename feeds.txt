@@ -1,3 +1,36 @@
+Spanish La Liga 2 - Matchday 20
+Real Valladolid vs. Racing Santander
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 04 BE DF A1 4D 31 97 15
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 18
+Espanyol vs. Barcelona
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR RUSIA 1
+CW: 00 73 A3 16 79 F2 34 9F
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 18
+Espanyol vs. Barcelona
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR EASTERN 1
+CW: 06 D6 D9 B5 FC C1 77 34
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 2 
@@ -103,6 +136,14 @@ Hellas Sat 3/4 (39.0 E)
 11025 Vertical 7198,433 3/4
 DVB-S2/8PSK (4:2:0)
 FADE PATH HD4
+---FEED-SEPARATOR---
+39°E 
+10984 V 5454
+DVB-S2|1080HD
+4.2.0|H264
+ID: HUN-017/LINE1
+Event: Hungary NB 1.A Sopron KC V Egis Kormend
+CW: BA 20 26 00 01 03 DC E0
 ---FEED-SEPARATOR---
 Italy, Lega A Basket, Round 14
 Openjobmetis Varese vs GeVi Napoli Basket
