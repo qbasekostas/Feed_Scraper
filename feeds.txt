@@ -1,5 +1,20 @@
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,84Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 18
+Teams: Elche CF vs Villarreal CF
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
+Dani Sat said:
+CW: D5 FD 83 55 E4 BF 6C 0F
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OVERON 1 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
@@ -128,3 +143,11 @@ right tp is
 23 83 5E 04 1E BE 26 02
 Turkey    Basketball    Super Lig
 Bahcesehir Kol.  vs  Petkim Spor
+---FEED-SEPARATOR---
+39°E 
+11007 V 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: SNG ABC 1
+Event: betsson super cup
+CW: 22 55 BB 32 AA 12 34 F0
