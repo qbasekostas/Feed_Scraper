@@ -104,6 +104,17 @@ Hellas Sat 3/4 (39.0 E)
 DVB-S2/8PSK (4:2:0)
 FADE PATH HD4
 ---FEED-SEPARATOR---
+Italy, Lega A Basket, Round 14
+Openjobmetis Varese vs GeVi Napoli Basket
+Eutelsat 7A/7B/7C @ 7.0°E
+11605 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 14.09 Mbit/s
+ID: SELENIO 1
+CW: E3 4F 6C 9E E8 69 F7 48
+---FEED-SEPARATOR---
 ABA Liga, Group B, Round 13
 KK Cedevita Olimpija vs KK Spartak Office Shoes
 Eutelsat 7A/7B/7C @ 7.0E
