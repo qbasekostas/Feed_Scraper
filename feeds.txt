@@ -1,3 +1,17 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+PMT PID: 3880, SID: 46 @ OVERON 4 (Servicios Audiovisuales Overon, S L)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+found CW: 57 F4 7F CA B2 15 87 4E 
+Espanyol vs Barcelona
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+PMT PID: 3870, SID: 45 @ OVERON 3 (Servicios Audiovisuales Overon, S L)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+88 AD D1 E6 1D AA 8E 48  #CW:9C B0 8B D7 E7 E9 DB AB   
+Espanyol vs Barcelona
+---FEED-SEPARATOR---
 LaLiga : Espanyol v Barcelona 
 Eutelsat 10B @ 10.0E
 10732 V 34000
