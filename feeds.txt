@@ -30,6 +30,16 @@ LaLiga
 Osasuna vs Athletic Bilbao
 CW: 3E E8 DA 00 27 6E 84 19
 ---FEED-SEPARATOR---
+1W
+11496 V 15000
+4:2:2
+ID: 
+Unknown
+Scotland    Premiership
+Celtic  vs  Rangers
+61 40 DF 4A AA 2E 76 35  #CW: 
+A2 E5 20 A7 70 13 F1 74
+---FEED-SEPARATOR---
 frankenberyy said:
 			42e
 11487 v 7500
