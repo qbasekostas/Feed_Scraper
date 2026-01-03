@@ -146,6 +146,24 @@ Hellas Sat 3/4 (39.0 E)
 DVB-S2/8PSK (4:2:0)
 FADE PATH HD4
 ---FEED-SEPARATOR---
+lABA Liga, Group A, Round 13
+KK Krka Novo Mesto vs KK SC Derby
+Eutelsat 7A/7B/7C @ 7.0E
+12654 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.39 Mbit/s
+ID: Medialink CRO-024/1
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+ABA Liga, Group A, Round 13
+U-Banca Transilvania Cluj-Napoca vs FMP Beograd
+Eutelsat 7A/7B/7C @ 7.0E
+12648 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.15 Mbit/s
+ID: ROU-051 MAIN
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 39°E 
 10984 V 5454
 DVB-S2|1080HD
@@ -164,6 +182,17 @@ DVB-S2 | 8PSK | 3/4
  | 14.09 Mbit/s
 ID: SELENIO 1
 CW: E3 4F 6C 9E E8 69 F7 48
+---FEED-SEPARATOR---
+Spain, Liga ACB, Round 14
+Joventut Badalona vs La Laguna Tenerife
+Eutelsat 7A/7B/7C @ 7.0°E
+11105 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 15.07 Mbit/s
+ID: Service1
+CW: 40 EB AA D5 35 91 67 2D
 ---FEED-SEPARATOR---
 ABA Liga, Group B, Round 13
 KK Cedevita Olimpija vs KK Spartak Office Shoes
