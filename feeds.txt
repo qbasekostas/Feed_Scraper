@@ -1,3 +1,19 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,77Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 18
+Teams: CA Osasuna vs Athletic Club
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 16.15 CET
+FaDeL® said:
+#CW:
+3E E8 DA 00 27 6E 84 19
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 18
 Elche vs. Villarreal
 Eutelsat 10B @ 10.0°E
