@@ -1,0 +1,31 @@
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:   SUPPONOR MENA 1
+LaLiga
+ Espanyol vs Barcelona
+CW: C1 07 D2 9A 46 ED BC EF
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SUPPONOR AFRICA 1
+LaLiga
+ Espanyol vs Barcelona
+CW: B9 D2 76 01 37 BD 1E 12
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+LaLiga
+ Celta de Vigo vs Valencia
+CW: 5F 0B F9 63 44 BA B6 B4
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10731 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+LaLiga 
+Osasuna vs Athletic Bilbao
+CW: 3E E8 DA 00 27 6E 84 19
