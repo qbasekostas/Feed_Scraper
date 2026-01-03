@@ -29,3 +29,17 @@ ID: OVERON 1
 LaLiga 
 Osasuna vs Athletic Bilbao
 CW: 3E E8 DA 00 27 6E 84 19
+---FEED-SEPARATOR---
+frankenberyy said:
+			42e
+11487 v 7500
+E333 A
+PID: 200h  B8h-Crypt8:42 CF 7D BE E3 7E 00 70  [E] Count:6150
+Click to expand...
+right tp is
+42e
+11496 V 7500
+42 CF 7D BE E3 7E 00 70  #CW: 
+23 83 5E 04 1E BE 26 02
+Turkey    Basketball    Super Lig
+Bahcesehir Kol.  vs  Petkim Spor
