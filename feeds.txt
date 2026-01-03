@@ -30,6 +30,15 @@ LaLiga
 Osasuna vs Athletic Bilbao
 CW: 3E E8 DA 00 27 6E 84 19
 ---FEED-SEPARATOR---
+Scotland, Scottish Premiership, Round 21
+Dundee United vs Dundee FC
+Eutelsat 7A/7B/7C @ 7.0°E
+12685 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.16 Mbit/s
+ID: GCUK Enc 3
+CW: DC 22 45 43 51 DE EA 19
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 12677 H 7200
