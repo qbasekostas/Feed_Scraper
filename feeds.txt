@@ -1,3 +1,18 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,75Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 18
+Teams: RCD Espanyol vs FC Barcelona
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+Hackintosh said:
+CW: E2 6E 09 59 7A 69 89 6C
+Click to expand...
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
 PMT PID: 3880, SID: 46 @ OVERON 4 (Servicios Audiovisuales Overon, S L)
