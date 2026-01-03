@@ -30,6 +30,14 @@ LaLiga
 Osasuna vs Athletic Bilbao
 CW: 3E E8 DA 00 27 6E 84 19
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12677 H 7200
+ GCUK Enc 1 (GlobeCast UK)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+SPL: Celtic vs Rangers
+CW: AC 34 51 31 BC DE DE 78
+---FEED-SEPARATOR---
 1W
 11496 V 15000
 4:2:2
@@ -39,6 +47,16 @@ Scotland    Premiership
 Celtic  vs  Rangers
 61 40 DF 4A AA 2E 76 35  #CW: 
 A2 E5 20 A7 70 13 F1 74
+---FEED-SEPARATOR---
+42e
+11505 V 7500
+4:2:2
+ID: 
+TUR156 Main
+Turkey    Basketball    Super Lig 
+Trabzonspor  vs  Turk Telekom
+49 FE FB 20 5D A5 7E CE  #CW:
+ 7A A6 97 B7 59 84 B2 8F
 ---FEED-SEPARATOR---
 frankenberyy said:
 			42e
