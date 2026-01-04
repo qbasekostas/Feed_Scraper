@@ -9,6 +9,23 @@ CW: 26 A1 C0 87 2C 0F 3E 79
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OVERON 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,98Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 18
+Teams: 
+Deportivo Alavés vs Real Oviedo
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
+mikem93 said:
+#CW:
+70 03 B3 26 D9 5C 76 AB
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OVERON 2 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
@@ -185,6 +202,30 @@ ID: BT_SES_24_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 A0 81 1D 5C 21 5F BD B9  #CW:20 23 25 68 DA 35 4D 5C   #[E] PID:07D1h
 Birmingham City vs Coventry City
+---FEED-SEPARATOR---
+Italy, Lega A Basket, Round 14
+EA7 Emporio Armani Milano vs APU Udine 
+Eutelsat 7A/7B/7C @ 7.0°E
+11605 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 14.19 Mbit/s
+ID: SELENIO 2
+CW: 57 4D 5B FF 9E 28 5A 20
+---FEED-SEPARATOR---
+ABA Liga, Group A, Round 13
+KK Split vs BC Dubai
+Eutelsat 7A/7B/7C @ 7.0°E
+11483 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.19 Mbit/s
+Eutelsat 7A/7B/7C @ 7.0°E
+11497 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.18 Mbit/s
+ID: Medialink CRO-024/1
+CW: 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 bayuware said:
 Hotbird 13B ( 13E )
