@@ -7,6 +7,17 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 26 A1 C0 87 2C 0F 3E 79
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 18
+Mallorca vs. Girona
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: D4 6F 15 58 2B 44 42 B1
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
@@ -159,6 +170,17 @@ ID: BT_SES_24_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 A0 81 1D 5C 21 5F BD B9  #CW:20 23 25 68 DA 35 4D 5C   #[E] PID:07D1h
 Birmingham City vs Coventry City
+---FEED-SEPARATOR---
+bayuware said:
+Hotbird 13B ( 13E )
+11185 V 7500
+DVB-S2 - 4:2:0 - 8PSK
+ID: BWF World Tour C2 BISS-1
+Event:
+ Turkey Basketball Süper Ligi
+any CW please?
+Click to expand...
+CW: 11 64 E3 58 7D 98 86 9B
 ---FEED-SEPARATOR---
 13.0°E
 10847 V 7500
