@@ -7,6 +7,50 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 26 A1 C0 87 2C 0F 3E 79
 ---FEED-SEPARATOR---
+Spanish La Liga 2 - Matchday 20
+Deportivo La Coruña vs. Cádiz
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 42 13 82 D7 15 16 BC E7
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 18
+Real Sociedad vs. Atlético Madrid
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR MENA 1
+CW: 7B BF 2F 69 C8 6A 54 86
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 18
+Real Sociedad vs. Atlético Madrid
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR EASTERN 1
+CW: CB 7F 26 70 0C A0 2B D7
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 18
+Real Sociedad vs. Atlético Madrid
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SUPPONOR AFRICA 1
+CW: 13 B8 4B 16 9A 99 5C 8F
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 18
 Real Sociedad vs. Atlético Madrid
 Eutelsat 10B @ 10.0°E
