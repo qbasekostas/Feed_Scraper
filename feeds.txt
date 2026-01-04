@@ -313,3 +313,11 @@ CW: 40 EB AA D5 35 91 67 2D
 ID: BWF World Tour C2 BISS-1
 CW: FD BA 85 3C 3E E6 99 BD
 Turkey Basketball Super Lig: Anadolu Efesvs - Mersin BŞB
+---FEED-SEPARATOR---
+42°E 
+10984 V 5454
+DVB-S2|4K
+4.2.2|H265
+ID: E363 4KB
+Event: basketbol süper ligi Besiktas V Fenerbahce
+CW: E9 55 28 66 72 3F 41 F2
