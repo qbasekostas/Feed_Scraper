@@ -7,6 +7,13 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 26 A1 C0 87 2C 0F 3E 79
 ---FEED-SEPARATOR---
+LaLiga : unk v unk
+10.0E
+10732 V 34000
+ID:
+ OVERON 3 (OVERON)
+CW: 70 03 B3 26 D9 5C 76 AB
+---FEED-SEPARATOR---
 LaLiga : Real Madrid v Real Betis 
 Eutelsat 10B @ 10.0E
 10732 V 34000
@@ -15,6 +22,15 @@ ID:
 DVB-S2 | 8PSK | 1080i |12,4 dB | 
 4:2:2
 CW: C7 F5 57 13 BC 0A F6 BC
+---FEED-SEPARATOR---
+ABS-3A 3W
+10996 V 10000 
+4:2:0
+DVBS-2 8PSK
+ID: ITV Sport Brum City v Cov City Sat B/up
+CW: 1C A4 1A DA 31 1D 2B 79
+English Championship - Week 26
+Birmingham City v Coventry City
 ---FEED-SEPARATOR---
 HBO said:
 			AsiaSat 5 - 100.5 E - CBand
@@ -33,6 +49,13 @@ ID: BT_SES_24_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 A0 81 1D 5C 21 5F BD B9  #CW:20 23 25 68 DA 35 4D 5C   #[E] PID:07D1h
 Birmingham City vs Coventry City
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11106 H 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: Fi01_ACB
+Basketball Spain: Real Madrid - Barcelona
+CW: 40 EB AA D5 35 91 67 2D
 ---FEED-SEPARATOR---
 13.0°E
 12610 V 7500
