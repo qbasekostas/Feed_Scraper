@@ -7,6 +7,21 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 26 A1 C0 87 2C 0F 3E 79
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,95Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 18
+Teams: Real Sociedad vs Atlético de Madrid
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+Dani Sat said:
+CW: A2 FD 13 B2 0E 76 93 17
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 20
 Deportivo La Coruña vs. Cádiz
 Eutelsat 10B @ 10.0°E
