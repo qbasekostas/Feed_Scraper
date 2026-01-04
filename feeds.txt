@@ -22,3 +22,10 @@ ID: BT_SES_24_SDI
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 A0 81 1D 5C 21 5F BD B9  #CW:20 23 25 68 DA 35 4D 5C   #[E] PID:07D1h
 Birmingham City vs Coventry City
+---FEED-SEPARATOR---
+13.0°E
+12610 V 7500
+4:2:0
+ID: BWF World Tour C2 BISS-1
+CW: FD BA 85 3C 3E E6 99 BD
+Turkey Basketball Super Lig: Anadolu Efesvs - Mersin BŞB
