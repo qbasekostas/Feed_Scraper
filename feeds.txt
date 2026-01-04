@@ -7,6 +7,51 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 26 A1 C0 87 2C 0F 3E 79
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,65Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 18
+Teams: Sevilla FC vs Levante UD
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 14.00 CET
+Red Devils said:
+CW: 26 A1 C0 87 2C 0F 3E 79
+Click to expand...
+---FEED-SEPARATOR---
+LaLiga - Round 18 
+Sevilla - Levante 
+Eutelsat 10A @ 10.0E
+10731  Vertical  33996.735
+ID:OVERON 2 (OVERON)
+1920x1080 |84.276Mb/Sec 8PSK |4:2:2 HD
+CW: 26 A1 C0 87 2C 0F 3E 79
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR RUSIA 1
+Real Madrid v Real Betis
+found CW: 
+63 11 C8 3C 82 CB DD 2A 
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR MENA 1
+Real Madrid v Real Betis
+CW: 93 9B 23 51 A8 C7 B0 1F
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:SUPPONOR EASTERN 1
+Real Madrid v Real Betis
+CW: A5 34 54 2D 40 ED C4 F1
+---FEED-SEPARATOR---
 LaLiga : unk v unk
 10.0E
 10732 V 34000
