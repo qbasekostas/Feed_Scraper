@@ -7,6 +7,27 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 26 A1 C0 87 2C 0F 3E 79
 ---FEED-SEPARATOR---
+Spanish La Liga 2 - Matchday 20
+Real Zaragoza vs. Las Palmas
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 2
+CW: 9C B4 9B EB E7 C0 26 CD
+---FEED-SEPARATOR---
+LaLiga : Real Madrid v Real Betis 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+ OVERON 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |12,4 dB | 
+4:2:2
+NEW 
+CW: 94 25 39 F2 5D A9 CD D3
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3906 H 7500
 PMT PID: 350, SID: 35 @ AUSTRALIA 1 (*unnamed-35*)
@@ -74,6 +95,17 @@ ID:
 DVB-S2 | 8PSK | 1080i |12,4 dB | 
 4:2:2
 CW: C7 F5 57 13 BC 0A F6 BC
+---FEED-SEPARATOR---
+Satfun2017 said:
+Championship
+Norwich Vs Stoke
+CW: 64 20 B3 37 29 21 3C 86
+Click to expand...
+7.0E @ Eutelsat 7B/7C 
+12684 V 7119
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: Pitch - Norwich V Stoke (NEP Connect)
 ---FEED-SEPARATOR---
 Championship
 Norwich Vs Stoke
