@@ -7,6 +7,22 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 26 A1 C0 87 2C 0F 3E 79
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,71Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 18
+Teams: Real Madrid vs Real Betis
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 16.15 CET
+Hackintosh said:
+#CW:
+94 25 39 F2 5D A9 CD D3
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 20
 Real Zaragoza vs. Las Palmas
 Eutelsat 10B @ 10.0°E
