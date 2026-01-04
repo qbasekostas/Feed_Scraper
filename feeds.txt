@@ -15,3 +15,10 @@ ID:
 DVB-S2 | 8PSK | 1080i |12,4 dB | 
 4:2:2
 CW: C7 F5 57 13 BC 0A F6 BC
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3976 V 7120
+ID: BT_SES_24_SDI
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+A0 81 1D 5C 21 5F BD B9  #CW:20 23 25 68 DA 35 4D 5C   #[E] PID:07D1h
+Birmingham City vs Coventry City
