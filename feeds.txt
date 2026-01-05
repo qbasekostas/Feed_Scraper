@@ -1,9 +1,24 @@
+Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)     
+Fréquence: 12527 - Pol: V - SR: 6600 - FEC: 3/4
+Catégorie: Sport - Basketball
+Transmis en: MPEG-4
+Dinamo Bucuresti-Valcea
+---FEED-SEPARATOR---
 Thor 0.8W
 12534 V 4800
 ID: B115DGS
 Divizia 1 Romania
 CSU Targu Mures vs Arges Pitesti
 FTA
+---FEED-SEPARATOR---
+ABA Liga, Group B, Round 13
+KK Mega Basket vs BC Vienna
+Eutelsat 7A/7B/7C @ 7.0E
+12641 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.02 Mbit/s
+ID: YSM-013M
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Eutelsat 7E
 12647 V 4937
