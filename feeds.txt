@@ -1,3 +1,12 @@
+Championship
+Leicester Vs West Brom
+100.5°E C @ AsiaSat 5
+3975 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: CC 22 99 87 42 A1 33 16
+---FEED-SEPARATOR---
 Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)     
 Fréquence: 12527 - Pol: V - SR: 6600 - FEC: 3/4
 Catégorie: Sport - Basketball
