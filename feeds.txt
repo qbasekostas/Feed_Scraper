@@ -1,0 +1,8 @@
+WASL Gulf League, Group A
+AL Ittihad vs Kazma
+Eutelsat 7A/7B/7C @ 7.0°E
+12727 - V - 7500
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.76 Mbit/s
+ID: MAIN
+CW: A1 03 FE A2 89 6C 05 FA
