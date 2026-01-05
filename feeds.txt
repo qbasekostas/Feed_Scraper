@@ -1,3 +1,17 @@
+Thor 0.8W
+12534 V 4800
+ID: B115DGS
+Divizia 1 Romania
+CSU Targu Mures vs Arges Pitesti
+FTA
+---FEED-SEPARATOR---
+Eutelsat 7E
+12647 V 4937
+ID: YSM-021
+Serbia First League
+Radnicki Nis vs Dynamic
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 WASL Gulf League, Group A
 AL Ittihad vs Kazma
 Eutelsat 7A/7B/7C @ 7.0°E
