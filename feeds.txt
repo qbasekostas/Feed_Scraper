@@ -1,0 +1,69 @@
+7.0°E
+11123 V 7200
+4:2:0
+ID: ITA 81 A
+CW: C1 C5 CB 51 07 AB 01 B3
+Serie C Sky Wifi: Benevento - Crotone
+---FEED-SEPARATOR---
+Satfun2017 said:
+Championship
+Leicester Vs West Brom
+100.5°E C @ AsiaSat 5
+3975 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: CC 22 99 87 42 A1 33 16
+Click to expand...
+7.0E 
+12676 V 7119
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: EFL Leicester V West Brom
+---FEED-SEPARATOR---
+Championship
+Leicester Vs West Brom
+100.5°E C @ AsiaSat 5
+3975 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: CC 22 99 87 42 A1 33 16
+---FEED-SEPARATOR---
+Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)     
+Fréquence: 12527 - Pol: V - SR: 6600 - FEC: 3/4
+Catégorie: Sport - Basketball
+Transmis en: MPEG-4
+Dinamo Bucuresti-Valcea
+---FEED-SEPARATOR---
+Thor 0.8W
+12534 V 4800
+ID: B115DGS
+Divizia 1 Romania
+CSU Targu Mures vs Arges Pitesti
+FTA
+---FEED-SEPARATOR---
+ABA Liga, Group B, Round 13
+KK Mega Basket vs BC Vienna
+Eutelsat 7A/7B/7C @ 7.0E
+12641 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 10.02 Mbit/s
+ID: YSM-013M
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 7E
+12647 V 4937
+ID: YSM-021
+Serbia First League
+Radnicki Nis vs Dynamic
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+WASL Gulf League, Group A
+AL Ittihad vs Kazma
+Eutelsat 7A/7B/7C @ 7.0°E
+12727 - V - 7500
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.76 Mbit/s
+ID: MAIN
+CW: A1 03 FE A2 89 6C 05 FA
