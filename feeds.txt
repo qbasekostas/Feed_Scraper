@@ -23,6 +23,15 @@ CW: CD 61 BA E8 ED CD 11 CB
 Scottish Premiership
 Rangers v Aberdeen
 ---FEED-SEPARATOR---
+Champions League, Play-In, Qualification round 1
+KK Spartak Office Shoes vs Karditsa Iaponiki
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10810 - H - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.52 Mbit/s
+ID: YSM-016 MAIN
+CW: CA 97 EC 4D 98 DD 45 BA
+---FEED-SEPARATOR---
 Poland, Polish Basketball League, Round 1
 Anwil Włocławek vs Górnik Wałbrzych
 Eutelsat 7A/7B/7C @ 7.0°E
