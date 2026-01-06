@@ -14,6 +14,17 @@ ID: MOVISTAR+ PERSO MAIN
 CW: 20 25 CC 11 43 24 57 BE
 Spanish Super Cup
 ---FEED-SEPARATOR---
+Poland, Polish Basketball League, Round 1
+Anwil Włocławek vs Górnik Wałbrzych
+Eutelsat 7A/7B/7C @ 7.0°E
+11125 - H - 7200
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 
+4:2:2 
+| 13.39 Mbit/s
+ID: POL103
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 Champions League, Play-In, Qualification round 1
 MLP Academics Heidelberg vs ERA Nymburk
 Eutelsat Hotbird 13B/13C/13G @ 13.0°E
