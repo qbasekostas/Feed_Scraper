@@ -5,6 +5,15 @@ ID: MOVISTAR+ PERSO MAIN
 CW: 20 25 CC 11 43 24 57 BE
 Spanish Super Cup
 ---FEED-SEPARATOR---
+Euroleague, Round 20
+Monaco Basket vs KK Partizan Mozzart Bet
+Eutelsat 7A/7B/7C @ 7.0°E
+11078 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.97 Mbit/s
+ID: F489 MAIN
+CW: 55 E9 16 54 25 87 F7 A3
+---FEED-SEPARATOR---
 Eurocup, Group A, Round 13
 BAXI Manresa vs Aris BC
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -60,6 +69,13 @@ Basketball Champions League:
 Hapoel Holon vs
 Trapani
 CW: AE 02 ED 9D 16 BE 06 DA
+---FEED-SEPARATOR---
+Greek Cup, Play-offs - 3rd round
+Volos vs Kifisia
+16e
+11062 H 9700
+ID: OTE 1
+CW: BB 11 21 ED AB AB 12 68
 ---FEED-SEPARATOR---
 7e
 12541 V 9700
