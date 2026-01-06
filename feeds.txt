@@ -14,6 +14,15 @@ ID: MOVISTAR+ PERSO MAIN
 CW: 20 25 CC 11 43 24 57 BE
 Spanish Super Cup
 ---FEED-SEPARATOR---
+7E
+12676 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: GCUK Enc8
+CW: CD 61 BA E8 ED CD 11 CB
+Scottish Premiership
+Rangers v Aberdeen
+---FEED-SEPARATOR---
 Poland, Polish Basketball League, Round 1
 Anwil Włocławek vs Górnik Wałbrzych
 Eutelsat 7A/7B/7C @ 7.0°E
