@@ -5,6 +5,15 @@ ID: MOVISTAR+ PERSO MAIN
 CW: 20 25 CC 11 43 24 57 BE
 Spanish Super Cup
 ---FEED-SEPARATOR---
+Eurocup, Group A, Round 13
+BAXI Manresa vs Aris BC
+Eutelsat 7A/7B/7C @ 7.0°E
+11022 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.12 Mbit/s
+ID: E351 Spanish Graph Main
+CW: 13 11 AA CE CC 20 23 0F
+---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10802 H 7200
 4:2:0
