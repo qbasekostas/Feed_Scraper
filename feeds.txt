@@ -1,3 +1,27 @@
+7.0°E
+10996 H 7200
+4:2:0
+ID: MOVISTAR+ PERSO MAIN
+CW: 20 25 CC 11 43 24 57 BE
+Spanish Super Cup
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10838 V 7200
+4:2:0
+ID: TSK TRT M20 A
+Basketball Champions League:
+ Tofas vs Cholet
+CW: AC 40 FA E6 35 AA 90 6F
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10848 V 7200
+4:2:0
+ID: BCL BUL007 TVI Main
+Basketball Champions League: 
+Hapoel Holon vs
+Trapani
+CW: AE 02 ED 9D 16 BE 06 DA
+---FEED-SEPARATOR---
 7e
 12541 V 9700
 4:2:2
