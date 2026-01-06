@@ -5,6 +5,14 @@ ID: MOVISTAR+ PERSO MAIN
 CW: 20 25 CC 11 43 24 57 BE
 Spanish Super Cup
 ---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10802 H 7200
+4:2:0
+ID: VS7-2/BASKET_BCL_CHALON_060126
+Basketball Champions League: 
+Chalon vs Promitheas Patrasso
+CW: CF 74 AD F0 33 CE 95 96
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12676 - V - 7200
 DVB-S2 | 8PSK |1920x1080 | 4:2:0 |
