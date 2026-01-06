@@ -1,9 +1,47 @@
+Copa del Rey, Round of 32
+Granada vs Rayo Vallecano
+Eutelsat 7A/7B/7C @ 7.0°E
+10972 - H - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.31 Mbit/s
+ID: G19 E349 Via 1
+CW: 71 AC 55 72 A2 26 72 3A
+---FEED-SEPARATOR---
 7.0°E
 10996 H 7200
 4:2:0
 ID: MOVISTAR+ PERSO MAIN
 CW: 20 25 CC 11 43 24 57 BE
 Spanish Super Cup
+---FEED-SEPARATOR---
+Champions League, Play-In, Qualification round 1
+MLP Academics Heidelberg vs ERA Nymburk
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+11194 - V - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.61 Mbit/s
+ID: WPA D-322 Main
+CW: DA 93 EA 57 78 EB 14 77
+---FEED-SEPARATOR---
+Champions League, Play-In, Qualification round 1
+Mersin Sports Club vs Le Mans Sarthe Basket
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10830 - V - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 14.53 Mbit/s
+ID: TKS.TRT.M13
+CW: EC 20 ED F9 16 DF 70 65
+---FEED-SEPARATOR---
+Eurocup, Round 13
+KK Cedevita Olimpija vs Bahçeşehir Koleji
+Eutelsat 7A/7B/7C @ 7.0°E
+11188 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.18 Mbit/s
+ID: Medialink CRO-021/2
+CW: 06 7A DF 5F 5F CC 01 2C
 ---FEED-SEPARATOR---
 Euroleague, Round 20
 Monaco Basket vs KK Partizan Mozzart Bet
