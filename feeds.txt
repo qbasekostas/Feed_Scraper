@@ -25,15 +25,6 @@ DVB-S2 | 8PSK | 3/4
 ID: Pool Main (Spanish Graphics)-A
 CW: 20 25 CC 11 43 24 57 BE
 ---FEED-SEPARATOR---
-Supercopa de España, Semifinals
-Barcelona vs Athletic Club
-Eutelsat 7A/7B/7C @ 7.0E
-10995 - H - 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
-ID: MOVISTAR + PERSO MAIN
-CW: 20 25 CC 11 43 24 57 BE
----FEED-SEPARATOR---
 Eurocup, Group A, Round 13
 Śląsk Wrocław vs Hapoel Jerusalem BC
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -51,6 +42,15 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 14.86 Mbit/s
 ID: TUR 147A
 CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 13
+Hamburg Towers vs Klaipėdos Neptūnas
+Eutelsat 7A/7B/7C @ 7.0°E
+12640 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.92 Mbit/s
+ID: BB CL Hamburg
+CW: BB EE 07 B0 01 20 26 47
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 13
 Panevežio 7Bet-Lietkabelis vs JL Bourg Basket
