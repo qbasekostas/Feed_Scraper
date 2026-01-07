@@ -1,3 +1,14 @@
+Greek Cup Play Offs - 1/8 Finals
+OFI Crete vs. Asteras Tripolis
+Eutelsat 7B/7C @ 7.0°E
+12541 - V - 9700 
+|
+4:2:2 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: AVP_OU_A
+CW: AB 11 21 DD AB AB 11 67
+---FEED-SEPARATOR---
 (YESTERDAY, 06/01/2026)
 Greek Cup, Play-offs - 3rd round
 PAOK vs Atromitos
