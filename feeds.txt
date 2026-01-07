@@ -25,14 +25,14 @@ DVB-S2 | 8PSK | 3/4
 ID: Pool Main (Spanish Graphics)-A
 CW: 20 25 CC 11 43 24 57 BE
 ---FEED-SEPARATOR---
-Eurocup, Group A, Round 13
-Śląsk Wrocław vs Hapoel Jerusalem BC
+Eurocup, Group B, Round 13
+London Lions vs BV Chemnitz 99
 Eutelsat 7A/7B/7C @ 7.0°E
-11134 - H - 7200
-DVB-S2 | 8PSK | 2/3
-1920x1080 | H.264/AVC Video | 4:2:0 | 13.42 Mbit/s
-ID: Polsat Sport
-CW: 60 24 33 B7 28 62 38 C2
+12648 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.06 Mbit/s
+ID: Noname
+CW: 8B A7 A3 D5 38 D0 48 50
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 13
 Türk Telekom B.K. vs Dolomiti Energia Trento
@@ -42,6 +42,24 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 14.86 Mbit/s
 ID: TUR 147A
 CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Akrem said:
+			Eurocup, Group A
+Reyer Venezia
+​
+CS Universitatea Cluj-Napoca
+​
+7°E
+11164 
+V  
+7500
+DVB-S2-
+4:2:0
+-8PSK
+ID:ENC 1 S9 MPEG4 HD
+CW: C1 CC 10 9D FA B1 55 00
+Click to expand...
+not working
 ---FEED-SEPARATOR---
 Eurocup, Group A, Round 13
 Hamburg Towers vs Klaipėdos Neptūnas
@@ -83,6 +101,15 @@ DVB-S2-
 -8PSK
 ID:ENC 1 S9 MPEG4 HD
 CW: C1 CC 10 9D FA B1 55 00
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 13
+Śląsk Wrocław vs Hapoel Jerusalem BC
+Eutelsat 7A/7B/7C @ 7.0°E
+11134 - H - 7200
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.42 Mbit/s
+ID: Polsat Sport
+CW: 60 24 33 B7 28 62 38 C2
 ---FEED-SEPARATOR---
 Greek Cup Play Offs - 1/8 Finals
 OFI Crete vs. Asteras Tripolis
