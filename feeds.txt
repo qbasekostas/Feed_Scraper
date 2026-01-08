@@ -1,3 +1,21 @@
+Event:  
+FA Cup 
+Eutelsat 7B-7C   @ 07.0E
+11024  Vertical  7120,054
+ID:
+ Pitch The FA Cup show  (NEP Connect)
+DVB-S2 | 8PSK | 1080i |10,7 dB | 
+4:2:0
+CW: FD D1 AB 79 BA 08 01 C3
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11070 - H - 7200
+DVB-S2 | 8PSK |1920x1080 | 4:2:0 |
+ID: UAE074-1
+Event:
+EuroLeague Basketball - Dubai vs Fenerbahce
+CW: 16 5C E1 53 A6 8F D3 08
+---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10829 V 7200
 4:2:0
