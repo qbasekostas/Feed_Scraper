@@ -1,4 +1,11 @@
 Hot Bird (13.0°E)
+10829 V 7200
+4:2:0
+ID: CZE-041_main_BCL_Nymburk
+Basketball Champions League: Nymburk vs Heidelberg
+CW: FF 76 DF 54 72 DA 73 BF
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
 10838 V 7200
 4:2:0
 ID: CZE-012-BCL LEVICE-MAIN
