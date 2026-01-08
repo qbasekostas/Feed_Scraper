@@ -8,6 +8,15 @@ DVB-S2 | 8PSK | 1080i |10,7 dB |
 4:2:0
 CW: FD D1 AB 79 BA 08 01 C3
 ---FEED-SEPARATOR---
+Euroleague, Round 21
+Valencia Basket vs Monaco Basket
+Eutelsat 7A/7B/7C @ 7.0°E
+11096 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.16 Mbit/s
+ID: E351 Spanish Graph Main
+CW: AB C9 E9 5D 9C 9A 44 7A
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11070 - H - 7200
 DVB-S2 | 8PSK |1920x1080 | 4:2:0 |
