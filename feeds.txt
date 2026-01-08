@@ -1,4 +1,11 @@
 Hot Bird (13.0°E)
+10838 V 7200
+4:2:0
+ID: CZE-012-BCL LEVICE-MAIN
+Basketball Champions League: Levice vs Wurzburg
+CW: BD 80 FE 3B 62 CC 88 B6
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
 12592 V 7200
 4:2:0
 ID: OTE 1
