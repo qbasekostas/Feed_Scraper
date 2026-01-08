@@ -1,3 +1,16 @@
+Spanish Super Cup (Supercopa) - Semi Final
+Atletico Madrid vs. Real Madrid
+Eutelsat 7B/7C @ 7.0°E
+10964 - 
+H 
+- 14400 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID:  SPANISH SUPERCUP POOL B/U (ENG) VIA 1
+CW: 14 23 CE 05 55 12 34 9B
+---FEED-SEPARATOR---
 Super Cup - Semi Final , Atlético Madrid v Real Madrid 
 Eutelsat 7B-7C   @ 07.0E
 10966  Vertical  14400,087
