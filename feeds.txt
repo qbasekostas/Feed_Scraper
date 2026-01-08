@@ -55,6 +55,12 @@ Super Cup
 Atletico Madrid vs Real Madrid
 CW: 14 23 CE 05 55 12 34 9B
 ---FEED-SEPARATOR---
+Liverpool v Arsenal
+7.0 East 
+11515 v 6668
+ID: EPL unilateral Arsenal L
+CW: 74 58 AC 78 DC BB 22 B9
+---FEED-SEPARATOR---
 Event:  
 FA Cup 
 Eutelsat 7B-7C   @ 07.0E
