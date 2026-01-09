@@ -46,6 +46,15 @@ ID: Uki-1592
 Scottish Championship - Week 22
 Ross County v Partick Thistle
 ---FEED-SEPARATOR---
+Scotland, Championship, Round 22
+Ross County vs Partick Thistle
+Eutelsat 7A/7B/7C @ 7.0°E
+12676 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.18 Mbit/s
+ID: GCUK Enc 2
+CW: DB 11 DB C7 AA 45 11 00
+---FEED-SEPARATOR---
 1W
 11487 V 15000 
 4.2.2
