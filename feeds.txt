@@ -36,6 +36,15 @@ CW: 21 2E 0B 5A 1A A9 C5 88
 English FA Cup - 3rd Round
 Wrexham v Nottingham Forest
 ---FEED-SEPARATOR---
+Champions League, Play-In, Qualification round 1
+Cholet Basket vs Tofaş Bursa
+Eutelsat Hotbird 13B/13C/13G @ 13.0E
+10827 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.99 Mbit/s 
+ID: BCL CHOLET VS BURSA
+CW: BF 59 DE F6 79 EA 88 EB
+---FEED-SEPARATOR---
 Euroleague, Round 21
 EA7 Emporio Armani Milano vs Anadolu Efes
 Eutelsat 7A/7B/7C @ 7.0°E
