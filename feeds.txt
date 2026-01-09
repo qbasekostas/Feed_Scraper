@@ -1,3 +1,12 @@
+Bundesliga, Round 16
+Eintracht Frankfurt vs Borussia Dortmund
+Eutelsat 16A @ 16.0E
+10978 - H - 3600
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 8.04 Mbit/s
+ID: Fal5 Enc2
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10732 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
