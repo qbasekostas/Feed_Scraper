@@ -36,6 +36,15 @@ CW: 21 2E 0B 5A 1A A9 C5 88
 English FA Cup - 3rd Round
 Wrexham v Nottingham Forest
 ---FEED-SEPARATOR---
+Euroleague, Round 21
+EA7 Emporio Armani Milano vs Anadolu Efes
+Eutelsat 7A/7B/7C @ 7.0°E
+11087 - H - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.51 Mbit/s
+ID: ita315 m
+CW: 4B 61 D3 7F 5C CD 11 3A
+---FEED-SEPARATOR---
 Russia, Winline Basket Cup
 Mega Basket Belgrade vs CSKA Moscow
 Eutelsat 7A/7B/7C @ 7.0E
