@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 16
+Eintracht Frankfurt vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D-462
+CW: 89 F2 BE 39 82 D8 30 8A
+---FEED-SEPARATOR---
 Bundesliga, Round 16
 Eintracht Frankfurt vs Borussia Dortmund
 Eutelsat 16A @ 16.0E
@@ -43,6 +54,14 @@ ID: No name
 CW: 21 2E 0B 5A 1A A9 C5 88
 English FA Cup - 3rd Round
 Wrexham v Nottingham Forest
+---FEED-SEPARATOR---
+28.2°E KU 
+12702 V 7200
+DVB-S2|1080HD
+4.2.2|H264
+ID: E-266 8MM Via
+Event: Liga U San Pablo Burgos vs Valencia Basket
+FTA
 ---FEED-SEPARATOR---
 42°E KU 
 12571 H 3332
