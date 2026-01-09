@@ -27,6 +27,14 @@ Laliga MD19 - 03:00 | Getafe vs Real Sociedad - Bangkok Time
 found CW: 
 C6 C0 97 1D F7 1B FF 11 
 ---FEED-SEPARATOR---
+16E
+12693 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship - Week 22
+Ross County v Partick Thistle
+---FEED-SEPARATOR---
 1W
 11487 V 15000 
 4.2.2
@@ -35,6 +43,14 @@ ID: No name
 CW: 21 2E 0B 5A 1A A9 C5 88
 English FA Cup - 3rd Round
 Wrexham v Nottingham Forest
+---FEED-SEPARATOR---
+42°E KU 
+12571 H 3332
+DVB-S2|1080HD
+4.2.0|H264
+ID: OB-25/MAIN
+Event: Türkiye Kupasi Galasary Cagdas VS Emlak Konut
+CW: 00 53 56 A9 61 61 61 23
 ---FEED-SEPARATOR---
 Champions League, Play-In, Qualification round 1
 Cholet Basket vs Tofaş Bursa
