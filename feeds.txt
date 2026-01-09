@@ -35,3 +35,12 @@ ID: No name
 CW: 21 2E 0B 5A 1A A9 C5 88
 English FA Cup - 3rd Round
 Wrexham v Nottingham Forest
+---FEED-SEPARATOR---
+Russia, Winline Basket Cup
+Mega Basket Belgrade vs CSKA Moscow
+Eutelsat 7A/7B/7C @ 7.0E
+12634 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.05 Mbit/s
+ID: YSM021
+CW: AB BA 20 85 25 20 26 6B
