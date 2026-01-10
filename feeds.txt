@@ -9,6 +9,22 @@ CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,95Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 19
+Teams: Villarreal CF vs Deportivo Alavés
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 16.15 CET
+FaDeL® said:
+#CW:
+AD 7D 0E 38 3B 5E F5 8E
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OVERON 2 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
@@ -57,6 +73,14 @@ ID: UKI 1870 PATH 1
 English FA Cup - 3rd Round
 Boreham Wood v Burton Albion
 ---FEED-SEPARATOR---
+16E
+11163 H 7200 
+4.2.2
+DVBS-2 8PSK
+ID: No name
+CW: 0C D5 53 34 6B 1F 4C D6
+English FA Cup - 3rd Round
+---FEED-SEPARATOR---
 28.2E
 12632 V 7200 
 4.2.0
@@ -86,3 +110,12 @@ english cup: maclesfield c palace
 id: UKI 1852 C1
 CW: 58 D7 13 42 F4 AB 87 26
 english cup: cheltenham leicester
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 15
+Türk Telekom B.K. vs Manisa Basket
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+11589 - H - 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.78 Mbit/s
+ID: ENC 07
+CW: 4D DE 51 7C B3 89 6B A7
