@@ -29,6 +29,17 @@ Event:
 Bayern 04 Leverkusen vs Stoccarda
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Spanish La Liga 2 - Matchday 21
+Racing Santander vs. Real Zaragoza
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 33 26 C1 1A E2 65 3C 83
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 2 
@@ -110,6 +121,17 @@ ID: SUPPONOR RUSIA 1
 Spanish La Liga 
 Valencia Vs Elche
 CW: A3 16 D6 8F D6 7D 01 54
+---FEED-SEPARATOR---
+Spanish La Liga 2 - Matchday 21
+Las Palmas vs. Deportivo La Coruña
+Eutelsat 10B @ 10.0°E
+10768 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 2
+CW: 52 E4 E0 16 73 4C 76 35
 ---FEED-SEPARATOR---
 28.2E
 12610 V 7200 
@@ -211,6 +233,22 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.78 Mbit/s
 ID: ENC 07
 CW: 4D DE 51 7C B3 89 6B A7
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+10977 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.14 Mbit/s 
+ID: E-228 Main
+CW: 46 43 65 EE DE 8C 82 EC
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Bursaspor Basketbol vs Karşıyaka
+Eutelsat Hotbird 13B/13C/13G @ 13.0E
+11212 - V - 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:2 | 25 FPS | 15.65 Mbit/s 
+ID: TUR 112 MAIN
+CW: 26 A6 F4 C0 9E A2 A5 E5
 ---FEED-SEPARATOR---
 Stoiximan Super League, Round 16
 APS Atromitos Athinon vs Olympiacos FC
