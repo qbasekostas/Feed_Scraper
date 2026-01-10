@@ -7,6 +7,15 @@ Event:
 Bayern 04 Leverkusen vs Stoccarda
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10732 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+Spanish La Liga
+Girona vs Osasuna
+found CW: 
+2B 1C E8 2F 94 EE 57 D9
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
