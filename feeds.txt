@@ -122,6 +122,17 @@ Spanish La Liga
 Valencia Vs Elche
 CW: A3 16 D6 8F D6 7D 01 54
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 19
+Valencia vs. Elche
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 3F DA 9C B5 C0 DC AB 47
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 21
 Las Palmas vs. Deportivo La Coruña
 Eutelsat 10B @ 10.0°E
@@ -140,6 +151,17 @@ DVBS-2 8PSK
 ID: UKI 1870 PATH 1
 English FA Cup - 3rd Round
 Boreham Wood v Burton Albion
+---FEED-SEPARATOR---
+1W
+10988 V 15000
+4:2:2
+ID: 
+Unknown
+FA Cup
+Charlton
+Chelsea
+0A 45 4D 21 38 F3 A9 C3  #CW: 
+71 52 CB 8E C6 2D 0B FE
 ---FEED-SEPARATOR---
 1W
 11482 V 7200 
@@ -234,6 +256,17 @@ DVB-S2 | 8PSK | 3/4
 ID: ENC 07
 CW: 4D DE 51 7C B3 89 6B A7
 ---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0E
+10977 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.14 Mbit/s 
+ID: E-228 Main
+CW: 46 43 65 EE DE 8C 82 EC
+Click to expand...
+ SC Vasco Da Gama v SL Benfica
+---FEED-SEPARATOR---
+SC Vasco Da Gama v SL Benfica
 Eutelsat 7A/7B/7C @ 7.0E
 10977 - V - 7200
 DVB-S2 | 8PSK | 3/4
