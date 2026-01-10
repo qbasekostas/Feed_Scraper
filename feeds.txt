@@ -1,6 +1,24 @@
 EUTELSAT 10A (10°E)
 Fréq:10732 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 1
+Spanish La Liga
+Villarreal vs Deportivo Alaves
+found CW: 
+AD 7D 0E 38 3B 5E F5 8E
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10732 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+Spanish La Liga
+Real Oviedo vs Real Betis 
+found CW: 
+78 45 F3 B0 32 3F E1 52 
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10732 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
 ID: SUPPONOR RUSIA 1
 Spanish La Liga 
 Valencia Vs Elche
