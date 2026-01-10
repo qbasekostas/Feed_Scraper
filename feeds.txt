@@ -1,0 +1,32 @@
+Spanish La Liga 2 - Matchday 21
+Leganés vs. Real Valladolid
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LIGA HYPERMOTION 1
+CW: 85 11 B6 4C 83 13 0C A2
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 19
+Levante vs. Espanyol
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 42 ED 84 B3 EC 09 1B 10
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 19
+Rayo Vallecano vs. Mallorca
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 27 CE CA BF 54 9E A2 94
