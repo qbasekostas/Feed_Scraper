@@ -1,3 +1,28 @@
+Eutelsat (16°E)
+10980 H 3600
+4.2.0
+ID: Fal4 Enc2
+Bundesliga
+Event: 
+Bayern 04 Leverkusen vs Stoccarda
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,81Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 19
+Teams: Real Oviedo vs Real Betis
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 14.00 CET
+FaDeL® said:
+#CW:
+78 45 F3 B0 32 3F E1 52
+Click to expand...
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10732 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
