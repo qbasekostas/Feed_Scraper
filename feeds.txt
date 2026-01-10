@@ -49,6 +49,32 @@ Spanish La Liga
 Valencia Vs Elche
 CW: A3 16 D6 8F D6 7D 01 54
 ---FEED-SEPARATOR---
+28.2E
+12610 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: UKI 1870 PATH 1
+English FA Cup - 3rd Round
+Boreham Wood v Burton Albion
+---FEED-SEPARATOR---
+28.2E
+12632 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: UKI 1870 PATH 3
+CW: 8A 4F 05 DE 03 A6 F2 9B
+English FA Cup - 3rd Round
+Boreham Wood v Burton Albion
+---FEED-SEPARATOR---
+28.2E
+12620 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: UKI 1870 PATH 2
+CW: 8A 4F 05 DE 03 A6 F2 9B
+English FA Cup - 3rd Round
+Boreham Wood v Burton Albion
+---FEED-SEPARATOR---
 28E
 12509 h 15000
 id: BBC FAC Macclesfield
