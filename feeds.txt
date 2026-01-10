@@ -1,3 +1,25 @@
+German 1. Bundesliga - Week 16
+Bayer Leverkusen vs. Stuttgart
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D-408 LEV
+CW: E3 6D 10 60 77 AF 05 2B
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 16
+Bayer Leverkusen vs. Stuttgart
+Eutelsat 7B/7C @ 7.0°E
+10964 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi08
+CW: A1 23 6B 2F F7 CA 3F 00
+---FEED-SEPARATOR---
 Eutelsat (16°E)
 10980 H 3600
 4.2.0
@@ -6,6 +28,21 @@ Bundesliga
 Event: 
 Bayern 04 Leverkusen vs Stoccarda
 CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,97Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 19
+Teams: Girona FC vs CA Osasuna
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
+MrReal said:
+CW: 2B 1C E8 2F 94 EE 57 D9
+Click to expand...
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10732 - V - 34000
@@ -82,6 +119,26 @@ ID: UKI 1870 PATH 1
 English FA Cup - 3rd Round
 Boreham Wood v Burton Albion
 ---FEED-SEPARATOR---
+28.2E
+12506 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: BBC BUP
+CW; 
+AA 23 44 11 AB BB 1A 80
+English FA Cup - 3rd Round
+Tottenham Hotspur v Aston Villa
+---FEED-SEPARATOR---
+28.2E
+12515 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: LIHS SPARE
+CW; 
+AA 23 44 11 AB BB 1A 80
+English FA Cup - 3rd Round
+Tottenham Hotspur v Aston Villa
+---FEED-SEPARATOR---
 16E
 11163 H 7200 
 4.2.2
@@ -120,6 +177,15 @@ id: UKI 1852 C1
 CW: 58 D7 13 42 F4 AB 87 26
 english cup: cheltenham leicester
 ---FEED-SEPARATOR---
+Spain, Liga ACB, Round 15
+Valencia Basket vs Unicaja
+Eutelsat 7A/7B/7C @ 7.0°E
+11042 - V - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.75 Mbit/s
+ID: Fi01_ACB
+CW: 68 C4 42 6E 3A D2 AE BA
+---FEED-SEPARATOR---
 42°E KU
 11514 V 7500
 DVB-S2|1080HD
@@ -136,3 +202,12 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.78 Mbit/s
 ID: ENC 07
 CW: 4D DE 51 7C B3 89 6B A7
+---FEED-SEPARATOR---
+Stoiximan Super League, Round 16
+APS Atromitos Athinon vs Olympiacos FC
+Eutelsat 7A/7B/7C @ 7.0°E
+11188 - H - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.87 Mbit/s
+ID: ATRO VS OSFP A
+CW: F2 E6 4C 24 F8 2B 8C AF
