@@ -153,6 +153,16 @@ English FA Cup - 3rd Round
 Boreham Wood v Burton Albion
 ---FEED-SEPARATOR---
 1W
+10970 V 15000
+4:2:2
+ID: 
+Unknown
+FA Cup
+Charlton
+Chelsea
+CW: 2B 30 5D B8 05 57 54 B0
+---FEED-SEPARATOR---
+1W
 10988 V 15000
 4:2:2
 ID: 
