@@ -122,6 +122,21 @@ Spanish La Liga
 Valencia Vs Elche
 CW: A3 16 D6 8F D6 7D 01 54
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,71Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 19
+Teams: Valencia CF vs Elche CF
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+Dani Sat said:
+CW: 3F DA 9C B5 C0 DC AB 47
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 19
 Valencia vs. Elche
 Eutelsat 10B @ 10.0°E
