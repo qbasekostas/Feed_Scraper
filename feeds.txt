@@ -119,6 +119,15 @@ ID: UKI 1870 PATH 1
 English FA Cup - 3rd Round
 Boreham Wood v Burton Albion
 ---FEED-SEPARATOR---
+1W
+11482 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: Camb v Birm
+CW: 8B F8 F1 74 2F F5 34 58
+English FA Cup - 3rd Round
+Cambridge United v Birmingham City
+---FEED-SEPARATOR---
 28.2E
 12506 H 7200 
 4.2.0
