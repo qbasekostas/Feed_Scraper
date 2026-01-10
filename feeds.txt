@@ -111,6 +111,14 @@ id: UKI 1852 C1
 CW: 58 D7 13 42 F4 AB 87 26
 english cup: cheltenham leicester
 ---FEED-SEPARATOR---
+42°E KU
+11514 V 7500
+DVB-S2|1080HD
+4.2.2|H264
+ID: E333 M
+Event: Turkish Basketball Super League Türk Telekom B.K. vs Manisa Basket
+CW: 4D DE 51 7C B3 89 6B A7
+---FEED-SEPARATOR---
 Turkish Basketball Super League, Round 15
 Türk Telekom B.K. vs Manisa Basket
 Eutelsat Hotbird 13B/13C/13G @ 13.0°E
