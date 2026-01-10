@@ -23,3 +23,15 @@ ID: SUPPONOR RUSIA 1
 Spanish La Liga 
 Valencia Vs Elche
 CW: A3 16 D6 8F D6 7D 01 54
+---FEED-SEPARATOR---
+28E
+12509 h 15000
+id: BBC FAC Macclesfield
+CW: AA 23 44 11 AB BB 1A 80
+english cup: maclesfield c palace
+---FEED-SEPARATOR---
+28E
+12643 h 7200
+id: UKI 1852 C1
+CW: 58 D7 13 42 F4 AB 87 26
+english cup: cheltenham leicester
