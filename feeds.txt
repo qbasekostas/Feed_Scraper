@@ -38,7 +38,7 @@ ID: LIGA HYPERMOTION 1
 CW: 85 11 B6 4C 83 13 0C A2
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 19
-Levante vs. Espanyol
+Rayo Vallecano vs. Mallorca
 Eutelsat 10B @ 10.0°E
 10732 - V - 34000 
 |
@@ -49,7 +49,7 @@ ID: OVERON 2
 CW: 42 ED 84 B3 EC 09 1B 10
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 19
-Rayo Vallecano vs. Mallorca
+Levante vs. Espanyol
 Eutelsat 10B @ 10.0°E
 10732 - V - 34000 
 |
@@ -58,6 +58,13 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 27 CE CA BF 54 9E A2 94
+---FEED-SEPARATOR---
+1.0°W
+11490 V 7200
+4:2:0
+ID: unnamed
+CW: E5 A4 12 9B 68 A7 F7 06
+FA Cup: Man UTD - Brighton
 ---FEED-SEPARATOR---
 16e
 12651 V 15000
