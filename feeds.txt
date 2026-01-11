@@ -1,3 +1,28 @@
+FTX said:
+Eutelsat 7B/7C 7E°
+Bundesliga MatchDay16 - 
+M'Gladbach vs Augsbourg
+11020 
+H 
+9875
+DVB-S2 - 8PSK - 4:2:2
+ID : GVA_Fi03 (EUROVISION SA)
+CW : 8D 5E 73 5E 94 CB D3 32
+Click to expand...
+Post in thread 'Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed.'
+Today at 15:46
+Bundesliga, Round 16
+Borussia M'gladbach vs FC Augsburg
+Eutelsat 7A/7B/7C @ 7.0E
+11020 - H - 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 13.35 Mbit/s 
+ID: GVA_Fi03
+CW: 8D 5E 73 5E 94 CB D3 32
+xFayez95
+---FEED-SEPARATOR---
 Eutelsat 7B/7C 7E°
 Bundesliga MatchDay16 - 
 M'Gladbach vs Augsbourg
@@ -135,6 +160,15 @@ ID: unnamed
 CW: CA 5A BB DF 7F 90 AC BB
 FA Cup: Derby County - Leeds
 ---FEED-SEPARATOR---
+ABA Liga, Group B, Round 14
+KK Spartak Office Shoes vs Perspektiva Ilirija
+Eutelsat 7A/7B/7C @ 7.0E
+12642 - V - 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 10.28 Mbit/s
+ID: YSM-021M
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 fusillo said:
 			13.0°E
 10847 V 7500
@@ -170,3 +204,11 @@ CW: 15 58 35 A2 71 42 63 16
 ID: ENC 07
 CW: 59 A8 41 42 52 73 C7 8C
 Basketbol Süper Ligi: Mersin BŞB - Trabzonspor
+---FEED-SEPARATOR---
+39°E KU
+12619 V 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: E394 MAIN
+Event: Super League Greece Levadiakos F.C. V Volos F.C.
+CW: F7 82 9E 17 4A DD 66 8D
