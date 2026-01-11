@@ -4,6 +4,28 @@
 ID: GVA_Fi04
 CW: 52 4D 5E FD 09 2D 70 A6
 ---FEED-SEPARATOR---
+Italie SÉRIE A
+LEC VS PARMA
+Eutelsat 10A @ 10.0E C-Band
+3900  H/V  3750
+ID: SERIE A
+CW: 79 A3 D7 F3 CC 08 9A 6B
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,90Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 19
+Teams: Rayo Vallecano vs RCD Mallorca
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 14.00 CET
+Dani Sat said:
+CW: 42 ED 84 B3 EC 09 1B 10
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 21
 Leganés vs. Real Valladolid
 Eutelsat 10B @ 10.0°E
@@ -37,7 +59,29 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 27 CE CA BF 54 9E A2 94
 ---FEED-SEPARATOR---
-0.8°W
+16e
+12651 V 15000
+4:2:2
+ID: 
+Unknown
+FA Cup
+Portsmouth
+Arsenal
+72 E3 7E 61 87 B7 C8 66  #CW: 
+D0 B2 16 98 AE 9C A7 F1
+---FEED-SEPARATOR---
+16e
+12633 V 15000
+4:2:2
+ID: 
+Unknown
+FA Cup
+Portsmouth
+Arsenal
+56 2B 90 6A 97 0D BF 2E  #CW: 
+D8 52 5E 88 D0 98 5B C3
+---FEED-SEPARATOR---
+Intelsat 10-02 @ 1°W
 10983 V 7200
 4:2:0
 ID: unanmed
