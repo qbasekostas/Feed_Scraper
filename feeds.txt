@@ -1,3 +1,14 @@
+Bundesliga, Round 16
+FC Bayern München vs VfL Wolfsburg
+Eutelsat 7A/7B/7C @ 7.0E
+11008 - H - 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video |
+ 4:2:2 
+| 25 FPS | 20.96 Mbit/s 
+ID: GVA_Fi04
+CW: 52 4D 5E FD 09 2D 70 A6
+---FEED-SEPARATOR---
 FTX said:
 Eutelsat 7B/7C 7E°
 Bundesliga MatchDay16 - 
@@ -108,6 +119,15 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 27 CE CA BF 54 9E A2 94
+---FEED-SEPARATOR---
+7E
+12686 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: GCUK Enc 2
+CW: E5 5A CB 0A 1B 55 B1 21
+Scottish Premiership
+Aberdeen v Rangers
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 12677 H 7200
