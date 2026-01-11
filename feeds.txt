@@ -13,6 +13,21 @@ CW: 79 A3 D7 F3 CC 08 9A 6B
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,69Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 19
+Teams: Levante UD vs RCD Espanyol
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 16.15 CET
+Dani Sat said:
+CW: 27 CE CA BF 54 9E A2 94
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OVERON 2 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
@@ -109,6 +124,13 @@ FA Cup: Derby County - Leeds
 ID: unnamed
 CW: CA 5A BB DF 7F 90 AC BB
 FA Cup: Derby County - Leeds
+---FEED-SEPARATOR---
+ Türksat 42E  
+ Frequency: 11523 V 7500
+ Resolution: 1080i HD 4:2:2  
+ ID: E 360 A (MEDIA PRO)
+ Event: Fenerbahçe vs Bahçeşehir Koleji
+CW: 64 13 65 DC 84 44 6E 36
 ---FEED-SEPARATOR---
 Poland, Polish Basketball League, Round 15
 King Wilki Morskie Szczecin vs Legia Warszawa
