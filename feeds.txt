@@ -59,6 +59,14 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 27 CE CA BF 54 9E A2 94
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+12677 H 7200
+ 4:2:0 | 8PSK
+ID: Service 1- BWF World Tour C1 BI
+Event: 
+William Hill Premiership - Dundee vs Heart of Midlothian
+CW: ED AA D1 68 35 CD AA AC
+---FEED-SEPARATOR---
 1.0°W
 11490 V 7200
 4:2:0
