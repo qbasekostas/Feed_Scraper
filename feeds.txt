@@ -51,6 +51,17 @@ ID: unnamed
 CW: CA 5A BB DF 7F 90 AC BB
 FA Cup: Derby County - Leeds
 ---FEED-SEPARATOR---
+Poland, Polish Basketball League, Round 15
+King Wilki Morskie Szczecin vs Legia Warszawa
+Eutelsat 7A/7B/7C @ 7.0°E
+12592 - V - 7200
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 13.28 Mbit/s
+ID: POL-080 MAIN
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 13.0°E
 10847 V 7500
 4:2:0
