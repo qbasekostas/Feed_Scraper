@@ -57,6 +57,23 @@ Eutelsat 10A @ 10.0E C-Band
 ID: SERIE A
 CW: 79 A3 D7 F3 CC 08 9A 6B
 ---FEED-SEPARATOR---
+#ElClásico
+​
+Asiasat 5 @ 100.5°E
+3862 V 30001 C-Band
+ID: SPANISH SUPERCUP POOL B/U (ENG) VIA 1 
+(Provider ID: Alamiya)
+MPEG4 | DVB-S2
+1920x1080i |28,74Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: Spain - Supercopa de España / Spanish Super Cup 2026 (FINAL)
+Teams: FC Barcelona vs Real Madrid
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 20.00 CET
+Dani Sat said:
+CW: 51 42 20 B3 25 20 24 69
+Click to expand...
+---FEED-SEPARATOR---
 Spanish Super Cup (Supercopa) - FINAL
 Barcelona vs. Real Madrid
 Eutelsat 7B/7C @ 7.0°E
