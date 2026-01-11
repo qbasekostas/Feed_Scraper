@@ -1,14 +1,3 @@
-Bundesliga, Round 16
-FC Bayern München vs VfL Wolfsburg
-Eutelsat 7A/7B/7C @ 7.0E
-11008 - H - 9875
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video |
- 4:2:2 
-| 25 FPS | 20.96 Mbit/s 
-ID: GVA_Fi04
-CW: 52 4D 5E FD 09 2D 70 A6
----FEED-SEPARATOR---
 FTX said:
 Eutelsat 7B/7C 7E°
 Bundesliga MatchDay16 - 
