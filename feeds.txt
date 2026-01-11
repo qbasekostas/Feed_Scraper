@@ -36,3 +36,17 @@ Eutelsat 10B @ 10.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: OVERON 1
 CW: 27 CE CA BF 54 9E A2 94
+---FEED-SEPARATOR---
+0.8°W
+10983 V 7200
+4:2:0
+ID: unanmed
+CW: 8C 72 E9 E7 4C 92 BE 9C
+FA Cup: Derby County - Leeds
+---FEED-SEPARATOR---
+0.8°W
+10970 V 15000
+4:2:2
+ID: unnamed
+CW: CA 5A BB DF 7F 90 AC BB
+FA Cup: Derby County - Leeds
