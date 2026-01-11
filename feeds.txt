@@ -1,3 +1,9 @@
+7.0°E
+11009 H 9876
+4:2:2
+ID: GVA_Fi04
+CW: 52 4D 5E FD 09 2D 70 A6
+---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 21
 Leganés vs. Real Valladolid
 Eutelsat 10B @ 10.0°E
