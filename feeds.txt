@@ -320,3 +320,11 @@ DVB-S2|1080HD
 ID: E394 MAIN
 Event: Super League Greece Levadiakos F.C. V Volos F.C.
 CW: F7 82 9E 17 4A DD 66 8D
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11127 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: PAO VS PANS A
+Event: 
+Greek Super League - Panathinaikos vs Panserraikos
+CW: 37 80 54 0B 87 23 DF 89
