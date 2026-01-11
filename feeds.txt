@@ -68,17 +68,6 @@ Eutelsat 7B/7C @ 7.0°E
 ID: SPANISH SUPERCUP POOL B/U (ENG) VIA 1
 CW: 51 42 20 B3 25 20 24 69
 ---FEED-SEPARATOR---
-Dani Sat said:
-Spanish Super Cup (Supercopa) - FINAL
-Barcelona vs. Real Madrid
-CW: 51 42 20 B3 25 20 24 69
-Click to expand...
-Eutelsat 7A/7B/7C @ 7.0E
-11017 - V - 14400
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 30.48 Mbit/s 
-ID: SPANISH SUPERCUP POOL B/U (ENG) VIA 1
----FEED-SEPARATOR---
 Spanish Super Cup (Supercopa) - FINAL
 Barcelona vs. Real Madrid
 Eutelsat 7B/7C @ 7.0°E
@@ -89,25 +78,6 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: Pool Main (Spanish Graphics)
 CW: 51 42 20 B3 25 20 24 69
----FEED-SEPARATOR---
-● 
-𝗦𝗽𝗮𝗻𝗶𝘀𝗵 𝗦𝘂𝗽𝗲𝗿 𝗖𝘂𝗽 𝗙𝗶𝗻𝗮𝗹
-●𝗕𝗮𝗿𝗰𝗲𝗹𝗼𝗻𝗮 
-️ 𝗥𝗲𝗮𝗹 𝗠𝗮𝗱𝗿𝗶𝗱
-●𝗥𝗲𝗳𝗲𝗿𝗲𝗲:𝗠𝘂𝗻𝘂𝗲𝗿𝗮 𝗝. (𝗘𝘀𝗽)
-●𝗩𝗲𝗻𝘂𝗲:
-●𝗞𝗶𝗻𝗴 𝗔𝗯𝗱𝘂𝗹𝗹𝗮𝗵 𝗦𝗽𝗼𝗿𝘁𝘀 𝗖𝗶𝘁𝘆 (𝗝𝗲𝗱𝗱𝗮𝗵)
-●𝗖𝗮𝗽𝗮𝗰𝗶𝘁𝘆:𝟲𝟮 𝟯𝟰𝟱
-●𝗘𝘂𝘁𝗲𝗹𝘀𝗮𝘁 𝟳.𝟬𝗘
-●
-️𝟭𝟬𝟵𝟲𝟲 𝗩 𝟭𝟰𝟰𝟬𝟬
-●
-𝟰:𝟮:𝟬
-●
-️:𝗣𝗢𝗢𝗟 𝗠𝗔𝗜𝗡 (𝗘𝗡𝗚 𝗴𝗿𝗽𝗵𝗶𝗰𝘀) (𝗨𝗔𝗘-𝟭𝟬𝟭 𝗩𝗶𝗮 𝟭=𝗠𝗮𝗶𝗻) (𝗔𝗹𝗮𝗺𝗶𝘆𝗮)
-●𝗖𝗪: 𝟱𝟭 𝟰𝟮 𝟮𝟬 𝗕𝟯 𝟮𝟱 𝟮𝟬 𝟮𝟰 𝟲𝟵
-						1768151471082 — Postimages
-					postimg.cc
 ---FEED-SEPARATOR---
 Spanish Super Cup (Supercopa) - FINAL
 Barcelona vs. Real Madrid
