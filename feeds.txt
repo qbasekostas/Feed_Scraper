@@ -1,3 +1,13 @@
+Eutelsat 7B/7C 7E°
+Bundesliga MatchDay16 - 
+M'Gladbach vs Augsbourg
+11020 
+H 
+9875
+DVB-S2 - 8PSK - 4:2:2
+ID : GVA_Fi03 (EUROVISION SA)
+CW : 8D 5E 73 5E 94 CB D3 32
+---FEED-SEPARATOR---
 7.0°E
 11009 H 9876
 4:2:2
@@ -124,6 +134,17 @@ FA Cup: Derby County - Leeds
 ID: unnamed
 CW: CA 5A BB DF 7F 90 AC BB
 FA Cup: Derby County - Leeds
+---FEED-SEPARATOR---
+fusillo said:
+			13.0°E
+10847 V 7500
+4:2:0
+ID: ENC 07
+CW: 59 A8 41 42 52 73 C7 8C
+Basketbol Süper Ligi: Mersin BŞB - Trabzonspor
+Click to expand...
+New CW: 
+64 13 65 DC 84 44 6E 36
 ---FEED-SEPARATOR---
  Türksat 42E  
  Frequency: 11523 V 7500
