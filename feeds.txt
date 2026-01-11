@@ -9,7 +9,7 @@ DVB-S2 - 8PSK - 4:2:2
 ID : GVA_Fi03 (EUROVISION SA)
 CW : 8D 5E 73 5E 94 CB D3 32
 Click to expand...
-Post in thread 'Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed.'
+Post in thread 'GERMAN FOOTBALL (Bundesliga etc)  (If 4:2:2 or 4:2:0 please include this info in your post!)'
 Today at 15:46
 Bundesliga, Round 16
 Borussia M'gladbach vs FC Augsburg
@@ -33,6 +33,17 @@ DVB-S2 - 8PSK - 4:2:2
 ID : GVA_Fi03 (EUROVISION SA)
 CW : 8D 5E 73 5E 94 CB D3 32
 ---FEED-SEPARATOR---
+Bundesliga, Round 16
+Borussia M'gladbach vs FC Augsburg
+Eutelsat 7A/7B/7C @ 7.0E
+11020 - H - 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 13.35 Mbit/s 
+ID: GVA_Fi03
+CW: 8D 5E 73 5E 94 CB D3 32
+---FEED-SEPARATOR---
 7.0°E
 11009 H 9876
 4:2:2
@@ -45,6 +56,17 @@ Eutelsat 10A @ 10.0E C-Band
 3900  H/V  3750
 ID: SERIE A
 CW: 79 A3 D7 F3 CC 08 9A 6B
+---FEED-SEPARATOR---
+Spanish Super Cup (Supercopa) - FINAL
+Barcelona vs. Real Madrid
+Eutelsat 7B/7C @ 7.0°E
+11102 - H - 14400 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: MOVISTAR + PERSO MAIN
+CW: 51 42 20 B3 25 20 24 69
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
@@ -169,6 +191,20 @@ ID: unnamed
 CW: CA 5A BB DF 7F 90 AC BB
 FA Cup: Derby County - Leeds
 ---FEED-SEPARATOR---
+Eutelsat Hotbird 13B/13C/13G @ 13.0E
+10837 - V - 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.43 Mbit/s 
+ID: Service 1- BWF World Tour C1 BISS-1
+CW: 19 DC AA 9F 1E 50 31 9F
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11161 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.01 Mbit/s 
+ID: Medialink CRO-024/1
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
 ABA Liga, Group B, Round 14
 KK Spartak Office Shoes vs Perspektiva Ilirija
 Eutelsat 7A/7B/7C @ 7.0E
@@ -213,6 +249,13 @@ CW: 15 58 35 A2 71 42 63 16
 ID: ENC 07
 CW: 59 A8 41 42 52 73 C7 8C
 Basketbol Süper Ligi: Mersin BŞB - Trabzonspor
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11134 - H - 7200
+DVB-S2 | QPSK-S2 | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 10.01 Mbit/s 
+ID: SNG ABC 1
+CW: D5 2C DE DF 9E 50 49 37
 ---FEED-SEPARATOR---
 39°E KU
 12619 V 7200
