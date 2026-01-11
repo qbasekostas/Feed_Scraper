@@ -50,3 +50,10 @@ FA Cup: Derby County - Leeds
 ID: unnamed
 CW: CA 5A BB DF 7F 90 AC BB
 FA Cup: Derby County - Leeds
+---FEED-SEPARATOR---
+13.0°E
+10847 V 7500
+4:2:0
+ID: ENC 07
+CW: 59 A8 41 42 52 73 C7 8C
+Basketbol Süper Ligi: Mersin BŞB - Trabzonspor
