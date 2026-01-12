@@ -1,3 +1,10 @@
+FA Cup: Liverpool-Barnsley
+Thor 5/6/7 & Intelsat 10-02 @ 0.8W
+10982 V 7200
+ID: LFC Bup
+1920x1080 |8PSK |4:2:0 HD
+CW: 07 A7 AC 5A 6B 51 D5 91
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11107 H 7200 DVB-S2 8PSK
 MPEG 4 - 4:2:0 - HDTV
