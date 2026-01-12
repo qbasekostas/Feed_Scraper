@@ -13,6 +13,13 @@ Event:
 FA Cup 3RD ROUND Complete Highlights
 CW: FD D1 AB 79 BA 12 01 CD
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11161 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.15 Mbit/s
+ID: Medialink CRO-024/1
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
 AdmiralBet ABA League, Round 14
 BC Dubai vs KK Borac Mozzart
 Eutelsat 7A/7B/7C @ 7.0°E
