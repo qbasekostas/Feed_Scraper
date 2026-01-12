@@ -13,6 +13,14 @@ Event:
 FA Cup 3RD ROUND Complete Highlights
 CW: FD D1 AB 79 BA 12 01 CD
 ---FEED-SEPARATOR---
+42°E KU
+11514 V 7500
+DVB-S2|1080HD
+4.2.2|H264
+ID: TUR 112 MAIN
+Event: Turkish Basketball Super League Buyukcekmece V Anadolu Efes
+CW: DE 51 C1 F0 2E 59 86 0D
+---FEED-SEPARATOR---
 ABA Liga, Group A, Round 14
 KK Split vs FMP Beograd
 Eutelsat 7A/7B/7C @ 7.0E
