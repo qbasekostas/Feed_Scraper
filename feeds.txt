@@ -1,0 +1,7 @@
+Eutelsat 7B-7C @ 07.0E
+11107 H 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: FA Cup Complete Highlights
+Event: 
+FA Cup 3RD ROUND Complete Highlights
+CW: FD D1 AB 79 BA 12 01 CD
