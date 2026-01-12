@@ -1,3 +1,19 @@
+Eutelsat 7B/7C 7E°
+Event :
+ FA Cup 4th Round Live Draw
+11106 
+H
+ 7120
+DVB-S2 
+- 
+8PSK 
+- 
+4:2:0
+ID : Pitch - FA Cup - Live Draw Show (NEP Connect)
+CW
+ : 
+FD D1 AB 79 BA 12 01 CD
+---FEED-SEPARATOR---
 FA Cup: Liverpool-Barnsley
 Thor 5/6/7 & Intelsat 10-02 @ 0.8W
 10982 V 7200
