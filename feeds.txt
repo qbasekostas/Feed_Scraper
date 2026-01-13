@@ -4,3 +4,11 @@ PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 24 21 CC 11 DD 22 42 41
 Newcastle vs Manchester City
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12685 - V - 7200
+DVB-S2 | 8PSK |1920x1080 | 4:2:0 |
+ID: TKS TRT M20 A
+Event:
+EuroCup Basketball - Bahcesehir vs Manresa
+CW: 4E 5B 29 D2 6D D4 6A AB
