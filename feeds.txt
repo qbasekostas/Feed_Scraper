@@ -68,6 +68,22 @@ DVB-S2 | 8PSK | 1080i |10,0 dB |
 4:2:0
 CW: 45 9A 71 50 C2 24 26 0C
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4108 H 9875 C-Band
+ID: Fi18_GNVE 
+(Provider ID: EBUER)
+MPEG4 | DVB-S2
+1920x1080i |17,92Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: Spain - Copa del Rey (Round of 16)
+Teams: CYD Leonesa vs Athletic Club
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+Hackintosh said:
+#CW:
+54 21 AC 21 21 15 72 A8
+Click to expand...
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3906 H 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
