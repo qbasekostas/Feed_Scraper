@@ -1,9 +1,26 @@
+German 1. Bundesliga - Week 17
+Stuttgart vs. Eintracht Frankfurt
+Eutelsat 7B/7C @ 7.0°E
+11081 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi02
+CW: D3 AD B6 36 2E A1 25 F4
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3906 H 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 24 21 CC 11 DD 22 42 41
 Newcastle vs Manchester City
+---FEED-SEPARATOR---
+13.0°E
+10847 V 7200
+4:2:0
+ID: BCL260113
+CW: BB 57 DC EE 63 FA 76 D3
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12685 - V - 7200
