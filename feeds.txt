@@ -9,6 +9,16 @@ Eutelsat 7B/7C @ 7.0°E
 ID: GVA_Fi02
 CW: D3 AD B6 36 2E A1 25 F4
 ---FEED-SEPARATOR---
+Event:  
+Copa del Rey -  Deportivo La Coruña v Atlético Madrid
+Eutelsat 7B-7C   @ 07.0E
+10975  Vertical  9600,021
+ID:
+  E-447 VIA 1 BROADCAST PRODUCCI (Harmonic)
+DVB-S2 | 8PSK | 1080i |10,0 dB | 
+4:2:0
+CW: 45 9A 71 50 C2 24 26 0C
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3906 H 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
