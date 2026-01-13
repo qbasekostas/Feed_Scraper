@@ -10,6 +10,25 @@ ID: GVA_Fi02
 CW: D3 AD B6 36 2E A1 25 F4
 ---FEED-SEPARATOR---
 Event:  
+Copa del Rey - Cultural Leonesa v Athletic Bilbao
+Eutelsat 7B-7C   @ 07.0E
+11047  Vertical  9600,032
+ID:
+  E336 G18 VIA 1 (Service Provider)
+DVB-S2 | 8PSK | 1080i |11,1 dB | 
+4:2:0
+CW: 54 21 AC 21 21 15 72 A8
+---FEED-SEPARATOR---
+Copa del Rey, Round of 16
+Real Sociedad vs Osasuna
+Eutelsat 7A/7B/7C @ 7.0°E
+10984 - V - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 20.32 Mbit/s
+ID: E351 Spanish Graph Main
+CW: AC 21 15 E2 72 54 21 E7
+---FEED-SEPARATOR---
+Event:  
 Copa del Rey -  Deportivo La Coruña v Atlético Madrid
 Eutelsat 7B-7C   @ 07.0E
 10975  Vertical  9600,021
