@@ -9,6 +9,36 @@ Eutelsat 7B/7C @ 7.0°E
 ID: GVA_Fi02
 CW: D3 AD B6 36 2E A1 25 F4
 ---FEED-SEPARATOR---
+Hackintosh said:
+			Event:  
+Copa del Rey -  Deportivo La Coruña v Atlético Madrid
+Eutelsat 7B-7C   @ 07.0E
+10975  Vertical  9600,021
+ID:
+  E-447 VIA 1 BROADCAST PRODUCCI (Harmonic)
+DVB-S2 | 8PSK | 1080i |10,0 dB | 
+4:2:0
+CW: 45 9A 71 50 C2 24 26 0C
+Click to expand...
+47W SES14 C 
+3871H9873
+ID: FI10GNVE 
+---FEED-SEPARATOR---
+Hackintosh said:
+			Event:  
+Copa del Rey - Cultural Leonesa v Athletic Bilbao
+Eutelsat 7B-7C   @ 07.0E
+11047  Vertical  9600,032
+ID:
+  E336 G18 VIA 1 (Service Provider)
+DVB-S2 | 8PSK | 1080i |11,1 dB | 
+4:2:0
+CW: 54 21 AC 21 21 15 72 A8
+Click to expand...
+47W SES14 C 
+3883H9873
+ID: FI11GNVE 
+---FEED-SEPARATOR---
 Event:  
 Copa del Rey - Cultural Leonesa v Athletic Bilbao
 Eutelsat 7B-7C   @ 07.0E
@@ -44,6 +74,31 @@ PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 24 21 CC 11 DD 22 42 41
 Newcastle vs Manchester City
+---FEED-SEPARATOR---
+ABS-3A 3W
+10996 V 10000 
+4:2:0
+DVBS-2 8PSK
+ID: UKI-1646 Cage Warriors - CW199
+CW: 26 C4 1A 04 3C 1D 24 7D
+English League Cup - Semi Final (1st Leg)
+Newcastle United v Manchester City
+---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3906 H 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 24 21 CC 11 DD 22 42 41
+Newcastle vs Manchester City
+Click to expand...
+7E
+10969 
+H
+ 7120
+ID: Pitch Carabao Newcastle v Man City
+Event: English League Cup - Semi Final (1st Leg)
+Newcastle United v Manchester City
 ---FEED-SEPARATOR---
 7.0°E
 11164 V 7500
