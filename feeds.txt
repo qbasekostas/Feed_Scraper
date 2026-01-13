@@ -29,3 +29,12 @@ ID: TKS TRT M20 A
 Event:
 EuroCup Basketball - Bahcesehir vs Manresa
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Eurocup, Round 14
+Klaipėdos Neptūnas vs KK Cedevita Olimpija
+Eutelsat 7A/7B/7C @ 7.0°E
+12726 - V - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.73 Mbit/s
+ID: LAT-002
+CW: BA 23 DE BB 81 CD 72 C0
