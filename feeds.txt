@@ -1,0 +1,60 @@
+Copa del Rey, Round of 16
+Albacete Balompié vs Real Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+11104 - V - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 21.00 Mbit/s
+ID: E-064 G55 Via 2
+Eutelsat 7A/7B/7C @ 7.0E
+11092 - V - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 20.52 Mbit/s 
+ID: E-064 G55 Via1
+Eutelsat 7A/7B/7C @ 7.0°E
+11020 - V - 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 20.57 Mbit/s
+ID: E-447 VIA 1 BROADCAST PRODUCCI
+CW: 27 51 CE 46 14 26 26 60
+---FEED-SEPARATOR---
+7E
+11460 V 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID:  BT ATME ENC 6
+EVENT: 
+Spain Women Football: Barcelona W vs Atletico Madrid W
+CW: 3B A5 FA DA 0E 4A 20 78
+---FEED-SEPARATOR---
+Event:  
+ English League Cup - Semi Final
+Chelsea v Arsenal
+Eutelsat 7B-7C   @ 07.0E
+10971  Horizontal  7120,054
+ID:
+ Pitch- Chelsea v Arsenal Carabao Cup Semi (NEP Connect)
+DVB-S2 | 8PSK | 1080i |10,0 dB | 
+4:2:0
+CW: 11 41 DD 2F CC 33 21 20
+---FEED-SEPARATOR---
+7 EAST
+10977 V 4937 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: MNE-001 main
+Event: 
+Eurocup Basketball - BUDUCNOST VOLI - LIETKABELIS
+CW: C8 C6 1D AB 35 43 AA 22
+---FEED-SEPARATOR---
+7 EAST
+12640 H 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: BB EC ULm
+Event: 
+Eurocup Basketball - Ratiopharm ULM Vs Niners Chemnitz
+CW: BB EE 14 BD 01 20 26 47
+---FEED-SEPARATOR---
+Eutelsat Hotbird 13B/13C/13G @ 13.0E
+11634 - V - 9700
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 20.67 Mbit/s 
+ID: PAO VS ARIS A
+CW: 88 AA 55 87 BB 22 BB 98
