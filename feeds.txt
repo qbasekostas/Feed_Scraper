@@ -1,3 +1,15 @@
+joshp79 said:
+7E
+11021 H 9874
+Bundesliga
+BISS encryption
+Click to expand...
+4:2:2
+ID: D-408 K
+Event: 
+Colonia vs Bayern Monaco
+CW: 48 DE 97 BD B0 0B 32 ED
+---FEED-SEPARATOR---
 Copa del Rey, Round of 16
 Albacete Balompié vs Real Madrid
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -25,6 +37,24 @@ EVENT:
 Spain Women Football: Barcelona W vs Atletico Madrid W
 CW: 3B A5 FA DA 0E 4A 20 78
 ---FEED-SEPARATOR---
+Hackintosh said:
+			Event:  
+ English League Cup - Semi Final
+Chelsea v Arsenal
+Eutelsat 7B-7C   @ 07.0E
+10971  Horizontal  7120,054
+ID:
+ Pitch- Chelsea v Arsenal Carabao Cup Semi (NEP Connect)
+DVB-S2 | 8PSK | 1080i |10,0 dB | 
+4:2:0
+CW: 11 41 DD 2F CC 33 21 20
+Click to expand...
+100.5e
+3906 H 7120
+4:2:0
+ID: 
+BT_SES_24_SDI
+---FEED-SEPARATOR---
 Event:  
  English League Cup - Semi Final
 Chelsea v Arsenal
@@ -35,6 +65,32 @@ ID:
 DVB-S2 | 8PSK | 1080i |10,0 dB | 
 4:2:0
 CW: 11 41 DD 2F CC 33 21 20
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 14
+Aris BC vs Hapoel Jerusalem BC
+Eutelsat 7A/7B/7C @ 7.0°E
+11522 - V - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.59 Mbit/s
+ID: ARIS vs HAPOEL
+CW: F8 4A C1 03 3D B5 2E 20
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12536 - H - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 12.95 Mbit/s
+EUROCUP BASKETBALL
+JL Bourg vs Beşiktaş
+ID: F489 MAIN
+CW: 14 01 AB C0 CD 20 26 13
+---FEED-SEPARATOR---
+7 EAST
+11164  V 7500 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: ENC1 S9 MPEG4 HD
+EVENT:
+EUROCUP BASKETBALL - Umana Reyer Venezia VS  Śląsk Wrocław
+CW: A1 FC 10 AD FC B1 BB 68
 ---FEED-SEPARATOR---
 7 EAST
 10977 V 4937 DVB-S2 8PSK
