@@ -14,6 +14,22 @@ ID: Unname
 Event: Serie A Como V Milan
 CW: 4E 73 2D EE 65 BE 2A 4D
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3862 V 30001 C-Band
+ID: E-064 G55 Via1 
+(Provider ID: TBS)
+MPEG4 | DVB-S2
+1920x1080i |19,35Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: Spain - Copa del Rey (Round of 16)
+Teams: Burgos FC vs Valencia CF
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+abed1988 said:
+#CW:
+1A C5 C1 A0 26 11 33 6A
+Click to expand...
+---FEED-SEPARATOR---
 Robertooo said:
 CW: 15 72 AC 33 21 54 21 96
 Click to expand...
