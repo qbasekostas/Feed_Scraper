@@ -6,6 +6,19 @@ ID: F6-2 4.5MH
 Event: Bundesliga FC Augsburg V FC Union Berlin
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+10973 Vertical 9597,957 3/4
+DVB-S2/8PSK (4:2:0)
+E336 ENG GRAPH Main
+Copa del Rey - Racing vs Barcelona
+CW: 15 72 AC 33 21 54 21 96
+Eutelsat 7B/7C (7.0E)
+10985 Vertical 9598,098 3/4
+DVB-S2/8PSK (4:2:0)
+E351 English Graph Back Up
+Copa del Rey - Racing vs Barcelona
+CW: 15 72 AC 33 21 54 21 96
+---FEED-SEPARATOR---
 Burgos CF - valencia
 Eutelsat 7A/7B/7C 7.0E
 10960 V 9597
