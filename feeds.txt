@@ -1,7 +1,0 @@
-7°E KU
-11080 H 9873
-DVB-S2|1080HD
-4.2.2|H264
-ID: Augsburg vs Berlin
-Event: Bundesliga FC Augsburg V FC Union Berlin
-CW: 02 F8 8E 88 58 19 11 82
