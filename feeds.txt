@@ -6,9 +6,48 @@ ID: F6-2 4.5MH
 Event: Bundesliga FC Augsburg V FC Union Berlin
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Burgos CF - valencia
+Eutelsat 7A/7B/7C 7.0E
+10960 V 9597
+4.2.0 HD 
+ID: E-064 G55 Via1 (TBS)
+85 77 E4 FE 80 74 54 74  #CW:
+1A C5 C1 A0 26 11 33 6A
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 4165 V 9875 
 PMT PID: 2048, SID: 1 @ Fi13_GNVE (EBUER)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 27 51 CE 46 14 26 26 60
 Albacete Balompié vs Real Madrid
+---FEED-SEPARATOR---
+English Womens FA Cup - 4th Round
+West Bromwich Albion vs. Everton
+Intelsat 10-02 @ 1.0°W
+11486 - V - 15000 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+11472 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 6E C2 C3 F3 AC 00 77 23
+---FEED-SEPARATOR---
+7E
+11023 H 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: UAE074-1
+Event: EURO LEAGUE Dubai v Virtus Bologna
+CW: C5 B9 91 0F 69 79 71 53
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12633 - V - 4937
+DVB-S2 | 8PSK |1920x1080 | 4:2:0 |
+ID: Medialink CRO-024/1
+CW: AB BA 20 85 25 20 26 6B
