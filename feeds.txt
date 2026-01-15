@@ -6,6 +6,16 @@ ID: F6-2 4.5MH
 Event: Bundesliga FC Augsburg V FC Union Berlin
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Robertooo said:
+CW: 15 72 AC 33 21 54 21 96
+Click to expand...
+Eutelsat 7B / 7C (7°0 E)
+10995 - V - 7200
+1920x1080 | 4:2:0 |
+ID: E351 Perso Movistar
+Event: 
+Copa del Rey - Racing vs Barcelona
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 10973 Vertical 9597,957 3/4
 DVB-S2/8PSK (4:2:0)
@@ -50,6 +60,24 @@ ID: Unname
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 6E C2 C3 F3 AC 00 77 23
+---FEED-SEPARATOR---
+Verdeoro said:
+			Event: 
+Eurolegue Basketball - Olimpia Milano vs Stella Rossa
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11164 - V - 7500
+DVB-S2 | 8PSK |1920x1080 | 4:2:0 |
+ID: ITA473 MAIN
+CW: A1 FC 10 AD FC B1 BB 68
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11014 - H - 7200
+DVB-S2 | 8PSK |1920x1080 | 4:2:0 |
+ID: Eurolega mil _Main
+Event: 
+Eurolegue Basketball - Olimpia Milano vs Stella Rossa
+CW: 27 E7 94 A2 76 A3 18 31
 ---FEED-SEPARATOR---
 7E
 11023 H 7200
