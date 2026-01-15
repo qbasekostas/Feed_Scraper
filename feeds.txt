@@ -1,3 +1,11 @@
+16°E KU
+10980 H 3600
+DVB-S2|1080HD
+4.2.0|H264
+ID: F6-2 4.5MH
+Event: Bundesliga FC Augsburg V FC Union Berlin
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 4165 V 9875 
 PMT PID: 2048, SID: 1 @ Fi13_GNVE (EBUER)
