@@ -6,6 +6,14 @@ ID: F6-2 4.5MH
 Event: Bundesliga FC Augsburg V FC Union Berlin
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+28.2°E KU
+12515 H 7200
+DVB-S2|1080HD
+4.2.2|H264
+ID: Unname
+Event: Serie A Como V Milan
+CW: 4E 73 2D EE 65 BE 2A 4D
+---FEED-SEPARATOR---
 Robertooo said:
 CW: 15 72 AC 33 21 54 21 96
 Click to expand...
@@ -43,6 +51,14 @@ PMT PID: 2048, SID: 1 @ Fi13_GNVE (EBUER)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 27 51 CE 46 14 26 26 60
 Albacete Balompié vs Real Madrid
+---FEED-SEPARATOR---
+28.2°E KU
+12506 H 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: Unname
+Event: English Womens FA Cup West Bromwich Albion vs. Everton
+CW: 4E 73 2D EE 65 BE 2A 4D
 ---FEED-SEPARATOR---
 English Womens FA Cup - 4th Round
 West Bromwich Albion vs. Everton
