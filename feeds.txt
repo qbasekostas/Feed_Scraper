@@ -1,3 +1,11 @@
+28.2E
+12702 v 7200
+ID: D-473 regensburg 3 buli
+4:2:0
+3. liga
+Jahn Regensburg v Ingolstadt
+CW: 16 01 FD 14 AB 12 87 44
+---FEED-SEPARATOR---
 Bundesliga 2
 -  Round 18
 Fortuna vs Bielefeld
@@ -26,6 +34,16 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 72 8D FD FC 1D 02 63 82
    #[E] PID:0F0Bh
+---FEED-SEPARATOR---
+Championship
+West Brom Vs Middlesbrough
+100.5°E C
+@ AsiaSat 5
+3975 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 35 86 A3 5E 4A 5A 35 D9
 ---FEED-SEPARATOR---
 Turkish Basketball Super League, Round 16
 Bursaspor Basketbol vs Yukatel Merkezefendi Belediyesi Basket
