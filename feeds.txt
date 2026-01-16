@@ -1,3 +1,11 @@
+EUTELSAT 10A (10°E)
+Fréq:10732 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID: LIGA HYPERMOTION 1
+Laliga 2
+ Castellón vs Leganés
+CW: 72 6C 97 75 97 B1 54 9C
+---FEED-SEPARATOR---
 Laliga MD20 - RCD Espanyol vs Girona FC
 AsiaSat 5 100.5E
 3840 H 29998
