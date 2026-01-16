@@ -1,3 +1,13 @@
+7e
+11023 V 9875
+4:2:2
+ID: 
+GVA_Fi03
+Bundesliga 
+Werder Bremen  vs   Eintracht Frankfurt
+85 F3 77 62 25 87 0C EC  #CW: 
+11 D6 D7 BE 39 5C E4 79
+---FEED-SEPARATOR---
 28.2E
 12702 v 7200
 ID: D-473 regensburg 3 buli
