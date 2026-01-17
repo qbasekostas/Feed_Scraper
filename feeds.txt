@@ -74,3 +74,14 @@ The Adobe Women's FA Cup
 ID: unnamed
 CW: F2 6E 5A BA E1 43 AE D2
 The Adobe Women's FA Cup
+---FEED-SEPARATOR---
+Turksat 2A-3A-4A @ 42.0E
+11497  Vertical  7502,148
+ID:TUR 112 MAIN (MEDÄ°APRO TURKEY)
+1920x1080 |16,722Mb/Sec |8PSK |4:2:2 HD
+Turquía
+Super Lig - Jornada 16
+Buyukcekmece
+ VS 
+Trabzonspor
+CW: 8D 68 6D 62 30 36 A4 0A
