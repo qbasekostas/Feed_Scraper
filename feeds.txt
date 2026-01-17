@@ -1,3 +1,14 @@
+Bundesliga, Round 18
+RB Leipzig vs FC Bayern Münche
+Eutelsat 7A/7B/7C @ 7.0E
+11020 - V - 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 20.86 Mbit/s 
+ID: D535-LPZG-4M12-1
+CW: BE C2 6C EC 97 B5 11 5D
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 4108 H 9875 C-Band
 ID: Fi11_GNVE
@@ -359,6 +370,15 @@ Eutelsat 7B/7C (7.0 E)
 11105 Vertical 9872,851 3/4
 DVB-S2/8PSK (4:2:2)
 NBA London 02 In Arena Path 2
+---FEED-SEPARATOR---
+ABA Liga, Group B, Round 15
+KK Zadar vs KK Crvena zvezda
+Eutelsat 7A/7B/7C @ 7.0E
+12639 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.19 Mbit/s 
+ID: Medialink CRO-024/1
+CW: 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 13.0°E
 12592 V 7500
