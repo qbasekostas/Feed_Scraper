@@ -1,3 +1,11 @@
+28.2E
+12506 h 7200
+ID: DMC D-361 
+4:2:0
+3. liga
+SC Verl v Waldhof Mannheim
+CW: 17 01 ED 05 DE 20 26 24
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10768  Vertical  33999,708
 ID:LIGA HYPERMOTION 1 (OVERON)
@@ -54,6 +62,22 @@ ID:
 DVB-S2 | 8PSK | 1080i |12,4 dB | 
 4:2:2
 CW: 37 7F 00 B6 51 67 A4 5C
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Cup - 4th Round
+Dunfermline Athletic v Hibernian
+---FEED-SEPARATOR---
+16E
+12702 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Cup - 4th Round
+Dunfermline Athletic v Hibernian
 ---FEED-SEPARATOR---
 16E
 12712 V 2000
