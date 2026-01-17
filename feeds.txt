@@ -34,8 +34,26 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 37 7F 00 B6 51 67 A4 5C
 ---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12610 V 7200
+ID:*unnamed-1* (*unnamed-1*)
+1920x1080 |16,053Mb/Sec |8PSK |
+4:2:2
+ HD
+TNT SPORT UK HD -  
+Women's FA Cup round 4 -> Sunderland Women
+ v  
+London City Lionesses
+Sat 17th January 2026 K/O - 12:15pm
+2B B3 DF A8 C5 A9 14 E9  #CW: 90 4D 0B E8 85 0B 0E 9E
+---FEED-SEPARATOR---
 fusillo said:
-			The Adobe Women's FA Cup
+The Adobe Women's FA Cup - 
+TNT SPORT UK HD -  
+Women's FA Cup round 4 -> Sunderland Women
+ v  
+London City Lionesses
+Sat 17th January 2026 K/O - 12:15pm
 Click to expand...
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12619  Vertical  7202,115
