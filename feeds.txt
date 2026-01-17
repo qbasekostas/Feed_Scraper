@@ -55,6 +55,24 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 37 7F 00 B6 51 67 A4 5C
 ---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Cup - 4th Round
+Dunfermline Athletic v Hibernian
+---FEED-SEPARATOR---
+19:30 | 
+Coventry City vs Leicester City
+ - GMT+7
+AsiaSat 5 100.5E
+3984 V 7119
+8PSK 2/3 4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+CW: 54 83 43 1A 6A D3 66 A3
+   #[E] PID:07D1h
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12610 V 7200
 ID:*unnamed-1* (*unnamed-1*)
