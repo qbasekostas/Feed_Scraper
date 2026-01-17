@@ -372,6 +372,15 @@ ID: unnamed
 CW: F2 6E 5A BA E1 43 AE D2
 The Adobe Women's FA Cup
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12735 - V - 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.66 Mbit/s
+ID: ENC 6
+Scottish Cup : Hearts vs Falkirk 
+8pm kick off
+CW: BC AA 45 AB 56 BB CA DB
+---FEED-SEPARATOR---
 7e
 10978 v 7120
 id:
