@@ -1,3 +1,10 @@
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12642  Horizontal  7199,918
+ID:    D-528 (rt1.tv)
+1920x1080 |16,047Mb/Sec |8PSK |4:2:0 HD
+Germany, 3. LigaHansa Rostockvs. Erzgebirge Aue 
+CW: 17 01 ED 05 DE 20 26 24
+---FEED-SEPARATOR---
 28.2E
 12506 h 7200
 ID: DMC D-361 
@@ -5,6 +12,22 @@ ID: DMC D-361
 3. liga
 SC Verl v Waldhof Mannheim
 CW: 17 01 ED 05 DE 20 26 24
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,98Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 20
+Teams: Real Madrid vs Levante UD
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 14.00 CET
+Hackintosh said:
+#CW:
+37 7F 00 B6 51 67 A4 5C
+Click to expand...
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10768  Vertical  33999,708
@@ -87,9 +110,19 @@ ID: Service01
 Scottish Cup - 4th Round
 Dunfermline Athletic v Hibernian
 ---FEED-SEPARATOR---
-19:30 | 
+Eutelsat 7B-7C   @ 07.0E
+10978 V 7120
+ID:   Pitch - EFL - Coventry v Leicester (NEP Connect)
+1920x1080 |14,100Mb/Sec |8PSK |4:2:0 HD
+CW: 94 99 F4 21 56 75 6E 39
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3975 V 7119
+8PSK 2/3 DVB-S2 4.2.0
 Coventry City vs Leicester City
- - GMT+7
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+CW: 94 99 F4 21 56 75 6E 39
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3984 V 7119
 8PSK 2/3 4.2.0
@@ -137,6 +170,13 @@ The Adobe Women's FA Cup
 ID: unnamed
 CW: F2 6E 5A BA E1 43 AE D2
 The Adobe Women's FA Cup
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12610 V 7500
+4:2:0
+ID: ENC 06
+Basketball Super Ligi: Buyukcekmece vs Trabzonspor
+CW: 8D 68 6D 62 30 36 A4 0A
 ---FEED-SEPARATOR---
 Turksat 2A-3A-4A @ 42.0E
 11497  Vertical  7502,148
