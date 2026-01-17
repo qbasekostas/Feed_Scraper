@@ -1,3 +1,38 @@
+faisal6 said:
+CW: 17 01 ED 05 DE 20 26 24
+Click to expand...
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12702  Vertical  7199,907
+ID:1860-Essen (Adtec Digital)
+1920x1080 |16,047Mb/Sec |8PSK |4:2:0 HD
+Alemania
+3. Liga - Jornada 20
+1860 Múnich
+ VS 
+RW Essen
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 17 01 ED 05 DE 20 26 24
+Click to expand...
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12633  Horizontal  7200,254
+ID:   D415feed1 (Betamobil
+1920x1080 |16,049Mb/Sec |8PSK |4:2:0 HD
+Ulm
+ VS 
+Wehen
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 17 01 ED 05 DE 20 26 24
+Click to expand...
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12624  Horizontal  7202,126
+ID: D-167 (rt1.tv)
+1920x1080 |16,053Mb/Sec |8PSK |4:2:0 HD
+Saarbrücken
+ V 
+Cottbus
+---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12642  Horizontal  7199,918
 ID:    D-528 (rt1.tv)
@@ -12,6 +47,14 @@ ID: DMC D-361
 3. liga
 SC Verl v Waldhof Mannheim
 CW: 17 01 ED 05 DE 20 26 24
+---FEED-SEPARATOR---
+Spanish La Liga (Primera) - Week 20
+Real Madrid v Levante
+ ST: 14:00
+EUTELSAT 10 E cband 
+3904 V 3750.   4:2:0
+ID: Laliga
+CW: A1 23 6B 2F F7 CA 3F 00
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
