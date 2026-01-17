@@ -306,6 +306,15 @@ ID: unnamed
 CW: F2 6E 5A BA E1 43 AE D2
 The Adobe Women's FA Cup
 ---FEED-SEPARATOR---
+7e
+10978 v 7120
+id:
+Event: 
+England - 
+EFL Championship 
+ Swansea City vs Birmingham City
+CW: 76 5A 46 16 5B 54 79 28
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3975 V 7119 C-Band
 ID: BT_SES_20_SDI 
