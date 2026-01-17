@@ -1,0 +1,35 @@
+ LaLiga : Mallorca v Athletic Bilbao 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+  OVERON 2 (OVERON)
+DVB-S2 | 8PSK | 1080i |13,4 dB | 
+4:2:2
+CW: 61 D0 CB FC 3E 2E 0F 7B
+---FEED-SEPARATOR---
+LaLiga : Real Madrid v Levante 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+SUPPONOR MENA 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |12,4 dB | 
+4:2:2
+CW: 78 56 F8 C6 D3 56 32 5B
+---FEED-SEPARATOR---
+LaLiga : Real Madrid v Levante 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+ SUPPONOR AFRICA 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |12,4 dB | 
+4:2:2
+CW: C1 2F 2E 1E 79 4D C9 8F
+---FEED-SEPARATOR---
+LaLiga : Real Madrid v Levante 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+ OVERON 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |12,4 dB | 
+4:2:2
+CW: 37 7F 00 B6 51 67 A4 5C
