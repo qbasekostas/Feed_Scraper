@@ -1,3 +1,16 @@
+Asiasat 5 @ 100.5°E
+4108 H 9875 C-Band
+ID: Fi11_GNVE
+(Provider ID: CM5000)
+MPEG4 | DVB-S2
+1920x1080i |16,22Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: Germany - Bundesliga (Matchday 18)
+Teams: RasenBallsport Leipzig vs FC Bayern München
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
+CW: 3B 19 91 E5 9C D9 F6 6B
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 18
 RB Leipzig vs. Bayern Munich
 Eutelsat 7B/7C @ 7.0°E
