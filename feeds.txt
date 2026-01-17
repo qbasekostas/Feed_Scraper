@@ -155,6 +155,17 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 37 7F 00 B6 51 67 A4 5C
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 20
+Osasuna vs. Real Oviedo
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: EC C4 53 03 37 AA 9D 7E
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 2 
