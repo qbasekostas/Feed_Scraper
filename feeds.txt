@@ -190,6 +190,33 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 37 7F 00 B6 51 67 A4 5C
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 20
+Real Betis vs. 
+Villarreal
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 4C E9 49 7E FB 45 CE 0E
+---FEED-SEPARATOR---
+Dani Sat said:
+Spanish La Liga - Matchday 20
+Real Betis vs. 
+Villarreal
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 4C E9 49 7E 7B 45 CE 0E
+Click to expand...
+key not working
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
@@ -370,6 +397,17 @@ Eutelsat 7B/7C (7.0 E)
 11105 Vertical 9872,851 3/4
 DVB-S2/8PSK (4:2:2)
 NBA London 02 In Arena Path 2
+---FEED-SEPARATOR---
+7e
+11106 H 7200
+4:2:0
+ID: 
+Fi01_ACB
+Spain ACB
+Gran Canaria
+Forca Lleida
+E3 9E 8D 42 9A 4F 5F 5A  #CW: 
+83 AC CE FD 46 88 84 52
 ---FEED-SEPARATOR---
 ABA Liga, Group B, Round 15
 KK Zadar vs KK Crvena zvezda
