@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 18
+RB Leipzig vs. Bayern Munich
+Eutelsat 7B/7C @ 7.0°E
+10964 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi06
+CW: D6 0B F9 DA 0B AF E8 A2
+---FEED-SEPARATOR---
 Bundesliga
  - Week 18
 RB Leipzig v Bayern Münich
@@ -279,6 +290,21 @@ The Adobe Women's FA Cup
 ID: unnamed
 CW: F2 6E 5A BA E1 43 AE D2
 The Adobe Women's FA Cup
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3975 V 7119 C-Band
+ID: BT_SES_20_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,22Mb/Sec |8PSK| 
+4:2:0
+HD
+Event: 
+England - 
+EFL Championship (Matchday 27)
+Teams: Swansea City vs Birmingham City
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
+CW: 76 5A 46 16 5B 54 79 28
 ---FEED-SEPARATOR---
 Premier League 2025/26 (Wk22)
 Liverpool VS Burnley
