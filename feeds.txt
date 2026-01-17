@@ -404,8 +404,8 @@ NBA London 02 In Arena Path 2
 ID: 
 Fi01_ACB
 Spain ACB
-Gran Canaria
-Forca Lleida
+Bilbao
+Tenerife
 E3 9E 8D 42 9A 4F 5F 5A  #CW: 
 83 AC CE FD 46 88 84 52
 ---FEED-SEPARATOR---
