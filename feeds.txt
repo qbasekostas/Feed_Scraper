@@ -1,3 +1,21 @@
+Bundesliga
+ - Week 18
+RB Leipzig v Bayern Münich
+16.0ºE
+10980 H 3600
+4.2.0 HD
+ID: F5-2 4.5MH
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Bundesliga
+ - Week 18
+RB Leipzig v Bayern Münich
+7.0E
+11105 V 9875
+4.2.2 HD
+ID: D535_LPZG_4M12_2
+CW: BE C2 6C EC 97 B5 11 5D
+---FEED-SEPARATOR---
 German 1. Bundesliga - Week 18
 Borussia Dortmund v St Pauli 
  ST: 15:30
@@ -136,6 +154,22 @@ ID:
 DVB-S2 | 8PSK | 1080i |12,4 dB | 
 4:2:2
 CW: 37 7F 00 B6 51 67 A4 5C
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,80Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 20
+Teams: RCD Mallorca vs Athletic Club
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 16.15 CET
+Hackintosh said:
+#CW:
+61 D0 CB FC 3E 2E 0F 7B
+Click to expand...
 ---FEED-SEPARATOR---
 16E
 12692 V 10000
