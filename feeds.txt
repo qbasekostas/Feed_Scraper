@@ -166,6 +166,21 @@ DVB-S2 | 8PSK | 1080i |12,4 dB |
 4:2:2
 CW: 37 7F 00 B6 51 67 A4 5C
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,82Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 20
+Teams: CA Osasuna vs Real Oviedo
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
+Dani Sat said:
+CW: EC C4 53 03 37 AA 9D 7E
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 20
 Osasuna vs. Real Oviedo
 Eutelsat 10B @ 10.0°E
