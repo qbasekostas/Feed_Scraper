@@ -329,6 +329,15 @@ Liverpool VS Burnley
 ID: bein SPORTS HD
 CW: 12 BB 36 03 54 BA 88 69
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+11093 Vertical 9872,832 3/4
+DVB-S2/8PSK (4:2:2)
+NBA London 02 Press Path 1
+Eutelsat 7B/7C (7.0 E)
+11105 Vertical 9872,851 3/4
+DVB-S2/8PSK (4:2:2)
+NBA London 02 In Arena Path 2
+---FEED-SEPARATOR---
 13.0°E
 12592 V 7500
 4:2:2
