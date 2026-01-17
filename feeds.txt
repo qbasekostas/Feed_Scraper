@@ -217,21 +217,6 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 2
 CW: 4C E9 49 7E FB 45 CE 0E
 ---FEED-SEPARATOR---
-Dani Sat said:
-Spanish La Liga - Matchday 20
-Real Betis vs. 
-Villarreal
-Eutelsat 10B @ 10.0°E
-10732 - V - 34000 
-|
-4:2:2
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: OVERON 2
-CW: 4C E9 49 7E 7B 45 CE 0E
-Click to expand...
-key not working
----FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
