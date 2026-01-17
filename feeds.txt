@@ -398,6 +398,14 @@ Eutelsat 7B/7C (7.0 E)
 DVB-S2/8PSK (4:2:2)
 NBA London 02 In Arena Path 2
 ---FEED-SEPARATOR---
+30°W KU
+11621 V 9600
+DVB-S2|1080HD
+4.2.0|H264
+ID: E-400 V1
+Event:Liga Endesa Gran Canaria v Forca Lieida
+CW: AC BA 22 88 BA AC 12 78
+---FEED-SEPARATOR---
 7e
 11106 H 7200
 4:2:0
