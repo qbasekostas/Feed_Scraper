@@ -269,6 +269,21 @@ ID: unnamed
 CW: F2 6E 5A BA E1 43 AE D2
 The Adobe Women's FA Cup
 ---FEED-SEPARATOR---
+Premier League 2025/26 (Wk22)
+Liverpool VS Burnley
+3.1E
+10978 H 7500
+4.2.0 HD
+ID: bein SPORTS HD
+CW: 12 BB 36 03 54 BA 88 69
+---FEED-SEPARATOR---
+13.0°E
+12592 V 7500
+4:2:2
+ID: E333 M
+CW: 5A 9D 8B 82 25 6A 8D 1C
+Basketball Super Ligi: Esenler Erokspor Kulübü - Anadolu Efes
+---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 12610 V 7500
 4:2:0
