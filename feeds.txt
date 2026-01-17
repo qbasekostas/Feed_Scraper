@@ -1,3 +1,11 @@
+German 1. Bundesliga - Week 18
+Borussia Dortmund v St Pauli 
+ ST: 15:30
+ Eutelsat 10E C-Band
+3900 V 3750
+ID : Signal 6
+CW: A1 23 6B 2F F7 CA 3F 00
+---FEED-SEPARATOR---
 faisal6 said:
 CW: 17 01 ED 05 DE 20 26 24
 Click to expand...
@@ -152,6 +160,19 @@ DVB-S2 16APSK
 ID: Service01
 Scottish Cup - 4th Round
 Dunfermline Athletic v Hibernian
+---FEED-SEPARATOR---
+English Championship - Week 27
+Oxford United vs. Bristol City
+Eutelsat 7B/7C @ 7.0°E
+12652 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: EFL -  Oxford v Bristol City
+vnraw said:
+CW: 54 83 43 1A 6A D3 66 A3
+Click to expand...
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 07.0E
 10978 V 7120
