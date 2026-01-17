@@ -33,3 +33,17 @@ ID:
 DVB-S2 | 8PSK | 1080i |12,4 dB | 
 4:2:2
 CW: 37 7F 00 B6 51 67 A4 5C
+---FEED-SEPARATOR---
+1.0°W
+10970 V 15000
+4:2:2
+ID: unnamed
+CW: F2 6E 5A BA E1 43 AE D2
+The Adobe Women's FA Cup
+---FEED-SEPARATOR---
+1.0°W
+10983 V 7200
+4:2:2
+ID: unnamed
+CW: F2 6E 5A BA E1 43 AE D2
+The Adobe Women's FA Cup
