@@ -74,6 +74,22 @@ ID: ITA727ENC1
 ID: ITA727ENC2
 CW: BC 20 20 FC 26 18 01 3F
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,92Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 20
+Teams: 
+Celta vs Rayo Vallecano
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
+abed1988 said:
+CW: 5A BE 92 AA D4 90 17 7B
+Click to expand...
+---FEED-SEPARATOR---
 10.0°E
 10732 V 34000
 4:2:2
@@ -265,6 +281,13 @@ Event:
 BASKETBALL : Liga Femenina Endesa
 Gernika KESB VS Ensino Lugo CB
 CLEAR/FTA
+---FEED-SEPARATOR---
+ABA Liga, 
+KK Bosna  VS  Mega Basket
+Eutelsat 7A/7B/7C @ 7.0E
+12633 - V - 4937
+ID: BIH007
+CW: ABBA20852520266B
 ---FEED-SEPARATOR---
 13.0°E
 10847 V 7500
