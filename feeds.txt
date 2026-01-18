@@ -63,6 +63,18 @@ ID: OVERON 2
 CW: 4C E9 49 7E FB 45 CE 0E
    #[E] PID:0F15h
 ---FEED-SEPARATOR---
+Astra 2E / Astra 2F / Astra 2G (28.2°E)
+12524 H 7200 
+DVB-S2 8PSK 
+MPEG 4 - 4:2:0 - HDTV
+ID: TNT WFAC ARSL V ASTV 
+Event: 
+TNT SPORT UK HD -  
+Arsenal vs Aston Villa
+ in the 
+Women's FA Cup
+CW: 6D 62 25 F4 DC 1C 0D 05
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 10960 V 7200 DVB-S2 8PSK 
 MPEG 4 - 4:2:0 - HDTV
