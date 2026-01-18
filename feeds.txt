@@ -16,6 +16,34 @@ CW  75 6C AD 8E 14 9B 0B BA
 @barney115
  Thanks for the key
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,77Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 20
+Teams: Getafe CF vs Valencia CF
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 14.00 CET
+fusillo said:
+CW: 60 06 0F 75 D9 48 03 24
+Click to expand...
+---FEED-SEPARATOR---
+Acherf said:
+Spanish La Liga (Primera) - Week 20
+Real Madrid v Levante
+ST: 14:00
+EUTELSAT 10 E cband 
+3904 V 3750.   4:2:0
+ID: Laliga
+CW: A1 23 6B 2F F7 CA 3F 00
+Click to expand...
+Spanish La Liga (Primera) - Week 20
+ Getafe v Valencia 
+ ST: 14:00
+---FEED-SEPARATOR---
 10.0°E
 10732 V 34000
 4:2:2
