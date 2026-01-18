@@ -56,6 +56,17 @@ Pescara
 Modena
 CW: BC 20 20 FC 26 18 01 3F
 ---FEED-SEPARATOR---
+Italy.Serie B
+Pescara vs Modena
+10.0E
+11248 H 9600
+11260 H 9600
+4.2.2
+ HD
+ID: ITA727ENC1
+ID: ITA727ENC2
+CW: BC 20 20 FC 26 18 01 3F
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
@@ -168,6 +179,15 @@ DVB-S2 16APSK
 ID: Service01
 Scottish Cup - 4th Round
 Aberdeen v Raith Rovers
+---FEED-SEPARATOR---
+28.2E
+12511 H 15000 
+4:2:0
+DVB-S2 8PSK
+ID: BBC MASS
+CW: 6D 62 25 F4 DC 1C 0D 05
+English Womens FA Cup - 4th Round
+Arsenal v Aston Villa
 ---FEED-SEPARATOR---
 1.0°W
 10971 V 15000 
