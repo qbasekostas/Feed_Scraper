@@ -296,6 +296,13 @@ ID: TUR156 Main
 CW: A4 AE 1E 70 1B 17 1B 4D
 Basketball Super Ligi: Mersin BŞB - Manisa
 ---FEED-SEPARATOR---
+10.0°E
+11273 H 7200
+4:2:2
+ID: SELENIO 2
+CW: AB 7D 3A 62 66 B9 9F BE
+Italian Basket
+---FEED-SEPARATOR---
 Spain, Liga ACB, Round 16
 Real Madrid vs Valencia
 Eutelsat 7A/7B/7C @ 7.0°E
