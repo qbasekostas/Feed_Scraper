@@ -1,3 +1,11 @@
+FC Bayern Legends Cup
+Eutelsat 7A/7B/7C @ 7.0°E
+12676 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.49 Mbit/s
+ID: FCB Legends Cup
+CW: 18 01 FC 15 BB 95 14 64
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11105  Horizontal  9875,201
 ID: GVA_Fi03 (EUROVISION SA)
@@ -28,6 +36,15 @@ CW  75 6C AD 8E 14 9B 0B BA
 @barney115
  Thanks for the key
 ---FEED-SEPARATOR---
+Serie A Femminile, Round 10
+Inter vs Juventus
+Eutelsat 7A/7B/7C @ 7.0°E
+12639 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.39 Mbit/s
+ID: ITA547 Main
+CW: B4 C0 D1 45 18 01 AB C4
+---FEED-SEPARATOR---
 Eutelsat 7B-7C   @ 7.0E
 11164  Vertical  7502,137
 ID: ITA 81 A (ECM SRL)
@@ -38,6 +55,22 @@ Pescara
  VS 
 Modena
 CW: BC 20 20 FC 26 18 01 3F
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,55Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 20
+Teams:
+Atlético de Madrid vs Deportivo Alavés
+Time / Kickoff: 22.15 JKT-TH / 23.15 MY-SG / 15.15 GMT / 16.15 CET
+fusillo said:
+CW: 1F F6 75 8A 89 C7 82 D2
+Click to expand...
 ---FEED-SEPARATOR---
 LALIGA 2 : Córdoba v Málaga
 Eutelsat 10B @ 10.0E
@@ -109,6 +142,16 @@ ID: SUPPONOR AFRICA 1
 ID: SUPPONOR MENA 1
 17 94 F5 F3 B9 33 BC 5D #CW:
 BD 55 63 75 0B A9 47 FB
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+12702 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Cup - 4th Round
+Aberdeen v Raith Rovers
 ---FEED-SEPARATOR---
 16E
 12722 V 2000
