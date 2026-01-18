@@ -74,6 +74,22 @@ ID: ITA727ENC1
 ID: ITA727ENC2
 CW: BC 20 20 FC 26 18 01 3F
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,99Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 20
+Teams: Real Sociedad vs FC Barcelona
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+Hackintosh said:
+#CW:
+EC D2 11 CF 46 EE 41 75
+Click to expand...
+---FEED-SEPARATOR---
 LaLiga : Real Sociedad v Barcelona 
 Eutelsat 10B @ 10.0E
 10732 V 34000
