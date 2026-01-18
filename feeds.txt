@@ -1,3 +1,10 @@
+Eutelsat 7B-7C   @ 7.0E
+11093  Horizontal  9875,201
+ID: GVA_Fi02 (EUROVISION SA)
+1920x1080 |22,011Mb/Sec |8PSK |4:2:2 HD
+Germany, BundesligaFC Augsburgvs. SC Freiburg
+CW: A8 78 20 40 F1 F3 D3 B7
+---FEED-SEPARATOR---
 FC Bayern Legends Cup
 Eutelsat 7A/7B/7C @ 7.0°E
 12676 - H - 7200
