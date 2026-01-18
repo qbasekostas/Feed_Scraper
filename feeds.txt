@@ -39,6 +39,33 @@ Pescara
 Modena
 CW: BC 20 20 FC 26 18 01 3F
 ---FEED-SEPARATOR---
+LALIGA 2 : Córdoba v Málaga
+Eutelsat 10B @ 10.0E
+10768 V 34000
+ID:
+ LIGA HYPERMOTION 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |13,4 dB | 
+4:2:0
+CW: B8 19 21 F2 5C D4 0B 3B
+---FEED-SEPARATOR---
+LaLiga : Real Sociedad v Barcelona 
+Eutelsat 10A @ 10.E
+10768 Vertical  34000,262
+ID:
+  SUPPONOR RUSIA 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |10,7 dB | 
+4:2:2
+CW: A8 58 B4 B4 2A CE BE B6
+---FEED-SEPARATOR---
+LaLiga : Real Sociedad v Barcelona 
+Eutelsat 10A @ 10.E
+10768 Vertical  34000,262
+ID:
+ SUPPONOR EASTERN 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |10,7 dB | 
+4:2:2
+CW: 92 D4 8D F3 AB 34 7C 5B
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 2 
@@ -82,6 +109,14 @@ ID: SUPPONOR AFRICA 1
 ID: SUPPONOR MENA 1
 17 94 F5 F3 B9 33 BC 5D #CW:
 BD 55 63 75 0B A9 47 FB
+---FEED-SEPARATOR---
+16E
+12722 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Cup - 4th Round
+Aberdeen v Raith Rovers
 ---FEED-SEPARATOR---
 1.0°W
 10971 V 15000 
