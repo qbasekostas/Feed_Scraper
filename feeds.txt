@@ -74,6 +74,12 @@ ID: ITA727ENC1
 ID: ITA727ENC2
 CW: BC 20 20 FC 26 18 01 3F
 ---FEED-SEPARATOR---
+10.0°E
+10732 V 34000
+4:2:2
+ID: OVERON 2
+CW: 5A BE 92 AA D4 90 17 7B
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OVERON 1 
@@ -187,6 +193,13 @@ ID: Service01
 Scottish Cup - 4th Round
 Aberdeen v Raith Rovers
 ---FEED-SEPARATOR---
+EVENT:Scottish Cup - 4th Round Auchinleck Talbot v Celtic
+Eutelsat 7B-7C   @ 7.0E
+12736  Vertical  7202,115
+ID:ENC 2 (SES)
+1920x1080 |16,053Mb/Sec |8PSK |4:2:0 HD
+CW: BC AA 45 AB 56 BB CA DB
+---FEED-SEPARATOR---
 28.2E
 12511 H 15000 
 4:2:0
@@ -259,3 +272,12 @@ CLEAR/FTA
 ID: TUR156 Main
 CW: A4 AE 1E 70 1B 17 1B 4D
 Basketball Super Ligi: Mersin BŞB - Manisa
+---FEED-SEPARATOR---
+Stoiximan Super League, Round 17
+PAOK vs OFI Crete
+Eutelsat 7A/7B/7C @ 7.0°E
+12519 - H - 7200
+DVB-S2 | QPSK-S2 | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 10.00 Mbit/s
+ID: SNG ABC 1
+CW: 77 CF 5B A1 52 95 4B 32
