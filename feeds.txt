@@ -296,6 +296,15 @@ ID: TUR156 Main
 CW: A4 AE 1E 70 1B 17 1B 4D
 Basketball Super Ligi: Mersin BŞB - Manisa
 ---FEED-SEPARATOR---
+Spain, Liga ACB, Round 16
+Real Madrid vs Valencia
+Eutelsat 7A/7B/7C @ 7.0°E
+11105 - H - 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.19 Mbit/s
+ID: Fi01_ACB
+CW: A3 74 86 9D 2C 13 9D DC
+---FEED-SEPARATOR---
 Stoiximan Super League, Round 17
 PAOK vs OFI Crete
 Eutelsat 7A/7B/7C @ 7.0°E
