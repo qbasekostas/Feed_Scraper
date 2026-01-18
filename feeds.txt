@@ -321,6 +321,17 @@ DVB-S2 | 8PSK | 3/4
 ID: Fi01_ACB
 CW: A3 74 86 9D 2C 13 9D DC
 ---FEED-SEPARATOR---
+Greek Super League 1
+AEK
+ Vs
+PAO
+13.0°E @ Hotbird 13F/13G 
+10848 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: AEK VS PAO A
+CW: A7 C1 FF 67 BD 99 48 9E
+---FEED-SEPARATOR---
 Stoiximan Super League, Round 17
 PAOK vs OFI Crete
 Eutelsat 7A/7B/7C @ 7.0°E
