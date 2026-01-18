@@ -70,3 +70,10 @@ ID: EFL Highlights
 Event: 
 EFL HIGHLIGHTS 
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+13.0°E
+10847 V 7500
+4:2:2
+ID: TUR156 Main
+CW: A4 AE 1E 70 1B 17 1B 4D
+Basketball Super Ligi: Mersin BŞB - Manisa
