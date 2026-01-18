@@ -1,3 +1,11 @@
+28.2E
+12702 v 7200
+ID: d-528
+4:2:0
+3. liga
+Stuttgart II v Duisburg
+CW: 18 01 BB D4 BA 98 72 C4
+---FEED-SEPARATOR---
 55W INTELSAT 34 C 
 3731v7500
 ID: Nacboy 1
