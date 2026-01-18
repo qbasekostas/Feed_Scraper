@@ -83,6 +83,15 @@ Event:
 EFL HIGHLIGHTS 
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Astra 2E / Astra 2F / Astra 2G (28.2°E)​
+12624 H 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: E-266  8MM VIA1 
+Event: 
+BASKETBALL : Liga Femenina Endesa
+Gernika KESB VS Ensino Lugo CB
+CLEAR/FTA
+---FEED-SEPARATOR---
 13.0°E
 10847 V 7500
 4:2:2
