@@ -55,6 +55,15 @@ DUBAI UNITED ARAB EMIRATES
 INTL' FEED STARTS 17:50 ( Local Time )
 CLEAR/FTA
 ---FEED-SEPARATOR---
+NBA
+Cleveland Cavaliers vs Oklahoma City Thunder
+Eutelsat 7A/7B/7C @ 7.0°E
+10959 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 9.50 Mbit/s
+ID: WSHT ENC58
+CW: : 73 2A 66 03 35 36 8B F6
+---FEED-SEPARATOR---
 Al Wasl Arabian Gulf League, Group A
 Al Ittihad vs. Al Muharraq
 Eutelsat 7A/7B/7C @ 7.0° East
