@@ -1,3 +1,28 @@
+Eutelsat 7B/7C (7.0 E)
+11133 V 7200
+DVB-S2/8PSK (4:2:0)
+ID: ITA 689 M02 BK
+Serie C
+Event: 
+Cosenza vs Crotone
+CW: FA 86 1C 9C 7C 9D 03 1C
+---FEED-SEPARATOR---
+Italian Serie A  - Week 21
+Cremonese v Hellas Verona
+18:30
+Eutelsat 10.0°E | C-Band
+3895 H 3750.  4:2:0
+ID: Serie A
+CW: A1 23 6B 2F F7 CA 3F 00
+---FEED-SEPARATOR---
+Italian Serie C Girone C - Girone C - 22
+Cosenza v Crotone 
+ ST: 20:30
+EUTELSAT 7E 
+11132 V 7200. 4:2:0
+ID: ITA 689 M02
+CW: FA 86 1C 9C 7C 9D 03 1C
+---FEED-SEPARATOR---
 LaLiga 2, Round 22
 Granada vs Eibar
 Eutelsat 10A @ 10.0°E
