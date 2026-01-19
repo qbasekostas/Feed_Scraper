@@ -1,0 +1,8 @@
+NBA
+New York Knicks vs Dallas Mavericks
+Eutelsat 7A/7B/7C @ 7.0°E
+10968 V 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.47 Mbit/s
+ID: WSHT ENC 59
+CW: F4 AF 16 B9 DA B0 12 9C
