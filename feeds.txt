@@ -23,6 +23,21 @@ EUTELSAT 7E
 ID: ITA 689 M02
 CW: FA 86 1C 9C 7C 9D 03 1C
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,86Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 20
+Teams: Elche CF vs Sevilla FC
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+xFayez95 said:
+CW: 9D D2 AE 1D E6 37 31 4E
+Click to expand...
+---FEED-SEPARATOR---
 LaLiga 2, Round 22
 Granada vs Eibar
 Eutelsat 10A @ 10.0°E
