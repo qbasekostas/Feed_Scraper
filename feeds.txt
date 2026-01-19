@@ -29,3 +29,11 @@ SHABAB AL AHLI VS KAZMA SC
 DUBAI UNITED ARAB EMIRATES 
 INTL' FEED STARTS 17:50 ( Local Time )
 CLEAR/FTA
+---FEED-SEPARATOR---
+Al Wasl Arabian Gulf League, Group A
+Al Ittihad vs. Al Muharraq
+Eutelsat 7A/7B/7C @ 7.0° East
+12536 - H - 7500
+DVB-S2 | 8PSK | 3/4
+id: MAIN
+CW: 3A 1F 6E C7 21 C5 0C F2
