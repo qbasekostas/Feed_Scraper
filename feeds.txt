@@ -1,0 +1,19 @@
+LaLiga 2, Round 22
+Granada vs Eibar
+Eutelsat 10A @ 10.0°E
+10732 - V - 34000
+DVB-S2 | 8-PSK | 5/6
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 10.84 Mbit/s
+ID: LIGA HYPERMOTION 1
+CW: : D5 3A 8B 9A 2E CC 7D 77
+---FEED-SEPARATOR---
+LaLiga, Round 20
+Elche vs Sevilla
+Eutelsat 10A @ 10.0°E
+10732 - V - 34000
+DVB-S2 | 8-PSK | 5/6
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 15.62 Mbit/s
+ID: OVERON 1
+CW: : 9D D2 AE 1D E6 37 31 4E
