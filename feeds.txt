@@ -1,3 +1,12 @@
+safrifulkamal said:
+CW: 30 04 DA 0E 33 52 45 CA
+Click to expand...
+Eutelsat 7E
+12648 H 7120 S2 4:2:0
+ID: Pitch Wrexham v Leicester 
+Event: England - EFL Championship (Matchday 28)
+Teams: Wrexham vs Leicester City
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3933 H 7119 C-Band
 ID: BT_SES_24_SDI 
@@ -10,6 +19,25 @@ Event: England - EFL Championship (Matchday 28)
 Teams: Wrexham vs Leicester City
 Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
 CW: 30 04 DA 0E 33 52 45 CA
+---FEED-SEPARATOR---
+FaDeL® said:
+			Eutelsat 7A/B @7.0°E
+Fréq:10996 - V - 9874
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  LEUK_Fi01
+UEL - Matchday: Multiplex & Highlights
+CW: 00 4A 7F C9 3E 6E 1E CA
+Click to expand...
+Thanks fadel but is 422
+---FEED-SEPARATOR---
+UEFA Champions League, Round 7
+Real Madrid vs AS Monaco
+Eutelsat 3B @ 3.1°E
+10978 H 7500
+DVB-S2 | 8-PSK | 5/6
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 17.54 Mbit/s
+ID: RMA HD2D Perso BEIN MENA MAIN
+CW: BA 64 22 40 FE 1C AD C7
 ---FEED-SEPARATOR---
 UEFA Champions League, Round 7
 Atalanta vs Athletic Club
@@ -56,6 +84,33 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 2B 84 6C 35 DE 00 23 E3 
 CW: 51 23 6A DE 1A A6 53 13
+---FEED-SEPARATOR---
+Euroleague, Round 23
+ASVEL Lyon-Villeurbanne vs Kauno Žalgiris
+Eutelsat 7A/7B/7C @ 7.0°E
+12546 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.19 Mbit/s
+ID: M172F558BU
+CW: 5C 97 75 68 B6 A2 DC 34
+---FEED-SEPARATOR---
+Champions League, Group L, Round 1
+Dreamland Gran Canaria vs Pallacanestro Trieste
+Eutelsat 7A/7B/7C @ 7.0°E
+11125 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.55 Mbit/s
+ID: E411- Via 1
+CW: BB 25 CB AB 15 AA 09 C8
+---FEED-SEPARATOR---
+Champions League, Group L, Round 1
+La Laguna Tenerife vs ERA Nymburk
+Eutelsat 7A/7B/7C @ 7.0°E
+11152 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.19 Mbit/s
+ID: E229 Carrier 2
+CW: CF 85 DB 2F 94 EF 77 FA
 ---FEED-SEPARATOR---
 faisal6 said:
 International, European North Basketball League, Group CDziki Warszawavs. BC Spartak Pleven 
