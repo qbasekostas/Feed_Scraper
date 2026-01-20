@@ -1,3 +1,16 @@
+Asiasat 5 @ 100.5°E
+3933 H 7119 C-Band
+ID: BT_SES_24_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,37Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 28)
+Teams: Wrexham vs Leicester City
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+CW: 30 04 DA 0E 33 52 45 CA
+---FEED-SEPARATOR---
 Event: Champions League - League phase - Round 7
  21.01.2026 22:00
 Teams : Slavia Prague 
@@ -34,6 +47,45 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 2B 84 6C 35 DE 00 23 E3 
 CW: 51 23 6A DE 1A A6 53 13
+---FEED-SEPARATOR---
+Event: Europe Eurocup - Round 15
+Teams : Chemnitz 
+ JL Bourg
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11190 H 7200
+    BB Chemnitz (MTI Teleport MUC)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: BB EE 20 C9 01 20 26 47
+---FEED-SEPARATOR---
+bayuware said:
+Hotbird 13B ( 13E )
+10830 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TKS TRT M20 A
+Event:
+ EuroCup Basketball: Tofas Bursa vs. Alba Berlin
+any CW please?
+Click to expand...
+CW: FF 56 BC 11 88 AD 12 47
+---FEED-SEPARATOR---
+Eurocup, Round 15
+KK Cedevita Olimpija vs U-Banca Transilvania Cluj-Napoca
+Eutelsat 7A/7B/7C @ 7.0°E
+12628 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.72 Mbit/s
+ID: Medialink CRO-024/1
+CW: 06 7A DF 5F 5F CC 01 2C
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 15
+Hapoel Jerusalem BC vs Bahçeşehir Koleji
+Eutelsat 7A/7B/7C @ 7.0°E
+11691 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.57 Mbit/s
+ID: YSM-012 MAIN
+CW: A1 B2 C3 16 D4 E5 F6 AF
 ---FEED-SEPARATOR---
 International, European North Basketball League, Group CDziki Warszawavs. BC Spartak Pleven 
 Eutelsat 7B-7C   @ 07.0E
