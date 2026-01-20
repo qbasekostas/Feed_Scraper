@@ -1,3 +1,21 @@
+Event: Champions League - League phase - Round 7
+ 21.01.2026 22:00
+Teams : Slavia Prague 
+ Barcelona
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11543 V 7200
+   SPA-BAR studio (Service Provider)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: BA BA 43 B7 57 DE DE 13
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:10996 - V - 9874
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  LEUK_Fi01
+UEL - Matchday: Multiplex & Highlights
+CW: 00 4A 7F C9 3E 6E 1E CA
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0°E ( KU-BAND )
 11133 H 19200
   G19 E349 Via 2 (AVP 1080P)
