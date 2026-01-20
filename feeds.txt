@@ -12,23 +12,13 @@ Asiasat 5 @ 100.5°E
 ID: BT_SES_24_SDI 
 (Provider ID: SES)
 MPEG4 | DVB-S2
-1920x1080i |12,37Mb/Sec |8PSK| 
+1920x1080i |12,16Mb/Sec |8PSK| 
 4:2:0
  HD
 Event: England - EFL Championship (Matchday 28)
 Teams: Wrexham vs Leicester City
 Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
 CW: 30 04 DA 0E 33 52 45 CA
----FEED-SEPARATOR---
-FaDeL® said:
-			Eutelsat 7A/B @7.0°E
-Fréq:10996 - V - 9874
-MPEG 4 - 4:2:0 - DVB-S2
-ID:  LEUK_Fi01
-UEL - Matchday: Multiplex & Highlights
-CW: 00 4A 7F C9 3E 6E 1E CA
-Click to expand...
-Thanks fadel but is 422
 ---FEED-SEPARATOR---
 UEFA Champions League, Round 7
 Real Madrid vs AS Monaco
@@ -61,7 +51,7 @@ CW: BA BA 43 B7 57 DE DE 13
 ---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:10996 - V - 9874
-MPEG 4 - 4:2:0 - DVB-S2
+MPEG 4 - 4:2:2 - DVB-S2
 ID:  LEUK_Fi01
 UEL - Matchday: Multiplex & Highlights
 CW: 00 4A 7F C9 3E 6E 1E CA
