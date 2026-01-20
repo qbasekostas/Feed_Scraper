@@ -1,3 +1,11 @@
+Eutelsat 16A @ 16.0°E ( KU-BAND )
+11133 H 19200
+  G19 E349 Via 2 (AVP 1080P)
+MPEG4-4.2.0 1920x1080 |16.450 Mbit/Sec|8PSK| DVB-S2 HD
+UEFA Champions League
+Real Madrid vs. AS Monaco
+CW: DD AA 15 9C 98 BB CC 1F
+---FEED-SEPARATOR---
 Event: Champions League - League phase - Round 7 21.01.2026 19:45
 Teams : Galatasaray 
  Atl. Madrid
@@ -8,6 +16,13 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 2B 84 6C 35 DE 00 23 E3 
 CW: 51 23 6A DE 1A A6 53 13
+---FEED-SEPARATOR---
+International, European North Basketball League, Group CDziki Warszawavs. BC Spartak Pleven 
+Eutelsat 7B-7C   @ 07.0E
+12593 V 7201
+ID Polsat Sport (POLSAT)
+1920x1080 |13,940Mb/Sec |8PSK |4:2:0 HD
+E7 5F 94 6E B9 95 F3 E2  #CW:20 26 A9 EF 97 AB DA 1C   
 ---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:11106 - V - 7200
