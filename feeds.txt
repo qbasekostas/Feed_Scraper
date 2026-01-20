@@ -1,0 +1,9 @@
+Bundesliga Highlights
+Eutelsat 7A/7B/7C @ 7.0°E
+11100 V 14400
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 25.92 Mbit/s
+ID: Fi12_GNVE
+CW: BD 67 15 39 38 CA CF D1
