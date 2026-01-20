@@ -11,6 +11,15 @@ Teams: Wrexham vs Leicester City
 Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
 CW: 30 04 DA 0E 33 52 45 CA
 ---FEED-SEPARATOR---
+UEFA Champions League, Round 7
+Atalanta vs Athletic Club
+Eutelsat 7A/7B/7C @ 7.0°E
+12649 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.30 Mbit/s
+ID: E340 Feed C
+CW: AB BA 47 AC 23 BA AB 88
+---FEED-SEPARATOR---
 Event: Champions League - League phase - Round 7
  21.01.2026 22:00
 Teams : Slavia Prague 
@@ -47,6 +56,36 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 2B 84 6C 35 DE 00 23 E3 
 CW: 51 23 6A DE 1A A6 53 13
+---FEED-SEPARATOR---
+faisal6 said:
+International, European North Basketball League, Group CDziki Warszawavs. BC Spartak Pleven 
+Eutelsat 7B-7C   @ 07.0E
+12593 V 7201
+ID Polsat Sport (POLSAT)
+1920x1080 |13,940Mb/Sec |8PSK |4:2:0 HD
+E7 5F 94 6E B9 95 F3 E2  #CW:20 26 A9 EF 97 AB DA 1C   
+Click to expand...
+Men's basketball: EuroCup - match: WKS Śląsk Wrocław - Aris Saloniki Betsson
+---FEED-SEPARATOR---
+Champions League, Group I, Round 1
+Rytas Vilnius vs Hapoel Netanel Holon
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+12582 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.58 Mbit/s
+ID: LTU-005 main
+CW: CF 50 BB DA 54 BC 93 A3
+---FEED-SEPARATOR---
+Europe Cup, Group K, Round 4
+Energa Trefl Sopot vs Rostock Seawolves
+Eutelsat 16A @ 16.0°E
+10984 V 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 19.55 Mbit/s
+ID: POL 48 ENC1
+CW: CA E1 11 BC 35 7E F4 A7
 ---FEED-SEPARATOR---
 Event: Europe Eurocup - Round 15
 Teams : Chemnitz 
