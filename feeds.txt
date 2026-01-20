@@ -1,3 +1,24 @@
+Event: Champions League - League phase - Round 7 21.01.2026 19:45
+Teams : Galatasaray 
+ Atl. Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11180 H 7200
+   E333 M (mediapro turkiye)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+2B 84 6C 35 DE 00 23 E3 
+CW: 51 23 6A DE 1A A6 53 13
+---FEED-SEPARATOR---
+Event: Europe Euroleague - Round 23
+Teams : Hapoel Tel-Aviv 
+ Anadolu Efes
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11088 V 7200
+ EL M3 BUL007 Main (TV1 )
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 1F CF 26 14 59 2B E2 66
+---FEED-SEPARATOR---
 NBA
 New York Knicks vs Dallas Mavericks
 Eutelsat 7A/7B/7C @ 7.0°E
