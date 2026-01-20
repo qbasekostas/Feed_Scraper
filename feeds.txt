@@ -9,6 +9,14 @@ MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 2B 84 6C 35 DE 00 23 E3 
 CW: 51 23 6A DE 1A A6 53 13
 ---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:11106 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:F489 BKUP
+Euroleague
+ Monaco vs Crvena zvezda Belgrade
+CW: A4 41 44 29 F8 74 DD 49
+---FEED-SEPARATOR---
 Event: Europe Euroleague - Round 23
 Teams : Hapoel Tel-Aviv 
  Anadolu Efes
