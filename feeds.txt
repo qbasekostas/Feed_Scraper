@@ -76,6 +76,15 @@ MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 CW: 51 23 6A DE 1A A6 53 13
 ---FEED-SEPARATOR---
 Euroleague, Round 23
+Valencia Basket vs Paris Basketball
+Eutelsat 7A/7B/7C @ 7.0°E
+11096 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.09 Mbit/s
+ID: E351 English Graph Main
+CW: D3 83 A4 FA A3 73 E2 F8
+---FEED-SEPARATOR---
+Euroleague, Round 23
 ASVEL Lyon-Villeurbanne vs Kauno Žalgiris
 Eutelsat 7A/7B/7C @ 7.0°E
 12546 H 7200
