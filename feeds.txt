@@ -8,6 +8,15 @@ DVB-S2 | 8-PSK | 3/4
 ID: Fi12_GNVE
 CW: BD 67 15 39 38 CA CF D1
 ---FEED-SEPARATOR---
+Championship, Round 28
+Stoke City vs Middlesbrough
+Eutelsat 7A/7B/7C @ 7.0°E
+11087 V 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 11.78 Mbit/s
+ID: Pitch Stoke v Middlesbrough
+CW: DD 35 76 88 94 37 04 CF
+---FEED-SEPARATOR---
 Championship
 Derby Vs West Brom
 100.5°E C
@@ -17,6 +26,19 @@ MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
 ID: BT_SES_24_SDI
 CW: DD 35 76 88 94 37 04 CF
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 7
+Slavia Prague v Barcelona
+ST: 21:00
+ Eutelsat 3C @ 3.1°E C-Band
+- Freq:3798
+- Pol: Vertical
+- SR: 7201
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2 4:2:0 
+- Name: UEFA ( IKOM G )
+CW: 5D 91 8C 7A 9D AE 58 DF
 ---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:10996 - V - 9874
@@ -80,6 +102,15 @@ DVB-S2-
 -8PSK
 ID:E360 M
 CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 15
+BAXI Manresa vs Klaipėdos Neptūnas
+Eutelsat 7A/7B/7C @ 7.0°E
+11095 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.28 Mbit/s
+ID: E336 ENG GRAPH Main
+CW: 13 11 AA CE CC 20 23 0F
 ---FEED-SEPARATOR---
 Euroleague, Round 23
 Virtus Bologna vs Fenerbahçe
