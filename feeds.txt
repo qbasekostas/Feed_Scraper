@@ -36,6 +36,17 @@ MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 2B 84 6C 35 DE 00 23 E3 
 CW: 51 23 6A DE 1A A6 53 13
 ---FEED-SEPARATOR---
+Event: Champions League - League phase - Round 7
+Teams : Marseille 
+ Liverpool
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12735 V 7200
+ UKI 1678 PATH1 (Service Provider)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+49 91 55 20 39 6F 88 65  
+CW: 67 16 81 FE 73 AB A8 C6
+---FEED-SEPARATOR---
 UEFA Champions League - Matchday 7
 Chelsea vs. Pafos FC
 Intelsat 10-02 @ 1.0°W
@@ -69,6 +80,15 @@ DVB-S2-
 -8PSK
 ID:E360 M
 CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Euroleague, Round 23
+Virtus Bologna vs Fenerbahçe
+Eutelsat 7A/7B/7C @ 7.0°E
+12517 H 9800
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 18.63 Mbit/s
+ID: ITA
+CW: C3 BC 12 91 AB B1 51 AD
 ---FEED-SEPARATOR---
 Champions League, Group K, Round 1
 Joventut Badalona vs Élan Chalon
