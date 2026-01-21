@@ -7,3 +7,12 @@ DVB-S2 | 8-PSK | 3/4
  | 25 FPS | 25.92 Mbit/s
 ID: Fi12_GNVE
 CW: BD 67 15 39 38 CA CF D1
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:11006 - V - 4827
+MPEG 4 - 
+4:2:0
+ - DVB-S2
+ID: UEFA MATCH 8/FEED B2
+UEFA Champions League
+CW: 38 53 D5 60 2F 0E 92 CF
