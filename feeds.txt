@@ -27,6 +27,23 @@ DVB-S2 - 8PSK -1080P
 ID: BT_SES_24_SDI
 CW: DD 35 76 88 94 37 04 CF
 ---FEED-SEPARATOR---
+MAXED007 said:
+UEFA Champions League - Matchday 7
+Slavia Prague v Barcelona
+ST: 21:00
+Eutelsat 3C @ 3.1°E C-Band
+- Freq:3798
+- Pol: Vertical
+- SR: 7201
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2 4:2:0
+- Name: UEFA ( IKOM G )
+CW: 5D 91 8C 7A 9D AE 58 DF
+Click to expand...
+NEW CW : 
+5D 918C 7A 9D EA 58 DF
+---FEED-SEPARATOR---
 UEFA Champions League - Matchday 7
 Slavia Prague v Barcelona
 ST: 21:00
