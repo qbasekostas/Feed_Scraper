@@ -18,6 +18,13 @@ DVB-S2 - 8PSK -1080P
 ID: BT_SES_24_SDI
 CW: DD 35 76 88 94 37 04 CF
 ---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:10996 - V - 9874
+MPEG 4 - 4:2:2 - DVB-S2
+ID: GVA_Fi01_IHL
+UEL - Matchday: Multiplex & Highlights
+CW: 38 53 D5 60 2F 0E 92 CF
+---FEED-SEPARATOR---
 Event: Champions League - League phase - Round 7
 Teams :  Galatasaray  
  Atl. Madrid
@@ -62,6 +69,24 @@ DVB-S2-
 -8PSK
 ID:E360 M
 CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Champions League, Group K, Round 1
+Joventut Badalona vs Élan Chalon
+Eutelsat 7A/7B/7C @ 7.0°E
+11125 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.36 Mbit/s
+ID: EDS807HD.1
+CW: AC 44 BE AE 41 DB 06 22
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 15
+Hamburg Towers vs Umana Reyer Venezia
+Eutelsat 7A/7B/7C @ 7.0°E
+11188 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.05 Mbit/s
+ID: BB Hamburg
+CW: BB EE 21 CA 01 20 26 47
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 12601 V 7200
