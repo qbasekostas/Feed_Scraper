@@ -8,6 +8,17 @@ DVB-S2 | 8-PSK | 3/4
 ID: Fi12_GNVE
 CW: BD 67 15 39 38 CA CF D1
 ---FEED-SEPARATOR---
+UEFA Champions League - Matchday 7
+Marseille vs. Liverpool
+Intelsat 10-02 @ 1.0°W
+11472 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: BC D8 D1 65 0F C2 6E 3F
+---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:11006 - V - 4827
 MPEG 4 - 
