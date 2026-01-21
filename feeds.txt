@@ -8,6 +8,16 @@ DVB-S2 | 8-PSK | 3/4
 ID: Fi12_GNVE
 CW: BD 67 15 39 38 CA CF D1
 ---FEED-SEPARATOR---
+Championship
+Derby Vs West Brom
+100.5°E C
+@ AsiaSat 5
+3933 H 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: DD 35 76 88 94 37 04 CF
+---FEED-SEPARATOR---
 Event: Champions League - League phase - Round 7
 Teams :  Galatasaray  
  Atl. Madrid
@@ -18,17 +28,6 @@ E ( KU-BAND )
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 2B 84 6C 35 DE 00 23 E3 
 CW: 51 23 6A DE 1A A6 53 13
----FEED-SEPARATOR---
-Event: Champions League - League phase - Round 7
-Teams : Marseille 
- Liverpool
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-12735 V 7200
- UKI 1678 PATH1 (Service Provider)
-MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
-49 91 55 20 39 6F 88 65  
-CW: 67 16 81 FE 73 AB A8 C6
 ---FEED-SEPARATOR---
 UEFA Champions League - Matchday 7
 Chelsea vs. Pafos FC
@@ -63,3 +62,29 @@ DVB-S2-
 -8PSK
 ID:E360 M
 CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+12601 V 7200
+4:2:0
+ID: AVP_OU_A
+Basketball Champions League -
+AEK vs Karditsas
+CW: BB 75 AF DF 13 BE 08 D9
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 15
+Panevežio 7Bet-Lietkabelis vs Dolomiti Energia Trento
+Eutelsat 7A/7B/7C @ 7.0°E
+12726 V 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.77 Mbit/s
+ID: LAT-002
+CW: BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 15
+London Lions vs Ratiopharm Ulm
+Eutelsat 7A/7B/7C @ 7.0°E
+12685 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.52 Mbit/s
+ID: Eurocup - Lions vs Ulm
+CW: FF BE 71 2E 19 CE EE D5
