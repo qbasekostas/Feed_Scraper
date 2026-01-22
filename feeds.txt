@@ -1,8 +1,11 @@
-Match highlights Europa League
-Eutelsat 7.0°E
-10985 V 9875 - 4.2.0
-ID: GVA_Fi01_IHL
-CW: 65 EF 87 DB 0D 84 1B AC
+UEFA Europa League, Round 7
+GNK Dinamo Zagreb vs FCSB
+Eutelsat 7A/7B/7C @ 7.0°E
+12540 V 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 20.72 Mbit/s
+ID: Medialink CRO-021/1
+CW: 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 UEFA Europa League, Round 7
 Celta Vigo vs Lille
