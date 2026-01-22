@@ -1,4 +1,11 @@
-UEFA Europa League -> Celta Vigo vs Lile 
+Match highlights Europa League
+Eutelsat 7.0°E
+10985 V 9875 - 4.2.0
+ID: GVA_Fi01_IHL
+CW: 65 EF 87 DB 0D 84 1B AC
+---FEED-SEPARATOR---
+UEFA Europa League, Round 7
+Celta Vigo vs Lille
 Eutelsat 7A/7B/7C @ 7.0E
 11597 V 19200
 DVB-S2 | 8PSK | 5/6
@@ -8,7 +15,8 @@ DVB-S2 | 8PSK | 5/6
 ID: E-228 Backup
 CW: 61 5E CF 8E A8 67 D6 E5
 ---FEED-SEPARATOR---
-UEFA Europa League
+UEFA Europa League, Round 7
+Celta Vigo vs Lille
 Eutelsat 7A/7B/7C @ 7.0°E
 11573 V 19200
 DVB-S2 | 8-PSK | 5/6
@@ -18,6 +26,7 @@ DVB-S2 | 8-PSK | 5/6
 ID: E-228 Main
 CW: 61 5E CF 8E A8 67 D6 E5
 ---FEED-SEPARATOR---
+Uefa Europa League - Matchday: Multiplex & Highlights
 Eutelsat 7A/7B/7C @ 7.0°E
 10984 V 9875
 DVB-S2 | 8PSK | 3/4
@@ -25,9 +34,7 @@ DVB-S2 | 8PSK | 3/4
 4:2:0
  | 25 FPS | 20.18 Mbit/s
 NEW ID
-: LEUK_Fi01
-Event: 
-Uefa Europa League - SK Brann vs FC Midtjylland
+: GVA_Fi01_IHL
 CW: 65 EF 87 DB 0D 84 1B AC
 ---FEED-SEPARATOR---
 Euroleague, Round 24
