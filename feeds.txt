@@ -1,33 +1,4 @@
-xFayez95 said:
-UEFA Europa League
-Eutelsat 7A/7B/7C @ 7.0°E
-11573 V 19200
-DVB-S2 | 8-PSK | 5/6
-1920x1080 | H.264/AVC Video | 
-4:2:2
- | 50 FPS | 38.95 Mbit/s
-ID: E-228 Main
-CW: 61 5E CF 8E A8 67 D6 E5
-Click to expand...
-Celta de Vigo- Spain  
- Lille - France
----FEED-SEPARATOR---
-xFayez95 said:
-UEFA Europa League
-Eutelsat 7A/7B/7C @ 7.0E
-11597 V 19200
-DVB-S2 | 8PSK | 5/6
-1920x1080 | H.264/AVC Video | 
-4:2:2
- | 50 FPS | 40.43 Mbit/s 
-ID: E-228 Backup
-CW: 61 5E CF 8E A8 67 D6 E5
-Click to expand...
-Europa League - League phase - Round 7
-Celta Vigo
-Lille
----FEED-SEPARATOR---
-UEFA Europa League
+UEFA Europa League -> Celta Vigo vs Lile 
 Eutelsat 7A/7B/7C @ 7.0E
 11597 V 19200
 DVB-S2 | 8PSK | 5/6
@@ -46,3 +17,20 @@ DVB-S2 | 8-PSK | 5/6
  | 50 FPS | 38.95 Mbit/s
 ID: E-228 Main
 CW: 61 5E CF 8E A8 67 D6 E5
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12555 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.09 Mbit/s
+ID: Fi15_GNVE
+Euroleague Basketball: Bayern Munich vs Valencia Basket
+CW: 66 BD FA 1D C8 3B AE B1
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12546 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.09 Mbit/s
+ID: Fi16_GNVE
+Euroleague Basketball: 
+Real Madrid vs AS Monaco
+CW: E8 E4 14 E0 B4 78 E2 0E
