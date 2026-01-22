@@ -19,6 +19,27 @@ ID: E-228 Main
 CW: 61 5E CF 8E A8 67 D6 E5
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
+10984 V 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:0
+ | 25 FPS | 20.18 Mbit/s
+NEW ID
+: LEUK_Fi01
+Event: 
+Uefa Europa League - SK Brann vs FC Midtjylland
+CW: 65 EF 87 DB 0D 84 1B AC
+---FEED-SEPARATOR---
+Euroleague, Round 24
+EA7 Emporio Armani Milano vs Kauno Žalgiris
+Eutelsat 7A/7B/7C @ 7.0E
+10994 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.94 Mbit/s 
+ID: Eurolega mil _Main
+CW: DA 1E 26 1E E9 2D 1D 33
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
 12555 H 7200
 DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.09 Mbit/s
