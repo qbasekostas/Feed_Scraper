@@ -1,0 +1,19 @@
+UEFA Europa League
+Eutelsat 7A/7B/7C @ 7.0E
+11597 V 19200
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 50 FPS | 40.43 Mbit/s 
+ID: E-228 Backup
+CW: 61 5E CF 8E A8 67 D6 E5
+---FEED-SEPARATOR---
+UEFA Europa League
+Eutelsat 7A/7B/7C @ 7.0°E
+11573 V 19200
+DVB-S2 | 8-PSK | 5/6
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 50 FPS | 38.95 Mbit/s
+ID: E-228 Main
+CW: 61 5E CF 8E A8 67 D6 E5
