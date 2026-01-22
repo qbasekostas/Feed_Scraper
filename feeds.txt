@@ -1,3 +1,13 @@
+League One 
+Lincoln City Vs Burton Albion
+100.5°E C
+@ AsiaSat 5
+3933 H 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 33 D3 87 8D 54 29 93 10
+---FEED-SEPARATOR---
 UEFA Europa League, Round 7
 GNK Dinamo Zagreb vs FCSB
 Eutelsat 7A/7B/7C @ 7.0°E
