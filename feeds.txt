@@ -1,3 +1,14 @@
+League One, Round 28
+Lincoln City vs Burton Albion
+Eutelsat 7A/7B/7C @ 7.0°E
+12648 H 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 6.56 Mbit/s
+ID: Pitch Lincoln v Burton
+Satfun2017 said:
+CW: 33 D3 87 8D 54 29 93 10
+Click to expand...
+---FEED-SEPARATOR---
 League One 
 Lincoln City Vs Burton Albion
 100.5°E C
@@ -49,6 +60,15 @@ DVB-S2 | 8PSK | 3/4
 NEW ID
 : GVA_Fi01_IHL
 CW: 65 EF 87 DB 0D 84 1B AC
+---FEED-SEPARATOR---
+Euroleague, Round 24
+Paris Basketball vs BC Dubai
+Eutelsat 7A/7B/7C @ 7.0°E
+11004 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 12.44 Mbit/s
+ID: F615_M5_MAIN
+CW: D6 2F AC B1 4E 96 74 58
 ---FEED-SEPARATOR---
 Euroleague, Round 24
 EA7 Emporio Armani Milano vs Kauno Žalgiris
