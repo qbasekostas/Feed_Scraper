@@ -20,6 +20,15 @@ ID: BT_SES_24_SDI
 CW: 33 D3 87 8D 54 29 93 10
 ---FEED-SEPARATOR---
 UEFA Europa League, Round 7
+Red Bull Salzburg vs Basel
+Eutelsat 7A/7B/7C @ 7.0°E
+10976 H 8020
+DVB-S2 | QPSK-S2 | 3/4
+1920x1080 | H.265/HEVC Video | 4:2:0 | 50 FPS | 21.82 Mbit/s
+ID: GVA_Fi04
+FTA
+---FEED-SEPARATOR---
+UEFA Europa League, Round 7
 GNK Dinamo Zagreb vs FCSB
 Eutelsat 7A/7B/7C @ 7.0°E
 12540 V 9875
