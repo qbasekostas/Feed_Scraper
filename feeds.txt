@@ -7,3 +7,11 @@ LaLiga
 Levante  vs Elche
 found CW: 
 F0 7E C6 34 83 31 51 05
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:12655 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:Medialink CRO-024/1
+ABA Liga, Group B
+ KK Zadar vsCedevita Olimpija Ljubljana
+CW: 20 25 AB F0 CD 20 26 13
