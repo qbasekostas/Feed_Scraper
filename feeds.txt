@@ -1,3 +1,17 @@
+16°E
+11060 
+H 
+9875
+DVB-S2
+ - 4:2:0 - 
+8PSK
+ID:FBL Union Berlin
+Bundesliga Women
+GERMANY: 
+Union Berlin W
+Bayer Leverkusen W
+cw pls
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10732 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
