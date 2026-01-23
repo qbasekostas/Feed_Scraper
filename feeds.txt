@@ -75,6 +75,14 @@ Arbroath v Greenock Morton
 ---FEED-SEPARATOR---
 HBO said:
 CW: 34 27 63 BE FF 46 A5 EA
+Click to expand...
+Eutelsat 7E
+11069 V 7120 S2 4:2:0
+ID: Pitch - Derby County v WBA
+English Championship - Derby County vs. West Bromwich
+---FEED-SEPARATOR---
+HBO said:
+CW: 34 27 63 BE FF 46 A5 EA
    #[E] PID:07D1h
 Derby County vs West Bromwich
 Click to expand...
@@ -90,6 +98,14 @@ BD 79 5F 76 88 D0 66 A2  #CW:
 34 27 63 BE FF 46 A5 EA
    #[E] PID:07D1h
 Derby County vs West Bromwich
+---FEED-SEPARATOR---
+7°E KU
+11079 H 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: M172F558BU
+Event: Euroleague Lyon-Villeurbanne V Barcelona
+CW: DE B7 E1 76 C9 A8 94 05
 ---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:12655 - V - 7200
