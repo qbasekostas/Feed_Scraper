@@ -40,7 +40,7 @@ Bayer Leverkusen W
 cw pls
 ---FEED-SEPARATOR---
 10.0°E
-10723 V 34000
+10731 V 34000
 4:2:0
 ID: LIGA HYPERMOTION 1
 CW: CF A2 C2 33 48 87 6C 3B
@@ -54,15 +54,6 @@ LaLiga
 Levante  vs Elche
 found CW: 
 F0 7E C6 34 83 31 51 05
----FEED-SEPARATOR---
-fusillo said:
-			10.0°E
-10723 V 34000
-4:2:0
-ID: LIGA HYPERMOTION 1
-CW: CF A2 C2 33 48 87 6C 3B
-Click to expand...
-Correct 10732
 ---FEED-SEPARATOR---
 16E
 12712 V 2000
