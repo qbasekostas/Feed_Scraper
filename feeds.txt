@@ -3,4 +3,7 @@ Fréq:10732 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
 ID: 
 OVERON 1
-found CW: F0 7E C6 34 83 31 51 05
+LaLiga 
+Levante  vs Elche
+found CW: 
+F0 7E C6 34 83 31 51 05
