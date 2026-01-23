@@ -39,6 +39,12 @@ Union Berlin W
 Bayer Leverkusen W
 cw pls
 ---FEED-SEPARATOR---
+10.0°E
+10723 V 34000
+4:2:0
+ID: LIGA HYPERMOTION 1
+CW: CF A2 C2 33 48 87 6C 3B
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10732 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
@@ -66,6 +72,15 @@ DVB-S2 8PSK
 ID: Uki-1592
 Scottish Championship - Week 23
 Arbroath v Greenock Morton
+---FEED-SEPARATOR---
+HBO said:
+CW: 34 27 63 BE FF 46 A5 EA
+   #[E] PID:07D1h
+Derby County vs West Bromwich
+Click to expand...
+7.0E
+11062 V 7120
+ID: Pitch Gloucester vs Bath R
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3985 V 7120
