@@ -38,6 +38,24 @@ Levante  vs Elche
 found CW: 
 F0 7E C6 34 83 31 51 05
 ---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 8PSK
+ID: Service01
+Scottish Championship - Week 23
+Arbroath v Greenock Morton
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+12702 V 10000
+ 4:2:0
+DVB-S2 8PSK
+ID: Uki-1592
+Scottish Championship - Week 23
+Arbroath v Greenock Morton
+---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:12655 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
