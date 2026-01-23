@@ -1,3 +1,14 @@
+German 1. Bundesliga - Week 17
+St Pauli vs. Hamburg
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi03
+CW: FE 68 0A 70 68 CA EC 1E
+---FEED-SEPARATOR---
 Gevs999 said:
 16°E
 11060 
@@ -55,6 +66,15 @@ DVB-S2 8PSK
 ID: Uki-1592
 Scottish Championship - Week 23
 Arbroath v Greenock Morton
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3985 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+BD 79 5F 76 88 D0 66 A2  #CW:
+34 27 63 BE FF 46 A5 EA
+   #[E] PID:07D1h
+Derby County vs West Bromwich
 ---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:12655 - V - 7200
