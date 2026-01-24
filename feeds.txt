@@ -343,6 +343,21 @@ Eutelsat 7B-7C   @ 07.0E
 ID: Pitch-EFL Millwall v Charlton (NEP CONNECT)
 1920x1080 |14,100Mb/Sec |8PSK |4:2:0 HD
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+12642 Vertical 4936,246 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-021 MAIN
+Serbia women basketball - Hala sportova Ranko Zeravica
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+12636 Vertical 4936,241 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-021M
+AdmiralBet ABA League - Round 16
+Borac Mozzart vs KK Krka Novo mesto
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 7.0°E
 11606 V 7200
 4:2:2
