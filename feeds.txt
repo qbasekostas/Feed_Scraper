@@ -156,6 +156,22 @@ Eutelsat 7B/7C @ 7.0°E
 ID: AFD
 CW: A1 D1 6C DE 14 D1 B5 9A
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,99Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 21
+Teams: Villarreal CF vs Real Madrid
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+Hackintosh said:
+#CW:
+57 45 2A C6 4C 00 00 4C
+Click to expand...
+---FEED-SEPARATOR---
 LaLiga : Villarreal v Real Madrid 
 Eutelsat 10B @ 10.0E
 10732 V 34000
@@ -406,6 +422,13 @@ MPEG4-
  Mbit/Sec|8PSK| DVB-S2 HD
 40 38 43 13 4E 9B FB 1A  
 CW: 7A C8 5F A1 98 44 60 3C
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12546 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.21 Mbit/s 
+ID: E-289
+CW: 89 3E 52 19 FB 1D E0 F8
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 18
 Asteras Tripolis vs AEK
