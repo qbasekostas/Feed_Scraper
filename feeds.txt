@@ -1,3 +1,12 @@
+Eutelsat (16°E)
+10980 H 3600
+4.2.0
+ID: Fal7 Enc2
+Bundesliga
+Event: 
+Union Berlino vs Borussia Dortmund
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 Germany, BundesligaUnion Berlin vs. Borussia Dortmund
 Eutelsat 7B-7C   @ 7.0E
 11009  Vertical  9874,854
@@ -272,6 +281,16 @@ Eutelsat 7B-7C   @ 07.0E
 ID: Pitch-EFL Millwall v Charlton (NEP CONNECT)
 1920x1080 |14,100Mb/Sec |8PSK |4:2:0 HD
 ---FEED-SEPARATOR---
+Poland
+Basket Liga - Round 17
+Slask Wroclaw
+Trefl Sopot
+Eutelsat 7B/7C @ 7.0°E
+12601- V- 7200
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname 
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 13.0°E
 10847 V 7500
 4:2:2
@@ -294,3 +313,10 @@ MPEG4-
  Mbit/Sec|8PSK| DVB-S2 HD
 40 38 43 13 4E 9B FB 1A  
 CW: 7A C8 5F A1 98 44 60 3C
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 18
+Asteras Tripolis vs AEK
+39e
+12620 V 7200
+ID: E394 BACKUP
+CW: 8E 94 BB DD 71 CD 6D AB
