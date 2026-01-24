@@ -1,3 +1,33 @@
+fil1 said:
+CW: 24 01 FE 23 BA 65 47 66
+Click to expand...
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12643  Horizontal  7201,943
+ID: DMC production Germany (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+RW Essen
+ VS 
+Havelse
+---FEED-SEPARATOR---
+fil1 said:
+CW: 24 01 FE 23 BA 65 47 66
+Click to expand...
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12506  Horizontal  7201,79
+ID:  D-473 (rt1.tv)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+Ingolstadt
+ VS 
+Stuttgart II
+---FEED-SEPARATOR---
+28.2E
+12609 v 7200
+ID: D171 feed2
+4:2:0
+3. liga
+Erzgebirge Aue v SSV Ulm
+CW: 24 01 FE 23 BA 65 47 66
+---FEED-SEPARATOR---
 28.2E
 12616 v 7200
 ID: D167
@@ -73,9 +103,38 @@ LaLiga
 Rayo Vallecano vs Osasuna
 CW: 22 0C EA 18 1E 99 28 DF
 ---FEED-SEPARATOR---
+EFL Championship
+AsiaSat 5 100.5E
+3993 V 7119
+8PSK 2/3 4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+CW: 93 C3 32 88 77 88 32 31
+   #[E] PID:07D1h
+---FEED-SEPARATOR---
+EFL Championship
+AsiaSat 5 100.5E
+3984 V 7119
+8PSK 2/3 DVB-S2 4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+CW: 84 35 A3 5C 53 56 7E 27
+   #[E] PID:07D1h
+---FEED-SEPARATOR---
 English Premier League  
 West Ham vs Sunderland
 EUTELSAT 7E 
 11070 H 7200
 ID: IMG A EU
 CW: 12 3C AA F8 14 22 A3 D9
+---FEED-SEPARATOR---
+vnraw said:
+CW: 93 C3 32 88 77 88 32 31
+ #[E] PID:07D1h
+Click to expand...
+England, Championship
+Millwall FC
+ vs. 
+Charlton Athletic 
+Eutelsat 7B-7C   @ 07.0E
+11052 V 7121
+ID: Pitch-EFL Millwall v Charlton (NEP CONNECT)
+1920x1080 |14,100Mb/Sec |8PSK |4:2:0 HD
