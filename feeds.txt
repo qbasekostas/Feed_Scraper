@@ -138,6 +138,13 @@ Germany Amateur, Bundesliga, Women
 KILN VS FREIBRUG
 CW: 04 01 FB 20 CD 12 51 30
 ---FEED-SEPARATOR---
+47W SES14 C 
+3849H6666
+ID: PERFOR1
+DVB-S2 4.2.0 1080I 
+FÚTBOL COLOMBIANO 
+CW: 43 B1 9F 93 48 C8 5A 6A
+---FEED-SEPARATOR---
 Argentinean Primera División - Week 1
 Independiente vs. Estudiantes LP
 Eutelsat 7B/7C @ 7.0°E
@@ -326,6 +333,13 @@ Eutelsat 7B-7C   @ 07.0E
 11052 V 7121
 ID: Pitch-EFL Millwall v Charlton (NEP CONNECT)
 1920x1080 |14,100Mb/Sec |8PSK |4:2:0 HD
+---FEED-SEPARATOR---
+7.0°E
+11606 V 7200
+4:2:2
+ID: SELENIO 1
+CW: 28 46 5C CA DD CC 22 CB
+LBA Italian League
 ---FEED-SEPARATOR---
 Poland
 Basket Liga - Round 17
