@@ -1,3 +1,11 @@
+Germany, BundesligaUnion Berlin vs. Borussia Dortmund
+Eutelsat 7B-7C   @ 7.0E
+11009  Vertical  9874,854
+ID:  D-571 Backup Union Berlin (SNG D-571 Vahland TV)
+1920x1080 |22,009Mb/Sec |8PSK 
+|4:2:2 HD
+F8 E5 FD B5 3B C0 71 B6  #CW:FC F7 60 53 3F 76 3D F2  
+---FEED-SEPARATOR---
 47W SES14 C 
 3896H9875
 ID: LK ENC 09
@@ -127,7 +135,7 @@ FaDeL® said:
 Click to expand...
 ---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 23
-Leganés vs. Real Sociedad II
+Cádiz vs. Granada
 Eutelsat 10B @ 10.0°E
 10768 - V - 34000 
 |
@@ -234,6 +242,13 @@ Eutelsat 7B-7C   @ 07.0E
 11052 V 7121
 ID: Pitch-EFL Millwall v Charlton (NEP CONNECT)
 1920x1080 |14,100Mb/Sec |8PSK |4:2:0 HD
+---FEED-SEPARATOR---
+13.0°E
+10847 V 7500
+4:2:2
+ID: E333 M
+CW: FD 5E F4 4F C0 47 CE D5
+Turkish Super Lig: Besiktas - Mersin BŞB
 ---FEED-SEPARATOR---
 Event :
 Turkey Super Lig - Round 17
