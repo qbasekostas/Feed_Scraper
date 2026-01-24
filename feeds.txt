@@ -212,6 +212,16 @@ EUTELSAT 7E
 ID: IMG A EU
 CW: 12 3C AA F8 14 22 A3 D9
 ---FEED-SEPARATOR---
+England, Championship 
+Hull City
+ vs. 
+Swansea City
+Eutelsat 7B-7C   @ 7.0E
+11071  Vertical  7121,79
+ID Pitch - Hull v Swansea (NEP Connect)
+1920x1080 |14,107Mb/Sec |8PSK |4:2:0 HD
+BE CD 5B 50 44 0E 3A 3F  #CW:84 35 A3 5C 53 56 7E 27 
+---FEED-SEPARATOR---
 vnraw said:
 CW: 93 C3 32 88 77 88 32 31
  #[E] PID:07D1h
