@@ -1,3 +1,10 @@
+47W SES14 C 
+3896H9875
+ID: LK ENC 09
+DVB-S2 4.2.0 1080I 
+CW: E2 08 D5 BF AA AD 47 9E
+Bayer Munchen vs Augsburg
+---FEED-SEPARATOR---
 archiesat said:
 CW: 24 01 FE 23 BA 65 47 66
 Click to expand...
