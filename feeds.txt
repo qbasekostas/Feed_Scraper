@@ -1,3 +1,26 @@
+German 1. Bundesliga - Week 17
+Union Berlin vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+11009 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D-571 Main Union Berlin
+NEW
+CW: 19 68 2E AF D0 46 A1 B7
+---FEED-SEPARATOR---
+German 1. Bundesliga - Week 17
+Union Berlin vs. Borussia Dortmund
+Eutelsat 7B/7C @ 7.0°E
+11048 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GVA_Fi07
+CW: 8A C5 BA 09 80 6D A7 94
+---FEED-SEPARATOR---
 Eutelsat (16°E)
 10980 H 3600
 4.2.0
@@ -126,6 +149,21 @@ Eutelsat 7B/7C @ 7.0°E
 ID: AFD
 CW: A1 D1 6C DE 14 D1 B5 9A
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,94Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 21
+Teams: Sevilla FC vs Athletic Club
+Time / Kickoff: 00.30 JKT-TH / 01.30 MY-SG / 17.30 GMT / 18.30 CET
+Dani Sat said:
+CW: 60 AA A9 B3 23 2A A1 EE
+Click to expand...
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 21
 Sevilla vs. Athletic Bilbao
 Eutelsat 10B @ 10.0°E
@@ -234,6 +272,14 @@ ID: OVERON 2
 LaLiga
 Rayo Vallecano vs Osasuna
 CW: 22 0C EA 18 1E 99 28 DF
+---FEED-SEPARATOR---
+28.2E
+12725 H 7200 
+4:2:0
+DVBS-2 8PSK
+ID UKI-1955-1
+Scottish  League 1  Week 22
+Kelty Hearts v Stenhousemuir
 ---FEED-SEPARATOR---
 EFL Championship
 AsiaSat 5 100.5E
