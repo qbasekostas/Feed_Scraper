@@ -1,3 +1,15 @@
+archiesat said:
+CW: 24 01 FE 23 BA 65 47 66
+Click to expand...
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12515  Horizontal  7201,79
+ID:   DMC D-361 (Service Provider)
+1920x1080 |16,051Mb/Sec |8PSK |4:2:0 HD
+German 3. Liga - Week 21
+Duisburgo
+ vs 
+Regensburg
+---FEED-SEPARATOR---
 fil1 said:
 			28.2E
 12616 v 7200
@@ -89,6 +101,23 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: AFD
 CW: A1 D1 6C DE 14 D1 B5 9A
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,95Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 21
+Teams: Rayo Vallecano vs CA Osasuna
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 14.00 CET
+FaDeL® said:
+#CW
+:
+ 22 0C EA 18 1E 99 28 DF
+Click to expand...
 ---FEED-SEPARATOR---
 Spanish La Liga 2 - Matchday 23
 Leganés vs. Real Sociedad II
