@@ -343,6 +343,15 @@ Eutelsat 7B-7C   @ 07.0E
 ID: Pitch-EFL Millwall v Charlton (NEP CONNECT)
 1920x1080 |14,100Mb/Sec |8PSK |4:2:0 HD
 ---FEED-SEPARATOR---
+AdmiralBet ABA League, Round 16
+Perspektiva Ilirija vs KK Mega Basket
+Eutelsat 7A/7B/7C @ 7.0E
+11468 V 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 10.36 Mbit/s
+ID: Medialink CRO-025/1
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 12642 Vertical 4936,246 3/4
 DVB-S2/8PSK (4:2:0)
