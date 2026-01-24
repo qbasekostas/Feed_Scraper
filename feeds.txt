@@ -138,6 +138,14 @@ Germany Amateur, Bundesliga, Women
 KILN VS FREIBRUG
 CW: 04 01 FB 20 CD 12 51 30
 ---FEED-SEPARATOR---
+55W INTELSAT 34 C 
+4099v7500
+Id: Unname
+DVB-S2 4.2.0 1080I 
+CW: F0 F0 24 04 01 20 26 47
+CAMPEONATO PAULISTA BRASIL 
+PONTE PRETA VS NOROESTE
+---FEED-SEPARATOR---
 Dani Sat said:
 Argentinean Primera División - Week 1
 Independiente vs. Estudiantes LP
