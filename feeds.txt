@@ -1,3 +1,29 @@
+28.2E
+12616 v 7200
+ID: D167
+4:2:0
+3. liga
+Energie Cottbus v Schweinfurt
+CW: 24 01 FE 23 BA 65 47 66
+---FEED-SEPARATOR---
+Eutelsat 16.0ºE
+10975 H 3600 - 4.2.0
+ID: F5-2 4.5MH 
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+faisal6 said:
+Eutelsat 16A @ 16.0E
+11188  Horizontal  9874,854
+ID:FBL Koeln (Adtec Digital)
+1920x1080 |22,009Mb/Sec |8PSK |4:2:0 HD
+Germany Amateur, Bundesliga, Women
+KILN VS FREIBRUG
+CW: 04 01 FB 20 CD 12 51 30
+Click to expand...
+CW CORECT: 
+24
+ 01 FB 20 CD 12 51 30
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 11188  Horizontal  9874,854
 ID:FBL Koeln (Adtec Digital)
