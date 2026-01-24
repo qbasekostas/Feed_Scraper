@@ -423,12 +423,25 @@ MPEG4-
 40 38 43 13 4E 9B FB 1A  
 CW: 7A C8 5F A1 98 44 60 3C
 ---FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0E
+Portugal LBP, Round 12
+UD Oliveirense vs SL Benfica
+Eutelsat 7A/7B/7C @ 7.0°E
 12546 H 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.21 Mbit/s 
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.66 Mbit/s
 ID: E-289
 CW: 89 3E 52 19 FB 1D E0 F8
+---FEED-SEPARATOR---
+Greece
+Super League - Round 18
+Asteras Tripolis
+AEK Athens
+Hotbird 13F/13G @13.0°E 
+10838 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: ASTERAS VS AEKA
+CW: CC 19 9B 80 F9 B1 1C C6
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 18
 Asteras Tripolis vs AEK
