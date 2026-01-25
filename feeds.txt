@@ -174,3 +174,10 @@ CW: E4 D7 61 1C CD 36 19 1C
 ID: ENC 2
 CW: CE B7 C0 45 8C 7B 94 9B
 BSL: Anadolu Efes - Bursaspor
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 18
+Atromitos vs Panathinaikos
+13e
+10848 V 7200
+ID: ATRO VS PAO A
+CW: F1 BF CA 7A 9F EA BE 47
