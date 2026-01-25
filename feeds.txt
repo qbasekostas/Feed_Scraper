@@ -1,3 +1,11 @@
+28.2E
+12505 h 7200
+ID: SVW Mannheim
+4:2:0
+3. liga
+Waldhof Mannheim v Hansa Rostock
+CW: 25 01 BE E4 BB 59 41 55
+---FEED-SEPARATOR---
 2. Bundesliga, Round 19
 FC Schalke 04 vs 1. FC Kaiserslautern
 Eutelsat 16A @ 16.0E
