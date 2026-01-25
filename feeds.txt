@@ -136,6 +136,21 @@ ID: OVERON 1
 CW: 03 87 5F E9 48 F7 EA 29
    #[E] PID:0F0Bh
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,98Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 21
+Teams: Deportivo Alavés vs Real Betis
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+Dani Sat said:
+CW: EB FD 7D 65 E3 D8 31 EC
+Click to expand...
+---FEED-SEPARATOR---
 28.2°E
 12515 H 7200
 4:2:0
