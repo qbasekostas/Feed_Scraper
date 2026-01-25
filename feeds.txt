@@ -43,16 +43,6 @@ FÚTBOL AMISTOSO
 ALIANZA LIMA vs INTER MIAMI 
 CW: 38 26 56 B4 94 AA 25 63
 ---FEED-SEPARATOR---
-Event: Italy Serie A Elite - Round 9
-Teams : Petrarca Padova 
- Viadana
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-11136 H 7200
-  ISMF AND Comapedrosa WC - SPRINT (IKOMG)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
-CW: 3E 83 F2 B3 CA 53 9D BA
----FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
 1920*1080 | DVB-S2 | 8PSK
