@@ -15,6 +15,21 @@ DVB-S2 | 8PSK | 5/6
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Event:Germany Bundesliga - Round 19
+Teams : Freiburg 
+ FC Koln
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+10962 H 9875
+ GVA_Fi04 (EUROVISION SA)
+MPEG4-
+4:2:2 
+HD 1920x1080 |
+22.680
+ Mbit/Sec|8PSK DVB-S2 HD
+C1 B4 9F 86 F1 B7 1B 1F  
+CW: E4 44 B5 DD 8F 1B 23 CD
+---FEED-SEPARATOR---
 Eutelsat (16°E)
 11189 H 9875
 4.2.0
@@ -42,6 +57,15 @@ DVB-S2 4.2.0 1080I
 FÚTBOL AMISTOSO 
 ALIANZA LIMA vs INTER MIAMI 
 CW: 38 26 56 B4 94 AA 25 63
+---FEED-SEPARATOR---
+la liga, Round 21 
+Barcelona vs Real Oviedo
+Eutelsat 3.1°E
+10958 H 7500 - 4.2.0
+ID: beIN SPORTS           
+10968 H 7500  - 4.2.0
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
