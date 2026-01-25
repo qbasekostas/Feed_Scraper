@@ -69,6 +69,17 @@ Event:
 EFL Highlights  
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Event: Spain ACB - Round 17
+Teams : Gran Canaria 
+ Valencia
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11053 V 7200
+  Fi01_ACB (CM5000)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+E1 F1 4F 46 2D B9 A9 61 
+CW: E4 D7 61 1C CD 36 19 1C
+---FEED-SEPARATOR---
 13.0°E
 12610 V 7500
 4:2:0
