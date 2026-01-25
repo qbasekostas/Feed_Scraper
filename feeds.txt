@@ -15,6 +15,15 @@ DVB-S2 | 8PSK | 5/6
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Frauen-Bundesliga, Round 15
+Hamburger SV vs SGS Essen
+Eutelsat 16A @ 16.0°E
+11176 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 20.57 Mbit/s
+ID: FBL Hamburg
+CW: 25 01 EB 11 AA 12 64 20
+---FEED-SEPARATOR---
 Event:Germany Bundesliga - Round 19
 Teams : Freiburg 
  FC Koln
@@ -57,6 +66,17 @@ DVB-S2 4.2.0 1080I
 FÚTBOL AMISTOSO 
 ALIANZA LIMA vs INTER MIAMI 
 CW: 38 26 56 B4 94 AA 25 63
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 21
+Real Sociedad vs. Celta Vigo
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 2
+CW: 25 C2 30 17 D7 66 3F 7C
 ---FEED-SEPARATOR---
 la liga, Round 21 
 Barcelona vs Real Oviedo
