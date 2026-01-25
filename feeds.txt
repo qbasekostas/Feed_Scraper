@@ -15,6 +15,26 @@ DVB-S2 | 8PSK | 5/6
 ID: Fal4 Enc1
 CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
+Eutelsat (16°E)
+11189 H 9875
+4.2.0
+ID: FBL Bremen
+Frauen-Bundesliga
+Event: 
+Werder vs Numberg
+CW: 25 01 EB 11 AA 12 64 20
+---FEED-SEPARATOR---
+Bundesliga, Round 19
+Borussia M'gladbach vs VfB Stuttgart
+Eutelsat 7A/7B/7C @ 7.0°E
+10974 H 9875
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 20.18 Mbit/s
+ID: GVA_Fi03
+CW: F2 4B 5B 98 6A 76 C9 A9
+---FEED-SEPARATOR---
 55.5W INTELSAT34 
 4150v7200
 Id: Unname 
@@ -22,6 +42,16 @@ DVB-S2 4.2.0 1080I
 FÚTBOL AMISTOSO 
 ALIANZA LIMA vs INTER MIAMI 
 CW: 38 26 56 B4 94 AA 25 63
+---FEED-SEPARATOR---
+Event: Italy Serie A Elite - Round 9
+Teams : Petrarca Padova 
+ Viadana
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11136 H 7200
+  ISMF AND Comapedrosa WC - SPRINT (IKOMG)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 3E 83 F2 B3 CA 53 9D BA
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
