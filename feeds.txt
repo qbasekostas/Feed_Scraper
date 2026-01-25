@@ -67,6 +67,16 @@ FÚTBOL AMISTOSO
 ALIANZA LIMA vs INTER MIAMI 
 CW: 38 26 56 B4 94 AA 25 63
 ---FEED-SEPARATOR---
+Italy
+, 
+Serie A - Round 22
+AS Roma
+AC Milan
+C_Eutelsat 10.0°E | C-Band
+3895 V 3750 | 4.2.0 - DVB-S2
+ID: Serie A
+CW: 82 EF 2D 9E 54 66 8B 45
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 21
 Alavés vs. Real Betis
 Eutelsat 10B @ 10.0°E
