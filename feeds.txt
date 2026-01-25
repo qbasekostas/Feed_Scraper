@@ -68,6 +68,17 @@ ALIANZA LIMA vs INTER MIAMI
 CW: 38 26 56 B4 94 AA 25 63
 ---FEED-SEPARATOR---
 Spanish La Liga - Matchday 21
+Alavés vs. Real Betis
+Eutelsat 10B @ 10.0°E
+10732 - V - 34000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: EB FD 7D 65 E3 D8 31 EC
+---FEED-SEPARATOR---
+Spanish La Liga - Matchday 21
 Real Sociedad vs. Celta Vigo
 Eutelsat 10B @ 10.0°E
 10732 - V - 34000 
@@ -147,6 +158,17 @@ ID: Pitch - EFL Highlights
 Event: 
 EFL Highlights  
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Italy, Lega A Basket, Round 17
+Germani Brescia vs APU Udine
+Eutelsat 7A/7B/7C @ 7.0°E
+11607 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 14.11 Mbit/s
+ID: SELENIO 2
+CW: A5 68 25 32 46 7C 87 49
 ---FEED-SEPARATOR---
 ABA Liga, Group A, Round 16
 KK Partizan Mozzart Bet vs Igokea m:tel
