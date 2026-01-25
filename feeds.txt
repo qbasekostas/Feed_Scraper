@@ -148,6 +148,15 @@ Event:
 EFL Highlights  
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+ABA Liga, Group A, Round 16
+KK Partizan Mozzart Bet vs Igokea m:tel
+Eutelsat 16A @ 16.0°E
+12562 H 4938
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 10.16 Mbit/s
+ID: YSM-012 MAIN
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Event: Spain ACB - Round 17
 Teams : Gran Canaria 
  Valencia
