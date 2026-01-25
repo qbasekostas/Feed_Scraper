@@ -51,3 +51,10 @@ ID: Pitch - EFL Highlights
 Event: 
 EFL Highlights  
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+13.0°E
+12610 V 7500
+4:2:0
+ID: ENC 2
+CW: CE B7 C0 45 8C 7B 94 9B
+BSL: Anadolu Efes - Bursaspor
