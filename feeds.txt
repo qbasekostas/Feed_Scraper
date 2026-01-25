@@ -81,6 +81,13 @@ ID: OVERON 1
 CW: 03 87 5F E9 48 F7 EA 29
    #[E] PID:0F0Bh
 ---FEED-SEPARATOR---
+28.2°E
+12515 H 7200
+4:2:0
+ID: UKI-1955-2
+#FTA
+SWPL: Celtic Football Club Women - Montrose Ladies
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11107 V 7200 DVB-S2 8PSK
 MPEG 4 - 4:2:0 - HDTV
