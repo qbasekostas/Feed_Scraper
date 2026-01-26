@@ -1,0 +1,19 @@
+Segunda Division MD23 - Ceuta vs Cultural Leonesa
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+LIGA HYPERMOTION 1
+CW: C1 63 CC F0 E8 E1 B8 81
+   #[E] PID:04BBh
+---FEED-SEPARATOR---
+Laliga MD21 - Girona FC vs Getafe 
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 4.2.2
+ID: OVERON 1
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: AF DC 6C F7 25 BB 4A 2A
+  #[E] PID:0F0Bh
