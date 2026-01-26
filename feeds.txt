@@ -18,6 +18,15 @@ ID: OVERON 1
 CW: AF DC 6C F7 25 BB 4A 2A
   #[E] PID:0F0Bh
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3985 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+B4 92 5C B9 80 FF E9 1A  #CW:
+32 84 FF B5 3F 35 A3 17
+   #[E] PID:07D1h
+Norwich vs Coventry 
+---FEED-SEPARATOR---
 World
 , 
 Club Friendly
@@ -27,6 +36,16 @@ Eutelsat 7°E
 10966 H 7200 - 4.2.0
 ID: UAE074 - 1
 CW: FTA
+---FEED-SEPARATOR---
+Europe
+, 
+AdmiralBet ABA League - Round 16
+Split
+Studentski Centar
+Eutelsat 7°E
+12655 V 7200 - 4.2.0
+ID: Medialink CRO-024/1
+CW: 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 bayuware said:
 Hotbird 13B ( 13E )
