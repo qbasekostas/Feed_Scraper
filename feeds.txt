@@ -27,6 +27,14 @@ ID: OVERON 1
 CW: AF DC 6C F7 25 BB 4A 2A
   #[E] PID:0F0Bh
 ---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:11071 - V - 7120
+MPEG 4 - 4:2:0 - DVB-S2
+ID:   Pitch - EFL Norwich v Coventry
+EFL
+Norwich vs Coventry
+CW: 32 84 FF B5 3F 35 A3 17
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3985 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
@@ -45,6 +53,16 @@ Eutelsat 7°E
 10966 H 7200 - 4.2.0
 ID: UAE074 - 1
 CW: FTA
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11606 - V - 7200
+DVB-S2 | 8PSK | 
+4:2:2
+ |
+ID: SELENIO 3
+Event: 
+LBA Serie A Unipol - Olimpia Milano vs Varese
+CW: 9F 5E 55 52 96 F9 D5 64
 ---FEED-SEPARATOR---
 Europe
 , 
