@@ -1,3 +1,12 @@
+Eutelsat 7B/7C (7.0 E)
+11124 V 7200
+DVB-S2/8PSK (4:2:0)
+ID: ITA360_1
+Serie C
+Event: 
+L.R. Vicenza vs Cittadella
+CW: 29 DB D9 DD 07 AC ED A0
+---FEED-SEPARATOR---
 Segunda Division MD23 - Ceuta vs Cultural Leonesa
 Eutelsat 10B @ 10.0°E
 10733 - V - 34000 |4:2:2 | H.264
@@ -36,6 +45,23 @@ Eutelsat 7°E
 10966 H 7200 - 4.2.0
 ID: UAE074 - 1
 CW: FTA
+---FEED-SEPARATOR---
+Europe
+, 
+AdmiralBet ABA League - Round 16
+Crvena zvezda
+Vienna Basket
+Eutelsat 7°E
+12626 V 4940 - 4.2.0
+ID:YSM-012 MAIN
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+3x3 basketball 
+VUKOVI VS GRIZLISI
+Eutelsat 7°E
+12632 V 4940 - 4.2.0
+ID:YSM-016 MAIN 
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Europe
 , 
