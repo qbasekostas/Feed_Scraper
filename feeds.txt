@@ -17,3 +17,22 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: AF DC 6C F7 25 BB 4A 2A
   #[E] PID:0F0Bh
+---FEED-SEPARATOR---
+World
+, 
+Club Friendly
+Dynamo Moscow (Rus)
+Chengdu Rongcheng (Chn)
+Eutelsat 7°E
+10966 H 7200 - 4.2.0
+ID: UAE074 - 1
+CW: FTA
+---FEED-SEPARATOR---
+ABA Liga, Group A, Round 16
+BC Dubai vs FMP Beograd
+Eutelsat 7A/7B/7C @ 7.0°E
+11523 V 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.84 Mbit/s
+ID: World Feed Main
+CW: AB BA 20 85 25 20 26 6B
