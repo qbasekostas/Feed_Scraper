@@ -28,16 +28,6 @@ Eutelsat 7°E
 ID: UAE074 - 1
 CW: FTA
 ---FEED-SEPARATOR---
-Turkey
-, 
-Super Lig - Round 17
-Merkezefendi
- vs Karsiyaka
-Hotbird 13°E
-12591 V 7500 - 4.2.0
-ID: ENC 06
-CW: E7 4B 4E 80 AD 54 70 71
----FEED-SEPARATOR---
 bayuware said:
 Hotbird 13B ( 13E )
 12592 V 7500
