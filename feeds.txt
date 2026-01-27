@@ -1,0 +1,24 @@
+AsiaSat 5 100.5E
+3984 V 7119
+8PSK 2/3 DVB-S2 4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+League One: 
+Doncaster Rovers vs Leyton Orient
+CW: 67 11 47 BF 1A 45 65 C4
+---FEED-SEPARATOR---
+Dubai International Basketball Championship 2026 
+Al-Ittihad (Libya) vsHoms al-Fida
+Arabsat 5A-6A @ 30.0°E
+12718 V 5000
+MPEG4-4.2.0 1920x1080 |17.930 Mbit/Sec |8PSK| DVB-S2 HD
+ID: DMI SNG 2 M 
+#CW : FTA
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 16
+Türk Telekom B.K. vs Panevežio 7Bet-Lietkabelis
+Eutelsat 7A/7B/7C @ 7.0E
+12687 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.63 Mbit/s 
+ID: TUR 136  B
+CW: 4E 5B 29 D2 6D D1 9A D8
