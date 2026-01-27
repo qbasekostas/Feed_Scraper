@@ -23,6 +23,38 @@ MPEG4-4.2.0 1920x1080 |17.930 Mbit/Sec |8PSK| DVB-S2 HD
 ID: DMI SNG 2 M 
 #CW : FTA
 ---FEED-SEPARATOR---
+Europe
+, 
+ABA League 2 - Round 7
+Radnicki
+Zlatibor
+Eutelsat 7°E 
+12641 V 4940 - 4.2.0
+ID: YSM-016 MAIN 
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10829 V 7200
+4:2:0
+ID: VS7-2/BASKET_BCL_CHALON_270126
+Event:
+Basketball Champions League - Chalon vs Wurzburg
+CW: EC 79 FB 60 40 AE 23 11
+---FEED-SEPARATOR---
+Eurocup, Group B
+KK Buducnost Voli
+Niners Chemnitz
+​
+7°E
+11059 
+H  
+4937
+DVB-S2-
+4:2:0
+-8PSK
+ID:MNE-001 main
+CW: 75 FA C7 36 3C 10 22 6E
+---FEED-SEPARATOR---
 Hot Bird (13.0°E)
 10848 V 7200
 4:2:0
