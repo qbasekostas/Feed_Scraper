@@ -24,6 +24,14 @@ ID: DMI SNG 2 M
 #CW : FTA
 ---FEED-SEPARATOR---
 Hot Bird (13.0°E)
+10848 V 7200
+4:2:0
+ID: Hapoelvs.LeMans BUL007 Main
+Event:
+Basketball Champions League - Hapoel Holon vs Le Mans
+CW: AB 57 DC DE 46 DB 06 27
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
 10829 H 7200
 4:2:0
 ID: LTU-005 main
