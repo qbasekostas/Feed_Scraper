@@ -51,6 +51,16 @@ MPEG4-
  Mbit/Sec|8PSK DVB-S2 HD
 CW: FE 4C 5C A6 86 89 FF 0E
 ---FEED-SEPARATOR---
+7e
+11523 V 7500
+4:2:0
+ID: 
+AFD
+Argentina Liga Profesional - Apertura 
+Velez Sarsfield  vs  Talleres Cordoba
+0B C5 28 5B 60 52 DF 3A  #CW: 
+A5 26 12 DD 85 AB 61 91
+---FEED-SEPARATOR---
 League One, Round 29
 Doncaster Rovers vs Leyton Orient
 Eutelsat 7A/7B/7C @ 7.0°E
