@@ -6,6 +6,15 @@ League One:
 Doncaster Rovers vs Leyton Orient
 CW: 67 11 47 BF 1A 45 65 C4
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+11107 H 7200
+DVB-S2/8PSK (4:2:0)
+ID: Fi09_GNVE
+Event: 
+FIFA Women's Champions Cup - Gotham FC vs Corinthians 
+(Start Tomorrow 28/01/2026)
+CW: D0 A8 32 AA 26 83 3E E7
+---FEED-SEPARATOR---
 Dubai International Basketball Championship 2026 
 Al-Ittihad (Libya) vsHoms al-Fida
 Arabsat 5A-6A @ 30.0°E
@@ -13,6 +22,14 @@ Arabsat 5A-6A @ 30.0°E
 MPEG4-4.2.0 1920x1080 |17.930 Mbit/Sec |8PSK| DVB-S2 HD
 ID: DMI SNG 2 M 
 #CW : FTA
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10820 V 7200
+4:2:0
+ID: CZE-012-main_BCL_Nymburk_DGC
+Event:
+ Basketball Champions League - Nymburk vs Gran Canaria
+CW: 75 00 EB 60 43 AE 46 37
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 16
 Türk Telekom B.K. vs Panevežio 7Bet-Lietkabelis
