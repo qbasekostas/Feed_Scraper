@@ -1,3 +1,44 @@
+Bundesliga, Round 16
+FC St. Pauli vs RB Leipzig
+Eutelsat 7A/7B/7C @ 7.0°E
+11019 H 14400
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 30.47 Mbit/s
+ID: GVA_Fi06
+CW: FE 4C 5C A6 86 89 FF 0E
+---FEED-SEPARATOR---
+Event :
+Germany Bundesliga - Round 16
+Teams : Werder Bremen 
+ Hoffenheim
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11009 V 9875
+  LK ENC 16 (EBUER)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 66 7C A7 89 80 D5 B3 08
+---FEED-SEPARATOR---
+Event 
+:Germany Bundesliga - Round 16
+Teams : St. Pauli 
+ RB Leipzig
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11022 V 9875
+  LK ENC 16 (EBUER)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: FE 4C 5C A6 86 89 FF 0E
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3984 V 7119
 8PSK 2/3 DVB-S2 4.2.0
@@ -22,6 +63,13 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.97 Mbit/s
 ID: Fi09_GNVE
 CW: D0 A8 32 AA 26 83 3E E7
+---FEED-SEPARATOR---
+Press conference
+Real Madrid vs Benfica
+Eutelsat 7A/7B/7C @ 7.0°E
+11457 V 7200 - 4.2.0
+ID: E289
+CW: 9A 8B 7C A1 6D 5E 4F 1A
 ---FEED-SEPARATOR---
 Dubai International Basketball Championship 2026 
 Al-Ittihad (Libya) vsHoms al-Fida
