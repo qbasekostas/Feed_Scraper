@@ -1,3 +1,15 @@
+Event 
+:Germany Bundesliga - Round 16
+Teams : Werder Bremen 
+ Hoffenheim
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11000 H 14400
+  GVA_Fi07 (EUROVISION SA)
+MPEG4-4:2:2 HD 1920x1080 |32.396  Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+CW: 66 7C A7 89 80 D5 B3 08
+---FEED-SEPARATOR---
 Bundesliga, Round 16
 FC St. Pauli vs RB Leipzig
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -39,6 +51,17 @@ MPEG4-
  Mbit/Sec|8PSK DVB-S2 HD
 CW: FE 4C 5C A6 86 89 FF 0E
 ---FEED-SEPARATOR---
+League One, Round 29
+Doncaster Rovers vs Leyton Orient
+Eutelsat 7A/7B/7C @ 7.0°E
+11107 H 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 12.97 Mbit/s
+ID: Pitch - EFL Doncaster Rovers v Leyton Orient
+vnraw said:
+CW: 67 11 47 BF 1A 45 65 C4
+Click to expand...
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3984 V 7119
 8PSK 2/3 DVB-S2 4.2.0
@@ -64,11 +87,13 @@ DVB-S2 | 8PSK | 3/4
 ID: Fi09_GNVE
 CW: D0 A8 32 AA 26 83 3E E7
 ---FEED-SEPARATOR---
-Press conference
-Real Madrid vs Benfica
+UEFA Champions League, Round 8
+Benfica vs Real Madrid
 Eutelsat 7A/7B/7C @ 7.0°E
-11457 V 7200 - 4.2.0
-ID: E289
+11459 V 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.80 Mbit/s
+ID: E-289
 CW: 9A 8B 7C A1 6D 5E 4F 1A
 ---FEED-SEPARATOR---
 Dubai International Basketball Championship 2026 
@@ -151,3 +176,15 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.63 Mbit/s 
 ID: TUR 136  B
 CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Event:Europe Euro league - Round 25
+Teams : Paris 
+ Real Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11070 H 7200
+ F419_MAIN (SAT PROD)
+MPEG4-
+4:2:2
+ HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 8D 52 B8 97 71 EB EB 47
