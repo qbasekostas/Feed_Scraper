@@ -35,9 +35,9 @@ Appears as Encrypted but FTA
 ---FEED-SEPARATOR---
 UEFA Champions League - Matchday 8
 Borussia Dortmund vs. Inter Milan
-C_Eutelsat 3.1°E | Cband 
+C_Eutelsat 3.1°E | Cband
 3797 H 7200 - 4.2.0
-ID: UEFA 
+ID: UEFA
 CW: 5D 91 8C 7A 9D EA 58 DF
 ---FEED-SEPARATOR---
 UEFA Champions League
