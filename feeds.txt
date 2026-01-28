@@ -16,6 +16,38 @@ DVB-S2 4:2:0 8PSK
 ID: DMC D-361 Frankfurt
 Appears as Encrypted but FTA
 ---FEED-SEPARATOR---
+xFayez95 said:
+UEFA Champions League, Round 8
+Bayer 04 Leverkusen vs Villarreal
+Eutelsat 7A/7B/7C @ 7.0°E
+11135 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 0.00 Mbit/s
+ID: OVERON E-457 FD
+CW: A2 69 11 1C B
+4 
+6D 64 8
+5
+Click to expand...
+---FEED-SEPARATOR---
+UEFA Champions League, Round 8
+Bayer 04 Leverkusen vs Villarreal
+Eutelsat 7A/7B/7C @ 7.0°E
+11127 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.67 Mbit/s
+ID: OVERON E-457  FC
+CW: AA A1 13 5E 12 A1 AC 5F
+---FEED-SEPARATOR---
+UEFA Champions League, Round 8
+Bayer 04 Leverkusen vs Villarreal
+Eutelsat 7A/7B/7C @ 7.0°E
+11135 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.47 Mbit/s
+ID: OVERON E-457 FD
+CW: A2 69 11 1C B4 6D 64 85
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0°E 
 ( KU-BAND )
 11167 H 14400
@@ -29,6 +61,9 @@ MPEG4-
 Mbit/Sec|8PSK| DVB-S2 HD
 Decoded format: Planar 4:2:2 YUV 10-bit LE
 Codec: MPEG-H Part2/HEVC (H.265) (hevc)
+Event : Champions League - League phase - Round 8
+Teams :Club Brugge KV 
+ Marseille
 C4 47 C8 B5 AC 5C EC 78  
 CW: 09 12 CA E5 DB 02 56 33
 ---FEED-SEPARATOR---
@@ -125,6 +160,15 @@ CW: D0 A8 32 AA 26 83 3E E7
 Click to expand...
 New Key: 
 D1 D3 AF 53 87 33 1D D7 
+---FEED-SEPARATOR---
+Champions League, Group K, Round 1
+Joventut Badalona vs Unicaja
+Eutelsat 7A/7B/7C @ 7.0°E
+12522 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.13 Mbit/s
+ID: EDS807HD.1
+CW: FF 38 EE 25 11 AA 23 DE
 ---FEED-SEPARATOR---
 Eurocup, Group A, Round 16
 Klaipėdos Neptūnas vs Hapoel Jerusalem BC
