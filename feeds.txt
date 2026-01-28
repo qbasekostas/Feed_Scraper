@@ -7,6 +7,13 @@ Gotham FC vs Corinthians
  in the FIFA Women's Champions Cup
 CW: D1 D3 AF 53 87 33 1D D7
 ---FEED-SEPARATOR---
+UEFA Champions League
+16.0ºE
+10975 H 3600
+4.2.0 HD
+ID: Fal4 Enc1
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 UEFA Champions League 
 Eutelsat 7A/7B/7C @ 7.0°E
 12541 V 9750
@@ -27,3 +34,12 @@ CW: D0 A8 32 AA 26 83 3E E7
 Click to expand...
 New Key: 
 D1 D3 AF 53 87 33 1D D7 
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 16
+Bahçeşehir Koleji vs Aris BC
+Eutelsat 7A/7B/7C @ 7.0E
+12687 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.45 Mbit/s
+ID: TKS TRT M20 A
+CW: 4E 5B 29 D2 6D D1 9A D8
