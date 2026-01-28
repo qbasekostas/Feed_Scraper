@@ -1,3 +1,12 @@
+serie C
+7E 11132V7200
+Service name: ITA 81 A
+420 H264 HD 8PSK
+Potenza - Ternana
+(@75min now)
+			42 83 37 F0 F6 7D 6F 70  #CW:AA 76 81 A1 07 AD 00 B4
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11104 H 7200
 DVB-S2 | 8-PSK | 3/4
