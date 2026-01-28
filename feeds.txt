@@ -16,6 +16,14 @@ Gotham FC vs Corinthians
  in the FIFA Women's Champions Cup
 CW: D1 D3 AF 53 87 33 1D D7
 ---FEED-SEPARATOR---
+16E
+12548 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: No name
+UEFA Champions League - Matchday 8
+Club Brugge v Marseille
+---FEED-SEPARATOR---
 UEFA Champions League
 Eintracht Frankfurt vs Tottenham Hotspur
 TNT Sports UK FEED
@@ -24,6 +32,13 @@ TNT Sports UK FEED
 DVB-S2 4:2:0 8PSK
 ID: DMC D-361 Frankfurt
 Appears as Encrypted but FTA
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 8
+Borussia Dortmund vs. Inter Milan
+C_Eutelsat 3.1°E | Cband 
+3797 H 7200 - 4.2.0
+ID: UEFA 
+CW: 5D 91 8C 7A 9D EA 58 DF
 ---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -170,6 +185,15 @@ CW: D0 A8 32 AA 26 83 3E E7
 Click to expand...
 New Key: 
 D1 D3 AF 53 87 33 1D D7 
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 16
+BAXI Manresa vs U-Banca Transilvania Cluj-Napoca
+Eutelsat 7A/7B/7C @ 7.0°E
+11162 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.26 Mbit/s
+ID: E336 ENG GRAPH MAIN
+CW: 13 11 AA CE CC 20 23 0F
 ---FEED-SEPARATOR---
 Champions League, Group L, Round 1
 La Laguna Tenerife vs Pallacanestro Trieste
