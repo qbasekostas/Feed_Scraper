@@ -16,6 +16,25 @@ DVB-S2 4:2:0 8PSK
 ID: DMC D-361 Frankfurt
 Appears as Encrypted but FTA
 ---FEED-SEPARATOR---
+UEFA Champions League
+Eutelsat 7A/7B/7C @ 7.0°E
+11081 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 5.99 Mbit/s
+ID: Fi02 GBGRM
+CW: 1A FC 15 2B 87 91 82 9A
+---FEED-SEPARATOR---
+Event: 
+UEFA CL - Matchday 8: Highlights & MultiGoals
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11102 V 4938
+  Fi04_GBIV (EBUER)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 1A FC 15 2B 87 91 82 9A
+---FEED-SEPARATOR---
 xFayez95 said:
 UEFA Champions League, Round 8
 Bayer 04 Leverkusen vs Villarreal
@@ -38,15 +57,6 @@ DVB-S2 | 8-PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.67 Mbit/s
 ID: OVERON E-457  FC
 CW: AA A1 13 5E 12 A1 AC 5F
----FEED-SEPARATOR---
-UEFA Champions League, Round 8
-Bayer 04 Leverkusen vs Villarreal
-Eutelsat 7A/7B/7C @ 7.0°E
-11135 H 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.47 Mbit/s
-ID: OVERON E-457 FD
-CW: A2 69 11 1C B4 6D 64 85
 ---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0°E 
 ( KU-BAND )
@@ -116,15 +126,6 @@ DVB-S2 4:2:0 8PSK
 ID: PSGvNEWCASTLE MAIN FEED
 CW: F4 DE CB 9D 49 DE 63 8A
 ---FEED-SEPARATOR---
-Champions League, Pool D, Round 4
-Aluron CMC Warta Zawiercie vs Sporting CP
-Eutelsat 7A/7B/7C @ 7.0°E
-12593 V 7200
-DVB-S2 | 8-PSK | 2/3
-1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 13.47 Mbit/s
-ID: Unname
-CW: AC AB A1 F8 C4 D3 A2 39
----FEED-SEPARATOR---
 UEFA Champions League
 Paris Saint Germain vs Newcatle United
 7E
@@ -160,6 +161,35 @@ CW: D0 A8 32 AA 26 83 3E E7
 Click to expand...
 New Key: 
 D1 D3 AF 53 87 33 1D D7 
+---FEED-SEPARATOR---
+Champions League, Group L, Round 1
+La Laguna Tenerife vs Pallacanestro Trieste
+Eutelsat 7A/7B/7C @ 7.0°E
+12641 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.15 Mbit/s
+ID: E229 Carrier 2
+CW: EE 83 AF 20 56 FD 38 8B
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 16
+Hamburg Towers vs Śląsk Wrocław
+Eutelsat 7A/7B/7C @ 7.0°E
+11189 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.70 Mbit/s
+ID: BB Hamburg
+CW: BB EE 28 D1 01 20 26 47
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 16
+JL Bourg Basket vs Ratiopharm Ulm
+Eutelsat 7A/7B/7C @ 7.0°E
+12650 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 12.92 Mbit/s
+ID: F419_MAIN
+CW: 28 01 CA F3 BD 20 26 03
 ---FEED-SEPARATOR---
 Champions League, Group K, Round 1
 Joventut Badalona vs Unicaja
