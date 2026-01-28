@@ -8,6 +8,14 @@ Gotham FC vs Corinthians
 CW: D1 D3 AF 53 87 33 1D D7
 ---FEED-SEPARATOR---
 UEFA Champions League
+Paris Saint Germain vs Newcatle United
+7E
+12736 V 7200
+DVB-S2 4:2:0 8PSK
+ID: F-509/ PARIS vs New CASTLE
+CW: 71 63 81 55 81 99 91 AB
+---FEED-SEPARATOR---
+UEFA Champions League
 16.0ºE
 10975 H 3600
 4.2.0 HD
@@ -35,11 +43,17 @@ Click to expand...
 New Key: 
 D1 D3 AF 53 87 33 1D D7 
 ---FEED-SEPARATOR---
+Hotbird 13°E
+10838 V 7200 - 4.2.0
+ID: AVP_OU_A
+CW: AD 48 AF A4 84 BA 27 65
+---FEED-SEPARATOR---
 Eurocup, Group A, Round 16
 Bahçeşehir Koleji vs Aris BC
 Eutelsat 7A/7B/7C @ 7.0E
 12687 V 7200
 DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.45 Mbit/s
-ID: TKS TRT M20 A
-CW: 4E 5B 29 D2 6D D1 9A D8
+ID: TKS TRT M20 B
+#NEW CW:
+ 4E 5B 29 D2 6D D4 6A AB
