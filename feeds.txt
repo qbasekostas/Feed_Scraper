@@ -50,15 +50,6 @@ DVB-S2 | 8PSK | 3/4
 ID: Fi02 GBGRM
 CW: 1A FC 15 2B 87 91 82 9A
 ---FEED-SEPARATOR---
-Event: 
-UEFA CL - Matchday 8: Highlights & MultiGoals
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-11102 V 4938
-  Fi04_GBIV (EBUER)
-MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
-CW: 1A FC 15 2B 87 91 82 9A
----FEED-SEPARATOR---
 xFayez95 said:
 UEFA Champions League, Round 8
 Bayer 04 Leverkusen vs Villarreal
