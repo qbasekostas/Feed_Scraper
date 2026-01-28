@@ -1,0 +1,31 @@
+Eutelsat 7A/7B/7C @ 7.0°E
+11104 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 13.80 Mbit/s
+ID: Fi09_GNVE
+Gotham FC vs Corinthians
+ in the FIFA Women's Champions Cup
+CW: D1 D3 AF 53 87 33 1D D7
+---FEED-SEPARATOR---
+.
+---FEED-SEPARATOR---
+UEFA Champions League 
+Eutelsat 7A/7B/7C @ 7.0°E
+12541 V 9750
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 20.58 Mbit/s
+ID: UKI 1678 PATH1
+CW: E2 02 61 45 B3 BB 9D 0B
+---FEED-SEPARATOR---
+xFayez95 said:
+FIFA Women's Champions Cup (London 2026)
+ Gotham FC vs Corinthians (Start Tomorrow 28/01/2026)
+Eutelsat 7A/7B/7C @ 7.0E
+11107 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.97 Mbit/s
+ID: Fi09_GNVE
+CW: D0 A8 32 AA 26 83 3E E7
+Click to expand...
+New Key: 
+D1 D3 AF 53 87 33 1D D7 
