@@ -16,6 +16,33 @@ DVB-S2 4:2:0 8PSK
 ID: DMC D-361 Frankfurt
 Appears as Encrypted but FTA
 ---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°E 
+( KU-BAND )
+11167 H 14400
+11184 H 14400
+  HOL311 feed 1 (2-SAT Europe)
+  HOL311 feed 2 (NL2SAT)
+MPEG4-
+4.2.2
+ 1920x1080 |
+32.450 
+Mbit/Sec|8PSK| DVB-S2 HD
+Decoded format: Planar 4:2:2 YUV 10-bit LE
+Codec: MPEG-H Part2/HEVC (H.265) (hevc)
+C4 47 C8 B5 AC 5C EC 78  
+CW: 09 12 CA E5 DB 02 56 33
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 8
+Eintracht Frankfurt vs. Tottenham Hotspur 
+Eutelsat 7B/7C @ 7.0°E
+11181 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: DMC D-361 Frankfurt
+CW: 41 B3 D8 CC F2 6B 67 C4
+---FEED-SEPARATOR---
 UEFA Champions League - Matchday 8
 Borussia Dortmund vs. Inter Milan 
 Eutelsat 3B @ 3.1°E
@@ -53,6 +80,15 @@ Paris Saint Germain vs Newcatle United
 DVB-S2 4:2:0 8PSK
 ID: PSGvNEWCASTLE MAIN FEED
 CW: F4 DE CB 9D 49 DE 63 8A
+---FEED-SEPARATOR---
+Champions League, Pool D, Round 4
+Aluron CMC Warta Zawiercie vs Sporting CP
+Eutelsat 7A/7B/7C @ 7.0°E
+12593 V 7200
+DVB-S2 | 8-PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 13.47 Mbit/s
+ID: Unname
+CW: AC AB A1 F8 C4 D3 A2 39
 ---FEED-SEPARATOR---
 UEFA Champions League
 Paris Saint Germain vs Newcatle United
