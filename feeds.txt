@@ -8,6 +8,53 @@ Gotham FC vs Corinthians
 CW: D1 D3 AF 53 87 33 1D D7
 ---FEED-SEPARATOR---
 UEFA Champions League
+Eintracht Frankfurt vs Tottenham Hotspur
+TNT Sports UK FEED
+7E
+11180 H 7200
+DVB-S2 4:2:0 8PSK
+ID: DMC D-361 Frankfurt
+Appears as Encrypted but FTA
+---FEED-SEPARATOR---
+UEFA Champions League - Matchday 8
+Borussia Dortmund vs. Inter Milan 
+Eutelsat 3B @ 3.1°E
+10960 - H - 7500 
+|
+4:2:0
+ | H.264
+ID: beIN SPORTS
+10969 - H - 7500 
+|
+4:2:0
+ | H.264 
+(Later)
+ID: Service-1
+1920*1080 | DVB-S2 | QPSK
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+UEFA CL - Matchday 8: 
+Highlights & MultiGoals 
+Eutelsat 7B/7C @ 7.0°E
+1110
+8
+ - V - 4938 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Fi03_GBIV
+CW: 1A FC 15 2B 87 91 82 9A
+---FEED-SEPARATOR---
+UEFA Champions League
+Paris Saint Germain vs Newcatle United
+1W
+12603 H 7200
+DVB-S2 4:2:0 8PSK
+ID: PSGvNEWCASTLE MAIN FEED
+CW: F4 DE CB 9D 49 DE 63 8A
+---FEED-SEPARATOR---
+UEFA Champions League
 Paris Saint Germain vs Newcatle United
 7E
 12736 V 7200
@@ -42,6 +89,15 @@ CW: D0 A8 32 AA 26 83 3E E7
 Click to expand...
 New Key: 
 D1 D3 AF 53 87 33 1D D7 
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 16
+Klaipėdos Neptūnas vs Hapoel Jerusalem BC
+Eutelsat 7A/7B/7C @ 7.0°E
+12728 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.09 Mbit/s
+ID: LAT-002
+CW: BA 23 DE BB 81 CD 72 C0
 ---FEED-SEPARATOR---
 Hotbird 13°E
 10838 V 7200 - 4.2.0
