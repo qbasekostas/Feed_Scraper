@@ -43,3 +43,24 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 1C 65 AB 2C 1D 12 77 A6
+---FEED-SEPARATOR---
+xFayez95 said:
+Euroleague, Round 25
+EA7 Emporio Armani Milano vs KK Partizan Mozzart Bet 
+Eutelsat 7A/7B/7C @ 7.0E
+10986 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.95 Mbit/s
+ID: Eurolega mil _Main
+CW: CA 73 C1 FE BF 95 54 A8
+Click to expand...
+del duplicate
+---FEED-SEPARATOR---
+Euroleague, Round 25
+EA7 Emporio Armani Milano vs KK Partizan Mozzart Bet 
+Eutelsat 7A/7B/7C @ 7.0E
+10986 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.95 Mbit/s
+ID: Eurolega mil _Main
+CW: CA 73 C1 FE BF 95 54 A8
