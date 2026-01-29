@@ -44,6 +44,20 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: 1C 65 AB 2C 1D 12 77 A6
 ---FEED-SEPARATOR---
+Euroleague
+BC Olympiakos Piraeus
+FC Barcelona
+​
+7°E
+10977 
+H 
+ 7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:Fi16_GNVE
+CW: 89 4F D2 AA 63 44 78 1F
+---FEED-SEPARATOR---
 xFayez95 said:
 Euroleague, Round 25
 EA7 Emporio Armani Milano vs KK Partizan Mozzart Bet 
