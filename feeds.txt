@@ -22,4 +22,4 @@ Intelsat 10-02 @ 1.0°W
  | H.264
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
-CW: 1C 68 AB 2C 1D 12 77 A6
+CW: 1C 65 AB 2C 1D 12 77 A6
