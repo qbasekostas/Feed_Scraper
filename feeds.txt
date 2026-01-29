@@ -12,3 +12,14 @@ DVB-S2-
 4:2:0
 -8PSK
 ID: AFD
+---FEED-SEPARATOR---
+UEFA Europa League - Matchday 8
+Celtic vs. Utrecht 
+Intelsat 10-02 @ 1.0°W
+11481 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 1C 68 AB 2C 1D 12 77 A6
