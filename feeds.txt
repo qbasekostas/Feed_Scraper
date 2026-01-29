@@ -13,6 +13,23 @@ DVB-S2-
 -8PSK
 ID: AFD
 ---FEED-SEPARATOR---
+1.0°W
+12527 V 6660
+4:2:0
+ID: backup
+#FTA
+---FEED-SEPARATOR---
+UEFA Europa League - Matchday 8
+Red Star Belgrade vs. Celta Vigo 
+Eutelsat 7B/7C @ 7.0°E
+12636 - V - 4938 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: YSM-021M
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 AhmedCeNa said:
 UEFA Europa League
 SK Sturm Graz vs Brann
