@@ -13,6 +13,18 @@ DVB-S2-
 -8PSK
 ID: AFD
 ---FEED-SEPARATOR---
+AhmedCeNa said:
+UEFA Europa League
+SK Sturm Graz vs Brann
+Click to expand...
+19.2E
+11633 V 7500
+DVB-S2 4:2:0 8PSK
+ID: Graz Feed 3
+AhmedCeNa said:
+CW: 52 AC DB D9 53 24 CD 44
+Click to expand...
+---FEED-SEPARATOR---
 UEFA Europa League
 SK Sturm Graz vs Brann
 19.2E
