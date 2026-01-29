@@ -13,6 +13,14 @@ DVB-S2-
 -8PSK
 ID: AFD
 ---FEED-SEPARATOR---
+UEFA Europa League
+SK Sturm Graz vs Brann
+19.2E
+11620 V 7500
+DVB-S2 4:2:0 8PSK
+ID: STV AUT 39
+CW: 52 AC DB D9 53 24 CD 44
+---FEED-SEPARATOR---
 UEFA Europa League - Matchday 8
 Celtic vs. Utrecht 
 Intelsat 10-02 @ 1.0°W
