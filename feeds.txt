@@ -1,3 +1,23 @@
+7e
+10961 V 9875
+4:2:2
+ID: 
+GVA_Fi03
+Bundesliga   
+ FC Koln  vs  Wolfsburg
+9E EF F1 BB F1 8C 32 FC  #CW: 
+AF 13 4F 11 47 F8 AA E9
+---FEED-SEPARATOR---
+German 3. Liga
+TSV Havelse Vs Erzgebirge Aue
+28.2°E @ 
+Astra 2F 
+12702 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  Havelse-Aue (MTI Teleport MUC)
+CW: 30 01 FE 2F AA 50 01 FB
+---FEED-SEPARATOR---
 Bundesliga 2025/26 (Wk20)
 Köln v Wolfsburg
 16.0ºE
@@ -25,6 +45,16 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 9A C5 51 B0 DB A2 D9 56
 #[E] PID:0F0Bh
+---FEED-SEPARATOR---
+Championship
+Bristol City Vs Derby County
+100.5°E C
+@ AsiaSat 5
+3984 V 7118
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 85 98 5C 79 4D 43 6A FA
 ---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
