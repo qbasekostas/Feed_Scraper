@@ -1,3 +1,11 @@
+Bundesliga 2025/26 (Wk20)
+Köln v Wolfsburg
+16.0ºE
+10980 H 3600
+4.2.0 HD
+ID: Fal4 Enc2
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10732 - V - 34000
 MPEG 4 - 4:2:0 - DVB-S2
