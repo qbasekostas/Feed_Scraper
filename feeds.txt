@@ -46,6 +46,49 @@ ID: OVERON 1
 CW: 9A C5 51 B0 DB A2 D9 56
 #[E] PID:0F0Bh
 ---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship - Week 24
+St Johnstone v Partick Thistle
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+12705 V 10000
+ 4:2:0
+DVB-S2 8PSK
+ID: Uki-1592
+Scottish Championship - Week 24
+St Johnstone v Partick Thistle
+---FEED-SEPARATOR---
+Satfun2017 said:
+Championship
+Bristol City Vs Derby County
+100.5°E C
+@ AsiaSat 5
+3984 V 7118
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 85 98 5C 79 4D 43 6A FA
+Click to expand...
+7e
+11107 v 7120
+---FEED-SEPARATOR---
+Championship, Round 30
+Bristol City vs Derby County
+Eutelsat 7A/7B/7C @ 7.0°E
+11107 V 7120
+DVB-S2 | 8-PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 12.18 Mbit/s
+ID: Pitch - EFL Doncaster Rovers v Leyton Orient
+Satfun2017 said:
+CW: 85 98 5C 79 4D 43 6A FA
+Click to expand...
+---FEED-SEPARATOR---
 Championship
 Bristol City Vs Derby County
 100.5°E C
