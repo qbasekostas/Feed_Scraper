@@ -1,0 +1,11 @@
+Laliga MD22 - RCD Espanyol de Barcelona vs Deportivo Alavés
+AsiaSat 5 100.5E
+3840 H 29998
+8PSK 5/6 DVB-S2 4.2.2
+ID: OVERON 1
+Eutelsat 10B @ 10.0°E
+10733 - V - 34000 |4:2:2 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: 9A C5 51 B0 DB A2 D9 56
+#[E] PID:0F0Bh
