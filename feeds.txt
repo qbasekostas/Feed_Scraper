@@ -17,3 +17,13 @@ Eutelsat 10B @ 10.0°E
 ID: OVERON 1
 CW: 9A C5 51 B0 DB A2 D9 56
 #[E] PID:0F0Bh
+---FEED-SEPARATOR---
+UEFA Champions League
+Eutelsat 7A/7B/7C @ 7.0°E
+11081 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 17.85 Mbit/s
+ID: GVA_Fi01
+CW: 7C 23 D0 6F 43 F9 61 9D
