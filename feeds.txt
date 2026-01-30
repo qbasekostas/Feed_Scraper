@@ -1,6 +1,14 @@
 EUTELSAT 10A (10°E)
 Fréq:10732 - V - 34000
 MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+LaLiga
+Real Oviedo vs Girona
+found CW: BF 58 DF F6 6E B2 CA EA 
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10732 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
 ID: SUPPONOR MENA 2
 LaLiga 
 Elche vs. Barcelona
