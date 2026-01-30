@@ -1,0 +1,15 @@
+EUTELSAT 10A (10°E)
+Fréq:10732 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: SUPPONOR MENA 2
+LaLiga 
+Elche vs. Barcelona
+CW: E2 45 35 5C 6C 13 26 A5
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10732 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  OVERON 1
+LaLiga 
+Osasuna vs Villarreal
+CW: C9 39 95 97 9D 40 BB 98
