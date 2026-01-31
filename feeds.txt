@@ -1,0 +1,16 @@
+EUTELSAT 10A (10°E)
+Fréq:10732 - V - 34000
+MPEG 4 - 4:2:2 - DVB-S2
+ID: OVERON 2
+CW: A0 BE FC 5A E2 EA 3D 09
+---FEED-SEPARATOR---
+SATELLITE Name : Eutelsat 7 (7.0°E)
+KU Band
+FREQUENCY: 11550H SR:22003 FEC:5/6
+DVB-S2 8PSK
+Format 4:2:0
+Event
+ Liga F Moeve
+Deportivo Abanca - Real Madrid
+1080p HD FORMAT
+CW: A7 6C FB 0E 4B A8 AD A0
