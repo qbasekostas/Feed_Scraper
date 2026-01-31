@@ -243,6 +243,13 @@ LaLiga
 Osasuna vs Villarreal
 CW: C9 39 95 97 9D 40 BB 98
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3926 V 7500
+PMT PID: 330, SID: 33 @ CHINA+1 (*unnamed-33*)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+3D 5D EE 84 50 FE B3 DC  #CW:B2 62 1D 31 A1 07 E2 8A   #[E] PID:0CE5h
+Elche vs. Barcelona
+---FEED-SEPARATOR---
 Spanish La Liga - Matchday 22
 Elche vs. Barcelona
 Eutelsat 10B @ 10.0°E
