@@ -285,11 +285,24 @@ ID Cloudbass
 Scottish SWPL Cup - Semi Final
 Hibernian v Glasgow City
 ---FEED-SEPARATOR---
+archiesat said:
+			7E 12676 H 7200 4.2.0
+DVBS-2 8PSK
+ID: GC Enc 08
+CW: DA DA BC 07 C1 45 51 57
+Scottish Premiership - Week 24
+Dundee United v Hearts
+Click to expand...
+CW incorrect
+---FEED-SEPARATOR---
 7E
 12676 H 7200 4.2.0
 DVBS-2 8PSK
 ID: GC Enc 08
-CW: DA DA BC 07 C1 45 51 57
+CW: 
+DA DA BC
+ 70
+ C1 45 51 57
 Scottish Premiership - Week 24
 Dundee United v Hearts
 ---FEED-SEPARATOR---
