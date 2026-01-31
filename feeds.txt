@@ -53,6 +53,21 @@ ID:    Leverkusen (Adtec Digital)
 00 F6 CF F6 6F 59 B0 0E  
 CW: 31 01 FE 30 BB 96 89 DA
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,96Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 22
+Teams: Real Oviedo vs Girona FC
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 14.00 CET
+FaDeL® said:
+CW: BF 58 DF F6 6E B2 CA EA
+Click to expand...
+---FEED-SEPARATOR---
 Spain, LaLigaReal Oviedo vs. Girona 
 Eutelsat 10B @ 10.0E
 10768  Vertical  33999,708
