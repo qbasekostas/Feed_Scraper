@@ -116,10 +116,21 @@ Pescara-Mantova
 CW: BC 22 20 FE 26 31 01 58
 Click to expand...
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11551 V 22000
+DVB-S2 | 8-PSK | 5/6
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 12.17 Mbit/s
+ID: SUPPONOR EASTERN 1
+CW: AB E3 58 E6 F0 16 CA D0
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 11551 V 22000
 DVB-S2 | 8PSK | 5/6
-1920x1080 | H.264/AVC Video | 4:2:2 | 25 FPS | 13.20 Mbit/s 
+1920x1080 | H.264/AVC Video |
+ 4:2:2
+ | 25 FPS | 13.20 Mbit/s
 ID: SUPPONOR RUSIA 1
 CW: 91 14 63 08 7E AE 84 B0
 ---FEED-SEPARATOR---
@@ -232,6 +243,17 @@ LaLiga
 Osasuna vs Villarreal
 CW: C9 39 95 97 9D 40 BB 98
 ---FEED-SEPARATOR---
+Spanish La Liga - Matchday 22
+Elche vs. Barcelona
+Eutelsat 10B @ 10.0°E
+10732 - V - 33000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON 1
+CW: F8 C2 0D C7 D6 4B FF 20
+---FEED-SEPARATOR---
 28.2E
 12619 V 7120 
 4:2:0
@@ -290,6 +312,27 @@ FIFA Women's Champions Cup 2026 -  Live ARSENAL Wome
 n
 43 70 B6 49 1B 26 82 DD
 CW: C1 A9 F5 5F 4A 59 56 F9
+---FEED-SEPARATOR---
+Europe
+, 
+AdmiralBet ABA League - Round 17
+Partizan Mozzart Bet
+Cluj-Napoca
+Eutelsat 7A/7B/7C @ 7.0°E
+12641 V 4940 - 4.2.0
+ID: YSM-017 MAIN
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 18
+Türk Telekom B.K. vs Tofaş Bursa
+Eutelsat Hotbird 13B/13C/13G @ 13.0E
+10848 V 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 15.71 Mbit/s
+ID: Unname
+CW: C3 4B 5B 69 C0 5A 97 B1
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 10978 H 7200
