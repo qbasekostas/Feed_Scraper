@@ -1,3 +1,44 @@
+Germany Amateur, Bundesliga, Women
+Bayer Leverkusen
+​
+vs. 
+​
+1. FC Nuremberg
+​
+Eutelsat 16A @ 16.0E
+11062  Horizontal  9874,854
+ID:    Leverkusen (Adtec Digital)
+1920x1080 |22,009Mb/Sec 8PSK |4:2:0 HD
+00 F6 CF F6 6F 59 B0 0E  
+CW: 31 01 FE 30 BB 96 89 DA
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event : Spain LaLiga - Round 22
+Teams :Oviedo 
+ Girona
+Eutelsat 10A @ 10.0°E
+ ( KU-BAND )
+10768 H 34000
+ SUPPONOR AFRICA 2 (Overon)
+MPEG4-
+4.2.2
+ 1920x1080 |
+82.360
+ Mbit/Sec |8PSK| DVB-S2 HD
+84 31 89 99 18 4E F6 B1
+CW: 93 76 C1 CA B1 61 63 75
+Click to expand...
+10768 V 34000
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+			Eutelsat 10A @ 10.0°E ( KU-BAND )
+10768 H 34000
+  SUPPONOR AFRICA 1 (OVERON)
+MPEG4-4.2.2 1920x1080 |82.360 Mbit/Sec |8PSK| DVB-S2 HD
+C8 5E 21 BC 81 61 37 24  #CW:F6 E8 BC 9A A2 70 DD EF
+Click to expand...
+10768 V 34000
+---FEED-SEPARATOR---
 Spain, LaLigaReal Oviedo vs. Girona 
 Eutelsat 10B @ 10.0E
 10768  Vertical  33999,708
