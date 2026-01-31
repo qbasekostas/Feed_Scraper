@@ -1,3 +1,34 @@
+archiesat said:
+CW: 31 01 FE 30 FD 98 01 96
+Click to expand...
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12643  Horizontal  7201,79
+ID d-361 (rt1.tv)
+1920x1080 |16,051Mb/Sec 8PSK |4:2:0 HD
+Cottbus
+ vs 
+Hoffenheim II
+---FEED-SEPARATOR---
+archiesat said:
+CW: 31 01 FE 30 FD 98 01 96
+Click to expand...
+German 3. Liga - Week 22
+1860 Múnich
+ vs 
+Aachen
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12619  Vertical  7201,79
+ID: D-167 (rt1.tv)
+1920x1080 |16,051Mb/Sec 8PSK |4:2:0 HD
+---FEED-SEPARATOR---
+28.2E
+12610 V 7200 4:2:0
+DVBS2 8PSK
+ID: D415feed1
+CW: 31 01 FE 30 FD 98 01 96
+German 3. Liga - Week 22
+Hansa Rostock v Ingolstadt
+---FEED-SEPARATOR---
 Germany Amateur, Bundesliga, Women
 Bayer Leverkusen
 ​
@@ -97,3 +128,13 @@ ID:  OVERON 1
 LaLiga 
 Osasuna vs Villarreal
 CW: C9 39 95 97 9D 40 BB 98
+---FEED-SEPARATOR---
+Championship
+Stoke City Vs Southampton
+100.5°E C
+@ AsiaSat 5
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 29 49 00 72 33 45 2C A4
