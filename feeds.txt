@@ -127,6 +127,13 @@ LaLiga
 Osasuna vs Villarreal
 CW: C9 39 95 97 9D 40 BB 98
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3926 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 63 79 07 E3 52 A3 D3 C8 
+Portsmouth vs West Brom
+---FEED-SEPARATOR---
 Satfun2017 said:
 Championship
 Stoke City Vs Southampton
