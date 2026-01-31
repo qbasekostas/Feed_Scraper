@@ -9,14 +9,6 @@ Eutelsat 7B/7C @ 7.0°E
 ID: GVA_Fi07
 CW: 64 35 52 EB AD 32 C1 A0
 ---FEED-SEPARATOR---
-Bundesliga 2025/26 (Wk20)
-Hamburger  VS Bayern Munich
-16.0E
-10980 H 3600
-4.2.0 HD
-ID: F2-2 4.5MH
-CW: 20 25 AE F3 EA 52 02 3E
----FEED-SEPARATOR---
 faisal6 said:
 CW: 31 01 FE 30 FD 98 01 96
 Click to expand...
@@ -37,6 +29,15 @@ DVB-S2 - 8PSK -1080P
 ID:  Signal-6 (*unnamed-1*)
 CW:
 45 DE 28 4B 52 A1 8F 82   
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+10980 H 3600
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 8.03 Mbit/s
+Bundesliga 2025/26 (Wk20)
+Hamburger VS Bayern Munich
+ID: F2-2 4.5MH
+CW: 20 25 AE F3 EA 52 02 3E
 ---FEED-SEPARATOR---
 Eutelsat 28A-2A-2E-2F @ 28.2E
 12726  Horizontal  7201,79
