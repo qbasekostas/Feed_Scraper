@@ -104,6 +104,18 @@ Eutelsat 7B/7C @ 7.0°E
 ID: D535_HMBG_2M12_1
 CW: A8 A6 61 AF 0E E2 9C 8C
 ---FEED-SEPARATOR---
+serie B
+7E  - 11164
+ - Pol: 
+V
+ - SR: 
+7500
+420 H264 HD 8PSK
+Service name: ITA 81 A
+Pescara-Mantova
+CW: BC 22 20 FE 26 31 01 58
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 11551 V 22000
 DVB-S2 | 8PSK | 5/6
