@@ -244,6 +244,21 @@ LaLiga
 Osasuna vs Villarreal
 CW: C9 39 95 97 9D 40 BB 98
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OVERON 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,84Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: Spain - LALIGA EA SPORTS Matchday 22
+Teams: Elche CF vs FC Barcelona
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+Dani Sat said:
+CW: F8 C2 0D C7 D6 4B FF 20
+Click to expand...
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3926 V 7500
 PMT PID: 330, SID: 33 @ CHINA+1 (*unnamed-33*)
@@ -269,6 +284,31 @@ DVBS-2 8PSK
 ID Cloudbass
 Scottish SWPL Cup - Semi Final
 Hibernian v Glasgow City
+---FEED-SEPARATOR---
+7E
+12676 H 7200 4.2.0
+DVBS-2 8PSK
+ID: GC Enc 08
+CW: DA DA BC 07 C1 45 51 57
+Scottish Premiership - Week 24
+Dundee United v Hearts
+---FEED-SEPARATOR---
+English Premier League - Week 24
+Liverpool vs. Newcastlef United
+Eutelsat 3B @ 3.1°E
+10960 - H - 7500 
+|
+4:2:0
+ | H.264
+ID: beIN SPORTS
+10969 - H - 7500 
+|
+4:2:0
+ | H.264 
+(Later)
+ID: Service-1
+1920*1080 | DVB-S2 | QPSK
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11071 V 7120
