@@ -1,3 +1,13 @@
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12726  Horizontal  7201,79
+ID:    D-109 (rt1.tv)
+1920x1080 |16,051Mb/Sec 8PSK |4:2:0 HD
+German 3. Liga - Week 22
+Saarbrücken
+ vs 
+Osnabruck
+CW: 31 01 FE 30 FD 98 01 96
+---FEED-SEPARATOR---
 archiesat said:
 CW: 31 01 FE 30 FD 98 01 96
 Click to expand...
@@ -43,33 +53,6 @@ ID:    Leverkusen (Adtec Digital)
 00 F6 CF F6 6F 59 B0 0E  
 CW: 31 01 FE 30 BB 96 89 DA
 ---FEED-SEPARATOR---
-Abo Saeid Satellite said:
-Event : Spain LaLiga - Round 22
-Teams :Oviedo 
- Girona
-Eutelsat 10A @ 10.0°E
- ( KU-BAND )
-10768 H 34000
- SUPPONOR AFRICA 2 (Overon)
-MPEG4-
-4.2.2
- 1920x1080 |
-82.360
- Mbit/Sec |8PSK| DVB-S2 HD
-84 31 89 99 18 4E F6 B1
-CW: 93 76 C1 CA B1 61 63 75
-Click to expand...
-10768 V 34000
----FEED-SEPARATOR---
-Abo Saeid Satellite said:
-			Eutelsat 10A @ 10.0°E ( KU-BAND )
-10768 H 34000
-  SUPPONOR AFRICA 1 (OVERON)
-MPEG4-4.2.2 1920x1080 |82.360 Mbit/Sec |8PSK| DVB-S2 HD
-C8 5E 21 BC 81 61 37 24  #CW:F6 E8 BC 9A A2 70 DD EF
-Click to expand...
-10768 V 34000
----FEED-SEPARATOR---
 Spain, LaLigaReal Oviedo vs. Girona 
 Eutelsat 10B @ 10.0E
 10768  Vertical  33999,708
@@ -89,7 +72,7 @@ Teams :Oviedo
  Girona
 Eutelsat 10A @ 10.0°E
  ( KU-BAND )
-10768 H 34000
+10768 V 34000
  SUPPONOR AFRICA 2 (Overon)
 MPEG4-
 4.2.2
@@ -100,7 +83,7 @@ MPEG4-
 CW: 93 76 C1 CA B1 61 63 75
 ---FEED-SEPARATOR---
 Eutelsat 10A @ 10.0°E ( KU-BAND )
-10768 H 34000
+10768 V 34000
   SUPPONOR AFRICA 1 (OVERON)
 MPEG4-4.2.2 1920x1080 |82.360 Mbit/Sec |8PSK| DVB-S2 HD
 C8 5E 21 BC 81 61 37 24  #CW:F6 E8 BC 9A A2 70 DD EF
@@ -129,6 +112,7 @@ LaLiga
 Osasuna vs Villarreal
 CW: C9 39 95 97 9D 40 BB 98
 ---FEED-SEPARATOR---
+Satfun2017 said:
 Championship
 Stoke City Vs Southampton
 100.5°E C
@@ -138,3 +122,41 @@ MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
 ID: BT_SES_24_SDI
 CW: 29 49 00 72 33 45 2C A4
+Click to expand...
+7e
+11080 v 7120
+id: Pitch Stoke V Southampton
+---FEED-SEPARATOR---
+Championship
+Stoke City Vs Southampton
+100.5°E C
+@ AsiaSat 5
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 29 49 00 72 33 45 2C A4
+---FEED-SEPARATOR---
+faisal6 said:
+CW: 31 97 C5 8D 63 34 BD 54
+Click to expand...
+Hot Bird 13B/13C/13E @ 13.0E
+12592  Vertical  7501,812
+ID:  E333 M (mediapro turkiye)
+1920x1080 |16,720Mb/Sec 8PSK |4:2:2 HD
+Turquía
+Super Lig - Jornada 18
+Karsiyaka
+ v 
+Fenerbahçe
+---FEED-SEPARATOR---
+Turksat 2A-3A-4A @ 42.0E
+11588  Vertical  7501,823
+ID:E333 M (mediapro turkiye)
+1920x1080 |16,720Mb/Sec 8PSK |4:2:2 HD
+31 9E C4 C2 18 54 5C 40  #CW:31 97 C5 8D 63 34 BD 54
+Turquía
+Super Lig - Jornada 18
+Karsiyaka
+ v 
+Fenerbahçe
