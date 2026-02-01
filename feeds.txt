@@ -1,1 +1,45 @@
-
+7.0°E
+11079 V 7120
+4:2:0
+ID: X20 SDI Enc 7
+CW: 53 23 CF 45 32 88 42 FC
+English Championship Highlights
+---FEED-SEPARATOR---
+Spain, Liga ACB, Round 18
+BAXI Manresa vs Unicaja
+Eutelsat 7A/7B/7C @ 7.0°E
+11023 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.78 Mbit/s
+ID: Service1
+CW: 03 B3 F8 AE 03 97 EB 85
+---FEED-SEPARATOR---
+13.0°E
+12610 V 7500
+4:2:2
+ID: E333 M
+CW: B8 CF 61 E8 1F 96 80 35
+Basketbol Süper Ligi: Merkezefendi Belediyesi Gençlik ve Spor Kulübü - Anadolu Efes
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+11023 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.78 Mbit/s
+ID: Service1
+CW: 03 B3 F8 AE 03 97 EB 85
+Click to expand...
+SPAIN
+ACB
+Manresa - Unicaja
+---FEED-SEPARATOR---
+Greek Super League 1
+Levadiakos
+ Vs 
+Asteras Tripolis
+39.0°E @ Hellas Sat 3/4
+12620 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: E394 BACKUP (OVERON)
+CW: D8 6A BB FD 19 F7 EE FE
