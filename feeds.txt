@@ -82,3 +82,14 @@ Click to expand...
 SPAIN
 ACB
 Manresa - Unicaja
+---FEED-SEPARATOR---
+Greek Super League 1
+Levadiakos
+ Vs 
+Asteras Tripolis
+39.0°E @ Hellas Sat 3/4
+12620 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: E394 BACKUP (OVERON)
+CW: D8 6A BB FD 19 F7 EE FE
