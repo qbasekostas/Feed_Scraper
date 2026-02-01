@@ -1,9 +1,44 @@
+archiesat said:
+			28.2E
+12525 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish SWPL Cup - Semi Final
+Rangers v Celtic
+Click to expand...
+28.2E
+12633 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish SWPL Cup - Semi Final
+Rangers v Celtic
+Also CLEAR & FTA  
+---FEED-SEPARATOR---
+28.2E
+12525 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+Scottish SWPL Cup - Semi Final
+Rangers v Celtic
+---FEED-SEPARATOR---
 7.0°E
 11079 V 7120
 4:2:0
 ID: X20 SDI Enc 7
 CW: 53 23 CF 45 32 88 42 FC
 English Championship Highlights
+---FEED-SEPARATOR---
+Women's Champions Cup, Final
+Arsenal vs Corinthians
+Eutelsat 7A/7B/7C @ 7.0°E
+11107 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.45 Mbit/s
+ID: Fi09_GNVE
+CW: D2 50 DD FF 26 7C BE 60
 ---FEED-SEPARATOR---
 Spain, Liga ACB, Round 18
 BAXI Manresa vs Unicaja
@@ -20,6 +55,15 @@ CW: 03 B3 F8 AE 03 97 EB 85
 ID: E333 M
 CW: B8 CF 61 E8 1F 96 80 35
 Basketbol Süper Ligi: Merkezefendi Belediyesi Gençlik ve Spor Kulübü - Anadolu Efes
+---FEED-SEPARATOR---
+AdmiralBet ABA League, Round 17
+BC Dubai vs Igokea m:tel
+Eutelsat 7A/7B/7C @ 7.0°E
+11523 V 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.84 Mbit/s
+ID: World Feed Main
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
