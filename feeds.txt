@@ -41,3 +41,10 @@ Event
 Deportivo Abanca - Real Madrid
 1080p HD FORMAT
 CW: A7 6C FB 0E 4B A8 AD A0
+---FEED-SEPARATOR---
+7.0°E
+11079 V 7120
+4:2:0
+ID: X20 SDI Enc 7
+CW: 53 23 CF 45 32 88 42 FC
+English Championship Highlights
