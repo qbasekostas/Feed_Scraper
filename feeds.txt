@@ -104,6 +104,14 @@ SPAIN
 ACB
 Manresa - Unicaja
 ---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:12678 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: SNG ABC 1
+Super League 
+PAOK vs Panseraikos
+CW: 02 0B EA F7 FC 13 F9 08
+---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 19
 Panathinaikos vs Kifisia
 7e
