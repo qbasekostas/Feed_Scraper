@@ -24,6 +24,15 @@ ID Cloudbass
 Scottish SWPL Cup - Semi Final
 Rangers v Celtic
 ---FEED-SEPARATOR---
+Scottish Premiership, Round 24
+Hibernian vs Rangers
+Eutelsat 7A/7B/7C @ 7.0°E
+12678 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.97 Mbit/s
+ID: GC Enc 08
+CW: 14 53 BC 23 31 11 AA EC
+---FEED-SEPARATOR---
 7.0°E
 11079 V 7120
 4:2:0
