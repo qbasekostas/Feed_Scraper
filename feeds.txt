@@ -1,3 +1,12 @@
+LaLiga : Real Madrid v Rayo Vallecano 
+Eutelsat 10B @ 10.0E
+10732 V 34000
+ID:
+  SUPPONOR AFRICA 1 (OVERON)
+DVB-S2 | 8PSK | 1080i |12,4 dB | 
+4:2:2
+CW: 67 18 1A 99 7E 9F 32 4F
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0°E
 10732 - V - 34000 |
 4:2:2
