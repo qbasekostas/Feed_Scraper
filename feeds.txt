@@ -55,6 +55,8 @@ ID: X20 SDI Enc 7
 CW: 53 23 CF 45 32 88 42 FC
 English Championship Highlights
 ---FEED-SEPARATOR---
+Spain, Liga ACB, Round 18
+BAXI Manresa vs Unicaja
 Eutelsat 7A/7B/7C @ 7.0°E
 11023 V 7200
 DVB-S2 | 8PSK | 3/4
