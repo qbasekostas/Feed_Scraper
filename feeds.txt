@@ -95,6 +95,15 @@ SPAIN
 ACB
 Manresa - Unicaja
 ---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 19
+Panathinaikos vs Kifisia
+7e
+12686 H 7200
+ID: PAO VS KIFISIA A
+CW: C2 51 00 13 9E BE C6 22
+---FEED-SEPARATOR---
+pao-kifisia no feed?
+---FEED-SEPARATOR---
 Greek Super League 1
 Levadiakos
  Vs 
