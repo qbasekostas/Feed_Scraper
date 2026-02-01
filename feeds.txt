@@ -104,6 +104,17 @@ SPAIN
 ACB
 Manresa - Unicaja
 ---FEED-SEPARATOR---
+Greek Super League 1
+AEK
+  Vs  
+Olympiacos
+13.0°E @ Hotbird 13F/13G 
+10820 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  TANDBERG (TANDBERG Television)
+CW: 49 C4 E1 EE 9D 8B BF E7
+---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:12678 - H - 7200
 MPEG 4 - 4:2:0 - DVB-S2
