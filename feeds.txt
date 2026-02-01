@@ -48,3 +48,10 @@ CW: A7 6C FB 0E 4B A8 AD A0
 ID: X20 SDI Enc 7
 CW: 53 23 CF 45 32 88 42 FC
 English Championship Highlights
+---FEED-SEPARATOR---
+13.0°E
+12610 V 7500
+4:2:2
+ID: E333 M
+CW: B8 CF 61 E8 1F 96 80 35
+Basketbol Süper Ligi: Merkezefendi Belediyesi Gençlik ve Spor Kulübü - Anadolu Efes
