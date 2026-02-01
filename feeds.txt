@@ -1,3 +1,9 @@
+10.0°E
+10768 V 34000
+4:2:2
+ID: SUPPONOR EASTERN 1
+CW: A4 0D F0 A1 AF D4 7B FE
+---FEED-SEPARATOR---
 LaLiga : Real Madrid v Rayo Vallecano 
 Eutelsat 10B @ 10.0E
 10732 V 34000
@@ -49,9 +55,28 @@ ID: X20 SDI Enc 7
 CW: 53 23 CF 45 32 88 42 FC
 English Championship Highlights
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11023 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.78 Mbit/s
+ID: Service1
+CW: 03 B3 F8 AE 03 97 EB 85
+---FEED-SEPARATOR---
 13.0°E
 12610 V 7500
 4:2:2
 ID: E333 M
 CW: B8 CF 61 E8 1F 96 80 35
 Basketbol Süper Ligi: Merkezefendi Belediyesi Gençlik ve Spor Kulübü - Anadolu Efes
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+11023 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.78 Mbit/s
+ID: Service1
+CW: 03 B3 F8 AE 03 97 EB 85
+Click to expand...
+SPAIN
+ACB
+Manresa - Unicaja
