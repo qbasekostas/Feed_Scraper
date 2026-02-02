@@ -1,3 +1,8 @@
+Hellas Sat 3/4 (39.0 E)
+12619 Vertical 7198,597 3/4
+DVB-S2/8PSK (4:2:2)
+Service-1
+---FEED-SEPARATOR---
 7°E KU
 12648 V 4936
 DVB-S2|1080HD
