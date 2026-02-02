@@ -1,0 +1,16 @@
+7°E KU
+12648 V 4936
+DVB-S2|1080HD
+4.2.0|H264
+ID: YSM-021M
+Event: BG League
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 18
+Bursaspor — Trabzonspor
+Eutelsat Hotbird 13B/13C/13G @ 13.0E
+10848 V 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:2 | 25 FPS | 15.70 Mbit/s
+ID: E333 M
+CW: 71 D2 F9 3C 94 95 6C 95
