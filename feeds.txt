@@ -22,6 +22,15 @@ ID:  KUW-003M
 VolIey From Kuwait
 CW: 20 76 B0 46 76 AB 77 98
 ---FEED-SEPARATOR---
+7E
+12676 H 7200
+ 4.2.0
+DVBS-2 8PSK
+ID: GC Enc 08
+CW: EB CE 4A 03 1A EE BD C5
+Scottish Premiership - Week 25
+St Mirren v Hearts
+---FEED-SEPARATOR---
 EFL Cup, Semifinals
 Arsenal vs Chelsea
 Eutelsat 7A/7B/7C @ 7.0°E
