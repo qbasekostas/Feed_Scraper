@@ -1,3 +1,14 @@
+100.5e
+3840 H 30000
+4:2:2
+ID: 
+OCC 1
+Copa Libertadores - Qualification SOUTH AMERICA
+The Strongest (Bol)
+Dep. Tachira (Ven)
+E3 31 E8 D2 44 1D 4F A1  #CW: 
+C4 AD FE 6F D1 2D EF ED
+---FEED-SEPARATOR---
 7°E KU
 11523 V 7500
 DVB-S2|1080HD
@@ -5,6 +16,15 @@ DVB-S2|1080HD
 ID: AFD
 Event: Liga Profesional - Apertura - Round 3 Tigre V Racing Club
 CW: 57 32 AB 34 A5 19 DD 9B
+---FEED-SEPARATOR---
+France, Ligue A, Round 19
+Tourcoing VB Lille Metropole vs Chaumont 52 Haute Marne
+Eutelsat 7A/7B/7C @ 7.0°E
+12638 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.46 Mbit/s
+ID: FRBEIN_ENC_04
+CW: AB DC 20 A7 26 AE 12 E6
 ---FEED-SEPARATOR---
 France, Ligue A, Round 19
 Tourcoing VB Lille Metropole vs Chaumont 52 Haute Marne
@@ -80,6 +100,15 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.06 Mbit/s
 ID: ita315 main
 CW: 8D F3 59 D9 66 54 76 30
+---FEED-SEPARATOR---
+Champions League, Group K, Round 1
+Unicaja vs Élan Chalon
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10829 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.98 Mbit/s
+ID: A1PRO Via1
+CW: FC 09 DC E1 72 ED 85 E4
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 17
 Ratiopharm Ulm vs KK Budućnost VOLI
