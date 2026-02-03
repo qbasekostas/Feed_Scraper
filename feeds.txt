@@ -6,12 +6,40 @@ ID: AFD
 Event: Liga Profesional - Apertura - Round 3 Tigre V Racing Club
 CW: 57 32 AB 34 A5 19 DD 9B
 ---FEED-SEPARATOR---
+France, Ligue A, Round 19
+Tourcoing VB Lille Metropole vs Chaumont 52 Haute Marne
+Eutelsat 7A/7B/7C @ 7.0°E
+12629 V 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.44 Mbit/s
+ID: HOL324 TX1
+CW: AB DC 20 A7 26 AE 12 E6
+---FEED-SEPARATOR---
 Arabsat-5A @ 30.5° E
 Fréq:12609 - H - 5000
 MPEG 4 - 4:2:0 - DVB-S2
 ID:  KUW-003M
 VolIey From Kuwait
 CW: 20 76 B0 46 76 AB 77 98
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+F6 45 E6 E4 4A B0 2D D7  #CW:
+12 43 DA 2F AC 33 53 32
+   #[E] PID:07D1h
+Arsenal vs Chelsea
+---FEED-SEPARATOR---
+28.2E
+12631 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: ITV Sports efl/carb Atrsenal V Chelsea Enc1 Enc1
+CW; 
+5A C4 1A 38 52 1D 24 93
+English League Cup - Semi Final (2nd Leg)
+Arsenal v Chelsea
 ---FEED-SEPARATOR---
 UEFA Youth League (U-19) - Round of 32
 Ath Bilbao U19 vs. Eintracht Frankfurt U19 
@@ -24,10 +52,12 @@ Eutelsat 7B/7C @ 7.0°E
 ID: E 413 Feed 1
 CW: AB DB C4 4A 12 CD BA 99
 ---FEED-SEPARATOR---
+Eurocup, Group B, Round 17
+Ratiopharm Ulm vs KK Budućnost VOLI
 Eutelsat 7A/7B/7C @ 7.0°E
 12640 H 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 15.11 Mbit/s
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.58 Mbit/s
 ID: Basketball Ulm
 CW: BB EE 03 AC 02 20 26 48
 ---FEED-SEPARATOR---
