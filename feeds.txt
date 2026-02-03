@@ -5,3 +5,18 @@ DVB-S2|1080HD
 ID: AFD
 Event: Liga Profesional - Apertura - Round 3 Tigre V Racing Club
 CW: 57 32 AB 34 A5 19 DD 9B
+---FEED-SEPARATOR---
+Arabsat-5A @ 30.5° E
+Fréq:12609 - H - 5000
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  KUW-003M
+VolIey From Kuwait
+CW: 20 76 B0 46 76 AB 77 98
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12726 - V - 7200
+DVB-S2 | 8PSK | 4:2:0 |
+ID: TKS TRT M20 A
+Event: 
+BKT Eurocup - Bahcesehir vs Slask Wroclaw
+CW: 4E 5B 29 D2 6D D4 6A AB
