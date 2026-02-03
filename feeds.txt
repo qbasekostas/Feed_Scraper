@@ -1,0 +1,7 @@
+7°E KU
+11523 V 7500
+DVB-S2|1080HD
+4.2.0|H264
+ID: AFD
+Event: Liga Profesional - Apertura - Round 3 Tigre V Racing Club
+CW: 57 32 AB 34 A5 19 DD 9B
