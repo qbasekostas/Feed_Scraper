@@ -22,6 +22,17 @@ ID:  KUW-003M
 VolIey From Kuwait
 CW: 20 76 B0 46 76 AB 77 98
 ---FEED-SEPARATOR---
+EFL Cup, Semifinals
+Arsenal vs Chelsea
+Eutelsat 7A/7B/7C @ 7.0°E
+10970 H 7120
+DVB-S2 | 8-PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 8.68 Mbit/s
+ID: Pitch Carabao Arsenal v Chelsea
+HBO said:
+CW: 12 43 DA 2F AC 33 53 32
+Click to expand...
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3966 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
@@ -51,6 +62,15 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: E 413 Feed 1
 CW: AB DB C4 4A 12 CD BA 99
+---FEED-SEPARATOR---
+Euroleague, Round 26
+EA7 Emporio Armani Milano vs Kosner Baskonia
+Eutelsat 7A/7B/7C @ 7.0°E
+11071 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.06 Mbit/s
+ID: ita315 main
+CW: 8D F3 59 D9 66 54 76 30
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 17
 Ratiopharm Ulm vs KK Budućnost VOLI
