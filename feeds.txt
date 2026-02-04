@@ -50,6 +50,28 @@ Event: Volletball CEV Champions League Women Fenerbahce W V Budowlani Lodz W
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0E)
+11171H 7200
+Dresdner SC W vs Zeren Spor W
+FC BD 5B 14 71 5A 1D 57  #CW:6C 4C 7F 37 D9 AC 4D D2   #[E] PID:0021h
+---FEED-SEPARATOR---
+Ferari3000 said:
+			Eutelsat 7B/7C (7.0E)
+11163 H 7200
+ID: ITA671
+Provider: ELETTROSAT
+Champions League Women,Group B,Round 6
+Novara (Ita) W - Benfica Lisabon (Por) W (18:00)
+Biss Encrypt?
+Click to expand...
+CW: 54 4A F5 93 37 A3 4A 24
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+12654V 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+Zeleznicar W vs Olympiacos Piraeus W
+3C 72 98 CD 97 7F 18 3C  #CW:AB BA 20 85 25 20 26 6B   #[E] PID:0200h
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
 12601 V 7200 DVB-S2 8PSK
 MPEG 4 - 4:2:0 - HDTV
 ID: (...)
@@ -94,7 +116,17 @@ DVB-S2 | 8PSK | 3/4
 Besiktas vs Turk Telekom
 72 D7 86 C8 54 CE 2E DE  #CW:4E 5B 29 D2 6D D1 9A D8   #[E] PID:0200h
 ---FEED-SEPARATOR---
-pao vs paok cup no feed yet?
+Greek Cup - Semi Final
+Panathinaikos
+ Vs 
+Paok
+13.0°E @ Hotbird 13F/13G 
+11212 V 9700
+MPEG 4 - 
+4:2:2
+DVB-S2 - 8PSK -1080P
+ID:   OTE 2 (OTE)
+CW: AA 11 21 DC AB AB 12 68
 ---FEED-SEPARATOR---
 Greek Super League 1
 Asteras Tripolis
