@@ -41,6 +41,14 @@ ID: TKS.TRT.M17A
 Event: Volletball CEV Champions League Women Fenerbahce W V Budowlani Lodz W
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
+7°E KU
+12677 H 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: E-289
+Event: UEFA Youth League  Benfica under-19 V Slavia Praha under-19
+CW: 04 AA 02 B0 BB 20 26 01
+---FEED-SEPARATOR---
 Greek Super League 1
 Asteras Tripolis
  Vs 
