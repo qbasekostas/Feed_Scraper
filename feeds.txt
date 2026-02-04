@@ -145,6 +145,24 @@ ID: E-289
 Event: UEFA Youth League  Benfica under-19 V Slavia Praha under-19
 CW: 04 AA 02 B0 BB 20 26 01
 ---FEED-SEPARATOR---
+Champions League, Group L, Round 1
+Dreamland Gran Canaria vs La Laguna Tenerife
+Eutelsat 7A/7B/7C @ 7.0°E
+12649 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.37 Mbit/s
+ID: E-411_via 2
+CW: AE 54 FA FC 30 BE 64 52
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 17
+BAXI Manresa vs Umana Reyer Venezia
+Eutelsat 7A/7B/7C @ 7.0°E
+10977 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.18 Mbit/s
+ID: E115 G65 VIA 1
+CW: 13 11 AA CE CC 20 23 0F
+---FEED-SEPARATOR---
 Euroleague, Basketball ROUND 26
 VIRTUS BOLONGA VS LDLC ASVEL VILLEURBANNE
 Eutelsat 7A/7B/7C @ 7.0°E
