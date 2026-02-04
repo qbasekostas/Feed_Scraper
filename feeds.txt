@@ -32,3 +32,22 @@ Click to expand...
 4135V10000
 ID: STR VS DEP SPA
 DVB-S2 4.2.2 1080I 
+---FEED-SEPARATOR---
+7°E KU
+12686 V 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: TKS.TRT.M17A
+Event: Volletball CEV Champions League Women Fenerbahce W V Budowlani Lodz W
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Greek Super League 1
+Asteras Tripolis
+ Vs 
+Olympiacos
+39.0°E @ Hellas Sat 3/4 
+12619 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  E394 MAIN
+CW: 83 A2 B6 DB 6D FC 91 FA
