@@ -49,6 +49,27 @@ ID: TKS.TRT.M17A
 Event: Volletball CEV Champions League Women Fenerbahce W V Budowlani Lodz W
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:11189 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:ITA360_2
+INFO IN PIC
+CW: ED D8 98 5D 3E C6 B9 BD
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:11181 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:ITA 864 (A) MAIN
+INFO IN PIC
+CW: 56 AF 23 28 5A 8D C9 B0
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:11144 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: undefined
+INFO IN PIC
+CW: B6 35 DB C6 87 28 AF 5E
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0E)
 11171H 7200
 Dresdner SC W vs Zeren Spor W
@@ -96,6 +117,26 @@ Champions League Women Volleyball
 Alba Blaj (Rou) W - Volero Le Cannet (Fra) W (17:00) Group A,Round 6
 CW: 56 C4 B8 D2 6A 4E F2 AA
 ---FEED-SEPARATOR---
+Satfun2017 said:
+English League Cup 
+Manchester City Vs Newcastle
+CW: 24 21 CC 11 DD 34 52 63
+Click to expand...
+Eutelsat 7A/B @7.0°E
+Fréq:10971 - H - 7120
+MPEG 4 - 4:2:0 - DVB-S2
+ID:    Pitch Man City v Newcastle
+---FEED-SEPARATOR---
+English League Cup 
+Manchester City Vs Newcastle
+100.5°E C
+@ AsiaSat 5
+3966 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 24 21 CC 11 DD 34 52 63
+---FEED-SEPARATOR---
 7°E KU
 12677 H 7200
 DVB-S2|1080HD
@@ -103,6 +144,49 @@ DVB-S2|1080HD
 ID: E-289
 Event: UEFA Youth League  Benfica under-19 V Slavia Praha under-19
 CW: 04 AA 02 B0 BB 20 26 01
+---FEED-SEPARATOR---
+Euroleague, Basketball ROUND 26
+VIRTUS BOLONGA VS LDLC ASVEL VILLEURBANNE
+Eutelsat 7A/7B/7C @ 7.0°E
+11070 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 |
+ID:  IMGA EU
+CW: 93 A9 54 90 EB 92 12 8F
+---FEED-SEPARATOR---
+Champions League, Group I, Round 1
+Le Mans Sarthe Basket vs Rytas Vilnius
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10830 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.76 Mbit/s
+ID: F386 VIA STORIA/1
+CW: CB 72 AE EB 09 BD 04 CA
+---FEED-SEPARATOR---
+Champions League, Group J, Round 1
+ALBA Berlin vs Karditsa Iaponiki
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10820 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.54 Mbit/s
+ID: BB CL Berlin
+CW: BD 77 EB 1F 80 AD 37 64
+---FEED-SEPARATOR---
+Champions League, Group L, Round 1
+Pallacanestro Trieste vs ERA Nymburk
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10820 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.74 Mbit/s
+ID: Medialink CRO-025/1
+CW: FA 82 AD 29 37 FA 15 46
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:11522 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  Aris vs Neptunas
+Aris Thessaloniki Betsson vs Neptunas
+CW: D7 7A 9E EF B2 F1 AA 4D
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12725 V 7200
