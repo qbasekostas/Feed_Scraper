@@ -33,6 +33,14 @@ Click to expand...
 ID: STR VS DEP SPA
 DVB-S2 4.2.2 1080I 
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+12694 V 7200
+ID: TUR-123 A
+Provider: TRT
+Champions League Women Volleyball
+Vakifbank (Tur) W - Scandicci (Ita) W (17:30) Group A,Round 6
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
 7°E KU
 12686 V 7200
 DVB-S2|1080HD
@@ -41,6 +49,31 @@ ID: TKS.TRT.M17A
 Event: Volletball CEV Champions League Women Fenerbahce W V Budowlani Lodz W
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+12601 V 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: (...)
+Champions League Women Volleyball
+POOL E - KS Developres RZESZOW Vs SSC Palmberg SCHWERIN
+CW: 20 26 AB F1 CD 1E CA B5
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+12605 V 7610 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: ROU-073
+Provider: DSNG 5
+CEV VOLLEYBALL
+Alba Blaj (Rou) W - Volero Le Cannet (Fra) W (17:00) Group A,Round 6
+CW: BA 1C 90 66 BF D1 D1 61
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+11154 H 7200
+ID: ROU-051 MAIN
+Provider: STUDIO VIDEO ART
+Champions League Women Volleyball
+Alba Blaj (Rou) W - Volero Le Cannet (Fra) W (17:00) Group A,Round 6
+CW: 56 C4 B8 D2 6A 4E F2 AA
+---FEED-SEPARATOR---
 7°E KU
 12677 H 7200
 DVB-S2|1080HD
@@ -48,6 +81,31 @@ DVB-S2|1080HD
 ID: E-289
 Event: UEFA Youth League  Benfica under-19 V Slavia Praha under-19
 CW: 04 AA 02 B0 BB 20 26 01
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12725 V 7200
+DVB-S2 | 8PSK | 3/4
+Lietkabelis vs Panionios
+CW: BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12676 V 7200
+DVB-S2 | 8PSK | 3/4
+Besiktas vs Turk Telekom
+72 D7 86 C8 54 CE 2E DE  #CW:4E 5B 29 D2 6D D1 9A D8   #[E] PID:0200h
+---FEED-SEPARATOR---
+pao vs paok cup no feed yet?
+---FEED-SEPARATOR---
+Greek Super League 1
+Asteras Tripolis
+ Vs 
+Olympiacos
+13.0°E @ Hotbird 13F/13G 
+10839 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: ASTERAS VS OSFP A (*unnamed-1*)
+CW: FD 5F F6 52 1C B3 61 30
 ---FEED-SEPARATOR---
 Greek Super League 1
 Asteras Tripolis
