@@ -1,3 +1,14 @@
+Challenge Cup, Women, Quarterfinals
+GS Panionios vs Olympiada Neapolis
+Eutelsat 16A @ 16.0E
+11022 V 9700
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 20.39 Mbit/s 
+ID: OTE 1
+CW: AB 12 21 DE DF AA 11 9A
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3984 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
