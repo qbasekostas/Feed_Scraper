@@ -1,3 +1,12 @@
+WAVA - VOLLEYBALL CHAMPIONSHIP
+4th Wava mens CLUBS
+Kuwait SC (Kuwait) vs Al Wakrah (Qatar)
+30.5E
+12605 H 5000
+4.2.0 HD
+ID: KUW-003M
+CW: 20 76 B0 46 76 AB 77 98
+---FEED-SEPARATOR---
 Challenge Cup, Women, Quarterfinals
 GS Panionios vs Olympiada Neapolis
 Eutelsat 16A @ 16.0E
@@ -25,3 +34,14 @@ Event:
 Highlights - English League Cup 
 Manchester City Vs Newcastle
 CW: 13 11 AD D1 DA 23 24 21
+---FEED-SEPARATOR---
+Euroleague, Round 27
+Paris Basketball vs Fenerbahçe
+Eutelsat 7A/7B/7C @ 7.0E
+11004 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 11.08 Mbit/s 
+ID: F419_MAIN
+CW: 34 EA 45 63 BA 9B 77 CC
