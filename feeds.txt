@@ -1,3 +1,11 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+found CW: 
+14 37 77 C2 4D 25 65 D7 
+Accrington vs Salford 
+---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq: 10969 - H - 7120
 MPEG 4 - 4:2:0 - DVB-S2
