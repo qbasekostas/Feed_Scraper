@@ -26,6 +26,19 @@ DVB-S2 | 8PSK | 3/4
 ID: OTE 1
 CW: AB 12 21 DE DF AA 11 9A
 ---FEED-SEPARATOR---
+English League Two - Week 31
+Accrington Stanley vs. Salford City
+Eutelsat 7B/7C @ 7.0°E
+10969 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Accrington v Salford
+HBO said:
+CW: 14 37 77 C2 4D 25 65 D7
+Click to expand...
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3984 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
@@ -42,6 +55,14 @@ Event:
 Highlights - English League Cup 
 Manchester City Vs Newcastle
 CW: 13 11 AD D1 DA 23 24 21
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12639 - H - 7200
+DVB-S2 | 8PSK | 4:2:0 |
+ID: Basketball Hamburg
+Event:
+ BKT Eurocup - Hamburg vs Olimpija
+CW: BE EE 05 AE 02 20 26 48
 ---FEED-SEPARATOR---
 Euroleague, Round 27
 Paris Basketball vs Fenerbahçe
