@@ -24,6 +24,19 @@ ID: Uki-1592
 Scottish Cup - 5th Round
 Airdrieonians v St Mirren
 ---FEED-SEPARATOR---
+English Championship - Week 31
+Charlton Athletic vs. Queens Park Rangers
+Eutelsat 7B/7C @ 7.0°E
+11106 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch EFL Charlton v QPR
+Satfun2017 said:
+CW: 12 7A D4 60 65 77 3A 16
+Click to expand...
+---FEED-SEPARATOR---
 Championship
 Charlton Vs QPR
 100.5°E C
