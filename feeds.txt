@@ -1,3 +1,11 @@
+Argentina Liga Profesional
+Eutelsat 7B/7C @ 7.0E
+11605 V 7500
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:AFD (iKOMG)
+CW: 16 58 CC 3A 54 DA 14 42
+---FEED-SEPARATOR---
 7.0°E
 11151 V 5000
 4:2:0 - HEVC
