@@ -68,3 +68,11 @@ Super Lig - Jornada 19
 Tofas
  VS 
 Mersin SK
+---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0 E)
+12620 Vertical 7198,438 3/4
+DVB-S2/8PSK (4:2:0)
+E394 MAIN
+Greece - Super League - Round 20
+Asteras Tripolis vs Volos
+CW: 9F 32 AB 7C 11 C7 3F 17
