@@ -4,6 +4,34 @@ ID: POL 058_T1 (POLSAT)
 1920x1080 |14,265Mb/Sec 8PSK |4:2:0 HD
 CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+28.2E
+12624 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID Uki-1592
+Scottish Cup - 5th Round
+Dunfermline Athletic v Kelty Hearts
+---FEED-SEPARATOR---
+Event:  
+ Championship  : Coventry City Vs Oxford Utd
+Eutelsat 7B-7C   @ 07.0E
+11072  Vertical  7119,935
+ID:
+  EFL - Coventry v Oxford Utd (NEP Connect)
+DVB-S2 | 8PSK | 1080i |10,0 dB | 
+4:2:0
+CW: 22 25 25 6C 65 6D F4 C6
+---FEED-SEPARATOR---
+Championship
+Coventry City Vs Oxford Utd
+100.5°E C
+@ AsiaSat 5
+3966 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_22_SDI
+CW: 22 25 25 6C 65 6D F4 C6
+---FEED-SEPARATOR---
 English Championship - Week 31
 Derby County v Ipswich Town
 Eutelsat 7A-7B 7.0E - 11080 Vertical 7120 8PSK 2/3 DVB-S2 4:2:0
@@ -15,6 +43,11 @@ ASIASAT 5 100.5E
 ID BT SES 24 SDI
 74 32 0F 1F 9D 4E DC 06  #CW: 27 8C 54 07 67 99 9A 9A   
 Derby County vs Ipswich Town
+---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0 E)
+12634 Vertical 7198,436 3/4
+DVB-S2/8PSK (4:2:0)
+BAV
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 12601  Vertical  7501,823
