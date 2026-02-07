@@ -1,3 +1,10 @@
+7.0°E
+11151 V 5000
+4:2:0 - HEVC
+ID: ITA 498 A
+CW: 6C 53 AD 6C 07 AB F0 A2
+Italian Volley
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 12602  Vertical  7201,79
 ID: POL 058_T1 (POLSAT)
@@ -11,17 +18,6 @@ DVBS-2 8PSK
 ID Uki-1592
 Scottish Cup - 5th Round
 Dunfermline Athletic v Kelty Hearts
----FEED-SEPARATOR---
-archiesat said:
-			7E
-11127 H 7200 4.2.0
-DVBS-2 8PSK
-ID: Enc 4
-CW: BC AA 45 AB 56 BB CA DB
-Scottish Cup - 5th Round
-Celtic v Dundee
-Click to expand...
-H not V I think
 ---FEED-SEPARATOR---
 7E
 11127 H 7200 4.2.0
@@ -67,6 +63,16 @@ Hellas Sat 3/4 (39.0 E)
 12634 Vertical 7198,436 3/4
 DVB-S2/8PSK (4:2:0)
 BAV
+---FEED-SEPARATOR---
+13E
+11203 V 7500
+42E
+11587 V 7500
+4.2.2
+ID: TUR 112 MAIN
+Basketbol Süper Ligi
+Bahcesesir - Buyukcekemece
+CW: 58 80 EE C6 50 3F 73 02
 ---FEED-SEPARATOR---
 Portugal LBP, Round 14
 Sporting CP vs Porto
