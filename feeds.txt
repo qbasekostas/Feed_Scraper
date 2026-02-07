@@ -12,6 +12,25 @@ ID Uki-1592
 Scottish Cup - 5th Round
 Dunfermline Athletic v Kelty Hearts
 ---FEED-SEPARATOR---
+archiesat said:
+			7E
+11127 H 7200 4.2.0
+DVBS-2 8PSK
+ID: Enc 4
+CW: BC AA 45 AB 56 BB CA DB
+Scottish Cup - 5th Round
+Celtic v Dundee
+Click to expand...
+H not V I think
+---FEED-SEPARATOR---
+7E
+11127 H 7200 4.2.0
+DVBS-2 8PSK
+ID: Enc 4
+CW: BC AA 45 AB 56 BB CA DB
+Scottish Cup - 5th Round
+Celtic v Dundee
+---FEED-SEPARATOR---
 Event:  
  Championship  : Coventry City Vs Oxford Utd
 Eutelsat 7B-7C   @ 07.0E
