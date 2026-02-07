@@ -59,6 +59,12 @@ ID BT SES 24 SDI
 74 32 0F 1F 9D 4E DC 06  #CW: 27 8C 54 07 67 99 9A 9A   
 Derby County vs Ipswich Town
 ---FEED-SEPARATOR---
+13.0°E
+11204 V 7500
+4:2:2
+#FTA
+Turkish Basketball
+---FEED-SEPARATOR---
 Hellas Sat 3/4 (39.0 E)
 12634 Vertical 7198,436 3/4
 DVB-S2/8PSK (4:2:0)
