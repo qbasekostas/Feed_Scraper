@@ -1,17 +1,15 @@
-16E
-12712 V 2000
- 4:2:0
-DVB-S2 16APSK
-ID: Service01
-Scottish Cup - 5th Round
-Stenhousemuir v Falkirk
----FEED-SEPARATOR---
-16E
-12692 V 10000
- 4:2:0
-12702 V 10000
- 4:2:0
-DVB-S2 16APSK
-ID: Uki-1592
-Scottish Cup - 5th Round
-Stenhousemuir v Falkirk
+Albahraniy said:
+			Argentina Liga Profesional
+Eutelsat 7B/7C @ 7.0E
+11605 V 7500
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:AFD (iKOMG)
+CW: 16 58 CC 3A 54 DA 14 42
+Click to expand...
+7.0E
+11523 V 7500
+ 4.2.0
+DVBS2 8PSK
+ID: AFD
+Huracán v San Lorenzo
