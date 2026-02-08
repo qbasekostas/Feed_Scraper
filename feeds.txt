@@ -7,3 +7,21 @@ River Plate VS Tigre
 11523 V 7500
 4.2.0 HD
 ID: AFD
+---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Cup - 5th Round
+Stenhousemuir v Falkirk
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+12702 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Cup - 5th Round
+Stenhousemuir v Falkirk
