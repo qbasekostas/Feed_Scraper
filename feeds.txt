@@ -13,3 +13,21 @@ Click to expand...
 DVBS2 8PSK
 ID: AFD
 Huracán v San Lorenzo
+---FEED-SEPARATOR---
+Championship
+Sheffield Utd Vs Middlesbrough
+100.5°E C
+@ AsiaSat 5
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 63 58 A3 5E 56 AA FD FD
+---FEED-SEPARATOR---
+Asia    WASL
+Al-Muharraq vs Al-Kuwaiti
+Eutelsat 7A/7B/7C @ 7.0°E
+12726 V 7500
+DVB-S2 | 8-PSK | 3/4
+ID: FIBA WASL
+CW: A6 FD 8A 2D 4E 8A 13 EB
