@@ -24,6 +24,15 @@ DVB-S2 - 8PSK -1080P
 ID: BT_SES_24_SDI
 CW: 63 58 A3 5E 56 AA FD FD
 ---FEED-SEPARATOR---
+7°E KU
+12627 V 4936
+DVB-S2|1080HD
+4.2.0
+H264
+ID: MNE-001 main
+Event: AdmiralBet ABA League - Buducnost V Crvena zvezda
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Asia    WASL
 Al-Muharraq vs Al-Kuwaiti
 Eutelsat 7A/7B/7C @ 7.0°E
