@@ -1,3 +1,12 @@
+Eutelsat (16°0 E)
+12552 - V - 9600
+1920x1080 | 4:2:0 |
+ID: noname
+Event: 
+CEV EuroVolley |
+Norvid Czestochowa vs Allianz Milano
+CW: 20 26 AB F1 CD 1E CA B5
+---FEED-SEPARATOR---
 English Premier League - Week 26
 Everton vs. Bournemouth
 Intelsat 10-02 @ 1.0°W
@@ -19,6 +28,15 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 17 50 89 F0 A7 A4 6A B5
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+50 D3 19 F9 25 25 A3 E9  #CW:
+6D 39 C4 6A 54 20 93 07
+   #[E] PID:07D1h
+Birmingham vs West Brom
 ---FEED-SEPARATOR---
 English Premier League - Week 26
 West Ham United vs. Manchester United
@@ -47,6 +65,67 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 5B 7E 4D 26 AB EF D4 6E
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E (13.0 E)
+10839 Vertical 7198,443 3/4
+DVB-S2/8PSK (4:2:0)
+CZE-012-main_BCL_Nymburk_LLT
+Nymburk vs Tenerife
+CW: FD 85 EB 6D 05 EE 75 68
+---FEED-SEPARATOR---
+xFayez95 said:
+Eurocup, Group B, Round 18
+Panionios BC vs Beşiktaş Gain
+Eutelsat 7A/7B/7C @ 7.0°E
+11523 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.29 Mbit/s
+ID: E-73 MAIN
+CW: AB 09 02 B6 20 26 BA 00
+Click to expand...
+New #CW: F1 3D AA D8 58 B2 A2 AC
+---FEED-SEPARATOR---
+BASKETBALL CHAMPIONS LEAGUE SEASONX AMERESCO BUMEL.
+BERLIN, GERMANY
+GAME DAY 4, ROUND OF 16, 10 FEBRUARY
+ALBA BERLIN vs TOFAS BURSA
+16.0E
+10978 H 7200
+4.2.0 HD
+ID: F2-9MHz
+old cw: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+xFayez95 said:
+Eurocup, Group B, Round 18
+Panionios BC vs Beşiktaş Gain
+Eutelsat 7A/7B/7C @ 7.0°E
+11523 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.29 Mbit/s
+ID: E-73 MAIN
+CW: AB 09 02 B6 20 26 BA 00
+Click to expand...
+key not working
+---FEED-SEPARATOR---
+Champions League, Group I, Round 1
+Hapoel Netanel Holon vs Rytas Vilnius
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+11656 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.31 Mbit/s
+ID: Hap vs Rytas BUL007 Main
+CW: ED 04 CA BB 05 BD 49 0B
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 18
+Śląsk Wrocław vs KK Cedevita Olimpija
+Eutelsat 7A/7B/7C @ 7.0°E
+12593 V 7200
+DVB-S2 | 8-PSK | 2/3
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 12.95 Mbit/s
+ID: POL-068_ch1
+CW: 60 24 33 B7 28 62 38 C2
 ---FEED-SEPARATOR---
 Eurocup, Group B, Round 18
 Panionios BC vs Beşiktaş Gain
