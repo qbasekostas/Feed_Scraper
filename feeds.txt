@@ -21,6 +21,33 @@ ID: Unname
 CW: 17 50 89 F0 A7 A4 6A B5
 ---FEED-SEPARATOR---
 English Premier League - Week 26
+West Ham United vs. Manchester United
+Intelsat 10-02 @ 1.0°W
+11491 V 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: EMPTY 
+02 17 D6 70 EE E1 CB 69  #CW: 
+17 50 89 F0 A7 A4 6A B5
+   #[E] PID:0200h
+---FEED-SEPARATOR---
+English Premier League - Week 26
+West Ham United vs. Manchester United
+Eutelsat 3B @ 3.1°E
+10960 - H - 7500 
+|
+4:2:0
+ | H.264
+ID: beIN SPORTS
+10969 - H - 7500 
+|
+4:2:0
+ | H.264 
+(Later)
+ID: Service-1
+1920*1080 | DVB-S2 | QPSK
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+English Premier League - Week 26
 Tottenham Hotspur vs. Newcastle United
 Intelsat 10-02 @ 1.0°W
 11463 - V - 7200 
@@ -30,3 +57,12 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 5B 7E 4D 26 AB EF D4 6E
+---FEED-SEPARATOR---
+Eurocup, Group B, Round 18
+Panionios BC vs Beşiktaş Gain
+Eutelsat 7A/7B/7C @ 7.0°E
+11523 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.29 Mbit/s
+ID: E-73 MAIN
+CW: AB 09 02 B6 20 26 BA 00
