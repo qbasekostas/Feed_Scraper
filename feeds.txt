@@ -8,7 +8,7 @@ Norvid Czestochowa vs Allianz Milano
 CW: 20 26 AB F1 CD 1E CA B5
 ---FEED-SEPARATOR---
 English Premier League - Week 26
-Everton vs. Bournemouth
+Everton vs. Bournemouth 
 Intelsat 10-02 @ 1.0°W
 11472 - V - 7200 
 |
@@ -20,6 +20,7 @@ CW: 2F 50 DA 59 28 7F FD A4
 ---FEED-SEPARATOR---
 English Premier League - Week 26
 West Ham United vs. Manchester United
+[ Clean Feed -> No Graphics ] 
 Intelsat 10-02 @ 1.0°W
 11490 - V - 7200 
 |
