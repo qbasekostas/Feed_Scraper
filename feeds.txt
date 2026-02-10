@@ -66,6 +66,13 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: 5B 7E 4D 26 AB EF D4 6E
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E (13.0E)
+10848 Vertical 7198,43 3/4
+DVB-S2/8PSK (4:2:0)
+OTE 1
+AS Karditsas vs AEK Athens
+CW: CE 50 BC DA 07 CC 03 D6
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E (13.0 E)
 10839 Vertical 7198,443 3/4
 DVB-S2/8PSK (4:2:0)
@@ -135,3 +142,21 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.29 Mbit/s
 ID: E-73 MAIN
 CW: AB 09 02 B6 20 26 BA 00
+---FEED-SEPARATOR---
+Champions League, Group J, Round 1
+ALBA Berlin vs Tofaş Bursa
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+12602 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.07 Mbit/s
+ID: BB Berlin-Tofas Burs
+CW: DF 91 BC 2C 34 BC 88 78
+---FEED-SEPARATOR---
+Champions League, Group K, Round 1
+Élan Chalon vs Joventut Badalona
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+12611 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
+ID: VS7-2/BASKET_BCL_CHALON_100226
+CW: AC 56 FE 00 00 CB 62 2D
