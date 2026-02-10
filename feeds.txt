@@ -29,6 +29,19 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: 17 50 89 F0 A7 A4 6A B5
 ---FEED-SEPARATOR---
+Championship, Round 32
+Birmingham City vs West Bromwich
+Eutelsat 7A/7B/7C @ 7.0°E
+11097 H 7120
+DVB-S2 | 8-PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.66 Mbit/s
+ID: Pitch Birmingham v WBA
+HBO said:
+			50 D3 19 F9 25 25 A3 E9  #CW:
+6D 39 C4 6A 54 20 93 07
+   #[E] PID:07D1h
+Click to expand...
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3984 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
@@ -66,6 +79,15 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: 5B 7E 4D 26 AB EF D4 6E
 ---FEED-SEPARATOR---
+Champions League, Group K, Round 1
+Élan Chalon vs Joventut Badalona
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+12611 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
+ID: VS7-2/BASKET_BCL_CHALON_100226
+CW: AC 56 FE 00 00 CB 62 2D
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E (13.0E)
 10848 Vertical 7198,43 3/4
 DVB-S2/8PSK (4:2:0)
@@ -101,18 +123,6 @@ ALBA BERLIN vs TOFAS BURSA
 4.2.0 HD
 ID: F2-9MHz
 old cw: 20 25 AE F3 EA 52 02 3E
----FEED-SEPARATOR---
-xFayez95 said:
-Eurocup, Group B, Round 18
-Panionios BC vs Beşiktaş Gain
-Eutelsat 7A/7B/7C @ 7.0°E
-11523 V 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 15.29 Mbit/s
-ID: E-73 MAIN
-CW: AB 09 02 B6 20 26 BA 00
-Click to expand...
-key not working
 ---FEED-SEPARATOR---
 Champions League, Group I, Round 1
 Hapoel Netanel Holon vs Rytas Vilnius
@@ -151,12 +161,3 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.07 Mbit/s
 ID: BB Berlin-Tofas Burs
 CW: DF 91 BC 2C 34 BC 88 78
----FEED-SEPARATOR---
-Champions League, Group K, Round 1
-Élan Chalon vs Joventut Badalona
-Eutelsat Hotbird 13B/13C/13G @ 13.0°E
-12611 V 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
-ID: VS7-2/BASKET_BCL_CHALON_100226
-CW: AC 56 FE 00 00 CB 62 2D
