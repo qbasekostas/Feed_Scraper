@@ -11,6 +11,15 @@ CW: DF 45 DA FE E1 23 DD E1
 @sattechtips
  Thank you so much 
 ---FEED-SEPARATOR---
+7°E KU
+12592 V 7200
+DVB-S2|1080HD
+4.2.0
+|H264
+ID: noname
+Event: CEV EuroVolley - Aluron CMC Warta V Asseco Resovia
+CW: 20 26 AB F1 CD 1E CA B5
+---FEED-SEPARATOR---
 Champions League, Pool A, Round 5
 Tours Volley-Ball vs Ziraat Bankası
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -29,20 +38,15 @@ DVB-S2 | 8-PSK | 2/3
 ID: Polsat Sport
 CW: 20 26 AB F1 CD 1E CA B5
 ---FEED-SEPARATOR---
-Dani Sat said:
-English Premier League - Week 26
-Aston Villa vs. Brighton H.A.
-Intelsat 10-02 @ 1.0°W
-11499 - V - 7200 
-|
+100.5
+3985 V 7120
 4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: Unname
-CW: D8 31 8F 98 88 CA 68 BA
-Click to expand...
-English Premier League - Week 26
-Sunderland vs. Liverpoo
+ID: 
+BT_SES_24_SDI
+England    Soccer    League Two
+Swindon  vs   Newport
+2E EC C0 C7 F5 08 7B 53  #CW: 
+23 25 25 6D 82 DA 23 7F
 ---FEED-SEPARATOR---
 English Premier League - Week 26
 Sunderland vs. Liverpool
@@ -109,8 +113,32 @@ ID: F563/FLY4/Encoder 4.8/ MAIN
 CW: 32 23 1F 74 92 A1 AF E2
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
+12726 - V - 7200
+DVB-S2 | 8PSK |
+ 4:2:0
+ |
+ID: LAT-002
+Event:
+BKT Eurocup -
+Neptunas vs Bahcesehir College Istanbul
+CW: BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
+Verdeoro said:
+Eutelsat 7A/7B/7C @ 7.0°E
 12694 - V - 7200
 DVB-S2 | 8PSK | 4:2:0 |
+ID: TKS.TRT.M17-A
+Event:
+ BKT Eurocup - Turk Telekom vs Chemnitz 99
+CW: 4E 5B 29 D2 6D D4 6A AB
+Click to expand...
+Thanks verdeoro but is 422
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12694 - V - 7200
+DVB-S2 | 8PSK |
+ 4:2:2
+ |
 ID: TKS.TRT.M17-A
 Event:
  BKT Eurocup - Turk Telekom vs Chemnitz 99
