@@ -11,15 +11,6 @@ CW: DF 45 DA FE E1 23 DD E1
 @sattechtips
  Thank you so much 
 ---FEED-SEPARATOR---
-7°E KU
-12592 V 7200
-DVB-S2|1080HD
-4.2.0
-|H264
-ID: noname
-Event: CEV EuroVolley - Aluron CMC Warta V Asseco Resovia
-CW: 20 26 AB F1 CD 1E CA B5
----FEED-SEPARATOR---
 Champions League, Pool A, Round 5
 Tours Volley-Ball vs Ziraat Bankası
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -92,6 +83,19 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: 57 15 B7 23 D9 5C 78 AD
 ---FEED-SEPARATOR---
+xFayez95 said:
+UEFA Champions League, Women, Knockout stage, Round of 16
+Oud-Heverlee Leuven vs Arsenal
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+10962 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 19.85 Mbit/s
+ID: UWCL MATCH 01
+CW: D2 03 09 DE F9 93 CE 5A
+---FEED-SEPARATOR---
 UEFA Champions League, Women, Knockout stage, Round of 16
 Oud-Heverlee Leuven vs Arsenal
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -112,6 +116,23 @@ DVB-S2 | 8PSK | 3/4
 ID: F563/FLY4/Encoder 4.8/ MAIN
 CW: 32 23 1F 74 92 A1 AF E2
 ---FEED-SEPARATOR---
+7°E KU
+12645 V 4936
+DVB-S2|1080HD
+4.2.0
+|H264
+ID: YSM-020
+Event: basketball league serbia - OKK Beograd V Hercegovac
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Hot Bird (13.0°E)
+10848 V 7200
+4:2:0
+ID: D-331 TX1
+Event:
+Basketball Champions League - Wuzburg vs Malaga
+CW: EB 27 FD 0F 38 CA 86 88
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12726 - V - 7200
 DVB-S2 | 8PSK |
@@ -122,17 +143,6 @@ Event:
 BKT Eurocup -
 Neptunas vs Bahcesehir College Istanbul
 CW: BA 23 DE BB 81 CD 72 C0
----FEED-SEPARATOR---
-Verdeoro said:
-Eutelsat 7A/7B/7C @ 7.0°E
-12694 - V - 7200
-DVB-S2 | 8PSK | 4:2:0 |
-ID: TKS.TRT.M17-A
-Event:
- BKT Eurocup - Turk Telekom vs Chemnitz 99
-CW: 4E 5B 29 D2 6D D4 6A AB
-Click to expand...
-Thanks verdeoro but is 422
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12694 - V - 7200
@@ -163,6 +173,15 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.31 Mbit/s
 ID: ROU045
 CW: 11 02 AA BD BB 20 26 01
+---FEED-SEPARATOR---
+Greece Cup, Playoffs, Semifinals
+PAOK vs Panathinaikos FC 
+Eutelsat 16A @ 16.0°E
+11022 V 9700
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 19.42 Mbit/s
+ID: SNG ATLAS-SAT 1
+CW: 22 BB 30 0D 40 CC 44 50
 ---FEED-SEPARATOR---
 Eutelsat Hotbird 13B/13C/13G @ 13.0°E
 11200 V 9700
