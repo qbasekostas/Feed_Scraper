@@ -11,6 +11,15 @@ CW: DF 45 DA FE E1 23 DD E1
 @sattechtips
  Thank you so much 
 ---FEED-SEPARATOR---
+Champions League, Pool A, Round 5
+Tours Volley-Ball vs Ziraat Bankası
+Eutelsat 7A/7B/7C @ 7.0°E
+11135 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.82 Mbit/s
+ID: ITA 631 M
+CW: E8 DB 22 E5 8A FD 36 BD
+---FEED-SEPARATOR---
 Champions League, Pool D, Round 5
 Rzeszów vs Aluron Warta
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -93,9 +102,19 @@ Paris FC vs Real Madrid
 Eutelsat 7A/7B/7C @ 7.0°E
 10974 H 9875
 DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:2 | 20.28 Mbit/s
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.28 Mbit/s
 ID: F563/FLY4/Encoder 4.8/ MAIN
 CW: 32 23 1F 74 92 A1 AF E2
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12694 - V - 7200
+DVB-S2 | 8PSK | 4:2:0 |
+ID: TKS.TRT.M17-A
+Event:
+ BKT Eurocup - Turk Telekom vs Chemnitz 99
+CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -116,3 +135,12 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.31 Mbit/s
 ID: ROU045
 CW: 11 02 AA BD BB 20 26 01
+---FEED-SEPARATOR---
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+11200 V 9700
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 19.69 Mbit/s
+ID: SNG ABC 1
+Event: 
+Greece Cup Semi-Final: Levadiakos vs. OFI Crete 
+CW: CC 44 BB CB 55 AA 21 20
