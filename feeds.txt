@@ -11,6 +11,59 @@ CW: DF 45 DA FE E1 23 DD E1
 @sattechtips
  Thank you so much 
 ---FEED-SEPARATOR---
+English Premier League - Week 26
+Sunderland vs. Liverpool
+Intelsat 10-02 @ 1.0°W
+11490 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: E1 52 93 C6 F7 B2 FB A4
+---FEED-SEPARATOR---
+English Premier League - Week 26
+Aston Villa vs. Brighton H.A.
+Intelsat 10-02 @ 1.0°W
+11499 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: D8 31 8F 98 88 CA 68 BA
+---FEED-SEPARATOR---
+English Premier League - Week 26
+Nottingham Forest vs. Wolves
+Intelsat 10-02 @ 1.0°W
+11481 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: AE FF E0 8D 4D 2C D6 4F
+---FEED-SEPARATOR---
+English Premier League - Week 26
+Manchester City vs. Fulham
+Intelsat 10-02 @ 1.0°W
+11463 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 57 15 B7 23 D9 5C 78 AD
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Knockout stage, Round of 16
+Oud-Heverlee Leuven vs Arsenal
+Eutelsat 7A/7B/7C @ 7.0°E
+12687 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.23 Mbit/s
+ID: ENC 4
+CW: BC F3 F4 A3 56 21 51 C8
+---FEED-SEPARATOR---
 UEFA Champions League, Women, Knockout stage, Round of 16
 Paris FC vs Real Madrid
 Eutelsat 7A/7B/7C @ 7.0°E
