@@ -37,6 +37,34 @@ DVB-S2 | 8-PSK | 2/3
 ID: Polsat Sport
 CW: 20 26 AB F1 CD 1E CA B5
 ---FEED-SEPARATOR---
+Dani Sat said:
+English Premier League - Week 26
+Aston Villa vs. Brighton H.A.
+Intelsat 10-02 @ 1.0°W
+11499 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: D8 31 8F 98 88 CA 68 BA
+Click to expand...
+11499 - V - 7200 not working
+---FEED-SEPARATOR---
+Dani Sat said:
+English Premier League - Week 26
+Sunderland vs. Liverpool
+Intelsat 10-02 @ 1.0°W
+11490 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: E1 52 93 C6 F7 B2 FB A4
+Click to expand...
+11490 - V - 7200 not working
+---FEED-SEPARATOR---
 Scottish Premiership, Round 26
 Motherwell vs Rangers
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -110,6 +138,14 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 57 15 B7 23 D9 5C 78 AD
+---FEED-SEPARATOR---
+UEFA Europa Cup Women - Quarter-final
+Sporting W - Hammarby W
+Eutelsat 7A/7B/7C 7.0E
+11180 H 7198
+4.2.0 HD
+ID:  E-289 MAIN (Mediapro Portugal)
+CW: 11 02 20 33 26 CC CC BE
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C 7.0E
 12694 Vertical 7198,46
