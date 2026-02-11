@@ -10,3 +10,12 @@ CW: DF 45 DA FE E1 23 DD E1
 @xachik
 @sattechtips
  Thank you so much 
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Knockout stage, Round of 16
+Paris FC vs Real Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+10974 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:2 | 20.28 Mbit/s
+ID: F563/FLY4/Encoder 4.8/ MAIN
+CW: 32 23 1F 74 92 A1 AF E2
