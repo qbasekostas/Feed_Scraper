@@ -11,6 +11,30 @@ CW: DF 45 DA FE E1 23 DD E1
 @sattechtips
  Thank you so much 
 ---FEED-SEPARATOR---
+Champions League, Pool D, Round 5
+Rzeszów vs Aluron Warta
+Eutelsat 7A/7B/7C @ 7.0°E
+12593 V 7200
+DVB-S2 | 8-PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.18 Mbit/s
+ID: Polsat Sport
+CW: 20 26 AB F1 CD 1E CA B5
+---FEED-SEPARATOR---
+Dani Sat said:
+English Premier League - Week 26
+Aston Villa vs. Brighton H.A.
+Intelsat 10-02 @ 1.0°W
+11499 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: D8 31 8F 98 88 CA 68 BA
+Click to expand...
+English Premier League - Week 26
+Sunderland vs. Liverpoo
+---FEED-SEPARATOR---
 English Premier League - Week 26
 Sunderland vs. Liverpool
 Intelsat 10-02 @ 1.0°W
@@ -72,3 +96,23 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:2 | 20.28 Mbit/s
 ID: F563/FLY4/Encoder 4.8/ MAIN
 CW: 32 23 1F 74 92 A1 AF E2
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+12705 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.31 Mbit/s
+ID: ROU045
+CW: 11 02 AA BD BB 20 26 01
+Click to expand...
+Cluj-Napoca
+Aris
+---FEED-SEPARATOR---
+Eurocup, Group A, Round 18
+U-Banca Transilvania Cluj-Napoca vs Aris BC
+Eutelsat 7A/7B/7C @ 7.0°E
+12705 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.31 Mbit/s
+ID: ROU045
+CW: 11 02 AA BD BB 20 26 01
