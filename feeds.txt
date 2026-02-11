@@ -11,6 +11,14 @@ CW: DF 45 DA FE E1 23 DD E1
 @sattechtips
  Thank you so much 
 ---FEED-SEPARATOR---
+Champions League - Round 5
+Haasrode Leuven - Projekt Warszawa
+Eutelsat 7A/7B/7C 7.0E
+11144 H 7198
+4.2.0 HD
+ID: D-312
+CW: AC 52 42 40 C5 58 C4 E1
+---FEED-SEPARATOR---
 Champions League, Pool A, Round 5
 Tours Volley-Ball vs Ziraat Bankası
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -28,6 +36,26 @@ DVB-S2 | 8-PSK | 2/3
 1920x1080 | H.264/AVC Video | 4:2:0 | 13.18 Mbit/s
 ID: Polsat Sport
 CW: 20 26 AB F1 CD 1E CA B5
+---FEED-SEPARATOR---
+Scottish Premiership, Round 26
+Motherwell vs Rangers
+Eutelsat 7A/7B/7C @ 7.0°E
+12677 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.10 Mbit/s
+ID: GC Enc 08
+CW: 45 1C CA 2B C2 2B BB A8
+---FEED-SEPARATOR---
+League Two, Round 26
+Swindon Town vs Newport County
+Eutelsat 7A/7B/7C @ 7.0°E
+11097 H 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 4.54 Mbit/s
+ID: Pitch- Swindon v Newport
+xachik said:
+CW: 23 25 25 6D 82 DA 23 7F
+Click to expand...
 ---FEED-SEPARATOR---
 100.5
 3985 V 7120
@@ -83,6 +111,12 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: 57 15 B7 23 D9 5C 78 AD
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C 7.0E
+12694 Vertical 7198,46
+4.2.0 HD
+ID: ENC 5 (SES
+CW: 59 F1 27 71 23 54 1E 95
+---FEED-SEPARATOR---
 xFayez95 said:
 UEFA Champions League, Women, Knockout stage, Round of 16
 Oud-Heverlee Leuven vs Arsenal
@@ -115,6 +149,22 @@ DVB-S2 | 8PSK | 3/4
  | 20.28 Mbit/s
 ID: F563/FLY4/Encoder 4.8/ MAIN
 CW: 32 23 1F 74 92 A1 AF E2
+---FEED-SEPARATOR---
+abed1988 said:
+			Eutelsat 7A/7B/7C 7.0E
+12648 H 7198
+4.2.0 HD
+ID:*unnamed-1* (*unnamed-1*)
+CW: 98 CA B3 15 A2 E0 0C 8E
+Click to expand...
+London Lions - Lietkabelis
+---FEED-SEPARATOR---
+London Lions - Lietkabelis
+Eutelsat 7A/7B/7C 7.0E
+12648 H 7198
+4.2.0 HD
+ID:*unnamed-1* (*unnamed-1*)
+CW: 98 CA B3 15 A2 E0 0C 8E
 ---FEED-SEPARATOR---
 7°E KU
 12645 V 4936
