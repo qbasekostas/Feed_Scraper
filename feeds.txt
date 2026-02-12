@@ -1,3 +1,25 @@
+UEFA Champions League, Women, Knockout stage, Round of 16
+Atlético de Madrid vs Manchester United
+Eutelsat 7A/7B/7C @ 7.0°E
+10974 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 30.33 Mbit/s
+ID: E 413 Feed 1
+CW: 16 A7 44 01 83 2C 02 B1
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Knockout stage, Round of 16
+VfL Wolfsburg vs Juventus
+Eutelsat 7A/7B/7C @ 7.0°E
+10962 H 9875
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 17.57 Mbit/s
+ID: CRO23 UWCL M1 M
+CW: E4 DD 47 08 CC 85 09 5A
+---FEED-SEPARATOR---
 Feed SES 14/47° W
 4131 L 7200
 DVBS2 8PSK
