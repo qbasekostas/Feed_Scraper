@@ -13,6 +13,15 @@ MPEG4-
  Mbit/Sec|8PSK DVB-S2 HD
 CW: 4E 5B 23 CC 6D D4 3A 7B
 ---FEED-SEPARATOR---
+France, Ligue A, Round 21
+Paris Volley vs AS Cannes
+Eutelsat 7A/7B/7C @ 7.0°E
+11499 V 6666
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.92 Mbit/s
+ID: F419_MAIN
+CW: BD 2A 20 07 26 12 AE E6
+---FEED-SEPARATOR---
 Champions League, Pool A, Round 5
 ACH Volley Ljubljana vs Itas Trentino
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -90,3 +99,12 @@ MPEG4 4:2:0
 Id.: T/A + 9MHz SES-14:
 Basketball Champions League Americas (BCL Americas 2025-26)-desde Mexico
 Paisas Basketball Club (Medellín - COL) vs Caimanes del Llano (Villavicencio - COL)
+---FEED-SEPARATOR---
+Euroleague, Round 28
+Valencia Basket vs ASVEL
+Eutelsat 7A/7B/7C @ 7.0°E
+11106 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.71 Mbit/s
+ID: Main E-351
+CW: 34 56 D1 5B 25 69 BC 4A
