@@ -31,6 +31,14 @@ DVB-S2 | 8PSK | 3/4
 ID: E-411_via 2
 CW: 4C E9 73 A8 7D 9C 64 7D
 ---FEED-SEPARATOR---
+FA Cup Preview Show
+Eutelsat 7A/7B/7C @ 7.0°E
+11062 V 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.90 Mbit/s
+ID: Pitch -FA Cup Round 4 Preview Show
+CW: 45 AB DD CD BE 12 02 D2
+---FEED-SEPARATOR---
 xFayez95 said:
 UEFA Champions League, Women, Knockout stage, Round of 16
 VfL Wolfsburg vs Juventus
