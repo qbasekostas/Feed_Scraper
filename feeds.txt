@@ -1,3 +1,36 @@
+Event :
+Europe Champions League - Round 5
+Teams : Halkbank 
+ Lublin
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12726 V 7200
+ TUR-125-B (TRT)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+16.091
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 4E 5B 23 CC 6D D4 3A 7B
+---FEED-SEPARATOR---
+Champions League, Pool A, Round 5
+ACH Volley Ljubljana vs Itas Trentino
+Eutelsat 7A/7B/7C @ 7.0°E
+11144 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.19 Mbit/s
+ID: UKI-1462 - MAIN
+CW: B5 EE 9A 3D BD EF 5E 0A
+---FEED-SEPARATOR---
+Champions League, Pool C, Round 5
+CV Guaguas vs Berlin RV
+Eutelsat 7A/7B/7C @ 7.0°E
+11135 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.31 Mbit/s
+ID: E-411_via 2
+CW: 4C E9 73 A8 7D 9C 64 7D
+---FEED-SEPARATOR---
 xFayez95 said:
 UEFA Champions League, Women, Knockout stage, Round of 16
 VfL Wolfsburg vs Juventus
