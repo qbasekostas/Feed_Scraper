@@ -41,6 +41,17 @@ CW: 45 AB DD CD BE 12 02 D2
 ---FEED-SEPARATOR---
 xFayez95 said:
 UEFA Champions League, Women, Knockout stage, Round of 16
+Atlético de Madrid vs Manchester United
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+12696 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.34 Mbit/s
+ID: ENC 8
+CW: 4A F0 05 3F BA 11 C3 8E
+---FEED-SEPARATOR---
+xFayez95 said:
+UEFA Champions League, Women, Knockout stage, Round of 16
 VfL Wolfsburg vs Juventus
 Click to expand...
 Eutelsat 7A/7B/7C @ 7.0°E
