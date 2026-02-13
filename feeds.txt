@@ -14,6 +14,23 @@ UNIVERSIDAD CATÓLICA VS  JUVENTUD
 CW: CB5534542DA1CC9A
 COPA LIBERTADORES
 ---FEED-SEPARATOR---
+English FA Cup - 4th Round Proper
+Wrexham vs. Ipswich Town
+Intelsat 10-02 @ 1.0°W
+11085 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+10987 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: B8 09 26 E7 D4 8B 82 E1
+---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 11633 V 4937
 MPEG 4 - 
