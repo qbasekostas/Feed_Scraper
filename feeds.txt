@@ -13,3 +13,22 @@ DVB-S2 4.2.2 1080I
 UNIVERSIDAD CATÓLICA VS  JUVENTUD 
 CW: CB5534542DA1CC9A
 COPA LIBERTADORES
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Merkezefendi Belediyesi vs Manisa 
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10839 V 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2 
+| 15.08 Mbit/s
+ID: E333 M
+CW: E6 5F F7 3C 95 F4 CA 53
+---FEED-SEPARATOR---
+42E
+10976 V 7500
+4.2.2
+ID: E333M
+Basketbol Süper Ligi
+Merkezfendi Belediyesi - Manisa
+CW: E6 5F F7 3C 95 F4 CA 53
