@@ -14,6 +14,25 @@ UNIVERSIDAD CATÓLICA VS  JUVENTUD
 CW: CB5534542DA1CC9A
 COPA LIBERTADORES
 ---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+11633 V 4937
+MPEG 4 - 
+4:2:0
+ - DVB-S2
+ID: YSM-016 MAIN
+Event: 
+ABA League - SC Derby vs Spartak Office Shoes
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Euroleague, Round 28
+EA7 Emporio Armani Milano vs BC Dubai
+Eutelsat 7A/7B/7C @ 7.0°E
+11097 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.10 Mbit/s
+ID: i390main
+CW: 65 CB 1C 4C 59 25 47 C5
+---FEED-SEPARATOR---
 Turkish Basketball Super League
 Merkezefendi Belediyesi vs Manisa 
 Eutelsat Hotbird 13B/13C/13G @ 13.0°E
