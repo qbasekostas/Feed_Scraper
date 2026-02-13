@@ -14,6 +14,33 @@ UNIVERSIDAD CATÓLICA VS  JUVENTUD
 CW: CB5534542DA1CC9A
 COPA LIBERTADORES
 ---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship - Week 25
+Airdrieonians v St Johnstone
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+12702 V 10000
+ 4:2:0
+DVB-S2 8PSK
+ID: Uki-1592
+Scottish Championship - Week 25
+Airdrieonians v St Johnstone
+---FEED-SEPARATOR---
+28.2E
+12506 H 7500 
+4:2:0
+DVB-S2 8PSK
+ID: FAC R4 HUL
+CW: AA 23 44 11 AB BB 1A 80
+English FA Cup - 4th Round Proper
+Hull City v Chelsea
+---FEED-SEPARATOR---
 English FA Cup - 4th Round Proper
 Wrexham vs. Ipswich Town
 Intelsat 10-02 @ 1.0°W
@@ -30,6 +57,15 @@ ID: Unname
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: B8 09 26 E7 D4 8B 82 E1
+---FEED-SEPARATOR---
+Euroleague, Round 28
+Monaco Basket vs Kosner Baskonia
+Eutelsat 7A/7B/7C @ 7.0°E
+11106 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.99 Mbit/s
+ID: F489 BKUP
+CW: 28 D9 4A 4B 57 9A 5C 4D
 ---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 11633 V 4937
