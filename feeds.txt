@@ -15,6 +15,15 @@ Men's volleyball: PlusLiga - match: Barkom Każany Lviv - Aluron CMC Warta Zawie
 4.2.0- DVB-S2 - 8PSK
 🗝: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+Championship, Round 32
+Derby County vs Swansea City
+Eutelsat 7A/7B/7C @ 7.0°E
+11061 V 7120
+DVB-S2 | 8-PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 12.12 Mbit/s
+ID: EFL Derby v Swansea
+FTA
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3809 H 7119 C-Band
 ID: BT_SES_22_SDI 
@@ -89,6 +98,17 @@ CW: 12 07 2F 48 9E 6D E6 F1
 English FA Cup - 4th Round Proper
 Burton Albion v West Ham United
 ---FEED-SEPARATOR---
+English FA Cup - 4th Round Proper
+Liverpool vs. Brighton H.A.
+Intelsat 10-02 @ 1.0°W
+11085 - V - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: LFC FA Cup Reserve Main
+CW: 9D 60 56 53 44 EB 3D 6C
+---FEED-SEPARATOR---
 Hellas Sat 3/4 (39.0 E)
 12634 Vertical 7198,279 3/4
 DVB-S2/8PSK (4:2:2)
@@ -161,3 +181,10 @@ E-073 MAIN
 Provider: Overon 
 Greece Division A Women,Round 17 
 OFI Crete W - AEK Athens W (12:45)
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 21
+Levadiakos vs Olympiacos
+39e
+12620 V 7200
+ID: E394 MAIN
+CW: F7 82 9E 17 4A B5 5A 59
