@@ -23,6 +23,15 @@ Men's volleyball: PlusLiga - match: Barkom Każany Lviv - Aluron CMC Warta Zawie
 4.2.0- DVB-S2 - 8PSK
 🗝: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+28.2E
+12620 V 7120 
+4:2:2
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish League 1 - Week 25
+Hamilton Academical v Inverness CT
+---FEED-SEPARATOR---
 Championship, Round 32
 Derby County vs Swansea City
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -105,6 +114,16 @@ TNT MAIN PROG
 CW: 12 07 2F 48 9E 6D E6 F1
 English FA Cup - 4th Round Proper
 Burton Albion v West Ham United
+---FEED-SEPARATOR---
+28.2E
+12725 H 7500 
+4:2:0
+DVBS-2 8PSK
+ID 
+VILLA B-UP
+CW: AA 23 44 11 AB BB 1A 80
+English FA Cup - 4th Round Proper
+Aston Villa v Newcastle United
 ---FEED-SEPARATOR---
 English FA Cup - 4th Round Proper
 Liverpool vs. Brighton H.A.
@@ -192,6 +211,8 @@ Basket Zaragoza
 Joventut Badalona
 [/td]
 ---FEED-SEPARATOR---
+Liga ACB, Round 20
+Zaragoza vs Joventut Badalona
 Eutelsat 7A/7B/7C @ 7.0°E
 11089 V 7200
 DVB-S2 | 8PSK | 3/4
