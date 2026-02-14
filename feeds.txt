@@ -7,6 +7,17 @@ DVB-S2 | 8PSK | 5/6
 ID: AFD
 CW: CD 82 AB FA 52 A5 26 1D
 ---FEED-SEPARATOR---
+Inglaterra
+League One - Jornada 32
+Stevenage
+ VS 
+Huddersfield
+Eutelsat 7A/7B/7C @ 7.0E
+11071 V 7120
+ID:   Pitch-Stevenage v Huddersfield (NEP Connect)
+1920x1080 |14,100Mb/Sec 8PSK |4:2:0 HD
+59 41 6B 7F 87 62 6F 38  #CW:E3 56 B5 EE 53 23 56 CC  
+---FEED-SEPARATOR---
 1W
 11485 V 15000 
 4:2:0
@@ -26,6 +37,17 @@ TNT MAIN PROG
 CW: 12 07 2F 48 9E 6D E6 F1
 English FA Cup - 4th Round Proper
 Burton Albion v West Ham United
+---FEED-SEPARATOR---
+Turksat 2A-3A-4A @ 42.0E
+10986  Vertical  7501,823
+ID:  TUR 112 MAIN (MEDÄ°APRO TURKEY)
+1920x1080 |16,720Mb/Sec 8PSK |4:2:2 HD
+CW: E4 E1 CB 90 EB 99 14 98
+Buyukcekmece
+ vs 
+Tofas
+Turquía
+Super Lig - Jornada 20
 ---FEED-SEPARATOR---
 faisal6 said:
 7D A8 85 9D 37 6C 29 0C #CW D2 8C 9E FC 6D 4C 44 FD
