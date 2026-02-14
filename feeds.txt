@@ -7,6 +7,26 @@ DVB-S2 | 8PSK | 5/6
 ID: AFD
 CW: CD 82 AB FA 52 A5 26 1D
 ---FEED-SEPARATOR---
+1W
+11485 V 15000 
+4:2:0
+DVBS-2 8PSK
+ID 
+TNT PROG RESERVE
+CW: 12 07 2F 48 9E 6D E6 F1
+English FA Cup - 4th Round Proper
+Burton Albion v West Ham United
+---FEED-SEPARATOR---
+1W
+11467 V 15000 
+4:2:0
+DVBS-2 8PSK
+ID 
+TNT MAIN PROG
+CW: 12 07 2F 48 9E 6D E6 F1
+English FA Cup - 4th Round Proper
+Burton Albion v West Ham United
+---FEED-SEPARATOR---
 NBA Rising Stars Challenge, Semifinals
 Eutelsat 7A/7B/7C @ 7.0°E
 11106 V 7200
