@@ -15,6 +15,23 @@ Men's volleyball: PlusLiga - match: Barkom Każany Lviv - Aluron CMC Warta Zawie
 4.2.0- DVB-S2 - 8PSK
 🗝: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3798 H 7119 C-Band
+ID: BT_SES_24_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,29Mb/Sec |8PSK| 
+4:2:0
+HD
+Event: 
+England - 
+EFL League One (Matchday 32)
+Teams: Stevenage FC vs Huddersfield Town (FINISHED)
+Time / Kickoff: 19.30 JKT-TH / 20.30 MY-SG / 12.30 GMT / 13.30 CET
+faisal6 said:
+CW: E3 56 B5 EE 53 23 56 CC
+Click to expand...
+---FEED-SEPARATOR---
 1W
 10993 V 7200 
 4:2:0
@@ -55,6 +72,11 @@ TNT MAIN PROG
 CW: 12 07 2F 48 9E 6D E6 F1
 English FA Cup - 4th Round Proper
 Burton Albion v West Ham United
+---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0 E)
+12634 Vertical 7198,279 3/4
+DVB-S2/8PSK (4:2:2)
+GRC071 MYKONOS ARIS
 ---FEED-SEPARATOR---
 Turkish Basketball Super League, Round 20
 Büyükçekmece vs Tofaş
@@ -109,6 +131,11 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 9.32 Mbit/s
 ID: WSHT ENC 58
 CW: 5A 53 F1 9E 11 60 02 73
+---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0 E)
+12529 Horizontal 7198,266 3/4
+DVB-S2/8PSK (4:2:0)
+THESALIA B
 ---FEED-SEPARATOR---
 Hellas Sat 3/4 (39.0E)
 12702 H 7200
