@@ -7,6 +7,14 @@ DVB-S2 | 8PSK | 5/6
 ID: AFD
 CW: CD 82 AB FA 52 A5 26 1D
 ---FEED-SEPARATOR---
+42°E KU
+11460 V 6800
+DVB-S2|1080HD
+4.2.2|H264
+ID: TUR-M25-A
+Event: Sultanlar Ligi Women - Round 22  THY W v Galatasaray W
+CW: 65 28 00 8D 00 65 28 8D
+---FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12591 V  7200
 ID: (...)
@@ -167,6 +175,39 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 9.32 Mbit/s
 ID: WSHT ENC 58
 CW: 5A 53 F1 9E 11 60 02 73
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+11089 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.13 Mbit/s
+ID: Fi01 ACB
+CW: 28 D9 68 69 14 E1 CF C4
+Click to expand...
+Spain
+ACB
+[td]
+Basket Zaragoza
+[/td][td]
+Joventut Badalona
+[/td]
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11089 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.13 Mbit/s
+ID: Fi01 ACB
+CW: 28 D9 68 69 14 E1 CF C4
+---FEED-SEPARATOR---
+Bursaspor
+ vs 
+Beşiktaş
+Turkish Basketball Super League, Round 20
+Hot Bird 13B/13C/13E @ 13.0E
+11213  Vertical  7501,845
+ID:E333 M (mediapro turkiye)
+1920x1080 |16,720Mb/Sec 8PSK |4:2:2 HD
+22 C3 67 C9 4D 3F 48 D5  #CW:8E 43 ED BE DB A4 DB 5A   
 ---FEED-SEPARATOR---
 Hellas Sat 3/4 (39.0 E)
 12529 Horizontal 7198,266 3/4
