@@ -7,6 +7,15 @@ DVB-S2 | 8PSK | 5/6
 ID: AFD
 CW: CD 82 AB FA 52 A5 26 1D
 ---FEED-SEPARATOR---
+SuperLega, Round 20
+Lube vs Modena
+Eutelsat 7A/7B/7C @ 7.0°E
+11004 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.98 Mbit/s
+ID: Studioline Main
+CW: 39 A6 86 65 39 19 12 64
+---FEED-SEPARATOR---
 42°E KU
 11460 V 6800
 DVB-S2|1080HD
@@ -195,6 +204,13 @@ DVB-S2 | 8PSK | 3/4
 ID: WSHT ENC 58
 CW: 5A 53 F1 9E 11 60 02 73
 ---FEED-SEPARATOR---
+10.0°E
+11273 H 7200
+4:2:2
+ID: SELENIO 1
+CW: C6 D5 D7 72 D4 99 DA 47
+Italian Basket LBA
+---FEED-SEPARATOR---
 xFayez95 said:
 Eutelsat 7A/7B/7C @ 7.0°E
 11089 V 7200
@@ -243,6 +259,12 @@ E-073 MAIN
 Provider: Overon 
 Greece Division A Women,Round 17 
 OFI Crete W - AEK Athens W (12:45)
+---FEED-SEPARATOR---
+13.0°E
+11204 V 7200
+4:2:0
+ID: LEVA VS OSFP A
+CW: ED E2 CB 9A B8 71 AC D5
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 21
 Levadiakos vs Olympiacos
