@@ -25,24 +25,6 @@ CW: 8D 81 A9 B7 D2 F1 2F F2
 English FA Cup - 4th Round Proper
 Aston Villa v Newcastle United
 ---FEED-SEPARATOR---
-Both feeds are  
-4:2:0 
-working fine on viark/starsat/gt media
----FEED-SEPARATOR---
-archiesat said:
-			1W
-11485 V 15000 
-4:2:0
-DVBS-2 8PSK
-ID 
-TNT PROG RESERVE
-CW: 12 07 2F 48 9E 6D E6 F1
-English FA Cup - 4th Round Proper
-Burton Albion v West Ham United
-Click to expand...
-Change 
-4:2:2
----FEED-SEPARATOR---
 Inglaterra
 League One - Jornada 32
 Stevenage
@@ -127,3 +109,12 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 9.32 Mbit/s
 ID: WSHT ENC 58
 CW: 5A 53 F1 9E 11 60 02 73
+---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0E)
+12702 H 7200
+MPEG-4 FTA DVB-S2 8PSK,4:2:0
+ID: 
+E-073 MAIN
+Provider: Overon 
+Greece Division A Women,Round 17 
+OFI Crete W - AEK Athens W (12:45)
