@@ -124,6 +124,14 @@ CW: E1 3F 04 24 11 8D 3D DB
 English FA Cup - 4th Round Proper
 Birmingham City v Leeds United
 ---FEED-SEPARATOR---
+42E
+11587 V 7500
+4.2.2
+ID: TUR 161 Main
+Basketbol Süper Ligi
+Turk Telekom - Fenerbahce
+CW: F9 20 CD E6 6C A5 BC CD
+---FEED-SEPARATOR---
 Turkish Basketball Super League, Round 20
 Mersin vs Petkim Spor
 Eutelsat Hotbird 13B/13C/13G @ 13.0°E
