@@ -7,8 +7,6 @@ DVB-S2 | 8PSK | 3/4
 ID: VOLLEY_WORLD_MAIN
 CW: 9F 41 C8 A8 5B B2 D0 DD
 ---FEED-SEPARATOR---
-.
----FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12640 H 7200
 DVB-S2 | 8PSK | 3/4
@@ -135,6 +133,14 @@ CW: E1 3F 04 24 11 8D 3D DB
 English FA Cup - 4th Round Proper
 Birmingham City v Leeds United
 ---FEED-SEPARATOR---
+42E
+10976 V 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Pinar Karsiyaka - Galatasaray
+CW: 86 B3 E3 1C EB 71 AC 08
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 11094 Horizontal 4936,24 3/4
 DVB-S2/8PSK (4:2:0)
@@ -190,3 +196,14 @@ DVB-S2 | 8PSK | 3/4
  | 15.36 Mbit/s
 ID: TUR 112 MAIN
 CW: 91 20 73 24 48 7F 4E 15
+---FEED-SEPARATOR---
+Greek Super League 1
+PAOK 
+Vs
+AEK 
+13.0°E @ Hotbird 13F/13G 
+11204 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  SNG ABC 1 (*unnamed-1*)
+CW: 66 EF 0A 5F 38 30 3E A6
