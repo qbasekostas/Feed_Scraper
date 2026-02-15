@@ -142,6 +142,14 @@ CW: E1 3F 04 24 11 8D 3D DB
 English FA Cup - 4th Round Proper
 Birmingham City v Leeds United
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12508 Horizontal 4936,228 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-012MAIN
+AdmiralBet ABA League - Losers stage - Round 1
+FMP Beograd vs Mega Basket
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 omid1348 said:
 			Basketbol Süper Ligi
 Pinar Karsiyaka - Galatasaray
