@@ -8,6 +8,15 @@ ID: VOLLEY_WORLD_MAIN
 CW: 9F 41 C8 A8 5B B2 D0 DD
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
+12649 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.05 Mbit/s
+ID: Encoder 2
+SPL: Rangers vs Kilmarnock - 
+This  Feed was posted Late After First Half had Ended....
+CW: 5C FF DB 36 A1 31 55 27
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
 12640 H 7200
 DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
@@ -132,6 +141,31 @@ No name
 CW: E1 3F 04 24 11 8D 3D DB
 English FA Cup - 4th Round Proper
 Birmingham City v Leeds United
+---FEED-SEPARATOR---
+omid1348 said:
+			Basketbol Süper Ligi
+Pinar Karsiyaka - Galatasaray
+CW: 86 B3 E3 1C EB 71 AC 08
+Click to expand...
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10820 V 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 15.54 Mbit/s
+ID: E333 M
+CW: 86 B3 E3 1C EB 71 AC 08
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11089 V 7201
+ID: Fi01 ACB (CM5000)
+1920x1080 |15,680Mb/Sec 8PSK |4:2:0 HD
+España
+Liga Endesa - Jornada 20
+Unicaja
+ v s  
+Real Madrid
+3A 82 6B 9C 9A EF 54 4B  #CW:AA BD 22 89 60 1E 83 01 
 ---FEED-SEPARATOR---
 42E
 10976 V 7500
