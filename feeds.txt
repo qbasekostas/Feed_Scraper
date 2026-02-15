@@ -1,3 +1,11 @@
+Eutelsat 7A/7B/7C @ 7.0°E
+12640 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
+ID: GC Enc 08
+SPL: Kilmarnock vs. Celtic
+CW: FC 11 CD DA BA EE 12 BA
+---FEED-SEPARATOR---
 28.2E
 12724 H 7200 
 4:2:0
