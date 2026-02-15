@@ -1,0 +1,36 @@
+Asiasat 5 @ 100.5°E
+3984 V 7119 C-Band
+ID: BT_SES_22_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,39Mb/Sec |8PSK| 
+4:2:0
+HD
+Event: 
+England - 
+EFL Championship
+Title: 
+EFL International Show 28
+Time / Kickoff: 16.00 JKT-TH / 17.00 MY-SG / 09.00 GMT / 10.00 CET
+OLD
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+28.2E
+12524 H 7200 
+4:2:0
+DVBS-2 8PSK
+ID 
+No name
+CW: E1 3F 04 24 11 8D 3D DB
+English FA Cup - 4th Round Proper
+Birmingham City v Leeds United
+---FEED-SEPARATOR---
+28.2E
+12510 H 15000 
+4:2:2
+DVBS-2 8PSK
+ID 
+No name
+CW: E1 3F 04 24 11 8D 3D DB
+English FA Cup - 4th Round Proper
+Birmingham City v Leeds United
