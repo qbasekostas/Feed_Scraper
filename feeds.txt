@@ -1,3 +1,13 @@
+28.2E
+12724 H 7200 
+4:2:0
+DVBS-2 8PSK
+ID 
+No name
+CW: 5C 92 B5 A3 AA 7B A0 C5
+English FA Cup - 4th Round Proper
+Arsenal v Wigan Athletic
+---FEED-SEPARATOR---
 barney115 said:
 			1W
 11468 V 15000 DVB-S2 8PSK
@@ -105,6 +115,26 @@ No name
 CW: E1 3F 04 24 11 8D 3D DB
 English FA Cup - 4th Round Proper
 Birmingham City v Leeds United
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 20
+Mersin vs Petkim Spor
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10829 V 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 15.67 Mbit/s
+ID: TUR156 Main
+CW: DA 52 93 BF 8F 73 9F A1
+---FEED-SEPARATOR---
+28.2E
+12574 V 9600 
+4:2:0
+DVBS-2 8PSK
+ID Main E-351
+CW: 34 56 D1 5B 25 69 BC 4A
+Liga Endesa
+MorraBanc Andorra v Valencia Basket
 ---FEED-SEPARATOR---
 42E
 10976 V 7500
