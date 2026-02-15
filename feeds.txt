@@ -1,3 +1,19 @@
+7E
+11023 H 7200 DVB-S2 8PSK
+MPEG 4 - 4:2;0 - HDTV
+ID: Pitch EFL Incomplete Highlights
+Event: 
+Clean Feed : FA CUP Highlights 
+CW: 45 AB DD CD BE 15 02 D5
+---FEED-SEPARATOR---
+7E
+11013 H 7200 DVB-S2 8PSK
+MPEG 4 - 4:2;0 - HDTV
+ID: Pitch EFL Highlights
+Event: 
+EFL Highlights
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3984 V 7119 C-Band
 ID: BT_SES_22_SDI 
