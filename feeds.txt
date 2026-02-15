@@ -72,3 +72,22 @@ No name
 CW: E1 3F 04 24 11 8D 3D DB
 English FA Cup - 4th Round Proper
 Birmingham City v Leeds United
+---FEED-SEPARATOR---
+42E
+10976 V 7500
+4.2.2
+ID: TUR 112 MAIN
+Basketbol Süper Ligi
+Anadolu Efes - Trabzonspor
+CW: 91 20 73 24 48 7F 4E 15
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 20
+Anadolu Efes vs Trabzonspor
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10821 V 7500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 15.36 Mbit/s
+ID: TUR 112 MAIN
+CW: 91 20 73 24 48 7F 4E 15
