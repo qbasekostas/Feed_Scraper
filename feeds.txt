@@ -1,3 +1,12 @@
+Liga Profesional de Fútbol, Apertura, Round 5
+Gimnasia vs Estudiantes
+Eutelsat 7A/7B/7C @ 7.0°E
+11460 V 7500
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 16.87 Mbit/s
+ID: LFL 21
+CW: CD 82 AB FA 52 A5 26 1D
+---FEED-SEPARATOR---
 Serie A1, Women, Round 25
 Vallefoglia vs Pinerolo
 Eutelsat 7A/7B/7C @ 7.0°E
