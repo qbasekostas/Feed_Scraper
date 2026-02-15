@@ -1,3 +1,24 @@
+barney115 said:
+			1W
+11468 V 15000 DVB-S2 8PSK
+MPEG 4 - 
+4:2:2
+ - HDTV
+ID: Empty
+Event: Possible FA Cup Feed ??
+D0 29 2E 56 28 74 44 56  #CW: 
+09 EA 17 0A 4D 7C 18 E1  
+Click to expand...
+1W
+11087 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID 
+No name
+CW: 09 EA 17 0A 4D 7C 18 E1
+English FA Cup - 4th Round Proper
+ Stoke City v Fulham
+---FEED-SEPARATOR---
 1W
 11496 V 15000 
 4:2:2
@@ -8,6 +29,18 @@ EVENT:
 FA CUP 4th Round 
 Oxford United vs Sunderland A.F.C
 CW: BD 84 34 75 D2 A5 D5 4C
+---FEED-SEPARATOR---
+1W
+11468 V 15000 DVB-S2 8PSK
+MPEG 4 - 
+4:2:2
+ - HDTV
+ID: Empty
+Event: 
+English FA Cup - 4th Round Proper
+Stoke City v Fulham
+D0 29 2E 56 28 74 44 56  #CW: 
+09 EA 17 0A 4D 7C 18 E1  
 ---FEED-SEPARATOR---
 1W
 11482 V 7200 
