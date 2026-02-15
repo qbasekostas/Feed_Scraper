@@ -142,6 +142,27 @@ CW: E1 3F 04 24 11 8D 3D DB
 English FA Cup - 4th Round Proper
 Birmingham City v Leeds United
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11097 - V - 7200
+DVB-S2 | 8PSK |
+ 4:2:0
+ |
+ID: WSHT ENC 61
+Event:
+ALL-STAR 2026
+CW: AE F1 88 27 96 A4 54 8E
+---FEED-SEPARATOR---
+Lega A Basket, Round 20
+Cremona vs EA7 Milano
+Eutelsat 10A @ 10.0°E
+11265 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 14.08 Mbit/s
+ID: SELENIO 3
+CW: 9D 66 C6 C9 2B 4E B3 2C
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0 E)
 12508 Horizontal 4936,228 3/4
 DVB-S2/8PSK (4:2:0)
@@ -238,6 +259,15 @@ DVB-S2 | 8PSK | 3/4
  | 15.36 Mbit/s
 ID: TUR 112 MAIN
 CW: 91 20 73 24 48 7F 4E 15
+---FEED-SEPARATOR---
+Stoiximan Super League, Round 21
+Panathinaikos FC vs AEL Novibet
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+10839 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.04 Mbit/s
+ID: PAO VS AEL A
+CW: ED 2F C2 DE C6 76 A5 E1
 ---FEED-SEPARATOR---
 Greek Super League 1
 PAOK 
