@@ -5,3 +5,32 @@ Eutelsat 7E
 11460 V 7500
 LFL 21
 CW: CD 82 AB FA 52 A5 26 1D
+---FEED-SEPARATOR---
+28.2E
+12642 H 7200 
+4:2:0
+DVBS-2 8PSK
+ID 
+No name
+CW: D6 AD 7A FD 01 73 16 8A
+English FA Cup Draw
+---FEED-SEPARATOR---
+28.2E
+12510 H 15000 
+4:2:2
+DVBS-2 8PSK
+ID 
+MACCLESFIELD
+CW: D6 AD 7A FD 01 73 16 8A
+English FA Cup - 4th Round Proper
+Macclesfield FC v Brentford
+---FEED-SEPARATOR---
+28.2E
+12524 H 7200 
+4:2:2
+DVBS-2 8PSK
+ID 
+No name
+CW: D6 AD 7A FD 01 73 16 8A
+English FA Cup - 4th Round Proper
+Macclesfield FC v Brentford
