@@ -42,3 +42,9 @@ No name
 CW: D6 AD 7A FD 01 73 16 8A
 English FA Cup - 4th Round Proper
 Macclesfield FC v Brentford
+---FEED-SEPARATOR---
+Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)     
+Frequency: 12534 - Pol: V - SR: 4800 
+Category: Sport - Basketball
+Transmitted in: MPEG-4
+ Cluj Napoca-Dinamo Bucarest
