@@ -6,6 +6,15 @@ Eutelsat 7E
 LFL 21
 CW: CD 82 AB FA 52 A5 26 1D
 ---FEED-SEPARATOR---
+ABS-3A 3W
+10996 V 10000 
+4:2:0
+DVBS-2 8PSK
+ID: Coventry City v Middlesbrough Enc 1
+CW: A6 C4 15 7F 3C 3D 24 9D
+English FA Cup - 4th Round Proper
+Coventry City v Middlesbrough
+---FEED-SEPARATOR---
 16E
 12647 V 7200
 12656 V 7200
