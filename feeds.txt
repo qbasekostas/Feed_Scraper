@@ -6,6 +6,22 @@ Eutelsat 7E
 LFL 21
 CW: CD 82 AB FA 52 A5 26 1D
 ---FEED-SEPARATOR---
+poland volley key please now live feed
+It is Handball polish
+7e
+12594 v 7200
+id
+ol_058_t2
+key:2026A9EF97ABDA1C
+---FEED-SEPARATOR---
+7e
+10996 H 7120
+4:2:0
+ID:  
+Pitch - EFL - Coventry v Middlesbrough
+Championship 
+Coventry City v Middlesbrough
+---FEED-SEPARATOR---
 FA CUP - Live Draw Show
 Eutelsat 7A/7B/7C @ 7.0°E
 11004 H 7120
@@ -23,6 +39,7 @@ CW: A6 C4 15 7F 3C 3D 24 9D
 English Championship - Week 32
 Coventry City v Middlesbrough
 ---FEED-SEPARATOR---
+Macclesfield FC v Brentford
 16E
 12647 V 7200
 12656 V 7200
@@ -59,6 +76,16 @@ No name
 CW: D6 AD 7A FD 01 73 16 8A
 English FA Cup - 4th Round Proper
 Macclesfield FC v Brentford
+---FEED-SEPARATOR---
+100.5e
+3985 V 7120
+4:2:0
+ID:
+ BT_SES_24_SDI
+Championship 
+Coventry City v Middlesbrough
+52 80 83 A6 59 86 3E E1  #CW: 
+23 28 92 DD 10 DD 12 FF
 ---FEED-SEPARATOR---
 Eutelsat 7B - 7C (7.0°E)     
 Frequency: 11607 - Pol: V - SR: 7200
