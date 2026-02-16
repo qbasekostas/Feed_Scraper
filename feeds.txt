@@ -6,13 +6,21 @@ Eutelsat 7E
 LFL 21
 CW: CD 82 AB FA 52 A5 26 1D
 ---FEED-SEPARATOR---
+FA CUP - Live Draw Show
+Eutelsat 7A/7B/7C @ 7.0°E
+11004 H 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 12.89 Mbit/s
+ID: Pitch FA CUP - Live Draw Show
+CW: 45 AB DD CD BE 16 02 D6
+---FEED-SEPARATOR---
 ABS-3A 3W
 10996 V 10000 
 4:2:0
 DVBS-2 8PSK
 ID: Coventry City v Middlesbrough Enc 1
 CW: A6 C4 15 7F 3C 3D 24 9D
-English FA Cup - 4th Round Proper
+English Championship - Week 32
 Coventry City v Middlesbrough
 ---FEED-SEPARATOR---
 16E
@@ -51,6 +59,12 @@ No name
 CW: D6 AD 7A FD 01 73 16 8A
 English FA Cup - 4th Round Proper
 Macclesfield FC v Brentford
+---FEED-SEPARATOR---
+Eutelsat 7B - 7C (7.0°E)     
+Frequency: 11607 - Pol: V - SR: 7200
+Category: Sport - Football
+Transmitted in: MPEG-4
+About Benfica-Real Madrid
 ---FEED-SEPARATOR---
 Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)     
 Frequency: 12534 - Pol: V - SR: 4800 
