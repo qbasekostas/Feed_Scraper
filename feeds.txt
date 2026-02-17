@@ -26,6 +26,17 @@ Teams : Palmberg Schwerin W
  Zeren Spor W
 CW: B8 AD 53 B8 24 F2 84 9A
 ---FEED-SEPARATOR---
+Satfun2017 said:
+English League One 
+Blackpool Vs Mansfield Town
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11061 H 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.02 Mbit/s
+ID: Pitch - EFL - Blackpool v Mansfield
+CW: 37 19 AD FD 23 52 67 DC
+---FEED-SEPARATOR---
 English League One 
 Blackpool Vs Mansfield Town
 100.5°E C
