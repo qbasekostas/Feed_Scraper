@@ -26,6 +26,25 @@ Teams : Palmberg Schwerin W
  Zeren Spor W
 CW: B8 AD 53 B8 24 F2 84 9A
 ---FEED-SEPARATOR---
+English League One 
+Blackpool Vs Mansfield Town
+100.5°E C
+@ AsiaSat 5
+3984 V 7118
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 37 19 AD FD 23 52 67 DC
+---FEED-SEPARATOR---
+UEFA Champions League
+Benfica vs Real Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+11606 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.22 Mbit/s
+ID: E-073 MAIN
+CW: BA BA 6A DE 1A A6 53 13
+---FEED-SEPARATOR---
 UEFA Champions League, Knockout stage, Playoff round
 Eutelsat 7A/7B/7C @ 7.0°E
 10997 H 9875
@@ -45,3 +64,10 @@ DVB-S2 | AUTO
  | 10.37 Mbit/s
 ID: E386 M4 FEED B2
 CW: 1F FF 9A B8 2F F0 AE CD
+---FEED-SEPARATOR---
+Türksat 3A @ 42.0°E
+Fréq:10983 - V - 7500
+MPEG 4 - 4:2:2 - DVB-S2
+ID:  SNG 4 MAIN
+Esenler Erokspor Fenerbahçe
+CW: 78 55 24 F1 95 AA FF 3E
