@@ -1,3 +1,30 @@
+10e
+10723 V 15000
+422
+OCC 2  (Service Provider)
+24 A3 CB 92 55 DC BB EC  
+---FEED-SEPARATOR---
+Satfun2017 said:
+CONMEBOL Copa Libertadores - 1st Leg Qualification
+Carabobo Vs Huachipato
+CW: CB 67 FF 31 CD 2D E3 DD
+Click to expand...
++
+10e
+10723 V 15000
+422
+OCC 1  (Service Provider)
+---FEED-SEPARATOR---
+CONMEBOL Copa Libertadores - 1st Leg Qualification
+Carabobo Vs Huachipato
+47.5°W C @ 
+SES 14 
+4123 V 9999
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: CAR vs HUA SPA (ENCOMPASS BA)
+CW: CB 67 FF 31 CD 2D E3 DD
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
 12655  Vertical  9699,832
 ID:      AVP_OU_A (OTE)
