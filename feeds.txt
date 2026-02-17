@@ -1,0 +1,9 @@
+UEFA Champions League, Knockout stage, Playoff round
+Eutelsat 7A/7B/7C @ 7.0°E
+11025 H 4830
+DVB-S2 | AUTO
+1920x1080 | H.265/HEVC Video | 
+4:2:2
+ | 10.37 Mbit/s
+ID: E386 M4 FEED B2
+CW: 1F FF 9A B8 2F F0 AE CD
