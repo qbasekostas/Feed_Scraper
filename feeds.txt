@@ -1,3 +1,21 @@
+Eutelsat 16A @ 16.0E
+12655  Vertical  9699,832
+ID:      AVP_OU_A (OTE)
+1920x1080 |21,619Mb/Sec 8PSK |4:2:2 HD
+PAOK
+ VS 
+Lindemans Aalst
+Challenge Cup
+CW: BB 12 21 EE DF AA 12 9B
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+11062  Horizontal  9699,708
+ID:OTE 1 (OTE)
+1920x1080 |21,619Mb/Sec 8PSK |4:2:2 HD
+Challenge Cup
+EUROPA:
+CW: BA 11 21 EC DF AA 22 AB
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 12676 H 7200
@@ -7,6 +25,16 @@ Event: Europe Champions League Women - Play Offs - 1/8-finals
 Teams : Palmberg Schwerin W 
  Zeren Spor W
 CW: B8 AD 53 B8 24 F2 84 9A
+---FEED-SEPARATOR---
+UEFA Champions League, Knockout stage, Playoff round
+Eutelsat 7A/7B/7C @ 7.0°E
+10997 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.92 Mbit/s
+ID: GVA_Fi01
+CW: 1F FF 9A B8 2F F0 AE CD
 ---FEED-SEPARATOR---
 UEFA Champions League, Knockout stage, Playoff round
 Eutelsat 7A/7B/7C @ 7.0°E
