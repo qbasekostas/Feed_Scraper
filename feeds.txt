@@ -1,3 +1,13 @@
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12676 H 7200
+   D-312 (.)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+Event: Europe Champions League Women - Play Offs - 1/8-finals
+Teams : Palmberg Schwerin W 
+ Zeren Spor W
+CW: B8 AD 53 B8 24 F2 84 9A
+---FEED-SEPARATOR---
 UEFA Champions League, Knockout stage, Playoff round
 Eutelsat 7A/7B/7C @ 7.0°E
 11025 H 4830
