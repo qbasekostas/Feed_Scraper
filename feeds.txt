@@ -223,24 +223,14 @@ Eutelsat 3°E
 ID: UEFA
 CW: 5D 91 8C 7A 9D EA 58 DF
 ---FEED-SEPARATOR---
-Abo Saeid Satellite said:
 Event: UEFA Champions League, Knockout stage, Playoff round
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 10997 H 9875
     GVA_Fi01 (EUROVISION SA)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
-0A 93 AC 19 F7 42 C0 4F 
-CW: 1F FF 9A B8 2F F0 AE CD
-Click to expand...
+MPEG4-
 4:2:2
----FEED-SEPARATOR---
-Event: UEFA Champions League, Knockout stage, Playoff round
-Eutelsat 7A/7B/7C @ 7.0°E
- ( KU-BAND )
-10997 H 9875
-    GVA_Fi01 (EUROVISION SA)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+ HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 0A 93 AC 19 F7 42 C0 4F 
 CW: 1F FF 9A B8 2F F0 AE CD
 ---FEED-SEPARATOR---
