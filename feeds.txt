@@ -216,6 +216,13 @@ DVB-S2 | 8PSK | 3/4
 ID: E 413 MATCH 1 MAIN
 CW: 3F B7 EA E0 03 92 E5 7A
 ---FEED-SEPARATOR---
+UEFA Champions League Knockout Stage Play-Offs
+Olympiacos VS Leverkusen 
+Eutelsat 3°E
+3798 V/H 7200
+ID: UEFA
+CW: 5D 91 8C 7A 9D EA 58 DF
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event: UEFA Champions League, Knockout stage, Playoff round
 Eutelsat 7A/7B/7C @ 7.0°E
