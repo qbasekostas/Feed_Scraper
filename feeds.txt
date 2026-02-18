@@ -10,6 +10,22 @@ CW: 24 A3 CB 92 55 DC BB EC​
 [/USER] 
 ​
 ---FEED-SEPARATOR---
+Champions League
+Eutelsat 7A/7B/7C @ 7.0°E
+11457 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
+ID: Medialink CRO-021/1
+CW: E4 4F FB 2E AD 02 18 C7
+---FEED-SEPARATOR---
+Champions League
+Eutelsat 7A/7B/7C @ 7.0°E
+12593 V 7200
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.52 Mbit/s
+ID: Unname
+CW: 20 26 DC 22 BA 18 02 D4
+---FEED-SEPARATOR---
 Champions League, Pool E, Round 6
 Lube vs Projekt Warszawa
 Eutelsat 7A/7B/7C @ 7.0°E
