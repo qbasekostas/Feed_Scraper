@@ -10,6 +10,15 @@ CW: 24 A3 CB 92 55 DC BB EC​
 [/USER] 
 ​
 ---FEED-SEPARATOR---
+Champions League, Pool E, Round 6
+Lube vs Projekt Warszawa
+Eutelsat 7A/7B/7C @ 7.0°E
+11172 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.38 Mbit/s
+ID: TVF
+CW: 87 AB 2B 5D 74 28 8F 2B
+---FEED-SEPARATOR---
 UEFA Champions League, Women
 Arsenal vs OH Leuven
 Eutelsat 7A/7B/7C @ 7.0°E
