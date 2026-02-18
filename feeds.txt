@@ -1,3 +1,30 @@
+Dani Sat said:
+CONMEBOL Copa Libertadores - 1st Leg Qualification
+O'Higgins vs. Bahia
+Eutelsat 10B @ 10.0°E
+10723 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OCC 1
+CW: 23 AD FC CC B6 44 DD D
+Click to expand...
+ASIASAT 5 100.5E
+3840 H 30000
+ID OCC1
+---FEED-SEPARATOR---
+CONMEBOL Copa Libertadores - 1st Leg Qualification
+O'Higgins vs. Bahia
+Eutelsat 10B @ 10.0°E
+10723 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OCC 1
+CW: 23 AD FC CC B6 44 DD D7
+---FEED-SEPARATOR---
 47W SES14
 4135H10000
 ID: 2MA VS SPO SPA
@@ -10,7 +37,8 @@ CW: 24 A3 CB 92 55 DC BB EC​
 [/USER] 
 ​
 ---FEED-SEPARATOR---
-Champions League
+Champions League, Pool B, Round 6
+Roeselare vs Halkbank
 Eutelsat 7A/7B/7C @ 7.0°E
 11145 H 7200
 DVB-S2 | 8PSK | 3/4
@@ -75,6 +103,15 @@ DVB-S2 | 8PSK | 3/4
 ID: TVF
 CW: 87 AB 2B 5D 74 28 8F 2B
 ---FEED-SEPARATOR---
+Champions League Women, Playoffs, Playoff round
+Novara vs Scandicci 
+Eutelsat 7A/7B/7C @ 7.0°E
+12678 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.79 Mbit/s
+ID: ITA864 A
+CW: 34 A2 FC D2 73 D8 EC 37
+---FEED-SEPARATOR---
 Champions League, Pool D, Round 6
 Sporting CP vs Resovia
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -84,6 +121,31 @@ DVB-S2 | 8PSK | 3/4
 ID: E-289
 CW: 18 02 AA C4 BB 20 16 F1
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11069 H 7199
+DVB-S2 | 8PSK 
+1920x1080
+ID: IMG A EU
+CW: 73 8A EC E9 FF 12 0A 1B
+EVENT: PL : WOLVES V ARSENAL
+---FEED-SEPARATOR---
+16E
+12548 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: No name
+UEFA Champions League - Knockout Phase (1st Leg)
+Club Brugge v Atlético Madrid
+---FEED-SEPARATOR---
+UEFA Champions League, Women
+Arsenal vs OH Leuven
+Eutelsat 7A/7B/7C @ 7.0°E
+12695 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.20 Mbit/s
+ID: ENC 2
+CW: A9 BA 11 74 BA BE 74 EC
+---FEED-SEPARATOR---
 UEFA Champions League, Women
 Real Madrid vs Paris FC
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -92,6 +154,14 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.22 Mbit/s
 ID: ENC 4
 CW: BB 32 88 75 A5 49 AE 9C
+---FEED-SEPARATOR---
+UEFA Europa League/UEFA Conference League (Tommorow)
+Eutelsat 16A @ 16.0°E
+12558 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.99 Mbit/s
+ID: DECBC Cologne
+CW: AE CF 43 C0 21 FC EA 07
 ---FEED-SEPARATOR---
 UEFA Champions League, Women
 Arsenal vs OH Leuven
@@ -114,3 +184,14 @@ DVB-S2 | 8PSK | 3/4
  | 21.01 Mbit/s
 ID: E 413 MATCH 1 MAIN
 CW: 3F B7 EA E0 03 92 E5 7A
+---FEED-SEPARATOR---
+Final Eight, Quarterfinals
+Brescia vs Udine
+Eutelsat 10A @ 10.0°E
+10721 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 14.09 Mbit/s
+ID: SELENIO 1
+CW: 8B 92 F9 16 54 8D 43 24
