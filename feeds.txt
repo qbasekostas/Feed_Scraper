@@ -12,13 +12,53 @@ CW: 24 A3 CB 92 55 DC BB EC​
 ---FEED-SEPARATOR---
 Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
-11457 H 7200
+11145 H 7200
 DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
-ID: Medialink CRO-021/1
-CW: E4 4F FB 2E AD 02 18 C7
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.93 Mbit/s
+ID: Studioline Main
+CW: 42 93 AE 83 CF FE 7F 4C
 ---FEED-SEPARATOR---
-Champions League
+Event: Europe Champions League - Round 6
+Teams : Haasrode Leuven 
+ Montpellier
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11126 H 7200
+ D-312 (.)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+F7 91 F3 D2 9B C9 B6 21 
+CW: A4 A2 AC F2 D5 E4 CD 86
+---FEED-SEPARATOR---
+Event: Europe Champions League - Round 6
+Teams : Trentino 
+ Ziraat Bankasi
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11135 H 7200
+  ITA360_1 (VIDEOSYSTEM.TV)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: 37 3E D5 4A B8 5F 6F 86
+---FEED-SEPARATOR---
+Champions League, Pool A, Round 6
+Tours VB vs ACH Volley
+Eutelsat 7A/7B/7C @ 7.0°E
+11154 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.82 Mbit/s
+ID: ITA 631 M
+CW: 63 63 79 3F 9B EE 26 AF
+---FEED-SEPARATOR---
+Champions League, Pool C, Round 6
+Berlin RV vs Perugia
+Eutelsat 7A/7B/7C @ 7.0°E
+11163 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.00 Mbit/s
+ID: UKI 484 M
+CW: BF B6 D4 49 DA 75 E2 31
+---FEED-SEPARATOR---
+Champions League, Pool D, Round 6
+Aluron Warta  vs SVG Lüneburg
 Eutelsat 7A/7B/7C @ 7.0°E
 12593 V 7200
 DVB-S2 | 8PSK | 2/3
@@ -34,6 +74,24 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 14.38 Mbit/s
 ID: TVF
 CW: 87 AB 2B 5D 74 28 8F 2B
+---FEED-SEPARATOR---
+Champions League, Pool D, Round 6
+Sporting CP vs Resovia
+Eutelsat 7A/7B/7C @ 7.0°E
+11606 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.19 Mbit/s
+ID: E-289
+CW: 18 02 AA C4 BB 20 16 F1
+---FEED-SEPARATOR---
+UEFA Champions League, Women
+Real Madrid vs Paris FC
+Eutelsat 7A/7B/7C @ 7.0°E
+12686 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.22 Mbit/s
+ID: ENC 4
+CW: BB 32 88 75 A5 49 AE 9C
 ---FEED-SEPARATOR---
 UEFA Champions League, Women
 Arsenal vs OH Leuven
