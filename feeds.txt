@@ -11,6 +11,17 @@ CW: 24 A3 CB 92 55 DC BB EC​
 ​
 ---FEED-SEPARATOR---
 UEFA Champions League, Women
+Arsenal vs OH Leuven
+Eutelsat 7A/7B/7C @ 7.0°E
+11104 V 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 20.91 Mbit/s
+ID: UKI 1457 UWCL M2 B/Up
+CW: E1 5B 32 6E F2 C8 EE A8
+---FEED-SEPARATOR---
+UEFA Champions League, Women
 Real Madrid vs Paris FC
 Eutelsat 7A/7B/7C @ 7.0°E
 11093 V 9875
