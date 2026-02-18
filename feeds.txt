@@ -103,6 +103,16 @@ DVB-S2 | 8PSK | 3/4
 ID: TVF
 CW: 87 AB 2B 5D 74 28 8F 2B
 ---FEED-SEPARATOR---
+Event:Europe Champions League - Round 6
+Teams : Lublin 
+ Galatasaray
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12601 V 7200
+  POL 058_T1 (POLSAT)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 20 26 A9 EF 97 1A CA 7B
+---FEED-SEPARATOR---
 Champions League Women, Playoffs, Playoff round
 Novara vs Scandicci 
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -120,6 +130,17 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 15.19 Mbit/s
 ID: E-289
 CW: 18 02 AA C4 BB 20 16 F1
+---FEED-SEPARATOR---
+Scottish Cup, Round 5
+Aberdeen vs Motherwell 
+Eutelsat 7A/7B/7C @ 7.0°E
+12736 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 15.06 Mbit/s
+ID: ENC 1
+CW: BC AA 45 AB 56 BB CA DB
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 11069 H 7199
@@ -199,22 +220,30 @@ Abo Saeid Satellite said:
 Event: UEFA Champions League, Knockout stage, Playoff round
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
-10997 H 7200
+10997 H 9875
     GVA_Fi01 (EUROVISION SA)
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 0A 93 AC 19 F7 42 C0 4F 
 CW: 1F FF 9A B8 2F F0 AE CD
 Click to expand...
-SR 9874
+4:2:2
 ---FEED-SEPARATOR---
 Event: UEFA Champions League, Knockout stage, Playoff round
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
-10997 H 7200
+10997 H 9875
     GVA_Fi01 (EUROVISION SA)
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
 0A 93 AC 19 F7 42 C0 4F 
 CW: 1F FF 9A B8 2F F0 AE CD
+---FEED-SEPARATOR---
+EUTELSAT 07 East
+12627V SR 4938
+ID: YSM-013M
+CW: AB BA 20 85 25 20 26 6B
+STANDARD ARENASPORT CW
+BAKETBALL SERBIAN CUP
+CRVENA ZVEZDA vs BORAC CACAK
 ---FEED-SEPARATOR---
 Final Eight, Quarterfinals
 Brescia vs Udine
