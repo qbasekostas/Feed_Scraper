@@ -9,3 +9,14 @@ CW: 24 A3 CB 92 55 DC BB EC​
 @xFayez95
 [/USER] 
 ​
+---FEED-SEPARATOR---
+UEFA Champions League, Women
+Real Madrid vs Paris FC
+Eutelsat 7A/7B/7C @ 7.0°E
+11093 V 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 21.01 Mbit/s
+ID: E 413 MATCH 1 MAIN
+CW: 3F B7 EA E0 03 92 E5 7A
