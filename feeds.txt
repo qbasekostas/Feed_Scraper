@@ -137,6 +137,16 @@ ID: No name
 UEFA Champions League - Knockout Phase (1st Leg)
 Club Brugge v Atlético Madrid
 ---FEED-SEPARATOR---
+Event:Europe Champions League - Play Offs - 1/16-finals
+Teams : Club Brugge KV 
+ Atl. Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11523 V 7200
+     E412 Main (OVERON)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: CC CC 1B B3 1A AC 53 19
+---FEED-SEPARATOR---
 UEFA Champions League, Women
 Arsenal vs OH Leuven
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -184,6 +194,27 @@ DVB-S2 | 8PSK | 3/4
  | 21.01 Mbit/s
 ID: E 413 MATCH 1 MAIN
 CW: 3F B7 EA E0 03 92 E5 7A
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event: UEFA Champions League, Knockout stage, Playoff round
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10997 H 7200
+    GVA_Fi01 (EUROVISION SA)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+0A 93 AC 19 F7 42 C0 4F 
+CW: 1F FF 9A B8 2F F0 AE CD
+Click to expand...
+SR 9874
+---FEED-SEPARATOR---
+Event: UEFA Champions League, Knockout stage, Playoff round
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10997 H 7200
+    GVA_Fi01 (EUROVISION SA)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+0A 93 AC 19 F7 42 C0 4F 
+CW: 1F FF 9A B8 2F F0 AE CD
 ---FEED-SEPARATOR---
 Final Eight, Quarterfinals
 Brescia vs Udine
