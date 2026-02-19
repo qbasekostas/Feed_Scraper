@@ -1,3 +1,23 @@
+CONMEBOL Libertadores, Qualification, Qualification round 2
+Juventud vs Guaraní
+Eutelsat 10A @ 10.0°E
+10722 V 15000
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 13.83 Mbit/s
+ID: OCC 1 
+CW: AD BB 67 CF FC CE 32 FC
+Deportivo Táchira vs Tolima
+Eutelsat 10A @ 10.0°E
+10722 V 15000
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 13.78 Mbit/s
+ID: OCC 2
+CW: FB 67 88 EA AD 3D AE 98
+---FEED-SEPARATOR---
 ASIASAT 100.5E
 3840 H 30000 ID OCC1
 A2 97 7C 9D 17 36 1D 32  CW: AD BB 67 CF FC CE 32 FC   
