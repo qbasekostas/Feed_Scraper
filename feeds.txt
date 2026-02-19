@@ -6,19 +6,22 @@ CONMEBOL COPA LIBERTADORES
 BARCELONA VS ARGENTINOS JUNIORS 
 CW: DE34AABC22CB6653
 ---FEED-SEPARATOR---
-faisal6 said:
-Eutelsat 7A/7B/7C @ 7.0E
-11010  Vertical  9874,854
-ID:Man U Feed A Main (*unnamed-1*)
-1920x1080 |22,009Mb/Sec 8PSK
- |4:2:2 HD
- Event: Europa League - Play Offs  Celtic
- vs 
-Stuttgart
-CW: B3 73 5C 82 90 C0 FD 4D
-Click to expand...
-UEFA Champions League, Women, Knockout stage, Round of 16 
-Manchester United v Atlético Madrid
+Eutelsat 16A   ( 16.0E )
+12654 Vertical 9697,961
+DVB-S2 - 4:2:0 - QPSK-S2
+ID:  SNG ABC 1
+Event:       
+Challenge Cup Women, Panathinaikos - Panionios 
+CW: 98 76 AA B8 BB 12 34 01
+---FEED-SEPARATOR---
+1W
+11500 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: TNT VISION 3
+CW: B4 73 C7 EE 97 94 55 80
+UEFA Europa League - Knockout Phase (1st Leg)
+Celtic v Stuttgart
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 11010  Vertical  9874,854
