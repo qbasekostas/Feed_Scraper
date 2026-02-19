@@ -6,6 +6,26 @@ CONMEBOL COPA LIBERTADORES
 BARCELONA VS ARGENTINOS JUNIORS 
 CW: DE34AABC22CB6653
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11010  Vertical  9874,854
+ID:Man U Feed A Main (*unnamed-1*)
+1920x1080 |22,009Mb/Sec 8PSK
+ |4:2:2 HD
+ Event: Europa League - Play Offs  Celtic
+ vs 
+Stuttgart
+CW: B3 73 5C 82 90 C0 FD 4D
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11488 Vertical 6798,498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  TUR 123 A
+Event:  
+  Europa League - Play Offs, Fenerbahçe v Nottingham Forest   
+CW: 74 65 00 D9 00 74 65 D9
+---FEED-SEPARATOR---
 UEFA Champions League, Women, Knockout stage, Round of 16
 Juventus vs Wolfsburg
 Eutelsat 7A/7B/7C @ 7.0°E
