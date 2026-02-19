@@ -1,3 +1,12 @@
+ASIASAT 100.5E
+3840 H 30000 ID OCC1
+A2 97 7C 9D 17 36 1D 32  CW: AD BB 67 CF FC CE 32 FC   
+Copa Libertadores
+Juventud vs Guaraní
+ID OCC2
+C3 C8 FD 3F 5C 22 AD 45  #CW: FB 67 88 EA AD 3D AE 98   
+Deportivo Táchira vs Deportes Tolima
+---FEED-SEPARATOR---
 58W INTELSAT21 C 
 4000H10000
 ID: BSC VS ARG CL
@@ -145,6 +154,8 @@ DVB-S2 -
 ID:  SELENIO 1
 Event:  
      Italian Cup, Venezia - Tortona
+LATER: 
+Virtus Bologna - Basket Napoli
 CW: BA D4 C7 55 3D B9 92 88
 ---FEED-SEPARATOR---
 xFayez95 said:
