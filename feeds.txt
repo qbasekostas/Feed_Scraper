@@ -34,6 +34,14 @@ Celtic v Stuttgart
 Changed to Biss Enc
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+12694 Vertical 7198,418
+DVB-S2 - 4:2:0 - 8PSK
+ID: ENC 3
+Event:  
+UEFA Womens Champions League - Play-Off, Manchester United v Atlético Madrid 
+CW: 0F 13 F0 12 1F CF 6E 5C
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12636 Vertical 9872,819
 DVB-S2 - 4:2:0 - 8PSK
 ID: Medialink CRO-021/1
