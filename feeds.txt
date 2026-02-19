@@ -31,6 +31,45 @@ ID:
 Links Broadcast Celtic V Stuttgart for RTL
 UEFA Europa League - Knockout Phase (1st Leg)
 Celtic v Stuttgart
+Changed to Biss Enc
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12636 Vertical 9872,819
+DVB-S2 - 4:2:0 - 8PSK
+ID: Medialink CRO-021/1
+Event:     
+   Europa League - Play Offs, Dinamo Zagreb v Racing Genk
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
+Ratzvan said:
+CW: AE CF 43 C0 21 FC EA 07
+Click to expand...
+Eutelsat 16A   ( 16.0E )
+12558 Horizontal 7198,416
+DVB-S2 - 4:2:0 - 8PSK
+ID:  DECBC Cologne
+Event:  
+ Europa League - Play Offs, Celtic - Stuttgart 
+---FEED-SEPARATOR---
+archiesat said:
+			1W
+11500 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: TNT VISION 3
+CW: B4 73 C7 EE 97 94 55 80
+UEFA Europa League - Knockout Phase (1st Leg)
+Celtic v Stuttgart
+Click to expand...
+Video format is HEVC 1920x540@50p HDR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12685 Vertical 7198,43
+DVB-S2 - 4:2:0 - 8PSK
+ID: ENC 2
+Event:  
+ UEFA Womens Champions League - Play-Off, Juventus v Wolfsburg 
+CW: E9 7F CC 34 89 27 C9 79
 ---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12549 Horizontal 7198,42
@@ -89,6 +128,30 @@ Panathinaikos vs Iraklis
 12620 V 7200
 ID: BAV
 CW: 19 02 20 3B 26 CC C3 B5
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+10722 Horizontal 7198,432
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  SELENIO 1
+Event:  
+     Italian Cup, Venezia - Tortona
+CW: BA D4 C7 55 3D B9 92 88
+---FEED-SEPARATOR---
+xFayez95 said:
+Final Eight, Quarterfinals
+Brescia vs Udine
+Eutelsat 10A @ 10.0°E
+10721 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 14.09 Mbit/s
+ID: SELENIO 1
+CW: 8B 92 F9 16 54 8D 43 24
+Click to expand...
+new today key please???
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11061 Horizontal 7198,435
