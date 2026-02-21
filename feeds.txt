@@ -88,3 +88,10 @@ ID: (empty)
 Event:  
 Polish Cup, Trefl Sopot - Gornik Walbrzych
 CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 22
+Asteras Tripolis vs Atromitos
+39e
+12620 V 7200
+ID: E394 MAIN
+CW: AE 44 BB AD 71 AD 5D 7B
