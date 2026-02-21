@@ -23,3 +23,13 @@ DVB-S2|1080HD
 ID: AFD
 Event: Liga Profesional - Rosario Central V Talleres Cordoba
 CW: 1D 47 C1 25 24 BB A5 84
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11461 Vertical 6798,482
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TKS.TRT.M29-B
+Event: 
+  Turkish Sultanlar Ligi Women, Galatasaray - Zeren Spor 
+CW: 14 55 00 69 00 14 45 59
