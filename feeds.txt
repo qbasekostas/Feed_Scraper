@@ -34,6 +34,27 @@ Event:
   Turkish Sultanlar Ligi Women, Galatasaray - Zeren Spor 
 CW: 14 55 00 69 00 14 45 59
 ---FEED-SEPARATOR---
+Scottish Premiership - Week 28
+St Mirren vs. Motherwell
+Eutelsat 7B/7C @ 7.0°E
+11190 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Encoder 2
+CW: 13 4D BB 1B FF DA 45 1E
+---FEED-SEPARATOR---
+Eutelsat 3B @ 3.1° E
+Fréq:10958 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: beIN SPORTS
+Fréq:10968 - H - 7500
+ID: Service-1
+Premier League
+Man City vs Newcastle
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
 archiesat said:
 CW: 07 A2 21 CA C9 DD 06 AC
 Women’s FA Cup
