@@ -54,6 +54,8 @@ ID: TKS.TRT.M29-B
 Event: 
   Turkish Sultanlar Ligi Women, Galatasaray - Zeren Spor 
 CW: 14 55 00 69 00 14 45 59
+NEW 
+CW: 14 55 00 69 00 14 55 69
 ---FEED-SEPARATOR---
 Scottish Premiership - Week 28
 St Mirren vs. Motherwell
