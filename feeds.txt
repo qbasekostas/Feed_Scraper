@@ -33,3 +33,12 @@ ID: TKS.TRT.M29-B
 Event: 
   Turkish Sultanlar Ligi Women, Galatasaray - Zeren Spor 
 CW: 14 55 00 69 00 14 45 59
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+55 9A 68 7D F6 14 02 37  #CW:
+B4 73 25 4C 6A 25 59 E8 
+  #[E] PID:07D1h
+West Bromwich Albion vs Coventry City
