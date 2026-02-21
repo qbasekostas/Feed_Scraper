@@ -34,6 +34,15 @@ Event:
   Turkish Sultanlar Ligi Women, Galatasaray - Zeren Spor 
 CW: 14 55 00 69 00 14 45 59
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+39 DE 83 87 05 99 25 CF  #CW:
+FE 24 25 47 56 47 77 14 
+  #[E] PID:07D1h
+Southampton vs Charlton Athletic
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 10996 Horizontal 7118,44
 DVB-S2 - 4:2:0 - 8PSK
@@ -50,3 +59,19 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 B4 73 25 4C 6A 25 59 E8 
   #[E] PID:07D1h
 West Bromwich Albion vs Coventry City
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12634 Vertical 7198,296
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-013M 
+Event:      
+ Serbian Korac Cup, Crvena zvezda - Mega Basket
+CW: 62 02 52 B6 02 20 26 48
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12601 Vertical 7198,417
+DVB-S2 - 4:2:0 - 8PSK
+ID: (empty)
+Event:  
+Polish Cup, Trefl Sopot - Gornik Walbrzych
+CW: 15 58 35 A2 71 42 63 16
