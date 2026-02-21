@@ -34,6 +34,20 @@ Event:
   Turkish Sultanlar Ligi Women, Galatasaray - Zeren Spor 
 CW: 14 55 00 69 00 14 45 59
 ---FEED-SEPARATOR---
+archiesat said:
+CW: 07 A2 21 CA C9 DD 06 AC
+Women’s FA Cup
+Birmingham
+ City v 
+Chatham W
+Click to expand...
+Intelsat 10-02 ( 1.0W )
+11086 Vertical 7199,745
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  (empty)
+---FEED-SEPARATOR---
 English Championship - Week 33
 Southampton vs. Charlton Athletic
 Eutelsat 7B/7C @ 7.0°E
