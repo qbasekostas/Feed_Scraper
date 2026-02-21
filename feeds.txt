@@ -85,6 +85,25 @@ B4 73 25 4C 6A 25 59 E8
   #[E] PID:07D1h
 West Bromwich Albion vs Coventry City
 ---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+10721 Horizontal 7198,523
+DVB-S2 - 4:2:2 - 8PSK
+ID:  SELENIO 1
+Event:    
+Italian Cup, Brescia - Olimpia Milano
+LATER: 
+Tortona - Virtus Bologna
+CW: 87 44 68 33 56 5C E6 98
+---FEED-SEPARATOR---
+Copa Del Rey, Semifinals
+Valencia vs Real Madrid
+Eutelsat 7A/7B/7C @ 7.0°E
+11061 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.74 Mbit/s
+ID: Fi01 ACB
+CW: CC 1B 17 FE 44 7E 74 36
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12634 Vertical 7198,296
 DVB-S2 - 4:2:0 - 8PSK
