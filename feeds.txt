@@ -15,6 +15,15 @@ FÚTBOL PPERUANO
 ALIANZA LIMA VS SPORTIN BOYS
 CW: 20 32 76 C8 49 AB B2 A6
 ---FEED-SEPARATOR---
+Liga Profesional de Fútbol, Apertura, Round 6
+Independiente Rivadavia vs CA Independiente
+Eutelsat 7A/7B/7C @ 7.0°E
+11597 V 7500
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 17.29 Mbit/s
+ID: AFD
+CW: 1D 47 C1 25 24 BB A5 84
+---FEED-SEPARATOR---
 7°E KU
 11460 V 7500
 DVB-S2|1080HD
