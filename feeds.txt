@@ -33,6 +33,18 @@ ID: AFD
 Event: Liga Profesional - Rosario Central V Talleres Cordoba
 CW: 1D 47 C1 25 24 BB A5 84
 ---FEED-SEPARATOR---
+Ferari3000 said:
+			Eutelsat 7B/7C (7.0E)
+10096 H 7200  
+4:2:0
+ID: VOLLEY_WORLD_MAIN
+Provider: ITA_361
+Italy LVF Serie A1 Tygota Women,Round 26
+Vero Volley Milano W - Scandicci W (20:30)
+Biss Encrypt?
+Click to expand...
+CW: EA 7D 49 B0 35 BE 64 57
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11461 Vertical 6798,482
 DVB-S2 - 
