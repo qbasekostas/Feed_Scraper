@@ -34,6 +34,14 @@ Event:
   Turkish Sultanlar Ligi Women, Galatasaray - Zeren Spor 
 CW: 14 55 00 69 00 14 45 59
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10996 Horizontal 7118,44
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch EFL - West Brom v Coventry
+Event:  
+ English Championship, West Bromwich Albion v Coventry City
+CW: B4 73 25 4C 6A 25 59 E8
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3966 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
