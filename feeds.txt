@@ -47,6 +47,18 @@ HBO said:
 CW: FE 24 25 47 56 47 77 14
 Click to expand...
 ---FEED-SEPARATOR---
+1W
+10990 V 15000 
+4:2:2
+DVBS-2 8PSK
+ID 
+No name
+CW: 07 A2 21 CA C9 DD 06 AC
+Women’s FA Cup
+Birmingham
+ City v 
+Chatham W
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3975 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
