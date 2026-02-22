@@ -143,6 +143,16 @@ Hellas Sat 3/4 (39.0 E)
 DVB-S2/8PSK (4:2:0)
 Volou vs. Iraklis
 ---FEED-SEPARATOR---
+7e
+12639 V 7200
+4:2:0
+ID: 
+TANDBERG
+Super League
+AEK Athens  vs  Levadiakos
+22 FC E1 E4 D8 29 DA 61  #CW: 
+75 B8 D1 FE 7F 37 90 46
+---FEED-SEPARATOR---
 Stoiximan Super League, Round 22
 Aris vs Kifisia
 Eutelsat 7A/7B/7C @ 7.0°E
