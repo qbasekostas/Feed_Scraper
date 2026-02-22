@@ -112,6 +112,15 @@ Eutelsat 7A/B   ( 7.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID:  EFL - Sheffield Utd v Sheffield Wednesday
 ---FEED-SEPARATOR---
+NBA
+Warriors vs Nuggets
+Eutelsat 7A/7B/7C @ 7.0°E
+10959 V 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.40 Mbit/s
+ID: WSHT ENC 59
+CW: E9 57 04 44 1D CB EF D7
+---FEED-SEPARATOR---
 Copa Del Rey, Final
 Real Madrid vs Baskonia
 Eutelsat 7A/7B/7C @ 7.0°E
