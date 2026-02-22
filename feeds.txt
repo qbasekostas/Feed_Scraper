@@ -112,6 +112,13 @@ Eutelsat 7A/B   ( 7.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID:  EFL - Sheffield Utd v Sheffield Wednesday
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11061 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.18 Mbit/s
+ID: Fi01 ACB
+CW: 12 43 C7 1C DA C1 60 FB
+---FEED-SEPARATOR---
 Eutelsat 10A   ( 10.0E )
 10721 Horizontal 7198,525
 DVB-S2 - 
@@ -133,6 +140,15 @@ Hellas Sat 3/4 (39.0 E)
 12538 Horizontal 7198,435 3/4
 DVB-S2/8PSK (4:2:0)
 Volou vs. Iraklis
+---FEED-SEPARATOR---
+Stoiximan Super League, Round 22
+Aris vs Kifisia
+Eutelsat 7A/7B/7C @ 7.0°E
+12629 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.23 Mbit/s
+ID: ARIS VS KIFISIA A
+CW: 98 05 27 C4 86 74 E4 DE
 ---FEED-SEPARATOR---
 Hellas Sat 3/4 (39.0 E)
 12620 Vertical 7198,438 3/4
