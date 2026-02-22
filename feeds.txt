@@ -100,6 +100,13 @@ ID: ITA 379 B
 Wheelchair Basketball: S. Stefano Kos Group - Deco Aminacci Abruzzo
 CW: C3 B0 4B BE 07 AF 58 0E
 ---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0 E)
+12620 Vertical 7198,438 3/4
+DVB-S2/8PSK (4:2:0)
+panserraikos volos
+Panserraikos vs Volos
+CW: 5A 44 BB 59 71 CD 66 A4
+---FEED-SEPARATOR---
 Hotbird 13B ( 13E )
 10838 V 7200
 DVB-S2 - 4:2:0 - 8PSK
