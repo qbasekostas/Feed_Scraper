@@ -49,6 +49,30 @@ Event:
   English Championship Highlights  
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+1W
+11087 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID 
+No name
+CW: 55 F8 4C 99 EA 48 CE 00
+WOMEN’S FA CUP - 1/8-FINALS
+Liverpool W
+ V
+Everton W
+---FEED-SEPARATOR---
+1W
+10990 V 15000 
+4:2:2
+DVBS-2 8PSK
+ID 
+No name
+CW: 55 F8 4C 99 EA 48 CE 00
+WOMEN’S FA CUP - 1/8-FINALS
+Liverpool W
+ V 
+Everton W
+---FEED-SEPARATOR---
 Satfun2017 said:
 Championship 
 Sheffield Utd Vs Sheffield Wed
