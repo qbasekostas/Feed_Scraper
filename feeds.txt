@@ -1,3 +1,13 @@
+Turksat 3A/4A   ( 42.0E )
+11461 Vertical 6798,508
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  TKS.TRT.M22-B
+Event:    
+Turkish    Efeler Ligi - Gebze - Galatasaray
+CW: 27 69 00 90 00 27 69 90
+---FEED-SEPARATOR---
 Championship 
 Sheffield Utd Vs Sheffield Wed
 100.5°E C
