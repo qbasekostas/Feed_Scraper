@@ -112,6 +112,8 @@ Eutelsat 7A/B   ( 7.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID:  EFL - Sheffield Utd v Sheffield Wednesday
 ---FEED-SEPARATOR---
+Copa Del Rey, Final
+Real Madrid vs Baskonia
 Eutelsat 7A/7B/7C @ 7.0°E
 11061 H 7200
 DVB-S2 | 8PSK | 3/4
