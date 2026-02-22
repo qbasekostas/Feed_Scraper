@@ -38,3 +38,10 @@ ID: Pitch EFL Highlights
 Event:  
   English Championship Highlights  
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Eutelsat 7B-7C  @ 07.0E
+11133 V 7200
+1920x1080 |8PSK |4:2:0
+ID: ITA 379 B
+Wheelchair Basketball: S. Stefano Kos Group - Deco Aminacci Abruzzo
+CW: C3 B0 4B BE 07 AF 58 0E
