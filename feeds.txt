@@ -1,3 +1,25 @@
+Ratzvan said:
+Intelsat 10-02 ( 1.0W )
+11495 Vertical 14996,911
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID:  (empty)
+Event:  
+ English FA Cup Women, 
+Chelsea v Manchester Utd
+CW: E7 84 93 FE 73 20 D6 69
+Click to expand...
+1W
+11482 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID 
+No name
+CW: E7 84 93 FE 73 20 D6 69
+Women’s FA Cup
+Chelsea v Manchester Utd
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 11495 Vertical 14996,911
 DVB-S2 - 
