@@ -103,6 +103,16 @@ Eutelsat 7A/B   ( 7.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID:  EFL - Sheffield Utd v Sheffield Wednesday
 ---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+10721 Horizontal 7198,525
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:   SELENIO 1
+Event:  
+     Italian Cup, Olimpia Milano - Tortona
+CW: 5D 2E E2 6D 4F EB C6 00
+---FEED-SEPARATOR---
 Eutelsat 7B-7C  @ 07.0E
 11133 V 7200
 1920x1080 |8PSK |4:2:0
