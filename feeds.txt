@@ -1,3 +1,24 @@
+Satfun2017 said:
+English League Two
+Walsall Vs MK Dons
+CW: 24 03 56 7D 56 27 73 F0
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11023 Horizontal 7118,411
+DVB-S2 - 4:2:0 - 8PSK
+ID:    Pitch - Walsall v MK Dons
+---FEED-SEPARATOR---
+Premier League
+ 2025/26 (Wk27)
+Everton vs Manchester United
+3.1° E
+10959 H 7500
+4.2.0 HD
+ID: beIN SPORTS
+10969  H 7500
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
 English League Two
 Walsall Vs MK Dons
 100.5°E C
