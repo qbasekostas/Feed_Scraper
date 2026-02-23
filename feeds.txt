@@ -1,0 +1,28 @@
+Ratzvan said:
+			Event:      
+ English Women’s FA Cup, London City Lionesses v Tottenham
+CW: 62 AF 98 A9 61 B3 84 98
+Click to expand...
+Intelsat 10-02 ( 1.0W )
+11481 Vertical 7198,508
+DVB-S2 - 4:2:0 - 8PSK
+ID: (empty)
+---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+11495 Vertical 14997,139
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: (empty)
+Event:      
+ English Women’s FA Cup, London City Lionesses v Tottenham
+CW: 62 AF 98 A9 61 B3 84 98
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12626 Vertical 4936,215
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-021M
+Event:  
+ Basket 3x3 - 
+Serbia MTS Karavan U15 - Obrenovac
+CW: AB BA 20 85 25 20 26 6B
