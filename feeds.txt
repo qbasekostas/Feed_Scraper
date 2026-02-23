@@ -1,3 +1,26 @@
+Astra 2E/2F/2G  ( 28.2E )
+12582 Vertical 7198,407
+DVB-S2 - 4:2:0 - 8PSK
+ID: UKI 1870 PATH 3
+12591 Vertical 7198,432
+DVB-S2 - 4:2:0 - 8PSK
+ID: UKI 1870 PATH 2
+Event:    
+about 
+English Women’s FA Cup, London City Lionesses v Tottenham
+ (secondary support feeds)
+CW: 94 58 D4 C0 8E 36 28 EC
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:      
+ English Women’s FA Cup, London City Lionesses v Tottenham
+CW: 62 AF 98 A9 61 B3 84 98
+Click to expand...
+Astra 2E/2F/2G  ( 28.2E )
+12507 Horizontal 7198,445
+DVB-S2 - 4:2:0 - 8PSK
+ID: UKI-1852 C1
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event:      
  English Women’s FA Cup, London City Lionesses v Tottenham
