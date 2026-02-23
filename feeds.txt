@@ -1,10 +1,29 @@
+English League Two
+Walsall Vs MK Dons
+100.5°E C
+@ AsiaSat 5
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 24 03 56 7D 56 27 73 F0
+---FEED-SEPARATOR---
 Astra 2E/2F/2G  ( 28.2E )
+12525 Horizontal 7198,412
+DVB-S2 - 4:2:0 - 8PSK
+ID: (empty)
+12573 Vertical 7198,392
+DVB-S2 - 4:2:0 - 8PSK
+ID:  UKI 1870 PATH 1
 12582 Vertical 7198,407
 DVB-S2 - 4:2:0 - 8PSK
 ID: UKI 1870 PATH 3
 12591 Vertical 7198,432
 DVB-S2 - 4:2:0 - 8PSK
 ID: UKI 1870 PATH 2
+12611 Vertical 7198,411
+DVB-S2 - 4:2:0 - 8PSK
+ID: UKI 1871 PATH 4
 Event:    
 about 
 English Women’s FA Cup, London City Lionesses v Tottenham
