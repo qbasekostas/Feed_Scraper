@@ -25,6 +25,23 @@ Event:
 Scottish Challenge Cup - Play Offs, Ayr v Inverness 
 FTA/CLEAR
 ---FEED-SEPARATOR---
+BLACKCRUSADER said:
+CW: 25 59 28 A6 39 38 28 99
+EFL Championship
+Southampton vs Queens Park Rangers
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11106 Horizontal 7118,437
+DVB-S2 - 4:2:0 - 8PSK
+ID:  : Pitch - Southampton v QPR
+---FEED-SEPARATOR---
+ASIASAT 5 100.5E
+3985 V 7120
+ID BT SES 24 
+CW 25 59 28 A6 39 38 28 99
+EFL Championship
+Southampton vs Queens Park Rangers
+---FEED-SEPARATOR---
 UEFA Champions League
 Multiplex & Highlights
 Eutelsat 7A/7B/7C @ 7.0°E
