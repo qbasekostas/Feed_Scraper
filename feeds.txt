@@ -1,3 +1,18 @@
+candu said:
+			EUTELSAT 10E
+10768 V 34000 S2
+ID: OCC 3
+BISS Key,please?
+Click to expand...
+Copa Libertadores
+CW: 23 A1 FC C0 B7 45 66 62
+---FEED-SEPARATOR---
+EUTELSAT 10E
+10768 V 34000 S2 4:2:2
+ID: OCC2
+Copa Libertadores
+CW: 52 1A DE 4A F8 ED BB A0
+---FEED-SEPARATOR---
 EUTELSAT 10E
 10768 V 34000 S2 4:2:2
 ID: OCC1 
