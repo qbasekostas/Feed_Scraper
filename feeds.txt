@@ -1,4 +1,12 @@
 Eutelsat 7A/B   ( 7.0E )
+12726 Vertical 7198,408
+DVB-S2 - 4:2:0 - 8PSK
+ID:  TKS.TRT.M22-A
+Event:  
+ Champions League Women - Play Offs, Zeren Spor - Palmberg Schwerin
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 10965 Vertical 17139,414
 DVB-S2X
  - 
