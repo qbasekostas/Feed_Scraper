@@ -6,6 +6,17 @@ Event:
  Champions League Women - Play Offs, Zeren Spor - Palmberg Schwerin
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
+UEFA Champions League - Playoffs (2nd Leg) [2-0]
+Bayer Leverkusen vs. Olympiacos
+Eutelsat 7B/7C @ 7.0°E
+12540 - V - 9750 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UKI 1678 PATH1
+CW: E2 02 71 55 B3 BB 9C 0A
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 10965 Vertical 17139,414
 DVB-S2X
