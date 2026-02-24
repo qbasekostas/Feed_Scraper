@@ -1,0 +1,16 @@
+Eutelsat 7A/B   ( 7.0E )
+10965 Vertical 17139,414
+DVB-S2X
+ - 
+4:2:2
+ - 16APSK
+ID: ITA_491_A
+10983 Vertical 17139,479
+DVB-S2X 
+- 
+4:2:2 
+- 16APSK
+ID: ITA_491_B
+Event:  
+     Champions League - Play Offs, Inter Milan v Bodø/Glimt   
+CW: BB AD 54 BC 68 FD AC 11
