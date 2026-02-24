@@ -1,3 +1,14 @@
+ASIASAT5 100.5E
+3840 H 30000
+COPA LIBERTADORES
+ID OCC1 
+CW: CB 67 76 A8 D3 11 22 06
+Huachipato vs Carabobo
+ID OCC2 
+CW: 52 1A DE 4A F8 ED BB A0
+Sporting Cristal vs 2 de Mayo
+Medellín vs Liverpool
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12726 Vertical 7198,408
 DVB-S2 - 4:2:0 - 8PSK
@@ -5,6 +16,25 @@ ID:  TKS.TRT.M22-A
 Event:  
  Champions League Women - Play Offs, Zeren Spor - Palmberg Schwerin
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
+12620 Vertical 7118,439
+DVB-S2 - 4:2:0 - 8PSK
+ID: Cloudbass
+Event:
+Scottish Challenge Cup - Play Offs, Ayr v Inverness 
+FTA/CLEAR
+---FEED-SEPARATOR---
+UEFA Champions League
+Multiplex & Highlights
+Eutelsat 7A/7B/7C @ 7.0°E
+10997 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 20.96 Mbit/s
+ID: GVA_Fi01
+CW: A9 0E 6B 22 BC 05 C5 86
 ---FEED-SEPARATOR---
 UEFA Champions League - Playoffs (2nd Leg) [2-0]
 Bayer Leverkusen vs. Olympiacos
