@@ -22,13 +22,39 @@ COPA LIBERTADORES
 INDEPENDIENTE MEDELLÍN VS LIVERPOOL 
 CW: ADFB54FCFD22AAC9
 ---FEED-SEPARATOR---
+Challenge Cup, Women, Semifinals
+Panionios vs Panathinaikos
+Eutelsat 16A @ 16.0°E
+11061 H 9700
+DVB-S2 | QPSK-S2 | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 13.13 Mbit/s
+ID: SNG ABC 1
+CW: 12 34 BB 01 CC 12 34 12
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
-11552 Vertical 7198,416
+12685 Horizontal 7198,297
 DVB-S2 - 4:2:0 - 8PSK
-ID: E269 via1
-Event:      
- Youth League - Play Offs,   Villarreal U19 v Legia U19
-CW: DE AA 34 BC 43 AA ED DA
+ID: (empty)
+Event:  
+Champions League Women - Play Offs, Vero Volley v Olympiacos Piraeus
+CW: D4 2B 52 51 FD D8 A3 78
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12511 Horizontal 7198,422
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA556 HD16
+Event:  
+ Champions League Women - Play Offs, Scandicci v Novara
+CW: 43 A3 67 4D 95 F9 6F FD
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12676 Vertical 7198,434
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR 123 A
+Event:  
+ CEV Cup Women, 
+Galatasaray v Levallois Paris SC
+CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11543 Vertical 7198,447
@@ -63,6 +89,36 @@ NEW
 CW: F4 67 0F 6A 71 CC E7 24
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+11070 Horizontal 7198,432
+DVB-S2 - 4:2:0 - 8PSK
+ID: CBS PSG vs Monaco
+Event:  
+   Uefa Champions League - Play Offs, Paris St Germain v Monaco
+CW: 71 71 61 43 63 71 17 EB
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12549 Horizontal 7198,429
+DVB-S2 - 4:2:0 - 8PSK
+ID: TV MARKIZA
+Event:      
+ Youth League - Play Offs, 
+ Zilina U19 v Club Brugge U19
+CW: A6 CA B0 20 0A 19 F3 16
+---FEED-SEPARATOR---
+Ratzvan said:
+CW: F4 67 0F 6A 71 CC E7 24
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+10998 Horizontal 9874,649
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: GVA_Fi01
+Event:  
+     Champions League - Play Offs 
+(match still unknown)
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12727 Vertical 7199,749
 DVB-S2 - 4:2:0 - 8PSK
 ID: E-408 Main
@@ -71,12 +127,6 @@ Event:
 Champions League - Play Offs, Real Madrid v Benfica
 CW: AB BA 56 BB 51 81 8A 5C
 ---FEED-SEPARATOR---
-Eutelsat 7A/B ( 7.0E )
-11552 Vertical 7198,416
-DVB-S2 - 4:2:0 - 8PSK
-Benfica U19 vs AZ Alkmaar U19
-41 10 1C 53 14 99 59 61  #CW:26 AB 02 D3 BA 20 26 00   #[E] PID:0200h
----FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11523 V 7200
 DVB-S2 - 4:2:0 - 8PSK
@@ -84,6 +134,23 @@ ID: E-289
 Event: 
 Youth League - Play Offs, Benfica U19 vs AZ Alkmaar U19
 CW: 26 AB 02 D3 BA 20 26 00
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11552 Vertical 7198,416
+DVB-S2 - 4:2:0 - 8PSK
+ID: E269 via1
+Event:      
+ Youth League - Play Offs,   Villarreal U19 v Legia U19
+CW: DE AA 34 BC 43 AA ED DA
+---FEED-SEPARATOR---
+Euroleague, Round 29
+KK Crvena zvezda vs Anadolu Efes
+Eutelsat 7A/7B/7C @ 7.0°E
+11061 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.14 Mbit/s
+ID: Fi14_GNVE
+CW: 7D 4F E3 AF A4 A6 43 8D
 ---FEED-SEPARATOR---
 100.5e
 3974 V 7200
