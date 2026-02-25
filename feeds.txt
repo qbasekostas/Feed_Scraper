@@ -1,3 +1,11 @@
+Eutelsat 7A/B   ( 7.0E )
+11523 Vertical 7498,355
+DVB-S2 - 4:2:0 - 8PSK
+ID: AFD
+Event:  
+     Argentinean Primera División, Gimnasia La Plata v Rosario Central
+CW: 74 1B AD 3C 21 94 1A CF
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
@@ -33,6 +41,14 @@ DVB-S2 4.2.2 1080I
 COPA LIBERTADORES 
 INDEPENDIENTE MEDELLÍN VS LIVERPOOL 
 CW: ADFB54FCFD22AAC9
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11098 Horizontal 7199,756
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA_491_B
+Event:  
+     Italian SuperLega, Modena v Verona
+CW: 2F 48 32 A9 F6 01 18 0F
 ---FEED-SEPARATOR---
 Challenge Cup, Women, Semifinals
 Panionios vs Panathinaikos
@@ -75,6 +91,14 @@ ID: Cloudbass
 Event: 
 Scottish Challenge Cup - Play Offs, Airdrieonians v Raith Rovers
 FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11106 Horizontal 7118,443
+DVB-S2 - 4:2:0 - 8PSK
+ID:    Pitch - EFL - Stoke v Oxford Utd
+Event:  
+  English Championship, Stoke City v Oxford United   
+CW: 21 36 DA 31 25 43 7F E7
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3984 V 7120
@@ -125,12 +149,30 @@ Event:
    Uefa Champions League - Play Offs, Paris St Germain v Monaco
 CW: 71 71 61 43 63 71 17 EB
 ---FEED-SEPARATOR---
-UEFA Champions League - Play Offs, Paris St Germain v Monaco
-Eutelsat 7.0E
-11070 H 7199
-4:2:0
-ID: CBS PSG vs Monaco
-CW: 71 71 61 43 63 71 17 EB
+UEFA Champions League Knockout Stage Play-Offs
+Juventus VS Galatasaray 
+Eutelsat 3.1°E
+3798 V/H 7200
+ID: UEFA
+CW: 5D 91 8C 7A 9D EA 58 DF
+---FEED-SEPARATOR---
+Champions League
+ - Play Offs, 
+Real Madrid VS  Benfica
+3.1° E
+10987 H 7500
+4.2.0 HD
+ID: RMD HD 1D Perso Bein  Mena M
+CW: A3 C3 2B 91 1B ED 26 2E
+Feeding the correspondents
++
+3.1° E
+10959 H 7500
+4.2.0 HD
+ID: beIN SPORTS
+10969 H 7500
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12549 Horizontal 7198,429
@@ -151,8 +193,7 @@ DVB-S2 -
 - 8PSK
 ID: GVA_Fi01
 Event:  
-     Champions League - Play Offs 
-(match still unknown)
+     Champions League - Play Offs - Instant Highlights 
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12727 Vertical 7199,749
@@ -178,6 +219,14 @@ ID: E269 via1
 Event:      
  Youth League - Play Offs,   Villarreal U19 v Legia U19
 CW: DE AA 34 BC 43 AA ED DA
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12641 Horizontal 7198,439
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA
+Event:    
+Euroleague Women - Promotion - Play Offs - Schio v Venezia
+FTA/CLEAR
 ---FEED-SEPARATOR---
 Euroleague, Round 29
 KK Crvena zvezda vs Anadolu Efes
