@@ -27,12 +27,11 @@ Eutelsat 7A/B   ( 7.0E )
 DVB-S2X
  - 4:2:0 - 
 16APSK
-ID:  ITA 548 M#4 Feed B BCKP
+ID:  ITA548 UCL M1 Feed B P2
 Event:  
      Champions League - Play Offs, Atalanta v Borussia Dortmund
-Note: 
-Possible switch to BISS2 later
-CW: 1C 9B 4C 03 EE 26 08 1C
+NEW
+CW: F4 67 0F 6A 71 CC E7 24
 ---FEED-SEPARATOR---
 100.5e
 3974 V 7200
