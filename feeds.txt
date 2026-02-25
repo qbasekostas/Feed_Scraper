@@ -68,6 +68,14 @@ Event:
 Galatasaray v Levallois Paris SC
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
+12620 Vertical 7118,482
+DVB-S2 - 4:2:0 - 8PSK
+ID: Cloudbass
+Event: 
+Scottish Challenge Cup - Play Offs, Airdrieonians v Raith Rovers
+FTA/CLEAR
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3984 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
@@ -115,6 +123,13 @@ DVB-S2 - 4:2:0 - 8PSK
 ID: CBS PSG vs Monaco
 Event:  
    Uefa Champions League - Play Offs, Paris St Germain v Monaco
+CW: 71 71 61 43 63 71 17 EB
+---FEED-SEPARATOR---
+UEFA Champions League - Play Offs, Paris St Germain v Monaco
+Eutelsat 7.0E
+11070 H 7199
+4:2:0
+ID: CBS PSG vs Monaco
 CW: 71 71 61 43 63 71 17 EB
 ---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
