@@ -22,6 +22,23 @@ COPA LIBERTADORES
 INDEPENDIENTE MEDELLÍN VS LIVERPOOL 
 CW: ADFB54FCFD22AAC9
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11552 Vertical 7198,416
+DVB-S2 - 4:2:0 - 8PSK
+ID: E269 via1
+Event:      
+ Youth League - Play Offs,   Villarreal U19 v Legia U19
+CW: DE AA 34 BC 43 AA ED DA
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11543 Vertical 7198,447
+DVB-S2 - 4:2:0 - 8PSK
+ID: E-387 Main
+Event:       
+ Youth League - Play Offs, 
+ Atl. Madrid U19 - Maccabi Haifa U19
+CW: EC DA 57 1D 65 AD CE E0
+---FEED-SEPARATOR---
 Ratzvan said:
 CW: F4 67 0F 6A 71 CC E7 24
 Click to expand...
@@ -44,6 +61,29 @@ Event:
      Champions League - Play Offs, Atalanta v Borussia Dortmund
 NEW
 CW: F4 67 0F 6A 71 CC E7 24
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12727 Vertical 7199,749
+DVB-S2 - 4:2:0 - 8PSK
+ID: E-408 Main
+Event:  
+     about 
+Champions League - Play Offs, Real Madrid v Benfica
+CW: AB BA 56 BB 51 81 8A 5C
+---FEED-SEPARATOR---
+Eutelsat 7A/B ( 7.0E )
+11552 Vertical 7198,416
+DVB-S2 - 4:2:0 - 8PSK
+Benfica U19 vs AZ Alkmaar U19
+41 10 1C 53 14 99 59 61  #CW:26 AB 02 D3 BA 20 26 00   #[E] PID:0200h
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11523 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: E-289
+Event: 
+Youth League - Play Offs, Benfica U19 vs AZ Alkmaar U19
+CW: 26 AB 02 D3 BA 20 26 00
 ---FEED-SEPARATOR---
 100.5e
 3974 V 7200
