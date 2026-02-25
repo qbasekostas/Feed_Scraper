@@ -1,0 +1,15 @@
+COPA CONMEBOL LIBERTADORES Eliminatorias:
+Bahia Do Salvador vs O'Higgins
+Eutelsat 10E
+10768 V 34001/
+4.2.2
+OCC 1
+CW: 25 C4 AD 96 E5 FF EE D2
+---FEED-SEPARATOR---
+COPA CONMEBOL LIBERTADORES Eliminatorias:
+Botafogo Carioca vs Nacional Potosi
+Eutelsat 10E
+10768 V 34001/
+4.2.2
+OCC 2
+CW: DF CB 56 00 E3 22 11 16
