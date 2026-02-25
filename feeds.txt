@@ -22,6 +22,18 @@ COPA LIBERTADORES
 INDEPENDIENTE MEDELLÍN VS LIVERPOOL 
 CW: ADFB54FCFD22AAC9
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11007 Horizontal 4826,336
+DVB-S2X
+ - 4:2:0 - 
+16APSK
+ID:  ITA 548 M#4 Feed B BCKP
+Event:  
+     Champions League - Play Offs, Atalanta v Borussia Dortmund
+Note: 
+Possible switch to BISS2 later
+CW: 1C 9B 4C 03 EE 26 08 1C
+---FEED-SEPARATOR---
 100.5e
 3974 V 7200
 4:2:0
