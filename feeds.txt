@@ -1,3 +1,15 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+Copa Libertadores de América
+PMT PID: 3890, SID: 47 @ OCC 1 (Servicios Audiovisuales Overon, S L) 
+PMT PID: 3900, SID: 48 @ OCC 2 (Servicios Audiovisuales Overon, S L)
+PMT PID: 3910, SID: 49 @ OCC 3 (Servicios Audiovisuales Overon, S L)
+CW 
+OCC 1 : 25 C4 AD 96 E5 FF EE D2   
+OCC 2 : DF CB 56 00 E3 22 11 16  
+OCC 3 : 21 AD FC CA BB 67 FD 1F
+---FEED-SEPARATOR---
 58W INTELSAT21 C 
 4000H10000   
 ID: SPO X CRI   
@@ -55,6 +67,15 @@ Event:
  CEV Cup Women, 
 Galatasaray v Levallois Paris SC
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+84 DF DD EE 42 D2 59 FF  #CW:
+21 36 DA 31 25 43 7F E7
+   #[E] PID:07D1h
+Stoke City vs Oxford United
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11543 Vertical 7198,447
