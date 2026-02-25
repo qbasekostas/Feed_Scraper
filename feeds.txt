@@ -146,7 +146,9 @@ Eutelsat 7A/B   ( 7.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID: CBS PSG vs Monaco
 Event:  
-   Uefa Champions League - Play Offs, Paris St Germain v Monaco
+->>
+  Champions League - Play Offs, Real Madrid v Benfica  
+<<-
 CW: 71 71 61 43 63 71 17 EB
 ---FEED-SEPARATOR---
 UEFA Champions League Knockout Stage Play-Offs
