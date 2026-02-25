@@ -22,6 +22,18 @@ COPA LIBERTADORES
 INDEPENDIENTE MEDELLÍN VS LIVERPOOL 
 CW: ADFB54FCFD22AAC9
 ---FEED-SEPARATOR---
+Ratzvan said:
+CW: F4 67 0F 6A 71 CC E7 24
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11013 Horizontal 4826,335
+DVB-S2X 
+- 4:2:0 - 
+16APSK
+ID: E389 M8 B2 MAIN
+Event:  
+     Champions League - Play Offs, Real Madrid v Benfica
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11007 Horizontal 4826,336
 DVB-S2X
