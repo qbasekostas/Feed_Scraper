@@ -1,3 +1,14 @@
+candu said:
+			EUTELSAT 10E
+10768 V 34000 S2
+ID: OCC 3
+BISS Key,please?
+Click to expand...
+4:2:2
+Event:
+  Copa Libertadores - Qualification,  Guarani (Par) - Juventud (Uru)
+CW: 36 9A DF AF BB 67 ED 0F
+---FEED-SEPARATOR---
 Liga Profesional de Fútbol
 Racing vs Independiente Rivadavia
 Eutelsat 7A/7B/7C @ 7.0°E
