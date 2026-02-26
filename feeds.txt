@@ -30,8 +30,23 @@ Eutelsat 10E
 OCC 2
 CW: DF CB 56 00 E3 22 11 16
 ---FEED-SEPARATOR---
-UEFA Europa League - Playoffs (2nd Leg) [3-0]
-Nottingham Forest vs. Fenerbahçe
+Eutelsat 7A/B   ( 7.0E )
+11134 Horizontal 19198,993
+DVB-S2 -
+ 4:2:2
+ - 8PSK
+ID:  ROU-051 - FEED 1
+11158 Horizontal 19199,37
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: ROU-051 - FEED 2
+Event:  
+ Europa League - Play Offs, Crvena zvezda  v Lille
+CW: 20 26 AC F2 DC 02 34 12
+---FEED-SEPARATOR---
+UEFA Conference League - Playoffs (2nd Leg) [1-1]
+Crystal Palace vs. Zrinjski
 Intelsat 10-02 @ 1.0°W
 11463 - V - 7200 
 |
@@ -40,6 +55,15 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: B8 0D 82 47 8E E4 38 AA
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12685 Horizontal 7198,562
+DVB-S2 - 4:2:0 - 8PSK
+ID: HD-22 EGY
+Event: 
+  Africa: 
+ World Cup - Qualification - Angola v Uganda
+FTA/CLEAR
 ---FEED-SEPARATOR---
 19.2e
 11561 V 7200
@@ -58,6 +82,14 @@ ID: Uname
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: AA 49 D1 C4 30 A4 4A 1E
 FIBA Basketball World Cup 2027 Asian Qualifiers
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11523 Vertical 7199,756
+DVB-S2 - 4:2:0 - 8PSK
+ID: UAE074 - 1
+Event:  
+    Euroleague, Dubai v Lyon-Villeurbanne
+CW: F1 C5 32 E8 C1 FF CD 8D
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3966 V 7200
