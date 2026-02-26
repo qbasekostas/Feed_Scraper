@@ -30,6 +30,58 @@ Eutelsat 10E
 OCC 2
 CW: DF CB 56 00 E3 22 11 16
 ---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11461 Vertical 6798,496
+DVB-S2 - 
+4:2:0
+ - 8PSK 
+(possible switch to 
+4:2:2
+ before the start of the match)
+ID:  TUR 123 A
+Event:  
+  Efeler Ligi, Galatasaray v Ziraat Bankasi    
+CW: 75 76 00 EB 00 75 76 EB
+---FEED-SEPARATOR---
+Eutelsat 7A/B ( 7.0E )
+10998 H 9875
+DVB-S2 - 4:2:2 - 8PSK
+ID: GVA_Fi01_UEL_IHL
+Event: Avrupa ligi Instant Highlights
+Cw..4A 1C 61 C7 D0 46 B4 CA
+---FEED-SEPARATOR---
+UEFA Conference League - Playoffs (2nd Leg) [1-0]
+Rijeka vs. Omonia Nicosia
+Eutelsat 7B/7C @ 7.0°E
+12628 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Medialink CRO-025/1
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11488 Vertical 6798,493
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  TUR-125A
+Event:  
+Conference League - Play Offs, Samsunspor v Shkëndija    
+CW: 25 66 00 8B 00 25 66 8B
+---FEED-SEPARATOR---
+UEFA Europa League - Playoffs (2nd Leg) [1-0]
+Red Star Belgrade vs. Lille
+Eutelsat 7B/7C @ 7.0°E
+12636 - V - 4938 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: YSM-021M
+CW: 62 02 52 B6 02 20 27 49
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11134 Horizontal 19198,993
 DVB-S2 -
@@ -55,6 +107,18 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: B8 0D 82 47 8E E4 38 AA
+---FEED-SEPARATOR---
+Ratzvan said:
+			Eutelsat 7A/B   ( 7.0E )
+12685 Horizontal 7198,562
+DVB-S2 - 4:2:0 - 8PSK
+ID: HD-22 EGY
+Event: 
+  Africa: 
+ World Cup - Qualification - Angola v Uganda
+FTA/CLEAR
+Click to expand...
+cw pls?
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12685 Horizontal 7198,562
@@ -82,6 +146,24 @@ ID: Uname
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: AA 49 D1 C4 30 A4 4A 1E
 FIBA Basketball World Cup 2027 Asian Qualifiers
+---FEED-SEPARATOR---
+FIBA World Cup, Asian & Oceanian Qualifiers, Gr. D, Round 3
+Qatar vs India (Tomorrow 27/2) 
+Eutelsat 16A @ 16.0°E
+11060 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.97 Mbit/s
+ID: QAT036 MAIN
+CW: 89 76 37 36 33 AA DC B9
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12685 Horizontal 7198,562
+DVB-S2 - 4:2:0 - 8PSK
+ID: HD-22 EGY
+Event:  
+ Africa: 
+ World Cup - Qualification - Angola v Uganda
+CW: DD 98 33 A8 C1 24 5D 42
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11523 Vertical 7199,756
