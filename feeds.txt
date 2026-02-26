@@ -1,3 +1,10 @@
+Eutelsat 7A/7B/7C @ 7.0°E
+11523 V 7500
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 4:2:0 | 17.29 Mbit/s
+ID: AFD
+CW: 74 1B AD 3C 21 94 1A CF
+---FEED-SEPARATOR---
 ASIASAT5 100.5E
 3840 H 30000
 COPA LIBERTADORES
@@ -50,16 +57,6 @@ ID:  TUR 123 A
 Event:  
   Efeler Ligi, Galatasaray v Ziraat Bankasi    
 CW: 75 76 00 EB 00 75 76 EB
----FEED-SEPARATOR---
-Eutelsat 7B/7C @ 7.0°E
-11061 - H - 7500 
-|
-4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: Pitch - Southampton v QPR
-CW: 95 48 38 15 AA BB 12 77
-Signal Left !
 ---FEED-SEPARATOR---
 Eutelsat 7A/B ( 7.0E )
 10998 H 9875
@@ -147,23 +144,22 @@ Event:
  World Cup - Qualification - Angola v Uganda
 FTA/CLEAR
 ---FEED-SEPARATOR---
-19.2e
-11561 V 7200
-4:2:0
-ID: 
-ROU-062 MAIN
-World Cup - Qualification - First round
-AUSTRALASIA:
-Guam
-Australia
-CW: CA 13 43 20 21 DD AA A8
----FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3906 H 7200
 ID: Uname
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: AA 49 D1 C4 30 A4 4A 1E
 FIBA Basketball World Cup 2027 Asian Qualifiers
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12703 Vertical 7198,415
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM021
+Event:        
+BASKET: 
+World Cup - Qualification - Serbia v Turkey
+ (TOMORROW)
+CW: C1 2C CE BB 6C 58 5A 1E
 ---FEED-SEPARATOR---
 Ratzvan said:
 			Eutelsat 7A/B   ( 7.0E )
@@ -232,3 +228,14 @@ PMT PID: 4096, SID: 1 @ FIBA WORLD CUP 2027 - MAIN (Harmonic)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: 48 47 B3 42 99 CC D1 36
 FIBA Basketball World Cup 2027 Asian Qualifiers
+---FEED-SEPARATOR---
+19.2e
+11561 V 7200
+4:2:0
+ID: 
+ROU-062 MAIN
+World Cup - Qualification - First round
+AUSTRALASIA:
+Guam
+Australia
+CW: CA 13 43 20 21 DD AA A8
