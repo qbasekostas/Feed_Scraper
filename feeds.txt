@@ -30,9 +30,27 @@ Eutelsat 10E
 OCC 2
 CW: DF CB 56 00 E3 22 11 16
 ---FEED-SEPARATOR---
+19.2e
+11561 V 7200
+4:2:0
+ID: 
+ROU-062 MAIN
+World Cup - Qualification - First round
+AUSTRALASIA:
+Guam
+Australia
+CW: CA 13 43 20 21 DD AA A8
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3906 H 7200
 ID: Uname
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: AA 49 D1 C4 30 A4 4A 1E
+FIBA Basketball World Cup 2027 Asian Qualifiers
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7200
+PMT PID: 4096, SID: 1 @ FIBA WORLD CUP 2027 - MAIN (Harmonic)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 48 47 B3 42 99 CC D1 36
 FIBA Basketball World Cup 2027 Asian Qualifiers
