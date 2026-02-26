@@ -51,6 +51,16 @@ Event:
   Efeler Ligi, Galatasaray v Ziraat Bankasi    
 CW: 75 76 00 EB 00 75 76 EB
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°E
+11061 - H - 7500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch - Southampton v QPR
+CW: 95 48 38 15 AA BB 12 77
+Signal Left !
+---FEED-SEPARATOR---
 Eutelsat 7A/B ( 7.0E )
 10998 H 9875
 DVB-S2 - 4:2:2 - 8PSK
@@ -155,7 +165,8 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: AA 49 D1 C4 30 A4 4A 1E
 FIBA Basketball World Cup 2027 Asian Qualifiers
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
+Ratzvan said:
+			Eutelsat 7A/B   ( 7.0E )
 11190 Horizontal 7199,767
 DVB-S2 - 4:2:0 - 8PSK
 ID: BIH007 M
@@ -163,6 +174,14 @@ Event:
 World Cup - Qualification - Bosnia & Herzegovina v Switzerland 
 (TOMORROW)
 CW: AB BA 20 85 25 20 26 6B
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11190 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.12 Mbit/s
+ID: BIH007 M
+Correct #CW: 
+B6 BB 0C 7D D9 F3 A7 73
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11023 Vertical 7199,757
@@ -171,6 +190,15 @@ ID: F489 MAIN
 Event:  
  Euroleague, Monaco v Maccabi Tel Aviv
 CW: 7F 47 26 EC 3C 87 55 18
+---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers, Group G, Round 3
+Hungary vs France (Tomorrow 27/2)
+Eutelsat 7A/7B/7C @ 7.0°E
+11460 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.93 Mbit/s
+ID: HUN-017/LINE1
+CW: 69 7D 40 26 6F 24 F7 8A
 ---FEED-SEPARATOR---
 FIBA World Cup, Asian & Oceanian Qualifiers, Gr. D, Round 3
 Qatar vs India (Tomorrow 27/2) 
