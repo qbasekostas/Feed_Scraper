@@ -1,3 +1,20 @@
+Eutelsat 10A @ 10.0°E
+10767 V 34000
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 13.98 Mbit/s
+ID: OCC 1 
+CW: CB 56 33 54 22 AD CB 9A
+Eutelsat 10A @ 10.0°E
+10767 V 34000
+DVB-S2 | 8PSK | 5/6
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 13.95 Mbit/s
+ID: OCC 2
+CW: B1 CB 45 C1 DA ED F5 BC
+---FEED-SEPARATOR---
 candu said:
 			EUTELSAT 10E
 10768 V 34000 S2
