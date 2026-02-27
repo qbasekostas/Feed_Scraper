@@ -148,6 +148,23 @@ Event:
      World Cup Qualification, Austria v Netherlands
 CW: BD FA 59 10 36 22 83 DB
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12629 Vertical 7199,74
+DVB-S2 - 4:2:0 - 8PSK
+ID: Medialink CRO-021/1
+Event:  
+    World Cup Qualification, Croatia v Germany 
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers
+Serbia vs Türkiye
+Eutelsat 7A/7B/7C @ 7.0°E
+12704 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.94 Mbit/s
+ID: YSM021
+CW: B6 BB 0C 7D D9 F3 A7 73
+---FEED-SEPARATOR---
 Astra 1KR-1L-1M-1N ( 19.2E )
 11633 V 7200
 DVB-S2 - 4:2:0 - 8PSK
