@@ -1,0 +1,14 @@
+Friendly Women
+3.1E
+MOROCCO VS BURKENA FASOU
+- Freq: 
+11662,240
+- ID:MRC004-M
+- Pol: 
+Horizontal
+- SR: 
+7200,068
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+CW: FE ED 27 12 02 20 26 48
