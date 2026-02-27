@@ -42,3 +42,11 @@ ID: LAT-001 M
 Event:  
 World Cup Qualification, Ukraine v Spain      
 FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11181 Horizontal 7199,642
+DVB-S2 - 4:2:0 - 8PSK
+ID: FIBA BWC27 AUT NED
+Event:  
+     World Cup Qualification, Austria v Netherlands
+CW: BD FA 59 10 36 22 83 DB
