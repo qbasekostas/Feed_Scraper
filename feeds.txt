@@ -43,6 +43,50 @@ Event:
 AUSTRALASIA:    World Cup Qualification, Iraq v Syria
 FTA/CLEAR
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12639 V 4937
+DVB-S2 | 8PSK |1920x1080 | 4:2:0
+ID: YSM-016 MAIN
+Event: 
+MTS Basketball
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+del
+---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers, Group H, Round 3
+Slovenia vs Czechia 
+Eutelsat 7A/7B/7C @ 7.0°E
+12521 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.12 Mbit/s
+ID: SLO-008 Tx 2
+CW: 3B D6 7C 8D C8 89 A2 F3
+---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers, Group A, Round 3
+Denmark vs Georgia
+Eutelsat 7A/7B/7C @ 7.0°E
+11523 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.05 Mbit/s
+ID: DNK-ORE6
+CW: FE 31 4B 7A 65 6D 0B DD
+---FEED-SEPARATOR---
+Astra 1KR/1M/1N/1P @ 19.2°E
+11562 - V - 7200 |4:2:0 | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: E394 1
+Event: 
+FIBA World Cup - European Qualifiers - Greece vs Montenegro
+CW: 41 63 B6 5A F1 DB BF 8B
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11127 Horizontal 7199,76
+DVB-S2 - 4:2:0 - 8PSK
+ID: POR 24
+Event:  
+     World Cup Qualification, Portugal v Romania
+CW: 78 25 A6 43 F1 99 78 02
+---FEED-SEPARATOR---
 FIBA World Cup, European Qualifiers, Group H, Round 4
 Sweden vs Estonia
 Eutelsat 7A/7B/7C @ 7.0°E
