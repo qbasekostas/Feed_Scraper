@@ -40,7 +40,7 @@ Asiasat 5 @ 100.5°E
 ID: BT_SES_24_SDI 
 (Provider ID: SES)
 MPEG4 | DVB-S2
-1920x1080i |12,27Mb/Sec |8PSK| 
+1920x1080i |12,21Mb/Sec |8PSK| 
 4:2:0
  HD
 Event: England - EFL Championship (Matchday 35)
