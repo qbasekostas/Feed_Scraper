@@ -35,6 +35,28 @@ DVB-S2 | 8PSK | 5/6
 ID: AFD
 CW: 74 1B AD 3C 21 94 1A CF
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3984 V 7119 C-Band
+ID: BT_SES_24_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,27Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 35)
+Teams: Bristol City vs Watford
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+#CW:
+28 30 BC 14 32 23 5F B4
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11097 Vertical 7118,384
+DVB-S2 - 4:2:0 - 8PSK
+ID:    Pitch EFL - Bristol City v Watford
+Event:  
+English Championship, Bristol City v Watford  
+CW: 28 30 BC 14 32 23 5F B4
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12511 Horizontal 7198,44
 DVB-S2 - 4:2:0 - 8PSK
