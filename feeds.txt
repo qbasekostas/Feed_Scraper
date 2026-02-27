@@ -35,13 +35,21 @@ DVB-S2 | 8PSK | 5/6
 ID: AFD
 CW: 74 1B AD 3C 21 94 1A CF
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-12726 Vertical 7198,422
+Eutelsat 16A   ( 16.0E )
+12511 Horizontal 7198,44
 DVB-S2 - 4:2:0 - 8PSK
-ID: LAT-001 M
+ID: PID 17
 Event:  
-World Cup Qualification, Ukraine v Spain      
+AUSTRALASIA:    World Cup Qualification, Iraq v Syria
 FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12726 Vertical 7198,434
+DVB-S2 - 4:2:0 - 8PSK
+ID:  LAT-001 M
+Event:  
+   World Cup Qualification, Ukraine v Spain       
+CW: E7 82 08 71 B6 86 FB 37
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11181 Horizontal 7199,642
