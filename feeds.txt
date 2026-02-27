@@ -43,6 +43,18 @@ Event:
 AUSTRALASIA:    World Cup Qualification, Iraq v Syria
 FTA/CLEAR
 ---FEED-SEPARATOR---
+19.2e
+11620 V 7200
+4:2:0
+ID: 
+FIBA - GBA v ITA
+World Cup - Qualification - First round
+EUROPE:
+Great Britain
+Italy
+A0 5B F9 3F EB D3 7A A1  #CW: 
+27 80 09 B0 58 2E F6 7C
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12726 Vertical 7198,434
 DVB-S2 - 4:2:0 - 8PSK
