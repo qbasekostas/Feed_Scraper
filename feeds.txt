@@ -43,6 +43,24 @@ Event:
 AUSTRALASIA:    World Cup Qualification, Iraq v Syria
 FTA/CLEAR
 ---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers, Group E, Round 3
+Croatia vs Germany
+Eutelsat 7A/7B/7C @ 7.0°E
+12510 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.90 Mbit/s
+ID: CRO-023/1
+CW: 64 C1 FB 20 16 66 60 DC
+---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers, Group E, Round 3
+ vs Cyprus 
+Eutelsat 7A/7B/7C @ 7.0°E
+12677 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.88 Mbit/s
+ID: Basketball_CYP International Feed_MAIN
+CW: F3 E1 D6 AA 27 A5 18 E4
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12639 V 4937
 DVB-S2 | 8PSK |1920x1080 | 4:2:0
