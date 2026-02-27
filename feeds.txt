@@ -34,3 +34,11 @@ DVB-S2 | 8PSK | 5/6
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 16.89 Mbit/s
 ID: AFD
 CW: 74 1B AD 3C 21 94 1A CF
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12726 Vertical 7198,422
+DVB-S2 - 4:2:0 - 8PSK
+ID: LAT-001 M
+Event:  
+World Cup Qualification, Ukraine v Spain      
+FTA/CLEAR
