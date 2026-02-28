@@ -60,3 +60,11 @@ Horizontal
 - FEC: 3/4
 - Std: DVB-S2
 CW: FE ED 27 12 02 20 26 48
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12627 Vertical 4937,042
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-013M 
+Event:  
+Serbia First League, Sombor BC  v Borac Zemun
+CW: AB BA 20 85 25 20 26 6B
