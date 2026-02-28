@@ -1,3 +1,9 @@
+10.0°E
+11305 V 7200
+4:2:0
+ID: E-228 Main
+CW: AB BA 28 8D 02 20 26 48
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11044 Vertical 7199,758
 DVB-S2 - 4:2:0 - 8PSK
