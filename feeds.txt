@@ -1,4 +1,12 @@
 Eutelsat 7A/B   ( 7.0E )
+11044 Vertical 7199,758
+DVB-S2 - 4:2:0 - 8PSK
+ID: SUI 067 MAIN
+Event:  
+      Italian Super Cup, Trentino v Perugia
+CW: FB 85 C8 48 FB 86 5E DF
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12602 Vertical 7199,752
 DVB-S2 - 4:2:0 - 8PSK
 ID: (empty)
@@ -36,6 +44,14 @@ Championship
  Leicester   vs   Norwich
 85 7A 05 71 E2 5A 03 A7  #CW: 
 35 48 99 16 88 E7 73 E2
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11089 Vertical 7119,759
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch - EFL - Preston v Millwall
+Event:  
+English Championship, Preston v Millwall
+CW: 21 1C 11 4E 82 02 DE 62
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3984 V 7120
