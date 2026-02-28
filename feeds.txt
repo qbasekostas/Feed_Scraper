@@ -16,6 +16,16 @@ Event:
    Turkish Sultanlar Ligi Women, Besiktas - Galatasaray  
 CW: 42 36 00 78 00 42 36 78
 ---FEED-SEPARATOR---
+100.5e
+3974 V 7120
+4:2:0
+ID: 
+BT_SES_24_SDI
+Championship
+ Leicester   vs   Norwich
+85 7A 05 71 E2 5A 03 A7  #CW: 
+35 48 99 16 88 E7 73 E2
+---FEED-SEPARATOR---
 Friendly Women
 3.1E
 MOROCCO VS BURKENA FASOU
