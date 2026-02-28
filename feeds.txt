@@ -1,3 +1,11 @@
+Eutelsat 7A/B   ( 7.0E )
+12602 Vertical 7199,752
+DVB-S2 - 4:2:0 - 8PSK
+ID: (empty)
+Event:  
+     Polsih PlusLiga, Zawiercie v Olsztyn 
+CW: 20 25 AB F0 CD 1E CA B5
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11461 Vertical 6798,499
 DVB-S2 - 
