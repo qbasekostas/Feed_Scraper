@@ -109,6 +109,24 @@ Event:
 Spain Liga U - Granada U22 v Bilbao U22
 FTA/CLEAR
 ---FEED-SEPARATOR---
+African World Cup Qualifier 
+Basketball 
+Madagascar 
+ Sengal
+Eutelsat 21.0E
+11109 v 7200
+ID: Fiba Dakar
+CW: AA 49 39 2c 3d dc ac c5
+---FEED-SEPARATOR---
+African World Cup Qualifier 
+Basketball 
+Egypt 
+ Angola 
+Eutelsat 7.0E
+12686 H 7200
+ID: EGY HD22
+CW: DD 98 33 A8 C1 24 5D 42
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12627 Vertical 4937,042
 DVB-S2 - 4:2:0 - 8PSK
