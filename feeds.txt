@@ -16,6 +16,17 @@ Event:
    Turkish Sultanlar Ligi Women, Besiktas - Galatasaray  
 CW: 42 36 00 78 00 42 36 78
 ---FEED-SEPARATOR---
+xachik said:
+Championship
+ Leicester   vs   Norwich
+85 7A 05 71 E2 5A 03 A7  #CW: 
+35 48 99 16 88 E7 73 E2
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11098 Vertical 7119,736
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch EFL - Leicester V Norwich
+---FEED-SEPARATOR---
 100.5e
 3974 V 7120
 4:2:0
@@ -25,6 +36,15 @@ Championship
  Leicester   vs   Norwich
 85 7A 05 71 E2 5A 03 A7  #CW: 
 35 48 99 16 88 E7 73 E2
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+B7 13 35 1B 1F 99 C0 0B  #CW:
+21 1C 11 4E 82 02 DE 62
+   #[E] PID:07D1h
+Preston North End vs Millwall
 ---FEED-SEPARATOR---
 Friendly Women
 3.1E
