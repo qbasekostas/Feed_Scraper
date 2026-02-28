@@ -77,6 +77,14 @@ Horizontal
 - Std: DVB-S2
 CW: FE ED 27 12 02 20 26 48
 ---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
+12573 Vertical 7198,444
+DVB-S2 - 4:2:0 - 8PSK
+ID: E-266 8MM Via1
+Event:       
+Spain Liga U - Granada U22 v Bilbao U22
+FTA/CLEAR
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12627 Vertical 4937,042
 DVB-S2 - 4:2:0 - 8PSK
