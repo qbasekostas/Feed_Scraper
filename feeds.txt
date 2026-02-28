@@ -1,3 +1,13 @@
+Turksat 3A/4A   ( 42.0E )
+11461 Vertical 6798,499
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TKS.TRT.M29-B
+Event:  
+   Turkish Sultanlar Ligi Women, Besiktas - Galatasaray  
+CW: 42 36 00 78 00 42 36 78
+---FEED-SEPARATOR---
 Friendly Women
 3.1E
 MOROCCO VS BURKENA FASOU
