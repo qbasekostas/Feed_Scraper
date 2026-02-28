@@ -77,6 +77,15 @@ Horizontal
 - Std: DVB-S2
 CW: FE ED 27 12 02 20 26 48
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11607 Vertical 7199,751
+DVB-S2 - 4:2:0 - 8PSK
+ID: M-Three ITA 622 Feed1
+Event:      
+ Spain Women League, 
+IDK Gipuzkoa  v Zaragoza
+FTA/CLEAR
+---FEED-SEPARATOR---
 Astra 2E/2F/2G  ( 28.2E )
 12573 Vertical 7198,444
 DVB-S2 - 4:2:0 - 8PSK
