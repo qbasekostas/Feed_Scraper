@@ -1,0 +1,25 @@
+xFayez95 said:
+CW: 5C D1 14 41 16 A5 26 E1
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11460 Vertical 7498,354
+DVB-S2 - 4:2:0 - 8PSK
+ID:  AFD
+Event:       
+Argentinean Primera División - Newell's Old Boys v Rosario Central
+---FEED-SEPARATOR---
+Eutelsat 7B-7C  @ 07.0E
+10959 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: WSHT ENC 59
+Event: 
+Basketball - Minnesota vs Denver
+CW: 95 54 19 02 52 EF 1F 60
+---FEED-SEPARATOR---
+Astra 1KR-1L-1M-1N ( 19.2E )
+11620 Vertical 7198,533
+DVB-S2 - 4:2:0 - 8PSK
+ID:  POL-033 out1
+Event:  
+ World Cup Qualification, Poland v Latvia    
+CW: 7A AE 43 6B F4 F2 91 77
