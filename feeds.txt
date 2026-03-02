@@ -47,7 +47,7 @@ Eutelsat 7A/B   ( 7.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID: E242 FIBA MAIN
 Event:  
-  World Cup Qualification, Spain v Ukraine   
+World Cup Qualification, Italy v Great Britain
 CW: CF 13 05 E7 3E 6E 6E 1A
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
