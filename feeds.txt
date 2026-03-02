@@ -9,6 +9,14 @@ Event:
 CW: 87 21 00 A8 00 87 21 A8
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+12678 Vertical 7198,393
+DVB-S2 - 4:2:0 - 8PSK
+ID: Flavia 7D
+Event:  
+  World Cup Qualification, Switzerland v Bosnia & Herzegovina   
+CW: 93 A9 5B 97 A8 DD C5 4A
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12695 Vertical 7199,749
 DVB-S2 - 4:2:0 - 8PSK
 ID: TUR-119 Main
