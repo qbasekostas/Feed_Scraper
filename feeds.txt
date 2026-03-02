@@ -17,6 +17,15 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
    #[E] PID:07D1h
 Birmingham City vs Middlesbrough
 ---FEED-SEPARATOR---
+SES 5/ASTRA 4A  ( 4.9E )
+12529 Horizontal 3599,234
+DVB-S2 - 4:2:0 - 8PSK
+ID: ALB-007 RTSH
+Provider Name: RTSH
+Event: 
+EuroBasket Qualification, Albania v Slovakia
+FTA/CLEAR
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12685 Vertical 7198,431
 DVB-S2 - 4:2:0 - 8PSK
