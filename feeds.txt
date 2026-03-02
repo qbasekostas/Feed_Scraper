@@ -8,6 +8,22 @@ Event:
    Turkish Cup Women - Play Offs, Eczacibasi v Goztepe  
 CW: 87 21 00 A8 00 87 21 A8
 ---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12557 Horizontal 4936,242
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-016 MAIN
+Event:  
+Basket 3x3 - Serbia MTS
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Astra 1KR-1L-1M-1N ( 19.2E )
+11561 Vertical 7198,508
+DVB-S2 - 4:2:0 - 8PSK
+ID:   LTU-005 main
+Event:  
+   World Cup Qualification, Lithuania v Iceland
+CW: F7 56 22 6F E3 B9 70 0C
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11190 Horizontal 7199,768
 DVB-S2 - 4:2:0 - 8PSK
