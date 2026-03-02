@@ -8,6 +8,14 @@ Event:
    Turkish Cup Women - Play Offs, Eczacibasi v Goztepe  
 CW: 87 21 00 A8 00 87 21 A8
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11070 Vertical 7118,323
+DVB-S2 - 4:2:0 - 8PSK
+ID:   Pitch Birmingham v Middlesbrough
+Event:  
+   English Championship, Birmingham City v Middlesbrough  
+CW: 39 02 07 42 3D 35 56 C8
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3984 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
