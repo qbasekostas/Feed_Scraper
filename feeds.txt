@@ -9,6 +9,21 @@ Event:
 CW: 87 21 00 A8 00 87 21 A8
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+12509 Vertical 7198,331
+DVB-S2 - 4:2:0 - 8PSK
+ID:  E242 main SKY
+Event:  
+   World Cup Qualification, Italy v Great Britain
+CW: F3 01 93 87 46 B7 D1 CE
+---FEED-SEPARATOR---
+ Türksat 42E
+ Frequency: 11487 V 6800
+ Resolution: 1080i50 HD 4:2:2
+ ID: TUR-M25-A (TRT IST)
+ Event: Türkiye - Serbia (FIBA 2027 Basketball)
+CW: 23 62 00 85 00 23 62 85
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12678 Vertical 7198,393
 DVB-S2 - 4:2:0 - 8PSK
 ID: Flavia 7D
