@@ -8,6 +8,31 @@ Event:
    Turkish Cup Women - Play Offs, Eczacibasi v Goztepe  
 CW: 87 21 00 A8 00 87 21 A8
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+25 E7 FF F9 40 80 B4 B7  #CW:
+39 02 07 42 3D 35 56 C8
+   #[E] PID:07D1h
+Birmingham City vs Middlesbrough
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12685 Vertical 7198,431
+DVB-S2 - 4:2:0 - 8PSK
+ID: I.E CZE V ESP
+Event:  
+     World Cup Qualification, Spain v Ukraine
+CW: CB 14 5E 3D 7B 26 9E 3F
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12726 Vertical 7198,438
+DVB-S2 - 4:2:0 - 8PSK
+ID: E242 FIBA MAIN
+Event:  
+  World Cup Qualification, Spain v Ukraine   
+CW: CF 13 05 E7 3E 6E 6E 1A
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12509 Vertical 7198,331
 DVB-S2 - 4:2:0 - 8PSK
