@@ -1,0 +1,7 @@
+Astra 1KR-1L-1M-1N ( 19.2E )
+11574 Vertical 7198,537
+DVB-S2 - 4:2:0 - 8PSK
+ID:  ROU-062 Back-Up
+Event:  
+  World Cup Qualification, Romania v Portugal   
+CW: 9F EC EA 75 9F 08 2F D6
