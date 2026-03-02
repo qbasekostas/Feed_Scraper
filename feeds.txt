@@ -8,6 +8,14 @@ Event:
    Turkish Cup Women - Play Offs, Eczacibasi v Goztepe  
 CW: 87 21 00 A8 00 87 21 A8
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12695 Vertical 7199,749
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR-119 Main
+Event:  
+  World Cup Qualification, Georgia v Denmark   
+CW: 27 06 48 75 89 C2 8C D7
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12557 Horizontal 4936,242
 DVB-S2 - 4:2:0 - 8PSK
