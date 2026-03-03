@@ -15,3 +15,31 @@ Estudiantes  vs Velez Sarsfield
 4.2.0 HD
 ID: AFD
 CW: 5C D1 14 41 16 A5 26 E1
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12541 Vertical 9874,64
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: EMG HOL309-1
+Event:  
+   World Cup Women Qualification, Poland v Netherlands  
+CW: DD F0 BE 8B 4F D0 1B 3A
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11461 Vertical 6798,511
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: TKS TRT M20 A
+Event:  
+World Cup Women Qualification, Turkey v Malta   
+CW: 63 85 00 E8 00 63 85 E8
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11125 Vertical 9599,673
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA 795 M
+Event:  
+World Cup Women Qualification, Italy v Sweden  
+CW: E0 1C 9C 98 07 AF 74 2A
