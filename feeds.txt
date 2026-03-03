@@ -40,6 +40,23 @@ Event:
   Turkish Cup Women, Fenerbahce v Aras Kargo    
 CW: 44 22 00 66 00 44 22 66
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11023 Vertical 7119,764
+DVB-S2 - 4:2:0 - 8PSK
+ID: : PITCH - Doncaster v Stockport
+Event:  
+ EFL Trophy - Play Offs, Doncaster Rovers v Stockport County
+CW: 75 85 05 FF 8D 23 27 D7
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+6B B9 89 40 59 9E D2 73  #CW: 
+75 85 05 FF 8D 23 27 D7
+   #[E] PID:07D1h
+Doncaster Rovers vs Stockport County (EFL Trophy)
+---FEED-SEPARATOR---
 English Premier League - Week 29
 Wolves vs. Liverpool
 Intelsat 10-02 @ 1.0°W
@@ -135,6 +152,16 @@ Event:
 World Cup Women Qualification, Italy v Sweden  
 CW: E0 1C 9C 98 07 AF 74 2A
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12509 Vertical 7198,415
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Ireland v France
+Event:  
+World Cup Women Qualification, Ireland v France
+CW: 20 26 DB 21 EF 03 03 F5
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 10986 Vertical 9597,903
 DVB-S2 -
@@ -182,6 +209,22 @@ Event:
   Fifa Football:  
 World Cup Women Qualification, Austria v Norway
 CW: 03 03 FE 04 ED 20 26 33
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12685 Horizontal 7198,434
+DVB-S2 - 4:2:0 - 8PSK
+ID:  BCK
+Event:  
+      Euroleague Women, Venezia v Schio
+FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12648 Horizontal 7198,426
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Medialink CRO-024/1
+Event:  
+ABA League, Split v Perspektiva Ilirija  
+CW: 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12557 Horizontal 4936,163
