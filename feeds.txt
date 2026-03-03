@@ -16,15 +16,26 @@ Estudiantes  vs Velez Sarsfield
 ID: AFD
 CW: 5C D1 14 41 16 A5 26 E1
 ---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11470 Vertical 6798,508
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: TUR 123 A
+Event:  
+  Turkish Cup Women, Fenerbahce v Aras Kargo    
+CW: 44 22 00 66 00 44 22 66
+---FEED-SEPARATOR---
 English Premier League - Week 29
-Bournemouth vs. Brentford
+Wolves vs. Liverpool
 Intelsat 10-02 @ 1.0°W
 11481 - V - 7200 
 |
 4:2:0
  | H.264
 1920*1080 | DVB-S2 | 8PSK
-ID: UKI-1870
+NEW: 
+ID: TNT VISION 3
 CW: F5 B0 89 2E BC 12 E2 B0
 ---FEED-SEPARATOR---
 English Premier League - Week 29
@@ -84,3 +95,20 @@ ID: ITA 795 M
 Event:  
 World Cup Women Qualification, Italy v Sweden  
 CW: E0 1C 9C 98 07 AF 74 2A
+---FEED-SEPARATOR---
+28.2E
+12508 H 9875 
+4:2:0
+DVB-S2 8PSK
+ID: D383 DRSD WF Main
+Event: 
+World Cup Women Qualification, Germany v Slovenia
+CW: BB C9 99 1D 81 A7 11 39
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11070 Vertical 7118,425
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch WF Cup Germany v Slovenia
+Event:  
+World Cup Women Qualification, Germany v Slovenia    
+CW: BB C9 99 1D 81 A7 11 39
