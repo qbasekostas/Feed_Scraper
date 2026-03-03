@@ -40,6 +40,21 @@ Event:
   Turkish Cup Women, Fenerbahce v Aras Kargo    
 CW: 44 22 00 66 00 44 22 66
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,54Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: England - Premier League (Matchday 29)
+Teams: Everton vs Burnley
+Time / Kickoff: 02.30 JKT-TH / 03.30 MY-SG / 19.30 GMT / 20.30 CET
+HBO said:
+CW: DF B5 A3 37 21 DC BB B8
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11023 Vertical 7119,764
 DVB-S2 - 4:2:0 - 8PSK
