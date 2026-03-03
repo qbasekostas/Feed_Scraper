@@ -60,6 +60,31 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: C0 A5 B1 16 3C 70 A0 4C
 ---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12525 Horizontal 4798,954
+DVB-S2 - 4:2:0 - 8PSK
+ID: CZE 001/1
+Event:  
+World Cup Women Qualification, Czech Republic v Wales    
+FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11469 Vertical 7199,756
+DVB-S2 - 4:2:0 - 8PSK
+ID: MAIN
+Event:  
+ World Cup Women Qualification, Ukraine v England 
+FTA/CLEAR
+---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0E)
+12620 V 7200
+MPEG-4 FTA DVB-S2 8PSK,4:2:0
+ID: 
+E394 MAIN
+Provider: OVERON
+World Cup Qualification Women,League C,Group 4, Round 1
+Greece W - Georgia W (17:30)
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12542 Vertical 6658,552
 DVB-S2 - 4:2:0 - 8PSK
@@ -96,6 +121,25 @@ Event:
 World Cup Women Qualification, Italy v Sweden  
 CW: E0 1C 9C 98 07 AF 74 2A
 ---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+10986 Vertical 9597,903
+DVB-S2 -
+ 4:2:2
+ - 8PSK
+ID: POL 48 ENC1
+Event: 
+World Cup Women Qualification, Poland v Netherlands   
+CW: EF 11 18 18 88 20 26 CE
+---FEED-SEPARATOR---
+28.2E 
+12520 H 9875 
+4:2:0
+DVB-S2 8PSK
+ID: D-383 DRSD MDR FEED
+Event: 
+World Cup Women Qualification, Germany v Slovenia
+CW: BB C9 99 1D 81 A7 11 39
+---FEED-SEPARATOR---
 28.2E
 12508 H 9875 
 4:2:0
@@ -112,3 +156,25 @@ ID: Pitch WF Cup Germany v Slovenia
 Event:  
 World Cup Women Qualification, Germany v Slovenia    
 CW: BB C9 99 1D 81 A7 11 39
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11128 Horizontal 9874,661
+DVB-S2 -
+ 4:2:2 
+- 8PSK
+ID: Service 1
+Provider Name: EBUER
+Event:  
+  Fifa Football:  
+World Cup Women Qualification, Austria v Norway
+CW: 03 03 FE 04 ED 20 26 33
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12557 Horizontal 4936,163
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-021M
+Event:       
+ABA League 2, Podgorica v Helios Domzale
+20:00
+ ABA League 2, Student Igokea v Primorje
+CW: AB BA 20 85 25 20 26 6B
