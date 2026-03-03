@@ -1,3 +1,11 @@
+Eutelsat 7A/B   ( 7.0E )
+11606 Vertical 7498,367
+DVB-S2 - 4:2:0 - 8PSK
+ID: AFD
+Event:       
+Argentinean Primera División, Independiente RM v River Plate
+CW: 5C D1 14 41 16 A5 26 E1
+---FEED-SEPARATOR---
 Argentinean Primera División
  - 
 Round 8
