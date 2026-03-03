@@ -1,3 +1,17 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+PMT PID: 3890, SID: 47 @ OCC 1 (Servicios Audiovisuales Overon, S L)
+PMT PID: 3900, SID: 48 @ OCC 2 (Servicios Audiovisuales Overon, S L)
+PMT PID: 3910, SID: 49 @ OCC 3 (Servicios Audiovisuales Overon, S L)
+PMT PID: 3840, SID: 50 @ OCC 4 (Servicios Audiovisuales Overon, S L)
+CW :
+6A 36 94 2A 6A A3 2F E4  #CW: 35 AD C6 A8 51 1D EE 5C   #[E] PID:0F01h ( OCC4)
+C0 3D 8E 34 08 96 60 65  #CW: 14 14 AD D5 BC EF EE 99   #[E] PID:0F33h (OCC1)
+98 E3 F7 6F DD 6B C0 F7  #CW: AD FC BC 65 33 AD 45 25   #[E] PID:0F3Dh (OCC2)
+54 B7 47 DF CF 24 D9 3F  #CW: DF B5 A3 37 21 DC BB B8   #[E] PID:0F47h (OCC3)
+Copa Libertadores de América +Copa Sudamericana  
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11606 Vertical 7498,367
 DVB-S2 - 4:2:0 - 8PSK
