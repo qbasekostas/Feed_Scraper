@@ -97,6 +97,34 @@ Event:
 CW: 63 85 00 E8 00 63 85 E8
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+11190 Horizontal 7199,752
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Encoder 2
+Event:  
+Scottish Premiership, Aberdeen v Celtic
+CW: 2C DE FF 09 C4 53 16 2D
+---FEED-SEPARATOR---
+Premier League 
+Newcastle United vs Manchester United
+Datazone Feed
+19.2E
+11817 V 31428
+DVB-S2 4:2:0 8PSK
+ID: Astra 1 Service 1
+CW: 11 11 11 33 11 11 11 33
+---FEED-SEPARATOR---
+English Premier League
+ - Week 29
+Manchester City vs Nottingham Forest
+3.1E
+10959 H 7500
+4.2.0 HD
+ID: beIN SPORTS
+10969 H 7500
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 11023 Vertical 7118,424
 DVB-S2 - 4:2:0 - 8PSK
 ID: : Pitch Luton v Northampton
@@ -192,6 +220,11 @@ ID: YSM-016 MAIN
 Event:  
 ABA League 2, Vojvodina Novi Sad v Radnicki
 CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+still wrong key   guys
+correct cw 
+			78 B1 12 2F 1C D1 BB 03  #CW:4F AE 28 25 A9 3F 0A F2
+Click to expand...
 ---FEED-SEPARATOR---
 Gevs999 said:
 			key not working
