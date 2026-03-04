@@ -51,17 +51,6 @@ CONMEBOL COPA SUDAMERICANA
 COBRESAL VS AUDAX ITALIANO
 CW: DF B5 A3 37 21 DC BB B8
 ---FEED-SEPARATOR---
-Ratzvan said:
-			Eutelsat 7A/B   ( 7.0E )
-12602 Vertical 7199,77
-DVB-S2 - 4:2:0 - 8PSK
-ID: POL-080 MAIN
-Event: 
-Champions League - Play Offs, Rzeszow v Roeselare 
-CW: AC AB A1 F8 C4 D3 A2 39
-Click to expand...
-Champions League - play-off match: PGE Projekt Warszawa - Itas Trentino
----FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11488 Vertical 6798,494
 DVB-S2 - 
@@ -77,7 +66,7 @@ Eutelsat 7A/B   ( 7.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID: POL-080 MAIN
 Event: 
-Champions League - Play Offs, Rzeszow v Roeselare 
+Champions League - Play Offs, Projekt Warszawa v Trentino
 CW: AC AB A1 F8 C4 D3 A2 39
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
@@ -186,3 +175,28 @@ ID: YSM-016 MAIN
 Event:  
 ABA League 2, Vojvodina Novi Sad v Radnicki
 CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Gevs999 said:
+			key not working
+Click to expand...
+updated with new key 
+---FEED-SEPARATOR---
+xFayez95 said:
+Eutelsat 7A/7B/7C @ 7.0°E
+12510 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.25 Mbit/s
+ID: KIFI VS PAOK A
+CW: 4F A3 28 1A A9 3F 0A F2
+Click to expand...
+key not working
+---FEED-SEPARATOR---
+Stoiximan Super League, Round 18
+Kifisia vs PAOK
+Eutelsat 7A/7B/7C @ 7.0°E
+12510 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.25 Mbit/s
+ID: KIFI VS PAOK A
+78 B1 12 2F 1C D1 BB 03  
+CW: 4F AE 28 25 A9 3F 0A F2   #[E] PID:0200h
