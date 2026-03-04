@@ -51,6 +51,14 @@ CONMEBOL COPA SUDAMERICANA
 COBRESAL VS AUDAX ITALIANO
 CW: DF B5 A3 37 21 DC BB B8
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12593 Vertical 7199,748
+DVB-S2 - 4:2:0 - 8PSK
+ID: (empty)
+Event:  
+     Champions League - Play Offs, Rzeszow v Roeselare 
+CW: 20 26 AB F1 CD 1E CA B5
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11461 Vertical 6798,49
 DVB-S2 - 
@@ -60,6 +68,15 @@ ID: TUR-143A
 Event:  
    Turkish Cup Women - Play Offs, Vakifbank v Zeren Spor   
 CW: 63 85 00 E8 00 63 85 E8
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+8C 3F 22 54 10 F6 9B 1D  #CW: 
+B4 39 23 10 42 A2 55 39
+   #[E] PID:07D1h
+Luton Town vs Northampton Town
 ---FEED-SEPARATOR---
 English Premier League - Week 29
 Manchester City vs. Nottingham Forest
@@ -104,3 +121,24 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 2A 51 99 14 06 9F 24 C9
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12515 Horizontal 4937,112
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-012 MAIN
+Event:  
+3X3 Basket    MTS Karavan U15 - Serbia 
+CW: 
+AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12521 Horizontal 4937,043
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-013M 
+Event:  
+ABA League 2, Vojvodina Novi Sad v Radnicki
+18:00 
+Vrsac v Borac Banja Luka
+20:30
+ Sutjeska v Sloboda
+CW: AB BA 20 85 25 20 26 6B
