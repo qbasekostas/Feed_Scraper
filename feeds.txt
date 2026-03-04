@@ -123,6 +123,15 @@ ID: Unname
 CW: 2A 51 99 14 06 9F 24 C9
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+12545 Horizontal 4937,126
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-016 MAIN
+Event:  
+     ABA League 2, Vrsac v Borac Banja Luka
+CW: 
+ AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12515 Horizontal 4937,112
 DVB-S2 - 4:2:0 - 8PSK
 ID: YSM-012 MAIN
@@ -132,13 +141,9 @@ CW:
 AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
-12521 Horizontal 4937,043
+12544 Horizontal 4937,043
 DVB-S2 - 4:2:0 - 8PSK
-ID: YSM-013M 
+ID: YSM-016 MAIN
 Event:  
 ABA League 2, Vojvodina Novi Sad v Radnicki
-18:00 
-Vrsac v Borac Banja Luka
-20:30
- Sutjeska v Sloboda
 CW: AB BA 20 85 25 20 26 6B
