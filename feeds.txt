@@ -1,73 +1,47 @@
-ABA League 2
-Sutjeska vs OKK Sloboda Tuzla
-16.0E
-12508 H 4938
-4.2.0 HD
-ID: YSM-021M
-CW: AB BA 20 85 25 20 26 6B
+COPA CONMEBOL Sudamericana Eliminatorias:
+Caracas vs Mitropolitanos
+Eutelsat 10E
+10768 V 34001/
+4.2.2
+OCC 2
+CW: DB 54 AD DC FC BC AA 62
 ---FEED-SEPARATOR---
-Turksat 3A/4A   ( 42.0E )
-11470 Vertical 6798,529
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: Tur 144 M
-Event:  
- EuroCup Women - Play Offs, CBK Mersin v Lattes Montpellier
-CW: 63 57 00 BA 00 63 57 BA
+COPA CONMEBOL Sudamericana Eliminatorias:
+Trinidense vs Olimpia
+Eutelsat 10E
+10768 V 34001/
+4.2.2
+OCC 3
+CW: 24 AD CB 9C 77 DE 32 87
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-12545 Horizontal 4937,126
-DVB-S2 - 4:2:0 - 8PSK
-ID: YSM-016 MAIN
-Event:  
-     ABA League 2, Vrsac v Borac Banja Luka
-CW: 
- AB BA 20 85 25 20 26 6B
+COPA CONMEBOL LIBERTADORES Eliminatorias:
+Blooming vs CD San Antonio Bulo Bulo
+Eutelsat 10E
+10768 V 34001/
+4.2.2
+OCC 5
+CW: DC B4 AD 3D 55 11 22 88
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-12515 Horizontal 4937,112
-DVB-S2 - 4:2:0 - 8PSK
-ID: YSM-012 MAIN
-Event:  
-3X3 Basket    MTS Karavan U15 - Serbia 
-CW: 
-AB BA 20 85 25 20 26 6B
+45W INTELSAT 14 C 
+4104V10000
+ID: SERV2CASA14
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+CW: 24 AD CB 9C 66 ED 11 64
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-12544 Horizontal 4937,043
-DVB-S2 - 4:2:0 - 8PSK
-ID: YSM-016 MAIN
-Event:  
-ABA League 2, Vojvodina Novi Sad v Radnicki
-CW: AB BA 20 85 25 20 26 6B
+COPA CONMEBOL LIBERTADORES Eliminatorias:
+O'Higgins vs Deportes Tolima
+Eutelsat 10E
+10768 V 34001/
+4.2.2
+OCC 4
+CW: DC 56 67 99 DA AC B6 3C
 ---FEED-SEPARATOR---
-still wrong key   guys
-correct cw 
-			78 B1 12 2F 1C D1 BB 03  #CW:4F AE 28 25 A9 3F 0A F2
-Click to expand...
----FEED-SEPARATOR---
-Gevs999 said:
-			key not working
-Click to expand...
-updated with new key 
----FEED-SEPARATOR---
-xFayez95 said:
-Eutelsat 7A/7B/7C @ 7.0°E
-12510 V 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.25 Mbit/s
-ID: KIFI VS PAOK A
-CW: 4F A3 28 1A A9 3F 0A F2
-Click to expand...
-key not working
----FEED-SEPARATOR---
-Stoiximan Super League, Round 18
-Kifisia vs PAOK
-Eutelsat 7A/7B/7C @ 7.0°E
-12510 V 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.25 Mbit/s
-ID: KIFI VS PAOK A
-78 B1 12 2F 1C D1 BB 03  
-CW: 4F AE 28 25 A9 3F 0A F2   #[E] PID:0200h
+COPA CONMEBOL LIBERTADORES Eliminatorias:
+Carabobo
+Sporting Cristal
+Eutelsat 10E
+10768 V 34001/
+4.2.2
+OCC 1
+CW: AF 56 11 16 22 DC B3 B1
