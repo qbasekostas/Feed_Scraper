@@ -51,6 +51,15 @@ CONMEBOL COPA SUDAMERICANA
 COBRESAL VS AUDAX ITALIANO
 CW: DF B5 A3 37 21 DC BB B8
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11071 Vertical 7198,405
+DVB-S2 - 4:2:0 - 8PSK
+ID: VOLLEY_WORLD_MAIN
+Event:      
+ Italy Serie A1 Women, 
+Vallefoglia v Vero Volley
+CW: 80 EE 46 B4 BA 24 20 FE
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11488 Vertical 6798,494
 DVB-S2 - 
@@ -86,6 +95,14 @@ ID: TUR-143A
 Event:  
    Turkish Cup Women - Play Offs, Vakifbank v Zeren Spor   
 CW: 63 85 00 E8 00 63 85 E8
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11023 Vertical 7118,424
+DVB-S2 - 4:2:0 - 8PSK
+ID: : Pitch Luton v Northampton
+Event:  
+EFL Trophy - Play Offs, Luton Town v Northampton Town
+CW: B4 39 23 10 42 A2 55 39
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3984 V 7120
