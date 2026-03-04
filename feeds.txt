@@ -51,6 +51,35 @@ CONMEBOL COPA SUDAMERICANA
 COBRESAL VS AUDAX ITALIANO
 CW: DF B5 A3 37 21 DC BB B8
 ---FEED-SEPARATOR---
+Ratzvan said:
+			Eutelsat 7A/B   ( 7.0E )
+12602 Vertical 7199,77
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL-080 MAIN
+Event: 
+Champions League - Play Offs, Rzeszow v Roeselare 
+CW: AC AB A1 F8 C4 D3 A2 39
+Click to expand...
+Champions League - play-off match: PGE Projekt Warszawa - Itas Trentino
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11488 Vertical 6798,494
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: TUR 123 A
+Event:  
+   Turkish Cup Women - Play Offs, Galatasaray v Kuzey Boru Genclik  
+CW: 32 87 00 B9 00 32 87 B9
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12602 Vertical 7199,77
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL-080 MAIN
+Event: 
+Champions League - Play Offs, Rzeszow v Roeselare 
+CW: AC AB A1 F8 C4 D3 A2 39
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12593 Vertical 7199,748
 DVB-S2 - 4:2:0 - 8PSK
@@ -121,6 +150,16 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 2A 51 99 14 06 9F 24 C9
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11470 Vertical 6798,529
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Tur 144 M
+Event:  
+ EuroCup Women - Play Offs, CBK Mersin v Lattes Montpellier
+CW: 63 57 00 BA 00 63 57 BA
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12545 Horizontal 4937,126
