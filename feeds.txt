@@ -36,12 +36,3 @@ Eutelsat 10E
 4.2.2
 OCC 4
 CW: DC 56 67 99 DA AC B6 3C
----FEED-SEPARATOR---
-COPA CONMEBOL LIBERTADORES Eliminatorias:
-Carabobo
-Sporting Cristal
-Eutelsat 10E
-10768 V 34001/
-4.2.2
-OCC 1
-CW: AF 56 11 16 22 DC B3 B1
