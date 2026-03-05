@@ -1,3 +1,11 @@
+ASIASAT5 100.5E
+COPA GAMES
+3840 H 30000
+OCC1 CW: DA E3 5B 18 CA BB CC 51
+OCC2 CW: CB F1 3D F9 EA BB CC 71
+OCC3 CW: DC B7 ED 80 33 A1 22 F6
+OCC4 CW: CB 65 11 41 DE AC DE 68
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3840 H 29998
 8PSK 5/6 DVB-S2 4.2.2
@@ -52,6 +60,14 @@ Eutelsat 10E
 OCC 4
 CW: DC 56 67 99 DA AC B6 3C
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12677 Horizontal 7199,743
+DVB-S2 - 4:2:0 - 8PSK
+ID:  UKI-1462 - MAIN
+Event:  
+ CEV Cup, ACH Ljubljana v Fenerbahce
+CW: 63 E9 BB 07 C8 4D 62 77
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11470 Vertical 6798,517
 DVB-S2 - 
@@ -69,6 +85,22 @@ ID: E-411_via 2
 Event:      
 Champions League - Play Offs, Guaguas v Montpellier
 CW: 53 4C 64 03 68 F8 6F CF
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11190 Horizontal 7199,754
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Encoder 2
+Event:  
+ ENGLISH FOOTBALL: FA CUP PREVIEW
+CW: AB CD EE 66 FF 05 03 07
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12640 Horizontal 7499,741
+DVB-S2 - 4:2:2 - 8PSK
+ID: ITA593 main
+Event: 
+Euroleague, Olimpia Milano v Barcelona
+CW: B4 1D 61 32 F1 8A B9 34
 ---FEED-SEPARATOR---
 Euro League (7.0e)
 Fenerbahce Vs. Monaco
