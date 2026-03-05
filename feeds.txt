@@ -51,3 +51,43 @@ Eutelsat 10E
 4.2.2
 OCC 4
 CW: DC 56 67 99 DA AC B6 3C
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11470 Vertical 6798,517
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 123 A
+Event:  
+ CEV Cup, Galatasaray v Maaseik  
+CW: 43 54 00 97 00 43 54 97
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12510 Vertical 7199,756
+DVB-S2 - 4:2:0 - 8PSK
+ID: E-411_via 2
+Event:      
+Champions League - Play Offs, Guaguas v Montpellier
+CW: 53 4C 64 03 68 F8 6F CF
+---FEED-SEPARATOR---
+Euro League (7.0e)
+Fenerbahce Vs. Monaco
+11222h 34285 -- 4.2.0
+9LKs7 EUROLEAGUE 11
+CW: 9A CE 3F A7 6B 3A F7 9C
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11062 Horizontal 7199,743
+DVB-S2 - 4:2:0 - 8PSK
+ID:  i390main
+Event:  
+ Euroleague, Olimpia Milano v Barcelona
+CW: 55 76 BE 89 8A 9D EA 11
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11107 Horizontal 7199,757
+DVB-S2 - 4:2:0 - 8PSK
+ID: G18 E336 Main Via 1
+Event:  
+   Euroleague, Valencia v Zalgiris Kaunas
+CW: B7 8E 1A 5F 61 5B DA 96
