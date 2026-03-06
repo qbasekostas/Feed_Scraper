@@ -19,3 +19,16 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 33 D5 D7 DF E2 A7 19 A2
+---FEED-SEPARATOR---
+ABA League
+Zadar
+KK Split
+7°E
+12648 
+H 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:Medialink CRO-024/1
+CW: C8 34 77 73 B2 A4 FB 51
