@@ -27,12 +27,22 @@ ID: Uki-1592
 Scottish Cup - Quarter Final
 Falkirk v Dundee United
 ---FEED-SEPARATOR---
+Satfun2017 said:
+Championship 
+Preston N.E. Vs Oxford Utd
+CW: B6 B4 25 8F 25 C3 43 2B
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11088 Vertical 7118,503
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Pitch Preston v Oxford Utd
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12727 Vertical 7199,742
 DVB-S2 - 4:2:0 - 8PSK
 ID: ENC 21
-Event:      
- English FA Cup, Wolves v Liverpool
+Event:     
+  Scottish Cup, Falkirk v Dundee United
 CW: BC AA 45 AB 56 BB CA DB
 ---FEED-SEPARATOR---
 Championship 
