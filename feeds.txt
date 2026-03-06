@@ -20,7 +20,19 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: 33 D5 D7 DF E2 A7 19 A2
 ---FEED-SEPARATOR---
-ABA League
+Hot Bird 13B/13C/13E @ 13.0E
+10847  Vertical  7501,823
+ID:E333 M (*unnamed-1*)
+1920x1080 |16,720Mb/Sec 8PSK |4:2:2 HD
+Turquía
+Super Lig - Jornada 21
+Beşiktaş
+ vs 
+Merkezefendi
+E1 C0 20 E1 07 AD 64 FC  #CW:41 4C 93 20 4A 61 4A F5  
+---FEED-SEPARATOR---
+Akrem said:
+			ABA League
 Zadar
 KK Split
 7°E
@@ -32,3 +44,5 @@ DVB-S2-
 -8PSK
 ID:Medialink CRO-024/1
 CW: C8 34 77 73 B2 A4 FB 51
+Click to expand...
+CW 20 25 AB F0 CD 20 26 13
