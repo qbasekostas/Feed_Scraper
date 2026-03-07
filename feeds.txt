@@ -283,6 +283,13 @@ Belgium W
  vs 
 Israel W
 ---FEED-SEPARATOR---
+16E
+12547 H 7200
+ID: F560 M6 EDFF
+World Cup Qualification Women,League C Group 2,Round 2
+France W - Poland W 
+CW: :ABCF078103EDFFEF
+---FEED-SEPARATOR---
 Astra 4A & SES 5 (4.8E)
 12601 H 3750
 MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
