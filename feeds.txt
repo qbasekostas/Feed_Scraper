@@ -27,6 +27,14 @@ ID POL-080 Beckup
 CW : 15 58 35 A2 81 42 63 16
 TAURON Liga Women
 ---FEED-SEPARATOR---
+7E
+11163 H 7200 
+4:2:0
+DVBS-2 8PSK
+ID UKI-1955-2
+Scottish Cup - Quarter Final
+Dunfermline Athletic v Aberdeen
+---FEED-SEPARATOR---
 28.2E
 12604 H 7500 
 4:2:2
@@ -34,6 +42,16 @@ DVBS-2 8PSK
 ID Gigatel HD 
 Welsh Cup 
 Flint Town United V Bangor 1876
+---FEED-SEPARATOR---
+28.2E
+12515 H 7200 
+4:2:0
+DVBS2 8PSK
+ID 
+WFAC R5 -
+CW: AA 23 44 11 AB BB 1A 80
+English FA Cup - 5th Round Proper
+Wrexham v Chelsea
 ---FEED-SEPARATOR---
 English FA Cup - 5th Round Proper
 Newcastle United vs. Manchester City
@@ -216,6 +234,16 @@ PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: 81 02 D3 56 4C 32 58 D6
 Blackburn Rovers vs Portsmouth
+---FEED-SEPARATOR---
+28.2E
+12506 H 7120 
+4:2:0
+12667 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID Cloudbass
+FIFA/UEFA Womens WC 2027 Qualifiers
+Scotland v Luxembourg
 ---FEED-SEPARATOR---
 28.2E
 12645 V 5000 
