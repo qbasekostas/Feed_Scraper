@@ -246,6 +246,23 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: 81 02 D3 56 4C 32 58 D6
 Blackburn Rovers vs Portsmouth
 ---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0E)
+12619 V 7200
+MPEG-4 FTA DVB-S2 8PSK,4:2:0
+ID: 
+BAV
+World Cup Qualification Women,League C,Group 4,Round 2
+Greece W - Faroe Island W (19:30)
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+11154 H 7200
+MPEG-4 FTA DVB-S2 8PSK,4:2:0
+ID: 
+A1PRO Via1
+Provider: Net 1
+World Cup Qualification Women,League C Group 2,Round 2
+Gibraltar W - Bulgaria W (19:00)
+---FEED-SEPARATOR---
 28.2E
 12506 H 7120 
 4:2:0
