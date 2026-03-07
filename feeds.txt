@@ -1,8 +1,30 @@
+AbuHaya said:
+			7.0E
+12592 V 7200
+ID POL-080 Beckup
+CW : 15 58 35 A2 81 42 63 16
+TAURON Liga Women
+Click to expand...
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 7.0E
 12592 V 7200
 ID POL-080 Beckup
 CW : 15 58 35 A2 81 42 63 16
 TAURON Liga Women
+---FEED-SEPARATOR---
+English Championship - Week 36
+Blackburn Rovers vs. Portsmouth
+Eutelsat 7B/7C @ 7.0°E
+10996 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: WBC Mexico at GB
+HBO said:
+CW: 81 02 D3 56 4C 32 58 D6
+Click to expand...
 ---FEED-SEPARATOR---
 8.0°W
 12530 V 15000
