@@ -21,6 +21,17 @@ ID Gigatel HD
 Welsh Cup 
 Flint Town United V Bangor 1876
 ---FEED-SEPARATOR---
+English FA Cup - 5th Round Proper
+Newcastle United vs. Manchester City
+Eutelsat 7B/7C @ 7.0°E
+12640 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: D2 87 CA 23 92 CB B1 0E
+---FEED-SEPARATOR---
 English Championship - Week 36
 Derby County vs. Sheffield Wednesday
 Eutelsat 7B/7C @ 7.0°E
@@ -202,6 +213,16 @@ Belgium W
  vs 
 Israel W
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10832 V 7500
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E333 M
+Event: 
+Turkish Super Lig - Bahcesehir vs Bursaspor
+CW: 64 21 50 D5 32 6F 31 D2
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event:  
 Turkish Super Lig, Galatasaray v Turk Telekom
@@ -232,7 +253,7 @@ Panionios vs Kalamata
 ID: Service 01
 FTA
 ---FEED-SEPARATOR---
-Hotbird( 13.0E )
+Hot Bird 13B/13C/13E @ 13.0E
 10820 V 7200
 DVB-S2 - 4:2:0 - 8PSK
 ID: TANDBERG
