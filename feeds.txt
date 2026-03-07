@@ -21,6 +21,19 @@ ID Gigatel HD
 Welsh Cup 
 Flint Town United V Bangor 1876
 ---FEED-SEPARATOR---
+English Championship - Week 36
+Derby County vs. Sheffield Wednesday
+Eutelsat 7B/7C @ 7.0°E
+11061- H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Derby v Sheff Wed
+HBO said:
+CW: 11 EE 57 56 AE 43 EE DF
+Click to expand...
+---FEED-SEPARATOR---
 7.0°East
 11022 V 7200 DVB-S2 8PSK
 MPEG 4 - 4:2:0 - HDTV
@@ -218,3 +231,11 @@ Panionios vs Kalamata
 12634 V 7200
 ID: Service 01
 FTA
+---FEED-SEPARATOR---
+Hotbird( 13.0E )
+10820 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TANDBERG
+Event:
+Greek Super League - Aris vs Atromitos
+CW: C1 6D D7 05 13 39 49 95
