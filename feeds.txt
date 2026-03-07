@@ -21,6 +21,46 @@ ID Gigatel HD
 Welsh Cup 
 Flint Town United V Bangor 1876
 ---FEED-SEPARATOR---
+English FA Cup - 5th Round Proper
+Wrexham vs. Chelsea
+Intelsat 10-02 @ 1.0°W
+11630 - V - 7200 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Wrexham res
+CW: 5E 51 DF 8E C0 D5 95 2A
+---FEED-SEPARATOR---
+ABS 3A 3w
+11010 V 10000 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: 
+UKI-1646 IMG Media Wrexham 
+Event: 
+FA CUP: Wrexham VS CHELSEA
+CW: AB 12 CD 8A 13 EF 14 16
+---FEED-SEPARATOR---
+English FA Cup - 5th Round Proper
+Wrexham vs. Chelsea
+Intelsat 10-02 @ 1.0°W
+10969 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Wrexham Main
+CW: 5E 51 DF 8E C0 D5 95 2A
+---FEED-SEPARATOR---
+ABS 3A 3w
+10996 V 10000 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: 
+ITV Sport Eng V Ice Satt Backup 
+Event: Women Football ITV UK - England vs Iceland
+H/T: Eng 1 Iceland 0 
+CW: A1 24 4A 0F BC 15 C4 95
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3966 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
