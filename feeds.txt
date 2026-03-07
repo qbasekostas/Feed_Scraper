@@ -227,6 +227,12 @@ Belgium W
  vs 
 Israel W
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0E
+11306  Vertical  7201,79
+ID: SINTRA 1 MN (MEO)
+1920x1080 |16,051Mb/Sec 8PSK |4:2:0 HD
+CW: 6A 7B 5F 44 C1 8D E3 31
+---FEED-SEPARATOR---
 Eutelsat 16A (16.0E)
 12557 H 7200
 MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
@@ -248,6 +254,16 @@ DVB-S2-
 -8PSK
 ID:SLO-008 Tx 1
 CW: 08 75 72 EF 54 4E 4C EE
+---FEED-SEPARATOR---
+Eutelsat 7A/B ( 7.0E )
+11144 H 7200
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: POL 068 CH1
+Event: 
+Polska Liga Basketball - Wloclawek vs Legia
+CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10832 V 7500
