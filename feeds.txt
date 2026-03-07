@@ -1,0 +1,28 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 81 02 D3 56 4C 32 58 D6
+Blackburn Rovers vs Portsmouth
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+Turkish Super Lig, Galatasaray v Turk Telekom
+CW: C6 FE 9A 5E 87 26 BF 6C
+Click to expand...
+Hot Bird ( 13.0E )
+12609 Vertical 7498,428
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:   TUR 112 MAIN
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10957 Vertical 7498,355
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
+Event:  
+Turkish Super Lig, Galatasaray v Turk Telekom
+CW: C6 FE 9A 5E 87 26 BF 6C
