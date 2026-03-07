@@ -231,6 +231,10 @@ Eutelsat 10B @ 10.0E
 11306  Vertical  7201,79
 ID: SINTRA 1 MN (MEO)
 1920x1080 |16,051Mb/Sec 8PSK |4:2:0 HD
+Mundial Femenino - Clasificación - Liga B
+Portugal F
+ VS 
+Eslovaquia F
 CW: 6A 7B 5F 44 C1 8D E3 31
 ---FEED-SEPARATOR---
 Eutelsat 16A (16.0E)
