@@ -28,10 +28,10 @@ CW : 15 58 35 A2 81 42 63 16
 TAURON Liga Women
 ---FEED-SEPARATOR---
 7E
-11163 H 7200 
+11136 H 7200 
 4:2:0
 DVBS-2 8PSK
-ID UKI-1955-2
+ID UKI-1955-1
 Scottish Cup - Quarter Final
 Dunfermline Athletic v Aberdeen
 ---FEED-SEPARATOR---
@@ -42,6 +42,17 @@ DVBS-2 8PSK
 ID Gigatel HD 
 Welsh Cup 
 Flint Town United V Bangor 1876
+---FEED-SEPARATOR---
+Scottish Cup - Quarter Final
+Dunfermline Athletic vs. Aberdeen
+Eutelsat 7B/7C @ 7.0°E
+12727 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: ENC 6
+CW: BC AA 45 AB 56 BB CA DB
 ---FEED-SEPARATOR---
 28.2E
 12515 H 7200 
@@ -254,6 +265,16 @@ World Cup Women Qualification
 Belgium W
  vs 
 Israel W
+---FEED-SEPARATOR---
+Astra 4A & SES 5 (4.8E)
+12601 H 3750
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+STA SNG HD 2
+Provider: STALBANIA
+World Cup Qualification Women, League B,Group 1,Round 2
+Albania W - Czech Republic W (18:00)
+CW: AE 26 35 09 C8 8C 66 BA
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 11306  Vertical  7201,79
