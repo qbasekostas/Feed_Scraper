@@ -21,6 +21,14 @@ ID Gigatel HD
 Welsh Cup 
 Flint Town United V Bangor 1876
 ---FEED-SEPARATOR---
+7.0°East
+11022 V 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: Womens WC England v Iceland
+ITV UK - Womens Football - England W vs Iceland W
+Game almost Finished : 78mins Eng 2 Iceland 0
+CW: FF DE 33 10 AA 07 03 B4
+---FEED-SEPARATOR---
 English FA Cup - 5th Round Proper
 Wrexham vs. Chelsea
 Intelsat 10-02 @ 1.0°W
@@ -170,6 +178,16 @@ PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: 81 02 D3 56 4C 32 58 D6
 Blackburn Rovers vs Portsmouth
+---FEED-SEPARATOR---
+28.2E
+12645 V 5000 
+4:2:0
+DVBS-2 16APSK
+ID: VRT-BEL vs ISR
+World Cup Women Qualification
+Belgium W
+ vs 
+Israel W
 ---FEED-SEPARATOR---
 Ratzvan said:
 			Event:  
