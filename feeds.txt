@@ -1,3 +1,17 @@
+Poland,
+Warta Zawiercie
+Cuprum Stilon Gorzow
+​
+7°E
+12600 
+V 
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:  (Empty)
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 AbuHaya said:
 			7.0E
 12592 V 7200
@@ -213,6 +227,16 @@ Belgium W
  vs 
 Israel W
 ---FEED-SEPARATOR---
+7°E
+12620 
+H 
+9875
+DVB-S2-
+4:2:0
+-8PSK
+ID:SLO-008 Tx 1
+CW: 08 75 72 EF 54 4E 4C EE
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10832 V 7500
 DVB-S2 - 
@@ -252,6 +276,13 @@ Panionios vs Kalamata
 12634 V 7200
 ID: Service 01
 FTA
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 24
+AEK vs AEL
+13e
+10848 V 7200
+ID: AEK VS AEL A
+CW: 74 14 42 CA F4 7C F1 61
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10820 V 7200
