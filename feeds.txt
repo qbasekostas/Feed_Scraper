@@ -227,6 +227,18 @@ Belgium W
  vs 
 Israel W
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+12557 H 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+YSM-021M
+Provider: DSNG
+World Cup Qualification Women, League A,Group 1,Round 2
+Serbia W - Sweden W (16:00)
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+FIFA/UEFA Womens European Qualifiers - League A, Round 2
+Slovinia vs Austria
 7°E
 12620 
 H 
