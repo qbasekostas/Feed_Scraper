@@ -18,6 +18,19 @@ Rangers v Celtic
 CW: BC AA 45 AB 56 BB CA DB
 coulr screen 
 ---FEED-SEPARATOR---
+English Championship - Week 36
+Queens Park Rangers vs. Middlesbrough
+Eutelsat 7B/7C @ 7.0°E
+10987- V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch QPR v Middlesbrough
+Satfun2017 said:
+CW: 93 A2 41 76 52 5F EA 9B
+Click to expand...
+---FEED-SEPARATOR---
 Championship 
 QPR Vs Middlesbrough
 100.5°E C
