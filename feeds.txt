@@ -1,3 +1,13 @@
+Turksat 2A-3A-4A @ 42.0E
+11470  Vertical  6802,236
+ID:TKS.TRT.M29-B (*unnamed-1*)
+1920x1080 |15,162Mb/Sec 8PSK |4:2:2 HD
+Halkbank
+ VS 
+Ziraat Bankasi
+Turquía
+CW: 44 53 00 97 00 44 53 97
+---FEED-SEPARATOR---
 7.0 E
 11070 H 7200
 4.2.0 HD 13.86Mp
@@ -7,30 +17,6 @@ Scottish Fa Cup
 Rangers v Celtic
 CW: BC AA 45 AB 56 BB CA DB
 coulr screen 
----FEED-SEPARATOR---
-madness74 said:
-			Eutelsat 7E
-Ferq. 11070 H 7200
-Glasco Rangers - Celtic
-CW: BC AA 45 AB 56 BB CA DB
-Click to expand...
-Post in thread 'ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E, 23.5°E , 10°E, , 7°E , 100.5°E , 0.8°WEST'
-Today at 10:55
-7.0 E
-11070 H 7200
-4.2.0 HD 13.86Mp
-ID: IMG A EU
-Event: 
-Scottish Fa Cup
-Rangers v Celtic
-CW: BC AA 45 AB 56 BB CA DB
-coulr screen 
-Jacop
----FEED-SEPARATOR---
-Eutelsat 7E
-Ferq. 11070 H 7200
-Glasco Rangers - Celtic 
-CW: BC AA 45 AB 56 BB CA DB
 ---FEED-SEPARATOR---
 Satfun2017 said:
 English League One 
