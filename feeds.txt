@@ -23,6 +23,14 @@ Click to expand...
 10988 v 7120
 id: Pitch- EFL - AFC Wimbledon v Northampton
 ---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F @ 28.2E
+12507  Horizontal  7201,79
+ID:*unnamed-1* (*unnamed-1*)
+1920x1080 |16,051Mb/Sec 8PSK |4:2:0 HD
+FA CUP : 
+Leeds United v Norwich City
+12 C6 E2 65 B2 ED CE 9E  #CW:10 C2 E5 B7 44 E7 C4 EF  
+---FEED-SEPARATOR---
 English League One 
 AFC Wimbledon Vs Northampton Town
 100.5°E C
