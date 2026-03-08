@@ -8,6 +8,39 @@ Rangers v Celtic
 CW: BC AA 45 AB 56 BB CA DB
 coulr screen 
 ---FEED-SEPARATOR---
+1W
+10970 V 15000 
+4:2:2
+DVBS-2 8PSK
+ID 
+No name
+CW: 65 17 F7 73 46 34 90 0A
+English FA Cup - 5th Round Proper
+Port Vale v Sunderland
+---FEED-SEPARATOR---
+1W
+10990 V 15000 
+4:2:2
+DVBS-2 8PSK
+ID 
+No name
+CW: 65 17 F7 73 46 34 90 0A
+English FA Cup - 5th Round Proper
+Port Vale v Sunderland
+---FEED-SEPARATOR---
+Ratzvan said:
+			Eutelsat 7A/B   ( 7.0E )
+11190 Horizontal 7199,754
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Encoder 2
+Event:  
+ ENGLISH FOOTBALL: FA CUP PREVIEW
+CW: AB CD EE 66 FF 05 03 07
+Click to expand...
+Active 
+New CW: 
+AB CD EE 66 FF 08 03 0A
+---FEED-SEPARATOR---
 Ozan said:
 			3.1E
 11666 H 7200
