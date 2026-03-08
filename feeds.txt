@@ -18,6 +18,13 @@ Rangers v Celtic
 CW: BC AA 45 AB 56 BB CA DB
 coulr screen 
 ---FEED-SEPARATOR---
+19.2°E
+11817 V 31430
+4:2:0
+ID: Astra 1 Service 2
+CW: 11 11 11 33 11 11 11 33
+FA Cup:  Leeds United - Norwich City
+---FEED-SEPARATOR---
 English Championship - Week 36
 Queens Park Rangers vs. Middlesbrough
 Eutelsat 7B/7C @ 7.0°E
@@ -151,6 +158,16 @@ ID: TUR156 Main
 Event: 
 Turkish Super Lig - Trabzonspor vs Karsiyaka
 CW: 16 43 67 C0 BD D1 A9 37
+---FEED-SEPARATOR---
+Satfun2017 said:
+Greek Super League 1
+Levadiakos Vs Panathinaikos
+Click to expand...
+13.0°E
+10838 V 7200
+4:2:0
+ID: LEVA VS PAO
+CW: 2F 82 2B DC 39 16 21 70
 ---FEED-SEPARATOR---
 Greek Super League 1
 Levadiakos Vs Panathinaikos
