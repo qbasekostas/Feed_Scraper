@@ -8,6 +8,16 @@ Rangers v Celtic
 CW: BC AA 45 AB 56 BB CA DB
 coulr screen 
 ---FEED-SEPARATOR---
+English League One 
+AFC Wimbledon Vs Northampton Town
+100.5°E C
+@ AsiaSat 5
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_22_SDI
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
 28.2E
 12595 H 7200 
 4:2:0
@@ -58,6 +68,16 @@ DVB-S2 4:2:0 8PSK
 ID: M49-MRC007-Bu
 CW: FE ED 07 F2 03 20 26 49
 Click to expand...
+---FEED-SEPARATOR---
+Verdeoro said:
+			Event: 
+Turkish Super Lig - Trabzonspor vs Karsiyaka
+CW: 16 43 67 C0 BD D1 A9 37
+Click to expand...
+Turksat 2A-3A-4A @ 42.0E
+10957  Vertical  7501,845
+ID:TUR156 Main (HDPROTEK)
+1920x1080 |16,720Mb/Sec 8PSK |4:2:2 HD
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 12601 V 7500
