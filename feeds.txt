@@ -18,6 +18,16 @@ Rangers v Celtic
 CW: BC AA 45 AB 56 BB CA DB
 coulr screen 
 ---FEED-SEPARATOR---
+Championship 
+QPR Vs Middlesbrough
+100.5°E C
+@ AsiaSat 5
+3966 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 93 A2 41 76 52 5F EA 9B
+---FEED-SEPARATOR---
 Satfun2017 said:
 English League One 
 AFC Wimbledon Vs Northampton Town
@@ -128,6 +138,15 @@ ID: TUR156 Main
 Event: 
 Turkish Super Lig - Trabzonspor vs Karsiyaka
 CW: 16 43 67 C0 BD D1 A9 37
+---FEED-SEPARATOR---
+Greek Super League 1
+Levadiakos Vs Panathinaikos
+39.0°E @ Hellas Sat 3/4
+12633 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: E394 MAIN (OVERON)
+CW: 64 E1 9A DF 3D 88 CF 94
 ---FEED-SEPARATOR---
 Greek Super League 1
 Asteras Tripolis
