@@ -1,3 +1,11 @@
+Eutelsat 7A/B ( 7.0E )
+10977 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA 790 WORLD FEED VERONA
+Event: 
+Italy Superlega Volleyball - Verona vs Milano
+CW: E9 43 EC 18 D9 35 6F 7D
+---FEED-SEPARATOR---
 Turksat 2A-3A-4A @ 42.0E
 11470  Vertical  6802,236
 ID:TKS.TRT.M29-B (*unnamed-1*)
