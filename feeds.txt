@@ -8,6 +8,30 @@ Rangers v Celtic
 CW: BC AA 45 AB 56 BB CA DB
 coulr screen 
 ---FEED-SEPARATOR---
+madness74 said:
+			Eutelsat 7E
+Ferq. 11070 H 7200
+Glasco Rangers - Celtic
+CW: BC AA 45 AB 56 BB CA DB
+Click to expand...
+Post in thread 'ENGLISH-SCOTISH-WELSH-IRISH FOOTBALL (Please state if 420 or 422) 28.2°E, 23.5°E , 10°E, , 7°E , 100.5°E , 0.8°WEST'
+Today at 10:55
+7.0 E
+11070 H 7200
+4.2.0 HD 13.86Mp
+ID: IMG A EU
+Event: 
+Scottish Fa Cup
+Rangers v Celtic
+CW: BC AA 45 AB 56 BB CA DB
+coulr screen 
+Jacop
+---FEED-SEPARATOR---
+Eutelsat 7E
+Ferq. 11070 H 7200
+Glasco Rangers - Celtic 
+CW: BC AA 45 AB 56 BB CA DB
+---FEED-SEPARATOR---
 Satfun2017 said:
 English League One 
 AFC Wimbledon Vs Northampton Town
@@ -111,3 +135,14 @@ ID: TUR156 Main
 Event: 
 Turkish Super Lig - Trabzonspor vs Karsiyaka
 CW: 16 43 67 C0 BD D1 A9 37
+---FEED-SEPARATOR---
+Greek Super League 1
+Asteras Tripolis
+ Vs 
+Panseraikos
+39.0°E @ Hellas Sat 3/4
+12620 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: E394 MAIN (OVERON)
+CW: D9 1A B3 A6 6F E9 9C F4
