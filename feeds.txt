@@ -8,6 +8,21 @@ Rangers v Celtic
 CW: BC AA 45 AB 56 BB CA DB
 coulr screen 
 ---FEED-SEPARATOR---
+Satfun2017 said:
+English League One 
+AFC Wimbledon Vs Northampton Town
+100.5°E C
+@ AsiaSat 5
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 22 66 F3 7B 62 23 01 86
+Click to expand...
+7E
+10988 v 7120
+id: Pitch- EFL - AFC Wimbledon v Northampton
+---FEED-SEPARATOR---
 English League One 
 AFC Wimbledon Vs Northampton Town
 100.5°E C
