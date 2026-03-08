@@ -16,6 +16,24 @@ Ziraat Bankasi
 Turquía
 CW: 44 53 00 97 00 44 53 97
 ---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service 01
+Scottish Cup - Quarter Final
+St Mirren v Partick Thistle
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+12702 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Cup - Quarter Final
+St Mirren v Partick Thistle
+---FEED-SEPARATOR---
 7.0 E
 11070 H 7200
 4.2.0 HD 13.86Mp
@@ -166,6 +184,15 @@ ID: TUR156 Main
 Event: 
 Turkish Super Lig - Trabzonspor vs Karsiyaka
 CW: 16 43 67 C0 BD D1 A9 37
+---FEED-SEPARATOR---
+NBA
+Lakers vs Knicks
+Eutelsat 7A/7B/7C @ 7.0°E
+10960 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.94 Mbit/s
+ID: WSHT ENC52
+CW: B3 AE 9A FB B2 0F 65 26
 ---FEED-SEPARATOR---
 Satfun2017 said:
 Greek Super League 1
