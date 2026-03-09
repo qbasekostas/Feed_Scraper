@@ -1,0 +1,8 @@
+Eutelsat 7A/B   ( 7.0E )
+11190 Horizontal 7199,759
+DVB-S2 - 4:2:0 - 8PSK
+ID: Encoder 2
+Provider Name: GlobeCast UK
+Event:  
+     English FA Cup Highlights
+CW: AB CD EE 66 FF 09 03 0B
