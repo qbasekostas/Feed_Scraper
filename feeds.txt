@@ -3,7 +3,7 @@ Intelsat 10-02 ( 1.0W )
 DVB-S2 - 4:2:0 - 8PSK
 ID:  (empty)
 Event:  
-English FA Cup: Draw or match feed
+English FA Cup, West Ham United v Brentford
 CW: 70 8A 9A 94 A8 F4 19 B5
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
@@ -15,6 +15,16 @@ Event:
      English FA Cup Highlights
 CW: AB CD EE 66 FF 09 03 0B
 ---FEED-SEPARATOR---
+Hellas Sat 3/4 ( 39.0E )
+12621 Vertical 7198,558
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Service 01
+Event:  
+Greece Elite League, Vikos v Chalkida    
+FTA/CLEAR
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12534 Vertical 4799,009
 DVB-S2 - 4:2:0 - 8PSK
@@ -22,6 +32,28 @@ ID:  (empty)
 Event:  
  Romania Divizia A, Dinamo Bucharest v CSM Targu Mures    
 FTA/CLEAR
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+ Turkish Super Lig, Manisa v Anadolu Efes    
+CW: D8 5C 6A 9E CA 2F 13 0C
+Click to expand...
+Turksat 3A/4A   ( 42.0E )
+10957 Vertical 7498,354
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR139-Main
+---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+12609 Vertical 7498,473
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  TUR139-Main
+Event:  
+ Turkish Super Lig, Manisa v Anadolu Efes    
+CW: D8 5C 6A 9E CA 2F 13 0C
 ---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12510 Horizontal 4936,235
