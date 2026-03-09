@@ -1,3 +1,14 @@
+Ratzvan said:
+			Eutelsat 7A/B   ( 7.0E )
+11190 Horizontal 7199,759
+DVB-S2 - 4:2:0 - 8PSK
+ID: Encoder 2
+Provider Name: GlobeCast UK
+CW: AB CD EE 66 FF 09 03 0B
+Click to expand...
+Event:  
+ English FA Cup - Quarter Final Draw
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 11464 Vertical 7198,399
 DVB-S2 - 4:2:0 - 8PSK
@@ -14,6 +25,17 @@ Provider Name: GlobeCast UK
 Event:  
      English FA Cup Highlights
 CW: AB CD EE 66 FF 09 03 0B
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10998 Horizontal 9874,664
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: LEUK_Fi01_UCL_HL
+Event:  
+     Champions League Highlights feed 
+- TOMORROW
+CW: A1 E1 F6 78 90 2E DE 9C
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12686 Horizontal 7199,612
