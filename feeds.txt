@@ -1,3 +1,11 @@
+FA Cup Round 5
+West Ham United vs Brentford
+7E
+12736 V 7200
+DVB-S2 4:2:0 8PSK
+ID: ENC 3
+CW: 12 3C AA F8 14 22 A3 D9
+---FEED-SEPARATOR---
 Ratzvan said:
 			Eutelsat 7A/B   ( 7.0E )
 11190 Horizontal 7199,759
@@ -64,6 +72,18 @@ ID:  (empty)
 Event:  
  Romania Divizia A, Dinamo Bucharest v CSM Targu Mures    
 FTA/CLEAR
+---FEED-SEPARATOR---
+LBA
+.ITALY
+EA7 EMPORIO ARMANI MLAN
+VS 
+ACQUA S.BERNARDO CANTO
+10.0E
+10721 H 7200
+4.2.2
+ HD
+ID: Encoder 3
+CW: 7E 23 5F 00 CC C5 63 F4
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12508 Vertical 4936,215
