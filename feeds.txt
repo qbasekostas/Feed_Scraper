@@ -15,6 +15,16 @@ Event:
      English FA Cup Highlights
 CW: AB CD EE 66 FF 09 03 0B
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12686 Horizontal 7199,612
+DVB-S2 - 4:2:0 - 8PSK
+ID: UKI-1955-1
+Event:  
+     Uefa Champions League
+, Newcastle v Barcelona
+ (pre-match conference)
+CW: CC AA 5B D1 1A AC 55 1B
+---FEED-SEPARATOR---
 Hellas Sat 3/4 ( 39.0E )
 12621 Vertical 7198,558
 DVB-S2 - 
@@ -32,6 +42,14 @@ ID:  (empty)
 Event:  
  Romania Divizia A, Dinamo Bucharest v CSM Targu Mures    
 FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12508 Vertical 4936,215
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-016 MAIN
+Event:  
+ ABA League, Mega Basket v Studentski Centar
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Ratzvan said:
 			Event:  
