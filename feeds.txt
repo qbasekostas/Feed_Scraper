@@ -1,3 +1,24 @@
+UEFA Champions League - Round of 16 (1st Leg)
+Atlético Madrid vs. Tottenham Hotspur
+Intelsat 10-02 @ 1.0°W
+12611 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: E-385 MAIN PGM
+CW: F4 DE CB 9D 49 DE 63 8A
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11488 Vertical 6798,511
+DVB-S2 -
+ 4:2:2
+ - 8PSK
+ID: (empty)
+Event:  
+     Champions League - Play Offs, Galatasaray v Liverpool
+CW: 52 67 00 B9 00 52 67 B9
+---FEED-SEPARATOR---
 Ratzvan said:
 CW: A1 E1 F6 78 90 2E DE 9C
 Click to expand...
@@ -35,6 +56,13 @@ DVB-S2X
  - 4:2:0 - 
 16APSK
 ID: FEED 051
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12704 V 7200
+ID: TUR-M25-A (TRT IST)
+1920x1080 |15,680Mb/Sec 8PSK |4:2:0 HD
+event: world cup 2026 weman basketball
+B2 9D 4B 39 DA 75 D2 DB  #CW:94 80 E2 F6 D9 6C 3B 80   
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11070 Horizontal 7198,431
