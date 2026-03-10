@@ -75,6 +75,23 @@ DVB-S2X
 16APSK
 ID: FEED 051
 ---FEED-SEPARATOR---
+UEFA Champions League
+Newcastle United vs Barcelona
+Eutelsat 7A/7B/7C @ 7.0°E
+11543 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 10.47 Mbit/s
+ID: UCL-PSG v NEWCASTLE BACKUP FEED E414
+CW: 0D 7E DB 66 8B CC C7 1E
+---FEED-SEPARATOR---
+UEFA Champions League
+Newcastle
+Barça
+Eutelsat 7E
+11544 V 7199
+UCL-PSG V NEWCASTLE MAIN FE
+CW: 0D 7E DB 66 8B CC C7 1E
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11084 Vertical 17139,406
 DVB-S2 - 
@@ -108,7 +125,10 @@ B2 9D 4B 39 DA 75 D2 DB  #CW:94 80 E2 F6 D9 6C 3B 80
 Eutelsat 7A/B   ( 7.0E )
 11070 Horizontal 7198,431
 DVB-S2 - 4:2:0 - 8PSK
-ID: IMG A EU
+ID: IMG A EU -->
+ (NEW ID:
+F529_MAIN
+  ) 
 Event: 
  Euroleague, Paris v Olympiacos
 CW: 2A EA D1 E5 3D 7A DC 93
