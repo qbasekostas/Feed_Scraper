@@ -1,3 +1,26 @@
+Ratzvan said:
+CW: A1 E1 F6 78 90 2E DE 9C
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11019 Horizontal 4826,342
+DVB-S2 - 4:2:0 - 16APSK
+ID: E467 FEED B2
+Event:  
+     Champions League - Play Offs, Atletico Madrid v Tottenham Hotspur  
+#support feed
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+     Champions League Highlights feed 
+CW: A1 E1 F6 78 90 2E DE 9C
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11007 Horizontal 4826,331
+DVB-S2X
+ - 4:2:0 - 
+16APSK
+ID: FEED 051
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11070 Horizontal 7198,431
 DVB-S2 - 4:2:0 - 8PSK
