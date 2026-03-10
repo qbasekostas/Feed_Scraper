@@ -144,6 +144,15 @@ Event:
      Champions League, Chalon/Saone v Unicaja  
 CW: FE 48 BA 00 43 AA 57 44
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11127 Horizontal 7198,434
+DVB-S2 - 4:2:0 - 8PSK
+ID: guardia 4.5mhz/MAIN FEED
+Event:  
+BASKET: 
+Champions League, Joventut Badalona v Wurzburg  
+CW: 9F 80 AF CE 96 4A 29 09
+---FEED-SEPARATOR---
 Hot Bird ( 13.0E )
 10828 Horizontal 7198,752
 DVB-S2 - 4:2:0 - 8PSK
