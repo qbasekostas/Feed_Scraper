@@ -2,8 +2,23 @@ Ratzvan said:
 CW: A1 E1 F6 78 90 2E DE 9C
 Click to expand...
 Eutelsat 7A/B   ( 7.0E )
+11013 Horizontal 4826,32
+DVB-S2X 
+- 4:2:0 - 
+16APSK
+ID: ITA548 UCL M2 Feed B2
+Event:  
+     Champions League - Play Offs, Atalanta v Bayern Munich  
+#support feed
+---FEED-SEPARATOR---
+Ratzvan said:
+CW: A1 E1 F6 78 90 2E DE 9C
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
 11019 Horizontal 4826,342
-DVB-S2 - 4:2:0 - 16APSK
+DVB-S2X 
+- 4:2:0 - 
+16APSK
 ID: E467 FEED B2
 Event:  
      Champions League - Play Offs, Atletico Madrid v Tottenham Hotspur  
