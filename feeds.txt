@@ -1,0 +1,7 @@
+Eutelsat 7A/B   ( 7.0E )
+11070 Horizontal 7198,431
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG A EU
+Event: 
+ Euroleague, Paris v Olympiacos
+CW: 2A EA D1 E5 3D 7A DC 93
