@@ -76,15 +76,6 @@ DVB-S2X
 ID: FEED 051
 ---FEED-SEPARATOR---
 UEFA Champions League
-Newcastle United vs Barcelona
-Eutelsat 7A/7B/7C @ 7.0°E
-11543 V 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 10.47 Mbit/s
-ID: UCL-PSG v NEWCASTLE BACKUP FEED E414
-CW: 0D 7E DB 66 8B CC C7 1E
----FEED-SEPARATOR---
-UEFA Champions League
 Newcastle
 Barça
 Eutelsat 7E
@@ -106,6 +97,14 @@ ID: C+ F2 Newc v Barc
 Event:  
      Champions League - Play Offs, Newcastle United v Barcelona
 CW: BB DE 58 F1 45 CE BA CD
+---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+10819 Horizontal 7198,499
+DVB-S2 - 4:2:0 - 8PSK
+ID:   VS7-2/BASKET_BCL_CHALON_100326
+Event:  
+     Champions League, Chalon/Saone v Unicaja  
+CW: FE 48 BA 00 43 AA 57 44
 ---FEED-SEPARATOR---
 Hot Bird ( 13.0E )
 10828 Horizontal 7198,752
