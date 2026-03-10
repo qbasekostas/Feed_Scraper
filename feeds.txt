@@ -16,6 +16,16 @@ Event:
      Champions League - Play Offs, Montpellier v Guaguas
 CW: D7 65 2B 67 AF CF E7 65
 ---FEED-SEPARATOR---
+BLACKCRUSADER said:
+CW: 12 34 45 8B 67 78 9D 7C
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+12655 Vertical 7118,421
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Pitch EFL Stoke v Ipswich
+Event:  
+  English Championship, Stoke City v Ipswich Town   
+---FEED-SEPARATOR---
 ASIASAT5 100.5E
 3985 V 7120
 ID BT SES 24 SDI
@@ -82,6 +92,19 @@ DVB-S2X
  - 4:2:0 - 
 16APSK
 ID: FEED 051
+---FEED-SEPARATOR---
+simo naith said:
+UEFA Champions League
+Bayern Múnich  VS Atalanta 
+Hotbird 13.0°East
+12436 H 27500
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+Click to expand...
+3.0E 
+10960 H 7500
+10970 H 7500
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
 𝗨𝗘𝗙𝗔 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀 𝗟𝗲𝗮𝗴𝘂𝗲 - 𝗥𝗼𝘂𝗻𝗱 𝗼𝗳 𝟭𝟲 (𝟭𝘀𝘁 𝗟𝗲𝗴)
 𝗚𝗮𝗹𝗮𝘁𝗮𝘀𝗮𝗿𝗮𝘆 𝘃 𝗟𝗶𝘃𝗲𝗿𝗽𝗼𝗼𝗹
