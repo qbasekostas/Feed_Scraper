@@ -16,8 +16,16 @@ Event:
      Champions League - Play Offs, Montpellier v Guaguas
 CW: D7 65 2B 67 AF CF E7 65
 ---FEED-SEPARATOR---
+ASIASAT5 100.5E
+3985 V 7120
+ID BT SES 24 SDI
+33 07 FF E4 71 89 F0 8B  #CW: 12 34 45 8B 67 78 9D 7C
+EFL Championship 
+Stoke City vs Ipswich Town
+---FEED-SEPARATOR---
 UEFA Champions League - Round of 16 (1st Leg)
-Atlético Madrid vs. Tottenham Hotspur
+-Galatasaray vs. Liverpool
+-Atlético Madrid vs. Tottenham Hotspur
 Intelsat 10-02 @ 1.0°W
 12611 - H - 7200 
 |
@@ -74,6 +82,59 @@ DVB-S2X
  - 4:2:0 - 
 16APSK
 ID: FEED 051
+---FEED-SEPARATOR---
+𝗨𝗘𝗙𝗔 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀 𝗟𝗲𝗮𝗴𝘂𝗲 - 𝗥𝗼𝘂𝗻𝗱 𝗼𝗳 𝟭𝟲 (𝟭𝘀𝘁 𝗟𝗲𝗴)
+𝗚𝗮𝗹𝗮𝘁𝗮𝘀𝗮𝗿𝗮𝘆 𝘃 𝗟𝗶𝘃𝗲𝗿𝗽𝗼𝗼𝗹
+𝗘𝘂𝘁𝗲𝗹𝘀𝗮𝘁 𝟭𝟬.𝟬°𝗘 | 𝗖-𝗕𝗮𝗻𝗱
+𝟯𝟵𝟬𝟱 𝗛/𝗩 𝟯𝟳𝟱𝟬
+𝟰:𝟮:𝟬 | 𝗛.𝟮𝟲𝟰 | 𝟭𝟵𝟮𝟬*𝟭𝟬𝟴𝟬 | 𝗗𝗩𝗕-𝗦𝟮 | 𝟴𝗣𝗦𝗞
+𝗜𝗗:𝗟𝗮 𝗹𝗶𝗴𝗮
+𝗖𝗪: 𝟴𝟭 𝗕𝗔 𝗗𝟰 𝟬𝗙 𝗔𝗗 𝟰𝗔 𝟵𝟯 𝟴𝗔
+						Image — Postimages
+					postimg.cc
+---FEED-SEPARATOR---
+Event :
+UEFA Champions League
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10997 H 9875
+ GVA_Fi0_UCL_IHL (EUROVISION SA)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.396
+  Mbit/Sec|8PSK DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264)
+57 5C D8 7C A5 B0 90 5A
+CW: A1 E1 F6 78 90 2E DE 9C
+---FEED-SEPARATOR---
+UEFA Champions League
+Bayern Múnich  VS Atalanta 
+Hotbird 13.0°East
+12436 H 27500
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Ratzvan said:
+			Eutelsat 7A/B   ( 7.0E )
+11084 Vertical 17139,406
+DVB-S2 - 
+4:2:2 
+- 16APSK
+ID: C+ F1 Newc v Barc
+11102 V 17399
+,405
+DVB-S2 -
+ 4:2:2 
+- 16APSK
+ID: C+ F2 Newc v Barc
+Event:  
+     Champions League - Play Offs, Newcastle United v Barcelona
+CW: BB DE 58 F1 45 CE BA CD
+Click to expand...
+C+ F2 Newc V Barc
+11102 V 
+17139
 ---FEED-SEPARATOR---
 UEFA Champions League
 Newcastle
