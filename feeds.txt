@@ -1,3 +1,21 @@
+Eutelsat 7A/B   ( 7.0E )
+11181 Horizontal 7199,759
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA832
+Event:  
+   Champions League Women - Play Offs, Vero Volley v Vakifbank
+CW: 63 E9 BB 07 C8 4D 62 77
+---FEED-SEPARATOR---
+DEL
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12510 Vertical 7199,745
+DVB-S2 - 4:2:0 - 8PSK
+ID: Studioline Main
+Event:  
+     Champions League - Play Offs, Montpellier v Guaguas
+CW: D7 65 2B 67 AF CF E7 65
+---FEED-SEPARATOR---
 UEFA Champions League - Round of 16 (1st Leg)
 Atlético Madrid vs. Tottenham Hotspur
 Intelsat 10-02 @ 1.0°W
@@ -56,6 +74,29 @@ DVB-S2X
  - 4:2:0 - 
 16APSK
 ID: FEED 051
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11084 Vertical 17139,406
+DVB-S2 - 
+4:2:2 
+- 16APSK
+ID: C+ F1 Newc v Barc
+11102 Vertical 17399,405
+DVB-S2 -
+ 4:2:2 
+- 16APSK
+ID: C+ F2 Newc v Barc
+Event:  
+     Champions League - Play Offs, Newcastle United v Barcelona
+CW: BB DE 58 F1 45 CE BA CD
+---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+10828 Horizontal 7198,752
+DVB-S2 - 4:2:0 - 8PSK
+ID:  BCL HapoelvsGalatas.BUL006 1
+Event:  
+  Champions League, Hapoel Holon v Galatasaray   
+CW: AC 14 CE 8E 48 DE 37 5D
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 12704 V 7200
