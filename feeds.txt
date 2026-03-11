@@ -9,6 +9,29 @@ DVB-S2 | 8-PSK | 5/6
 ID: OCC 1 
 CW: 24 AD CB 9C 67 33 DD 77
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12704 V 7200
+ID: TKS TRT M20 A (TRT
+1920x1080 |15,680Mb/Sec 8PSK |4:2:0 HD
+event: world cup 2026 weman basketball  
+Argentina F
+ VS 
+Australia F
+CW: 24 A4 30 F8 B3 E0 1D B0
+---FEED-SEPARATOR---
+Astra 1KR-1L-1M-1N ( 19.2E )
+11620 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID:  FIBA INTER main
+----------------------
+11635 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: FIBA PRIVATIF main
+----------------------
+Event: 
+FIBA World Cup Qualifiers - Nigeria vs Colombia
+CW: C4 04 D3 9B AB 3F 68 52
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12655 Vertical 7198,392
 DVB-S2 - 4:2:0 - 8PSK
