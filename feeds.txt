@@ -38,6 +38,8 @@ DVB-S2 - 4:2:0 - 8PSK
 ID: CCTV-DSNG-3
 Event:     
 World Cup Women - Qualification, Brazil  v Belgium
+NEXT:
+ China v Mali
 CW: 24 CA D7 C5 E2 1D 77 76
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
