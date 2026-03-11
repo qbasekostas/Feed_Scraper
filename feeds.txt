@@ -10,6 +10,13 @@ ID: OCC 1
 CW: 24 AD CB 9C 67 33 DD 77
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
+TP : 3993 V 7200
+PMT PID: 4096, SID: 17 @ CCTV-DSNG-3 (Service Provider)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 24 CA D7 C5 E2 1D 77 76
+FIBA Women's Basketball World Cup 2026 – Qualifying Tournaments
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
 TP : 4191 V 7200
 PMT PID: 2048, SID: 1 @ WSHT ENC52 (EBUER)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
