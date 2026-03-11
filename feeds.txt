@@ -1,3 +1,54 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,14Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: CONMEBOL - Copa Libertadores (2nd Leg Qualification)
+Teams: 
+Deportes Tolima vs 
+O'Higgins
+Time / Kickoff: 
+07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 01.30 CET
+Ratzvan said:
+CW: FC 56 BC 0E D2 D2 21 C5
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |13,29Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: CONMEBOL - Copa Libertadores (2nd Leg Qualification)
+Teams: Sporting Cristal vs Carabobo F.C.
+Time / Kickoff: 
+05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+Ratzvan said:
+#CW:
+FB D3 54 22 A2 DC BB 39
+Click to expand...
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+10723 Vertical 14996,647
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  
+OCC 1
+Event:  
+      Copa Libertadores - Qualification, Sporting Cristal (Per) v Carabobo (Ven)
+CW: FB D3 54 22 A2 DC BB 39
+ID:  
+OCC 2
+Event:  
+     Copa Libertadores - Qualification, Deportes Tolima (Col) v O'Higgins (Chi)
+CW: FC 56 BC 0E D2 D2 21 C5
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11607 Vertical 7498,358
 DVB-S2 - 4:2:0 - 8PSK
