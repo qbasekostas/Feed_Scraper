@@ -8,3 +8,17 @@ DVB-S2 | 8-PSK | 5/6
  | 25 FPS | 13.47 Mbit/s
 ID: OCC 1 
 CW: 24 AD CB 9C 67 33 DD 77
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4191 V 7200
+PMT PID: 2048, SID: 1 @ WSHT ENC52 (EBUER)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 9B 7D 16 2E F9 B3 B4 60
+NBA : Boston Celtics vs San Antonio Spurs
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4182 V 7200
+PMT PID: 2048, SID: 1 @ WSHT ENC 54 (EBUER)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 96 F8 28 B6 46 F3 70 A9
+NBA : Los Angeles Lakers vs Minnesota Timberwolves
