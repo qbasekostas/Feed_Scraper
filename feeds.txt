@@ -9,6 +9,14 @@ DVB-S2 | 8-PSK | 5/6
 ID: OCC 1 
 CW: 24 AD CB 9C 67 33 DD 77
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12655 Vertical 7198,392
+DVB-S2 - 4:2:0 - 8PSK
+ID: CCTV-DSNG-3
+Event:     
+World Cup Women - Qualification, Brazil  v Belgium
+CW: 24 CA D7 C5 E2 1D 77 76
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3993 V 7200
 PMT PID: 4096, SID: 17 @ CCTV-DSNG-3 (Service Provider)
