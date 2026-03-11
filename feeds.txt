@@ -9,15 +9,6 @@ DVB-S2 | 8-PSK | 5/6
 ID: OCC 1 
 CW: 24 AD CB 9C 67 33 DD 77
 ---FEED-SEPARATOR---
-CEV Champions League
-Trentino vs Projekt Warszawa
-Eutelsat 7A/7B/7C @ 7.0°E
-12510 V 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.96 Mbit/s
-ID: ITA360_2
-CW: 5D 7B 4A 22 6C 5B 89 50
----FEED-SEPARATOR---
 Champions League Femenina - Playoffs - Cuartos de final
 Eczacibasi F
  VS 
@@ -27,6 +18,37 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID:M MEDYA/MAIN (*unnamed-1*)
 1920x1080 |15,680Mb/Sec 8PSK |4:2:0 HD
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12511 Horizontal 7198,38
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA556 HD16
+Event:  
+VOLLEY:  
+Champions League Women - Play Offs, Scandicci v Fenerbahce
+CW: E2 9B 73 F0 AB 56 93 94
+---FEED-SEPARATOR---
+faisal6 said:
+B]Eutelsat 7A/7B/7C @ 7.0E
+11514 V 7201
+ID: TUR156 Main (HDPROTEK)
+1920x1080 |17,440Mb/Sec 8PSK |4:2:0 HD
+Maaseik
+ VS 
+Galatasaray
+CEV Champions League
+F4 A1 5D C7 A2 A6 77 41  #CW D3 AA D1 4E 1A 0E 26 4E 
+Click to expand...
+CEV Cup Women, Semifinals,1st Match
+1905 Galatasaray (Tur) W - CSO Voluntari (Rou) W (18:30)
+---FEED-SEPARATOR---
+16.0°E
+12510 H 7200
+DVB-S2 | 8PSK | 4:2:0
+ID: ITA556 HD16
+CW: E2 9B 73 F0 AB 56 93 94
+Champions League Women
+Scandicci-Fenerbahçe
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 11136 H 7201
@@ -69,6 +91,15 @@ Maaseik
 Galatasaray
 CEV Champions League
 F4 A1 5D C7 A2 A6 77 41  #CW D3 AA D1 4E 1A 0E 26 4E 
+---FEED-SEPARATOR---
+CEV Champions League
+Trentino vs Projekt Warszawa
+Eutelsat 7A/7B/7C @ 7.0°E
+12510 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.96 Mbit/s
+ID: ITA360_2
+CW: 5D 7B 4A 22 6C 5B 89 50
 ---FEED-SEPARATOR---
 UEFA Champions League - Round of 16 (1st Leg)
 Paris Saint Germain vs. Chelsea
@@ -163,6 +194,15 @@ Event:
 (TOMORROW)
 CW: 42 74 00 B6 00 42 74 B6
 ---FEED-SEPARATOR---
+UEFA Champions League
+PSG vs Chelsea
+Eutelsat 7A/7B/7C @ 7.0°E
+11070 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.00 Mbit/s
+ID: IMG A EU
+CW: 71 39 18 C2 88 93 31 4C
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12695 Vertical 7199,752
 DVB-S2 - 
@@ -242,6 +282,41 @@ PMT PID: 2048, SID: 1 @ WSHT ENC 54 (EBUER)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: 96 F8 28 B6 46 F3 70 A9
 NBA : Los Angeles Lakers vs Minnesota Timberwolves
+---FEED-SEPARATOR---
+Eurocup, Playoffs
+Cedevita Olimpija vs Chemnitz
+Eutelsat 7A/7B/7C @ 7.0°E
+12641 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.23 Mbit/s
+ID: Medialink CRO-024/1
+CW: 11 7A DF 6A 5F CC 01 2C
+---FEED-SEPARATOR---
+krzyś1 said:
+			Eutelsat 16A  16° E
+10985 V 9600
+ID: POL 030
+Event: Women's basketball: European Championship qualifying - match: Poland - Slovakia
+4.2.2- DVB-S2 - 8PSK
+CW PLEASE
+Click to expand...
+Eutelsat 16A   ( 16.0E )
+10986 Vertical 9597,872
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: POL 030
+Event:  
+ EuroBasket Women Qualification, Poland v Slovakia  
+CW: 20 26 CA 10 E0 30 11 21
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10848 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: AVP_OU_A
+Event:
+Basketball Champions League - Karditsas vs ALBA Berlino
+CW: FF 09 CC D4 55 EE 35 78
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12645 Vertical 4937,134
