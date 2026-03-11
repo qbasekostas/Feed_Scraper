@@ -9,6 +9,31 @@ DVB-S2 | 8-PSK | 5/6
 ID: OCC 1 
 CW: 24 AD CB 9C 67 33 DD 77
 ---FEED-SEPARATOR---
+Dani Sat said:
+UEFA Champions League - Round of 16 (1st Leg)
+Real Madrid vs. Manchester City
+Eutelsat 7B/7C @ 7.0°E
+12727 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: E-45 TNT MAIN
+CW: 25 CA 24 13 E1 81 01 63
+Click to expand...
+NEW : CW: F4 D8 B3 7F 8D A9 57 8D
+---FEED-SEPARATOR---
+UEFA Champions League - Round of 16 (1st Leg)
+Paris Saint Germain vs. Chelsea
+Intelsat 10-02 @ 1.0°W
+12611 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UCL-PSG v CHELSEA MAIN FEED
+CW: 0D 7E DB 66 8B CC C7 1E
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11488 Vertical 6798,494
 DVB-S2 - 
