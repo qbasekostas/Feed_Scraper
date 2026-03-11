@@ -9,6 +9,63 @@ DVB-S2 | 8-PSK | 5/6
 ID: OCC 1 
 CW: 24 AD CB 9C 67 33 DD 77
 ---FEED-SEPARATOR---
+Champions League Femenina - Playoffs - Cuartos de final
+Eczacibasi F
+ VS 
+Rzeszow F
+Eutelsat 7A/7B/7C @ 7.0E
+11598 V 7201
+ID:M MEDYA/MAIN (*unnamed-1*)
+1920x1080 |15,680Mb/Sec 8PSK |4:2:0 HD
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+UEFA Champions League - Round of 16 (1st Leg)
+about: Real Madrid vs. Manchester City 
+(CBS Eeporter Feed)
+Eutelsat 7B/7C @ 7.0°E
+12736 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 16APSK
+ID: E-404 Main
+CW: 71 63 71 45 73 81 81 75
+---FEED-SEPARATOR---
+UEFA Champions League - Round of 16 (1st Leg)
+Real Madrid vs. Manchester City
+Eutelsat 7B/7C @ 7.0°E
+10967 - V - 19200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 16APSK
+ID: G19 E349 Via 1
+CW: BB DD 52 EA A6 84 5C 86
+---FEED-SEPARATOR---
+UEFA Champions League - Round of 16 (1st Leg)
+Bodo/Glimt
+ VS 
+Sporting CP
+Hot Bird 13B/13C/13E @ 13.0E
+12437  Horizontal  27499,708
+ID:FEED 2 (IKOMG)
+1920x1080 |61,295Mb/Sec 8PSK |4:2:0 HD
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Dani Sat said:
+UEFA Champions League - Round of 16 (1st Leg)
+Paris Saint Germain vs. Chelsea
+Intelsat 10-02 @ 1.0°W
+12611 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UCL-PSG v CHELSEA MAIN FEED
+CW: 0D 7E DB 66 8B CC C7 1E
+Click to expand...
+Switch 4:2:2
+---FEED-SEPARATOR---
 Dani Sat said:
 UEFA Champions League - Round of 16 (1st Leg)
 Real Madrid vs. Manchester City
@@ -44,6 +101,14 @@ Event:
   Conference League - Play Offs, Samsunspor v Rayo Vallecano  
 (TOMORROW)
 CW: 42 74 00 B6 00 42 74 B6
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12556 Horizontal 4936,21
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-021M
+Event:  
+Basket 3x3 - Serbia MTS
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 12704 V 7200
