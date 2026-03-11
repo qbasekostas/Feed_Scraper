@@ -20,23 +20,40 @@ ID:M MEDYA/MAIN (*unnamed-1*)
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
 UEFA Champions League - Round of 16 (1st Leg)
+Paris Saint Germain vs. Chelsea
+EUTELSAT 7E 
+11070 H 7200.   4:2:0
+ID: UKI 1678 PATH
+CW: 71 39 18 C2 88 93 31 4C
+---FEED-SEPARATOR---
+UEFA Champions League - Round of 16 (1st Leg)
+Real Madrid vs. Manchester City
+Eutelsat  @ 3.1E
+10987  Horizontal  7501,834
+ID:  RMA VS CITY BEIN MENA (Overon)
+1920x1080 |16,720Mb/Sec 8PSK 
+|4:2:0 HD
+CW: E1 D4 3A EF 1C 5B F7 6E
+---FEED-SEPARATOR---
+UEFA Champions League - Round of 16 (1st Leg)
 about: Real Madrid vs. Manchester City 
-(CBS Eeporter Feed)
+(CBS Reporter Feed)
 Eutelsat 7B/7C @ 7.0°E
 12736 - V - 7200 
 |
 4:2:0
  | H.264
-1920*1080 | DVB-S2 | 16APSK
+1920*1080 | DVB-S2 | 8PSK
 ID: E-404 Main
 CW: 71 63 71 45 73 81 81 75
 ---FEED-SEPARATOR---
 UEFA Champions League - Round of 16 (1st Leg)
-Real Madrid vs. Manchester City
+Real Madrid vs. Manchester City 
+(Clean Feed)
 Eutelsat 7B/7C @ 7.0°E
 10967 - V - 19200 
 |
-4:2:0
+4:2:0 Switch 4:2:2
  | H.264
 1920*1080 | DVB-S2 | 16APSK
 ID: G19 E349 Via 1
@@ -102,6 +119,24 @@ Event:
 (TOMORROW)
 CW: 42 74 00 B6 00 42 74 B6
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12695 Vertical 7199,752
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 136 A
+Event:  
+  Eurocup, Turk Telekom v Manresa    
+CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+10820 Vertical 7198,416
+DVB-S2 - 4:2:0 - 8PSK
+ID:   OTE 1
+Event:  
+Champions League, AEK Athens v Tofas     
+CW: BF 31 DE CE 77 BE 67 9C
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12556 Horizontal 4936,21
 DVB-S2 - 4:2:0 - 8PSK
@@ -163,3 +198,29 @@ PMT PID: 2048, SID: 1 @ WSHT ENC 54 (EBUER)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: 96 F8 28 B6 46 F3 70 A9
 NBA : Los Angeles Lakers vs Minnesota Timberwolves
+---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+10838 Vertical 7198,511
+DVB-S2 - 4:2:0 - 8PSK
+ID:  CZE-012_MAIN_Nymburk-Trieste
+Event:  
+     Champions League, Nymburk v Trieste      
+CW: DF 41 DA FA 16 AA 62 22
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10829 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: LTU-005 main
+Event:
+Basketball Champions League - Rytas vs Le Mans
+CW: DB 56 EC 1D 44 CB 78 87
+---FEED-SEPARATOR---
+Intelsat 10-02 @ 1.0W
+12527  Vertical  6662,236
+ID:   B115DGS (Digi B)
+1920x1080 |14,850Mb/Sec 8PSK |4:2:0 HD
+CW: 11 03 20 34 26 AB CD 9E
+Eurobasket Femenino - Clasificación - Primera fase - Jorn
+Rumanía F
+ VS 
+Chipre F
