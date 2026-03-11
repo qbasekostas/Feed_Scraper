@@ -1,0 +1,10 @@
+CONMEBOL Libertadores
+Botafogo vs Barcelona SC
+Eutelsat 10A @ 10.0°E
+10723 V 15000
+DVB-S2 | 8-PSK | 5/6
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 13.47 Mbit/s
+ID: OCC 1 
+CW: 24 AD CB 9C 67 33 DD 77
