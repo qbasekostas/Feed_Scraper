@@ -101,6 +101,55 @@ DVB-S2 | 8PSK | 3/4
 ID: ITA360_2
 CW: 5D 7B 4A 22 6C 5B 89 50
 ---FEED-SEPARATOR---
+Satfun2017 said:
+ Championship 
+ Coventry City Vs Preston N.E.
+CW: 35 87 DE 9A 34 15 A2 EB
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+12628 Vertical 7118,433
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Pitch- EFL - Coventry v Preston
+---FEED-SEPARATOR---
+ Championship 
+ Coventry City Vs Preston N.E.
+100.5°E C
+@ AsiaSat 5
+3966 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID: BT_SES_24_SDI
+CW: 35 87 DE 9A 34 15 A2 EB
+---FEED-SEPARATOR---
+, UEFA Champions League
+​
+Real Madrid​
+vs.​
+Man City​
+​
+3.1E
+ID:beIN SPORTS
+10960
+H
+7500
+-------------------------
+ID:Service-1
+10970
+H
+7500
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+UEFA Champions League 
+Highlights
+Eutelsat 7A/7B/7C @ 7.0°E
+10998 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 21.03 Mbit/s
+ID: GVA_Fi0_UCL_IHL
+CW: 63 12 83 F8 7E 93 03 14
+---FEED-SEPARATOR---
 UEFA Champions League - Round of 16 (1st Leg)
 Paris Saint Germain vs. Chelsea
 EUTELSAT 7E 
