@@ -9,6 +9,17 @@ DVB-S2 | 8-PSK | 5/6
 ID: OCC 1 
 CW: 24 AD CB 9C 67 33 DD 77
 ---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11488 Vertical 6798,494
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  TKS.TRT.M17 - A
+Event:         
+  Conference League - Play Offs, Samsunspor v Rayo Vallecano  
+(TOMORROW)
+CW: 42 74 00 B6 00 42 74 B6
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 12704 V 7200
 ID: TKS TRT M20 A (TRT
