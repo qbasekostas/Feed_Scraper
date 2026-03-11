@@ -1,3 +1,11 @@
+Eutelsat 7A/B   ( 7.0E )
+11607 Vertical 7498,358
+DVB-S2 - 4:2:0 - 8PSK
+ID:  AFD
+Event:  
+   Argentina Liga Profesional, Argentinos Jrs v Rosario  
+CW: C1 D5 AD 43 B4 81 0B 40
+---FEED-SEPARATOR---
 CONMEBOL Libertadores
 Botafogo vs Barcelona SC
 Eutelsat 10A @ 10.0°E
@@ -138,6 +146,18 @@ ID:Service-1
 H
 7500
 CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+𝗨𝗘𝗙𝗔 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀 𝗟𝗲𝗮𝗴𝘂𝗲 - 𝗥𝗼𝘂𝗻𝗱 𝗼𝗳 𝟭𝟲 (𝟭𝘀𝘁 𝗟𝗲𝗴)
+𝗥𝗲𝗮𝗹 𝗠𝗮𝗱𝗿𝗶𝗱 𝘃𝘀. 𝗠𝗮𝗻𝗰𝗵𝗲𝘀𝘁𝗲𝗿 𝗖𝗶𝘁𝘆
+𝐄𝐮𝐭𝐞𝐥𝐬𝐚𝐭 𝟑𝐁 @ 𝟑.𝟏° 𝐄
+𝟭𝟬𝟵𝟲𝟬 𝗛 𝟳𝟱𝟬𝟬 |𝟒:𝟐:𝟎 | 𝐇.𝟐𝟔𝟒
+𝟭𝟬𝟵𝟳𝟬 𝗛 𝟳𝟱𝟬𝟬 |𝟒:𝟐:𝟎 | 𝐇.𝟐𝟔𝟒
+𝟏𝟗𝟐𝟎*𝟏𝟎𝟖𝟎 | 𝐃𝐕𝐁-𝐒𝟐 | 𝟖𝐏𝐒𝐊
+𝐈𝐃: 𝗯𝗲𝗜𝗡 𝗦𝗣𝗢𝗥𝗧𝗦
+𝐈𝐃: 𝗦𝗲𝗿𝘃𝗶𝗰𝗲-𝟭
+𝐂𝐖: 𝐀𝐃 𝟓𝟒 𝟗𝐄 𝟗𝐅 𝟓𝟐 𝟖𝟗 𝟕𝐁 𝟓𝟔
+						Image — Postimages
+					postimg.cc
 ---FEED-SEPARATOR---
 UEFA Champions League 
 Highlights
@@ -331,6 +351,14 @@ PMT PID: 2048, SID: 1 @ WSHT ENC 54 (EBUER)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: 96 F8 28 B6 46 F3 70 A9
 NBA : Los Angeles Lakers vs Minnesota Timberwolves
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11127 Horizontal 7199,75
+DVB-S2 - 4:2:0 - 8PSK
+ID: E-229 Main
+Event:  
+   Champions League, Tenerife v Gran Canaria  
+CW: DF 64 DD 20 18 EB 20 23
 ---FEED-SEPARATOR---
 Eurocup, Playoffs
 Cedevita Olimpija vs Chemnitz
