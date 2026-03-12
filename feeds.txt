@@ -7,6 +7,24 @@ DVB-S2 | 8-PSK | 5/6
 ID: AFD
 CW: C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+Event : Europe Europa League - Play Offs - 1/8-finals
+Teams :Celta Vigo 
+ Lyon
+Eutelsat 16A @ 16.0°E 
+( KU-BAND )
+11158 H 14400
+ FEED 1 V (Service Provider)
+MPEG4-4.2.0 1920x1080 |32.450 Mbit/Sec|8PSK| DVB-S2 HD
+CW: FTA
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+12437 H 27500
+DVB-S2 - 4:2:0 - 8PSK
+ID: FEED 2
+Event:
+Uefa Europa League - Nottingham Forest vs Midtjylland
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
 UEFA Conference League - Round of 16 (1st Leg)
 Crystal Palace vs. AEK Larnaca
 Intelsat 10-02 @ 1.0°W
@@ -25,6 +43,14 @@ MPEG4 4:2:2
 Id.: T/A + 9MHz SES-14: Franca v Minas Tenis Clube
 FIBA Basketball Champions League Americas-Semifinal
 Minas Tênis Clube vs. Sesi/Franca BC SP
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11107 Horizontal 7199,862
+DVB-S2 - 4:2:0 - 8PSK
+ID:   F489 BKUP
+Event:  
+  Euroleague, Monaco v Olympiacos
+CW: 1C 78 D9 6D 78 54 C9 95
 ---FEED-SEPARATOR---
 delet my post dup
 ---FEED-SEPARATOR---
