@@ -15,6 +15,22 @@ Id.: T/A + 9MHz SES-14: Franca v Minas Tenis Clube
 FIBA Basketball Champions League Americas-Semifinal
 Minas Tênis Clube vs. Sesi/Franca BC SP
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12703 Vertical 7198,426
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR 141
+Event:  
+  World Cup Women - Qualification - Australia v Japan    
+CW: F6 A9 71 10 79 77 52 42
+---FEED-SEPARATOR---
+Astra 1KR-1L-1M-1N ( 19.2E )
+11620 Vertical 7198,519
+DVB-S2 - 4:2:0 - 8PSK
+ID:  FIBA INTER main
+Event:  
+ World Cup Women - Qualification - South Korea v Nigeria   
+CW: 55 C2 E7 FE 57 09 9C FC
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11469 Vertical 6798,516
 DVB-S2 - 4:2:0 - 8PSK
