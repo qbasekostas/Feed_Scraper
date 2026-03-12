@@ -15,6 +15,15 @@ Id.: T/A + 9MHz SES-14: Franca v Minas Tenis Clube
 FIBA Basketball Champions League Americas-Semifinal
 Minas Tênis Clube vs. Sesi/Franca BC SP
 ---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11469 Vertical 6798,516
+DVB-S2 - 4:2:0 - 8PSK
+ID: M MEDYA/MAIN
+Event:  
+Turkish Cocuk Sporlari, TBF 
+(school championship)
+CW: 68 53 00 BB 00 68 53 BB
+---FEED-SEPARATOR---
 HBO said:
 			AsiaSat 5 - 100.5 E - CBand
 TP : 3993 V 7200
