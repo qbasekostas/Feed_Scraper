@@ -7,6 +7,17 @@ DVB-S2 | 8-PSK | 5/6
 ID: AFD
 CW: C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+UEFA Conference League - Round of 16 (1st Leg)
+Crystal Palace vs. AEK Larnaca
+Intelsat 10-02 @ 1.0°W
+11481 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: TNT PROG MAIN SAT
+CW: 29 D2 7F 7A BF 5E 4C 69
+---FEED-SEPARATOR---
 Feed SES 14/47.5° W
 4122 R 7200
 DVBS2 8PSK FEC: 3/4
