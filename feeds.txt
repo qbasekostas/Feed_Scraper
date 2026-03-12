@@ -75,14 +75,7 @@ Intelsat 10-02 @ 1.0°W
 ID: TNT PROG MAIN SAT
 CW: 29 D2 7F 7A BF 5E 4C 69
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-12654 Vertical 9874,662
-DVB-S2 - 4:2:0 - 8PSK
-ID:  GVA_Fi01
-Event:  
-     UEFA HIGHLIGHTS
-CW: D0 9B 2D 98 BB 77 A4 D6
----FEED-SEPARATOR---
+Ratzvan said:
 Eutelsat 16A   ( 16.0E )
 11159 Horizontal 14399,771
 DVB-S2 - 4:2:0 - 8PSK
@@ -90,6 +83,16 @@ ID:  FEED 2 V
 Event:  
  Europa League - Play Offs, Celta Vigo v Lyon    
 CW: 11 12 DC FF BA 19 78 4B
+Click to expand...
+FTA
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12654 Vertical 9874,662
+DVB-S2 - 4:2:0 - 8PSK
+ID:  GVA_Fi01
+Event:  
+     UEFA HIGHLIGHTS
+CW: D0 9B 2D 98 BB 77 A4 D6
 ---FEED-SEPARATOR---
 Dani Sat said:
 UEFA Conference League - Round of 16 (1st Leg)
