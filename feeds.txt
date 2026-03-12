@@ -111,6 +111,14 @@ Id.: T/A + 9MHz SES-14: Franca v Minas Tenis Clube
 FIBA Basketball Champions League Americas-Semifinal
 Minas Tênis Clube vs. Sesi/Franca BC SP
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11062 Horizontal 7199,748
+DVB-S2 - 4:2:0 - 8PSK
+ID:  F529_PARIS_MAIN
+Event:  
+ Euroleague, Paris v Lyon-Villeurbanne
+CW: 6B 89 F6 EA 6B FC 49 B0
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 11107 Horizontal 7199,862
 DVB-S2 - 4:2:0 - 8PSK
