@@ -7,6 +7,25 @@ DVB-S2 | 8-PSK | 5/6
 ID: AFD
 CW: C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+CEV Champions League
+Roeselare vs Resovia
+Eutelsat 7A/7B/7C @ 7.0°E
+12510 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.30 Mbit/s
+ID: D-312
+CW: CE CE BA 56 62 FF 92 F3
+---FEED-SEPARATOR---
+Turksat 42E
+11469 Vertical 6798,516
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  TUR-143A
+Event:       
+Challenge Cup, Altekma v Milano
+CW: 68 55 00 BD 00 68 55 BD
+---FEED-SEPARATOR---
 Event : Europe Europa League - Play Offs - 1/8-finals
 Teams :Celta Vigo 
  Lyon
@@ -16,6 +35,26 @@ Eutelsat 16A @ 16.0°E
  FEED 1 V (Service Provider)
 MPEG4-4.2.0 1920x1080 |32.450 Mbit/Sec|8PSK| DVB-S2 HD
 CW: FTA
+---FEED-SEPARATOR---
+UEFA Conference League
+Rijeka vs Strasbourg
+Eutelsat 7A/7B/7C @ 7.0°E
+12641 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.21 Mbit/s
+ID: Medialink CRO-024/1
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
+UEFA Conference League - Round of 16 (1st Leg)
+Rijeka vs. Strasbourg
+Eutelsat 7B/7C @ 7.0°E
+11602 - V - 17140 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 16APSK
+ID: ITA-274 FEED 2 MAIN
+CW: 12 03 AC C1 DC 26 20 22
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 12437 H 27500
@@ -35,6 +74,18 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: TNT PROG MAIN SAT
 CW: 29 D2 7F 7A BF 5E 4C 69
+---FEED-SEPARATOR---
+Dani Sat said:
+UEFA Conference League - Round of 16 (1st Leg)
+Rijeka vs. Strasbourg
+CW: 12 03 AC C1 DC 26 20 22
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11584 V 17140
+DVB-S2 | 16APSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 43.56 Mbit/s
+ID: ITA-274 FEED1 Main
+CW: 12 03 AC C1 DC 26 20 22
 ---FEED-SEPARATOR---
 Feed SES 14/47.5° W
 4122 R 7200
