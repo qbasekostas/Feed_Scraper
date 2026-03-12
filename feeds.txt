@@ -75,6 +75,22 @@ Intelsat 10-02 @ 1.0°W
 ID: TNT PROG MAIN SAT
 CW: 29 D2 7F 7A BF 5E 4C 69
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12654 Vertical 9874,662
+DVB-S2 - 4:2:0 - 8PSK
+ID:  GVA_Fi01
+Event:  
+     UEFA HIGHLIGHTS
+CW: D0 9B 2D 98 BB 77 A4 D6
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11159 Horizontal 14399,771
+DVB-S2 - 4:2:0 - 8PSK
+ID:  FEED 2 V
+Event:  
+ Europa League - Play Offs, Celta Vigo v Lyon    
+CW: 11 12 DC FF BA 19 78 4B
+---FEED-SEPARATOR---
 Dani Sat said:
 UEFA Conference League - Round of 16 (1st Leg)
 Rijeka vs. Strasbourg
@@ -102,8 +118,6 @@ ID:   F489 BKUP
 Event:  
   Euroleague, Monaco v Olympiacos
 CW: 1C 78 D9 6D 78 54 C9 95
----FEED-SEPARATOR---
-delet my post dup
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11505 Vertical 7198,407
