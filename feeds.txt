@@ -15,6 +15,25 @@ Id.: T/A + 9MHz SES-14: Franca v Minas Tenis Clube
 FIBA Basketball Champions League Americas-Semifinal
 Minas Tênis Clube vs. Sesi/Franca BC SP
 ---FEED-SEPARATOR---
+delet my post dup
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11505 Vertical 7198,407
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Fi19_GNVE
+Event: 
+   World Cup Women - Qualification - Belgium v China   
+CW: A5 59 11 0F 1D 8F EE 9A
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+11495 V 7200
+Event : World Cup Women - Qualification - Round 2
+Teams : Belgium W 
+ China W
+   Fi20_GNVE (EBUER)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: F6 A9 71 10 79 77 52 42
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12703 Vertical 7198,426
 DVB-S2 - 4:2:0 - 8PSK
