@@ -34,6 +34,30 @@ Event:
      Copa Libertadores, Ind. Medellin (Col) v Juventud (Uru)
 CW: 85 AD B4 E6 EA 32 DC F8
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12601 Vertical 7198,43
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL 058_T2
+Event:     
+ Polish PlusLiga, Lublin v Zawiercie
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service 01
+Scottish Championship - Week 29
+Greenock Morton v Partick Thistle
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship - Week 29
+Greenock Morton v Partick Thistle
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3966 V 7119 C-Band
 ID: BT_SES_24_SDI 
