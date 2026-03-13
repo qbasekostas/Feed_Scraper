@@ -34,6 +34,31 @@ Event:
      Copa Libertadores, Ind. Medellin (Col) v Juventud (Uru)
 CW: 85 AD B4 E6 EA 32 DC F8
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3966 V 7119 C-Band
+ID: BT_SES_24_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,10Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 38)
+Teams: Wrexham vs Swansea City
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+CW: F5 26 C3 DE 6B 32 59 F6
+---FEED-SEPARATOR---
+Euroleague
+Olimpia Milano vs Maccabi
+7°E
+11106 
+H  
+7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:i390main
+CW: C9 5C 16 3B CB CB 19 AF
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12641 Horizontal 7198,406
 DVB-S2 - 4:2:0 - 8PSK
