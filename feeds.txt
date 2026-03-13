@@ -34,6 +34,16 @@ Event:
      Copa Libertadores, Ind. Medellin (Col) v Juventud (Uru)
 CW: 85 AD B4 E6 EA 32 DC F8
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+11523 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+E-073 MAIN
+Provider: Mediapro Portugal
+Voleibol Taca de Portugal Feminina
+FC Porto W - PV Colegio Efanor W (19:00)
+CW: 13 03 20 36 26 AD 26 F9
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12601 Vertical 7198,43
 DVB-S2 - 4:2:0 - 8PSK
@@ -53,10 +63,19 @@ Greenock Morton v Partick Thistle
 16E
 12692 V 10000
  4:2:0
+12702 V 10000
+ 4:2:0
 DVB-S2 16APSK
 ID: Uki-1592
 Scottish Championship - Week 29
 Greenock Morton v Partick Thistle
+---FEED-SEPARATOR---
+13.0°E
+10801 H 7200
+4:2:0
+ID: GCUK Enc 3
+CW: F9 D2 FF CA E0 E3 C7 8A
+Wrexam - Swansea
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3966 V 7119 C-Band
@@ -80,6 +99,26 @@ Event:
 Wrexham v Swansea City
 #PRE-MATCH
 CW: 71 64 81 56 81 88 12 1B
+---FEED-SEPARATOR---
+13.0°E
+12601 V 7200
+4:2:0
+ID: Encoder 2
+CW: D1 34 FC 01 CB 53 11 2F
+Scotthish Championship Morton Partick Thistle
+---FEED-SEPARATOR---
+safrifulkamal said:
+Event: England - EFL Championship (Matchday 38)
+Teams: Wrexham vs Swansea City
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+CW: F5 26 C3 DE 6B 32 59 F6
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+10960 V 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 13.02 Mbit/s
+ID: Pitch - EFL - Wrexham v Swansea
+CW: F5 26 C3 DE 6B 32 59 F6
 ---FEED-SEPARATOR---
 Euroleague
 Olimpia Milano vs Maccabi
