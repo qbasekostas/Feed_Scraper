@@ -34,6 +34,22 @@ Event:
      Copa Libertadores, Ind. Medellin (Col) v Juventud (Uru)
 CW: 85 AD B4 E6 EA 32 DC F8
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12641 Horizontal 7198,406
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Medialink CRO-024/1
+Event:  
+   ABA League, Zadar v KK Krka Novo mesto
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12510 Horizontal 4936,223
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-021M
+Event:  
+ Serbia First League, KK Metalac v Hercegovac
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 10957 Vertical 7498,34
 DVB-S2 - 
