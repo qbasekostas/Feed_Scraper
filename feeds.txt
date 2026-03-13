@@ -47,6 +47,16 @@ Teams: Wrexham vs Swansea City
 Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
 CW: F5 26 C3 DE 6B 32 59 F6
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11071 Horizontal 7199,737
+DVB-S2 - 4:2:0 - 8PSK
+ID: CBS Wrexham Pub OB
+Event:  
+     English Championship, 
+Wrexham v Swansea City
+#PRE-MATCH
+CW: 71 64 81 56 81 88 12 1B
+---FEED-SEPARATOR---
 Euroleague
 Olimpia Milano vs Maccabi
 7°E
