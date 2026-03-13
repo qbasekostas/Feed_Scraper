@@ -1,3 +1,29 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |12,91Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: CONMEBOL - Copa Libertadores (2nd Leg Qualification)
+Teams: Independiente Medellín vs Juventud
+Time / Kickoff: 
+07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 01.30 CET
+Ratzvan said:
+CW: 85 AD B4 E6 EA 32 DC F8
+Click to expand...
+---FEED-SEPARATOR---
+Ratzvan said:
+CW: C1 D5 AD 43 B4 81 0B 40
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11606 Vertical 7498,435
+DVB-S2 - 4:2:0 - 8PSK
+ID: AFD
+Event:  
+    Argentina Liga Profesional, Huracán v River Plate 
+---FEED-SEPARATOR---
 Eutelsat 10A   ( 10.0E )
 10723 Vertical 14996,697
 DVB-S2 - 
