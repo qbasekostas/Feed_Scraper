@@ -53,6 +53,13 @@ Cloudbass
 Scottish League 1 - Week 29
 Montrose v Alloa Athletic
 ---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+12591 Vertical 7198,48
+DVB-S2 - 4:2:0 - 8PSK
+Event:  
+Scottish Premiership Kilmarnock V Hearts  
+CW: DC 55 F3 24 12 FB BC C9
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3984 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
