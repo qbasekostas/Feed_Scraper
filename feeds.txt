@@ -5,6 +5,16 @@ Eutelsat 7.0E
 ID: AFD
 CW: C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+Event: Italy Serie A1 Women - Play Offs - Semi-finals
+Teams : Scandicci W 
+ Vero Volley W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11097 H 7200
+ VOLLEY_WORLD_MAIN (ITA_361)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: A9 3C 63 48 2C AD E7 C0
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 10987 Vertical 7198,41
 DVB-S2 - 4:2:0 - 8PSK
@@ -105,6 +115,34 @@ Event
 Igokea - Bosna
 1080p HD FORMAT
 FTA
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12521 Horizontal 4937,134
+DVB-S2 - 4:2:0 - 8PSK
+ID: MNE-001 main
+Event:  
+ ABA League Buducnost v Cluj-Napoca
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10° E
+Fréq:11273 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  Encoder 1
+ABA League
+Venezia vs Udine
+CW: 63 38 67 02 E6 C5 87 32
+---FEED-SEPARATOR---
+Event:
+ Euro Basket Women - Qualification 
+Teams : Portugal W 
+ Serbia W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10977 V 7200
+   E-95 BK (Mediapro Portugal)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+6A B3 74 AB 8D F1 D3 40  
+CW: 4D E9 8F C5 F9 41 91 CB
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11107 Horizontal 7199,765
