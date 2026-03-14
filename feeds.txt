@@ -15,6 +15,24 @@ Event:
 Turkish Sultanlar Ligi Women, Nilufer Bld. v Fenerbahce    
 CW: 43 78 00 BB 00 43 78 BB
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: CC 27 32 25 59 25 2A A8
+Leicester City vs Queens Park Rangers
+---FEED-SEPARATOR---
+English Championship - Week 38
+Leicester City vs. Queens Park Rangers
+Eutelsat 7B/7C @ 7.0°E
+10987 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: PITCH - EFL Leicester V QPR
+CW: CC 27 32 25 59 25 2A A8
+---FEED-SEPARATOR---
 HBO said:
 			AsiaSat 5 - 100.5 E - CBand
 TP : 3966 V 7120
@@ -48,6 +66,15 @@ S2X
 HD
 D1 82 72 3A 45 42 B7 E2
 CW: C3 87 BE 08 43 86 0F D8
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 22
+Trabzonspor vs Manisa Basket 
+Hot Bird ( 13.0E )
+12691 V 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:TUR-119 Main (HDPROTEK)
+CW: 86 DB 2A 8B D6 C8 D0 6E
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12676 Horizontal 7198,425
@@ -95,3 +122,10 @@ FIBA Women's Basketball World Cup 2026 – Qualifying Tournaments
 Click to expand...
 New CW : 
 25 4E 87 FA E9 7E 70 D7
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 25
+OFI vs Olympiacos
+13e
+10848 V 7200
+ID: OFI VS OSFP A
+CW: B8 E8 80 20 49 99 80 62
