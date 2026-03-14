@@ -22,6 +22,27 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: A2 24 41 07 1C 35 1C 6D
 Coventry City vs Southampton
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12676 Horizontal 7198,425
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR 141
+Event:  
+  World Cup Women - Qualification,   Australia v Hungary 
+CW: 6E C7 AD E2 04 FE 77 79
+---FEED-SEPARATOR---
+Astra 1KR-1L-1M-1N ( 19.2E )
+11620 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID:  FIBA INTER main
+----------------------
+11635 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: FIBA PRIVATIF main
+----------------------
+Event: 
+FIBA World Cup Qualifiers 
+CW: 92 9A C1 ED 48 89 C6 97
+---FEED-SEPARATOR---
 Hot Bird ( 13.0E )
 12602 Vertical 7498,375
 DVB-S2 - 
