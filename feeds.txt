@@ -33,6 +33,22 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: A2 24 41 07 1C 35 1C 6D
 Coventry City vs Southampton
 ---FEED-SEPARATOR---
+Event:
+UEFA HIGHLIGHTS
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11043 V 8021
+  Fi14_GNVE (EBUER)
+MPEG4-4:2:0 HD 1920x1080 |
+22.680
+ Mbit/Sec|
+16APSK
+ DVB-
+S2X 
+HD
+D1 82 72 3A 45 42 B7 E2
+CW: C3 87 BE 08 43 86 0F D8
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12676 Horizontal 7198,425
 DVB-S2 - 4:2:0 - 8PSK
