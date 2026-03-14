@@ -78,6 +78,17 @@ HD
 D1 82 72 3A 45 42 B7 E2
 CW: C3 87 BE 08 43 86 0F D8
 ---FEED-SEPARATOR---
+SATELLITE Name : Eutelsat 7 (7.0°E)
+KU Band
+FREQUENCY: 12515H SR: 4937
+DVB-S2 8PSK
+Format 4:2:0
+Event
+ ABA League
+Igokea - Bosna
+1080p HD FORMAT
+FTA
+---FEED-SEPARATOR---
 Event: Portugal LPB - Round 16
 Teams :Vitoria 
  FC Porto
@@ -104,6 +115,8 @@ DVB-S2 - 4:2:0 - 8PSK
 ID: TUR 141
 Event:  
   World Cup Women - Qualification,   Australia v Hungary 
+NEXT
+ Japan  v Turkey  
 CW: 6E C7 AD E2 04 FE 77 79
 ---FEED-SEPARATOR---
 Astra 1KR-1L-1M-1N ( 19.2E )
