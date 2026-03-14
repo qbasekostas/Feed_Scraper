@@ -5,6 +5,13 @@ Eutelsat 7.0E
 ID: AFD
 CW: C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: A2 24 41 07 1C 35 1C 6D
+Coventry City vs Southampton
+---FEED-SEPARATOR---
 HBO said:
 			AsiaSat 5 - 100.5 E - CBand
 TP : 3993 V 7200
