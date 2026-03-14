@@ -5,6 +5,17 @@ Eutelsat 7.0E
 ID: AFD
 CW: C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+Event: 
+Portuga lTaca de Portugal - Semi-finals
+Teams :Vitoria 
+ Benfica
+Eutelsat 7A/7B/7C @ 7.0°E (
+ KU-BAND )
+11524 V 7200
+   E-073 MAIN (Mediapro Portugal)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 14 03 20 37 26 AD 26 F9
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11470 Vertical 6798,494
 DVB-S2 - 
