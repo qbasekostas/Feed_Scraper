@@ -125,6 +125,15 @@ Igokea - Bosna
 FTA
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+11005 Horizontal 7198,42
+DVB-S2 - 4:2:0 - 8PSK
+ID:  LK ENC 09
+Event:  
+BASKET:  
+World Cup Women - Qualification, USA  v Italy
+CW: D8 08 4A 2A 89 21 34 DE
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12521 Horizontal 4937,134
 DVB-S2 - 4:2:0 - 8PSK
 ID: MNE-001 main
