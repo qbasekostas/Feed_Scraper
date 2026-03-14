@@ -15,6 +15,17 @@ Event:
 Turkish Sultanlar Ligi Women, Nilufer Bld. v Fenerbahce    
 CW: 43 78 00 BB 00 43 78 BB
 ---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: A2 24 41 07 1C 35 1C 6D
+Coventry City vs Southampton
+Click to expand...
+7e
+10978 h 7120
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3966 V 7120
 PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
