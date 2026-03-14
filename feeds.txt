@@ -78,6 +78,17 @@ HD
 D1 82 72 3A 45 42 B7 E2
 CW: C3 87 BE 08 43 86 0F D8
 ---FEED-SEPARATOR---
+Event: Portugal LPB - Round 16
+Teams :Vitoria 
+ FC Porto
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12628 V 7200
+  E-228 Main (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+66 FA 16 F3 55 B4 F3 08  
+CW: 8F 98 1D 44 78 24 B2 4E
+---FEED-SEPARATOR---
 Turkish Basketball Super League, Round 22
 Trabzonspor vs Manisa Basket 
 Hot Bird ( 13.0E )
