@@ -5,6 +5,14 @@ Eutelsat 7.0E
 ID: AFD
 CW: C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10987 Vertical 7198,41
+DVB-S2 - 4:2:0 - 8PSK
+ID:  ITA_491_WORLD FEED_ PIACENZA
+Event:  
+ Italian SuperLega - Play Offs, Piacenza v Modena    
+CW: B8 19 AB 7C CD 0D 4A 24
+---FEED-SEPARATOR---
 Event: 
 Portuga lTaca de Portugal - Semi-finals
 Teams :Vitoria 
@@ -97,6 +105,14 @@ Event
 Igokea - Bosna
 1080p HD FORMAT
 FTA
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11107 Horizontal 7199,765
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi01 ACB
+Event:  
+     Spain ACB,  Tenerife v Valencia
+CW: E6 71 AE 05 18 EA 91 93
 ---FEED-SEPARATOR---
 Event: Portugal LPB - Round 16
 Teams :Vitoria 
