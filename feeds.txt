@@ -5,6 +5,15 @@ Eutelsat 7.0E
 ID: AFD
 CW: C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11487
+ Vertical 7198,404
+DVB-S2 - 4:2:0 - 8PSK
+ID: E-073 MAIN
+Event:  
+ Taca de Portugal Women, FC Porto v Braga  
+CW: 14 03 20 37 26 AD 26 F9
+---FEED-SEPARATOR---
 Event: Italy Serie A1 Women - Play Offs - Semi-finals
 Teams : Scandicci W 
  Vero Volley W
@@ -132,6 +141,14 @@ Event:
 BASKET:  
 World Cup Women - Qualification, USA  v Italy
 CW: D8 08 4A 2A 89 21 34 DE
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+10995 H 7200
+  NEW ID = LK_ENC_15
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+BASKETBALL World Cup Qualifiers - German Women vs France Women
+CW: 92 9A C1 ED 48 89 C6 97
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12521 Horizontal 4937,134
