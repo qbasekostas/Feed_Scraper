@@ -243,6 +243,14 @@ Hot Bird ( 13.0E )
  - 8PSK
 ID: TUR 112 MAIN
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10829 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ATRO VS AEK A
+Event:
+ Greek Super League - Atromitos vs AEK
+CW: FD 8C 24 AD A9 0F 6D 25
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 11172 H 7200
