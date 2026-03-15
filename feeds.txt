@@ -5,6 +5,14 @@ Eutelsat 7.0E
 ID : AFD
 Cw : C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11186 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: GCUK Enc 4
+Event: 
+William Hill Premiership - Dundee vs Dundee United
+CW: DC 55 F3 24 12 FB BC C9
+---FEED-SEPARATOR---
 Eutelsat 3B @ 3.1° E
 Fréq:10959 - H - 7500
 MPEG 4 - 4:2:0 - DVB-S2
