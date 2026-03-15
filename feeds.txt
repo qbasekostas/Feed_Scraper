@@ -130,6 +130,16 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 FIBA Women's Basketball World Cup 2026 – Qualifying Tournaments
 CW: 58 F3 EC 37 98 FE FA 90
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+12592 V 7500
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E333 M
+Event: 
+Turkish Super Lig - Bursaspor vs Tofas
+CW: 42 51 8D 20 B7 98 A4 F3
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11107 Horizontal 7199,759
 DVB-S2 - 4:2:0 - 8PSK
