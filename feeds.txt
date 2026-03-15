@@ -5,6 +5,16 @@ Eutelsat 7.0E
 ID : AFD
 Cw : C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+Eutelsat 3B @ 3.1° E
+Fréq:10959 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  beIN SPORTS
+Fréq:10968 - H - 7500
+ID: Service-1
+Premier League
+Man Utd vs Aston Villa
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
 Hot Bird ( 13.0E )
 12602 Vertical 7198,375
 DVB-S2 - 4:2:0 - 8PSK
@@ -50,6 +60,16 @@ PMT PID: 4096, SID: 17 @ CCTV-DSNG-3 (Service Provider)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 FIBA Women's Basketball World Cup 2026 – Qualifying Tournaments
 CW: 58 F3 EC 37 98 FE FA 90
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10984 Vertical 7498,359
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR156 Main
+Event: 
+  Turkish Super Lig, Mersin SK v Galatasaray   
+CW: 92 3E ED BD B0 B2 DA 3C
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12521 Horizontal 4937,135
