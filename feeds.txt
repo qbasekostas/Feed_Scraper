@@ -5,6 +5,16 @@ Eutelsat 7.0E
 ID : AFD
 Cw : C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12601 Vertical 7199,756
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: POL-103 main
+Event:  
+     Polish Plusliga, Barkom v Slepsk Suwalki 
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 hazem7892 said:
 			CAF Champions League - Quarter Final
 Esperance de Tunis VS Al Ahly
@@ -129,6 +139,14 @@ PMT PID: 4096, SID: 17 @ CCTV-DSNG-3 (Service Provider)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 FIBA Women's Basketball World Cup 2026 – Qualifying Tournaments
 CW: 58 F3 EC 37 98 FE FA 90
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11107 Horizontal 7199,759
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi01 ACB
+Event:       
+Spain ACB, Joventut Badalona v Barcelona
+CW: 03 17 AC C6 34 F8 34 60
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 10969 Horizontal 7198,386
