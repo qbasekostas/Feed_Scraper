@@ -51,6 +51,14 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 FIBA Women's Basketball World Cup 2026 – Qualifying Tournaments
 CW: 58 F3 EC 37 98 FE FA 90
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12521 Horizontal 4937,135
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-021M
+Event:  
+ ABA League, Partizan Mozzart Bet v Cedevita Olimpija
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 11098  Horizontal  7201,79
 ID:  GVA_Fi08 (EUROVISION SA)
