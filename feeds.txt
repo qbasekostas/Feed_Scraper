@@ -1,3 +1,15 @@
+Eutelsat 7A/B   ( 7.0E )
+11496 Vertical 7498,371
+DVB-S2 - 4:2:0 - 8PSK
+ID:  AFD
+Event:   
+Argentina Liga Profesional,
+Gimnasia L.P. v Ind. Rivadavia
+(Final Part)
+NEXT
+ Argentina Liga Profesional, Belgrano v Talleres Córdoba    
+CW: 41 B7 A1 99 84 C1 4A 8F
+---FEED-SEPARATOR---
 Championnat d'Argentine 
 Rosario vs Banfield
 Eutelsat 7.0E
@@ -129,6 +141,14 @@ PMT PID: 4096, SID: 17 @ CCTV-DSNG-3 (Service Provider)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 FIBA Women's Basketball World Cup 2026 – Qualifying Tournaments
 CW: 58 F3 EC 37 98 FE FA 90
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10978 Horizontal 7199,733
+DVB-S2 - 4:2:0 - 8PSK
+ID:  WSHT ENC 58
+Event:  
+ NBA,  Cleveland Cavaliers v Dallas Mavericks 
+CW: D8 A5 AD 2A 96 FA 57 E7
 ---FEED-SEPARATOR---
 Eutelsat 10B @ 10° E
 Fréq:11273 - H - 7200
