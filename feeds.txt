@@ -5,6 +5,14 @@ Eutelsat 7.0E
 ID : AFD
 Cw : C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+12602 Vertical 7198,375
+DVB-S2 - 4:2:0 - 8PSK
+ID: GCUK Enc 2
+Event:  
+Scottish Premiership, St Mirren v Rangers
+CW: 5E 4E CD 79 FA 45 67 A6
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11061 Horizontal 7118,433
 DVB-S2 - 4:2:0 - 8PSK
@@ -54,6 +62,10 @@ Eutelsat 7A/7B/7C @ 7.0°E
 12515 H 4938
  YSM-012 MAIN (DSNG)
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+Event: 
+Europe AdmiralBet ABA League - Losers stage - Round 3
+Teams : Mega Basket 
+ Borac Mozzart
 CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
