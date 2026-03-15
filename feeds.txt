@@ -5,6 +5,25 @@ Eutelsat 7.0E
 ID : AFD
 Cw : C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+28.2E
+12604 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish SWPL 1 - Week 19
+Hearts
+ v 
+Rangers
+---FEED-SEPARATOR---
+16E
+12691 V 8000
+ 4:2:2
+DVB-S2 8PSK
+ID: League Cup Final Prg
+Northern Ireland League Cup - FINAL
+Glentoran v Linfield
+---FEED-SEPARATOR---
 16E
 12702 V 8000
  4:2:2
@@ -85,6 +104,22 @@ PMT PID: 4096, SID: 17 @ CCTV-DSNG-3 (Service Provider)
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 FIBA Women's Basketball World Cup 2026 – Qualifying Tournaments
 CW: 58 F3 EC 37 98 FE FA 90
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11588 Vertical 7498,344
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR139-Main
+Hot Bird ( 13.0E )
+12602 Vertical 7498,364
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  TUR139-Main
+Event: 
+     Turkish Super Lig, Anadolu Efes v Besiktas
+CW: 15 5A 9C 0B 4B BE 73 7C
 ---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 10984 Vertical 7498,359
