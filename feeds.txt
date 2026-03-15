@@ -5,6 +5,23 @@ Eutelsat 7.0E
 ID : AFD
 Cw : C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+hazem7892 said:
+			CAF Champions League - Quarter Final
+Esperance de Tunis VS Al Ahly
+Eutelsat 7°E
+11505 V 7200
+ID: TUN 009 BACKUP
+CW: 80 50 15 E5 03 EA D5 C2
+Click to expand...
+Event :VOLLYBALL
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+11505 V 7200
+NEW 
+ E-073 MAIN (Mediapro Portugal)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+87 4B 7C 59 FC FD 30 A9 
+NEW #CW:15 03 20 38 26 AD 26 F9
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 10987 Horizontal 7199,748
 DVB-S2 - 4:2:0 - 8PSK
@@ -114,6 +131,21 @@ FIBA Women's Basketball World Cup 2026 – Qualifying Tournaments
 CW: 58 F3 EC 37 98 FE FA 90
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+10969 Horizontal 7198,386
+DVB-S2 - 4:2:0 - 8PSK
+ID: LEUK_Fi04
+Event:  
+World Cup Women - Qualification, Turkey v Australia 
+CW: 0C 0A FF 15 8A B9 23 66
+---FEED-SEPARATOR---
+10.0°E
+11264 H 7200
+4:2:2
+ID: Encoder 2
+CW: 73 CD 25 65 74 83 CF C6
+Italian Basket
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12515 Horizontal 4937,037
 DVB-S2 - 4:2:0 - 8PSK
 ID: 
@@ -193,10 +225,10 @@ Hot Bird ( 13.0E )
  - 8PSK
 ID: TUR 112 MAIN
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-11171 H 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: SNG ABC 1
-Event: 
-Greek Super League - Paok vs Levadiakos
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11172 H 7200
+  SNG ABC 1 (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+83 90 F3 24 34 92 AC D6 
 CW: F1 D0 45 06 1E 07 06 2B
