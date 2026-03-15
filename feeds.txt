@@ -5,6 +5,14 @@ Eutelsat 7.0E
 ID : AFD
 Cw : C1 D5 AD 43 B4 81 0B 40
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10987 Horizontal 7199,748
+DVB-S2 - 4:2:0 - 8PSK
+ID: VOLLEY_WORLD_MAIN
+Event: 
+   Italy Serie A1 Women - Play Offs, Conegliano  v Novara   
+CW: B3 C5 7F F7 4E 41 AA 39
+---FEED-SEPARATOR---
 28.2E
 12604 H 7120 
 4:2:0
@@ -184,3 +192,11 @@ Hot Bird ( 13.0E )
 4:2:2
  - 8PSK
 ID: TUR 112 MAIN
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11171 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: SNG ABC 1
+Event: 
+Greek Super League - Paok vs Levadiakos
+CW: F1 D0 45 06 1E 07 06 2B
