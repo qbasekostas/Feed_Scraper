@@ -43,6 +43,27 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 FIBA Women's Basketball World Cup 2026 – Qualifying Tournaments
 CW: 58 F3 EC 37 98 FE FA 90
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11098  Horizontal  7201,79
+ID:  GVA_Fi08 (EUROVISION SA)
+1920x1080 |16,051Mb/Sec 8PSK |4:2:0 HD
+31 38 77 0C 0F 2C 37 80  #CW:58 F3 EC 37 98 FE FA 90  
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12515 H 4938
+ YSM-012 MAIN (DSNG)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12677 Horizontal 7199,759
+DVB-S2 - 4:2:0 - 8PSK
+ID:  TUR 141
+Event:  
+ World Cup Women - Qualification, Hungary v Argentina
+CW: 0C 0A FF 15 8A B9 23 66
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event:  
 Turkish Super Lig, Buyukcekmece v Fenerbahce     
