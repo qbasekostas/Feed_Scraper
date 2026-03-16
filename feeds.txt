@@ -1,0 +1,8 @@
+NBA
+Hawks vs Magic
+Eutelsat 7A/7B/7C @ 7.0°E
+11022 H 7200
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 13.14 Mbit/s
+ID: WSHT ENC52
+CW: 26 AE 82 56 51 56 EE 95
