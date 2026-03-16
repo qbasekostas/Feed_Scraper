@@ -17,6 +17,22 @@ DVB-S2 | 8PSK | 5/6
 ID: AFD
 CW: 41 B7 A1 99 84 C1 4A 8F
 ---FEED-SEPARATOR---
+Hellas Sat 3/4 ( 39.0E )
+12512 Horizontal 7198,434
+DVB-S2 - 4:2:0 - 8PSK
+ID:  PATH HD4
+Event:  
+Greece Elite League,  Chalkida v Proteas Voulas
+FTA / CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12593 Vertical 7199,749
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL 058_T1
+Event:    
+ Polish Basket Liga, Gdynia v Trefl Sopot      
+CW: 20 26 A9 EF 97 AB DA 1C
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12534 Vertical 4799,011
 DVB-S2 - 4:2:0 - 8PSK
