@@ -16,3 +16,11 @@ DVB-S2 | 8PSK | 5/6
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 17.22 Mbit/s
 ID: AFD
 CW: 41 B7 A1 99 84 C1 4A 8F
+---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+12534 Vertical 4799,011
+DVB-S2 - 4:2:0 - 8PSK
+ID:  B 123 DGI
+Event:  
+    Romania Divizia A, BC Steaua Bucuresti v Petrolul Ploiesti 
+CW: 16 03 20 39 26 AB C3 94
