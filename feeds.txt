@@ -1,3 +1,13 @@
+Ratzvan said:
+CW: 41 B7 A1 99 84 C1 4A 8F
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11514 Vertical 7498,366
+DVB-S2 - 4:2:0 - 8PSK
+ID: AFD
+Event: 
+  Argentina Liga Profesional, Unión Santa Fe v Boca Juniors   
+---FEED-SEPARATOR---
 Liga Profesional de Fútbol
 River Plate vs Sarmiento
 Eutelsat 7A/7B/7C @ 7.0°E
