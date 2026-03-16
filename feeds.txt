@@ -17,6 +17,15 @@ DVB-S2 | 8PSK | 5/6
 ID: AFD
 CW: 41 B7 A1 99 84 C1 4A 8F
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12685 Horizontal 7198,254
+DVB-S2 - 4:2:0 - 8PSK
+ID:  UKI-1955-1
+Event:  
+ Champions League, Manchester City v Real Madrid
+(PRE-MATCH CONFERENCE)
+CW: B6 A5 F4 4F E3 D2 C1 76
+---FEED-SEPARATOR---
 Hellas Sat 3/4 ( 39.0E )
 12512 Horizontal 7198,434
 DVB-S2 - 4:2:0 - 8PSK
