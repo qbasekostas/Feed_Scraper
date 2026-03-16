@@ -18,6 +18,23 @@ ID: AFD
 CW: 41 B7 A1 99 84 C1 4A 8F
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+10960 Horizontal 7119,118
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Pitch Portsmouth v Derby C
+Event:   
+   English Championship, Portsmouth v Derby County  
+CW: 3A 7A 25 D9 A2 26 8A 52
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 3A 7A 25 D9 A2 26 8A 52
+Portsmouth vs Derby County
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12685 Horizontal 7198,254
 DVB-S2 - 4:2:0 - 8PSK
 ID:  UKI-1955-1
