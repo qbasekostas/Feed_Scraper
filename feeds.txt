@@ -1,3 +1,55 @@
+Event :
+Champions League - Play Offs - 1/8-finals
+Teams : Chelsea 
+ PSG
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11102 V 17140
+  C+ Chelsea v PSG (OBStv)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+45.856 
+Mbit/Sec | 
+16APSK 
+| DVB-S2 HD
+Codec: H264 - MPEG-4 AVC (part 10) (h264) 
+Frame rate: 50
+CW: BB AA 85 EA 46 CA BA CA
+---FEED-SEPARATOR---
+Ratzvan said:
+CW: A1 E1 F6 78 90 2E DE 9C
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11019 Horizontal 4826,33
+DVB-S2X
+ - 4:2:0 - 
+16APSK
+ID:  (empty)
+Event:   
+Champions League Highlights/Backup     
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11013 Horizontal 4826,332
+DVB-S2X
+ - 4:2:0 - 
+16APSK
+ID: (empty)
+Event: 
+Champions League Highlights/Backup 
+CW: A1 E1 F6 78 90 2E DE 9C
+---FEED-SEPARATOR---
+UEFA Champions League - Round of 16 (2nd Leg) [0-3]
+Manchester City vs. Real Madrid
+Eutelsat 7B/7C @ 7.0°E
+12633 - V - 17140 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 16APSK
+ID: Canal Plus Test
+CW: AA 12 BB 77 11 22 34 67
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 12437 H 27500
 DVB-S2 - 4:2:0 - 8PSK
@@ -5,6 +57,14 @@ ID: FEED 2
 Event:
  Uefa Champions League -
 CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12640 Horizontal 7199,749
+DVB-S2 - 4:2:0 - 8PSK
+ID: ert fiba quali
+Event:   
+ EuroBasket Women - Qualification, Greece v Denmark  
+FTA / CLEAR
 ---FEED-SEPARATOR---
 Astra 1KR-1L-1M-1N ( 19.2E )
 11620 Vertical 7198,610
