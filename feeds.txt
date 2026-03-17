@@ -1,3 +1,11 @@
+Eutelsat 7A/B   ( 7.0E )
+11023 Vertical 7199,74
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Fi11_GNVE
+Event:   
+   World Cup Women - Qualification, Belgium v Czech Republic  
+CW: 4E AE C6 C2 E2 4F FF 30
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3993 V 7200
 PMT PID: 4096, SID: 17 @ CCTV-DSNG-3 (Service Provider)
