@@ -1,3 +1,11 @@
+Hot Bird 13B/13C/13E @ 13.0E
+12437 H 27500
+DVB-S2 - 4:2:0 - 8PSK
+ID: FEED 2
+Event:
+ Uefa Champions League -
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
 Astra 1KR-1L-1M-1N ( 19.2E )
 11620 Vertical 7198,610
 DVB-S2 - 4:2:0 - 8PSK
@@ -32,6 +40,36 @@ DVB-S2 | 8-PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 13.14 Mbit/s
 ID: WSHT ENC52
 CW: 26 AE 82 56 51 56 EE 95
+---FEED-SEPARATOR---
+Event :
+World Cup Women - Qualification - Round 5
+Teams :Australia W 
+ Canada W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11005 V 7200
+ Fi13_GNVE (EBUER)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: C9 FE 79 40 11 62 CA 3D
+---FEED-SEPARATOR---
+Event :
+Europe Eurocup - Play Offs - Quarter-finals
+Teams :Bahcesehir Kol. 
+ Cluj-Napoca
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12727 V 7200
+ OB-09 A (ÃZKAN PROD.)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11071 Horizontal 7199,963
+DVB-S2 - 4:2:0 - 8PSK
+ID: HapoelTelA vs.ParisBask BUL006 1
+Event:   
+  Euroleague, Hapoel Tel-Aviv v Paris     
+CW: AA A7 3A 8B 99 23 85 41
 ---FEED-SEPARATOR---
 Event :World Cup Women - Qualification - Round 5
 Teams :China W 
