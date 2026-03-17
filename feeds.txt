@@ -1,3 +1,52 @@
+Eutelsat 7A/B   ( 7.0E )
+12646 Vertical 7199,749
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA 790 WORLD FEED backup
+Event:   
+  Italian SuperLega - Play Offs, Modena v Piacenza    
+CW: 51 08 7D D6 C8 34 79 75
+---FEED-SEPARATOR---
+Albahraniy said:
+CW: 43 92 0F E4 34 AD 22 03
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+12655 Vertical 7118,413
+DVB-S2 - 4:2:0 - 8PSK
+ID:  EFL Barnsley v Wigan Ath
+Event: 
+English League One, Barnsley v Wigan Athletic
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10998 Horizontal 9874,657
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  LEUK_Fi01
+Event:    
+ Champions League Highlights Feed    
+CW: A1 E1 F6 78 90 2E DE 9C
+---FEED-SEPARATOR---
+Eutelsat 3B/Rascom QAF 1R ( 3.1E )
+10961 Horizontal 7499,875
+DVB-S2 - 4:2:0 - QPSK-S2
+ID: beIN SPORTS
+(10970 Horizontal 7499,879
+DVB-S2 - 4:2:0 - QPSK-S2
+ID: Service-1)
+not active yet
+Event:  
+     Champions League - Play Offs, Arsenal v Bayer Leverkusen
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+Eutelsat 3B/Rascom QAF 1R   ( 3.1E )
+10978 Horizontal 7498,325
+DVB-S2 - 4:2:0 - 8PSK
+ID: BeIn UCL Chelsea v PSG
+Event:    
+   Champions League - Play Offs, Chelsea v Paris St Germain  
+#bEINsPORT Feed
+CW: 2A 1E 1C 64 A2 67 AF B8
+---FEED-SEPARATOR---
 UEFA Champions League - Round of 16 (2nd Leg) [2-5]
 Tottenham Hotspur vs. Atlético Madrid
 Eutelsat 10B @ 10.0°E
@@ -68,6 +117,14 @@ ID: FEED 2
 Event:
  Uefa Champions League - Manchester City vs Real Madrid
 CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12517 Horizontal 7199,732
+DVB-S2 - 4:2:0 - 8PSK
+ID: BiH-003-2
+Event: 
+EuroBasket Women - Qualification, Bosnia & Herzegovina v Luxembourg
+FTA / CLEAR
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12640 Horizontal 7199,749
