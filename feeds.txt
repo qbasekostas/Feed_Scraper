@@ -59,6 +59,14 @@ Event:
 CW: 12 34 56 9C 78 91 23 2C
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+11181 Horizontal 7199,745
+DVB-S2 - 4:2:0 - 8PSK
+ID: FIBA WOMENS CYP vs POL_MAIN
+Event:    
+  EuroBasket Women - Qualification, Cyprus v Poland   
+FTA / CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12640 Horizontal 7199,749
 DVB-S2 - 4:2:0 - 8PSK
 ID: ert fiba quali
