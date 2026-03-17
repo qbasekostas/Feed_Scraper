@@ -1,8 +1,0 @@
-FIBA Women's World Cup
-Spain vs USA 
-Eutelsat 7A/7B/7C @ 7.0°E
-10996 V 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 14.21 Mbit/s
-ID: LK ENC 10
-CW: 06 44 DE 28 70 57 FF C6
