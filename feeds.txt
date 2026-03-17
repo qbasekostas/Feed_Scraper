@@ -55,7 +55,7 @@ Hot Bird 13B/13C/13E @ 13.0E
 DVB-S2 - 4:2:0 - 8PSK
 ID: FEED 2
 Event:
- Uefa Champions League -
+ Uefa Champions League - Manchester City vs Real Madrid
 CW: 12 34 56 9C 78 91 23 2C
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
@@ -108,6 +108,14 @@ DVB-S2 | 8-PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 13.14 Mbit/s
 ID: WSHT ENC52
 CW: 26 AE 82 56 51 56 EE 95
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12557 Horizontal 4936,231
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-021M
+Event:  
+ABA League 2, Zlatibor v TFT Skopje
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Event :
 World Cup Women - Qualification - Round 5
