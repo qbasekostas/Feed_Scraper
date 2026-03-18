@@ -1,3 +1,21 @@
+Eutelsat 16A   ( 16.0E )
+12606 Vertical 7608,301
+DVB-S2 - 4:2:0 - 8PSK
+ID: ROU-073-2-1
+Event:  
+   CEV Cup Women, Voluntari v Galatasaray  
+CW: 33 6C E8 87 BA 2E 1E 06
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11062 Horizontal 9697,752
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: AVP_OU_A
+Event:   
+   Challenge Cup Women, Panathinaikos v Vallefoglia  
+CW: BB 12 21 EE DF AA 12 9B
+---FEED-SEPARATOR---
 UEFA Champions League - Round of 16 (2nd Leg) [1-1]
 Barcelona vs. Newcastle United
 Intelsat 10-02 @ 1.0°W
@@ -88,6 +106,14 @@ ID:  CZE 040
 Event: 
 CZECH REPUBLIC: NBL - Olomoucko v Hradec Kralove    
 FTA/CLEAR
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+12592 V 7200 | 4:2:2 | 8PSK
+ID: 
+TKS.TRT.M17 -A
+Event: 
+Tofaş vs ASK Karditsas BC (Basketball – FIBA Champions League) - 18 March 2026
+CW: BC 93 DA 29 19 BA 07 DA
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12727 Vertical 7199,776
