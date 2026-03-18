@@ -18,8 +18,8 @@ CW: 5C 5C 35 ED DB CA 4E F3
 UEFA Champions League
 Liverpool v Galatasaray
 ---FEED-SEPARATOR---
-UEFA Champions League - Round of 16 (2nd Leg) [-]
-...
+UEFA Champions League - Round of 16 (2nd Leg) [0-1]
+Liverpool vs. Galatasaray
 Hot Bird 13F/13G @ 13.0°E
 12437 - H - 27500 
 |
@@ -59,6 +59,15 @@ Event:
  Champions League Highlights/Backup
 CW: 63 12 83 F8 7E 93 03 14
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11101 V 17140 | 4:2:0 | 16APSK
+ID: 
+Canal Plus Test
+Event: 
+Liverpool vs Galatasaray
+ (UEFA Champions League – Round of 16, 2nd Leg) – 18 March 2026  
+CW: CA CA 23 B7 15 BA CA 99
+---FEED-SEPARATOR---
 Eutelsat 3B / Rascom QAF 1R @ 03.1E
 10961 H 7500 | 4:2:0 | QPSK-S2
 ID: 
@@ -79,3 +88,27 @@ ID:  CZE 040
 Event: 
 CZECH REPUBLIC: NBL - Olomoucko v Hradec Kralove    
 FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12727 Vertical 7199,776
+DVB-S2 - 4:2:0 - 8PSK
+ID: OB-09 A
+Event: 
+Eurocup - Play Offs, Besiktas v Trento
+CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+12582 Vertical 7198,533
+DVB-S2 - 4:2:0 - 8PSK
+ID:  TUR 141
+Event:  
+   Champions League, Galatasaray v Rytas  
+CW: CB 53 CE EC 99 AE 71 B8
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+12601 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: BASKET-CL
+Event:
+Basketball Champions League - Le Mans vs Hapoel Holon
+CW: AF 80 AF DE 96 DD 29 9C
