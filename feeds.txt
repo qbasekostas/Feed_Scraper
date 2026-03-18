@@ -7,6 +7,14 @@ Event:
 CW: 33 6C E8 87 BA 2E 1E 06
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+11180 Horizontal 7199,871
+DVB-S2 - 4:2:0 - 8PSK
+ID:  ITA CEV(A) MAIN
+Event:  
+Champions League Women - Play Offs, Conegliano v Zeren Spor    
+CW: 3E B9 FF F6 DD E9 58 1E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12649 Horizontal 7499,764
 DVB-S2 - 
 4:2:2
@@ -44,6 +52,26 @@ Scottish SWPL 1 - Week 20
 Celtic
 v 
 Glasgow City
+---FEED-SEPARATOR---
+xachik said:
+CW: 23 0C 25 54 1C AA 2C F2
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+12655 Vertical 7118,288
+DVB-S2 - 4:2:0 - 8PSK
+ID:     PITCH - EFL MK Dons v Colchester
+Event: 
+English League Two, Milton Keynes Dons v Colchester United
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 
+4:2:0
+League Two
+ MK Dons   vs   Colchester
+C1 8D 74 53 70 E7 99 49  #CW: 
+23 0C 25 54 1C AA 2C F2
 ---FEED-SEPARATOR---
 UEFA Champions League - Round of 16 (2nd Leg) [1-1]
 Barcelona vs. Newcastle United
