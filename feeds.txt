@@ -1,3 +1,14 @@
+UEFA Champions League - Round of 16 (2nd Leg) [1-1]
+Barcelona vs. Newcastle United
+Intelsat 10-02 @ 1.0°W
+12611 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: E 268 MAIN
+CW: 82 74 B2 A8 4F 8F 0D EB
+---FEED-SEPARATOR---
 1W
 11087 V 7200 
 4.2.0
@@ -47,6 +58,17 @@ ID:  (empty)
 Event:  
  Champions League Highlights/Backup
 CW: 63 12 83 F8 7E 93 03 14
+---FEED-SEPARATOR---
+Eutelsat 3B / Rascom QAF 1R @ 03.1E
+10961 H 7500 | 4:2:0 | QPSK-S2
+ID: 
+beIN SPORTS
+10970 H 7500 | 4:2:0 | QPSK-S2
+ID: 
+Service-1 (not active yet)
+Event: 
+Barcelona vs Newcastle United (UEFA Champions League – Round of 16, Second Leg) – 18 March 2026 
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12523 Horizontal 4799,033
