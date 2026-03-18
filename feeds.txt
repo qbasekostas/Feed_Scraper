@@ -1,3 +1,23 @@
+1W
+11087 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: UKI-1870 BT Liverpool v Galatasaray
+CW: 5C 5C 35 ED DB CA 4E F3
+UEFA Champions League
+Liverpool v Galatasaray
+---FEED-SEPARATOR---
+UEFA Champions League - Round of 16 (2nd Leg) [-]
+...
+Hot Bird 13F/13G @ 13.0°E
+12437 - H - 27500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11544 Vertical 7199,755
 DVB-S2 - 4:2:0 - 8PSK
