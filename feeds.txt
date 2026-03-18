@@ -6,6 +6,14 @@ Event:
    CEV Cup Women, Voluntari v Galatasaray  
 CW: 33 6C E8 87 BA 2E 1E 06
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12592 Vertical 7199,755
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL 058_T2
+Event:  
+    Champions League Women - Play Offs, Rzeszow v Eczacibasi  
+CW: 07 BB 01 C3 AE 26 CF A3
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 11062 Horizontal 9697,752
 DVB-S2 - 
@@ -77,6 +85,16 @@ Event:
  Champions League Highlights/Backup
 CW: 63 12 83 F8 7E 93 03 14
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10998 Horizontal 9874,648
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: GVA_Fi01
+Event:  
+Champions League Highlights Feed
+CW: 63 12 83 F8 7E 93 03 14
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11101 V 17140 | 4:2:0 | 16APSK
 ID: 
@@ -97,6 +115,12 @@ Event:
 Barcelona vs Newcastle United (UEFA Champions League – Round of 16, Second Leg) – 18 March 2026 
 CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0°E)    
+Frequency: 12562 - Pol: H - SR: 4937
+Category: Sport - Basketball
+Transmitted in: MPEG-4
+Vojvodina Novi Sad-Helios Domzale 
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12523 Horizontal 4799,033
 DVB-S2 -
@@ -106,6 +130,22 @@ ID:  CZE 040
 Event: 
 CZECH REPUBLIC: NBL - Olomoucko v Hradec Kralove    
 FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12510 Vertical 7199,751
+DVB-S2 - 4:2:0 - 8PSK
+ID: Medialink CRO-024/1
+Event:    
+ ABA League, Split v Vienna Basket    
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+12609 Vertical 7198,534
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Alba Berlin
+Event:  
+     Champions League, Alba Berlin v AEK Athens
+CW: FD 95 AE 40 72 AE 11 31
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 12592 V 7200 | 4:2:2 | 8PSK
