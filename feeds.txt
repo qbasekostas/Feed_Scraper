@@ -1,0 +1,9 @@
+Eutelsat 16A   ( 16.0E )
+12523 Horizontal 4799,033
+DVB-S2 -
+4:2:2
+ - 8PSK
+ID:  CZE 040
+Event: 
+CZECH REPUBLIC: NBL - Olomoucko v Hradec Kralove    
+FTA/CLEAR
