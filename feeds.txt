@@ -1,4 +1,13 @@
 Eutelsat 7A/B   ( 7.0E )
+11544 Vertical 7199,755
+DVB-S2 - 4:2:0 - 8PSK
+ID: E 268 BUP
+Event:   
+  Champions League, Barcelona v Newcastle United   
+#Interview Feed
+CW: 82 74 B2 A8 4F 8F 0D EB
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 11007 Horizontal 4826,33
 DVB-S2X 
 - 4:2:0 - 
