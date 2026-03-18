@@ -7,6 +7,16 @@ Event:
 CW: 33 6C E8 87 BA 2E 1E 06
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+12649 Horizontal 7499,764
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  ITA 671
+Event:     
+ CEV Cup Women, Chieri '76 v Dresdner SC
+CW: DC BA 03 99 81 AB CD F9
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12592 Vertical 7199,755
 DVB-S2 - 4:2:0 - 8PSK
 ID: POL 058_T2
@@ -23,6 +33,17 @@ ID: AVP_OU_A
 Event:   
    Challenge Cup Women, Panathinaikos v Vallefoglia  
 CW: BB 12 21 EE DF AA 12 9B
+---FEED-SEPARATOR---
+28.2E
+12632 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish SWPL 1 - Week 20
+Celtic
+v 
+Glasgow City
 ---FEED-SEPARATOR---
 UEFA Champions League - Round of 16 (2nd Leg) [1-1]
 Barcelona vs. Newcastle United
@@ -132,6 +153,14 @@ CZECH REPUBLIC: NBL - Olomoucko v Hradec Kralove
 FTA/CLEAR
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+11190 Horizontal 7199,753
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-012 MAIN
+Event: 
+Eurocup - Play Offs, Hapoel Jerusalem v Turk Telekom 
+CW: 13 CA FA D7 74 22 B6 4C
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12510 Vertical 7199,751
 DVB-S2 - 4:2:0 - 8PSK
 ID: Medialink CRO-024/1
@@ -178,3 +207,11 @@ ID: BASKET-CL
 Event:
 Basketball Champions League - Le Mans vs Hapoel Holon
 CW: AF 80 AF DE 96 DD 29 9C
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°E 
+( KU-BAND )
+10977 H 7200
+  Fal7 Enc2  (Net 1     )
+MPEG4-4.2.0 1920x1080 |17.450 Mbit/Sec|8PSK| DVB-S2 HD
+BASKETBALL Champions League: ALBA BERLIN V's AEK
+CW: 20 25 AE F3 EA 52 02 3E
