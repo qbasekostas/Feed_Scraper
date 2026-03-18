@@ -1,3 +1,24 @@
+Eutelsat 7A/B   ( 7.0E )
+11007 Horizontal 4826,33
+DVB-S2X 
+- 4:2:0 - 
+16APSK
+ID:  E 389 feed b path 2
+Event: 
+Champions League, Barcelona v Newcastle United
+ #backup
+CW: 63 12 83 F8 7E 93 03 14
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11013 Horizontal 4826,321
+DVB-S2X
+ - 4:2:0 - 
+16APSK
+ID:  (empty)
+Event:  
+ Champions League Highlights/Backup
+CW: 63 12 83 F8 7E 93 03 14
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12523 Horizontal 4799,033
 DVB-S2 -
