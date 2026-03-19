@@ -1,3 +1,13 @@
+Eutelsat 7A/B   ( 7.0E )
+12687 Vertical 7198,399
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR-143B
+Event:   
+    Champions League Women - Play Offs, Fenerbahce  v Scandicci  
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
 Hotbired 13°E
 12436 H 27500
 ID: FEED 2
