@@ -1,3 +1,10 @@
+Hotbired 13°E
+12436 H 27500
+ID: FEED 2
+Event: UEFA Europe League - Round of 16
+Porto VS Stuttgart 
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11070 Horizontal 7198,431
 DVB-S2 - 4:2:0 - 8PSK
