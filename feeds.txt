@@ -17,17 +17,6 @@ Event:
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
 UEFA Europa League
-Aston Villa vs Lille 
-Eutelsat 7A/7B/7C @ 7.0°E
-12569 H 17140
-DVB-S2 | 16APSK | 2/3
-1920x1080 | H.264/AVC Video | 
-4:2:2
- | 50 FPS | 43.02 Mbit/s
-ID: C+ F2 Villa v Lille
-CW: AB AB 55 AB 66 12 34 AC
----FEED-SEPARATOR---
-UEFA Europa League
 Aston Villa vs Lille
 Eutelsat 7A/7B/7C @ 7.0°E
 12551 H 17140
@@ -45,7 +34,7 @@ Eutelsat 7B/7C @ 7.0°E
 |
 4:2:0
  | H.264
-1920*1080 | DVB-S2 | 16APSK
+1920*1080 | DVB-S2 | 8PSK
 ID: GVA_Fi01
 CW: 23 EA C3 D0 B5 59 04 12
 ---FEED-SEPARATOR---
@@ -70,6 +59,22 @@ ID: FEED 2
 Event: UEFA Europe League - Round of 16
 Porto VS Stuttgart 
 CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11062 Horizontal 7199,761
+DVB-S2 - 4:2:0 - 8PSK
+ID: F529_PARIS_MAIN
+Event:    
+  Euroleague, Paris v Partizan Mozzart Bet     
+CW: E7 61 29 71 42 94 79 4F
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12515 Horizontal 4936,157
+DVB-S2 - 4:2:0 - 8PSK
+ID:  YSM-021M
+Event:   
+    ABA League, Studentski Centar v Perspektiva Ilirija 
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11460 V 4935 | 4:2:0 | 8PSK
