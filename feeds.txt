@@ -1,3 +1,11 @@
+Eutelsat 7B-7C @ 07.0E
+12676 V 7200 | 4:2:0 | 8PSK
+ID: 
+TUR 123 A
+Event: 
+VakıfBank Istanbul vs Vero Volley Milano (Volleyball – CEV Champions League Women, Quarter-finals) - 19 March 2026
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12687 Vertical 7198,399
 DVB-S2 - 
@@ -7,6 +15,17 @@ ID: TUR-143B
 Event:   
     Champions League Women - Play Offs, Fenerbahce  v Scandicci  
 CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+UEL / UCEL - Round of 16 (2nd Leg)
+: MultiGoals & Highlights
+Eutelsat 7B/7C @ 7.0°E
+12654 - V - 9875 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 16APSK
+ID: GVA_Fi01
+CW: 23 EA C3 D0 B5 59 04 12
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12570 Horizontal 17136,334
@@ -30,6 +49,14 @@ Event: UEFA Europe League - Round of 16
 Porto VS Stuttgart 
 CW: 12 34 56 9C 78 91 23 2C
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11460 V 4935 | 4:2:0 | 8PSK
+ID: 
+Medialink CRO-025/1
+Event: 
+KK Krka Novo Mesto vs KK Mega Basket Belgrade (Basketball – ABA Liga, Relegation Round) - 19 March 2026
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12534 Vertical 4799,002
 DVB-S2 - 4:2:0 - 8PSK
@@ -49,9 +76,9 @@ CW: AA 5C 37 3D 95 CD 89 EB
 Eutelsat 7A/B   ( 7.0E )
 11070 Horizontal 7198,431
 DVB-S2 - 4:2:0 - 8PSK
-ID: IMG A EU
+ID: IMG A EU -->  
+NEW ID:   
+HapoelTelA vs.VirtusBol BUL006 1
 Event:       
- Euroleague    
-(
-match name still unknown)
+ Euroleague, Hapoel Tel-Aviv v Virtus Bologna
 CW: B8 72 89 B3 1B 82 63 00
