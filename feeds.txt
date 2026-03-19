@@ -16,17 +16,6 @@ Event:
     Champions League Women - Play Offs, Fenerbahce  v Scandicci  
 CW: 4E 5B 29 D2 6D D4 6A AB
 ---FEED-SEPARATOR---
-UEFA Europa League
-Aston Villa vs Lille
-Eutelsat 7A/7B/7C @ 7.0°E
-12551 H 17140
-DVB-S2 | 16APSK | 2/3
-1920x1080 | H.264/AVC Video | 
-4:2:2
- | 50 FPS | 42.69 Mbit/s
-ID: C+ F1 Villa v Lille
-CW: 12 03 AC C1 DC 11 12 FF
----FEED-SEPARATOR---
 UEL / UCEL - Round of 16 (2nd Leg)
 : MultiGoals & Highlights
 Eutelsat 7B/7C @ 7.0°E
