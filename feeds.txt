@@ -1,3 +1,19 @@
+Intelsat 10-02 ( 1.0W )
+12541 Vertical 6658,631
+DVB-S2 - 4:2:0 - 8PSK
+ID:   backup
+Event:  
+     Romania Divizia A, Dinamo Bucharest v BC Steaua Bucuresti
+FTA / CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12515 Horizontal 4936,774
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-015BU
+Event
+: Serbia Basket 3x3: Bajina Bašta v MTS Karavan U15
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 11189 H 7200
 DVB-S2/8PSK (4:2:0)
