@@ -67,6 +67,14 @@ Event:
      Romania Divizia A, Dinamo Bucharest v BC Steaua Bucuresti
 FTA / CLEAR
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+11079 H 7200
+DVB-S2/8PSK (4:2:0)
+ID: F489 MAIN
+Event:
+ Euroleague Basketball - Asvel vs Maccabi
+CW: 55 B1 75 7B 7F 69 FC E4
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12515 Horizontal 4936,774
 DVB-S2 - 4:2:0 - 8PSK
