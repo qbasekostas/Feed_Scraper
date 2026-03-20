@@ -1,0 +1,7 @@
+Eutelsat 7B/7C (7.0 E)
+11189 H 7200
+DVB-S2/8PSK (4:2:0)
+ID: E-362 MAIN
+Event: 
+Final Four Draw at the Badalona Museum
+CW: 99 00 DD 76 18 1A 20 52
