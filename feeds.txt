@@ -6,6 +6,14 @@ Event:
  Polish TAURON Liga Women, Budowlani Lodz v Bielsko-Biala    
 CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+16E
+12702 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship - Week 30
+Partick Thistle v St Johnstone
+---FEED-SEPARATOR---
 ​
 Scottish Championship - Week 30
 Partick Thistle v St Johnstone
