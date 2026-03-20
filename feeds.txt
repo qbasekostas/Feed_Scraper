@@ -1,3 +1,11 @@
+Eutelsat 7A/B   ( 7.0E )
+12592 Vertical 7198,415
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL 058_T1
+Event:    
+ Polish TAURON Liga Women, Budowlani Lodz v Bielsko-Biala    
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12541 Vertical 6658,631
 DVB-S2 - 4:2:0 - 8PSK
