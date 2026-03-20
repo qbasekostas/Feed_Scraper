@@ -27,6 +27,38 @@ DVBS-2-
 -8PSK
 ID:Uki-1592
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11023 Vertical 7118,342
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Pitch EFL Preston v Stoke City
+Event: 
+English Championship,  Preston N.E. v Stoke City
+CW: 66 6C 28 FA 5A 32 2D B9
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10820 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: GCUK Enc 3
+Event: 
+William Hill Championship - Partick Thistle vs St. Johnstone
+CW: 94 A0 11 45 CD FA 47 0E
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3984 V 7119 C-Band
+ID: BT_SES_22_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,98Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 39)
+Teams: 
+Preston North End vs Stoke City
+Time / Kickoff: 03.00 JKT-TH / 04.00 MY-SG / 20.00 GMT / 21.00 CET
+Ratzvan said:
+CW: 66 6C 28 FA 5A 32 2D B9
+Click to expand...
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12541 Vertical 6658,631
 DVB-S2 - 4:2:0 - 8PSK
