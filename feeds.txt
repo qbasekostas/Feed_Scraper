@@ -64,6 +64,13 @@ CW: A2 24 CA 90 BC 15 A4 75
 English Championship - Week 39
 Ipswich Town v Millwall
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0°E)     
+Frequency: 12565 - Pol: H - SR: 4937 - FEC: 3/4
+Category: Sport - Basketball
+Transmitted in: MPEG-4 crypté
+W/Novosadska ŽKA- Radnički
+cw : ABBA20852520266B 
+---FEED-SEPARATOR---
 Polish Basketball League, Round 23
 Legia Warszawa vs Śląsk Wrocław 
 Eutelsat 7B/7C @ 7.0E
