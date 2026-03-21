@@ -8,6 +8,13 @@ MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
 51 4B 20 97 E6 E5 B8 B9
 CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 37 97 32 00 00 DE 24 02
+Swansea City vs Coventry City
+---FEED-SEPARATOR---
 Championship, Round 39
 Sheffield United vs Wrexham
 Eutelsat 7B/7C @ 7.0E
