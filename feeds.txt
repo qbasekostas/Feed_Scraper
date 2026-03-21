@@ -1,3 +1,12 @@
+Championship, Round 39
+Sheffield United vs Wrexham
+Eutelsat 7B/7C @ 7.0E
+12646 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: PITCH - EFL Sheffield Utd v Wrexham (NEP Connect)
+CW: CE 2C 32 2C AC 25 C3 94
+---FEED-SEPARATOR---
 100.5e
 3985 V 7120
 4:2:0
@@ -45,6 +54,15 @@ CW: A2 24 CA 90 BC 15 A4 75
 English Championship - Week 39
 Ipswich Town v Millwall
 ---FEED-SEPARATOR---
+Portugal LBP, Round 17
+Porto vs SL Benfica 
+Eutelsat 7B/7C @ 7.0E
+12655 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:E-228 Main
+CW: D2 75 26 6D 1F FF 8D AB
+---FEED-SEPARATOR---
 Astra 1KR-1L-1M-1N ( 19.2E )
 11662 V 7200
 DVB-S2 -
@@ -52,3 +70,12 @@ DVB-S2 -
  - 8PSK
 ID: MMG-D185 HD Encoder 2
 CW: 03 41 30 74 09 02 01 0C
+---FEED-SEPARATOR---
+Serbia Mozzart Bet Superliga, Round 28
+FK Crvena zvezda vs FK Radnički Niš 
+Eutelsat 7B/7C @ 7.0E
+12544 H 4938
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:YSM-012 MAIN (DSNG)
+CW: AB BA 20 85 25 20 26 6B
