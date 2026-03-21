@@ -1,3 +1,41 @@
+100.5e
+3985 V 7120
+4:2:0
+ID: 
+BT_SES_22_SDI
+Dani Sat said:
+English Championship - Week 39
+Ipswich Town vs. Millwall
+Eutelsat 7B/7C @ 7.0°E
+10987 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID:  EFL  Ipswich  v Millwall
+CW: 19 21 AA E4 62 44 62 08
+Click to expand...
+---FEED-SEPARATOR---
+English Championship - Week 39
+Ipswich Town vs. Millwall
+Eutelsat 7B/7C @ 7.0°E
+10987 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID:  EFL  Ipswich  v Millwall
+CW: 19 21 AA E4 62 44 62 08
+---FEED-SEPARATOR---
+100.5e
+3967 V 7120
+4:2:0
+ID: BT_SES_24_SDI
+Championship  
+Sheffield Utd  vs  Wrexham
+3F 11 45 B1 1B 27 B3 52  #CW: 
+CE 2C 32 2C AC 25 C3 94
+---FEED-SEPARATOR---
 28.2E
 12610 V 7200 
 4:2:0
