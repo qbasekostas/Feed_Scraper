@@ -1,3 +1,13 @@
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12601 V 7200
+  Polsat Sport (POLSAT)
+Event:
+Men's volleyball: PlusLiga - match: Aluron CMC Warta Zawiercie - ZAKSA Kędzierzyn-Koźle
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+51 4B 20 97 E6 E5 B8 B9
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 Championship, Round 39
 Sheffield United vs Wrexham
 Eutelsat 7B/7C @ 7.0E
@@ -53,6 +63,15 @@ ID: ITN IPSWICH V MILLWALL
 CW: A2 24 CA 90 BC 15 A4 75
 English Championship - Week 39
 Ipswich Town v Millwall
+---FEED-SEPARATOR---
+Polish Basketball League, Round 23
+Legia Warszawa vs Śląsk Wrocław 
+Eutelsat 7B/7C @ 7.0E
+12592 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: POL-080 MAIN (POLSAT)
+CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
 Portugal LBP, Round 17
 Porto vs SL Benfica 
