@@ -1,3 +1,13 @@
+Eutelsat 7B / Eutelsat 7C  7° E
+12601 V  7200
+ID: POL 058_T2
+Event:  
+Men's volleyball: PlusLiga - match: Bogdanka LUK Lublin - Steam Hemarpol Częstochowa University of Technology
+4.2.0
+- DVB-S2 - 8PSK
+🗝: 
+15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 12601 V 7200
@@ -7,6 +17,22 @@ Men's volleyball: PlusLiga - match: Aluron CMC Warta Zawiercie - ZAKSA Kędzierz
 MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
 51 4B 20 97 E6 E5 B8 B9
 CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+Scotland Premiership - Round 3
+Rangers 
+ Aberdeen
+Hotbird 13°E
+12436 V 27500 - 4.2.0
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Scotland Premiership - Round 3
+Rangers 
+ Aberdeen
+Hotbird 13°E
+11637 V 7200 - 4.2.0
+ID: GCUK Enc 5
+CW: 92 2A DF 9B F6 18 32 40
 ---FEED-SEPARATOR---
 Event:England Championship - Round 39
 Teams : Swansea 
