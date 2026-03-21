@@ -1,0 +1,8 @@
+28.2E
+12610 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID: ITN IPSWICH V MILLWALL
+CW: A2 24 CA 90 BC 15 A4 75
+English Championship - Week 39
+Ipswich Town v Millwall
