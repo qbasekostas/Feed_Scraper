@@ -1,0 +1,7 @@
+7°E KU
+11606 V 7500 
+DVB-S2|1080HD
+4.2.0|H264
+ID: AFD
+Event: Argentina Liga Profesional - Independiente V Talleres
+CW: 21 D8 AB A4 B2 14 C5 8B
