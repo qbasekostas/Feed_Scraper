@@ -44,3 +44,11 @@ ID: ITN IPSWICH V MILLWALL
 CW: A2 24 CA 90 BC 15 A4 75
 English Championship - Week 39
 Ipswich Town v Millwall
+---FEED-SEPARATOR---
+Astra 1KR-1L-1M-1N ( 19.2E )
+11662 V 7200
+DVB-S2 -
+4:2:2
+ - 8PSK
+ID: MMG-D185 HD Encoder 2
+CW: 03 41 30 74 09 02 01 0C
