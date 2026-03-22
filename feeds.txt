@@ -1,3 +1,11 @@
+Colombia Primera A
+ Alianza FC Valledupar 
+️ Deportivo Cali
+ SES-14 (47.5° W)
+ 3848 H 6666 - (C-BAND)
+ ALICAL
+CW: A2 12 0C C0 94 51 5C 41
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 12648 H 7500
 DVB-S2/8PSK (4:2:0)
