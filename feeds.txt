@@ -50,6 +50,31 @@ ID: AFD
 Event: Argentina Liga Profesional - Independiente V Talleres
 CW: 21 D8 AB A4 B2 14 C5 8B
 ---FEED-SEPARATOR---
+Eutelsat 7A/B ( 7.0E )
+11088 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: VOLLEY_WORLD_MAIN
+Event: 
+Italy PlayOff Women - Milano vs Scandicci
+CW: C8 8B 7F D2 6F 08 67 DE
+---FEED-SEPARATOR---
+English League Cup - FINAL (Wembley, London)
+Arsenal vs. Manchester City
+Eutelsat 7B/7C @ 7.0°E
+12546 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: WEMBLEY PATH 1
+12555 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: WEMBLEY PATH 2
+CW: CE B2 AA 2A 74 89 FF FC
+---FEED-SEPARATOR---
 13E
 11213 V 7200 
 4:2:0
