@@ -211,6 +211,17 @@ Eutelsat 3B 3.0E
 ID : Service-1
 CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
+SATELLITE Name : Eutelsat 7 (7.0°E)
+KU Band
+FREQUENCY: 12515H SR:4938
+DVB-S2 8PSK
+Format 4:2:0
+Event
+ ABA League
+Red Star - Partizan 
+1080p HD FORMAT
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 11107 H 7200
 DVB-S2/8PSK (4:2:0)
