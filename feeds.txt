@@ -51,6 +51,14 @@ Event: Argentina Liga Profesional - Independiente V Talleres
 CW: 21 D8 AB A4 B2 14 C5 8B
 ---FEED-SEPARATOR---
 Eutelsat 7A/B ( 7.0E )
+11089 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA 491 WORLD FEED MAIN
+Event: 
+Italy Superlega - Piacenza vs Modena
+CW: 44 0C 33 83 25 62 9B 22
+---FEED-SEPARATOR---
+Eutelsat 7A/B ( 7.0E )
 11088 V 7200
 DVB-S2 - 4:2:0 - 8PSK
 ID: VOLLEY_WORLD_MAIN
@@ -202,6 +210,14 @@ Eutelsat 3B 3.0E
 4.2.0 HD
 ID : Service-1
 CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+11107 H 7200
+DVB-S2/8PSK (4:2:0)
+ID: Fi01 ACB
+Event:
+ Liga Basketball - Barca vs Real Madrid
+CW: A7 AF DF 35 D1 6B BB F7
 ---FEED-SEPARATOR---
 10.0°E
 11273 H 7200
