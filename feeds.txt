@@ -50,6 +50,23 @@ ID: AFD
 Event: Argentina Liga Profesional - Independiente V Talleres
 CW: 21 D8 AB A4 B2 14 C5 8B
 ---FEED-SEPARATOR---
+13E
+11213 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID 
+GCUK Enc 2
+CW: 08 08 AF BF FE 43 8D CE
+Scottish Premiership
+Dundee United v Celtic
+---FEED-SEPARATOR---
+Premier League - Round 31
+Newcastle - Sunderland
+19e
+11817 V 31424
+id = Astra 1 Service 1
+CW: 11 11 11 33 11 11 11 33
+---FEED-SEPARATOR---
 barney115 said:
 Eutelsat 7B/7C @ 7.0°E
 11062 H 7120 DVB-S2 8PSK
