@@ -58,6 +58,17 @@ Event:
 Italy PlayOff Women - Milano vs Scandicci
 CW: C8 8B 7F D2 6F 08 67 DE
 ---FEED-SEPARATOR---
+28.2E
+12667 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish SWPL 1
+Rangers 
+v 
+Glasgow City
+---FEED-SEPARATOR---
 English League Cup - FINAL (Wembley, London)
 Arsenal vs. Manchester City
 Eutelsat 7B/7C @ 7.0°E
@@ -166,3 +177,11 @@ ID: EFL Highlights
 Event:  
 EFL Highlights 
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+English League Cup - FINAL (Wembley, London)
+Arsenal vs. Manchester City
+Eutelsat 3B 3.0E
+10970 H 7498
+4.2.0 HD
+ID : Service-1
+CW: AD 54 9E 9F 52 89 7B 56
