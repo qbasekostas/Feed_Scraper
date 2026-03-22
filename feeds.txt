@@ -1,7 +1,7 @@
-Colombia Primera A
- Alianza FC Valledupar 
-️ Deportivo Cali
- SES-14 (47.5° W)
- 3848 H 6666 - (C-BAND)
- ALICAL
-CW: A2 12 0C C0 94 51 5C 41
+Eutelsat 7A/B   ( 7.0E )
+11606 Vertical 7498,359
+DVB-S2 - 4:2:0 - 8PSK
+ID:  AFD
+Event:   
+ Argentina Liga Profesional - Apertura, Boca Juniors vs Instituto    
+CW: 21 D8 AB A4 B2 14 C5 8B
