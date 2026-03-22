@@ -210,6 +210,13 @@ CW: C9 96 75 D4 8C 67 A6 99
 Italian Serie A
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 26
+Levadiakos vs Atromitos
+39e
+12537 H 7200
+ID: E394 MAIN
+CW: F6 01 B6 AD 5A DE 86 BE
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 26
 Asteras Tripolis vs Panathinaikos
 39e
 12634 V 7200
