@@ -1,3 +1,12 @@
+Primera Division Colombiana
+Fecha13:
+Atlético Nacional De Medellin
+Inter Bogota
+Hotbird 13E
+12434 H 27944
+FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
 hobo232 said:
 CW: 21 D8 AB A4 B2 14 C5 8B
 Click to expand...
@@ -14,6 +23,23 @@ DVB-S2|1080HD
 4.2.0|H264
 ID: FEED 2
 Event:  Liga DIMAYOR - Once Caldas V Millonarios F.C.
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Ligue colombienne
+Once Caldas
+VS
+Millionarios
+Hotbird 13.0°East
+12436 H 27500
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Colombia Liga BetPlay Dimayor
+Once Caldas 
+ Millonarios
+Hotbird 13°E
+12436 V 27500 - 4.2.0
+ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
 ---FEED-SEPARATOR---
 7°E KU
