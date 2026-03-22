@@ -1,3 +1,11 @@
+Eutelsat 7B/7C (7.0 E)
+12648 H 7500
+DVB-S2/8PSK (4:2:0)
+ID: AFD
+Event: 
+Argentina Liga Profesional - Estudiantes vs River Plate
+CW: 21 D8 AB A4 B2 14 C5 8B
+---FEED-SEPARATOR---
 Primera Division Colombiana
 Fecha13:
 Atlético Nacional De Medellin
