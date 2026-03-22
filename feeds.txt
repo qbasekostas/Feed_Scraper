@@ -61,6 +61,58 @@ CW: C8 8B 7F D2 6F 08 67 DE
 English League Cup - FINAL (Wembley, London)
 Arsenal vs. Manchester City
 Eutelsat 7B/7C @ 7.0°E
+11048 - V - 14240 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Carabao Cup Final - Pitch
+CW: 21 31 CC 1E DD 22 12 11
+---FEED-SEPARATOR---
+English League Cup - FINAL (Wembley, London)
+Arsenal vs. Manchester City
+Eutelsat 3B 3.0E
+10959 H 7498
+4.2.0 HD
+ID : beIN SPORTS
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+English League Cup - FINAL (Wembley, London)
+Arsenal vs. Manchester City
+Eutelsat 7B/7C @ 7.0°E
+12573 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 4
+CW: 21 31 CC 1E DD 22 12 11
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 21 31 CC 1E DD 22 12 11
+Arsenal vs Manchester City
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3985 V 7119 C-Band
+ID: EN 2 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,40Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Carabao Cup 2025/26 (FINAL)
+Teams: Arsenal vs Manchester City 
+(@ Wembley Stadium)
+Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 17.30 CET
+#CW:
+FREE TO AIR (scramble/encryption will be active ASAP & name ID will be change soon)
+---FEED-SEPARATOR---
+English League Cup - FINAL (Wembley, London)
+Arsenal vs. Manchester City
+Eutelsat 7B/7C @ 7.0°E
 12546 - H - 7200 
 |
 4:2:0
