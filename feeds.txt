@@ -108,7 +108,7 @@ Arsenal vs Manchester City
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3985 V 7119 C-Band
-ID: EN 2 
+ID: BT_SES_22_SDI 
 (Provider ID: SES)
 MPEG4 | DVB-S2
 1920x1080i |12,40Mb/Sec |8PSK| 
@@ -118,8 +118,7 @@ Event: England - EFL Carabao Cup 2025/26 (FINAL)
 Teams: Arsenal vs Manchester City 
 (@ Wembley Stadium)
 Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 17.30 CET
-#CW:
-FREE TO AIR (scramble/encryption will be active ASAP & name ID will be change soon)
+CW: 21 31 CC 1E DD 22 12 11
 ---FEED-SEPARATOR---
 English League Cup - FINAL (Wembley, London)
 Arsenal vs. Manchester City
@@ -178,6 +177,23 @@ Event:
 EFL Highlights 
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+safrifulkamal said:
+Asiasat 5 @ 100.5°E
+3985 V 7119 C-Band
+ID: BT SES 22 SDI
+MPEG4 | DVB-S2
+1920x1080i |12,40Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Carabao Cup 2025/26 (FINAL)
+Teams: Arsenal vs Manchester City 
+(@ Wembley Stadium)
+Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 17.30 CET
+#CW:
+FREE TO AIR (scramble/encryption will be active ASAP & name ID will be change soon)
+Click to expand...
+21 31 CC 1E DD 22 12 11
+---FEED-SEPARATOR---
 English League Cup - FINAL (Wembley, London)
 Arsenal vs. Manchester City
 Eutelsat 3B 3.0E
@@ -185,3 +201,25 @@ Eutelsat 3B 3.0E
 4.2.0 HD
 ID : Service-1
 CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+10.0°E
+11273 H 7200
+4:2:2
+ID: Encoder 1
+CW: C9 96 75 D4 8C 67 A6 99
+Italian Serie A
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 26
+Asteras Tripolis vs Panathinaikos
+39e
+12634 V 7200
+ID: E394 BACK
+CW: B7 3D A5 99 9F C2 2E 8F
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10829 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TANDBERG
+Event:
+ Greek Super League - AEK vs Kifisias
+CW: FB 39 C9 FD 65 37 5A F6
