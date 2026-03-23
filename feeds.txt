@@ -13,3 +13,11 @@ ID: Carabao Cup Highlights
 Event: 
  English EFL Cup - Highlights    
 CW: 33 12 AA EF DD 23 42 42
+---FEED-SEPARATOR---
+Carabao Cup Highlights
+Asiasat 5 (100.5°E) C BAND
+3966 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: ENC 1 (SES)
+CW: 33 12 AA EF DD 23 42 42
