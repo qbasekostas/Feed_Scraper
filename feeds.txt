@@ -5,3 +5,11 @@ ID:  AFD
 Event:   
  Argentina Liga Profesional - Apertura, Boca Juniors vs Instituto    
 CW: 21 D8 AB A4 B2 14 C5 8B
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10960 Vertical 7118,308
+DVB-S2 - 4:2:0 - 8PSK
+ID: Carabao Cup Highlights
+Event: 
+ English EFL Cup - Highlights    
+CW: 33 12 AA EF DD 23 42 42
