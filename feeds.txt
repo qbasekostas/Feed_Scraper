@@ -38,6 +38,14 @@ Event:
 Serbia First League, Dynamic vs Mladost Zemun
 FTA / CLEAR
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12509 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: Medialink CRO-024/1
+Event:  
+    ABA League, Zadar vs Studentski Centar 
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event:  
 Turkish Super Lig, Petkim Spor vs Bursaspor     
