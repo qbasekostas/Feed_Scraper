@@ -21,3 +21,33 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: ENC 1 (SES)
 CW: 33 12 AA EF DD 23 42 42
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12515 H 4936
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-016 MAIN
+Event:  
+Serbia First League, Dynamic vs Mladost Zemun
+FTA / CLEAR
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+Turkish Super Lig, Petkim Spor vs Bursaspor     
+CW: 85 53 D2 AA 10 1E D3 01
+Click to expand...
+Hot Bird ( 13.0E )
+12582 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E333 M
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11588 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E333 M
+Event:  
+Turkish Super Lig, Petkim Spor vs Bursaspor     
+CW: 85 53 D2 AA 10 1E D3 01
