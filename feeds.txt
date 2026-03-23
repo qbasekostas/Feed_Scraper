@@ -22,6 +22,14 @@ DVB-S2 - 1080P - 8PSK
 ID: ENC 1 (SES)
 CW: 33 12 AA EF DD 23 42 42
 ---FEED-SEPARATOR---
+Hellas Sat 3/4 ( 39.0E )
+12538 H 7198
+DVB-S2 - 4:2:0 - QPSK-S2
+ID: PATH HD4
+Event:   
+  Elite League, Psychikou vs Koroivos   
+FTA / CLEAR
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12515 H 4936
 DVB-S2 - 4:2:0 - 8PSK
