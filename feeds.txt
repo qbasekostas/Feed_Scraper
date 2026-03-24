@@ -1,0 +1,8 @@
+Eutelsat 7A/B   ( 7.0E )
+11070 Horizontal 7198,431
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG A EU
+Event:   
+  Euroleague   
+(match name still unknown)
+CW: 53 8F 97 79 7A 1B DA 6F
