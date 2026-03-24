@@ -1,3 +1,19 @@
+Eutelsat 7A/B   ( 7.0E )
+11190 Horizontal 7199,749
+DVB-S2 - 4:2:0 - 8PSK
+ID:  E411- Via 1
+Event:  
+  Champions League - Play Offs, Guaguas vs Perugia   
+CW: 6D BD 44 6E CF E2 48 F9
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12593 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL-080 Beckup
+Event:  
+Champions League - Play Offs, Projekt Warszawa vs Lublin 
+CW: 20 26 AB F1 CD 24 03 F4
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11460 V 6798
 DVB-S2 - 
@@ -7,6 +23,14 @@ ID: TKS.TRT.M22-A
 Event:    
      Turkish Cup Women - Play Offs, Vakifbank vs Galatasaray 
 CW: 66 83 00 E9 00 66 83 E9
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11107 Vertical 7199,755
+DVB-S2 - 4:2:0 - 8PSK
+ID: M-Three 622 FEED 1
+Event:  
+LALIGA FC FUTURES U12 CLUB WORLD CUP
+CW: 14 40 9F F3 DD C8 AA 4F
 ---FEED-SEPARATOR---
 42e
 11468 V 6800
@@ -70,8 +94,9 @@ Champions League Women - Play Offs
 Eutelsat 7A/B   ( 7.0E )
 11070 Horizontal 7198,431
 DVB-S2 - 4:2:0 - 8PSK
-ID: IMG A EU
+ID: IMG A EU  -> 
+NEW ID: 
+BUL-006 DUB-PAN Main
 Event:   
-  Euroleague   
-(match name still unknown)
+  Euroleague, Dubai vs Panathinaikos   
 CW: 53 8F 97 79 7A 1B DA 6F
