@@ -92,6 +92,14 @@ Champions League Women - Play Offs
 7A 56 29 F9 C2 31 3A 2D
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+12515 H 4936
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-016 MAIN
+Event: 
+ABA League, Spartak Subotica vs KK Krka Novo mesto
+FTA / CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 11070 Horizontal 7198,431
 DVB-S2 - 4:2:0 - 8PSK
 ID: IMG A EU  -> 
