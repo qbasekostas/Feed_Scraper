@@ -108,11 +108,3 @@ BUL-006 DUB-PAN Main
 Event:   
   Euroleague, Dubai vs Panathinaikos   
 CW: 53 8F 97 79 7A 1B DA 6F
----FEED-SEPARATOR---
-Eutelsat 7B/7C (7.0 E)
-11098 H 7200
-DVB-S2/8PSK (4:2:0)
-ID: F489 MAIN
-Event: 
-EuroLeague - Monaco vs Olimpia Milano
-CW: 4F 69 6B 23 9E 5B 62 5B
