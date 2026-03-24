@@ -1,3 +1,13 @@
+7e
+10961 H 9873
+4:2:2
+ID: 
+CRO-23 UWCL M1 M
+Champions League Women - Play Offs
+ Wolfsburg W  vs  Lyon W
+0F 92 5A 2C EB 4C 0A 1E  #CW: 
+7A 56 29 F9 C2 31 3A 2D
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11070 Horizontal 7198,431
 DVB-S2 - 4:2:0 - 8PSK
