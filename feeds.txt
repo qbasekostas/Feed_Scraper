@@ -37,6 +37,38 @@ Event:
  Friendly,   Kazakhstan v Namibia  
 CW: 25 F8 B6 D3 AC 8F 03 3E
 ---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event :
+Champions League Women - Play Offs - Quarter-finals
+Teams : Wolfsburg W 
+ Lyon W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12695 V 7200
+  ENC 3 (SES)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 9C 70 95 A1 3A B4 A6 94
+Click to expand...
+Event :Champions League Women - Play Offs - Quarter-finals
+Teams : Manchester Utd W 
+ Bayern Munich W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12695 V 7200
+    ENC 3 (SES)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+ NEW #CW: D3 B4 BC 43 1F 08 76 9D
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10974 H 9872
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: (empty)
+Event: 
+Champions League Women - Play Offs, Manchester Utd vs Bayern Munich
+CW: 3C F4 DE 0E 5D 6A 9B 62
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 10962 H 9872
 DVB-S2 - 
