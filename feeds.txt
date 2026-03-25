@@ -1,0 +1,7 @@
+Eutelsat 7B/7C (7.0 E)
+12643 V 7200
+DVB-S2/8PSK (4:2:0)
+ID: Fi17GNVE
+Event: 
+World Cup Qualification - Bolivia vs Suriname
+CW: 50 FF 2C 7B BD 77 87 BB
