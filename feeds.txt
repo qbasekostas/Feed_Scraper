@@ -38,6 +38,32 @@ Event:
 CW: 25 F8 B6 D3 AC 8F 03 3E
 ---FEED-SEPARATOR---
 Abo Saeid Satellite said:
+Event :Champions League Women - Play Offs - Quarter-finals
+Teams : Manchester Utd W 
+ Bayern Munich W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12695 V 7200
+    ENC 3 (SES)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+ NEW #CW: D3 B4 BC 43 1F 08 76 9D
+Click to expand...
+Event :Champions League Women - Play Offs - Quarter-finals
+Teams : Real Madrid W 
+ Barcelona W
+---FEED-SEPARATOR---
+Event :Champions League Women - Play Offs - Quarter-finals
+Teams : Manchester Utd W 
+ Bayern Munich W
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12704 V 7200
+  EN 2 (SES)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+EE 7E 82 D2 81 73 AD A4  
+CW: E5 49 C1 EF 64 1E 0F 91
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
 Event :
 Champions League Women - Play Offs - Quarter-finals
 Teams : Wolfsburg W 
