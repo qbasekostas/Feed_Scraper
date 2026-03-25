@@ -36,3 +36,13 @@ ID: KAZ008M
 Event:   
  Friendly,   Kazakhstan v Namibia  
 CW: 25 F8 B6 D3 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10962 H 9872
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E-413 MAIN
+Event:   
+Champions League Women - Play Offs, Real Madrid vs Barcelona
+CW: 3C F4 DE 0E 5D 6A 9A 61
