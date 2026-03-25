@@ -1,3 +1,35 @@
+Turksat 3A/4A   ( 42.0E )
+11460 V 6798
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  TKS.TRT.M22-A
+Event:  
+ Turkish Cup Women - Play Offs, Eczacibasi vs Vakifbank 
+CW: 66 83 00 E9 00 66 83 E9
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+12592 V 7200
+  Polsat Sport (POLSAT)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+Men's volleyball: Champions League 
+- quarterfinal match: Asseco Resovia Rzeszów - Ziraat Bank Ankara
+CW: 20 26 AB F1 CD 1E CA B5
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12727 V 7200
+    SNG MEDYA / MAIN (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+Event :
+World Cup Qualification
+  - Semi-finals
+Teams : Turkey 
+ Romania 26.03.2026 19:00
+71 37 21 EB 7F 83 D5 41  
+CW: CD 3E E2 ED 5D 20 26 A3
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11098 V 7199
 DVB-S2 - 4:2:0 - 8PSK
@@ -5,6 +37,14 @@ ID: LEUK_Fi01
 Event:  
 LALIGA FC FUTURES U12 CLUB WORLD CUP
 CW: A4 82 18 3E AF C5 0B 7F
+---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+12527 V 6658
+DVB-S2 - 4:2:0 - 8PSK
+ID: backup
+Event:      
+Euro U19 - Qualification, Kazakhstan U19 vs Romania U19
+CW: 25 03 20 48 26 AB CD 9E
 ---FEED-SEPARATOR---
 7.0°E
 11070 H 7200 DVB-S2 8PSK
@@ -76,8 +116,8 @@ MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: 9C 70 95 A1 3A B4 A6 94
 Click to expand...
 Event :Champions League Women - Play Offs - Quarter-finals
-Teams : Manchester Utd W 
- Bayern Munich W
+Teams : Real Madrid W 
+ Barcelona W
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 12695 V 7200
@@ -104,3 +144,11 @@ ID: E-413 MAIN
 Event:   
 Champions League Women - Play Offs, Real Madrid vs Barcelona
 CW: 3C F4 DE 0E 5D 6A 9A 61
+---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+12541 V 6658
+DVB-S2 - 4:2:0 - 8PSK
+ID: B 191 DGI
+Event:  
+     Romania Divizia A, SCM Timisoara vs CSM Oradea
+FTA / CLEAR
