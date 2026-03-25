@@ -1,3 +1,11 @@
+Eutelsat 7A/B   ( 7.0E )
+11190 H 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: Studioline Main
+Event:  
+Champions League - Play Offs, Lube Civitanova vs Zawiercie
+CW: 87 F4 5D D8 7B AC E7 0E
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11460 V 6798
 DVB-S2 - 
@@ -77,6 +85,18 @@ Event:
  Friendly,   Kazakhstan v Namibia  
 CW: 25 F8 B6 D3 AC 8F 03 3E
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12521 H 4937
+  YSM-012 MAIN (DSNG)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+Event: 
+ Serbia vs 
+Cyprus 
+European Under-17 Championship 2026 Round 2 match
+3C 72 98 CD 97 7F 18 3C
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event :Champions League Women - Play Offs - Quarter-finals
 Teams : Manchester Utd W 
@@ -152,3 +172,20 @@ ID: B 191 DGI
 Event:  
      Romania Divizia A, SCM Timisoara vs CSM Oradea
 FTA / CLEAR
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+12437 H 27500
+DVB-S2 - 4:2:0 - 8PSK
+ID: FEED 2
+Event: 
+Basketball EuroLeague - Baskonia vs Stella Rossa
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+7.0°E
+11070 H 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: IMG A EU
+Event: 
+Euroleague Basketball- 
+Kosner Baskonia vs KK Crvena zvezda
+CW: 72 15 84 0B C1 8E A2 F1
