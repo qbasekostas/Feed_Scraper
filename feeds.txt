@@ -85,6 +85,16 @@ Event:
  Friendly,   Kazakhstan v Namibia  
 CW: 25 F8 B6 D3 AC 8F 03 3E
 ---FEED-SEPARATOR---
+28.2E
+12703 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: E459 Via 1
+UEFA Womens Champions League - Quarter Final (1st Leg)
+Real Madrid
+ v 
+Barcelona
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 12521 H 4937
@@ -172,6 +182,14 @@ ID: B 191 DGI
 Event:  
      Romania Divizia A, SCM Timisoara vs CSM Oradea
 FTA / CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12515 H 4936
+DVB-S2 - 4:2:0 - 8PSK
+ID: ROU-051 MAIN
+Event: 
+ABA League - Winners stage, Cluj-Napoca vs Cedevita Olimpija
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 12437 H 27500
