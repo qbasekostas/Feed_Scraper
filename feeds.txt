@@ -1,3 +1,21 @@
+Eutelsat 7A/B   ( 7.0E )
+11098 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: LEUK_Fi01
+Event:  
+LALIGA FC FUTURES U12 CLUB WORLD CUP
+CW: A4 82 18 3E AF C5 0B 7F
+---FEED-SEPARATOR---
+7.0°E
+11070 H 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: IMGA EU 
+Event: 
+Kazakhstan vs Namibia 
+European Qualifiers 2026
+k/off 10am UK Time
+CW: 53 8F 97 79 7A 1B DA 6F
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event:   
  Friendly,   Kazakhstan v Namibia
