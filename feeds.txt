@@ -1,4 +1,32 @@
 Eutelsat 7A/B   ( 7.0E )
+12510 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA556 HD16
+Event:  
+CEV Cup, Piacenza vs ACH Ljubljana
+CW: 5B 76 84 55 75 4B EE AE
+---FEED-SEPARATOR---
+LVF - SERIE A- Woman
+-2025/26
+SAVINO DEL SCANDICCI VS 
+NUMIA VERO VOLLEY MILANO
+7.0E
+11089 V 7200
+4.2.0 HD
+ID: VOLLEY- WORLD_ MAIN
+CW: 27 A5 7C 48 89 7C 85 8A
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11483 H 7200
+ 2Sat HOL89 Main (2Sat Europe)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+Event:
+ CEV Volleyball CUP -  Maaseik VS Luneburg
+03 0F 62 EF 76 E6 A1 BE 
+CW: 89 EA FE 71 ED 25 03 15
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 11190 H 7199
 DVB-S2 - 4:2:0 - 8PSK
 ID: Studioline Main
@@ -24,6 +52,14 @@ MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
 Men's volleyball: Champions League 
 - quarterfinal match: Asseco Resovia Rzeszów - Ziraat Bank Ankara
 CW: 20 26 AB F1 CD 1E CA B5
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+12639 H 7200
+DVB-S2/8PSK (4:2:0)
+ID: D-331 TX1
+Event: 
+Legend Game - Borussia Dortmund vs Benfica
+CW: F1 E2 D3 A6 C4 B5 A6 1F
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
