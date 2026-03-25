@@ -1,0 +1,20 @@
+Ratzvan said:
+			Event:   
+ Friendly,   Kazakhstan v Namibia
+Click to expand...
+AsiaSat 5 @ 100.5E
+4080 V 70000
+NS4 DRM
+1920*1080 | 4:2:0 | H264
+ID = 1GVs1 EQFM M1
+FTA / No sub-channel encryption
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10965 V 14399
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: KAZ008M 
+Event:   
+ Friendly,   Kazakhstan v Namibia  
+CW: 25 F8 B6 D3 AC 8F 03 3E
