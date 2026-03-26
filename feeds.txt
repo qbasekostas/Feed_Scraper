@@ -99,46 +99,51 @@ Click to expand...
 New #CW:
 7A 26 4E EE 08 6F 77 EE
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-10982 H 14396
-DVB-S2 - 
-4:2:2 
-- 8PSK
-ID:   E289
-Event:  
-UEFA Nations League - League C/D - Relegation, Gibraltar vs Latvia  
-CW: 26 F8 B6 D4 AC 8F 03 3E
+World Cup Qualifier
+ . (2026 FIFA Play-off)
+Italy VS Northern Ireland
+3.1°E
+10960 H 7500
+4.2.0 HD
+ ID: bein SportS
+10970 H 7500 Later 
+ID: Service-1     
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
-Eutelsat 7B-7C @ 07.0E
-11082 V 14400 |
-4:2:2
- | 8PSK
-ID: 
-EQFM MD11 Cyprus-Belarus_MAIN
-Event: 
-Cyprus v Belarus (International Friendly) 
-26 March 2026, 17:00 GMT
-CW: 26 F8 B6 D4 AC 8F 03 3E
+World Cup Qualifier
+ . (2026 FIFA Play-off)
+TURKEY VS ROUMANIA
+46.0E
+11004 H 7200
+(HD PROTEC)
+4.2.2 HD
+ID: TUR 139-MAIN
+CW: 26 AA DE AE 03 CD 26 F6
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-11000 H 14396
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID:  ITA 689 M02 BK
-Event:  
-UEFA Nations League - League C/D - Relegation, Malta vs Luxembourg
-CW: 26 F8 B6 D4 AC 8F 03 3E
----FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-11048 V 14396
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: ROU015 - 1 - M11
 Event:
-  Friendly International, Moldova vs Lithuania
+Europe Euro U21 - Qualification
+Teams : Ireland U21 
+ Moldova U21
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11189 H 9875
+   CRO-023 Main (MEDIA LINK)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.680
+ Mbit/Sec|8PSK DVB-S2 HD
 CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10985 V 9600
+ID: POL-90a
+Event: 
+World Cup qualifying - semi-final play-off match: Poland - Albania
+4.2.2
+- DVB-S2 - 8PSK
+🗝: 
+AB BA 26 8B DC AE 03 8D
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11150 V 7199
@@ -301,6 +306,39 @@ Georgia  (International Friendly)
  26 March 2026, 18:30 GMT
 CW: 26 F8 B6 D4 AC 8F 03 3E
 ---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event:
+Europe Euro U21 - Qualification
+Teams : Ireland U21 
+ Moldova U21
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11189 H 9875
+   CRO-023 Main (MEDIA LINK)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.680
+ Mbit/Sec|8PSK DVB-S2 HD
+CW: 26 F8 B6 D4 AC 8F 03 3E
+Click to expand...
+Event:EuropeWorld Cup - Qualification - Promotion - Semi-finals
+Teams : Czech Republic 
+ Ireland
+---FEED-SEPARATOR---
+Eutelsat 28A-2A-2E-2F 28.2E
+12702 V 7200
+ID: LN23 (8MM Producciones)
+Women Spanish Cup. Final Eight from Tarragona
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11062 H 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID:  ita390 Bk
+Event:  
+Euroleague, Olimpia Milano vs Virtus Bologna  
+CW: 93 9B 1B 49 FA 68 EF 51
+---FEED-SEPARATOR---
 Eutelsat 10A   ( 10.0E )
 11176 V 7198
 DVB-S2 - 4:2:0 - 8PSK
@@ -313,3 +351,12 @@ AFRICA: BAL
 18:00
  Dar City (Tan) vs Joburg Giants (Rsa)
 CW: 9E 2A 7C 44 3B 6D 41 E9
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11070 Horizontal 7198,431
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG A EU
+Event: 
+BASKET: 
+Euroleague, Maccabi Tel Aviv vs Dubai   
+CW: BA 7C 4F 85 53 93 FF E5
