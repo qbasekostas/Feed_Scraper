@@ -37,6 +37,17 @@ Event:
 World Cup Qualification - Bolivia vs Suriname
 CW: 50 FF 2C 7B BD 77 87 BB
 ---FEED-SEPARATOR---
+Ratzvan said:
+CW: 01 EA C7 B2 61 04 6D D2
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+12646 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID:GVA_Fi04
+Event: 
+ FIFA Series - Group Stage, Rwanda vs Grenada
+#tomorrow
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11018 H 14400 |
 4:2:2
@@ -47,14 +58,6 @@ Event:
 Turkey v Romania (2026 FIFA World Cup Qualifier Play-off)
  26 March 2026, 19:00 GMT
 CW: 26 F8 B6 D4 AC 8F 03 3E
----FEED-SEPARATOR---
-Eutelsat 7A/B ( 7.0E )
-11106 V 7199
-DVB-S2 - 4:2:0 - 8PSK
-ID: M-Three 622 FEED1
-Event: 
-LALIGA FC FUTURES U12 CLUB WORLD CUP
-CW: 14 40 9F F3 DD C8 AA 4F
 ---FEED-SEPARATOR---
 Ratzvan said:
 			Eutelsat 7A/B   ( 7.0E )
@@ -109,10 +112,21 @@ Event:
   Friendly International, Moldova vs Lithuania
 CW: 26 F8 B6 D4 AC 8F 03 3E
 ---FEED-SEPARATOR---
+Hotbird @ 13.0E
+12437 H 27500 | 4:2:0 | 8PSK
+Georgia-Israel
+ID: 
+FEED 2
+Event: 
+Georgia (International Friendly)
+ 26 March 2026, 18:30 GMT
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11065 V 14400 |
 4:2:2
  | 8PSK
+Georgia-Israel.
 ID: 
 E 363 M
 Event: 
