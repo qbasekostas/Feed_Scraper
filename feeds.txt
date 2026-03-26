@@ -113,6 +113,38 @@ Event:
 CW: 26 F8 B6 D4 AC 8F 03 3E
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
+11104 H 9875 |
+4:2:2
+ | 8PSK
+ID: 
+DNK83_enc2
+Event: 
+Denmark v North Macedonia (2026 FIFA World Cup Qualifier Play-off)
+ 26 March 2026, 19:45 GMT
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10999 V 14400 |
+4:2:2
+ | 8PSK
+ID: 
+NTF M08 Main
+Event: 
+Slovakia v Kosovo (2026 FIFA World Cup Qualifier Play-off)
+ 26 March 2026, 19:45 GMT
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+World Cup Qualifier
+ . (2026 FIFA Play-off)
+TURKEY VS ROUMANIA 
+16.0E
+11175 H 9875
+4.2.0
+ HD
+ID: TUR 164 BACK UP
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
 10982 V 14400 |
 4:2:2
  | 8PSK
