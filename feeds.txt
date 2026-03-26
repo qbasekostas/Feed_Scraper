@@ -37,6 +37,16 @@ Event:
 World Cup Qualification - Bolivia vs Suriname
 CW: 50 FF 2C 7B BD 77 87 BB
 ---FEED-SEPARATOR---
+Event :Europe World Cup - Qualification - Promotion - Semi-finals
+Teams : Turkey 
+ Romania 
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12540 V 9600
+  SNG MEDYA / MAIN (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |23.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: CD 3E E2 ED 5D 20 26 A3
+---FEED-SEPARATOR---
 Ratzvan said:
 CW: 01 EA C7 B2 61 04 6D D2
 Click to expand...
