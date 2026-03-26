@@ -37,6 +37,25 @@ Event:
 World Cup Qualification - Bolivia vs Suriname
 CW: 50 FF 2C 7B BD 77 87 BB
 ---FEED-SEPARATOR---
+Verdeoro said:
+Eutelsat 7B/7C (7.0 E)
+12643 V 7200
+DVB-S2/8PSK (4:2:0)
+ID: Fi17GNVE
+Event: 
+World Cup Qualification - Bolivia vs Suriname
+CW: 50 FF 2C 7B BD 77 87 BB
+Click to expand...
+New CW: 
+DD 9E 2C A7 09 1F 0E 36
+---FEED-SEPARATOR---
+Intelsat 34 55w
+4099 H 7500
+CW: E7 88 25 94 69 BA 25 48
+ID.DCI Futbol
+4.2.0
+Brasil x França
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 12610 V 7200
 DVB-S2/8PSK (4:2:0)
