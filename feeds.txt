@@ -37,6 +37,25 @@ Event:
 World Cup Qualification - Bolivia vs Suriname
 CW: 50 FF 2C 7B BD 77 87 BB
 ---FEED-SEPARATOR---
+HotBird (13°E)
+12610 V 7200
+DVB-S2/8PSK (4:2:0)
+ID: GCUK Enc 1
+Event: 
+World Cup Qualification - Brasil vs France
+CW: FD DC 20 F9 26 DC FD FF
+---FEED-SEPARATOR---
+WC Qualifiers
+97 West 4170 V 15000
+Czechia vs Ireland
+ID: Enc Titan 1 Czechia v Republic of Ireland 
+CW: 34 56 78 02 1A BC D3 A9
+4:2 0
+Italy vs Northern Ireland
+ID: Enc Titan 2 Italy v N. Ireland 
+CW: 26 78 AB 49 C5 62 1A 41
+4:2:0
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
  ( KU-BAND )
 11106 V 7200
@@ -305,6 +324,24 @@ Event:
 Georgia  (International Friendly)
  26 March 2026, 18:30 GMT
 CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+FRIENDLY INTERNATIONAL
+BRAZIL VS FRANCE
+13.0E
+12592 V 7200
+4.2.0 HD
+ID: GCUK ENC 2
+CW: 23 01 71 95 96 52 0A F2
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11165 Vertical 7499,73
+DVB-S2 - 4:2:0 - 8PSK
+ID: ENC1 S9 MPEG4 HD
+Event:  
+World Cup - Qualification - Promotion, Poland vs Albania
+CW: C4 06 F5 BF 4B FA 93 D8
+NEW
+CW: 3D FC 29 62 C0 30 6B 5B
 ---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event:
