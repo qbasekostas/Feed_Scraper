@@ -112,9 +112,68 @@ Event:
   Friendly International, Moldova vs Lithuania
 CW: 26 F8 B6 D4 AC 8F 03 3E
 ---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10982 V 14400 |
+4:2:2
+ | 8PSK
+ID: 
+POL-142 M07 Backup
+Event: 
+Poland v Albania (2026 FIFA World Cup Qualifier Play-off) 26 March
+ 2026, 19:45 GMT
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11018 V 14400 |
+4:2:2
+ | 8PSK
+ID: 
+CZE-012 M15 MAIN
+Event: 
+Czechia v Republic of Ireland (2026 FIFA World Cup Qualifier Play-off)
+ 26 March 2026, 19:45 GMT
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11080 H 9875 |
+4:2:2
+ | 8PSK
+ID: 
+ITA548 NTF M4 Feed B Bckp
+Event: 
+Italy v Northern Ireland (2026 FIFA World Cup Qualifier Play-off) 
+26 March 2026, 19:45 GMT
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+World Cup Qualifier
+ . (2026 FIFA Play-off)
+Wales v Bosnia and Herzegovina
+16.0E
+11105 H 9875 
+4.2.2 HD
+ID: UKI1457 WAL V BOS
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+10964 V 14400 |
+4:2:2
+ | 8PSK
+ID: 
+MD11 WALES MAIN UKI1965
+Event: 
+Wales v Bosnia and Herzegovina (2026 FIFA World Cup Qualifier Play-off)
+ 26 March 2026, 19:45 GMT
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11092 H 9875 | 4:2:2 | 8PSK
+ID: 
+E379 BK2
+Event: UEFA Nations League (Still unknown)
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
 Hotbird @ 13.0E
 12437 H 27500 | 4:2:0 | 8PSK
-Georgia-Israel
 ID: 
 FEED 2
 Event: 
@@ -126,7 +185,6 @@ Eutelsat 7B-7C @ 07.0E
 11065 V 14400 |
 4:2:2
  | 8PSK
-Georgia-Israel.
 ID: 
 E 363 M
 Event: 
