@@ -1,12 +1,21 @@
-100.5e
-3867 H 7200
-4:2:0
-ID: 
-ENC-1 main
-FIFA Series - Group Stage
-China
-Curacao
-CW: 20 26 BA 00 BA 03 27 E4
+Ratzvan said:
+CW: 01 EA C7 B2 61 04 6D D2
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+10996 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: TAS-001-MA
+Provider Name: WTS
+Event:  
+FIFA Series - Group Stage, Uzbekistan vs Gabon 
+#TOMORROW
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3956 H 7200
+ID : FIFA SERIES 2026 
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 01 EA C7 B2 61 04 6D D2
+FIFA Series Indonesia
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 4008 H 7200
@@ -27,6 +36,18 @@ ID: Fi17GNVE
 Event: 
 World Cup Qualification - Bolivia vs Suriname
 CW: 50 FF 2C 7B BD 77 87 BB
+---FEED-SEPARATOR---
+Ratzvan said:
+			Eutelsat 7A/B   ( 7.0E )
+11098 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: LEUK_Fi01
+Event: 
+LALIGA FC FUTURES U12 CLUB WORLD CUP
+CW: A4 82 18 3E AF C5 0B 7F
+Click to expand...
+New #CW:
+7A 26 4E EE 08 6F 77 EE
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11048 V 14396
