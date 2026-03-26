@@ -140,6 +140,15 @@ Event:
   Friendly International, Moldova vs Lithuania
 CW: 26 F8 B6 D4 AC 8F 03 3E
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11150 V 7199
+DVB-S2 - 4:2:0 - 8PSK 
+ (hevc)
+ID: ITA 99 A
+Event:  
+Euro U21 - Qualification, Italy U21 vs North Macedonia U21  
+CW: 37 50 47 CE 07 B1 69 21
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 11188 H 9872
 DVB-S2 - 
