@@ -37,6 +37,24 @@ Event:
 World Cup Qualification - Bolivia vs Suriname
 CW: 50 FF 2C 7B BD 77 87 BB
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11106 V 7200
+  M-Three 622 FEED1 (Service Provider)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+Event: 
+LALIGA FC FUTURES U12 CLUB WORLD CUP
+CW: 14 40 9F F3 DD C8 AA 4F
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11097 V 7200
+   LEUK_Fi01 (EUROVISION SA)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+Event: 
+LALIGA FC FUTURES U12 CLUB WORLD CUP
+CW: 7A 26 4E EE 08 6F 77 EE
+---FEED-SEPARATOR---
 Event :Europe World Cup - Qualification - Promotion - Semi-finals
 Teams : Turkey 
  Romania 
@@ -121,6 +139,46 @@ ID: ROU015 - 1 - M11
 Event:
   Friendly International, Moldova vs Lithuania
 CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11188 H 9872
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:   CZE-041 EQPO M10 MAIN
+Event:  
+World Cup - Qualification - Promotion, Czech Republic vs Ireland
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11093 H 9872
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  POL-143 M07 Main
+Event:  
+ World Cup - Qualification - Promotion, Poland vs Albania
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11062 Horizontal 9872,657
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: SLQ-006
+Event:    
+World Cup - Qualification - Promotion, Slovakia vs Kosovo 
+CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10962 Horizontal 9874,685
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: SNG E-385 MAIN VBR
+Event:   
+World Cup - Qualification - Promotion, Ukraine vs Sweden
+CW: D9 85 DA 38 64 DA EF 2D
 ---FEED-SEPARATOR---
 Eutelsat 7B-7C @ 07.0E
 11104 H 9875 |
@@ -233,3 +291,16 @@ Event:
 Georgia  (International Friendly)
  26 March 2026, 18:30 GMT
 CW: 26 F8 B6 D4 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+11176 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: NBA-BAL AFRICA FEED
+Event:  
+AFRICA: BAL 
+ (TOMORROW)
+15:00
+ RSSB Tigers (Rwa) vs Al Ahly (Lby)
+18:00
+ Dar City (Tan) vs Joburg Giants (Rsa)
+CW: 9E 2A 7C 44 3B 6D 41 E9
