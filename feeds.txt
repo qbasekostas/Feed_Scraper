@@ -37,13 +37,21 @@ Event:
 World Cup Qualification - Bolivia vs Suriname
 CW: 50 FF 2C 7B BD 77 87 BB
 ---FEED-SEPARATOR---
-HotBird (13°E)
+Hot Bird 13B/13C/13E @ 13.0E
 12610 V 7200
 DVB-S2/8PSK (4:2:0)
 ID: GCUK Enc 1
 Event: 
-World Cup Qualification - Brasil vs France
+Friendly Match - Brasil vs France
 CW: FD DC 20 F9 26 DC FD FF
+---FEED-SEPARATOR---
+FRIENDLY INTERNATIONAL
+BRAZIL VS FRANCE
+13.0E
+12592 V 7200
+4.2.0 HD
+ID: GCUK ENC 2
+CW: 23 01 71 95 96 52 0A F2
 ---FEED-SEPARATOR---
 WC Qualifiers
 97 West 4170 V 15000
@@ -325,13 +333,24 @@ Georgia  (International Friendly)
  26 March 2026, 18:30 GMT
 CW: 26 F8 B6 D4 AC 8F 03 3E
 ---FEED-SEPARATOR---
-FRIENDLY INTERNATIONAL
-BRAZIL VS FRANCE
-13.0E
-12592 V 7200
-4.2.0 HD
-ID: GCUK ENC 2
-CW: 23 01 71 95 96 52 0A F2
+46.0E
+11012 H 7200
+4.2.2 HD
+ID: TUR 139-MAIN
+Event: 
+World Cup - Qualification - Promotion, Ukraina vs Sweden
+CW: 26 AA DE AE 03 CD 26 F6
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11132 Vertical 7199,759
+DVB-S2 - 4:2:0 - 8PSK 
+(hevc)
+ID: ITA 498 A
+Event: 
+World Cup - Qualification - Promotion, Italy vs Northern Ireland
+CW: 39 71 07 B1 B1 61 E5 F7
+NEW
+CW: 39 E5 71 8F 07 B1 61 19
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11165 Vertical 7499,73
