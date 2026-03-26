@@ -1,3 +1,25 @@
+100.5e
+3867 H 7200
+4:2:0
+ID: 
+ENC-1 main
+FIFA Series - Group Stage
+China
+Curacao
+CW: 20 26 BA 00 BA 03 27 E4
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4008 H 7200
+ID : TBS ADHOC ANC 2
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 01 EA C7 B2 61 04 6D D2
+AsiaSat 5 - 100.5 E - CBand
+TP : 3867 H 7200
+ID : ENC-1 main
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 20 26 BA 00 BA 03 27 E4
+FIFA Series Australia
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0 E)
 12643 V 7200
 DVB-S2/8PSK (4:2:0)
@@ -5,3 +27,13 @@ ID: Fi17GNVE
 Event: 
 World Cup Qualification - Bolivia vs Suriname
 CW: 50 FF 2C 7B BD 77 87 BB
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11048 V 14396
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: ROU015 - 1 - M11
+Event:
+  Friendly International, Moldova vs Lithuania
+CW: 26 F8 B6 D4 AC 8F 03 3E
