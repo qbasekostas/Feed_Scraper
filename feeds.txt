@@ -1,3 +1,11 @@
+Astra 2E/2F/2G  ( 28.2E )
+12632 V 7118
+DVB-S2 - 4:2:0 - 8PSK
+ID: Cloudbass
+Event:  
+Scottish League One, Inverness vs Queen of South 
+FTA / CLEAR
+---FEED-SEPARATOR---
 Friendly. Match 
 Saudi Arabia vs Egypt
 21.6E
@@ -124,16 +132,11 @@ Event: Friendly Match
 CW: 235ACB48672AA132
 COLOMBIA VS CROACIA
 ---FEED-SEPARATOR---
-Albahraniy said:
-			Eutelsat 7B/7C @ 7.0E
-11052 v 7200
-DVB-S2 - 1080P - 8PSK
-4.2.0
+Morocco v Ecuador | Friendly Match
+Eutelsat 7E 
+11053 V 7200
 ID: GVA_Fi05
 CW: 7A 45 61 20 F3 23 17 2D
-Click to expand...
-NEW ID: Fi18_GNVE (EBUER)
-Friendly : Morocco-Ecuador
 ---FEED-SEPARATOR---
 Ratzvan said:
 			Eutelsat 7A/B   ( 7.0E )
