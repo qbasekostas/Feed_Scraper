@@ -1,3 +1,27 @@
+Red Devils said:
+Friendly Match
+Chile - Cape Verde
+Eutelsat 7A/7B/7C @ 7.0E
+12646  Vertical  7200.109
+ID: LEUK_Fi05 (EUROVISION SA)
+1920x1080 |16.049Mb/Sec 8PSK |4:2:0 HD
+CW: 7A 45 61 20 F3 23 17 2D
+Click to expand...
+Now: New Zealand vs Finland
+---FEED-SEPARATOR---
+nangchang0330 said:
+			AsiaSat 5 100.5E
+3947 H 7199
+8PSK 3/4 DVB-S2
+4.2.0
+Chile vs Cape Verde Islands
+PMT PID: 2048, SID: 1 @ TBS ADHOC ENC 13 (Telstra Broadcast Services)
+CW: 
+7A456120F323172D
+Clean FEED
+Click to expand...
+Next Game: New Zealand vs Finland
+---FEED-SEPARATOR---
 HBO said:
 			AsiaSat 5 - 100.5 E - CBand
 TP : 4008 H 7200
@@ -70,3 +94,13 @@ DVB-S2 4.2.2 1080I
 Event: Friendly Match 
 CW: 235ACB48672AA132
 COLOMBIA VS CROACIA
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10996 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: TAS-002-MA
+Event:  
+FIFA Series - Group Stage, Venezuela vs Trinidad & Tobago
+NEXT
+ FIFA Series - Group Stage, Uzbekistan vs Gabon
+CW: 7A 45 61 20 F3 23 17 2D
