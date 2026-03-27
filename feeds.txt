@@ -1,3 +1,25 @@
+Friendly. Match 
+Saudi Arabia vs Egypt
+21.6E
+12593 H 7200
+4.2.0 HD
+ID: SAUDI ARABIA vs EGYPT 
+FTA
+---FEED-SEPARATOR---
+Friendlies
+Algeria-Guatemala
+Eutelsat 7A/7B/7C @ 7.0E
+12573  Horizontal  7500.175
+ID: ALG - GUA (Globecast)
+1920x1080 |16.718Mb/Sec 8PSK |4:2:0 HD
+---FEED-SEPARATOR---
+UEFA Under-21 2027, Qualifying round - Matchday 8
+Greece U21 vs Malta U21
+39e
+12538 H 7200
+ID: PATH HD4
+FTA
+---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:11496 - V - 7200
 MPEG 4 - 4:2:0 - DVB-S2
@@ -261,6 +283,28 @@ NEXT
  FIFA Series - Group Stage, Uzbekistan vs Gabon
 CW: 7A 45 61 20 F3 23 17 2D
 ---FEED-SEPARATOR---
+Event:World Friendly International
+Teams : Netherlands 
+ Norway
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11185 H 14400
+ HOL311 MAIN (2SAT Europe)
+MPEG4-4:2:0 HD 1920x1080 |32.680 Mbit/Sec|8PSK DVB-S2 HD
+CW: F3 11 D2 D6 7A B0 3E 68
+---FEED-SEPARATOR---
+Event :Europe Euro U21 - Qualification
+Teams : Germany U21 
+ Northern Ireland U21
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12542 V 7200
+  U21 GER - IRL (MTI Teleport MUC)
+MPEG4-
+4:2:2
+ HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 27 03 DB 05 BB 89 76 BA
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12527 Vertical 6658,631
 DVB-S2 - 4:2:0 - 8PSK
@@ -351,3 +395,12 @@ CW: B1 D3 F7 7B A6 C8 29 97
 ID: NBA-BAL AFRICA FEED
 new
 CW: 4A 8C 1D F3 2B 9F 73 3D
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11070 H 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG A EU
+Event: 
+BASKET:  
+Euroleague, Fenerbahce vs Zalgiris Kaunas
+CW: DF AC 4F DA E7 81 76 DE
