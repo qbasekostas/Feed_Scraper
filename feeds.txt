@@ -96,6 +96,29 @@ CW: 235ACB48672AA132
 COLOMBIA VS CROACIA
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+10964 Vertical 14396,84
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: AZE-013  MAIN
+Event: 
+Friendly International ,
+(match unknown)
+CW: 27 F8 B6 D5 AC 8F 03 3E
+---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3956 H 7200
+ID : FIFA SERIES 2026
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 01 EA C7 B2 61 04 6D D2
+FIFA Series Indonesia
+Click to expand...
+New ID : FS 2026 MATCH 9 MAIN
+New CW : 
+7A456120F323172D
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 10996 V 7199
 DVB-S2 - 4:2:0 - 8PSK
 ID: TAS-002-MA
