@@ -96,6 +96,41 @@ CW: 235ACB48672AA132
 COLOMBIA VS CROACIA
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+10982 H 14396
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:   AUT-34B_M5
+Event: 
+ Friendly International, Austria vs Ghana
+CW: 27 F8 B6 D5 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11000 H 14396
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:YSM-021 b M06
+Event:   
+Friendly International, Montenegro vs Andorra
+CW: 27 F8 B6 D5 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 10E
+11200 H 70000
+NS4
+ID = 6GVs4 FS TX13
+FIFA Series, Australia
+CW: 7A 45 61 20 F3 23 17 2D
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11062 Vertical 7199,753
+DVB-S2 - 4:2:0 - 8PSK
+ID:  LEUK_Fi01
+Event:  
+LALIGA FC FUTURES U12 CLUB WORLD CUP
+CW: 97 A3 F8 32 43 44 A1 28
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 10964 Vertical 14396,84
 DVB-S2 - 
 4:2:2
@@ -118,6 +153,15 @@ New ID : FS 2026 MATCH 9 MAIN
 New CW : 
 7A456120F323172D
 ---FEED-SEPARATOR---
+FIFA Series, Indonesia, Semifinals Solomon 
+Islands vs Bulgaria
+Eutelsat 7B/7C @ 7.0E
+11052 v 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: GVA_Fi05
+CW: 7A 45 61 20 F3 23 17 2D
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 10996 V 7199
 DVB-S2 - 4:2:0 - 8PSK
@@ -127,3 +171,9 @@ FIFA Series - Group Stage, Venezuela vs Trinidad & Tobago
 NEXT
  FIFA Series - Group Stage, Uzbekistan vs Gabon
 CW: 7A 45 61 20 F3 23 17 2D
+---FEED-SEPARATOR---
+7.0°E
+10964 V 14400
+4:2:2
+ID: AZE-013 MAIN
+CW: 27 F8 B6 D5 AC 8F 03 3E
