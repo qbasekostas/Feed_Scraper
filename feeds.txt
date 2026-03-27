@@ -1,3 +1,34 @@
+AsiaSat 5 100.5E
+3860 V 29998
+8PSK 3/4 DVB-S2 4.2.0
+PMT PID: 2048, SID: 12 @ Fi16_GNVE (CM5000)
+CW: BA 8F 9C E5 37 23 6B C5
+New Caledonia - Jamaica
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3947 H 7199
+8PSK 3/4 DVB-S2
+4.2.0
+Chile vs Cape Verde Islands
+PMT PID: 2048, SID: 1 @ TBS ADHOC ENC 13 (Telstra Broadcast Services)
+CW: 
+7A456120F323172D
+Clean FEED
+---FEED-SEPARATOR---
+candu said:
+			Eutelsat 7E
+11061 H 7200 S2
+ID: Fi16_GNVE
+BISS Key,please?
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+11062 H 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi16_GNVE
+Event:  
+World Cup - Qualification - Promotion,  New Caledonia vs Jamaica
+CW: BA 8F 9C E5 37 23 6B C5
+---FEED-SEPARATOR---
 10e
 10723 v 15000
 4:2:0
