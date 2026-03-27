@@ -357,6 +357,11 @@ CW: 20 26 EA 30 EA 03 27 14
 Thanks 
 @HBO
 ---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0 E)
+12633 Vertical 7198,562 3/4
+DVB-S2/8PSK (4:2:2)
+Service 01
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event:  
 Turkish Super Lig, Buyukcekmece vs Turk Telekom
