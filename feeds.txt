@@ -1,3 +1,10 @@
+Eutelsat 7A/B @7.0°E
+Fréq:11496 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  SAU-031-B
+ Friendlies
+Saudi Arabia vs Egypt
+---FEED-SEPARATOR---
 Red Devils said:
 Friendly Match
 Chile - Cape Verde
@@ -296,6 +303,26 @@ ID: ENC-MAIN
 CW: 20 26 EA 30 EA 03 27 14
 Thanks 
 @HBO
+---FEED-SEPARATOR---
+13.0°E
+10829 V 7500
+4:2:2
+ID: E333 M
+CW: 4B 7C BA 81 83 5A A7 84
+Manisa - Besiktas
+---FEED-SEPARATOR---
+xachik said:
+			42e
+10956 V 7500
+4:2:2
+ID: TUR156 Main
+Turkey Superleague
+56 0A 68 C1 85 09 A0 E2  #CW:C3 9C FC 5B 12 73 A1 26
+Click to expand...
+13.0°E
+10820 V 7500
+4:2:2
+ID: TUR156 Main
 ---FEED-SEPARATOR---
 42e
 10956 V 7500
