@@ -296,3 +296,31 @@ ID: ENC-MAIN
 CW: 20 26 EA 30 EA 03 27 14
 Thanks 
 @HBO
+---FEED-SEPARATOR---
+42e
+10956 V 7500
+4:2:2
+ID: TUR156 Main
+Turkey Superleague
+56 0A 68 C1 85 09 A0 E2  #CW:C3 9C FC 5B 12 73 A1 26
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+AFRICA: BAL 
+ (TOMORROW)
+15:00
+ RSSB Tigers (Rwa) vs Al Ahly (Lby)
+18:00
+ Dar City (Tan) vs Joburg Giants (Rsa)
+Click to expand...
+Event now
+10.0E
+11167 V 7200
+4.2.0 HD
+ID: ID: NBA-BAL  WORLD  FEED
+CW: B1 D3 F7 7B A6 C8 29 97
++
+11176 V 7200
+ID: NBA-BAL AFRICA FEED
+new
+CW: 4A 8C 1D F3 2B 9F 73 3D
