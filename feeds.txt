@@ -95,6 +95,72 @@ Event: Friendly Match
 CW: 235ACB48672AA132
 COLOMBIA VS CROACIA
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4129 H 15000
+ID: D: South Korea v Ivory Coast enc 1
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: A2 24 CA 90 BC 15 A4 75
+South Korea vs Ivory Coast
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10983 Vertical 14996,652
+DVB-S2 - 4:2:0 - 8PSK
+ID: South Korea v Ivory Coast enc 1
+Event:  
+Friendly International, South Korea vs Ivory Coast
+ (TOMORROW) 
+CW: A2 24 CA 90 BC 15 A4 75
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10961 H 9872
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E379 Feed 1
+Event:  
+Friendly International, Spain vs Serbia
+CW: 27 F8 B6 D5 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11105 H 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  HOL307 BU
+Event: 
+ Friendly International, Netherlands vs Norway
+CW: 27 F8 B6 D5 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11093 H 9872
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  UKI1866 Match02 Main
+Event:
+  Friendly International, England vs Uruguay
+CW: 27 F8 B6 D5 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11081 Horizontal 9872,897
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: SUI76-1 M11 main
+Event:   
+Friendly International, Switzerland vs Germany
+CW: 27 F8 B6 D5 AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11018 H 14396
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E394 1
+Event:  
+ Friendly International, Greece vs Paraguay
+CW: 27 F8 B6 D5 AC 8F 03 3E
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11014 V 7199
 DVB-S2 - 4:2:0 - 8PSK
@@ -187,6 +253,24 @@ FIFA Series - Group Stage, Venezuela vs Trinidad & Tobago
 NEXT
  FIFA Series - Group Stage, Uzbekistan vs Gabon
 CW: 7A 45 61 20 F3 23 17 2D
+---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+12527 Vertical 6658,631
+DVB-S2 - 4:2:0 - 8PSK
+ID:   B115DGS
+Event:  
+ Elite League U20, Romania U20 vs Poland U20 
+CW: 27 03 20 4A 26 AB CD 9E
+---FEED-SEPARATOR---
+42e
+11469 V 6800
+4:2:2
+ID: 
+TUR-145-B
+Euro U19 - Qualification - Round 1 - League B
+Turkey U19 vs Armenia U19
+21 DF A9 B0 4B 48 B1 FF  #CW: 
+78 54 00 CC 00 78 54 CC
 ---FEED-SEPARATOR---
 Albahraniy said:
 			Asiasat 5 (100.5°E) C BAND
