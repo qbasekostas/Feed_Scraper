@@ -1,3 +1,30 @@
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 4008 H 7200
+ID : TBS ADHOC ENC 2
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 01 EA C7 B2 61 04 6D D2
+AsiaSat 5 - 100.5 E - CBand
+TP : 3867 H 7200
+ID : ENC-1 main
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 20 26 BA 00 BA 03 27 E4
+FIFA Series Australia
+View attachment 102316
+Click to expand...
+TP : 4008 H 7200
+New ID : TBS ADHOC ENC 1
+New CW : 
+7A456120F323172D
+---FEED-SEPARATOR---
+Friendly Match
+Chile - Cape Verde
+Eutelsat 7A/7B/7C @ 7.0E
+12646  Vertical  7200.109
+ID: LEUK_Fi05 (EUROVISION SA)
+1920x1080 |16.049Mb/Sec 8PSK |4:2:0 HD
+CW: 7A 45 61 20 F3 23 17 2D
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3860 V 29998
 8PSK 3/4 DVB-S2 4.2.0
