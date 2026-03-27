@@ -96,6 +96,14 @@ CW: 235ACB48672AA132
 COLOMBIA VS CROACIA
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
+11071 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: LEUK_Fi03
+Event:  
+FIFA Series - Group Stage, Venezuela vs Trinidad & Tobago
+CW: 7A 45 61 20 F3 23 17 2D
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 10982 H 14396
 DVB-S2 - 
 4:2:2
@@ -137,8 +145,7 @@ DVB-S2 -
  - 8PSK
 ID: AZE-013  MAIN
 Event: 
-Friendly International ,
-(match unknown)
+FIFA Series, Azerbaijan vs Saint Lucia
 CW: 27 F8 B6 D5 AC 8F 03 3E
 ---FEED-SEPARATOR---
 HBO said:
@@ -172,8 +179,27 @@ NEXT
  FIFA Series - Group Stage, Uzbekistan vs Gabon
 CW: 7A 45 61 20 F3 23 17 2D
 ---FEED-SEPARATOR---
-7.0°E
-10964 V 14400
-4:2:2
-ID: AZE-013 MAIN
-CW: 27 F8 B6 D5 AC 8F 03 3E
+Albahraniy said:
+			Asiasat 5 (100.5°E) C BAND
+3800 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: ENC-MAIN
+CW: 20 26 EA 30 EA 03 27 14
+Click to expand...
+中澳U19男足友谊赛3月28日、31日义乌开赛
+2026 CFA中国之队·义乌国际青年足球邀请赛
+Chinese–Australian U19 Men’s Friendly Matches will kick off in Yiwu on March 28 and 31.
+2026 CFA Team China · Yiwu International Youth Football Invitational Tournament
+Click to expand...
+---FEED-SEPARATOR---
+Chinese–Australian U19 Men’s Friendly Matches will kick off in Yiwu on March 28 and 31.
+2026 CFA Team China · Yiwu International Youth Football Invitational Tournament
+Asiasat 5 (100.5°E) C BAND
+3800 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: ENC-MAIN
+CW: 20 26 EA 30 EA 03 27 14
+Thanks 
+@HBO
