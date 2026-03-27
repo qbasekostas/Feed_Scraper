@@ -283,6 +283,15 @@ NEXT
  FIFA Series - Group Stage, Uzbekistan vs Gabon
 CW: 7A 45 61 20 F3 23 17 2D
 ---FEED-SEPARATOR---
+Eutelsat 16A 16° E
+10973 V 9601
+ID: POL-141 ENC1
+Event: 
+U-21 European Championship Qualifiers - Match: Poland - Armenia
+4.2.2
+- DVB-S2 - 8PSK
+CW: AB BA 26 8B DC AE 03 8D
+---FEED-SEPARATOR---
 Event:World Friendly International
 Teams : Netherlands 
  Norway
@@ -347,6 +356,36 @@ ID: ENC-MAIN
 CW: 20 26 EA 30 EA 03 27 14
 Thanks 
 @HBO
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+Turkish Super Lig, Buyukcekmece vs Turk Telekom
+CW: 95 58 F7 E4 B6 84 FC 36
+Click to expand...
+Hot Bird ( 13.0E )
+12584 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10975 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
+Event:  
+Turkish Super Lig, Buyukcekmece vs Turk Telekom
+CW: 95 58 F7 E4 B6 84 FC 36
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11097 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi11_GNVE
+Event:  
+Euroleague, Partizan Mozzart Bet vs Valencia
+CW: 1C EC 25 2D CB AB 4E C4
 ---FEED-SEPARATOR---
 13.0°E
 10829 V 7500
