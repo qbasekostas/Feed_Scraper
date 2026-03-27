@@ -124,6 +124,30 @@ Event: Friendly Match
 CW: 235ACB48672AA132
 COLOMBIA VS CROACIA
 ---FEED-SEPARATOR---
+Albahraniy said:
+			Eutelsat 7B/7C @ 7.0E
+11052 v 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: GVA_Fi05
+CW: 7A 45 61 20 F3 23 17 2D
+Click to expand...
+NEW ID: Fi18_GNVE (EBUER)
+Friendly : Morocco-Ecuador
+---FEED-SEPARATOR---
+Ratzvan said:
+			Eutelsat 7A/B   ( 7.0E )
+11014 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: KAZ-004
+Event: 
+FIFA Series, Namibia – Comoros
+ (TOMORROW)
+CW: 7A 45 61 20 F3 23 17 2D
+Click to expand...
+NOW: FIFA Series - Rwanda vs Grenada
+ID: GVA_Fi04
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 4129 H 15000
 ID: D: South Korea v Ivory Coast enc 1
@@ -361,6 +385,14 @@ Hellas Sat 3/4 (39.0 E)
 12633 Vertical 7198,562 3/4
 DVB-S2/8PSK (4:2:2)
 Service 01
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12649 H 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: Medialink CRO-024/1
+Event:  
+AdmiralBet ABA League - Losers stage, Split vs Zadar
+CW: 20 25 AB F0 CD 20 26 13
 ---FEED-SEPARATOR---
 Ratzvan said:
 			Event:  
