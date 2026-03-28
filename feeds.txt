@@ -1,3 +1,22 @@
+Eutelsat 7A/7B/7C @ 7.0E
+12600  Vertical  7200.142
+ID: POL 058_T1 (POLSAT)
+1920x1080 |14.263Mb/Sec 8PSK |4:2:0 HD
+51 4B 20 97 E6 E5 B8 B9  #CW:15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+FaDeL® said:
+CW: FF D8 EE C5 54 BB 99 A8
+Nancy vs Mulhouse 
+Click to expand...
+Coupe de France
+Nice Volley vs Paris
+21.6E
+11652 H 6666
+4.2.0 HD
+ID: HOL 324 TX1
+---FEED-SEPARATOR---
+SerbiaSuperliga - Round 21 
+VGSK Veliko Gradiste  - Vojvodina
 Eutelsat 16A @ 16.0E
 12561  Horizontal  4937.943
 ID: ITA 415 MAIN (Live Images)
@@ -55,6 +74,20 @@ CW: C6 6C 39 6B BC 32 73 61
 ID: Pitch harrogate
 CW: C6 6C 39 6B BC 32 73 61
 Harrogate Town vs Notts County
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11606 V - 7200 
+|4:2:0
+1920*1080 - DVB-S2 - 8PSK
+ID: BOXING ENC 11
+International Friendly: CANADA vs ICELAND 
+---FEED-SEPARATOR---
+FREINDLY MATCH
+Scotland vs Japan 
+Eutelsat 16°E
+12690 V 10000 - 4.2.0
+ID: UKI-1592
+CW: FTA
 ---FEED-SEPARATOR---
 Argentina v Mauritania | Friendly Match
 Eutelsat 7E 
