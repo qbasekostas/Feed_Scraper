@@ -291,6 +291,27 @@ Event:
 Turkish Super Lig, Esenler Erokspor vs Galatasaray
 CW: DB 45 DC FC D5 30 AE B3
 ---FEED-SEPARATOR---
+Spain, Liga ACB
+Basquet Girona
+ vs. 
+Real Madrid
+​
+7.0E
+11107 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi01 ACB
+CW: C9 9A 11 74 5B 46 2A CB
+---FEED-SEPARATOR---
+International
+ABA Liga, Championship Round, Round 5
+Cedevita Olimpija
+U-BT Cluj-Napoca
+7.0E
+12522 H  4936
+DVB-S2 - 4:2:0 - 8PSK
+ID:  CRO-023/1
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 NCAA March Madness (Elite 8)
 2026 NCAA D1 Men's Basketball Championship
 Press Conference Feed
