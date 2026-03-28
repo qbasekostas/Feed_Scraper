@@ -186,6 +186,12 @@ ID: Argentina vs Mauritania
 Event:  International Friendlies Argentina VS Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
 ---FEED-SEPARATOR---
+28.2°E
+12702 V 7200
+4:2:0
+ID: LN23
+#FTA
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event:  
 Turkish Super Lig, Merkezefendi vs Petkim Spor
