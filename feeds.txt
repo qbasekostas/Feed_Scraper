@@ -30,8 +30,7 @@ Eutelsat 7A/B   ( 7.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID: GVA_Fi01
 Event:  
-FIFA Series 
-(match name available later)
+FIFA Series - Group Stage, Namibia vs Comoros
 CW: B8 B3 1A 85 16 6F 13 98
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
