@@ -4,6 +4,24 @@ Eutelsat 7E
 ID: Argentina vs Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11014 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: GVA_Fi01
+Event:  
+FIFA Series - Group Stage, Namibia vs Comoros
+CW: B8 B3 1A 85 16 6F 13 98
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10964 H 14396
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:   HUN-022 - 2 - M2
+Event: 
+ Friendly International, Hungary vs Slovenia
+CW: 28 F8 B6 D6 AC 8F 03 3E
+---FEED-SEPARATOR---
 LALIGA FC FUTURES U12 CLUB WORLD CUP
 Eutelsat 7A/B ( 7.0E )
 11106 V 7199
