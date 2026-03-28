@@ -1,3 +1,9 @@
+Eutelsat 16A @ 16.0E
+12561  Horizontal  4937.943
+ID: ITA 415 MAIN (Live Images)
+1920x1080 |11.005Mb/Sec 8PSK |4:2:0 HD
+3C 72 98 CD 97 7F 18 3C  #CW:AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Portugal Campeonato Nacional - Play Offs - Quarter-finals 
 Gondomar - Sporting CP
 Eutelsat 7A/7B/7C @ 7.0E
@@ -243,6 +249,8 @@ ID: TUR 112 MAIN
 Event:  
 Turkish Super Lig, Esenler Erokspor vs Galatasaray
 CW: DB 45 DC FC D5 30 AE B3
+---FEED-SEPARATOR---
+delet my post dup
 ---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12557 H 4936
