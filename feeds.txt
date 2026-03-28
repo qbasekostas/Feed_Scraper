@@ -1,3 +1,19 @@
+8.0°W
+12636 V 7700
+4:2:0
+ID: S6-PGM VOLLEY
+CW: AB CD 64 DC 12 AA BB 77
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11479 V 6798
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 123 A
+Event:  
+Turkish Sultanlar Ligi Women - 5th-8th places, THY vs Galatasaray
+CW: 45 83 00 C8 00 45 83 C8
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3975 V 7119 C-Band
 ID: BT_SES_22_SDI 
@@ -22,6 +38,24 @@ Eutelsat 7E
 11513 V  7500
 ID: Argentina vs Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12573 H 7200
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: F489 CLEAN MAIN
+Event: 
+Friendly International - Senegal vs Perù
+CW: 6A 7B 8C 71 9D AE FB 46
+---FEED-SEPARATOR---
+Friendly International
+South Korea v Ivory Coast
+Eutelsat 3B @ 3.1E
+3805  Horizontal/Vertical  7200.131
+ID:Fi16_GNVE (CM5000)
+1920x1080 |16.049Mb/Sec 8PSK |4:2:0 HD
+72 43 D6 3C 4A 01 BB 6D  #CW:6D CE 56 91 E3 13 14 0A
 ---FEED-SEPARATOR---
 Friendly International
 South Korea v Ivory Coast
@@ -161,3 +195,17 @@ ID: TUR 112 MAIN
 Event:  
 Turkish Super Lig, Esenler Erokspor vs Galatasaray
 CW: DB 45 DC FC D5 30 AE B3
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+11167 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: NBA-BAL WORLD FEED
+CW: 7C 9E 4B 65 1A 2D 68 AF
+11176 Vertical 7198,409
+DVB-S2 - 4:2:0 - 8PSK
+ID: NBA-BAL AFRICA FEED
+CW: E1 B7 C3 5B F9 A4 62 FF
+14:00
+ BAL, Nairobi City Thunder (Ken) vs Dar City (Tan)
+17:00
+ BAL, Al Ahly (Lby) vs Petro Atletico (Ang)
