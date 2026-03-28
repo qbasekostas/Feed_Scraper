@@ -1,0 +1,7 @@
+International Friendly
+Haiti vs Tunisia
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
