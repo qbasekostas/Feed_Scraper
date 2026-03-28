@@ -48,6 +48,14 @@ Eutelsat 7E
 ID: Argentina vs Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
 ---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12510 Horizontal 4936,21
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-012 MAIN
+Event:   
+  Euro U17 - Qualification - Belgium U17 vs Serbia U17  
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12527 V 6658
 DVB-S2 - 4:2:0 - 8PSK
@@ -221,6 +229,25 @@ ID: TUR 112 MAIN
 Event:  
 Turkish Super Lig, Esenler Erokspor vs Galatasaray
 CW: DB 45 DC FC D5 30 AE B3
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12557 H 4936
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-020
+Event:  
+Serbian KLS Women, Crvena zvezda - Mega 
+CW: 
+AB BA 20 85 25 20 26 6B     
+---FEED-SEPARATOR---
+PortugalLPB - Round 18 
+Benfica  -  Ovarense
+Eutelsat 7A/7B/7C @ 7.0E
+10977  Vertical  7200.131
+ID:E285 MAIN (Mediapro Portugal)
+1920x1080 |16.049Mb/Sec 8PSK |
+4:2:0
+ HD
+33 C7 B8 78 BC 24 7F B2  #CW:45 C6 31 3C A0 B6 89 DF
 ---FEED-SEPARATOR---
 Eutelsat 10A   ( 10.0E )
 11167 V 7198
