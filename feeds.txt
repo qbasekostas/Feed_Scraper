@@ -4,6 +4,14 @@ Eutelsat 7E
 ID: Argentina vs Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11062 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: LEUK_Fi01
+Event:  
+LALIGA FC FUTURES U12 CLUB WORLD CUP
+CW: 23 AE 07 D8 33 24 1A 71
+---FEED-SEPARATOR---
 Friendly Games
 San Marino vs Faroe Islands
 Eutelsat 7B/7C @ 7.0E
@@ -28,6 +36,16 @@ DVB-S2|1080HD
 ID: Argentina vs Mauritania
 Event:  International Friendlies Argentina VS Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10966 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:   E333 B
+Event:  
+Turkish Super Lig, Merkezefendi vs Petkim Spor
+CW: D5 13 7E 66 27 E9 27 37
 ---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 10957 V 7498
