@@ -283,6 +283,15 @@ Event:
 Turkish Super Lig, Esenler Erokspor vs Galatasaray
 CW: DB 45 DC FC D5 30 AE B3
 ---FEED-SEPARATOR---
+Italian Serie A
+Varese vs 
+Tortona
+10.0°E
+11247 H 7200
+4:2:2 HD
+ID: Encoder 1
+CW: 9C 2B 3D 04 5D 94 C9 BA
+---FEED-SEPARATOR---
 delet my post dup
 ---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
