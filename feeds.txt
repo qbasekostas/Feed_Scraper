@@ -1,8 +1,35 @@
+Asiasat 5 @ 100.5°E
+3975 V 7119 C-Band
+ID: BT_SES_22_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,97Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL League Two (Matchday 40)
+Teams: Harrogate Town vs Notts County
+Time / Kickoff: 19.30 JKT-TH / 20.30 MY-SG / 12.30 GMT / 13.30 CET
+CW: C6 6C 39 6B BC 32 73 61
+---FEED-SEPARATOR---
+7E
+10988 v 7120
+ID: Pitch harrogate
+CW: C6 6C 39 6B BC 32 73 61
+Harrogate Town vs Notts County
+---FEED-SEPARATOR---
 Argentina v Mauritania | Friendly Match
 Eutelsat 7E 
 11513 V  7500
 ID: Argentina vs Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
+---FEED-SEPARATOR---
+Friendly International
+South Korea v Ivory Coast
+Eutelsat 7A/7B/7C @ 7.0E
+11017  Horizontal  15000.284
+ID:South Korea v Ivory Coast enc 1 (NEP Connect)
+1920x1080 |33.435Mb/Sec 8PSK |4:2:0 HD
+E2 6C 02 15 E1 1D 70 6A  #CW:A2 24 CA 90 BC 15 A4 75
 ---FEED-SEPARATOR---
 Ratzvan said:
 CW: B8 B3 1A 85 16 6F 13 98
@@ -82,6 +109,18 @@ DVB-S2|1080HD
 ID: Argentina vs Mauritania
 Event:  International Friendlies Argentina VS Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+Turkish Super Lig, Merkezefendi vs Petkim Spor
+CW: D5 13 7E 66 27 E9 27 37
+Click to expand...
+Hot Bird ( 13.0E )
+10821 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E333 M
 ---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12510 H 4936
