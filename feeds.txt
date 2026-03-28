@@ -1,3 +1,26 @@
+Argentina v Mauritania | Friendly Match
+Eutelsat 7E 
+11513 V  7500
+ID: Argentina vs Mauritania
+CW: B1 C2 D3 46 E4 F5 A6 7F
+---FEED-SEPARATOR---
+Friendly Games
+San Marino vs Faroe Islands
+Eutelsat 7B/7C @ 7.0E
+10983 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: ITA198 NTF M3 Main (Elpitel)
+CW: 28 F8 B6 D6 AC 8F 03 3E
+---FEED-SEPARATOR---
+China vs Australia
+Asiasat 5 (100.5°E) C BAND
+3800 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  ENC-MAIN (Service Provider)
+CW: 20 26 EA 30 EA 03 27 14
+---FEED-SEPARATOR---
 7°E KU
 11514 V 7500
 DVB-S2|1080HD
