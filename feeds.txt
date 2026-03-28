@@ -1,3 +1,11 @@
+Portugal Campeonato Nacional - Play Offs - Quarter-finals 
+Gondomar - Sporting CP
+Eutelsat 7A/7B/7C @ 7.0E
+11588  Vertical  7200.131
+ID: E-073 MAIN (Mediapro Portugal)
+1920x1080 |16.049Mb/Sec 8PSK |4:2:0 HD
+AE F2 CA EC 7F 2F 80 BE  #CW:AA BB 20 85 26 03 28 51
+---FEED-SEPARATOR---
 vakula said:
 			21.5E
 11658 H 6667
@@ -262,3 +270,10 @@ CW: E1 B7 C3 5B F9 A4 62 FF
  BAL, Nairobi City Thunder (Ken) vs Dar City (Tan)
 17:00
  BAL, Al Ahly (Lby) vs Petro Atletico (Ang)
+---FEED-SEPARATOR---
+Greek Super League 2 - SUPER CUP
+Kalamata vs Iraklis
+39e
+12537 H 7200
+ID: TANDBERG
+FTA
