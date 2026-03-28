@@ -1,3 +1,12 @@
+vakula said:
+			21.5E
+11658 H 6667
+ID: FRBEIN_ENC_01
+2600 encrypted
+Click to expand...
+CW: FF D8 EE C5 54 BB 99 A8
+Nancy vs Mulhouse 
+---FEED-SEPARATOR---
 8.0°W
 12636 V 7700
 4:2:0
@@ -38,6 +47,14 @@ Eutelsat 7E
 11513 V  7500
 ID: Argentina vs Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
+---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+12527 V 6658
+DVB-S2 - 4:2:0 - 8PSK
+ID: backup
+Event:  
+    Euro U19 - Qualification - Romania U19 vs Northern Ireland U19 
+CW: 28 03 20 4B 26 AB C1 92
 ---FEED-SEPARATOR---
 Friendly International
 Senegal vs Peru
