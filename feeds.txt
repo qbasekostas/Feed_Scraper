@@ -95,6 +95,14 @@ Eutelsat 7E
 ID: Argentina vs Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
 ---FEED-SEPARATOR---
+Football Friendly
+USA vs Belgium
+13E
+10820 V 7200
+DVB-S2 4:2:0 8PSK
+ID: GCUK Enc 3
+CW: CE 27 DE D3 F2 26 12 2A
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 12510 Horizontal 4936,21
 DVB-S2 - 4:2:0 - 8PSK
@@ -282,6 +290,15 @@ ID: TUR 112 MAIN
 Event:  
 Turkish Super Lig, Esenler Erokspor vs Galatasaray
 CW: DB 45 DC FC D5 30 AE B3
+---FEED-SEPARATOR---
+NCAA March Madness (Elite 8)
+2026 NCAA D1 Men's Basketball Championship
+Press Conference Feed
+19.2E
+11817 V 31426
+DVB-S2 4:2:0 16APSK
+ID: Astra 1 Service 2
+CW: 11 11 11 33 11 11 11 33
 ---FEED-SEPARATOR---
 Italian Serie A
 Varese vs 
