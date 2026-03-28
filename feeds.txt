@@ -5,3 +5,13 @@ DVB-S2|1080HD
 ID: Argentina vs Mauritania
 Event:  International Friendlies Argentina VS Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10957 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
+Event:  
+Turkish Super Lig, Esenler Erokspor vs Galatasaray
+CW: DB 45 DC FC D5 30 AE B3
