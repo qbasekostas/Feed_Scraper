@@ -39,6 +39,15 @@ Eutelsat 7E
 ID: Argentina vs Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
 ---FEED-SEPARATOR---
+Friendly International
+Senegal vs Peru
+Eutelsat 7A/7B/7C @ 7.0°E
+12563 H 9600
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 17.06 Mbit/s
+ID: F529_DIRTY_MAIN
+CW: 7A 7B 7C 71 7D 7E 7F 7A
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 12573 H 7200
 DVB-S2 - 
