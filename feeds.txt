@@ -4,6 +4,13 @@ Eutelsat 7E
 ID: Argentina vs Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
 ---FEED-SEPARATOR---
+LALIGA FC FUTURES U12 CLUB WORLD CUP
+Eutelsat 7A/B ( 7.0E )
+11106 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: M-TREE 622 FEED 1
+CW: 14 40 9F F3 DD C8 AA 4F
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11062 V 7199
 DVB-S2 - 4:2:0 - 8PSK
@@ -36,6 +43,18 @@ DVB-S2|1080HD
 ID: Argentina vs Mauritania
 Event:  International Friendlies Argentina VS Mauritania
 CW: B1 C2 D3 46 E4 F5 A6 7F
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+Turkish Super Lig, Esenler Erokspor vs Galatasaray
+CW: DB 45 DC FC D5 30 AE B3
+Click to expand...
+Hot Bird ( 13.0E )
+10830 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:TUR 112 MAIN
 ---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 10966 V 7498
