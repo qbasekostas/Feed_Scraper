@@ -59,7 +59,6 @@ DVB-S2 4:2:0 8PSK
 ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
 ---FEED-SEPARATOR---
-Jacop said:
 International Friendlies
 Colombia vs France
 13.0E
@@ -67,19 +66,16 @@ Colombia vs France
 DVB-S2 4:2:0 8PSK
 ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
-Click to expand...
-7.0°E
-11092 H 9875
-ID : WSHT ENC 49
- CW : 29 B8 82 63 50 08 FF 57
 ---FEED-SEPARATOR---
-International Friendlies
-Colombia vs France
-13.0E
-12437 H 27500
-DVB-S2 4:2:0 8PSK
-ID: FEED 2
-CW: 12 34 56 9C 78 91 23 2C
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11092 H 9875
+  WSHT ENC49 (CM5000)
+International Friendly Games 
+Colombia vs. France
+MPEG4-4:2:0 HD 1920x1080 |22.009 Mbit/s |8PSK DVB-S2 HD
+04 F3 13 53 CA 70 39 CA  
+CW: 29 B8 82 63 50 08 FF 57
 ---FEED-SEPARATOR---
 International Friendlies
 Colombia vs France
@@ -114,6 +110,18 @@ ID: Fi16_GNVE
 Event: 
 FIFA Series - Placement matches, Macau vs Tanzania
 CW: A3 4D 5C 4C E6 32 F1 09
+---FEED-SEPARATOR---
+Ratzvan said:
+Hot Bird ( 13.0E )
+10820 Vertical 7498,474
+DVB-S2 - 4:2:0 - 8PSK
+ID:  TUR139-Main
+Click to expand...
+Turkish Super Lig
+BURSASPOR VS FENERBAHÇE BEKO
+NEW ID: TUR119-Main
+NEW
+ CW : 5F 98 1D 14 23 38 6A C5
 ---FEED-SEPARATOR---
 10.0°E
 11246 H 7200
