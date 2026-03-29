@@ -93,6 +93,20 @@ Event:
 FIFA Series - Placement matches, Macau vs Tanzania
 CW: A3 4D 5C 4C E6 32 F1 09
 ---FEED-SEPARATOR---
+10.0°E
+11246 H 7200
+4:2:2
+ID: Encoder 2
+CW: 58 37 6A F9 ED DD FD C7
+Italian Basket LBA
+---FEED-SEPARATOR---
+10.0°E
+11255 H 7200
+4:2:2
+ID: Encoder 3
+CW: C4 B9 52 CF 8E D2 7C DC
+Italian Basket LBA
+---FEED-SEPARATOR---
 7.0°E
 11014 V 7200
 4:2:0
