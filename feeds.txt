@@ -59,6 +59,15 @@ DVB-S2 4:2:0 8PSK
 ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
 ---FEED-SEPARATOR---
+International Friendlies
+Colombia vs France
+Eutelsat 10E
+11200 H 70000
+NS4
+ID = 6GVs5 COL vs FRA
+1920x1080@50i 4:2:0
+CW: 29 78 AB 4C 56 34 DA 64
+---FEED-SEPARATOR---
 55W INTELSAT34
 4128 H 7500
 ID: Enc Titán 1 M WF FRANCIA 
@@ -83,6 +92,12 @@ ID: Fi16_GNVE
 Event: 
 FIFA Series - Placement matches, Macau vs Tanzania
 CW: A3 4D 5C 4C E6 32 F1 09
+---FEED-SEPARATOR---
+7.0°E
+11014 V 7200
+4:2:0
+ID: E-228 Main
+CW: A6 5F F5 FA A5 E6 96 21
 ---FEED-SEPARATOR---
 Eutelsat 10A   ( 10.0E )
 11167 V 7198
