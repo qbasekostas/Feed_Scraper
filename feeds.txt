@@ -1,3 +1,13 @@
+Eutelsat 7B/7C (7.0E)
+10996 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+VOLLEY_WORLD_MAIN
+Provider: ITA_361
+Italy Playoff Scudetto Serie LVF A1 Tygota Women,4th Match (Vero Volley Milano leads 2:1 for Series)
+Vero Volley Milano W - Savino Del Bene Scandicci W (20:30)
+CW: D3 DF 85 37 2B 14 6D AC
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12593 V 7199
 DVB-S2 - 4:2:0 - 8PSK
@@ -59,6 +69,14 @@ DVB-S2 4:2:0 8PSK
 ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
 ---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+10723 V 14996
+DVB-S2 - 4:2:0 - 8PSK
+ID: OCC 1
+Event: 
+ Friendly International, Colombia vs France
+CW: 29 78 AB 4C 56 34 DA 64
+---FEED-SEPARATOR---
 International Friendlies
 Colombia vs France
 13.0E
@@ -110,6 +128,26 @@ ID: Fi16_GNVE
 Event: 
 FIFA Series - Placement matches, Macau vs Tanzania
 CW: A3 4D 5C 4C E6 32 F1 09
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11107 H 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi01 ACB
+Event:  
+Spain ACB, Barcelona vs Unicaja
+CW: F4 4F 5F A2 C3 22 61 46
+---FEED-SEPARATOR---
+Jacop said:
+Turkish Super Lig
+BURSASPOR VS FENERBAHÇE BEKO
+NEW ID: TUR119-Main
+NEW
+ CW : 5F 98 1D 14 23 38 6A C5
+Click to expand...
+30.9E
+10977 H 7500
+4.2.2 HD
+ID: TUR-119 Main
 ---FEED-SEPARATOR---
 Ratzvan said:
 Hot Bird ( 13.0E )
