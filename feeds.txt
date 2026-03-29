@@ -1,4 +1,15 @@
 International Friendly
+Tunisia vs Haiti
+7°E
+11597 
+V
+ 7200 
+ DVB-S2 - 
+4:2:0
+-8PSK
+ID: BOXING ENC 11
+---FEED-SEPARATOR---
+International Friendly
 Haiti vs Tunisia
 13E
 12437 H 27500
