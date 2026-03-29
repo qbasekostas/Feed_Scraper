@@ -59,6 +59,28 @@ DVB-S2 4:2:0 8PSK
 ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
 ---FEED-SEPARATOR---
+Jacop said:
+International Friendlies
+Colombia vs France
+13.0E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+Click to expand...
+7.0°E
+11092 H 9875
+ID : WSHT ENC 49
+ CW : 29 B8 82 63 50 08 FF 57
+---FEED-SEPARATOR---
+International Friendlies
+Colombia vs France
+13.0E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
 International Friendlies
 Colombia vs France
 Eutelsat 10E
