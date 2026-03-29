@@ -1,3 +1,11 @@
+Eutelsat 7A/B   ( 7.0E )
+12593 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL 058_T2
+Event:  
+Polish PlusLiga - Play Offs, Zawiercie vs Kedzierzyn-Kozle 
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11478 V 6798
 DVB-S2 - 
@@ -50,6 +58,30 @@ Haiti vs Tunisia
 DVB-S2 4:2:0 8PSK
 ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+11167 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: NBA-BAL WORLD FEED
+CW: 3F 8A 6C 35 2D 1B 97 DF
+11176 Vertical 7198,409
+DVB-S2 - 4:2:0 - 8PSK
+ID: NBA-BAL AFRICA FEED
+CW: A7 D2 C1 3A F3 E8 64 3F
+15:00
+ Africa BAL, RSSB Tigers (Rwa) vs Petro Atletico (Ang)
+18:00 
+Africa BAL, Nairobi City Thunder (Ken) vs Joburg Giants (Rsa)
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event: 
+ Turkish Super Lig, Anadolu Efes vs Tofas
+CW: F3 4B 86 C4 6B 59 81 45
+Click to expand...
+Hot Bird ( 13.0E )
+10820 Vertical 7498,474
+DVB-S2 - 4:2:0 - 8PSK
+ID:  TUR139-Main
 ---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 10957 V 7498
