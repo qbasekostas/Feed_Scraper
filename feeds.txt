@@ -50,3 +50,23 @@ Haiti vs Tunisia
 DVB-S2 4:2:0 8PSK
 ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10957 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR139-Main
+Event: 
+ Turkish Super Lig, Anadolu Efes vs Tofas
+CW: F3 4B 86 C4 6B 59 81 45
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10966 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E333 B
+Event:  
+Turkish Super Lig, Karsiyaka vs Mersin SK
+CW: 18 8D EB 90 F7 C0 CB 82
