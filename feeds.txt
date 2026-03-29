@@ -9,6 +9,22 @@ V
 -8PSK
 ID: BOXING ENC 11
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10983 H 14399
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E 363 M
+Event:   
+Friendly International, Armenia vs Belarus
+CW: 29 F8 B6 D7 AC 8F 03 3E
+---FEED-SEPARATOR---
+7.0°E
+10964 H 14400
+4:2:2
+ID: LTU-005 - 1 - MATCH 01
+CW: 29 F8 B6 D7 AC 8F 03 3E
+---FEED-SEPARATOR---
 International Friendly
 Haiti vs Tunisia
 13E
