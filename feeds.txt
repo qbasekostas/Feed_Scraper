@@ -1,3 +1,13 @@
+Turksat 3A/4A   ( 42.0E )
+11478 V 6798
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TKS.TRT.M29-A
+Event:   
+2026 FIVB Snow Volleyball World Tour – Uludağ Etabı
+CW: 45 83 00 C8 00 45 83 C8
+---FEED-SEPARATOR---
 International Friendly
 Tunisia vs Haiti
 7°E
