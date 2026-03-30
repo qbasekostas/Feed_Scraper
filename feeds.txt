@@ -1,3 +1,11 @@
+FIFA Series - Group Stage 
+Uzbekistan - Venezuela
+Eutelsat 7A/7B/7C @ 7.0E
+11061  Horizontal  7200.131
+ID:UZB TAS 002 (UZB TAS 002)
+1920x1080 |16.049Mb/Sec 8PSK |4:2:0 HD
+41 F5 09 20 A9 58 92 40 CW: 8F 72 4A 4B E4 64 BB 03
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E 
 ( KU-BAND )
 11104 V 9875
