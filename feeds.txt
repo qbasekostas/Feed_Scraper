@@ -1,3 +1,27 @@
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+11104 V 9875
+  MD11 WALES MAIN UKI1965 (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.856
+ Mbit/Sec | 8PSK | DVB-S2 HD
+EVENT: 
+WALES VS Nothern Ireland [ Tomorrow Tuesday 31st Match 2026 ]
+8F 16 3C 61 A8 61 27 B7
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Friendly International  
+Germany - Ghana
+Eutelsat 7A/7B/7C @ 7.0E
+11079  Horizontal  9875.153
+ID: HOL-241-Stuttgart. (*unnamed-1*)
+1920x1080 |22.011Mb/Sec 8PSK |
+4:2:2 
+HD
+83 FC FC 45 71 FC 0B B5  #CW:30 F8 B6 DE AC 8F 03 3E
+---FEED-SEPARATOR---
 FIFA Series
 Cape Verde vs Finland
 New Zealand vs Chile 
