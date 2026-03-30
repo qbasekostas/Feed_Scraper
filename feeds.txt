@@ -1,0 +1,17 @@
+FIFA Series 2026
+New Zealand vs Chile
+Asiasat 5 (100.5°E) C BAND
+3946 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:TBS ADHOC ENC 5
+CW: 8F 72 4A 4B E4 64 BB 03
+---FEED-SEPARATOR---
+FIFA Series 2026
+Saint Kitts and Nevis vs Solomon Islands
+Asiasat 5 (100.5°E) C BAND
+3955 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:FS 2026 MATCH 9 MAIN
+CW: 8F 72 4A 4B E4 64 BB 03
