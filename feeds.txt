@@ -159,14 +159,6 @@ Click to expand...
 FIFA Series - Final 
 Rwanda - Estonia
 ---FEED-SEPARATOR---
-Europe AdmiralBet ABA League - Winners stage - Round 5
-Crvena Zvezda Meridianbet  -  Dubai
-Eutelsat 7A/7B/7C @ 7.0E
-12520  Horizontal  4937.889
-ID:YSM-021M (DSNG)
-1920x1080 |11.005Mb/Sec 8PSK |4:2:0 HD
-3C 72 98 CD 97 7F 18 3C  #CW:AB BA 20 85 25 20 26 6B
----FEED-SEPARATOR---
 SATELLITE Name : Eutelsat 7 (7.0°E)
 KU Band
 FREQUENCY: 12522H SR:4938
