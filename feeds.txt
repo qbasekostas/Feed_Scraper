@@ -1,3 +1,13 @@
+Turksat 3A/4A   ( 42.0E )
+11460 V 6798
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 123 A
+Event:  
+Turkish Sultanlar Ligi  Women - Play Offs, Eczacibasi vs Vakifbank
+CW: 22 81 00 A3 00 22 81 A3
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11132 V 7198
 DVB-S2 - 4:2:0 - 8PSK
@@ -109,11 +119,3 @@ MPEG4-
  HD 1920x1080 |32.680 Mbit/Sec|8PSK DVB-S2 HD
 83 FC FC 45 71 FC 0B B5 
 CW: 30 F8 B6 DE AC 8F 03 3E
----FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-12516 H 4936
-DVB-S2 - 4:2:0 - 8PSK
-ID: YSM-013M
-Event:  
-AdmiralBet ABA League - Losers stage, Spartak Subotica vs Studentski Centar
-CW: AB BA 20 85 25 20 26 6B
