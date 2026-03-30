@@ -84,7 +84,7 @@ Uzbekistan vs Venezuela
 Eutelsat 10E
 11200 H 70000
 NS4
-ID = 6GVs10 FS26 TX12
+ID = 6GVs7 FS26 TX11
 1920x1080@50i 4:2:0
 CW: 8F 72 4A 4B E4 64 BB 03
 ---FEED-SEPARATOR---
@@ -138,6 +138,34 @@ MPEG4-
  HD 1920x1080 |32.680 Mbit/Sec|8PSK DVB-S2 HD
 83 FC FC 45 71 FC 0B B5 
 CW: 30 F8 B6 DE AC 8F 03 3E
+---FEED-SEPARATOR---
+FIFA Series
+Granada vs Kenya
+Rwanda vs Estonia
+Eutelsat 10E
+11200 H 70000
+NS4
+ID = 6GVs6 FS26 TX10
+1920x1080@50i 4:2:0
+CW: 8F 72 4A 4B E4 64 BB 03
+---FEED-SEPARATOR---
+Red Devils said:
+Eutelsat 3B @ 3.1E C-Band
+3820 Horizontal/Vertical 7200
+ID: RWA 004 MAIN M21
+1920x1080 |16.049Mb/Sec 8PSK |4:2:0 HD
+CW: 8F 72 4A 4B E4 64 BB 03
+Click to expand...
+FIFA Series - Final 
+Rwanda - Estonia
+---FEED-SEPARATOR---
+Europe AdmiralBet ABA League - Winners stage - Round 5
+Crvena Zvezda Meridianbet  -  Dubai
+Eutelsat 7A/7B/7C @ 7.0E
+12520  Horizontal  4937.889
+ID:YSM-021M (DSNG)
+1920x1080 |11.005Mb/Sec 8PSK |4:2:0 HD
+3C 72 98 CD 97 7F 18 3C  #CW:AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 SATELLITE Name : Eutelsat 7 (7.0°E)
 KU Band
