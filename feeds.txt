@@ -1,3 +1,11 @@
+Eutelsat 7A/B   ( 7.0E )
+11132 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: ROU038 M01 MAIN
+Event: 
+ World Cup - Qualification - Promotion, Bosnia & Herzegovina vs Italy
+CW: 48 D2 A7 C1 07 B2 2D E6
+---FEED-SEPARATOR---
 FIFA Series - Group Stage 
 Uzbekistan - Venezuela
 Eutelsat 7A/7B/7C @ 7.0E
@@ -101,3 +109,11 @@ MPEG4-
  HD 1920x1080 |32.680 Mbit/Sec|8PSK DVB-S2 HD
 83 FC FC 45 71 FC 0B B5 
 CW: 30 F8 B6 DE AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12516 H 4936
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-013M
+Event:  
+AdmiralBet ABA League - Losers stage, Spartak Subotica vs Studentski Centar
+CW: AB BA 20 85 25 20 26 6B
