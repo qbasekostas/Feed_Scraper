@@ -1,9 +1,39 @@
+FIFA Series
+Cape Verde vs Finland
+New Zealand vs Chile 
+(ended)
+Eutelsat 10E
+11200 H 70000
+NS4
+ID = 6GVs6 FS26 TX10
+1920x1080@50i 4:2:0
+CW: 8F 72 4A 4B E4 64 BB 03
+---FEED-SEPARATOR---
+FIFA Series
+Gabon vs Trinidad & Tobago
+Uzbekistan vs Venezuela
+Eutelsat 10E
+11200 H 70000
+NS4
+ID = 6GVs10 FS26 TX12
+1920x1080@50i 4:2:0
+CW: 8F 72 4A 4B E4 64 BB 03
+---FEED-SEPARATOR---
+FIFA Series
+St. Kitts and Nevis vs Solomon Islands
+Indonesia vs Bulgaria
+Eutelsat 10E
+11200 H 70000
+NS4
+ID = 6GVs4 FS26 TX13
+1920x1080@50i 4:2:0
+CW: 8F 72 4A 4B E4 64 BB 03
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 83 FC FC 45 71 FC 0B B5 
 CW: 30 F8 B6 DE AC 8F 03 3E
 Click to expand...
-Euro U17 - Qualification - Round 2
-Lithuania U17 - Bulgaria U17
+Friendly International | Cyprus - Moldova
 Eutelsat 7A/7B/7C @ 7.0E
 10964  Horizontal  14400.262
 ID:NTF MATCH 01 EUROPE MAIN (*unnamed-1*)
