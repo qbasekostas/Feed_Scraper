@@ -199,6 +199,60 @@ PMT PID: 2048, SID: 1 @ ENC-1 main (Service Provider)
 Cameroon vs China
 CW: 20 26 BA 00 BA 03 31 EE
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11188  Horizontal  7200.131
+ID:E394 MAIN (OVERON)
+1920x1080 |16.049Mb/Sec |8PSK |4:2:0 HD
+CW: F2 B3 AB 50 CD E1 C4 72
+---FEED-SEPARATOR---
+EuropeWorld Cup - Qualification - Promotion - Final 
+Sweden - Poland
+Eutelsat 7A/7B/7C @ 7.0E
+12508  Vertical  7199.99
+ID:SWE-054 Main (Mobilelinks)
+1920x1080 |16.047Mb/Sec |8PSK |
+4:2:0
+ HD
+A7 95 87 67 9B 08 A1 55  #CW:
+AD 22 A1 70 3E 24 1B 7D
+---FEED-SEPARATOR---
+FIFA/UEFA World Cup Play-Offs - Path A FINAL
+Bosnia-Herzegovina vs. Italy
+Eutelsat 7B/7C @ 7.0°E
+11128 - V - 14400 
+|
+4:2:0
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: ROU038 MAIN
+CW: 52 9C 63 51 07 B2 2E E7
+---FEED-SEPARATOR---
+Event : World Friendly International
+Teams : Netherlands 
+ Ecuador
+Eutelsat 10A @ 10.0°E
+ ( KU-BAND )
+11267 V 9875
+ EMG HOL309 1
+MPEG4-4.2.0 1920x1080 |16.360 Mbit/Sec |8PSK| DVB-S2 HD
+CW: 7B D2 2A 77 5E B6 D5 E9
+---FEED-SEPARATOR---
+krzyś1 said:
+Eutelsat 16A  16° E
+10985 V 9600
+ID: POL-111
+CW PLEASE
+Click to expand...
+Eutelsat 16A   ( 16.0E )
+10986 Vertical 9599,843
+DVB-S2 -
+4:2:2
+ - 8PSK
+ID:  POL-111
+Event:     
+ Elite League U20, Poland U20 vs Germany U20
+CW: CA 11 19 F4 40 EF 26 55
+---FEED-SEPARATOR---
 Friendly International
 Spain vs. Egypt
 Eutelsat 7A/7B/7C @ 7.0E
@@ -288,6 +342,19 @@ Eutelsat 7B/7C @ 7.0°E
 ID: UKI1866 Match7 BU
 CW: 31 F8 B6 DF AC 8F 03 3E
 ---FEED-SEPARATOR---
+Dani Sat said:
+UEFA Nations League - Promotion/Regulation Play-Off (2nd Leg)
+Luxembourg vs. Malta
+Click to expand...
+3.1E
+10960 H 7500
+DVB-S2 4:2:0 QPSK
+ID: beIN SPORTS
+10969 H 7500
+DVB-S2 4:2:0 QPSK
+ID: Service-1 (Active later)
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
 UEFA Nations League - Promotion/Regulation Play-Off (2nd Leg)
 Luxembourg vs. Malta
 Eutelsat 7B/7C @ 7.0°E
@@ -308,3 +375,14 @@ ID: LTU-005 - 2 - MATCH 01
 Event:
 UEFA Nations League - League C/D - Relegation, Latvia vs Gibraltar
 CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12515 H 4938
+  YSM-015BU (YSM 015BU)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+Event: 
+Europe Euro U17 - Qualification - Round 2 - League A
+Teams : Switzerland U17 
+ Serbia U17
+CW: AB BA 20 85 25 20 26 6B
