@@ -1,0 +1,14 @@
+AsiaSat 5 100.5E
+4008 H 7199
+8PSK 3/4 DVB-S2 4.2.0
+PMT PID: 2048, SID: 1 @ TBS ADHOC ENC 1 (Telstra Broadcast Services)
+CW: 2D BA BC A3 5A AB A7 AC
+Cameroon vs China
+Clean FEED
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3867 H 7199
+8PSK 3/4 DVB-S2 4.2.0
+PMT PID: 2048, SID: 1 @ ENC-1 main (Service Provider)
+Cameroon vs China
+CW: 20 26 BA 00 BA 03 31 EE
