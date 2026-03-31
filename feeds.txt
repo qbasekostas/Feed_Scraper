@@ -1,4 +1,24 @@
 Friendly International
+Brazil vs Croatia
+10.0E
+10723 V 15000
+4.2.0 HD
+ID: OCC 1
+CW: 55 85 AD 87 DA 65 88 C7
+---FEED-SEPARATOR---
+Friendly International
+Argentina vs. Zambia
+Eutelsat 7B/7C @ 7.0°E
+11514 - V - 7500 
+|
+4:2:0
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: Argentina vs Mauritania
+NEW 
+CW: 8A 9B 1C 41 2D 3E 4F BA
+---FEED-SEPARATOR---
+Friendly International
 USA vs Portuga
 Eutelsat Hotbird 13B/13C/13G @ 13.0°E
 10820 V 7200
