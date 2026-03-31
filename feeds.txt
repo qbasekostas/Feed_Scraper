@@ -1,3 +1,22 @@
+Friendly International
+Spain-Egypt
+Eutelsat 7A/7B/7C @ 7.0E
+12555  Horizontal  7200.142
+ID:E340 Feed 1 (Service Provider)
+1920x1080 |16.049Mb/Sec |8PSK |
+4:2:0
+ HD
+CW: FTA
+---FEED-SEPARATOR---
+European U21 Championship Qualification - 
+Group E
+Montenegro U21 vs Poland U21
+Eutelsat 7A/B ( 7.0E )
+11522 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: MNE-001 main
+CW: FTA
+---FEED-SEPARATOR---
 FIFA/UEFA World Cup Play-Offs - Path D FINAL
 Czechia vs. Denmark
 Eutelsat 16A @ 16.0°E
@@ -72,8 +91,7 @@ ID:YSM-012 M3 MAIN (DSNG)
 CW: 31 F8 B6 DF AC 8F 03 3E
 ---FEED-SEPARATOR---
 Friendly International
-England-Japan
-now reported as Scotland vs. Ivory Coast
+Ireland - North Macedonia
 Eutelsat 7A/7B/7C @ 7.0E
 11092  Vertical  9875.175
 ID:uki1482 M17 Bkp (Digital Space)
@@ -181,7 +199,47 @@ PMT PID: 2048, SID: 1 @ ENC-1 main (Service Provider)
 Cameroon vs China
 CW: 20 26 BA 00 BA 03 31 EE
 ---FEED-SEPARATOR---
-delet my post dup
+Friendly International
+Spain vs. Egypt
+Eutelsat 7A/7B/7C @ 7.0E
+12620 Horizontal 9875.164
+ID:GVA_Fi05 (EUROVISION SA)
+1920x1080 |22.011Mb/Sec |8PSK |
+4:2:0 
+HD
+CW: 66 0C CA 3C 85 4D B0 82
+---FEED-SEPARATOR---
+FIFA/UEFA World Cup 2026 Playoffs FINAL
+Bosnia & Herzegovina vs Italy
+13E
+12437 H 27500
+DVB-S2 4:2:0 8PSK
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+16e
+11004 H 9873
+4:2:2
+ID: 
+YSM-016 M3 FEED B MAIN
+World Cup
+ - Qualification - Promotion
+EUROPE: 
+Bosnia & Herzegovina
+Italy
+8F 16 3C 61 A8 61 27 B7  #CW: 
+31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Event: World Friendly International
+Teams : Hungary  
+ Greece
+Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
+11602 V 14400
+   HUN-010 - 2 - M12 (HUN-010)
+MPEG4-
+4:2:2
+ HD 1920x1080 |22.856 Mbit/Sec | 8PSK | DVB-S2 HD
+E4 0E 2E D5 AD 50 AB 4B  #CW:EC 98 79 FD D6 4D 5C 7F
 ---FEED-SEPARATOR---
 Friendly International
 Spain vs. Egypt
