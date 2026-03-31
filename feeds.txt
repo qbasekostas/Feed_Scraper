@@ -1,4 +1,87 @@
+Europe World Cup - Qualification - Promotion - Final 
+Sweden - Poland
+Eutelsat 7A/7B/7C @ 7.0E
+11080  Horizontal  9875.175
+ID:SWE-29 SWE-POL (Mobilelinks)
+1920x1080 |22.011Mb/Sec |8PSK |
+4:2:2
+ HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Europe World Cup - Qualification - Promotion - Final
+Bosnia & Herzegovina - Italy
+Eutelsat 16A @ 16.0E
+11104  Horizontal  9875.164
+ID: YSM-016 M3 FEED B MAIN (*unnamed-1*)
+1920x1080 |22.011Mb/Sec 8PSK |
+4:2:2 
+HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Europe World Cup - Qualification - Promotion - Final  
+Bosnia & Herzegovina - Italy
+Eutelsat 7A/7B/7C @ 7.0E
+10999  Horizontal  14400.262
+ID:YSM-012 M3 MAIN (DSNG)
+1920x1080 |32.098Mb/Sec |8PSK |
+4:2:2
+ HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
 Friendly International
+England-Japan
+Eutelsat 7A/7B/7C @ 7.0E
+11092  Vertical  9875.175
+ID:uki1482 M17 Bkp (Digital Space)
+1920x1080 |22.011Mb/Sec |8PSK |
+4:2:2
+ HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Friendly International
+Serbia - Saudi Arabia
+Eutelsat 7A/7B/7C @ 7.0E
+12632  Vertical  14399.935
+ID: ITA 415 Back up (Live Images)
+1920x1080 |32.095Mb/Sec |8PSK |
+4:2:2
+ HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Friendly International
+Hungary vs. Greece
+Eutelsat 7B/7C @ 7.0°E
+11018 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: HUN-022 - 2 - M12
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Friendly International
+Ukraine vs. Albania
+Eutelsat 7B/7C @ 7.0°E
+11081 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: SNG E-385 BKUP MATCH 16
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Friendly International
+Montenegro-Slovenia
+Eutelsat 7A/7B/7C @ 7.0E
+11068  Vertical  9874.968
+ID:NTF M15 Main (ONmedia)
+1920x1080 |22.009Mb/Sec |8PSK |
+4:2:2
+ HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Friendly International
+Serbia - Saudi Arabia
 Eutelsat 7A/7B/7C @ 7.0E
 11000  Vertical  14400.262
 ID:YSM021 m M11 (*unnamed-1*)
@@ -8,6 +91,7 @@ ID:YSM021 m M11 (*unnamed-1*)
 CW: 31 F8 B6 DF AC 8F 03 3E
 ---FEED-SEPARATOR---
 Friendly International
+San Marino - Andorra
 Eutelsat 7A/7B/7C @ 7.0E
 12653  Vertical  9875.175
 ID:ITA198 NTF M19 BCKP (Elpitel)
