@@ -1,3 +1,49 @@
+FIFA/UEFA World Cup Play-Offs - Path C FINAL
+Kosovo vs. Türkiye
+Eutelsat 7B/7C @ 7.0°E
+11018 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: BUL007 EQPO M5 Back
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Friendly International
+Netherlands vs. Ecuador
+Eutelsat 7B/7C @ 7.0°E
+11105 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: HOL307 BU
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Friendly International
+Austria - South Korea
+Eutelsat 7A/7B/7C @ 7.0E
+10982  Vertical  14400.323
+ID:  AUT-34/M5B (AUT-34HDSD)
+1920x1080 |32.098Mb/Sec |8PSK |
+4:2:2
+ HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Event :World Friendly International
+Teams : Montenegro 
+ Slovenia
+Eutelsat 7A/7B/7C @ 7.0°E 
+( KU-BAND )
+10999 V 14400
+ YSM021 m M11 (*unnamed-1*)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+32.856
+ Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
 Europe World Cup - Qualification - Promotion - Final 
 Sweden - Poland
 Eutelsat 7A/7B/7C @ 7.0E
@@ -135,6 +181,38 @@ AsiaSat 5 100.5E
 PMT PID: 2048, SID: 1 @ ENC-1 main (Service Provider)
 Cameroon vs China
 CW: 20 26 BA 00 BA 03 31 EE
+---FEED-SEPARATOR---
+FIFA/UEFA World Cup Play-Offs - Path D FINAL
+Czechia vs. Denmark
+Eutelsat 7A/7B/7C @ 7.0E
+10964  Vertical  14400.262
+ID:CZE-012 M06 MAIN (*unnamed-1*)
+1920x1080 |32.098Mb/Sec |8PSK |
+4:2:2 
+HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Friendly International
+England vs. Japan
+Eutelsat 7B/7C @ 7.0°E
+11092 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: UKI1866 Match7 BU
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+FIFA/UEFA World Cup Play-Offs - Path D FINAL
+Czechia vs. Denmark
+Eutelsat 16A @ 16.0°E
+11061 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: CZE-041 EQPO M6 BackUp
+CW: 31 F8 B6 DF AC 8F 03 3E
 ---FEED-SEPARATOR---
 UEFA Nations League - Promotion/Regulation Play-Off (2nd Leg)
 Luxembourg vs. Malta
