@@ -1,3 +1,31 @@
+Friendly International
+Eutelsat 7A/7B/7C @ 7.0E
+11000  Vertical  14400.262
+ID:YSM021 m M11 (*unnamed-1*)
+1920x1080 |32.098Mb/Sec |8PSK |
+4:2:2
+ HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Friendly International
+Eutelsat 7A/7B/7C @ 7.0E
+12653  Vertical  9875.175
+ID:ITA198 NTF M19 BCKP (Elpitel)
+1920x1080 |22.011Mb/Sec |8PSK |
+4:2:2 
+HD
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11045 V 9875
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:NOR-044 - MAIN
+Event: 
+ Friendly International, Norway vs Switzerland
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
 FIFA Series - Group Stage 
 Kazakhstan - Comoros
 Eutelsat 16A @ 16.0E
@@ -23,3 +51,24 @@ AsiaSat 5 100.5E
 PMT PID: 2048, SID: 1 @ ENC-1 main (Service Provider)
 Cameroon vs China
 CW: 20 26 BA 00 BA 03 31 EE
+---FEED-SEPARATOR---
+UEFA Nations League - Promotion/Regulation Play-Off (2nd Leg)
+Luxembourg vs. Malta
+Eutelsat 7B/7C @ 7.0°E
+10982 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: HOL-241-1
+CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10964 H 14396
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: LTU-005 - 2 - MATCH 01
+Event:
+UEFA Nations League - League C/D - Relegation, Latvia vs Gibraltar
+CW: 31 F8 B6 DF AC 8F 03 3E
