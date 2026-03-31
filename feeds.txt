@@ -1,3 +1,14 @@
+FIFA Series - Group Stage 
+Kazakhstan - Comoros
+Eutelsat 16A @ 16.0E
+11080  Horizontal  9874.817
+ID:KAZ008M    (KAZ008M   )
+1920x1080 |22.009Mb/Sec 8PSK |
+4:2:2 
+HD
+5F 2F 8E DC B7 19 74 6D #CW:
+31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 4008 H 7199
 8PSK 3/4 DVB-S2 4.2.0
