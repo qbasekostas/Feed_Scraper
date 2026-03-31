@@ -260,6 +260,16 @@ Eutelsat 7B/7C @ 7.0°E
 ID: UKI1866 Match7 BU
 CW: 31 F8 B6 DF AC 8F 03 3E
 ---FEED-SEPARATOR---
+𝑰𝒏𝒕𝒆𝒓𝒏𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚 𝑴𝒂𝒕𝒄𝒉
+𝑪𝒂𝒏𝒂𝒅𝒂 𝒗𝒔 𝑻𝒖𝒏𝒊𝒔𝒊𝒆
+𝟳𝗘
+𝟭𝟭𝟱𝟴𝟴 𝗩 𝟳𝟮𝟬𝟬
+𝟰:𝟮:𝟬 | 𝗗𝗩𝗕-𝗦𝟮 | 𝟴𝗣𝗦𝗞
+𝗜𝗗: 𝗕𝗢𝗫𝗜𝗡𝗚 𝗘𝗡𝗖 𝟭𝟭
+𝗙𝗧𝗔
+						1774985757759 — Postimages
+					postimg.cc
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3860 V 29998
 8PSK 3/4 DVB-S2 4.2.0
