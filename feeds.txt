@@ -1,3 +1,11 @@
+FRANCE.Ligue A, Playoffs
+Nice Volley VS AS Cannes
+21.6E
+11651 H 6666
+4.2.0 HD
+ID: F489 DIRTY MAIN
+CW: BD E7 AA 4E 58 CD 65 8A
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 12726  Vertical  7200.142
 ID:TKS.TRT.M22-A (TRT)
@@ -31,6 +39,16 @@ Eutelsat 7A/B ( 7.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID: MNE-001 main
 CW: FTA
+---FEED-SEPARATOR---
+Friendly International
+Jordan  -  Nigeria
+Eutelsat 21B 21.6°E  
+TP : 11004 
+Horizontal
+ 4444 
+ID : TANDBERG 
+8PSK |4:2:0 HD
+CW : FTA
 ---FEED-SEPARATOR---
 FIFA/UEFA World Cup Play-Offs - Path D FINAL
 Czechia vs. Denmark
@@ -213,6 +231,38 @@ AsiaSat 5 100.5E
 PMT PID: 2048, SID: 1 @ ENC-1 main (Service Provider)
 Cameroon vs China
 CW: 20 26 BA 00 BA 03 31 EE
+---FEED-SEPARATOR---
+47W SES14 C 
+4008H7200
+ID: ECUA VS HOL
+DVB-S2 4.2.2 1080I 
+ECUADOR 
+ VS PAISES BAJOS 
+CW: 56 B0 1D 23 AE 03 03 B4
+---FEED-SEPARATOR---
+International Football
+Algeria-Uruguay
+Eutelsat 7A/7B/7C @ 7.0E
+11170  Horizontal  7200.131
+ID:ALG - URU (Globecast)
+1920x1080 |16.049Mb/Sec |8PSK |4:2:2 HD
+CW: DB 34 90 9F FC C2 8D 4B
+---FEED-SEPARATOR---
+International Football 
+Cote d'Ivoire v Scotland
+Eutelsat 7A/7B/7C @ 7.0E
+12685  Vertical  7120.153
+ID:  Pitch International Football - Cote d'Ivoire v Scotland (NEP Connect)
+1920x1080 |14.105Mb/Sec |8PSK |4:2:0 HD
+FF 31 2F 61 BB 4C F9 27  #CW:43 24 DD 44 CA 24 22 10
+---FEED-SEPARATOR---
+Eutelsat 3C @ 3.1° E
+Fréq:3805 - R - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  Fi13_GNVE
+International Friendly
+Scotland vs Côte d'Ivoire
+CW: B3 F3 0D B3 A2 E9 16 A1
 ---FEED-SEPARATOR---
 Friendly International
 Spain vs Egypt 
