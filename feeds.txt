@@ -50,187 +50,19 @@ ID : TANDBERG
 8PSK |4:2:0 HD
 CW : FTA
 ---FEED-SEPARATOR---
-FIFA/UEFA World Cup Play-Offs - Path D FINAL
-Czechia vs. Denmark
-Eutelsat 16A @ 16.0°E
-11061 - H - 9875 
-|
-4:2:2
- | H.264
-1920*1080 - DVB-S2 - 8PSK
-ID: CZE-041 EQPO M6 BackUp
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-FIFA/UEFA World Cup Play-Offs - Path C FINAL
-Kosovo vs. Türkiye
-Eutelsat 7B/7C @ 7.0°E
-11018 - H - 14400 
-|
-4:2:2
- | H.264
-1920*1080 - DVB-S2 - 8PSK
-ID: BUL007 EQPO M5 Back
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Friendly International
-Netherlands vs. Ecuador
-Eutelsat 7B/7C @ 7.0°E
-11105 - H - 9875 
-|
-4:2:2
- | H.264
-1920*1080 - DVB-S2 - 8PSK
-ID: 2Sat HOL318 M08 MAIN
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Friendly International
-Austria - South Korea
-Eutelsat 7A/7B/7C @ 7.0E
-10982  Vertical  14400.323
-ID:  AUT-34/M5B (AUT-34HDSD)
-1920x1080 |32.098Mb/Sec |8PSK |
-4:2:2
- HD
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Europe World Cup - Qualification - Promotion - Final 
+Red Devils said:
+EuropeWorld Cup - Qualification - Promotion - Final 
 Sweden - Poland
 Eutelsat 7A/7B/7C @ 7.0E
-11080  Horizontal  9875.175
-ID:SWE-29 SWE-POL (Mobilelinks)
-1920x1080 |22.011Mb/Sec |8PSK |
-4:2:2
+12508  Vertical  7199.99
+ID:SWE-054 Main (Mobilelinks)
+1920x1080 |16.047Mb/Sec |8PSK |
+4:2:0
  HD
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Europe World Cup - Qualification - Promotion - Final
-Bosnia & Herzegovina - Italy
-Eutelsat 16A @ 16.0E
-11104  Horizontal  9875.164
-ID: YSM-016 M3 FEED B MAIN (*unnamed-1*)
-1920x1080 |22.011Mb/Sec 8PSK |
-4:2:2 
-HD
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Europe World Cup - Qualification - Promotion - Final  
-Bosnia & Herzegovina - Italy
-Eutelsat 7A/7B/7C @ 7.0E
-10999  Horizontal  14400.262
-ID:YSM-012 M3 MAIN (DSNG)
-1920x1080 |32.098Mb/Sec |8PSK |
-4:2:2
- HD
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Friendly International
-Ireland - North Macedonia
-Eutelsat 7A/7B/7C @ 7.0E
-11092  Vertical  9875.175
-ID:uki1482 M17 Bkp (Digital Space)
-1920x1080 |22.011Mb/Sec |8PSK |
-4:2:2
- HD
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Friendly International
-Serbia - Saudi Arabia
-Eutelsat 7A/7B/7C @ 7.0E
-12632  Vertical  14399.935
-ID: ITA 415 Back up (Live Images)
-1920x1080 |32.095Mb/Sec |8PSK |
-4:2:2
- HD
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Friendly International
-Hungary vs. Greece
-Eutelsat 7B/7C @ 7.0°E
-11018 - V - 14400 
-|
-4:2:2
- | H.264
-1920*1080 - DVB-S2 - 8PSK
-ID: HUN-022 - 2 - M12
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Friendly International
-Ukraine vs. Albania
-Eutelsat 7B/7C @ 7.0°E
-11081 - V - 9875 
-|
-4:2:2
- | H.264
-1920*1080 - DVB-S2 - 8PSK
-ID: SNG E-385 BKUP MATCH 16
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Friendly International
-Slovakia vs. Romania
-Eutelsat 7A/7B/7C @ 7.0E
-11068  Vertical  9874.968
-ID:NTF M15 Main (ONmedia)
-1920x1080 |22.009Mb/Sec |8PSK |
-4:2:2
- HD
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Friendly International
-Serbia - Saudi Arabia
-now reported as Montenegro vs. Slovenia
-Eutelsat 7A/7B/7C @ 7.0E
-11000  Vertical  14400.262
-ID:YSM021 m M11 (*unnamed-1*)
-1920x1080 |32.098Mb/Sec |8PSK |
-4:2:2
- HD
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Friendly International
-San Marino - Andorra
-Eutelsat 7A/7B/7C @ 7.0E
-12653  Vertical  9875.175
-ID:ITA198 NTF M19 BCKP (Elpitel)
-1920x1080 |22.011Mb/Sec |8PSK |
-4:2:2 
-HD
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-11045 V 9875
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID:NOR-044 - MAIN
-Event: 
- Friendly International, Norway vs Switzerland
-CW: 31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-FIFA Series - Group Stage 
-Kazakhstan - Comoros
-Eutelsat 16A @ 16.0E
-11080  Horizontal  9874.817
-ID:KAZ008M    (KAZ008M   )
-1920x1080 |22.009Mb/Sec 8PSK |
-4:2:2 
-HD
-5F 2F 8E DC B7 19 74 6D #CW:
-31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
-AsiaSat 5 100.5E
-4008 H 7199
-8PSK 3/4 DVB-S2 4.2.0
-PMT PID: 2048, SID: 1 @ TBS ADHOC ENC 1 (Telstra Broadcast Services)
-CW: 2D BA BC A3 5A AB A7 AC
-Cameroon vs China
-Clean FEED
----FEED-SEPARATOR---
-AsiaSat 5 100.5E
-3867 H 7199
-8PSK 3/4 DVB-S2 4.2.0
-PMT PID: 2048, SID: 1 @ ENC-1 main (Service Provider)
-Cameroon vs China
-CW: 20 26 BA 00 BA 03 31 EE
+A7 95 87 67 9B 08 A1 55  #CW:
+AD 22 A1 70 3E 24 1B 7D
+Click to expand...
+Suède-Italie U21
 ---FEED-SEPARATOR---
 47W SES14 C 
 4008H7200
@@ -370,19 +202,6 @@ DVB-S2 4:2:0 8PSK
 ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
 ---FEED-SEPARATOR---
-16e
-11004 H 9873
-4:2:2
-ID: 
-YSM-016 M3 FEED B MAIN
-World Cup
- - Qualification - Promotion
-EUROPE: 
-Bosnia & Herzegovina
-Italy
-8F 16 3C 61 A8 61 27 B7  #CW: 
-31 F8 B6 DF AC 8F 03 3E
----FEED-SEPARATOR---
 Event: World Friendly International
 Teams : Hungary  
  Greece
@@ -440,6 +259,22 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 - DVB-S2 - 8PSK
 ID: UKI1866 Match7 BU
 CW: 31 F8 B6 DF AC 8F 03 3E
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3860 V 29998
+8PSK 3/4 DVB-S2 4.2.0
+PMT PID: 2048, SID: 12 @ Fi16_GNVE
+CW: C7 EA C8 79 2E B1 DB BA
+DR Congo v Jamaica
+---FEED-SEPARATOR---
+FIFA World Cup Qual, Inter-Confed. Playoffs, Final
+DR Congo vs Jamaica
+Eutelsat 7A/7B/7C @ 7.0°E
+11062 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.18 Mbit/s
+ID: Fi16_GNVE
+CW: C7 EA C8 79 2E B1 DB BA
 ---FEED-SEPARATOR---
 EuropeEuro U17 - Qualification - Round 2 - League A 
 Switzerland U17 -  Serbia U17
