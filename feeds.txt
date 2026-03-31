@@ -1,3 +1,18 @@
+Eutelsat 7A/7B/7C @ 7.0E
+12726  Vertical  7200.142
+ID:TKS.TRT.M22-A (TRT)
+1920x1080 |16.049Mb/Sec |8PSK |4:2:2 HD
+Turkish Volleyball - Champions League - Play Offs 
+- Quarter-finals | Ziraat Bankasi - Rzeszow
+CW: 4E 5B 23 CC 6D D4 3A 7B
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:11589 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: BOXING ENC 11
+International Friendly
+Haiti vs Iceland
+---FEED-SEPARATOR---
 Friendly International
 Spain-Egypt
 Eutelsat 7A/7B/7C @ 7.0E
@@ -199,11 +214,25 @@ PMT PID: 2048, SID: 1 @ ENC-1 main (Service Provider)
 Cameroon vs China
 CW: 20 26 BA 00 BA 03 31 EE
 ---FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0E
-11188  Horizontal  7200.131
-ID:E394 MAIN (OVERON)
-1920x1080 |16.049Mb/Sec |8PSK |4:2:0 HD
-CW: F2 B3 AB 50 CD E1 C4 72
+International Friendly
+Morocco vs Paraguay
+3.1E
+11665 H 7200
+DVB-S2 4:2:0 8PSK
+ID: E-412 MAR - PAR (Lens)
+Abo Saeid Satellite said:
+CW: 79 E1 37 91 FE 44 B3 F5
+Click to expand...
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12573 H 7200
+    Fi18_GNVE (EBUER)
+Friendly International
+Morocco - Paraguay
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD
+F4 E5 84 67 C1 72 C8 AC  
+CW: 79 E1 37 91 FE 44 B3 F5
 ---FEED-SEPARATOR---
 EuropeWorld Cup - Qualification - Promotion - Final 
 Sweden - Poland
@@ -342,6 +371,29 @@ Eutelsat 7B/7C @ 7.0°E
 ID: UKI1866 Match7 BU
 CW: 31 F8 B6 DF AC 8F 03 3E
 ---FEED-SEPARATOR---
+EuropeEuro U17 - Qualification - Round 2 - League A 
+Switzerland U17 -  Serbia U17
+Eutelsat 7A/7B/7C @ 7.0E
+12515  Horizontal  4938.27
+ID:YSM-015BU (YSM 015BU)
+1920x1080 |11.007Mb/Sec |8PSK |4:2:0 HD
+3C 72 98 CD 97 7F 18 3C  #CW:AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Europe Euro U21 - Qualification  
+Spain U21 - Kosovo U21
+Eutelsat 7A/7B/7C @ 7.0E
+12702  Vertical  9600.043
+ID: E357 ESP-KOSOV (ATM BROADCAST)
+1920x1080 |21.398Mb/Sec |8PSK |4:2:0 HD
+CW: 11 5A C1 2C 34 58 A1 2D
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11188  Horizontal  7200.131
+ID:E394 MAIN (OVERON)
+1920x1080 |16.049Mb/Sec |8PSK |4:2:0 HD
+U21 - Qualification  Greece U21 - Germany U21
+CW: F2 B3 AB 50 CD E1 C4 72
+---FEED-SEPARATOR---
 Dani Sat said:
 UEFA Nations League - Promotion/Regulation Play-Off (2nd Leg)
 Luxembourg vs. Malta
@@ -386,3 +438,27 @@ Europe Euro U17 - Qualification - Round 2 - League A
 Teams : Switzerland U17 
  Serbia U17
 CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11070 Horizontal 7198,431
+DVB-S2 - 4:2:0 - 8PSK
+ID: : ita315_Main
+Event: 
+ Euroleague, Virtus Bologna vs Paris
+CW: 77 13 C4 4E 64 58 25 E1
+---FEED-SEPARATOR---
+ABA League 2 - Play Offs - Quarter-finals 
+Zlatibor  -  TFT Skopje
+Eutelsat 7A/7B/7C @ 7.0E
+12521  Horizontal  4938.27
+ID:YSM-013M   (YSM-13M   )
+1920x1080 |11.007Mb/Sec |8PSK |4:2:0 HD
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+EuropeEurocup - Play Offs - Semi-finals 
+Besiktas - Bahcesehir Kol.
+Eutelsat 7A/7B/7C @ 7.0E
+12676  Vertical  7200.131
+ID:OB-09 A (ÃZKAN PROD.)
+1920x1080 |16.049Mb/Sec |8PSK |4:2:0 HD
+CW: 4E 5B 29 D2 6D D1 9A D8
