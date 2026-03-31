@@ -214,6 +214,15 @@ PMT PID: 2048, SID: 1 @ ENC-1 main (Service Provider)
 Cameroon vs China
 CW: 20 26 BA 00 BA 03 31 EE
 ---FEED-SEPARATOR---
+Friendly International
+Spain vs Egypt 
+Eutelsat 7A/7B/7C @ 7.0°E
+11161 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 18.62 Mbit/s
+ID: GVA_Fi05
+CW: 66 0C CA 3C 85 4D B0 82
+---FEED-SEPARATOR---
 International Friendly
 Morocco vs Paraguay
 3.1E
@@ -255,6 +264,17 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 - DVB-S2 - 8PSK
 ID: ROU038 MAIN
 CW: 52 9C 63 51 07 B2 2E E7
+---FEED-SEPARATOR---
+FIFA/UEFA World Cup 2026 Qualifiers Playoffs FINAL
+Kosovo vs Turkey
+3.1E
+10960 H 7500
+DVB-S2 4:2:0 QPSK
+ID: beIN SPORTS
+10969 H 7500
+DVB-S2 4:2:0 QPSK
+ID: Service-1 (Active later)
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
 Event : World Friendly International
 Teams : Netherlands 
@@ -394,19 +414,6 @@ ID:E394 MAIN (OVERON)
 U21 - Qualification  Greece U21 - Germany U21
 CW: F2 B3 AB 50 CD E1 C4 72
 ---FEED-SEPARATOR---
-Dani Sat said:
-UEFA Nations League - Promotion/Regulation Play-Off (2nd Leg)
-Luxembourg vs. Malta
-Click to expand...
-3.1E
-10960 H 7500
-DVB-S2 4:2:0 QPSK
-ID: beIN SPORTS
-10969 H 7500
-DVB-S2 4:2:0 QPSK
-ID: Service-1 (Active later)
-CW: AD 54 9E 9F 52 89 7B 56
----FEED-SEPARATOR---
 UEFA Nations League - Promotion/Regulation Play-Off (2nd Leg)
 Luxembourg vs. Malta
 Eutelsat 7B/7C @ 7.0°E
@@ -438,6 +445,29 @@ Europe Euro U17 - Qualification - Round 2 - League A
 Teams : Switzerland U17 
  Serbia U17
 CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12564  Horizontal  7200.12
+ID:F419_MAIN (SAT PROD)
+1920x1080 |16.049Mb/Sec |8PSK |4:2:0 HD
+Eurocup - Play Offs - Semi-finals JL Bourg - Turk Telekom
+CW: 31 03 CA FE BD 20 26 03
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+11167 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID:  NBA-BAL WORLD FEED
+Event:  
+Africa BAL, Al Ahly (Lby) vs Dar City (Tan)
+CW: C9 B1 E6 60 A7 D2 43 BC
+---FEED-SEPARATOR---
+Eutelsat 10A   ( 10.0E )
+11176 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: NBA-BAL AFRICA FEED
+Event:  
+Africa BAL, Al Ahly (Lby) vs Dar City (Tan)
+CW: 6F 3A 9C 45 1D 2B 85 CD
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11070 Horizontal 7198,431
