@@ -72,3 +72,13 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.17 Mbit/s
 ID: USSF USA vs Portugal
 CW: CE 27 DE D3 F2 26 12 2A
+---FEED-SEPARATOR---
+Eutelsat 7A/B ( 7.0E )
+10961 H 9872
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  CRO-025 M1 UWCL MAIN
+Event: 
+Champions League Women - Play Offs, Bayern Munich vs Manchester Utd
+CW: F8 A7 83 22 D1 65 AF E5
