@@ -1,4 +1,12 @@
 Eutelsat 7A/B   ( 7.0E )
+12686 H 7499
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA 671
+Event:  
+CEV Cup Women, Chieri '76 vs Galatasaray
+CW: CA BA 20 A4 26 10 4E 84
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12564 H 7199
 DVB-S2 - 4:2:0 - 8PSK
 ID: Studioline Main
@@ -136,6 +144,22 @@ DVB-S2 | 8PSK | 3/4
  | 25 FPS | 20.65 Mbit/s
 ID: UK1457 UWCL M2 Chelsea Main
 CW: 2F C5 6F 63 72 96 DA E2
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12574 H 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: E-229 Main
+Event:   
+Champions League - Play Offs, Tenerife vs Galatasaray
+CW: FE 86 DF 63 94 BB 85 D4
+---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+10829 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: LIGAU22 UCAMvsVALEN
+Event:  
+     Champions League - Play Offs, Unicaja vs Alba Berlin
+CW: BB 25 CA AA 30 AE 10 EE
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 12515 H 4937
