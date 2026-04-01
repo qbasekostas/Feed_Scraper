@@ -111,24 +111,16 @@ CW: F8 A7 83 22 D1 65 AF E5
 UEFA Champions League, Women, Quarterfinals
 Chelsea vs Arsenal
 Eutelsat 7A/7B/7C @ 7.0°E
-12687 V 7200
+12686 V 7200
 DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.28 Mbit/s
 ID: ENC 4
 CW: E8 DC 00 C4 AF 6A 90 A9
 ---FEED-SEPARATOR---
-Champions League Women - Play Offs, 
-Bayern Munich vs Manchester Utd
-Eutelsat 7A/7B/7C @ 7.0E
-12676  Vertical  7200.12
-ID: ENC 3 (SES)
-1920x1080 |16.049Mb/Sec |8PSK |4:2:0 HD
-FA 06 E1 C9 8B 3E 0B EE  #CW:6C CE 0F 49 8D 2D 2E E8
----FEED-SEPARATOR---
 UEFA Champions League, Women, Quarterfinals
 Bayern München vs Manchester United
 Eutelsat 7A/7B/7C @ 7.0°E
-12678 V 7200
+12676 V 7200
 DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.24 Mbit/s
 ID: ENC 3
@@ -144,6 +136,14 @@ DVB-S2 | 8PSK | 3/4
  | 25 FPS | 20.65 Mbit/s
 ID: UK1457 UWCL M2 Chelsea Main
 CW: 2F C5 6F 63 72 96 DA E2
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12515 H 4937
+DVB-S2 - 4:2:0 - 8PSK
+ID: Medialink CRO-024/2
+Event: 
+ AdmiralBet ABA League - Losers stage, Perspektiva Ilirija vs Split
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Hot Bird ( 13.0E )
 10847 Vertical 7198,51
