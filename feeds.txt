@@ -1,4 +1,21 @@
 Eutelsat 7A/B   ( 7.0E )
+12564 H 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: Studioline Main
+Event:  
+Challenge Cup, Milano vs Lindemans Aalst
+CW: 20 26 AA F0 BB 20 26 01
+---FEED-SEPARATOR---
+CEV Champions League
+Bogdanka LUK Lublin vs Projekt Warszawa
+Eutelsat 7B/7C @ 7.0E
+12592 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: POL 058_T2
+CW: 07 BB 01 C3 AE 26 CF A3
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
 12592 V 7199
 DVB-S2 - 4:2:0 - 8PSK
 ID: POL 058_T1
@@ -128,6 +145,22 @@ DVB-S2 | 8PSK | 3/4
 ID: UK1457 UWCL M2 Chelsea Main
 CW: 2F C5 6F 63 72 96 DA E2
 ---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+10847 Vertical 7198,51
+DVB-S2 - 4:2:0 - 8PSK
+ID:  OTE 1
+Event:  
+     Champions League - Play Offs, AEK Athens vs Joventut Badalona
+CW: EE 69 EE 45 85 CE 42 95
+---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+10838 Vertical 7198,625
+DVB-S2 - 4:2:0 - 8PSK
+ID:   LTU-005 main
+Event:  
+     Champions League - Play Offs, Rytas vs Nymburk
+CW: CF 77 CF 15 56 CC 39 5B
+---FEED-SEPARATOR---
 Africa BAL 
 Petró De Luanda vs Nairobi City Thunder
 .
@@ -143,3 +176,12 @@ CW: 2A 7E 1C C4 9D 4B 36 1E
 DVB-S2 - 4:2:0 - 8PSK
 ID: NBA-BAL AFRICA FEED
 CW: F4 C8 A7 63 B1 D2 63 E6
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11070 Horizontal 7198,431
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG A EU
+Event: 
+ BASKET: 
+Euroleague, Bayern vs Fenerbahce
+CW: AD FB FE A6 85 72 2C 23
