@@ -11,6 +11,22 @@ NEW TP
 : 7E 11607 V 7200
 Same ID & FTA
 ---FEED-SEPARATOR---
+joshp79 said:
+			AsiaSat 5 100.5E
+3860 V 30000
+ID: Fi17GNVE
+Iraq vs Bolivia
+Click to expand...
+CW: CB 86 08 59 56 FD 3B 8E
+---FEED-SEPARATOR---
+FIFA World Cup 2026 Playoffs FINAL
+Iraq vs Bolivia
+7E
+12646 V 7200
+DVB-S2 4:2:0 8PSK
+ID: Fi17GNVE
+CW: CB 86 08 59 56 FD 3B 8E
+---FEED-SEPARATOR---
 Friendly International
 Brazil vs Croatia
 10.0E
@@ -38,6 +54,15 @@ Eutelsat 7B/7C @ 7.0°E
 ID: Argentina vs Mauritania
 NEW 
 CW: 8A 9B 1C 41 2D 3E 4F BA
+---FEED-SEPARATOR---
+Friendly International
+Argentina vs. Zambia
+Eutelsat 7A/7B/7C @ 7.0E
+11513  Vertical  7500.164
+ID:enfusion 158 (IKOMG)
+1920x1080 |18.593Mb/Sec |8PSK |4:2:0 HD
+BB 5A 1C BB C0 FA 88 52  #CW:
+9F 8E 7D AA 6C 5B 4A 11
 ---FEED-SEPARATOR---
 Friendly International
 USA vs Portuga
