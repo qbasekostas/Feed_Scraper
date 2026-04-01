@@ -1,3 +1,11 @@
+Eutelsat 7A/B   ( 7.0E )
+12592 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL 058_T1
+Event:  
+Champions League - Play Offs, Lublin vs Projekt Warszawa
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 AZIZ AZIZ said:
 			𝑰𝒏𝒕𝒆𝒓𝒏𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚 𝑴𝒂𝒕𝒄𝒉
 𝑪𝒂𝒏𝒂𝒅𝒂 𝒗𝒔 𝑻𝒖𝒏𝒊𝒔𝒊𝒆
@@ -86,6 +94,32 @@ CW: F8 A7 83 22 D1 65 AF E5
 UEFA Champions League, Women, Quarterfinals
 Chelsea vs Arsenal
 Eutelsat 7A/7B/7C @ 7.0°E
+12687 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.28 Mbit/s
+ID: ENC 4
+CW: E8 DC 00 C4 AF 6A 90 A9
+---FEED-SEPARATOR---
+Champions League Women - Play Offs, 
+Bayern Munich vs Manchester Utd
+Eutelsat 7A/7B/7C @ 7.0E
+12676  Vertical  7200.12
+ID: ENC 3 (SES)
+1920x1080 |16.049Mb/Sec |8PSK |4:2:0 HD
+FA 06 E1 C9 8B 3E 0B EE  #CW:6C CE 0F 49 8D 2D 2E E8
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Quarterfinals
+Bayern München vs Manchester United
+Eutelsat 7A/7B/7C @ 7.0°E
+12678 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 15.24 Mbit/s
+ID: ENC 3
+CW: 6C CE 0F 49 8D 2D 2E E8
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Quarterfinals
+Chelsea vs Arsenal
+Eutelsat 7A/7B/7C @ 7.0°E
 10973 H 9875
 DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 
@@ -93,3 +127,19 @@ DVB-S2 | 8PSK | 3/4
  | 25 FPS | 20.65 Mbit/s
 ID: UK1457 UWCL M2 Chelsea Main
 CW: 2F C5 6F 63 72 96 DA E2
+---FEED-SEPARATOR---
+Africa BAL 
+Petró De Luanda vs Nairobi City Thunder
+.
+Johannesburg Giants vs Tigers
+10.0E 
+11167 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: NBA-BAL WORLD FEED
+CW: 2A 7E 1C C4 9D 4B 36 1E
+---
+10.0E 
+11176 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: NBA-BAL AFRICA FEED
+CW: F4 C8 A7 63 B1 D2 63 E6
