@@ -31,6 +31,14 @@ Event:
 Champions League - Play Offs, Lublin vs Projekt Warszawa
 CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+Astra 2E/2F/2G  ( 28.2E )
+12632 V 7118
+DVB-S2 - 4:2:0 - 8PSK
+ID: Cloudbass
+Event: 
+ SWPL 1 Women - Championship Group, Glasgow City vs Hibernian
+FTA / CLEAR
+---FEED-SEPARATOR---
 AZIZ AZIZ said:
 			𝑰𝒏𝒕𝒆𝒓𝒏𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑭𝒓𝒊𝒆𝒏𝒅𝒍𝒚 𝑴𝒂𝒕𝒄𝒉
 𝑪𝒂𝒏𝒂𝒅𝒂 𝒗𝒔 𝑻𝒖𝒏𝒊𝒔𝒊𝒆
