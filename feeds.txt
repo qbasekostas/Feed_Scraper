@@ -82,3 +82,14 @@ ID:  CRO-025 M1 UWCL MAIN
 Event: 
 Champions League Women - Play Offs, Bayern Munich vs Manchester Utd
 CW: F8 A7 83 22 D1 65 AF E5
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Quarterfinals
+Chelsea vs Arsenal
+Eutelsat 7A/7B/7C @ 7.0°E
+10973 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 
+4:2:2
+ | 25 FPS | 20.65 Mbit/s
+ID: UK1457 UWCL M2 Chelsea Main
+CW: 2F C5 6F 63 72 96 DA E2
