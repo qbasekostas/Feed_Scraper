@@ -1,0 +1,10 @@
+Eutelsat 7A/B ( 7.0E )
+10961 H 9872
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:   E380 Feed 1
+Event: 
+Champions League Women - Play Offs, Barcelona vs Real Madrid
+CW:  
+    E8 47 87 B6 90 F9 41 CA    
