@@ -1,3 +1,13 @@
+28.2E
+12691 V 7500 
+4.2.0
+DVBS-2 16APSK
+ID: EDS807HD.1
+UEFA Womens Champions League - Quarter Final (2nd Leg)
+Barcelona
+ v 
+Real Madrid
+---FEED-SEPARATOR---
 Eutelsat 7A/B ( 7.0E )
 10974 H 9872
 DVB-S2 - 
