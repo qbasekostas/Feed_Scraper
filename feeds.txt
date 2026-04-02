@@ -1,4 +1,14 @@
 Eutelsat 7A/B ( 7.0E )
+10974 H 9872
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:    F503/6/LYON_WOLFSBURG/SOS
+Event: 
+Champions League Women - Play Offs, Lyon vs Wolfsburg
+CW: 78 B7 8D BC B4 AA 5E BC
+---FEED-SEPARATOR---
+Eutelsat 7A/B ( 7.0E )
 10961 H 9872
 DVB-S2 - 
 4:2:2
@@ -8,3 +18,12 @@ Event:
 Champions League Women - Play Offs, Barcelona vs Real Madrid
 CW:  
     E8 47 87 B6 90 F9 41 CA    
+---FEED-SEPARATOR---
+FIBA 3x3 Asia Cup 2026
+Tonga – Macau, China 
+Asiasat 5 (100.5°E) C BAND
+4146 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: FIBA 3X3
+CW: CA A1 C2 2D 2B 51 BA 36
