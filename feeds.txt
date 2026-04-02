@@ -18,6 +18,24 @@ quarter-final second leg: Aluron CMC Warta Zawiercie - Cucine Lube Civitanova
 A3 EB 90 A2 7D 8F 36 C0  
 CW: 20 24 AB EF CD 13 11 F1
 ---FEED-SEPARATOR---
+SerbiaSuperliga Women - Play Offs - Quarter-finals 
+Ub W - Radnicki Beograd W
+Eutelsat 7A/7B/7C @ 7.0E
+12514 Horizontal 4937.777 3/4
+ID:YSM-016 MAIN (*unnamed-1*)
+1920x1080 | 11.005 Mb/Sec | 8PSK | 4:2:0 DVB-S2
+SNR: 11.4 dB
+3C 72 98 CD 97 7F 18 3C  #CW:AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+CEV Cup, Semifinals
+ACH Volley Ljubljana vs Gas Sales Bluenergy Piacenza
+Eutelsat 7B/7C @ 7.0E
+12510 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:UKI-1462 - BACKUP
+CW: EE 76 FA 5E D3 FB DD AB
+---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3975 V 7119
 DVB-S2 - 1080P - 8PSK
