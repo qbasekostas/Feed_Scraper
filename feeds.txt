@@ -8,6 +8,25 @@ Event:
 Turkish Sultanlar Ligi Women - Play Offs, Fenerbahce vs Zeren Spor
 CW: 38 54 00 8C 00 38 54 8C
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+12592 V 7200
+  Polsat Sport (POLSAT)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+Men's volleyball: Champions League 
+quarter-final second leg: Aluron CMC Warta Zawiercie - Cucine Lube Civitanova
+A3 EB 90 A2 7D 8F 36 C0  
+CW: 20 24 AB EF CD 13 11 F1
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3975 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_22_SDI (SES)
+English Football League Two -
+Cambridge United F.C vs Swindon Town F.C.
+CW: B3 99 D2 1E 01 D3 22 F6
+---FEED-SEPARATOR---
 28.2E
 12691 V 7500 
 4.2.0
@@ -17,6 +36,16 @@ UEFA Womens Champions League - Quarter Final (2nd Leg)
 Barcelona
  v 
 Real Madrid
+---FEED-SEPARATOR---
+Champions League Women,Playoff, 
+Quarterfinal,2nd Match,(1st Match Result 0:1)
+Lyon (Fra) W - VfL Wolfsburg (Ger) W (21:00)
+Eutelsat 7A/7B/7C @ 7.0E
+12676 Vertical 7200.12 3/4
+ID:ENC 3 (SES)
+1920x1080 | 16.049 Mb/Sec | 8PSK | 4:2:0 DVB-S2
+SNR: 10.0 dB
+CW: DE 77 F3 48 63 A5 F6 FE
 ---FEED-SEPARATOR---
 Champions League Women - Play Offs, 
 Barcelona vs Real Madrid
@@ -50,6 +79,15 @@ Champions League Women - Play Offs, Barcelona vs Real Madrid
 CW:  
     E8 47 87 B6 90 F9 41 CA    
 ---FEED-SEPARATOR---
+Euroleague, Round 35
+Paris Basketball vs EA7 Emporio Armani Milano
+Eutelsat 7A/7B/7C @ 7.0°E
+11062 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 4.66 Mbit/s
+ID: F419_MAIN
+CW: 97 C3 97 F1 9F DB 54 CE
+---FEED-SEPARATOR---
 Euroleague - Round 35 
 Dubai - Monaco
 Eutelsat 7A/7B/7C @ 7.0E
@@ -61,6 +99,14 @@ ID:BUL007 EL M4 Main (TV1 )
 SNR: 10.7 dB
 CW: B8 36 45 33 1F 32 E8 39
 ---FEED-SEPARATOR---
+Hapoel vs Panath
+Eutelsat 7A/7B/7C @ 7.0E
+11106 Horizontal 7199.85 3/4
+ID:Hapoel vs.Panath BUL006 Main (TV1)
+1920x1080 | 16.047 Mb/Sec | 8PSK | 4:2:0 DVB-S2
+SNR: 11.1 dB
+CW: EB E1 86 52 8B A7 21 53
+---FEED-SEPARATOR---
 FIBA 3x3 Asia Cup 2026
 Tonga – Macau, China 
 Asiasat 5 (100.5°E) C BAND
@@ -69,3 +115,12 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: FIBA 3X3
 CW: CA A1 C2 2D 2B 51 BA 36
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11070 H 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG A EU
+Event: 
+BASKET: 
+Euroleague, Zalgiris Kaunas vs Barcelona
+CW: 9D 99 7D B3 9A CB BF 24
