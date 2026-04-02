@@ -1,3 +1,13 @@
+Turksat 3A/4A   ( 42.0E )
+11469 V 6798
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 123 A
+Event:  
+Turkish Sultanlar Ligi Women - Play Offs, Fenerbahce vs Zeren Spor
+CW: 38 54 00 8C 00 38 54 8C
+---FEED-SEPARATOR---
 28.2E
 12691 V 7500 
 4.2.0
