@@ -87,6 +87,14 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI (SES)
 CW: FA AD 36 DD 37 C3 82 7C
 ---FEED-SEPARATOR---
+Euroleague
+ASVEL vs Olympiacos
+13.0°E
+12436 H 27500
+4.2.0 HD
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
 Meridianbet KLS
 .Serbia
 Sloboda vs BKK Radnički
@@ -95,3 +103,11 @@ Sloboda vs BKK Radnički
 4 2.0 HD
 ID: YSM-013M
 CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eurocup - Play Offs - Semi-finals
+Besiktas - Bahcesehir Kol.
+Eutelsat 7A/7B/7C @ 7.0E
+12676 V 7200
+ID:TUR-M25-A
+|4:2:0 HD
+CW: 4E 5B 29 D2 6D D1 9A D8
