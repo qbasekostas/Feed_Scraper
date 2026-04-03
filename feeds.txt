@@ -19,6 +19,18 @@ FTA Video
 ENC Audio
 ---FEED-SEPARATOR---
 HBO said:
+			New CW : 
+CB 24 BC AB 32 69 9A 35
+Coventry City vs Derby County
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0°E
+11014 V 7120
+DVB-S2 | 8PSK | 2/3
+1920x1080 | H.264/AVC Video | 4:2:0 | 25 FPS | 12.94 Mbit/s
+ID: EFL - Coventry v Derby
+CW: CB 24 BC AB 32 69 9A 35
+---FEED-SEPARATOR---
+HBO said:
 			AsiaSat 5 - 100.5 E - CBand
 TP : 3966 V 7120
 ID : BT_SES_24_SDI (SES)
