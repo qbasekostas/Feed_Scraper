@@ -1,0 +1,9 @@
+Event :Argentina Liga Profesional - Apertura - Round 13
+Teams : San Lorenzo  
+ Estudiantes L.P.
+Eutelsat 7A/7B/7C @ 7.0°E
+ ( KU-BAND )
+11523 V 7200
+ AFD (iKOMG)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 26 41 AB 12 B1 C4 1D 92
