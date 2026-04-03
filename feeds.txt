@@ -7,6 +7,17 @@ ID: AFD
 Event: Argentina Liga Profesional - Talleres Vs Boca Juniors
 CW: 26 41 AB 12 B1 C4 1D 92
 ---FEED-SEPARATOR---
+1W
+11481 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: 
+UKI-1646 IMG Southampton v Arsenal
+English FA Cup - Quarter Final
+Southampton v Arsenal
+FTA Video 
+ENC Audio
+---FEED-SEPARATOR---
 English Championship - Week 40
 Leicester City vs. Preston N.E.
 Eutelsat 7B/7C @ 7.0°E
