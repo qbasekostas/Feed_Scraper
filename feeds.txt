@@ -18,6 +18,16 @@ Southampton v Arsenal
 FTA Video 
 ENC Audio
 ---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+ID : BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+Click to expand...
+New CW : 
+CB 24 BC AB 32 69 9A 35
+Coventry City vs Derby County
+---FEED-SEPARATOR---
 English Championship - Week 40
 Leicester City vs. Preston N.E.
 Eutelsat 7B/7C @ 7.0°E
