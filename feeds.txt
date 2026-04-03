@@ -104,6 +104,21 @@ Sloboda vs BKK Radnički
 ID: YSM-013M
 CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
+Africa BAL
+Al Ahly Benghazi vs Nairobi City Thunder
+Dar City vs Petró De Luanda
+10.0E
+11167 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: NBA-BAL WORLD FEED
+CW: 8B 1D 6F 17 3A 7C 92 48
+---
+10.0E
+11176 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: NBA-BAL AFRICA FEED
+CW: D2 A7 C9 42 B4 E1 63 F8
+---FEED-SEPARATOR---
 Eurocup - Play Offs - Semi-finals
 Besiktas - Bahcesehir Kol.
 Eutelsat 7A/7B/7C @ 7.0E
