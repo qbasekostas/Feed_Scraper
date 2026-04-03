@@ -1,0 +1,8 @@
+7°E KU
+11523 V 7500
+DVB-S2|1080HD
+4.2.0
+|H264
+ID: AFD
+Event: Argentina Liga Profesional - Talleres Vs Boca Juniors
+CW: 26 41 AB 12 B1 C4 1D 92
