@@ -6,3 +6,13 @@ DVB-S2|1080HD
 ID: AFD
 Event: Argentina Liga Profesional - Talleres Vs Boca Juniors
 CW: 26 41 AB 12 B1 C4 1D 92
+---FEED-SEPARATOR---
+28.2E
+12703 V 7200 
+4:2:0
+DVBS2 8PSK
+ID UKI-1493 ITV 
+Middlesbrough
+CW: A2 14 CA 80 B7 53 A4 AE
+English Championship - Week 40
+Middlesbrough v Millwall
