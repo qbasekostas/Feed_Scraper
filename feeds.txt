@@ -7,6 +7,46 @@ ID: AFD
 Event: Argentina Liga Profesional - Talleres Vs Boca Juniors
 CW: 26 41 AB 12 B1 C4 1D 92
 ---FEED-SEPARATOR---
+English Championship - Week 40
+Leicester City vs. Preston N.E.
+Eutelsat 7B/7C @ 7.0°E
+10996 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: PITCH EFL - Leicester v Preston
+HBO said:
+CW: AF 44 7A 6D 12 41 61 B4
+Click to expand...
+---FEED-SEPARATOR---
+English Championship - Week 40
+Oxford United vs. Hull City
+Eutelsat 7B/7C @ 7.0°E
+11005 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: PITCH EFL - Oxford Utd v Hull
+HBO said:
+CW: 25 69 0A 98 27 27 33 81
+Click to expand...
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+ID : BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 25 69 0A 98 27 27 33 81
+Oxford vs Hull City
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+ID : BT_SES_20_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: AF 44 7A 6D 12 41 61 B4
+Leicester vs Preston
+---FEED-SEPARATOR---
 English Championship
 Middlesbrough vs Millwall
 Eutelsat 7A/B ( 7.0E )
