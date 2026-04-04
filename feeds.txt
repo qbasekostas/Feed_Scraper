@@ -7,3 +7,27 @@ Eutelsat 7A/7B/7C @ 7.0°E
  AFD (iKOMG)
 MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: 26 41 AB 12 B1 C4 1D 92
+---FEED-SEPARATOR---
+English FA Cup - Quarter Final
+Manchester City vs. Liverpool
+Intelsat 10-02 @ 1.0°W
+11485 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: BA ED AF 56 BA 00 0E C8
+---FEED-SEPARATOR---
+Albahraniy said:
+			FIBA 3x3 Asia Cup 2026
+Tonga – Macau, China
+Asiasat 5 (100.5°E) C BAND
+4146 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: FIBA 3X3
+CW: CA A1 C2 2D 2B 51 BA 36
+Click to expand...
+NEW TP 
+4164 H 7200
