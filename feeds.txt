@@ -8,6 +8,17 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: 26 41 AB 12 B1 C4 1D 92
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C ( 7.0E )
+12600 V 7200
+DVB-S2 - 
+4:2:2
+- 8PSK
+ID: POL 068 CH2
+Event:
+ Volleyball
+Liga Polska Women - Budowlani Łódź vs Uni Opole
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 English EFL Cup - Highlights
 Eutelsat 7A/B ( 7.0E )
 11061 H 7119
