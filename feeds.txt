@@ -47,6 +47,15 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: BA ED AF 56 BA 00 0E C8
 ---FEED-SEPARATOR---
+England FA Cup
+Manchester City vs Liverpool
+Eutelsat 7B/7C @ 7.0E
+10995 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:FA Cup - Multilateral Post Match Feed (NEP Connect)
+CW: 12 34 87 CD 65 AB CD DD
+---FEED-SEPARATOR---
 willyzone said:
 			7E 11101 V 14240 Man City v Liverpool
 Biss keys?
@@ -74,6 +83,29 @@ ID: beIN SPORTS
 10969 H 7500(later)
 ID: Service-1
 CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 25
+Fenerbahçe Beko vs Yukatel Merkezefendi Belediyesi
+Hot Bird 13.0E
+10828 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  TUR 112 MAIN
+CW: F2 E7 EA C3 96 BC 5F B1
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10° E
+Fréq:11175 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: NBA-BAL AFRICA FEED
+Africa BAL
+CW: 7D 4A 1B E2 3C 9F 62 3D
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10° E
+Fréq:11168 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: NBA-BAL WORLD FEED
+Africa BAL
+CW: 1C 9A 3F F5 6B 7D 28 10
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10832 V 7500
