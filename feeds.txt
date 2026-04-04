@@ -19,6 +19,17 @@ Event:
 Liga Polska Women - Budowlani Łódź vs Uni Opole
 CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+English FA Cup - Quarter Final
+Southampton vs. Arsenal
+Eutelsat 7B/7C @ 7.0°E
+11000 - V - 14240 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Southampton v Arsenal
+FTA
+---FEED-SEPARATOR---
 English EFL Cup - Highlights
 Eutelsat 7A/B ( 7.0E )
 11061 H 7119
@@ -46,6 +57,13 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: BA ED AF 56 BA 00 0E C8
+---FEED-SEPARATOR---
+8.0°W
+12525 V 7200
+4:2:0
+ID: BBC FAC QF
+CW: BC 11 02 CF CB AA 69 DE
+FA Cup
 ---FEED-SEPARATOR---
 English FA Cup - Quarter Final
 Southampton vs. Arsenal
