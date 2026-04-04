@@ -154,6 +154,14 @@ Liga Femenina Women - Round 26
 Araski - Zaragoza (W)
 ---FEED-SEPARATOR---
 Spain Liga ACB, Round 25
+Gran Canaria vs  Recoletas Salud Burgos
+30.0W
+11618 V 9600
+4.2.0 HD
+ID: E-400 02
+CW: CC A2 22 90 AA BA BA 1E
+---FEED-SEPARATOR---
+Spain Liga ACB, Round 25
 Joventut Badalona vs UCAM Murcia
 Eutelsat 7B/7C @ 7.0E
 11107 H 7200
