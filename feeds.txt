@@ -47,6 +47,17 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: BA ED AF 56 BA 00 0E C8
 ---FEED-SEPARATOR---
+English FA Cup - Quarter Final
+Southampton vs. Arsenal
+Intelsat 10-02 @ 1.0°W
+11499 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UKI-1646 IMG Southampton v Arsenal
+CW: 03 04 20 27 26 AA BB 8B
+---FEED-SEPARATOR---
 archiesat said:
 			1W
 10970 V 15000 
