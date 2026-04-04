@@ -153,6 +153,15 @@ ID: No Name
 Liga Femenina Women - Round 26
 Araski - Zaragoza (W)
 ---FEED-SEPARATOR---
+Spain Liga ACB, Round 25
+Joventut Badalona vs UCAM Murcia
+Eutelsat 7B/7C @ 7.0E
+11107 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Fi01 ACB
+CW: CF 53 61 83 90 79 B1 BA
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10832 V 7500
 DVB-S2 - 
