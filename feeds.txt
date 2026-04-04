@@ -99,6 +99,16 @@ ID: beIN SPORTS
 ID: Service-1
 CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10832 V 7500
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR161 Main
+Event: 
+Turkey SuperLig - Tofas vs Trabzonspor
+CW: 77 70 63 4A 15 C9 35 13
+---FEED-SEPARATOR---
 Portugal LBP, Round 19
 Galitos Basquetebol vs SL Benfica 
 Eutelsat 7B/7C @ 7.0E
