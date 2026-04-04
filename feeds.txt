@@ -28,6 +28,14 @@ DVB-S2 -
 ID: Pitch EFL- Highlights
 CW: : 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+EFL SHOW 35
+Asiasat 5 (100.5°E) C BAND
+3966 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  BT_SES_22_SDI (SES)
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
 English FA Cup - Quarter Final
 Manchester City vs. Liverpool
 Intelsat 10-02 @ 1.0°W
@@ -38,6 +46,17 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: BA ED AF 56 BA 00 0E C8
+---FEED-SEPARATOR---
+English FA Cup 
+- Quarter Final
+Manchester City vs Liverpool
+3.1E
+10959 H 7500
+4.2.0 HD
+ID: beIN SPORTS
+10969 H 7500(later)
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
 Albahraniy said:
 			FIBA 3x3 Asia Cup 2026
