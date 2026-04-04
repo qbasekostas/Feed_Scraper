@@ -47,6 +47,23 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: BA ED AF 56 BA 00 0E C8
 ---FEED-SEPARATOR---
+archiesat said:
+			1W
+10970 V 15000 
+4.2.2
+DVBS-2 8PSK
+ID: 
+UKI1957 Main
+CW: 84 57 72 4D 63 03 EB 51
+English FA Cup - Quarter Final
+Southampton v Arsenal
+Click to expand...
++
+10987 V 15000 
+4.2.2
+ID: 
+UKI1957 B/U (*unnamed-1*)
+---FEED-SEPARATOR---
 1W
 10970 V 15000 
 4.2.2
