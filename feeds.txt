@@ -127,6 +127,14 @@ ID: beIN SPORTS
 ID: Service-1
 CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
+Hispasat 30,0°W
+11475 H 7200
+DVB-S2 8PSK FEC 3/4
+HD (1920*1080) 4:2:0
+ID: No Name
+Liga Femenina Women - Round 26
+Araski - Zaragoza (W)
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10832 V 7500
 DVB-S2 - 
