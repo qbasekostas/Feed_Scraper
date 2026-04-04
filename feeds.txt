@@ -47,6 +47,23 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: BA ED AF 56 BA 00 0E C8
 ---FEED-SEPARATOR---
+willyzone said:
+			7E 11101 V 14240 Man City v Liverpool
+Biss keys?
+Click to expand...
+BISS2 CAID 2610​
+---FEED-SEPARATOR---
+English FA Cup - Quarter Final
+Chelsea vs. Port Vale
+Intelsat 10-02 @ 1.0°W
+11085 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 6A 2C B5 4B C0 D8 62 FA
+---FEED-SEPARATOR---
 English FA Cup 
 - Quarter Final
 Manchester City vs Liverpool
