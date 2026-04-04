@@ -47,6 +47,27 @@ Intelsat 10-02 @ 1.0°W
 ID: Unname
 CW: BA ED AF 56 BA 00 0E C8
 ---FEED-SEPARATOR---
+1W
+10970 V 15000 
+4.2.2
+DVBS-2 8PSK
+ID: 
+UKI1957 Main
+CW: 84 57 72 4D 63 03 EB 51
+English FA Cup - Quarter Final
+Southampton v Arsenal
+---FEED-SEPARATOR---
+English FA Cup - Quarter Final
+Chelsea vs. Port Vale
+Intelsat 10-02 @ 1.0°W
+11673 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: FA Cup Chelsea v Port Vale
+CW: AA 23 44 11 AB BB 1A 80
+---FEED-SEPARATOR---
 England FA Cup
 Manchester City vs Liverpool
 Eutelsat 7B/7C @ 7.0E
@@ -55,12 +76,6 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:FA Cup - Multilateral Post Match Feed (NEP Connect)
 CW: 12 34 87 CD 65 AB CD DD
----FEED-SEPARATOR---
-willyzone said:
-			7E 11101 V 14240 Man City v Liverpool
-Biss keys?
-Click to expand...
-BISS2 CAID 2610​
 ---FEED-SEPARATOR---
 English FA Cup - Quarter Final
 Chelsea vs. Port Vale
@@ -83,6 +98,15 @@ ID: beIN SPORTS
 10969 H 7500(later)
 ID: Service-1
 CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+Portugal LBP, Round 19
+Galitos Basquetebol vs SL Benfica 
+Eutelsat 7B/7C @ 7.0E
+12646 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: E-289 (Mediapro Portugal)
+CW: E0 0A AD 97 7C 88 8F 93
 ---FEED-SEPARATOR---
 Turkish Basketball Super League, Round 25
 Fenerbahçe Beko vs Yukatel Merkezefendi Belediyesi
