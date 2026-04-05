@@ -43,6 +43,16 @@ ID:   Pitch Quarter FInals Arsenal v
 CW: 12 34 DD 23 EE 05 04 F7
 ---FEED-SEPARATOR---
 1W
+11495 V 15000 
+4.2.2
+DVBS-2 8PSK
+ID: 
+No name
+CW: 66 72 38 10 92 FB 24 B1
+English FA Cup - Quarter Final
+West Ham United v Leeds United
+---FEED-SEPARATOR---
+1W
 11088 V 7200 
 4.2.0
 DVBS-2 8PSK
@@ -74,6 +84,17 @@ CW: 3E 7B 2A E3 6C 1D 94 1D
 ID: Encoder 2
 CW: 2B 44 5D CC C5 9E DB 3E
 Italian Basket LBA
+---FEED-SEPARATOR---
+Greece, Super League Play Offs - Day 1
+PAOK vs. Panathinaikos
+Hot Bird 13F/13G @ 13.0°E
+10838  - V - 7200 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: PAOK VS PAO A
+CW: 74 39 01 AE DE 36 43 57
 ---FEED-SEPARATOR---
 Levadiakos - Aris
 39e
