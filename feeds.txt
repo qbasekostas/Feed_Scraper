@@ -43,6 +43,12 @@ CW: 6B 84 D5 C4 35 CC 3E 3F
 English Womens FA Cup - Quarter Final
 Arsenal v Brighton H.A.
 ---FEED-SEPARATOR---
+Levadiakos - Aris
+39e
+12660 V 7200
+ID: E394 BACK
+CW: D7 1E AA 9F 88 9C 7F A3
+---FEED-SEPARATOR---
 Serbia Mozzart Bet Prva Liga, Round 30
 FK Zemun vs FK FAP Priboj 
 Eutelsat 7B/7C @ 7.0E
