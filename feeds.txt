@@ -86,6 +86,14 @@ CW: 6B 84 D5 C4 35 CC 3E 3F
 English Womens FA Cup - Quarter Final
 Arsenal v Brighton H.A.
 ---FEED-SEPARATOR---
+Italy Lega A Basket LBA
+V. Bologna VS Venezia
+10.0E
+11255 H 7200
+4.2.2 HD
+ID: Encoder 3
+CW: 5F CD E3 0F A6 96 35 71
+---FEED-SEPARATOR---
 Event:Europe AdmiralBet ABA League - Winners stage - Round 6
 Teams : Cluj-Napoca 
  KK Bosna
