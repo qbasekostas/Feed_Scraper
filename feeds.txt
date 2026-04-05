@@ -1,3 +1,10 @@
+Astra 28.2E
+12667 H 7120 S2 4:2:0
+ID: Cloudbass 
+Scottish Challenge Cup - FINAL
+Raith Rovers vs. Inverness CT 
+FTA
+---FEED-SEPARATOR---
 Women's FA Cup, Quarterfinals
 Charlton v Liverpool
 Eutelsat 7A/7B/7C @ 7.0E
@@ -6,6 +13,18 @@ ID: Pitch Charlton v Liverpool (NEP Connect)
 1920x1080 | 14.105 Mb/Sec | 8PSK | 4:2:0 DVB-S2
 SNR: 9.5 dB
 CW: FTA
+---FEED-SEPARATOR---
+MRUHD said:
+			Scottish Premiership
+Livingston FC vs Heart of Midlothian FC
+13E
+10847 V 7200
+ID: GCUK Enc2
+CW: CD 55 BC DE E1 56 12 49
+Click to expand...
+Now
+Scottish Premiership
+Dundee v Celtic
 ---FEED-SEPARATOR---
 Scottish Premiership
 Livingston FC vs Heart of Midlothian FC
@@ -42,6 +61,19 @@ No name
 CW: 6B 84 D5 C4 35 CC 3E 3F
 English Womens FA Cup - Quarter Final
 Arsenal v Brighton H.A.
+---FEED-SEPARATOR---
+10.0°E
+11175 V 7200
+4:2:0
+ID: NBA-BAL AFRICA FEED
+CW: 3E 7B 2A E3 6C 1D 94 1D
+---FEED-SEPARATOR---
+10.0°E
+11246 H 7200
+4:2:2
+ID: Encoder 2
+CW: 2B 44 5D CC C5 9E DB 3E
+Italian Basket LBA
 ---FEED-SEPARATOR---
 Levadiakos - Aris
 39e
