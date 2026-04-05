@@ -72,6 +72,31 @@ CW: 6B 84 D5 C4 35 CC 3E 3F
 English Womens FA Cup - Quarter Final
 Arsenal v Brighton H.A.
 ---FEED-SEPARATOR---
+Eutelsat 10B @ 10° E
+Fréq:11168 - V - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: NBA-BAL WORLD FEED
+Africa BAL
+CW: A8 C3 D1 3C F7 B2 96 3F
+---FEED-SEPARATOR---
+ABA Liga-Championship Round
+Buducnost-Partizan Mozzart
+Eutelsat 7A/7B/7C @ 7.0E
+12550 H 4936
+ID: MNE-001 main
+|4:2:0 HD
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Spain Liga ACB
+Basket Zaragoza vs Barcelona
+Eutelsat 7A/B ( 7.0E )
+11106 H 7200
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi01 ACB
+CW: : A1 8D E2 10 48 D5 8B A8
+---FEED-SEPARATOR---
 10.0°E
 11175 V 7200
 4:2:0
