@@ -28,6 +28,16 @@ ID: Pitch Charlton v Liverpool (NEP Connect)
 SNR: 9.5 dB
 CW: FTA
 ---FEED-SEPARATOR---
+13.0E
+10830 V 7200
+4.2.0 HD DVB-S2 -  8PSK
+ID: GCUK Enc 9
+Emirates FA CUP DRAW 
+Chelsea vs Leeds United 
+Manchester City vs Southampton
+new cw: AB CD EE 66 FF 06 04 09
+coulr screen 
+---FEED-SEPARATOR---
 MRUHD said:
 			Scottish Premiership
 Livingston FC vs Heart of Midlothian FC
