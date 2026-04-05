@@ -1,3 +1,17 @@
+Eutelsat 16A (16.0 E)
+12508 Horizontal 4936,139 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-013M
+Serbia Superliga Women - Play Offs - Quarter-finals
+Crvena zvezda vs Zeleznicar
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0°E)   
+Frequency: 12692 - Pol: V - SR: 10000 - FEC: 3/4
+Category: Sport - Football
+Transmitted in: MPEG-4
+ W/Glasgow-Hearts/+12712 v 10000/+12705 v 10000 /16 apsk
+---FEED-SEPARATOR---
 Astra 28.2E
 12667 H 7120 S2 4:2:0
 ID: Cloudbass 
