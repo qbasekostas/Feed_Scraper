@@ -1,6 +1,7 @@
+Netherlands Dutch Cup Women - Final
 Sliedrecht VS Apollo 8
 Hot Bird 13.0E
-10830 V 7200
+10830 V 7119
 DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: NLFLEV_HOL-90 CH-A
@@ -61,6 +62,42 @@ No name
 CW: 06 6F CE 43 E5 91 09 7F
 English Womens FA Cup - Quarter Final
 Chelsea v Tottenham Hotspur
+---FEED-SEPARATOR---
+England Championship
+Asiasat 5 (100.5°E) C BAND
+3992 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_20_SDI (SES)
+CW: EE 37 AF D4 27 71 62 FA
+---FEED-SEPARATOR---
+England Championship
+Asiasat 5 (100.5°E) C BAND
+3983 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_20_SDI (SES)
+CW: 55 AF 63 67 79 CB E1 25
+---FEED-SEPARATOR---
+English Womens FA Cup - Quarter Final
+Chelsea vs Tottenham Hotspur
+Eutelsat 7A/B ( 7.0E )
+10959 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Pitch Chelsea v Spurs
+CW: : 12 34 DD 23 EE 05 04 F7
+---FEED-SEPARATOR---
+1W
+10970 V 15000 
+4.2.2
+DVBS-2 8PSK
+ID: 
+No name
+CW: AF 93 33 75 62 B8 86 A0
+English FA Cup - Quarter Final
+Birmingham City v Manchester City
 ---FEED-SEPARATOR---
 28.2E
 12703 V 7500 
