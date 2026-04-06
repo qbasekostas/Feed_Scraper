@@ -1,3 +1,24 @@
+Sliedrecht VS Apollo 8
+Hot Bird 13.0E
+10830 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: NLFLEV_HOL-90 CH-A
+CW: 86 53 A8 81 31 83 D6 8A
+---FEED-SEPARATOR---
+Albahraniy said:
+CW: : 99 6B 32 36 74 DE 22 74
+Click to expand...
+England Championship
+Portsmouth vs Oxford United
+Eutelsat 7A/B ( 7.0E )
+11061 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Pitch 
+Portsmouth v Oxford U
+---FEED-SEPARATOR---
 Championship, Round 41
 Portsmouth vs Oxford United
 Asiasat 5 (100.5°E) C BAND
@@ -38,5 +59,14 @@ DVBS-2 8PSK
 ID: 
 No name
 CW: 06 6F CE 43 E5 91 09 7F
+English Womens FA Cup - Quarter Final
+Chelsea v Tottenham Hotspur
+---FEED-SEPARATOR---
+28.2E
+12703 V 7500 
+4:2:0
+DVBS2 8PSK
+ID: FAC R5 WOL
+CW: D2 E3 CB 80 45 F1 A6 DC
 English Womens FA Cup - Quarter Final
 Chelsea v Tottenham Hotspur
