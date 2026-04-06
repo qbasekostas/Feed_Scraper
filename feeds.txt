@@ -1,3 +1,5 @@
+ Volley 
+Perugia vs. Piacenza  
 7.0E
 - Name:           Studioline Bkp (ITA_863 b)
 - Freq: 11096,021
@@ -16,6 +18,17 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: NLFLEV_HOL-90 CH-A
 CW: 86 53 A8 81 31 83 D6 8A
+---FEED-SEPARATOR---
+28.2E
+12667 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish SWPL 1
+Celtic
+ v 
+Rangers 
 ---FEED-SEPARATOR---
 Eutelsat 7E
 11078 H 7120 S2 4:2:0
@@ -84,6 +97,44 @@ No name
 CW: 06 6F CE 43 E5 91 09 7F
 English Womens FA Cup - Quarter Final
 Chelsea v Tottenham Hotspur
+---FEED-SEPARATOR---
+English Championship - Week 41
+Swansea City vs. Middlesbrough
+Eutelsat 7B/7C @ 7.0°E
+11061 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID:  EFL - Swansea v Middlesbrough
+HBO said:
+CW: C2 93 0A 5F D2 26 66 5E
+Click to expand...
+---FEED-SEPARATOR---
+28.2E
+12524 H 7200 
+4:2:0
+12624 H 7200 
+4:2:0
+12633 H 7200 
+4:2:0
+12642 H 7200 
+4:2:0
+DVBS2 8PSK
+ID: No name
+CW: A5 5B ED ED BB 8E 8C D5
+English Womens FA Cup Draw
+---FEED-SEPARATOR---
+English Womens FA Cup - Quarter Final
+Birmingham City vs. Manchester City
+Eutelsat 7B/7C @ 7.0°E
+11106 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Women's FA Cup - Quarter Final
+CW: 12 34 DD 23 EE 05 04 F7
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3975 V 7120
