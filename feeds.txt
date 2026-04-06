@@ -1,0 +1,33 @@
+Jacop said:
+13.0E
+10830 V 7200
+4.2.0 HD DVB-S2 -  8PSK
+ID: GCUK Enc 9
+Emirates FA CUP DRAW 
+Chelsea vs Leeds United 
+Manchester City vs Southampton
+new cw: AB CD EE 66 FF 06 04 09
+coulr screen 
+Click to expand...
+new ID: GCUK Enc 2
+FA Cup highlights
+---FEED-SEPARATOR---
+1W
+11468 V 15000 
+4.2.0
+DVBS-2 8PSK
+ID: 
+No name
+CW: 06 6F CE 43 E5 91 09 7F
+English Womens FA Cup - Quarter Final
+Chelsea v Tottenham Hotspur
+---FEED-SEPARATOR---
+1W
+11088 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: 
+No name
+CW: 06 6F CE 43 E5 91 09 7F
+English Womens FA Cup - Quarter Final
+Chelsea v Tottenham Hotspur
