@@ -7,6 +7,18 @@ DVB-S2 - 1080P - 8PSK
 ID: NLFLEV_HOL-90 CH-A
 CW: 86 53 A8 81 31 83 D6 8A
 ---FEED-SEPARATOR---
+Eutelsat 7E
+11078 H 7120 S2 4:2:0
+ID: Pitch Charlton v Watford 
+English Championship - Watford v Charlton Athletic
+FTA
+---FEED-SEPARATOR---
+Eutelsat 7E
+11088 H 7120 S2 4:2:0
+ID: Pitch Ipswich v Birmingham 
+English Championship - Ipswich Town v Birmingham City
+FTA
+---FEED-SEPARATOR---
 Albahraniy said:
 CW: : 99 6B 32 36 74 DE 22 74
 Click to expand...
@@ -68,7 +80,7 @@ Asiasat 5 (100.5°E) C BAND
 3992 V 7119
 DVB-S2 - 1080P - 8PSK
 4:2:0
-ID: BT_SES_20_SDI (SES)
+ID: BT_SES_22_SDI (SES)
 CW: EE 37 AF D4 27 71 62 FA
 ---FEED-SEPARATOR---
 England Championship
