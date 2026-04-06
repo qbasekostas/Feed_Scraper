@@ -1,3 +1,13 @@
+7.0E
+- Name:           Studioline Bkp (ITA_863 b)
+- Freq: 11096,021
+- Pol: Horizontal
+- SR: 7199,841
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+found CW: 45 25 04 6E 17 20 93 CA 
+---FEED-SEPARATOR---
 Netherlands Dutch Cup Women - Final
 Sliedrecht VS Apollo 8
 Hot Bird 13.0E
@@ -74,6 +84,31 @@ No name
 CW: 06 6F CE 43 E5 91 09 7F
 English Womens FA Cup - Quarter Final
 Chelsea v Tottenham Hotspur
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7120
+ID : BT_SES_24_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+5B DB E7 36 4D A3 52 90  #CW:C2 93 0A 5F D2 26 66 5E   #[E] PID:07D1h
+Swansea City vs Middlesbrough
+---FEED-SEPARATOR---
+English Womens FA Cup - Quarter Final
+Birmingham City vs. Manchester City
+Intelsat 10-02 @ 1.0°W
+10983 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+Womens FA Cup - Semi Final:  Draw
+10992 - V - 7200 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: AF 93 33 75 62 B8 86 A0
 ---FEED-SEPARATOR---
 England Championship
 Asiasat 5 (100.5°E) C BAND
