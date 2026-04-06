@@ -98,6 +98,19 @@ CW: 06 6F CE 43 E5 91 09 7F
 English Womens FA Cup - Quarter Final
 Chelsea v Tottenham Hotspur
 ---FEED-SEPARATOR---
+English Championship - Week 41
+Hull City vs. Coventry City
+Eutelsat 7B/7C @ 7.0°E
+11079 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: EFL - Hull  v Coventry
+Albahraniy said:
+CW: C3 7A 15 52 22 AD 25 F4
+Click to expand...
+---FEED-SEPARATOR---
 England Championship, Round 41
 Hull City vs Coventry City
 Asiasat 5 (100.5°E) C BAND
@@ -215,9 +228,23 @@ CW: D2 E3 CB 80 45 F1 A6 DC
 English Womens FA Cup - Quarter Final
 Chelsea v Tottenham Hotspur
 ---FEED-SEPARATOR---
+13.0°E
+10847 V 7500
+4:2:2
+ID: TUR 112 MAIN
+CW: 7A C4 48 86 36 8C 73 35
+BSL: Bahçeşehir Basketball - Manisa
+---FEED-SEPARATOR---
 Basketball  :  ABA League 
 Teams : Mega Basket vs KK Krka Novo mesto
 Eutelsat 7A/7B/7C @ 7.0°E ( KU-BAND )
 12550 H 4938
 ID :  YSM-021M
 CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+13.0°E
+10838 V 7500
+4:2:2
+ID: E333 M
+CW: 39 C9 AD AF 2F A8 6C 43
+BSL: Besiktas - Karşıyaka
