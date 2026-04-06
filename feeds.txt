@@ -1,3 +1,12 @@
+Championship, Round 41
+Portsmouth vs Oxford United
+Asiasat 5 (100.5°E) C BAND
+3975 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_24_SDI (SES)
+CW: 99 6B 32 36 74 DE 22 74
+---FEED-SEPARATOR---
 Jacop said:
 13.0E
 10830 V 7200
