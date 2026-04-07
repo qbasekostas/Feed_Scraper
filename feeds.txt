@@ -1,3 +1,12 @@
+Poland Liga Siatkowki, Women, Playoffs, Semifinals
+BKS Stal Bielsko-Biała vs KS Developres Rzeszów
+Eutelsat 7B/7C @ 7.0E
+12591 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Polsat Sport (POLSAT)
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 English EFL - Highlights
 Eutelsat 7A/B ( 7.0E )
 11079 H 7119
@@ -6,6 +15,25 @@ DVB-S2 -
  - 8PSK
 ID: Pitch EFL- Highlights
 CW: : 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+UEFA Champions League, CBS Feed
+Real Madrid vs FC Bayern München
+Eutelsat 7A/7B/7C @ 7.0°E
+12736 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.20 Mbit/s
+ID: CBS R.MAD BAY
+CW: 78 71 37 20 81 11 99 2B
+---FEED-SEPARATOR---
+UEFA Champions League
+Real Madrid vs FC Bayern München
+Eutelsat 7A/B ( 7.0E )
+11050 V 19197
+DVB-S2 - 
+4:2:2
+ - H264 
+ID: E64 BU
+CW: : CA DA 46 EA 58 DA CA FC
 ---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -32,3 +60,15 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 13.72 Mbit/s
 ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11070 H 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG A EU  
+==> 
+NEW ID: 
+HapoelTelA vs.FenerbIS BUL006 Main
+Event: 
+BASKET: 
+Euroleague, Hapoel Tel-Aviv vs Fenerbahce  
+CW: E3 71 2C 80 A1 84 63 88
