@@ -1,4 +1,26 @@
-AsiaSat 5 - 100.5 E - CBand
+Football South America
+Asiasat 5 (100.5°E) C BAND
+3975 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 6
+CW: 32 EF 5C 7D CA FB 77 3C
+---FEED-SEPARATOR---
+Football South America
+Asiasat 5 (100.5°E) C BAND
+3966 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 5
+Eutelsat 10B @ 10.0E
+10767 V 34000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 5
+CW: 32 EF 5C 7D CA FB 77 3C
+---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
 23 DD E8 D9 E3 23 6F 79  #CW:
@@ -17,206 +39,6 @@ La Guaira vs Fluminense
 Rivadavia vs Bolivar
 Barracas Central vs Vasco
 Independiente Petrolero vs Racing
----FEED-SEPARATOR---
-Poland Liga Siatkowki, Women, Playoffs, Semifinals
-BKS Stal Bielsko-Biała vs KS Developres Rzeszów
-Eutelsat 7B/7C @ 7.0E
-12591 V 7200
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID: Polsat Sport (POLSAT)
-CW: 15 58 35 A2 71 42 63 16
----FEED-SEPARATOR---
-Albahraniy said:
-			England League Two, Round 42
-Bromley vs Shrewsbury Town
-CW: CC E9 53 08 95 A3 02 3A
 Click to expand...
-Eutelsat 7B/7C @ 7.0E
-11080 H 7119
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID:  EFL - Bromley v Shrewsbury
----FEED-SEPARATOR---
-England League Two, Round 42
-Bromley vs Shrewsbury Town
-Asiasat 5 (100.5°E) C BAND
-3984 V 7119
-DVB-S2 - 1080P - 8PSK
-4:2:0
-ID:BT_SES_20_SDI (SES)
-CW: CC E9 53 08 95 A3 02 3A
-Thanks 
-@HBO
----FEED-SEPARATOR---
-English EFL - Highlights
-Eutelsat 7A/B ( 7.0E )
-11079 H 7119
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: Pitch EFL- Highlights
-CW: : 53 23 CF 45 32 88 42 FC
----FEED-SEPARATOR---
-Eutelsat 7A/B ( 7.0E )
-11021 H 9875
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: UCL_IKL_GVA_Fi01
-Event: 
-Uefa Champions League Highlights
-CW: A1 E1 F6 78 90 2E DE 9C
----FEED-SEPARATOR---
-sahafe said:
-Sporting - arsenal
-3.1E
-- Name:           beIN SPORTS (JSSC)
-- Freq: 10958,656
-- Pol: Horizontal
-- SR: 7502,06
-- Mod: QPSK-S2
-- FEC: 3/4
-- Std: DVB-S2
-OLD CW
-F9 15 80 84 74 22 04 93 
-CW: AD 54 9E 9F 52 89 7B 56
- #[E] PID:0065h
-thanks 
-@ verlock
-  for info
-Click to expand...
-10970 H 7500
-ID: Service-1
----FEED-SEPARATOR---
-xFayez95 said:
-UEFA Champions League
-Sporting Lisbon VS Arsenal
-Eutelsat Hotbird 13B/13C/13G @ 13.0°E
-12438 H 27500
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 13.72 Mbit/s
-ID: FEED 2
-CW: 12 34 56 9C 78 91 23 2C
-Click to expand...
-Now black screen
----FEED-SEPARATOR---
-UEFA Champions League
-Real Madrid vs FC Bayern München
-21.6E
-11667 H 6666
- (OVERON)
-4.2.0
- HD
-ID: PERSO BEIN MENA
-CW: D3 7B 1A 68 CF 5E 3B 68
----FEED-SEPARATOR---
-Sporting - arsenal
-3.1E
-- Name:           beIN SPORTS (JSSC)
-- Freq: 10958,656
-- Pol: Horizontal
-- SR: 7502,06
-- Mod: QPSK-S2
-- FEC: 3/4
-- Std: DVB-S2
-OLD CW
-F9 15 80 84 74 22 04 93 
-CW: AD 54 9E 9F 52 89 7B 56
- #[E] PID:0065h
-thanks 
-@ verlock
-  for info
----FEED-SEPARATOR---
-UEFA Champions League, CBS Feed
-Real Madrid vs FC Bayern München
-Eutelsat 7A/7B/7C @ 7.0°E
-12736 V 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 15.20 Mbit/s
-ID: CBS R.MAD BAY
-CW: 78 71 37 20 81 11 99 2B
----FEED-SEPARATOR---
-UEFA Champions League
-Real Madrid vs FC Bayern München
-Eutelsat 7A/B ( 7.0E )
-11050 V 19197
-DVB-S2 - 
-4:2:2
- - H264 
-ID: E64 BU
-CW: : CA DA 46 EA 58 DA CA FC
----FEED-SEPARATOR---
-UEFA Champions League
-Eutelsat 7A/7B/7C @ 7.0°E
-10982 H 4938
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.265/HEVC Video | 4:2:0 | 10.49 Mbit/s
-ID: Unname
-CW: A1 E1 F6 78 90 2E DE 9C
----FEED-SEPARATOR---
-UEFA Champions League
-Real Madrid vs FC Bayern München
-Eutelsat 7A/7B/7C @ 7.0°E
-10988 H 4820
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.265/HEVC Video | 4:2:0 | 5.07 Mbit/s
-ID: E 408 Feed B
-CW: A1 E1 F6 78 90 2E DE 9C
----FEED-SEPARATOR---
-UEFA Champions League
-Sporting Lisbon VS Arsenal
-Eutelsat Hotbird 13B/13C/13G @ 13.0°E
-12438 H 27500
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 13.72 Mbit/s
-ID: FEED 2
-CW: 12 34 56 9C 78 91 23 2C
----FEED-SEPARATOR---
-Champions League, Playoffs, Quarterfinals
-Joventut Badalona vs AEK BC
-Eutelsat 7B/7C @ 7.0E
-11105 V 7200
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID: EDS807HD.2
-CW: AB 57 BD BF 62 CA 49 75
----FEED-SEPARATOR---
-Euroleague
-7.0E
-- Name:           GVA_Fi08_Euroleague_M7 (EUROVISION SA)
-- Freq: 11012,210
-- Pol: Vertical
-- SR: 7199,841
-- Mod: 8PSK
-- FEC: 3/4
-- Std: DVB-S2
-D3 8C C8 10 EC B3 60 AD  
-CW: 19 2A 4D 90 19 27 9E DE
----FEED-SEPARATOR---
-Hot Bird 13B/13C/13E @ 13.0E
-10827 H 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: CZE-012 _ MAIN_BCL_Nymburk
-Event: 
-Basketball Champions League - Nymburk vs Rytas
-CW: DE 42 DC FC 37 DB 58 6A
----FEED-SEPARATOR---
-BASKET: Euroleague
-Eutelsat 7A/B ( 7.0E )
-11062 H 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: GVA_Fi07_Euroleage_M3
-CW: 43 15 81 D9 78 C3 82 BD
----FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-11070 H 7198
-DVB-S2 - 4:2:0 - 8PSK
-ID: IMG A EU  
-==> 
-NEW ID: 
-HapoelTelA vs.FenerbIS BUL006 Main
-Event: 
-BASKET: 
-Euroleague, Hapoel Tel-Aviv vs Fenerbahce  
-CW: E3 71 2C 80 A1 84 63 88
+Eutelsat 10E
+10767 V 34000 S2
