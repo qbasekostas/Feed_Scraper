@@ -1,3 +1,23 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+23 DD E8 D9 E3 23 6F 79  #CW:
+B7 6A DE FF 22 DA 11 0D
+   #[E] PID:0F01h (OCC4)
+52 77 73 3D 15 63 45 20  #CW:
+AA 11 4C 07 DE BC 56 F0
+   #[E] PID:0F33h ( OCC1)
+C1 A8 90 66 FF F1 AA 8D  #CW:
+32 1A CB 17 ED 22 11 20
+   #[E] PID:0F3Dh (OCC2)
+C9 95 FF E4 B2 64 88 14  #CW:
+CC B8 ED 71 AA 2D 13 EA
+   #[E] PID:0F47h (OCC3)
+La Guaira vs Fluminense
+Rivadavia vs Bolivar
+Barracas Central vs Vasco
+Independiente Petrolero vs Racing
+---FEED-SEPARATOR---
 Poland Liga Siatkowki, Women, Playoffs, Semifinals
 BKS Stal Bielsko-Biała vs KS Developres Rzeszów
 Eutelsat 7B/7C @ 7.0E
@@ -7,6 +27,28 @@ DVB-S2 - 1080P - 8PSK
 ID: Polsat Sport (POLSAT)
 CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+Albahraniy said:
+			England League Two, Round 42
+Bromley vs Shrewsbury Town
+CW: CC E9 53 08 95 A3 02 3A
+Click to expand...
+Eutelsat 7B/7C @ 7.0E
+11080 H 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  EFL - Bromley v Shrewsbury
+---FEED-SEPARATOR---
+England League Two, Round 42
+Bromley vs Shrewsbury Town
+Asiasat 5 (100.5°E) C BAND
+3984 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_20_SDI (SES)
+CW: CC E9 53 08 95 A3 02 3A
+Thanks 
+@HBO
+---FEED-SEPARATOR---
 English EFL - Highlights
 Eutelsat 7A/B ( 7.0E )
 11079 H 7119
@@ -15,6 +57,18 @@ DVB-S2 -
  - 8PSK
 ID: Pitch EFL- Highlights
 CW: : 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+xFayez95 said:
+UEFA Champions League
+Sporting Lisbon VS Arsenal
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+12438 H 27500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.72 Mbit/s
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+Click to expand...
+Now black screen
 ---FEED-SEPARATOR---
 UEFA Champions League
 Real Madrid vs FC Bayern München
