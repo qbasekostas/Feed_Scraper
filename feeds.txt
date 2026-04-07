@@ -58,6 +58,27 @@ DVB-S2 -
 ID: Pitch EFL- Highlights
 CW: : 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+sahafe said:
+Sporting - arsenal
+3.1E
+- Name:           beIN SPORTS (JSSC)
+- Freq: 10958,656
+- Pol: Horizontal
+- SR: 7502,06
+- Mod: QPSK-S2
+- FEC: 3/4
+- Std: DVB-S2
+OLD CW
+F9 15 80 84 74 22 04 93 
+CW: AD 54 9E 9F 52 89 7B 56
+ #[E] PID:0065h
+thanks 
+@ verlock
+  for info
+Click to expand...
+10970 H 7500
+ID: Service-1
+---FEED-SEPARATOR---
 xFayez95 said:
 UEFA Champions League
 Sporting Lisbon VS Arsenal
