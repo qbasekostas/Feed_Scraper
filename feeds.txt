@@ -7,15 +7,6 @@ DVB-S2 -
 ID: Pitch EFL- Highlights
 CW: : 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
-						1 0 1 2 69 61 820000 0 0 0 20260407132359 hosted at ImgBB
-Image 1 0 1 2 69 61 820000 0 0 0 20260407132359 hosted on ImgBB
-					ibb.co
-13E Sporting - Arsenal 
-12437 H 27500
-DVB-S2 4:2:0 8PSK
-ID: FEED 2
-CW: 12 34 56 9C 78 91 23 2C
----FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
 10982 H 4938
@@ -32,3 +23,12 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.265/HEVC Video | 4:2:0 | 5.07 Mbit/s
 ID: E 408 Feed B
 CW: A1 E1 F6 78 90 2E DE 9C
+---FEED-SEPARATOR---
+UEFA Champions League
+Sporting Lisbon VS Arsenal
+Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+12438 H 27500
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.72 Mbit/s
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
