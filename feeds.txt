@@ -1,3 +1,20 @@
+Albahraniy said:
+			Football South America
+Asiasat 5 (100.5°E) C BAND
+3975 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 6
+CW: 34 BC ED DD A1 34 FF D4
+3984 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 7
+CW: BC 21 FB D8 67 11 22 9A
+Click to expand...
+Eutelsat 10E
+10723 V 15000 S2 4:2:2
+---FEED-SEPARATOR---
 Football South America
 Asiasat 5 (100.5°E) C BAND
 3975 V 7500
