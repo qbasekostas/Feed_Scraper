@@ -16,6 +16,23 @@ DVB-S2 -
 ID: Pitch EFL- Highlights
 CW: : 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+Sporting - arsenal
+3.1E
+- Name:           beIN SPORTS (JSSC)
+- Freq: 10958,656
+- Pol: Horizontal
+- SR: 7502,06
+- Mod: QPSK-S2
+- FEC: 3/4
+- Std: DVB-S2
+OLD CW
+F9 15 80 84 74 22 04 93 
+CW: AD 54 9E 9F 52 89 7B 56
+ #[E] PID:0065h
+thanks 
+@ verlock
+  for info
+---FEED-SEPARATOR---
 UEFA Champions League, CBS Feed
 Real Madrid vs FC Bayern München
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -60,6 +77,33 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 13.72 Mbit/s
 ID: FEED 2
 CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Euroleague
+7.0E
+- Name:           GVA_Fi08_Euroleague_M7 (EUROVISION SA)
+- Freq: 11012,210
+- Pol: Vertical
+- SR: 7199,841
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+D3 8C C8 10 EC B3 60 AD  
+CW: 19 2A 4D 90 19 27 9E DE
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10827 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: CZE-012 _ MAIN_BCL_Nymburk
+Event: 
+Basketball Champions League - Nymburk vs Rytas
+CW: DE 42 DC FC 37 DB 58 6A
+---FEED-SEPARATOR---
+BASKET: Euroleague
+Eutelsat 7A/B ( 7.0E )
+11062 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: GVA_Fi07_Euroleage_M3
+CW: 43 15 81 D9 78 C3 82 BD
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11070 H 7198
