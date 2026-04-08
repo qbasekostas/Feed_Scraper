@@ -1,0 +1,24 @@
+Copa Sudamericana - Group Stage - Round 1 
+Dep. Riestra (Arg) - Palestino (Chi)
+Eutelsat 10A @ 10.0E
+10767 Vertical 33999.633 5/6
+ID:OCC 5 (*unnamed-51*)
+1920x1080 | 84.284 Mb/Sec | 8PSK | 
+4:2:2
+ DVB-S2
+SNR: 12.5 dB
+55 01 9F 1D A4 92 53 E5  #CW:B6 72 2C 54 B3 34 FB E2
+---FEED-SEPARATOR---
+Verdeoro said:
+Eutelsat 7A/B ( 7.0E )
+11021 H 9875
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: UCL_IKL_GVA_Fi01
+Event: 
+Uefa Champions League Highlights
+CW: A1 E1 F6 78 90 2E DE 9C
+Click to expand...
+NEW ID: UCL_IHL_GVA_Fi01 (EUROVISION SA)
+NEW CW: 63 12 83 F8 7E 93 03 14 
