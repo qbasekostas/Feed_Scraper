@@ -83,6 +83,37 @@ Copa Sudamericana
 Independiente Petrolero vs Racing Club
 CW: B7 6A DE FF 22 DA 11 0D
 ---FEED-SEPARATOR---
+Poland Liga Siatkowki, Women, Playoffs, Semifinals
+Uni Opole vs Budowlani Łódź
+Eutelsat 7B/7C @ 7.0E
+12591 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Polsat Sport (POLSAT)
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+12656 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.12 Mbit/s
+FIFA Series 2026 International Friendlies 
+Test Feed For Tomorrow -> Thursday April 9th 2026
+Women:
+Pakistan (PAK) vs Turks and Caicos Islands (TCA)
+ID: Fi15_LK
+CW: D0 A0 85 F5 EF 76 12 77
+---FEED-SEPARATOR---
+UEFA Europa League - Quarter Final (1st Leg)
+Sporting Braga vs. Real Betis
+Eutelsat 7B/7C @ 7.0°E
+11190 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Main
+FTA
+---FEED-SEPARATOR---
 UEFA Champions League - Quarter Final (1st Leg)
 Paris St Germain vs. Liverpool
 Intelsat 10-02 @ 1.0°W
@@ -113,6 +144,14 @@ DVB-S2 | 16APSK | 9/10
 ID: F634/FLY11/Enc11.9/FEED B2
 CW: 63 12 83 F8 7E 93 03 14
 ---FEED-SEPARATOR---
+UEFA Champions League, CBS Feed
+Eutelsat 7A/7B/7C @ 7.0°E
+12737 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.35 Mbit/s
+ID: E458 CBS UCL
+CW: 22 73 23 B8 14 87 81 1C
+---FEED-SEPARATOR---
 UEFA Champions League
 Barcelona vs Atlético Madrid
 Hotbird 13B/13C/13G @ ( 13.0E )
@@ -123,6 +162,16 @@ DVB-S2 -
  - 8PSK
 ID: FEED 2
 CW: : 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+EuroLeague
+Monaco vs Lyon Vs Urban
+Eutelsat 7A/B ( 7.0E )
+11060 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: F489 BKUP
+CW: : 7B 49 67 2B DB 21 B4 B0
 ---FEED-SEPARATOR---
 Greek Super League 1
 Playouts (Relegation Group) - Round 2
