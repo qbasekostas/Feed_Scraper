@@ -165,6 +165,15 @@ DVB-S2 | 16APSK | 9/10
 ID: F634/FLY11/Enc11.9/FEED B2
 CW: 63 12 83 F8 7E 93 03 14
 ---FEED-SEPARATOR---
+UEFA Champions League - Quarter Final (1st Leg)
+Paris St Germain vs. Liverpoo
+Eutelsat 3B @ 3.1E C-Band
+3813 Horizontal 7200.172 3/4
+ID:UEFA (IKOMG)
+1920x1080 | 16.049 Mb/Sec | 8PSK | 4:2:0 DVB-S2
+SNR: 7.7 dB
+CW: 5D 91 8C 7A 9D EA 58 DF
+---FEED-SEPARATOR---
 UEFA Champions League, CBS Feed
 Eutelsat 7A/7B/7C @ 7.0°E
 12737 V 7200
@@ -184,6 +193,17 @@ DVB-S2 -
 ID: FEED 2
 CW: : 12 34 56 9C 78 91 23 2C
 ---FEED-SEPARATOR---
+10est
+11274 H 7200 
+4;2;0
+DVBS2 8PSK
+Id : F419_Main
+CW: 08 04 AB B7 CD 20 26 13
+Eurocup - Play Offs
+JL Bourg
+ V 
+Turk Telekom
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10810 H 7200
 DVB-S2 - 4:2:0 - 8PSK
@@ -199,6 +219,21 @@ ID: BB CL Berlin
 Event: 
 Basketball Champions League - Alba Berlin vs Unicaja
 CW: AC 70 CE EA 18 EF 48 4F
+---FEED-SEPARATOR---
+basketball 
+International, Champions League, Knockout Stage
+Alba Berlin vs Unicaja
+Wednesday, 08 April 2026 19:00
+16.0E
+- Name:           F1-2 4.5MH (SkyGer    )
+- Freq: 10976,279
+- Pol: Horizontal
+- SR: 7202,104
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+19 04 86 27 71 AE 03 E7  #[E] PID:0065h
+found CW: 20 25 AE F3 EA 52 02 3E 
 ---FEED-SEPARATOR---
 EuroLeague
 Monaco vs Lyon Vs Urban
