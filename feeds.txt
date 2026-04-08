@@ -83,12 +83,26 @@ Copa Sudamericana
 Independiente Petrolero vs Racing Club
 CW: B7 6A DE FF 22 DA 11 0D
 ---FEED-SEPARATOR---
+UEFA Champions League - Quarter Final (1st Leg)
+Paris St Germain vs. Liverpool
+Intelsat 10-02 @ 1.0°W
+12620 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UCL-PSG v LIVERPOOL BACKUP
+CW: F4 DE CB 9D 49 DE 63 8A
+---FEED-SEPARATOR---
 UEFA Champions League
+Barcelona vs Atlético Madrid
 Eutelsat 7A/7B/7C @ 7.0°E
 10983 H 4820
 DVB-S2 | 16APSK | 9/10
-1920x1080 | H.265/HEVC Video | 4:2:0 | 9.70 Mbit/s
-ID: ES-M04 FEED B
+1920x1080 | H.265/HEVC Video | 
+4:2:2
+ | 9.62 Mbit/s
+ID: ES-M04 FEED B2
 CW: 63 12 83 F8 7E 93 03 14
 ---FEED-SEPARATOR---
 UEFA Champions League
@@ -98,3 +112,22 @@ DVB-S2 | 16APSK | 9/10
 1920x1080 | H.265/HEVC Video | 4:2:0 | 9.70 Mbit/s
 ID: F634/FLY11/Enc11.9/FEED B2
 CW: 63 12 83 F8 7E 93 03 14
+---FEED-SEPARATOR---
+UEFA Champions League
+Barcelona vs Atlético Madrid
+Hotbird 13B/13C/13G @ ( 13.0E )
+12438 H 27500
+DVB-S2 - 
+4
+:2:0
+ - 8PSK
+ID: FEED 2
+CW: : 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Greek Super League 1
+Playouts (Relegation Group) - Round 2
+Panserraikos vs Asteras Tripolis
+39e
+12634 V 7200
+ID: panserraikos vs Asteras
+CW: D8 2F E9 F0 4A B3 3C 39
