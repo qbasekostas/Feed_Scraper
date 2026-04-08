@@ -1,3 +1,11 @@
+ASIASAT5 100.5E
+Football South America COPA 
+3840 H 30000
+OCC1 CW: 32 4A DF 5B CB 89 87 DB
+OCC2 CW: B7 81 2D 65 C6 D2 2D C5
+OCC3 CW: B7 12 D8 A1 A1 63 36 3A
+OCC4 CW: FC B9 AD 62 E1 DC BB 78 
+---FEED-SEPARATOR---
 Albahraniy said:
 			Football South America
 Asiasat 5 (100.5°E) C BAND
@@ -92,6 +100,19 @@ DVB-S2 - 1080P - 8PSK
 ID: Polsat Sport (POLSAT)
 CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+xFayez95 said:
+FIFA Series 2026 International Friendlies 
+Test Feed For Tomorrow -> Thursday April 9th 2026
+Women:
+Pakistan (PAK) vs Turks and Caicos Islands (TCA)
+Click to expand...
+Eutelsat 7B/7C @ 7.0°E
+12647 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264 | 4:2:0
+ID: Fi10_GNVE
+CW: D0 A0 85 F5 EF 76 12 77
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0°E
 12656 V 7200
 DVB-S2 | 8PSK | 3/4
@@ -162,6 +183,22 @@ DVB-S2 -
  - 8PSK
 ID: FEED 2
 CW: : 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10810 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR 143
+Event: 
+Basketball Champions League - Galatasaray vs Tenerife
+CW: CB 52 DD FA 31 DB 59 65
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10802 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: BB CL Berlin
+Event: 
+Basketball Champions League - Alba Berlin vs Unicaja
+CW: AC 70 CE EA 18 EF 48 4F
 ---FEED-SEPARATOR---
 EuroLeague
 Monaco vs Lyon Vs Urban
