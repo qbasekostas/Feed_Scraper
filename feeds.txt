@@ -64,3 +64,21 @@ Independiente Petrolero vs Racing
 Click to expand...
 Eutelsat 10E
 10767 V 34000 S2
+Eutelsat 10E
+10767 V 34000 S2 4:2:2
+ID: OCC 1  --- 4:2:0
+Copa Sudamericana
+Independiente Petrolero vs Racing
+CW: AA 11 4C 07 DE BC 56 F0
+ID: OCC 2
+Copa Libertadores
+Deportivo La Guaira vs Fluminense
+CW: 32 1A CB 17 ED 22 11 20
+ID: OCC 3
+Copa Libertadores
+Independiente Rivadavia vs Bolívar
+CW: CC B8 ED 71 AA 2D 13 EA
+ID: OCC 4
+Copa Sudamericana
+Independiente Petrolero vs Racing Club
+CW: B7 6A DE FF 22 DA 11 0D
