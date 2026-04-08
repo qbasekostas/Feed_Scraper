@@ -82,3 +82,11 @@ ID: OCC 4
 Copa Sudamericana
 Independiente Petrolero vs Racing Club
 CW: B7 6A DE FF 22 DA 11 0D
+---FEED-SEPARATOR---
+UEFA Champions League
+Eutelsat 7A/7B/7C @ 7.0°E
+10989 H 4820
+DVB-S2 | 16APSK | 9/10
+1920x1080 | H.265/HEVC Video | 4:2:0 | 9.70 Mbit/s
+ID: F634/FLY11/Enc11.9/FEED B2
+CW: 63 12 83 F8 7E 93 03 14
