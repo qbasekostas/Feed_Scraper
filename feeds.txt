@@ -1,3 +1,29 @@
+HBO said:
+			New
+OCC 6 : D4 54 96 1F D8 B0 33 95  #CW:38 AD CF B4 B9 ED 12 B8   #[E] PID:0810h
+OCC 7 : 8C 55 44 4C F6 5B EB 2E  #CW:B7 AD ED 51 BB 23 41 1F   #[E] PID:0810h
+Click to expand...
+Eutelsat 10E
+10732 V 34000 S2 4:2:2
+---FEED-SEPARATOR---
+Albahraniy said:
+			Football South America
+Asiasat 5 (100.5°E) C BAND
+3975 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 6
+CW: 34 BC ED DD A1 34 FF D4
+3984 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 7
+CW: BC 21 FB D8 67 11 22 9A
+Click to expand...
+New
+OCC 6 : D4 54 96 1F D8 B0 33 95  #CW:38 AD CF B4 B9 ED 12 B8   #[E] PID:0810h
+OCC 7 : 8C 55 44 4C F6 5B EB 2E  #CW:B7 AD ED 51 BB 23 41 1F   #[E] PID:0810h
+---FEED-SEPARATOR---
 Copa Sudamericana - Group Stage - Round 1 
 Dep. Riestra (Arg) - Palestino (Chi)
 Eutelsat 10A @ 10.0E
