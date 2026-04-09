@@ -92,3 +92,11 @@ CW: A1 E1 F6 78 90 2E DE 9C
 Click to expand...
 NEW ID: UCL_IHL_GVA_Fi01 (EUROVISION SA)
 NEW CW: 63 12 83 F8 7E 93 03 14 
+---FEED-SEPARATOR---
+			Eutelsat 7E
+ID: HapoelTVavOlimpiakos
+11062 H 7200
+BASTEBALL
+Please Biss key ??
+Click to expand...
+CW: 3C A2 6A 48 22 39 3C 97
