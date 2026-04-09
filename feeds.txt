@@ -93,6 +93,13 @@ Click to expand...
 NEW ID: UCL_IHL_GVA_Fi01 (EUROVISION SA)
 NEW CW: 63 12 83 F8 7E 93 03 14 
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0°E)     
+Frequency: 12556 - Pol: H - SR: 4937
+Category: Sport - Basketball
+Transmitted in: MPEG-4 crypté
+W/Nis-Partizan
+cw : ABBA20852520266B 
+---FEED-SEPARATOR---
 			Eutelsat 7E
 ID: HapoelTVavOlimpiakos
 11062 H 7200
