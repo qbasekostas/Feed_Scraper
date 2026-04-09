@@ -35,6 +35,34 @@ ID:OCC 5 (*unnamed-51*)
 SNR: 12.5 dB
 55 01 9F 1D A4 92 53 E5  #CW:B6 72 2C 54 B3 34 FB E2
 ---FEED-SEPARATOR---
+UEFA Conference League - Quarter Final (1st Leg)
+Crystal Palace vs. Fiorentina
+Intelsat 10-02 @ 1.0°W
+11481 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 3E AC FD E7 6A E0 FE 48
+---FEED-SEPARATOR---
+UEFA Conference League - Quarter Final (1st Leg)
+Mainz 05 vs. Strasbourg
+Eutelsat 7B/7C @ 7.0°E
+11018 - H - 17140 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | A16PSK
+ID: FSV-STR FEED 1
+12551 - H - 17140 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 16APSK
+ID: FSV - STR Path 2
+CW: 82 82 59 5D 3F 11 12 62
+---FEED-SEPARATOR---
 Verdeoro said:
 Eutelsat 7A/B ( 7.0E )
 11021 H 9875
