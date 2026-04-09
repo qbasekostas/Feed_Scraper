@@ -1,4 +1,68 @@
+Football South America 
+CONMEBOL Libertadores & Sudamericana
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 1
+Ozan said:
+CW: 32 AD FC DB B7 32 23 0C
+Click to expand...
+ID: OCC 2
+CW: 45 CB A2 B2 3D 36 98 0B
+ID: OCC 3
+Ozan said:
+CW: 56 B9 ED FC FC 23 32 51
+Click to expand...
+ID: OCC 4
+Ozan said:
+CW: 3C B6 ED DF 11 DB C1 AD
+Click to expand...
+---FEED-SEPARATOR---
+UCV
+Libertad
 Eutelsat 10E
-10767 V 34000 S2 4:2:2
+10767 V 34000 S2 
+4:2:2
+ID: OCC 2
+CW: 45 CB A2 B2 3D 36 98 0B
+---FEED-SEPARATOR---
+Botafogo
+Caracas
+Eutelsat 10E
+10767 V 34000 S2 
+4:2:2
+ID: OCC 3
+CW: 56 B9 ED FC  FC 23 32 51
+---FEED-SEPARATOR---
+Juventud
+Cienciano
+Eutelsat 10E
+10767 V 34000 S2 
+4:2:2
+ID: OCC 4
+CW: 3C B6 ED DF 11 DB C1 AD
+---FEED-SEPARATOR---
+CONMEBOL Libertadores, Group H, Round 1
+Rosario Central
+Ind. del Valle
+Eutelsat 10E
+10767 V 34000 S2
+ 4:2:2
+ID: OCC 1
+CW: 32 AD FC DB B7 32 23 0C
+---FEED-SEPARATOR---
+Football South America
+Asiasat 5 (100.5°E) C BAND
+4133 H 7500
+4124 H 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 5
+CW: 36 5A DF 6F CB 15 87 67
+---FEED-SEPARATOR---
+Eutelsat 10E
+10767 V 34000 S2
+ 4:2:0
 ID: OCC 5
 CW: 36 5A DF 6F CB 15 87 67
