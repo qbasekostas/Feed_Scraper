@@ -51,6 +51,17 @@ FIFA Women Series 2026  from Ivory Coast.
 Now Pakistan (PAK) vs Turks and Caicos Islands (TCA)
 CW: D1 EE 67 26 29 97 8A 4A
 ---FEED-SEPARATOR---
+UEL / UCEL - Quarter Final (1st Leg)
+: MultiGoals & Highlights
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: UCL_IHL_GVA_Fi01
+CW: 15 8C 0B AC 01 34 0D 42
+---FEED-SEPARATOR---
 UEFA Conference League - Quarter Final (1st Leg)
 Crystal Palace vs. Fiorentina
 Intelsat 10-02 @ 1.0°W
