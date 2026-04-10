@@ -81,6 +81,24 @@ DVB-S2 - 1080P - 8PSK
 ID:  TNT-ManCty-Res
 CW: 8F E8 9C 13 54 69 91 4E
 ---FEED-SEPARATOR---
+Elite 2 French League
+Évreux vs Rouen
+8W
+12549 V 6800
+DVB-S2 4:2:0 8PSK
+ID: F428_DSNG_ROUEN
+FTA
+---FEED-SEPARATOR---
+EuropeEuroleague 
+- Round 37 
+Monaco - Barcelona
+Eutelsat 7A/7B/7C @ 7.0E
+11088 Horizontal 7200.153 3/4
+ID:  F419_MAIN (SAT PROD)
+1920x1080 | 16.049 Mb/Sec | 8PSK | 4:2:0 DVB-S2
+SNR: 11.4 dB
+8B 9A 01 11 E3 1E C8 30  #CW:4A 4E 62 FA A1 E6 D2 59
+---FEED-SEPARATOR---
 FIBA 3x3 World Cup Qualifier 2026 Women’s
 Asiasat 5 (100.5°E) C BAND
 3946 H 7200
