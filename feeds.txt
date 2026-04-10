@@ -67,6 +67,34 @@ Eutelsat 10E
 ID: OCC 5
 CW: 36 5A DF 6F CB 15 87 67
 ---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship - Week 33
+Queen's Park v Ross County
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+12702 V 10000
+ 4:2:0
+DVB-S2 8PSK
+ID: Uki-1592
+Scottish Championship - Week 33
+Queen's Park v Ross County
+---FEED-SEPARATOR---
+England Championship - Round 42 EFL - 
+West Brom v Millwal
+Eutelsat 7A/7B/7C @ 7.0E
+10959 Horizontal 7120.164 2/3
+ID:EFL - West Brom v Millwall (NEP Connect)
+1920x1080 | 14.105 Mb/Sec | 8PSK | 4:2:0 DVB-S2
+SNR: 9.5 dB
+EA D4 BD AF 5D 96 52 B7  #CW:
+B7 B7 E4 52 23 07 47 71
+---FEED-SEPARATOR---
 THE FA YOUTH CUP
 Manchester City U18 vs Blackburn U18
 Eutelsat 7B/7C @ 7.0E
@@ -88,6 +116,30 @@ Elite 2 French League
 DVB-S2 4:2:0 8PSK
 ID: F428_DSNG_ROUEN
 FTA
+---FEED-SEPARATOR---
+Euroleague
+Dubai Basketball vs Anadolu Efes Isranbul
+Eutelsat 7A/B ( 7.0E )
+11042 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: BUL007 EL M1 Main
+CW: : FB 4D B1 F9 EA 5B C5 0A
+---FEED-SEPARATOR---
+Red Devils said:
+EuropeEuroleague 
+- Round 37 
+Monaco - Barcelona
+Eutelsat 7A/7B/7C @ 7.0E
+11088 Horizontal 7200.153 3/4
+ID:  F419_MAIN (SAT PROD)
+1920x1080 | 16.049 Mb/Sec | 8PSK | 4:2:0 DVB-S2
+SNR: 11.4 dB
+8B 9A 01 11 E3 1E C8 30  #CW:4A 4E 62 FA A1 E6 D2 59
+Click to expand...
+black screen,key not working....
+ maybe key changed????
 ---FEED-SEPARATOR---
 EuropeEuroleague 
 - Round 37 
