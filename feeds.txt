@@ -85,6 +85,22 @@ ID: Uki-1592
 Scottish Championship - Week 33
 Queen's Park v Ross County
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4125 H 7119 C-Band
+ID: BT_SES_20_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,95Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 42)
+Teams: 
+West Bromwich Albion vs Millwall FC
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Red Devils said:
+CW: B7 B7 E4 52 23 07 47 71
+Click to expand...
+---FEED-SEPARATOR---
 England Championship - Round 42 EFL - 
 West Brom v Millwal
 Eutelsat 7A/7B/7C @ 7.0E
@@ -116,6 +132,16 @@ Elite 2 French League
 DVB-S2 4:2:0 8PSK
 ID: F428_DSNG_ROUEN
 FTA
+---FEED-SEPARATOR---
+Euroleague
+Monaco vs Barcelona
+Eutelsat 7A/B ( 7.0E )
+11096 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: F489 MAIN
+CW: : 3B DE 85 9E 63 28 D2 5D
 ---FEED-SEPARATOR---
 Euroleague
 Dubai Basketball vs Anadolu Efes Isranbul
