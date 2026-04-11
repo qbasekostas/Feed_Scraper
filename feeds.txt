@@ -1,0 +1,30 @@
+Satfun2017 said:
+Championship 
+Norwich Vs Ipswich 
+CW: 52 37 F3 7C 4A 35 E4 63
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0E
+10977 Vertical 7120.153 2/3
+ID: Pitch EFL - Norwich v Ipswich (NEP Connect)
+1920x1080 | 14.105 Mb/Sec | 8PSK | 4:2:0 DVB-S2
+SNR: 11.7 dB
+---FEED-SEPARATOR---
+Championship 
+Norwich Vs Ipswich 
+100.5°E C
+@ AsiaSat 5 
+3984 V 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  BT_SES_20_SDI
+CW: 52 37 F3 7C 4A 35 E4 63
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10847 V 7500
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: E 363 M
+Event: 
+Basketball Super Ligi - Safiport vs Mersin
+CW: 32 3D D3 42 E7 43 EC 16
