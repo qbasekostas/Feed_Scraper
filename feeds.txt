@@ -1,3 +1,10 @@
+Liga Argentina Apertura Fecha 14:
+Boca Juniors vs Independiente Avellaneda 
+Eutelsat 7E
+11515 V 7500
+AFD 
+CW: 27 41 A1 09 89 C1 AD F7
+---FEED-SEPARATOR---
 International Friendly Games, WomenUSA vs Japan
 Asiasat 5 (100.5°E) C BAND
 3966 V 7500
