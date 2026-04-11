@@ -1,0 +1,7 @@
+International Friendly Games, WomenUSA vs Japan
+Asiasat 5 (100.5°E) C BAND
+3966 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: USA v Canada
+FTA
