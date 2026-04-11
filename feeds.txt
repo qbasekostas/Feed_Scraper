@@ -107,3 +107,12 @@ ID: E 363 M
 Event: 
 Basketball Super Ligi - Safiport vs Mersin
 CW: 32 3D D3 42 E7 43 EC 16
+---FEED-SEPARATOR---
+Portugal LBP, Round 20
+SL Benfica vs SC Braga
+Eutelsat 7B/7C @ 7.0E
+12646 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:E-289 (Mediapro Portugal)
+CW: 25 8D 25 D7 D8 43 A3 BE
