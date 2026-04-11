@@ -26,6 +26,15 @@ Zeren Spor vs Eczacıbaşı
 ID: TUR 147A
 CW: 22 55 00 77 00 22 55 77
 ---FEED-SEPARATOR---
+28.2E
+12667 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish League 1 - Week 33
+Stenhousemuir v Inverness CT
+---FEED-SEPARATOR---
 Satfun2017 said:
 Championship 
 Norwich Vs Ipswich 
