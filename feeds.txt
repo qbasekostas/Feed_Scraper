@@ -1,3 +1,11 @@
+Portugal -Liga Una Seguros, Playoffs
+Vitória SC vs Sporting CP
+10.0E
+11305 V 7200
+4.2.0 HD DVB-S2/8PSK
+ID: 
+CW: AB BA 11 76 04 20 26 4A
+---FEED-SEPARATOR---
 Turkey.VVSL Lig, Women 
 Playoffs
 VakıfBank VS Fenerbahçe
@@ -38,6 +46,22 @@ MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
 ID:  BT_SES_20_SDI
 CW: 52 37 F3 7C 4A 35 E4 63
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3755 V 7119 C-Band
+ID: BT_SES_22_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,95Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 42)
+Teams: 
+Sheffield United vs Hull City
+Time / Kickoff: 21.00 JKT-TH / 22.00 MY-SG / 14.00 GMT / 16.00 CET
+Red Devils said:
+CW: 86 88 AD BB 33 74 21 C8
+Click to expand...
 ---FEED-SEPARATOR---
 EFL - Sheffield Utd v Hull City
 Eutelsat 7A/7B/7C @ 7.0E
