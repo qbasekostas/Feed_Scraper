@@ -1,3 +1,13 @@
+Turkey.VVSL Lig, Women 
+Playoffs
+VakıfBank VS Fenerbahçe
+42.0E
+11460 V 6800
+4.2.2
+HD- DVB-S2 - 8PSK
+ID: TUR-M25-A
+CW: 44 97 00 DB 00 44 97 DB
+---FEED-SEPARATOR---
  Turkey.
 VVSL Lig, Women
  Playoffs
@@ -28,6 +38,14 @@ MPEG 4 - 4:2:0
 DVB-S2 - 8PSK -1080P
 ID:  BT_SES_20_SDI
 CW: 52 37 F3 7C 4A 35 E4 63
+---FEED-SEPARATOR---
+EFL - Sheffield Utd v Hull City
+Eutelsat 7A/7B/7C @ 7.0E
+10995 Horizontal 7120.164 2/3
+ID: Pitch EFL - Sheffield Utd v Hull City (NEP Connect)
+1920x1080 | 14.105 Mb/Sec | 8PSK | 4:2:0 DVB-S2
+SNR: 11.1 dB
+8D 24 8E 36 60 76 A5 BB  #CW:86 88 AD BB 33 74 21 C8
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 12655 Vertical 7200.054 3/4
