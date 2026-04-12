@@ -12,3 +12,11 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: USA v Canada
 FTA
+---FEED-SEPARATOR---
+7°E KU
+12637 V 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: Fi15_GNVE
+Event: FIFA Women's Series Football 2026 International Friendlies Brazil vs South Korea
+CW: D2 D1 1F C2 81 2F EE 9E
