@@ -5,6 +5,36 @@ Eutelsat 7E
 AFD 
 CW: 27 41 A1 09 89 C1 AD F7
 ---FEED-SEPARATOR---
+13E
+10830 V 7200 4:2:0
+DVBS-2 8PSK
+ID GCUK Enc 2
+CW: A1 1B 16 D2 89 D3 2D 89
+Scottish Premiership - Week 33
+Falkirk v Rangers
+---FEED-SEPARATOR---
+HBO said:
+			AD C6 9E 52 F1 9D 13 20  #CW:
+C4 CC 35 C5 34 94 0D D5
+   #[E] PID:07D1h
+Birmingham City vs Wrexham
+Click to expand...
+Birmingham City vs Wrexham
+Eutelsat 7A/7B/7C @ 7.0E
+11080  H 7120 
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID: Pitch  
+Birmingham City v Wrexham
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+ID : BT_SES_22_SDI 
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+AD C6 9E 52 F1 9D 13 20  #CW:
+C4 CC 35 C5 34 94 0D D5
+   #[E] PID:07D1h
+Birmingham City vs Wrexham
+---FEED-SEPARATOR---
 English EFL - Highlights
 Eutelsat 7A/B ( 7.0E )
 11022 H  7120
@@ -19,6 +49,22 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: USA v Canada
 FTA
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4184 V 7199 C-Band
+ID: TLCAT-003-1
+(Provider ID: NT THAILAND)
+MPEG4 | DVB-S2
+1920x1080i |12,99Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: FIFA Women's Series Football 2026 International Friendlies (Semi-final)
+Teams: Indonesia vs DR Congo
+Time / Kickoff: 16.00 JKT-TH / 17.00 MY-SG / 09.00 GMT / 11.00 CET
+fusillo said:
+#CW:
+D3 AF 40 C2 C7 75 76 B2
+Click to expand...
 ---FEED-SEPARATOR---
 7.0°E
 12628 V 7200
