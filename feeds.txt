@@ -5,6 +5,36 @@ Eutelsat 7E
 AFD 
 CW: 27 41 A1 09 89 C1 AD F7
 ---FEED-SEPARATOR---
+42.0E
+11478 V 6800
+4.2.2 HD
+ID: TUR 147A
+CW
+: 
+32 35 00 67 00 32 35 67
+Ziraat Bankasi-Spor Toto
+---FEED-SEPARATOR---
+England EFL Trophy, Knockout stage, Final
+Luton Town vs Stockport County
+Asiasat 5 (100.5°E) C BAND
+4106 H 7119
+3893 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_24_SDI (SES)
+CW: 44 B6 2D 27 47 AD 55 49
+---FEED-SEPARATOR---
+English League Trophy - FINAL
+Luton Town vs. Stockport County
+Eutelsat 7B/7C @ 7.0°E
+11088 - H - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Vetru Trophy Final -
+CW: 44 B6 2D 27 47 AD 55 49
+---FEED-SEPARATOR---
 13E
 10830 V 7200 4:2:0
 DVBS-2 8PSK
