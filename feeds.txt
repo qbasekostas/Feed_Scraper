@@ -5,6 +5,17 @@ Eutelsat 7E
 AFD 
 CW: 27 41 A1 09 89 C1 AD F7
 ---FEED-SEPARATOR---
+Perugia Umbria Volley
+ vs.
+Gas Sales Piacenza 
+7.0E
+11062 H 7200
+DVB-S2 - 
+4:2:0
+- 8PSK
+ID:  Studioline Main
+CW: 70 B1 02 23 05 2C A4 D5
+---FEED-SEPARATOR---
 Albahraniy said:
 			Eutelsat 7B/7C @ 7.0E
 12601 V 7200
