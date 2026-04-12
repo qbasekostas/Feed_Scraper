@@ -13,6 +13,13 @@ DVB-S2 - 1080P - 8PSK
 ID: USA v Canada
 FTA
 ---FEED-SEPARATOR---
+7.0°E
+12628 V 7200
+4:2:0
+ID: GVA_Fi05
+CW: D3 AF 40 C2 C7 75 76 B2
+FIFA Women's Series Football 2026 International Friendlies
+---FEED-SEPARATOR---
 7°E KU
 12637 V 7200
 DVB-S2|1080HD
