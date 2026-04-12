@@ -5,6 +5,13 @@ Eutelsat 7E
 AFD 
 CW: 27 41 A1 09 89 C1 AD F7
 ---FEED-SEPARATOR---
+English EFL - Highlights
+Eutelsat 7A/B ( 7.0E )
+11022 H  7120
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch  Highlights Show 36
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
 International Friendly Games, WomenUSA vs Japan
 Asiasat 5 (100.5°E) C BAND
 3966 V 7500
@@ -27,3 +34,28 @@ DVB-S2|1080HD
 ID: Fi15_GNVE
 Event: FIFA Women's Series Football 2026 International Friendlies Brazil vs South Korea
 CW: D2 D1 1F C2 81 2F EE 9E
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10847 V 7500
+DVB-S2 - 
+4:2:2
+- 8PSK
+ID: E333 M
+Event: 
+Basketball Super Ligi - Manisa vs Tofas
+CW: 86 8A C7 D7 F4 C7 D9 94
+---FEED-SEPARATOR---
+Spain, Liga ACB
+​
+Malaga
+​
+vs. 
+​
+Valencia Basket
+​
+​
+Eutelsat 7A/B ( 7.0E )
+11105 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi01 ACB
+CW: D7 88 5F BE AE 23 52 23
