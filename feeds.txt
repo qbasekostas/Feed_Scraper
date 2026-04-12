@@ -140,6 +140,32 @@ ID: Fi15_GNVE
 Event: FIFA Women's Series Football 2026 International Friendlies Brazil vs South Korea
 CW: D2 D1 1F C2 81 2F EE 9E
 ---FEED-SEPARATOR---
+Ozan said:
+Spain, Liga ACB
+​
+Malaga
+​
+vs. 
+​
+Valencia Basket
+​
+​
+Eutelsat 7A/B ( 7.0E )
+11105 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi01 ACB
+CW: D7 88 5F BE AE 23 52 23
+Click to expand...
+Spain, Liga ACB
+​
+San Pablo Burgos
+​
+vs. 
+​
+Real Madrid 
+​
+​
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10847 V 7500
 DVB-S2 - 
