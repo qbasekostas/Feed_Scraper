@@ -15,3 +15,14 @@ Racing Club vs River Plate
 4.2.0 HD DVB-S2 - 8PSK
 ID: AFD
 CW: 27 41 A1 09 89 C1 AD F7
+---FEED-SEPARATOR---
+SATELLITE Name : Eutelsat 7 (7.0°E)
+KU Band
+FREQUENCY: 10959H SR:7200
+DVB-S2 8PSK
+Format 4:2:0
+Event
+ NBA
+San Antonio Spurs - Denver Nuggets
+1080p HD FORMAT
+CW: 95 74 CA D3 E7 24 D9 E4
