@@ -24,6 +24,24 @@ DVB-S2 | 8PSK | 3/4
 ID: OVERON E-457 V1
 CW: 20 23 DD 20 AA 20 22 EC
 ---FEED-SEPARATOR---
+KK Studentski centar Podgorica
+KK Mega Basket Belgrade
+7.0E
+12522 H 4937
+DVB-S2 - 4:2:0 - 8PSK
+ID:   MNE-001 main
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10847 V 7500
+DVB-S2 - 
+4:2:2
+- 8PSK
+ID: DT SNG 2 MAIN
+Event: 
+Basketball Super Ligi - Anadolu Efes vs Fenerbahce
+CW: 81 FE 78 F7 C9 8E 82 D9
+---FEED-SEPARATOR---
 SATELLITE Name : Eutelsat 7 (7.0°E)
 KU Band
 FREQUENCY: 10959H SR:7200
