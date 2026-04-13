@@ -1,74 +1,9 @@
-simo naith said:
-CW: 27 41 A1 09 89 C1 AD F7
-Click to expand...
-Eutelsat 7B/7C (7.0 E)
-12515 V 7500
-DVB-S2/8PSK (4:2:0)
-ID: AFD
-Event: 
-Argentina Liga Profesional - Huracan vs Rosario Central
----FEED-SEPARATOR---
-Argentina Liga Profesional
-Racing Club vs River Plate
-7.0E
-11514 V 7500
-4.2.0 HD DVB-S2 - 8PSK
-ID: AFD
-CW: 27 41 A1 09 89 C1 AD F7
----FEED-SEPARATOR---
-FRENDLY WOMEN GAME
-21.6
-MOROCCO VS TANZANIA
-- Freq: 11580,240
-- ID:
-- Pol: Horizontal
-- SR: 5000,068
-- Mod: 8PSK
-- FEC: 3/4
-- Std: DVB-S2
-CW: FE ED 13 FE 04 20 26 4A
----FEED-SEPARATOR---
-UEFA Champions League
+Event :Argentina Liga Profesional - Apertura - Round 14
+Teams : Lanus  
+ Banfield
 Eutelsat 7A/7B/7C @ 7.0°E
-11544 V 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
-ID: OVERON E-457 V1
-CW: 20 23 DD 20 AA 20 22 EC
----FEED-SEPARATOR---
-Eutelsat 7.0 E
-12520 H 4936
-4:2:0
-ID: MNE-001 main 
-Event: Studentski Centar - Mega Basket
-CW: AB BA 20 85 25 20 26 6B
-ABA League Championship
----FEED-SEPARATOR---
-KK Studentski centar Podgorica
-KK Mega Basket Belgrade
-7.0E
-12522 H 4937
-DVB-S2 - 4:2:0 - 8PSK
-ID:   MNE-001 main
-CW: AB BA 20 85 25 20 26 6B
----FEED-SEPARATOR---
-Hot Bird 13B/13C/13E @ 13.0E
-10847 V 7500
-DVB-S2 - 
-4:2:2
-- 8PSK
-ID: DT SNG 2 MAIN
-Event: 
-Basketball Super Ligi - Anadolu Efes vs Fenerbahce
-CW: 81 FE 78 F7 C9 8E 82 D9
----FEED-SEPARATOR---
-SATELLITE Name : Eutelsat 7 (7.0°E)
-KU Band
-FREQUENCY: 10959H SR:7200
-DVB-S2 8PSK
-Format 4:2:0
-Event
- NBA
-San Antonio Spurs - Denver Nuggets
-1080p HD FORMAT
-CW: 95 74 CA D3 E7 24 D9 E4
+ ( KU-BAND )
+11513 V 7500
+   AFD (iKOMG)
+MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
+CW: 27 41 A1 09 89 C1 AD F7
