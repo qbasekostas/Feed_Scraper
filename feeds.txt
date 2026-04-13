@@ -16,6 +16,14 @@ Racing Club vs River Plate
 ID: AFD
 CW: 27 41 A1 09 89 C1 AD F7
 ---FEED-SEPARATOR---
+UEFA Champions League
+Eutelsat 7A/7B/7C @ 7.0°E
+11544 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
+ID: OVERON E-457 V1
+CW: 20 23 DD 20 AA 20 22 EC
+---FEED-SEPARATOR---
 SATELLITE Name : Eutelsat 7 (7.0°E)
 KU Band
 FREQUENCY: 10959H SR:7200
