@@ -16,6 +16,18 @@ Racing Club vs River Plate
 ID: AFD
 CW: 27 41 A1 09 89 C1 AD F7
 ---FEED-SEPARATOR---
+FRENDLY WOMEN GAME
+21.6
+MOROCCO VS TANZANIA
+- Freq: 11580,240
+- ID:
+- Pol: Horizontal
+- SR: 5000,068
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+CW: FE ED 13 FE 04 20 26 4A
+---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
 11544 V 7200
