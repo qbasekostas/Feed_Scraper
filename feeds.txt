@@ -24,6 +24,14 @@ DVB-S2 | 8PSK | 3/4
 ID: OVERON E-457 V1
 CW: 20 23 DD 20 AA 20 22 EC
 ---FEED-SEPARATOR---
+Eutelsat 7.0 E
+12520 H 4936
+4:2:0
+ID: MNE-001 main 
+Event: Studentski Centar - Mega Basket
+CW: AB BA 20 85 25 20 26 6B
+ABA League Championship
+---FEED-SEPARATOR---
 KK Studentski centar Podgorica
 KK Mega Basket Belgrade
 7.0E
