@@ -24,15 +24,17 @@ DUB
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
 10983 H 4821 
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.265/HEVC Video | 4:2:0 | 
+DVB-S2X - 4:2:0
+Event: 
+Champions League Highlights/Backup
 ID: E467 B2 Match 
 CW: 11 8D C7 65 5E 4D AE 59
 ---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
 10988 H 4820
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.265/HEVC Video | 4:2:0 | 
-ID: Unname  
+DVB-S2X - 4:2:2
+ID: (empty)
+Event: 
+Champions League Highlights/Backup
 CW: 11 8D C7 65 5E 4D AE 59
