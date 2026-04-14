@@ -1,84 +1,23 @@
-xachik said:
-100.5e
-3993 V 7500
-4:2:2
-ID: 
-OCC 5
 Copa Libertadores & Copa Sudamericana
-B5 C8 68 38 53 35 32 C3  #CW: 
-F1 C1 5E 10 B3 EE 48 E9
-Click to expand...
-Eutelsat 10A @ 10.0E
-10767 Vertical 33999.677 | 5/6 | 
+Asiasat 5 (100.5°E) C BAND
+3983 V 7500
+DVB-S2 - 1080P - 8PSK
 4:2:2
-ID: OCC 5 (*unnamed-51*)
-1920*1080 | DVB-S2 | 8PSK | SNR: 10.0 | 84.284Mb/Sec
+ID:OCC 8 
+CW: 12 D2 13 F7 C4 F3 F9 B0
 ---FEED-SEPARATOR---
-xachik said:
-100.5e
-3840 H 30000
-4:2:2
-ID: 
-OCC 4
 Copa Libertadores & Copa Sudamericana
-8F 17 FF 91 F5 60 0F B0  #CW: 
-8A C1 4F 9A B3 E4 48 DF
-Click to expand...
-Eutelsat 10A @ 10.0E
-10767 Vertical 33999.677 | 5/6 | 4:2:2
-ID: OCC 4 (Overon America)
-1920*1080 | DVB-S2 | 8PSK | SNR: 10.0 | 84.284Mb/Sec
+Asiasat 5 (100.5°E) C BAND
+3975 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:OCC 7
+CW: CB D2 31 CE C4 FE 49 0B
 ---FEED-SEPARATOR---
-xachik said:
-100.5e
-3840 H 30000
-4:2:2
-ID: 
-OCC 3
 Copa Libertadores & Copa Sudamericana
-8F 66 2D 8A E6 F5 7B 81  #CW: 
-43 C1 4F 53 B3 E9 48 E4
-Click to expand...
-Eutelsat 10A @ 10.0E
-10767 Vertical 33999.677 | 5/6 | 4:2:2
-ID: OCC 3 (Service Provider)
-1920*1080 | DVB-S2 | 8PSK | SNR: 10.0 | 84.284Mb/Sec
----FEED-SEPARATOR---
-xachik said:
-100.5e
-3840 H 30000
+Asiasat 5 (100.5°E) C BAND
+3966 V 7500
+DVB-S2 - 1080P - 8PSK
 4:2:2
-ID: 
-OCC 2
-Copa Libertadores & Copa Sudamericana
-8C C6 42 CE 8D 5A 6D E7  #CW: 
-BD C1 6D EB B3 E4 48 DF
-Click to expand...
-Eutelsat 10A @ 10.0E
-10767 Vertical 33999.677 | 5/6 | 4:2:2
-ID:  OCC 2 (Service Provider)
-1920*1080 | DVB-S2 | 8PSK | SNR: 10.0 | 84.284Mb/Sec
----FEED-SEPARATOR---
-xachik said:
-100.5e
-3840 H 30000
-4:2:2
-ID: 
-OCC 1
-Copa Libertadores & Copa Sudamericana
-4C 27 AB 9E 9C 56 38 D5  #CW: 
-2A D2 E5 E1 C4 FF F9 BC
-Click to expand...
-Eutelsat 10A @ 10.0E
-10767 Vertical 33999.677 | 5/6 | 4:2:2
-ID:  OCC 1 (Service Provider)
-1920*1080 | DVB-S2 | 8PSK | SNR: 10.0 | 84.284Mb/Sec
----FEED-SEPARATOR---
-100.5e
-3993 V 7500
-4:2:2
-ID: 
-OCC 5
-Copa Libertadores & Copa Sudamericana
-B5 C8 68 38 53 35 32 C3  #CW: 
-F1 C1 5E 10 B3 EE 48 E9
+ID:OCC 6
+CW: 5D D2 13 42 C4 FF F9 BC
