@@ -17,6 +17,41 @@ Cloudbass
 Scottish League 1 - Week 32
 Peterhead v Inverness CT 
 ---FEED-SEPARATOR---
+Championship, Round 26
+Southampton vs Blackburn Rovers
+Eutelsat 7B/7C @ 7.0E
+11090  H 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  Pitch Southampton v Blackburn R
+CW: 92 43 CC A1 14 A3 15 CC
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11079 H 7119
+DVB-S2 - 4:2:0 - 8PSK
+ID:  Pitch Portsmouth vs Ipswich
+Event:  
+English Championship, Portsmouth vs Ipswich
+CW: B5 B9 A2 10 D4 33 C3 CA
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3966 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_20_SDI
+Event:  
+English Championship, Portsmouth vs Ipswich
+CW: B5 B9 A2 10 D4 33 C3 CA
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3975 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_18_SDI
+Event: 
+English Championship: Southampton F.C.vs Blackburn Rovers F.C
+CW: 92 43 CC A1 14 A3 15 CC
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0E)
 12510 V 7200
 MPEG-4 FTA DVB-S2 8PSK,4:2:0
@@ -63,6 +98,31 @@ World Cup Women - Qualification - League A
 Poland W - Ireland W
 B9 EB E9 74 C1 E7 7C FA 
 CW: 11 24 45 7A CA 16 26 06
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A
+Iceland W - Ukraine W
+Eutelsat 7A/7B/7C @ 7.0E
+11060 Vertical 7200.087 | 3/4 | 4:2:0
+ID:  ISRUV enc 1 (RUV)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.0 | 16.049Mb/Sec
+CW: DE 2F 73 80 CA 34 21 1F
+---FEED-SEPARATOR---
+FIFA World Cup, Women, Qualification
+Netherlands vs France
+Eutelsat 7A/7B/7C @ 7.0°E
+11514 V 7120
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.73 Mbit/s
+ID: RBM TV
+CW: 2D A5 7A 4C 1E E3 2A 2B
+---FEED-SEPARATOR---
+FIFA Series 2026 Friendly International Women
+Canada W - South Korea W
+Eutelsat 7A/7B/7C @ 7.0E
+12636 Vertical 7200.164 | 3/4 | 4:2:0
+ID: Fi15_GNVE (CM5000)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.0 | 16.049Mb/Sec
+A4 75 36 2F 29 36 E6 9D  #CW: D4 B8 BD 49 D4 A2 12 88
 ---FEED-SEPARATOR---
 World Cup Women - Qualification - League A
 England W - Spain W
