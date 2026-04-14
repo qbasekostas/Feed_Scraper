@@ -8,6 +8,26 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: 27 41 A1 09 89 C1 AD F7
 ---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+ ( KU-BAND )
+10985 V 9599
+ID:  POL 48 ENC1 (*unnamed-348*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+World Cup Women - Qualification - League A 
+Poland W - Ireland W
+B9 EB E9 74 C1 E7 7C FA 
+CW: 11 24 45 7A CA 16 26 06
+---FEED-SEPARATOR---
+UEFA Champions League
+Liverpool vs PSG
+ Eutelsat 7A/7B/7C @ 7.0°E
+ 11048 V 17140
+ 1920×1080 | H.264/AVC
+4:2:2
+ | 40.55 Mb/s
+ Canal Plus Anfield Main
+ 47 65 8C 38 8F B4 B6 F9
+---FEED-SEPARATOR---
 Ozan said:
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
@@ -18,8 +38,6 @@ ID: E467 B2 Match
 CW: 11 8D C7 65 5E 4D AE 59
 Click to expand...
 FTA
----FEED-SEPARATOR---
-DUB
 ---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
