@@ -8,6 +8,15 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: 27 41 A1 09 89 C1 AD F7
 ---FEED-SEPARATOR---
+World Cup Women - Qualification - League A 
+Norway W - Slovenia W 
+Eutelsat 7A/7B/7C @ 7.0E
+11522 Vertical 7200.164 | 3/5 | 
+4:2:2
+ID: TV2NO-BER (TV 2 Norway)
+1920*1080 | DVB-S2 | 8PSK | SNR: 7.0 | 12.816Mb/Sec
+CW: FTA
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
  ( KU-BAND )
 10985 V 9599
@@ -18,6 +27,16 @@ Poland W - Ireland W
 B9 EB E9 74 C1 E7 7C FA 
 CW: 11 24 45 7A CA 16 26 06
 ---FEED-SEPARATOR---
+Event:Europe Champions League - Play Offs - Quarter-finals
+Teams : Atl. Madrid 
+ Barcelona
+Eutelsat 7A/7B/7C @ 7.0E
+ ( KU-BAND )
+11070  Horizontal  7199.99
+ID:OVERON E-457 V1 (OVERON E399 V1)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+CW: 76 71 61 48 61 88 13 FC
+---FEED-SEPARATOR---
 UEFA Champions League
 Liverpool vs PSG
  Eutelsat 7A/7B/7C @ 7.0°E
@@ -27,17 +46,6 @@ Liverpool vs PSG
  | 40.55 Mb/s
  Canal Plus Anfield Main
  47 65 8C 38 8F B4 B6 F9
----FEED-SEPARATOR---
-Ozan said:
-UEFA Champions League
-Eutelsat 7A/7B/7C @ 7.0°E
-10983 H 4821 
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.265/HEVC Video | 4:2:0 | 
-ID: E467 B2 Match 
-CW: 11 8D C7 65 5E 4D AE 59
-Click to expand...
-FTA
 ---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
