@@ -17,6 +17,25 @@ ID: TV2NO-BER (TV 2 Norway)
 1920*1080 | DVB-S2 | 8PSK | SNR: 7.0 | 12.816Mb/Sec
 CW: FTA
 ---FEED-SEPARATOR---
+Ferari3000 said:
+			Eutelsat 7B/7C (7.0E)
+12517 H 7200
+ID: YSM-016 MAIN
+World Championship Qualification Women,League A, Group 1
+Serbia W - Italy W (18:15)
+Biss Encrypt?
+Click to expand...
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A 
+Germany W - Austria W
+Eutelsat 7A/7B/7C @ 7.0E
+11088 Vertical 7120.054 | 2/3 | 
+4:2:0
+ID: Pitch WWCQ Germany V Austria (NEP Connect)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7 | 14.105Mb/Sec
+CW: 17 11 12 3A 96 25 76 31
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0E
  ( KU-BAND )
 10985 V 9599
@@ -26,6 +45,22 @@ World Cup Women - Qualification - League A
 Poland W - Ireland W
 B9 EB E9 74 C1 E7 7C FA 
 CW: 11 24 45 7A CA 16 26 06
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A
+Sweden W - Denmark W
+Eutelsat 7A/7B/7C @ 7.0E
+11079 Vertical 7120.153 | 2/3 | 4:2:0
+ID: WWCQ Sweden V Denmark (NEP Connect)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4 | 14.105Mb/Sec
+CW: 34 AA BC 9A D8 14 04 F0
+---FEED-SEPARATOR---
+UEFA Champions League
+Bayern Munich - Real Madrid
+Eutelsat 7A/7B/7C @ 7.0E
+12685 Horizontal 7200.164 | 3/4 | 4:2:0
+ID: D-312 (.)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0 | 16.049Mb/Sec
+CW: 1A 2B 3C 81 4D 5E 6F 1A
 ---FEED-SEPARATOR---
 Event:Europe Champions League - Play Offs - Quarter-finals
 Teams : Atl. Madrid 
