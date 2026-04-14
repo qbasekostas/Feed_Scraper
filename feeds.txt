@@ -8,6 +8,24 @@ Eutelsat 7A/7B/7C @ 7.0°E
 MPEG4-4:2:0 HD 1920x1080 |16.856 Mbit/Sec | 8PSK | DVB-S2 HD
 CW: 27 41 A1 09 89 C1 AD F7
 ---FEED-SEPARATOR---
+28.2E
+12667 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish League 1 - Week 32
+Peterhead v Inverness CT 
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+12510 V 7200
+MPEG-4 FTA DVB-S2 8PSK,4:2:0
+ID: 
+A1PRO Via1 
+Provider: Net 1
+World Championship Qualification Women, League C,Round 3,Group 2
+Gibraltar W - Croatia W (19:00)
+---FEED-SEPARATOR---
 World Cup Women - Qualification - League A 
 Norway W - Slovenia W 
 Eutelsat 7A/7B/7C @ 7.0E
@@ -47,6 +65,35 @@ B9 EB E9 74 C1 E7 7C FA
 CW: 11 24 45 7A CA 16 26 06
 ---FEED-SEPARATOR---
 World Cup Women - Qualification - League A
+England W - Spain W
+Eutelsat 7A/7B/7C @ 7.0E
+11070 Vertical 7120.153 | 2/3 | 
+4:2:0
+ID: Pitch WWQC England V Spain (NEP Connect)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4 | 14.105Mb/Sec
+CW: DD EE 45 10 AF 14 04 C7
+---FEED-SEPARATOR---
+28.2E
+12608 H 9875 
+4:2:0
+DVBS-2 8PSK
+ID 
+D383 Nurnberg ZDF
+CW: 17 11 12 3A 96 25 76 31
+World Cup Women - Qualification - League A
+Germany W - Austria W
+---FEED-SEPARATOR---
+28.2E
+12596 H 9875 
+4:2:0
+DVBS-2 8PSK
+ID 
+D-383 Nuernberg WF M
+CW: 17 11 12 3A 96 25 76 31
+World Cup Women - Qualification - League A
+Germany W - Austria W
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A
 Sweden W - Denmark W
 Eutelsat 7A/7B/7C @ 7.0E
 11079 Vertical 7120.153 | 2/3 | 4:2:0
@@ -75,7 +122,8 @@ CW: 76 71 61 48 61 88 13 FC
 UEFA Champions League
 Liverpool vs PSG
  Eutelsat 7A/7B/7C @ 7.0°E
- 11048 V 17140
+ 11048 V 17140 
+DVB-S2X
  1920×1080 | H.264/AVC
 4:2:2
  | 40.55 Mb/s
@@ -99,3 +147,12 @@ ID: (empty)
 Event: 
 Champions League Highlights/Backup
 CW: 11 8D C7 65 5E 4D AE 59
+---FEED-SEPARATOR---
+ABA Liga, Relegation Round, Round 8
+KK Zadar vs FMP Beograd
+Eutelsat 7B/7C @ 7.0E
+12573 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  Medialink CRO-024/1
+CW: 20 25 AB F0 CD 20 26 13
