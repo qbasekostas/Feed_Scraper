@@ -69,6 +69,38 @@ DVB-S2 -
 ID: GVA_Fi05
 CW: : D5 B1 82 08 26 2B 71 C2
 ---FEED-SEPARATOR---
+UEFA Champions League
+Bayern München vs Real Madrid
+Eutelsat 21B @ 21.5°E
+11659 H 6666
+DVB-S2 | 8-PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 13.82 Mbit/s
+ID: FRBEIN_ENC_01
+CW: BB DE 58 F1 47 BA DE DF
+---FEED-SEPARATOR---
+UEFA Champions League
+Bayern Munich - Real Madrid
+Eutelsat 7A/7B/7C @ 7.0E
+12685 Horizontal 7205.164 | 3/4 | 4:2:0
+ID: D-312 (.)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0 | 16.049Mb/Sec
+CW: 1A 2B 3C 81 4D 5E 6F 1A
+from 
+Red Devils
+​
+---FEED-SEPARATOR---
+UEFA Champions League - Quarter Final
+Bayern Munich vs Real Madrid
+Eutelsat 3B @ ( 3.1E )
+10961 H 7500 
+ID: beIN SPORTS
+10970 H 7500 
+ID: Service-1  (not active yet)
+DVB-S2 - 
+4:2:0
+ - 8PSK
+CW: : AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
 UEFA Champions League - Quarter Final (2nd Leg) [2-1]
 Bayern Munich vs. Real Madrid
 Eutelsat 7B/7C @ 7.0°E
