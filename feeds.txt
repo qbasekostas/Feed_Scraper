@@ -41,3 +41,13 @@ CW: BD C1 6D EB B3 E4 48 DF
 CW: 43 C1 4F 53 B3 E9 48 E4
 CW: 8A C1 4F 9A B3 E4 48 DF
 CW: F1 C1 5E 10 B3 EE 48 E9
+---FEED-SEPARATOR---
+FIFA Series 2026 Friendly International Women
+Indonesia vs New Caledonia
+Eutelsat 7A/B ( 7.0E )
+12627 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: GVA_Fi05
+CW: : D5 B1 82 08 26 2B 71 C2
