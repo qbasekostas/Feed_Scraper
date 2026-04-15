@@ -44,6 +44,8 @@ CW: F1 C1 5E 10 B3 EE 48 E9
 ---FEED-SEPARATOR---
 FIFA Series 2026 Friendly International Women
 Indonesia vs New Caledonia
+Teams : Thailand W 
+ D.R. Congo W
 Eutelsat 7A/B ( 7.0E )
 12627 V 7199
 DVB-S2 - 
@@ -51,6 +53,17 @@ DVB-S2 -
  - 8PSK
 ID: GVA_Fi05
 CW: : D5 B1 82 08 26 2B 71 C2
+---FEED-SEPARATOR---
+UEFA Champions League - Quarter Final (2nd Leg) [2-1]
+Bayern Munich vs. Real Madrid
+Eutelsat 7B/7C @ 7.0°E
+12568 - H - 17140 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 16PSK
+ID: MUN-RMD
+CW: BB AA 52 B7 82 CC AA F8
 ---FEED-SEPARATOR---
 UEFA Champions League
 Eutelsat 7A/7B/7C @ 7.0°E
