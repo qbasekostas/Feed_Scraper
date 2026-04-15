@@ -1,3 +1,10 @@
+Eutelsat 10E
+10767 V 34000 S2
+ 4:2:2
+ID:OCC 5
+CW: BA D2 8B 17 C4 F4 49 01
+---FEED-SEPARATOR---
+BLACKCRUSADER said:
 ASIASAT 5 100.5E
 COPA GAMES
 3840 H 30000
@@ -5,169 +12,26 @@ OCC1 31 D2 A9 AC C4 FC F9 B9
 OCC2 73 D2 8B D0 C4 F9 49 06
 OCC3 A2 D2 B8 2C C4 F3 F9 B0 
 OCC4 ED D2 B8 77 C4 FF F9 BC
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3983 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID:OCC 8 
-CW: 12 D2 13 F7 C4 F3 F9 B0
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3975 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID:OCC 7
-CW: CB D2 31 CE C4 FE 49 0B
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3966 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID:OCC 6
-CW: 5D D2 13 42 C4 FF F9 BC
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana: 
-Estudiantes
- Cusco
-Cerro Porteño
- Junior
-Nacional
-Deportes Tolima
-Grêmio
-Deportivo Riestra
-São Paulo
-O'Higgins
-Eutelsat 10E
-10768 V 34001/4.2.2
-OCC 1/2/3/4/5
-CW: 2A D2 E5 E1 C4 FF F9 BC
-CW: BD C1 6D EB B3 E4 48 DF
-CW: 43 C1 4F 53 B3 E9 48 E4
-CW: 8A C1 4F 9A B3 E4 48 DF
-CW: F1 C1 5E 10 B3 EE 48 E9
----FEED-SEPARATOR---
-Eutelsat 7B/7C ( 7.0E )
-10995 V 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: VOLLEY_WORLD_MAIN
-Event:
-Volleyball
-Italy Women - Milano vs Conegliano
-CW: 9A 22 39 F5 79 F1 07 71
----FEED-SEPARATOR---
-Turkey, First Division, Playoffs
-Galatasaray vs Halkbank
-42.0E
-11478 V 6800
-4.2.2 HD DVB-S2 -8PSK
-ID: TUR-147 A
-CW: 44 27 00 6B 00 44 27 6B
----FEED-SEPARATOR---
-FIFA Series 2026 Friendly International Women
-Indonesia vs New Caledonia
-Thailand vs D.R. Congo 
-Eutelsat 7A/B ( 7.0E )
-12627 V 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: GVA_Fi05
-CW: : D5 B1 82 08 26 2B 71 C2
----FEED-SEPARATOR---
-Ratzvan said:
-CW: D5 B1 82 08 26 2B 71 C2
 Click to expand...
-Eutelsat 7A/B   ( 7.0E )
-12655 V 7198
-DVB-S2 - 4:2:0 - 8PSK
-ID: Fi20_GNVE
-Event: 
-Friendly International Women, Kenya  vs Australia
+Eutelsat 10E
+10767 V 34000 S2
+ 4:2:2
+OCC1 Caracas FC v Independiente Petrolero
+OCC2 Racing Club v Botafago
+OCC3 Cruzeiro v Universidad Catolica
+OCC4 Libertad v Rosario Central   
 ---FEED-SEPARATOR---
-Eutelsat 7A/B   ( 7.0E )
-12628 V 7198
-DVB-S2 - 4:2:0 - 8PSK
-ID: GVA_Fi05
-Event:  
-FIFA: 
-Friendly International Women, Indonesia  vs New Caledonia 
-CW: D5 B1 82 08 26 2B 71 C2
----FEED-SEPARATOR---
-UEFA Champions League, Highlights
- Eutelsat 7A/7B/7C @ 7.0°E
- 11022 H 9875
- 1920×1080 | H.264/AVC
-4:2:2
- | 20.95 Mb/s
- GVA_Fi01_matchnight_HL
- A1 E1 F6 78 90 2E DE 9C
----FEED-SEPARATOR---
-Eutelsat 3C @ 3.1° E
-Fréq:3796 - R - 7200
-MPEG 4 - 4:2:0 - DVB-S2
-ID: UEFA
-UEFA Champions League
-Arsenal vs Sporting
-CW: 5D 91 8C 7A 9D EA 58 DF
----FEED-SEPARATOR---
-𝗨𝗘𝗙𝗔 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀 𝗟𝗲𝗮𝗴𝘂𝗲
-𝗤𝘂𝗮𝗿𝘁𝗲𝗿-𝗳𝗶𝗻𝗮𝗹𝘀
-𝗕𝗮𝘆𝗲𝗿𝗻 𝗠𝘂̈𝗻𝗰𝗵𝗲𝗻 𝘃𝘀 𝗥𝗲𝗮𝗹 𝗠𝗮𝗱𝗿𝗶𝗱
-𝐄𝐮𝐭𝐞𝐥𝐬𝐚𝐭 𝟑𝐁 @ 𝟑.𝟏° 𝐄
-𝟭𝟬𝟵𝟲𝟬 𝗛 𝟳𝟱𝟬𝟬 |𝟒:𝟐:𝟎 | 𝐇.𝟐𝟔𝟒
-𝟭𝟬𝟵𝟳𝟬 𝗛 𝟳𝟱𝟬𝟬 |𝟒:𝟐:𝟎 | 𝐇.𝟐𝟔𝟒 (𝗹𝗮𝘁𝗲𝗿)
-𝟏𝟗𝟐𝟎*𝟏𝟎𝟖𝟎 | 𝐃𝐕𝐁-𝐒𝟐 | 𝟖𝐏𝐒𝐊
-𝗜𝗗: 𝗯𝗲𝗜𝗡 𝗦𝗣𝗢𝗥𝗧𝗦
-𝗜𝗗: 𝗦𝗲𝗿𝘃𝗶𝗰𝗲-𝟭
-𝐂𝐖: 𝐀𝐃 𝟓𝟒 𝟗𝐄 𝟗𝐅 𝟓𝟐 𝟖𝟗 𝟕𝐁 𝟓𝟔
-						IMG 20260415 173518 894 — Postimages
-					postimg.cc
----FEED-SEPARATOR---
-UEFA Champions League - Quarter Final (2nd Leg) [2-1]
-Bayern Munich vs. Real Madrid
-Eutelsat 7B/7C @ 7.0°E
-12568 - H - 17140 
-|
-4:2:2
- | H.264
-1920*1080 | DVB-S2 | 16PSK
-ID: MUN-RMD
-CW: BB AA 52 B7 82 CC AA F8
----FEED-SEPARATOR---
-UEFA Champions League
-Arsenal vs Sporting
-Eutelsat 7A/7B/7C @ 7.0°E
-10982 H 4820
-DVB-S2 | AUTO
-1920x1080 | H.265/HEVC Video | 4:2:0 | 1.14 Mbit/s
-ID: Unname
-CW: 46 EC BD EF 61 25 4E D4
----FEED-SEPARATOR---
-UEFA Champions League
-Bayern München vs Real Madrid
-Eutelsat 7A/7B/7C @ 7.0E
-10988 H 4820
-DVB-S2 | AUTO
-1920x1080 | H.265/HEVC Video | 4:2:0 | 10.32 Mbit/s
-ID: CRO-025 M02 FEED B2
-CW: 46 EC BD EF 61 25 4E D4
----FEED-SEPARATOR---
-Eutelsat 7B/7C ( 7.0E )
-12555 H 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: E-229 Main
-Event: 
-Basketball Champions League - Tenerife vs Galatasaray
-CW: AB 79 DE 02 79 BE 56 8D
----FEED-SEPARATOR---
-Hot Bird 13B/13C/13E @ 13.0E
-12610 V 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: AVP_OU_A
-Event: 
-Basketball Champions League - AEK vs Joventut
-CW: CC 20 DF CB 18 BB 31 04
+BLACKCRUSADER said:
+ASIASAT 5 100.5E
+COPA GAMES
+3840 H 30000
+OCC1 31 D2 A9 AC C4 FC F9 B9
+OCC2 73 D2 8B D0 C4 F9 49 06
+OCC3 A2 D2 B8 2C C4 F3 F9 B0 
+OCC4 ED D2 B8 77 C4 FF F9 BC
+Click to expand...
+Copa Games
+OCC1 Caracas FC v Independiente Petrolero
+OCC2 Racing Club v Botafago
+OCC3 Cruzeiro v Universidad Catolica
+OCC4 Libertad v Rosario Central
