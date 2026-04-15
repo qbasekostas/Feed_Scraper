@@ -1,3 +1,11 @@
+ASIASAT 5 100.5E
+COPA GAMES
+3840 H 30000
+OCC1 31 D2 A9 AC C4 FC F9 B9
+OCC2 73 D2 8B D0 C4 F9 49 06
+OCC3 A2 D2 B8 2C C4 F3 F9 B0 
+OCC4 ED D2 B8 77 C4 FF F9 BC
+---FEED-SEPARATOR---
 Copa Libertadores & Copa Sudamericana
 Asiasat 5 (100.5°E) C BAND
 3983 V 7500
@@ -61,16 +69,6 @@ DVB-S2 -
 ID: GVA_Fi05
 CW: : D5 B1 82 08 26 2B 71 C2
 ---FEED-SEPARATOR---
-UEFA Champions League
-Arsenal - Sporting
-Eutelsat 7A/B   ( 7.0E )
-10988 H 4820
-DVB-S2 QPSK FEC AUTO
-HD (1920*1080) 4:2:0
-ID: 
-UKIMDY24 M1 B2
-CW: 46 EC BD EF 61 25 4E D4
----FEED-SEPARATOR---
 UEFA Champions League - Quarter Final (2nd Leg) [2-1]
 Bayern Munich vs. Real Madrid
 Eutelsat 7B/7C @ 7.0°E
@@ -83,6 +81,7 @@ ID: MUN-RMD
 CW: BB AA 52 B7 82 CC AA F8
 ---FEED-SEPARATOR---
 UEFA Champions League
+Arsenal vs Sporting
 Eutelsat 7A/7B/7C @ 7.0°E
 10982 H 4820
 DVB-S2 | AUTO
@@ -91,9 +90,18 @@ ID: Unname
 CW: 46 EC BD EF 61 25 4E D4
 ---FEED-SEPARATOR---
 UEFA Champions League
+Bayern München vs Real Madrid
 Eutelsat 7A/7B/7C @ 7.0E
 10988 H 4820
 DVB-S2 | AUTO
 1920x1080 | H.265/HEVC Video | 4:2:0 | 10.32 Mbit/s
 ID: CRO-025 M02 FEED B2
 CW: 46 EC BD EF 61 25 4E D4
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+12610 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: AVP_OU_A
+Event: 
+Basketball Champions League - AEK vs Joventut
+CW: CC 20 DF CB 18 BB 31 04
