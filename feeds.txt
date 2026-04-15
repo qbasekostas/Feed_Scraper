@@ -42,10 +42,17 @@ CW: 43 C1 4F 53 B3 E9 48 E4
 CW: 8A C1 4F 9A B3 E4 48 DF
 CW: F1 C1 5E 10 B3 EE 48 E9
 ---FEED-SEPARATOR---
+Turkey, First Division, Playoffs
+Galatasaray vs Halkbank
+42.0E
+11478 V 6800
+4.2.2 HD DVB-S2 -8PSK
+ID: TUR-147 A
+CW: 44 27 00 6B 00 44 27 6B
+---FEED-SEPARATOR---
 FIFA Series 2026 Friendly International Women
 Indonesia vs New Caledonia
-Teams : Thailand W 
- D.R. Congo W
+Thailand vs D.R. Congo 
 Eutelsat 7A/B ( 7.0E )
 12627 V 7199
 DVB-S2 - 
@@ -53,6 +60,16 @@ DVB-S2 -
  - 8PSK
 ID: GVA_Fi05
 CW: : D5 B1 82 08 26 2B 71 C2
+---FEED-SEPARATOR---
+UEFA Champions League
+Arsenal - Sporting
+Eutelsat 7A/B   ( 7.0E )
+10988 H 4820
+DVB-S2 QPSK FEC AUTO
+HD (1920*1080) 4:2:0
+ID: 
+UKIMDY24 M1 B2
+CW: 46 EC BD EF 61 25 4E D4
 ---FEED-SEPARATOR---
 UEFA Champions League - Quarter Final (2nd Leg) [2-1]
 Bayern Munich vs. Real Madrid
