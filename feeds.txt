@@ -1,21 +1,14 @@
+Copa Libertadores & Copa Sudamericana:
+Palmeiras vs Sporting Cristal
+Lanús vs Always Ready
+Tigre vs Macará
+Atlético Mineiro vs Juventud
+Flamengovs Independiente Medellin
 Eutelsat 10E
-10767 V 34000 S2
- 4:2:2
-ID:OCC 5
+10768 V 34001/4.2.2
+OCC 1/2/3/4/5
+CW: EA E3 C7 94 D5 1F FA EE
+CW: 5A E3 21 5E D5 14 4A 33
+CW: C1 D2 4F E2 C4 FE 49 0B
+CW: 13 E3 31 27 D5 19 4A 38
 CW: 61 E3 E5 29 D5 1C FA EB
----FEED-SEPARATOR---
-Eutelsat 10E
-10767 V 34000 S2
- 4:2:2
-ID: OCC 1
-Copa Libertadores & Copa Sudamericana
-5C A3 30 56 CC 3E E8 AD #CW: EA E3 C7 94 D5 1F FA EE
-ID: OCC 2
-Copa Libertadores & Copa Sudamericana
-79 0C 59 01 5D B0 BF 32 #CW: 5A E3 21 5E D5 14 4A 33
-ID: OCC 3
-Copa Libertadores & Copa Sudamericana
-18 DB 29 C2 B8 68 37 83 #CW: C1 D2 4F E2 C4 FE 49 0B
-ID: OCC 4
-Copa Libertadores & Copa Sudamericana
-1F 37 81 5F 84 87 83 6A #CW: 13 E3 31 27 D5 19 4A 38
