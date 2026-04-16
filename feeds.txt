@@ -70,3 +70,24 @@ ID:  UECL QF MATCH 07 FEED B1 MAIN (Provider)
 CW: FTA (
 NOW
 )
+---FEED-SEPARATOR---
+Beris Sevilla - Sporting Braga
+13E  
+12437 H 27500
+DVB-S2 4:2:0 8PSK 4:2:0
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+						1 0 1 2 69 61 820000 0 0 0 20260416153050 hosted at ImgBB
+Image 1 0 1 2 69 61 820000 0 0 0 20260416153050 hosted on ImgBB
+					ibb.co
+---FEED-SEPARATOR---
+UEFA Europa League - Quarter Final (2nd Leg) [3-1]
+Aston Villa vs. Bologna
+Intelsat 10-02 @ 1.0°W
+11490 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 91 0D 59 F7 56 8B 0A EB
