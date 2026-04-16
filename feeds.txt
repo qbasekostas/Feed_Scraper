@@ -11,6 +11,56 @@ and  100.5e
 OCC 6  -  #CW: 8DD25EBDC4F44901    /  Copa Sudamericana - Group Stage    River Plate (Arg)    Carabobo (Ven)
 OCC 7 -   #CW: FBD26D3AC4FE490B    /  Copa Libertadores - Group Stage    Fluminense (Bra)    Ind. Rivadavia (Arg)
 ---FEED-SEPARATOR---
+xFayez95 said:
+UEFA Conference League
+ Eutelsat 10A @ 10.0°E
+ 11270 H 14400
+ 1920×1080 | H.264/AVC
+4:2:2
+ | 32.09 Mb/s
+ LEUK_Fi05
+ FTA
+Click to expand...
+moved to BISS-2
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event: UEFA Conference League
+Eutelsat 7A/7B/7C @ 7.0E
+ ( KU-BAND )
+11066 V 16961
+ID:M2 FEED A HDR M (ESSA)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+ Mbit/Sec|16 PSK DVB-S2 HD 
+Frame rate: 50
+Codec: MPEG-H Part2/HEVC (H.265) (hevc)
+CW: FTA
+Click to expand...
+moved to BISS-2
+---FEED-SEPARATOR---
+Event: UEFA Conference League
+Eutelsat 7A/7B/7C @ 7.0E
+ ( KU-BAND )
+11066 V 16961
+ID:M2 FEED A HDR M (ESSA)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+ Mbit/Sec|16 PSK DVB-S2 HD 
+Frame rate: 50
+Codec: MPEG-H Part2/HEVC (H.265) (hevc)
+CW: FTA
+---FEED-SEPARATOR---
+UEFA Conference League
+ Eutelsat 10A @ 10.0°E
+ 11270 H 14400
+ 1920×1080 | H.264/AVC
+4:2:2
+ | 32.09 Mb/s
+ LEUK_Fi05
+ FTA
+---FEED-SEPARATOR---
 UEFA 
 Europe Conference League
 Eutelsat 7A/7B/7C @ 7.0E
