@@ -15,6 +15,33 @@ OCC 7 -   #CW: FBD26D3AC4FE490B    /  Copa Libertadores - Group Stage    Flumine
 3840 H 30000
 4:2:2
 ID: 
+OCC 4
+Copa Libertadores & Copa Sudamericana
+1F 37 81 5F 84 87 83 6A  #CW: 
+13 E3 31 27 D5 19 4A 38
+---FEED-SEPARATOR---
+100.5e
+3840 H 30000
+4:2:2
+ID: 
+OCC 3
+Copa Libertadores & Copa Sudamericana
+18 DB 29 C2 B8 68 37 83  #CW:
+ C1 D2 4F E2 C4 FE 49 0B
+---FEED-SEPARATOR---
+100.5e
+3840 H 30000
+4:2:2
+ID: 
+OCC 2
+Copa Libertadores & Copa Sudamericana
+79 0C 59 01 5D B0 BF 32  #CW: 
+5A E3 21 5E D5 14 4A 33
+---FEED-SEPARATOR---
+100.5e
+3840 H 30000
+4:2:2
+ID: 
 OCC 1
 Copa Libertadores & Copa Sudamericana
 5C A3 30 56 CC 3E E8 AD  #CW: 
