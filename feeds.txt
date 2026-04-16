@@ -22,6 +22,23 @@ Volleyball Turkey Women
 Fenerbahçe vs VakıfBank
 CW: 44 54 00 98 00 44 54 98
 ---FEED-SEPARATOR---
+League Two, Round 44
+Bromley vs Cambridge United
+Asiasat 5 (100.5°E) C BAND
+3966 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  BT_SES_20_SDI (SES)
+CW: 09 C3 03 CF 22 DA 48 44
+---FEED-SEPARATOR---
+Eutelsat 7B-7C  @ 07.0E
+12655 V 7200
+1920x1080 |8PSK |4:2:0 |
+ID: Fi11_GNVE
+Event: 
+FIFA Series 2026 Friendly International Women - Turks and Caicos vs Mauritania
+CW: D6 94 9F 09 E9 85 D1 3F
+---FEED-SEPARATOR---
 xFayez95 said:
 UEFA Conference League
  Eutelsat 10A @ 10.0°E
@@ -102,6 +119,16 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 91 0D 59 F7 56 8B 0A EB
+---FEED-SEPARATOR---
+Euroleague
+ - Round 38
+Partizan Mozzart vs 
+Baskonia
+7.0E
+12647 V 7200
+4.2.0 HD DVB-S2 -8PSK
+ID: Fi14_GNVE
+CW: 47 BE 56 5B 22 A8 4E 18
 ---FEED-SEPARATOR---
 Euroleague - Round 38 
 Real Madrid - Crvena Zvezda Meridianbet
