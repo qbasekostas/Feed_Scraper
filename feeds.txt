@@ -10,3 +10,13 @@ and  100.5e
 3984 V 7500
 OCC 6  -  #CW: 8DD25EBDC4F44901    /  Copa Sudamericana - Group Stage    River Plate (Arg)    Carabobo (Ven)
 OCC 7 -   #CW: FBD26D3AC4FE490B    /  Copa Libertadores - Group Stage    Fluminense (Bra)    Ind. Rivadavia (Arg)
+---FEED-SEPARATOR---
+UEFA 
+Europe Conference League
+Eutelsat 7A/7B/7C @ 7.0E
+10984 Vertical 9875.164 | 3/4 | 4:2:0
+ID:  UECL QF MATCH 07 FEED B1 MAIN (Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7 | 22.011Mb/Sec
+CW: FTA (
+NOW
+)
