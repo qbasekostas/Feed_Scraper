@@ -14,7 +14,8 @@ CW: 13 E3 31 27 D5 19 4A 38
 CW: 61 E3 E5 29 D5 1C FA EB
 ---FEED-SEPARATOR---
 UEFA Youth League (U-19) - Semi Final
-Benfica U-19 vs. Club Brugge U-19
+-Benfica U-19 vs. Club Brugge U-19
+-Real Madrid U-19 vs. Paris St Germain U-19
 Eutelsat 10B @ 10.0°E
 11249 - H - 9875 
 |
@@ -32,3 +33,11 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:F419_YOUTH_SF
 CW: 47 9C 3E 21 A1 CC 02 6F
+---FEED-SEPARATOR---
+Euroleague Women - Play Offs - Semi-finals 
+Fenerbahce W - Uni Girona W
+Eutelsat 7A/7B/7C @ 7.0E
+11568 Vertical 9600.175 | 3/4 | 4:2:0
+ID: M-THREE_FEED 1  (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 21.398Mb/Sec
+CW: A1 97 6B A3 12 04 CC E2
