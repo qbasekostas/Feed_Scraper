@@ -13,6 +13,15 @@ CW: C1 D2 4F E2 C4 FE 49 0B
 CW: 13 E3 31 27 D5 19 4A 38
 CW: 61 E3 E5 29 D5 1C FA EB
 ---FEED-SEPARATOR---
+1.0°W
+11499 V 7200
+4:2:0
+ID: unnamed
+CW: 58 86 AB 89 F7 09 B4 B4
+TNT SPORTS 2 UK HD
+LIVE @ Old Trafford Hosting FA Youth Cup Semi-Final -> Man Utd v Crystal Palace
+Friday April 17th 2026 KICK-OFF 19:00pm UK Time
+---FEED-SEPARATOR---
 UEFA Youth League (U-19) - Semi Final
 -Benfica U-19 vs. Club Brugge U-19
 -Real Madrid U-19 vs. Paris St Germain U-19
@@ -33,6 +42,15 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:F419_YOUTH_SF
 CW: 47 9C 3E 21 A1 CC 02 6F
+---FEED-SEPARATOR---
+Euroleague, Round 38
+Barça vs Bayern
+Eutelsat 7A/7B/7C @ 7.0E
+11070 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.11 Mbit/s
+ID: IMG A EU
+CW: 6C 58 47 0B B5 FB B9 69
 ---FEED-SEPARATOR---
 Euroleague, Round 38
 Monaco Basket vs Hapoel Tel-Aviv
