@@ -34,6 +34,15 @@ DVB-S2 - 1080P - 8PSK
 ID:F419_YOUTH_SF
 CW: 47 9C 3E 21 A1 CC 02 6F
 ---FEED-SEPARATOR---
+Euroleague, Round 38
+Monaco Basket vs Hapoel Tel-Aviv
+Eutelsat 7B/7C @ 7.0E
+11098 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  F489 BKUP
+CW: 11 6C 9D 1A F5 FA D9 C8
+---FEED-SEPARATOR---
 Euroleague Women - Play Offs - Semi-finals 
 Fenerbahce W - Uni Girona W
 Eutelsat 7A/7B/7C @ 7.0E
