@@ -13,6 +13,15 @@ CW: C1 D2 4F E2 C4 FE 49 0B
 CW: 13 E3 31 27 D5 19 4A 38
 CW: 61 E3 E5 29 D5 1C FA EB
 ---FEED-SEPARATOR---
+ France - Ligue A, 
+Playoffs
+Sète vs Montpellier
+3.1E
+10978 H 7500
+4.2.0 HD DVB-S2 - 8PSK
+ID: F512_SETE_MAIN
+CW: BB AA FE 63 DA AA CC 50
+---FEED-SEPARATOR---
 Championship, Round 43
 Blackburn Rovers vs Coventry City
 Eutelsat 7B/7C @ 7.0E
