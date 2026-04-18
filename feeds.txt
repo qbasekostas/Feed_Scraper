@@ -8,6 +8,21 @@ TAURON Liga Women - Play Offs
 Bielsko-Biala W vs Opole W
 CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Cup - Semi Final
+Dunfermline Athletic v Falkirk
+---FEED-SEPARATOR---
+100.5E
+3975 V 7199
+Red Devils said:
+OLD #CW:
+BC AA 45 AB 56 BB CA DB
+Click to expand...
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 12726 Vertical 7200.153 | 3/4 | 4:2:0
 ID: ENC 1 (SES)
@@ -17,6 +32,33 @@ Semi Final:
 Dunfermline v Falkirk 
 E7 8A C0 D6 C8 D3 FB C2  #CW:
 BC AA 45 AB 56 BB CA DB
+---FEED-SEPARATOR---
+Albahraniy said:
+Championship, Round 43
+Portsmouth vs Leicester City
+CW: AA 7C 65 8B 43 21 11 75
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0E
+11052 Vertical 7120.153 | 2/3 | 4:2:0
+ID:  Pitch Portsmouth v Leicester (NEP Connect)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 14.105Mb/Sec
+---FEED-SEPARATOR---
+Championship, Round 43
+Portsmouth vs Leicester City
+Asiasat 5 (100.5°E) C BAND
+3966 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  BT_SES_20_SDI (SES)
+CW: AA 7C 65 8B 43 21 11 75
+---FEED-SEPARATOR---
+FIFA World Cup, Women, Qualification, UEFA, Gr. A3, Round 4
+Spain vs Ukraine
+Eutelsat 7A/7B/7C @ 7.0E
+11151 Horizontal 9199.99 | 3/4 | 4:2:0
+ID: A1PRO Via1 (Net 1)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 20.505Mb/Sec
+CW: FTA
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11579 V 7198
