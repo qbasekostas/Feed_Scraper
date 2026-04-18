@@ -1,3 +1,14 @@
+Event : Portugal Campeonato Nacional - Play Offs - Semi-finals
+Teams : Leixoes SC 
+ Benfica
+Eutelsat 7A/7B/7C @ 7.0E 
+( KU-BAND )
+12573  Horizontal  7199.924
+ID:  E-228 Main (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+8E 24 CF C9 87 9E CD A8  
+CW: AB BA 18 7D 04 20 26 4A
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 12602 V 7200
 DVB-S2 - 1080P - 8PSK
@@ -136,6 +147,25 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID: A1PRO Via1 (Net 1)
 1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 20.505Mb/Sec
 CW: FTA
+---FEED-SEPARATOR---
+FIFA World Cup, Women, Qualification, UEFA,
+FRANCE VS Netherlands
+10.0E
+11288 V 7200
+4.2.0 HD DVB-S2 -8PSK
+ID: INTER FEM FRA VS NED
+CW: EF DA 18 E1 04 CB DF AE
+---FEED-SEPARATOR---
+Event : EuropeWorld Cup Women - Qualification - League B
+Teams : Belgium W 
+ Scotland W
+Eutelsat 7A/7B/7C @ 7.0E 
+( KU-BAND )
+11005  Horizontal  7119.924
+ID:WWCQ Belgium - Scotland (Appear ECx110)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+85 49 70 92 28 D8 15 C5 
+CW: 4B 21 A9 15 E7 3D 8F B3
 ---FEED-SEPARATOR---
 FIFA World Cup, Women, Qualification, UEFA,
 Iceland vs England
