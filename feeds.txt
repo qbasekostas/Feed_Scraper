@@ -44,6 +44,36 @@ Dunfermline v Falkirk
 E7 8A C0 D6 C8 D3 FB C2  #CW:
 BC AA 45 AB 56 BB CA DB
 ---FEED-SEPARATOR---
+Albahraniy said:
+			Eutelsat 7B/7C @ 7.0E
+12655 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: BT_SES_22_SDI (SES)
+CW: 9A 1E 04 BC 04 C1 23 E8
+Click to expand...
+It's Rugby
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12655 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: BT_SES_22_SDI (SES)
+CW: 9A 1E 04 BC 04 C1 23 E8
+---FEED-SEPARATOR---
+English Championship - Week 43
+Hull City vs. Birmingham City
+Eutelsat 7B/7C @ 7.0°E
+11061 - V - 7120 
+|
+4:2:0
+ | H.264 
+1920*1080 | DVB-S2 | 8PSK
+ID:  EFL - Hull  v Birmingham
+safrifulkamal said:
+CW: 4F 3A 35 BE 36 38 23 91
+Click to expand...
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 4104 H 7119 C-Band
 ID: BT_SES_18_SDI 
@@ -89,6 +119,18 @@ DVB-S2 - 1080P - 8PSK
 ID:  BT_SES_20_SDI (SES)
 CW: AA 7C 65 8B 43 21 11 75
 ---FEED-SEPARATOR---
+Thor 5/6/7 & Intelsat 10-02 (0.8W)
+10983 V 7200
+MPEG-4 FTA DVB-S2 8PSK,4:2:2
+ID: 
+DNK-ORE5
+Provider: DR MCR
+World Championship Qualification,Women League A,Round 4,Group 1
+Denmark W - Italy W (15:00)
+						vlcsnap 2026 04 18 15h01m30s234
+Obrázok vlcsnap 2026 04 18 15h01m30s234 hosted in PixVid
+					pixvid.org
+---FEED-SEPARATOR---
 FIFA World Cup, Women, Qualification, UEFA, Gr. A3, Round 4
 Spain vs Ukraine
 Eutelsat 7A/7B/7C @ 7.0E
@@ -96,6 +138,15 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID: A1PRO Via1 (Net 1)
 1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 20.505Mb/Sec
 CW: FTA
+---FEED-SEPARATOR---
+Europe FIFA World Cup, Women, Qualification
+Sweden vs Serbia
+Eutelsat 7B/7C @ 7.0E
+11006 H 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:BT_SES_12_SDI (SES)
+CW: 34 AA BC 9A D8 18 04 F4
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11579 V 7198
@@ -126,6 +177,16 @@ ID: E333 M
 Event: 
 Basketball Super Ligi - Bahcesehir vs Karsiyaka
 CW: DC A4 35 B5 99 B1 6B B5
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+12610 V 7500
+DVB-S2 - 
+4:2:2
+- 8PSK
+ID: TUR156 Main
+Event: 
+Basketball Super Ligi - Mersin vs Bursaspor
+CW: 30 E3 99 AC 5A 8A CB AF
 ---FEED-SEPARATOR---
 Lining City Basketball League, Guangdong Province, 2026
 Asiasat 5 (100.5°E) C BAND
