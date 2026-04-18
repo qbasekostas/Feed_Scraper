@@ -44,6 +44,32 @@ Dunfermline v Falkirk
 E7 8A C0 D6 C8 D3 FB C2  #CW:
 BC AA 45 AB 56 BB CA DB
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4104 H 7119 C-Band
+ID: BT_SES_18_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,75Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 43)
+Teams: Hull City vs Birmingham City
+Time / Kickoff: 21.00 JKT-TH / 22.00 MY-SG / 14.00 GMT / 16.00 CET
+CW: 4F 3A 35 BE 36 38 23 91
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3935
+ V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: ENC 1 (SES)
+Red Devils said:
+Scottish FA Cup 
+Semi Final: 
+Dunfermline v Falkirk 
+CW: BC AA 45 AB 56 BB CA DB
+Click to expand...
+---FEED-SEPARATOR---
 Albahraniy said:
 Championship, Round 43
 Portsmouth vs Leicester City
