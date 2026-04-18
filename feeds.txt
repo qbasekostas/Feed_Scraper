@@ -67,19 +67,6 @@ safrifulkamal said:
 CW: 4F 3A 35 BE 36 38 23 91
 Click to expand...
 ---FEED-SEPARATOR---
-Asiasat 5 @ 100.5°E
-4104 H 7119 C-Band
-ID: BT_SES_18_SDI 
-(Provider ID: SES)
-MPEG4 | DVB-S2
-1920x1080i |12,11Mb/Sec |8PSK| 
-4:2:0
- HD
-Event: England - EFL Championship (Matchday 43)
-Teams: Hull City vs Birmingham City
-Time / Kickoff: 21.00 JKT-TH / 22.00 MY-SG / 14.00 GMT / 16.00 CET
-CW: 4F 3A 35 BE 36 38 23 91
----FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3935
  V 7200
@@ -96,7 +83,7 @@ Click to expand...
  Championship
 Hull City vs Birmingham City
 Asiasat 5 (100.5°E) C BAND
-4106 V 7119
+4106 H 7119
 4015 V 7119
 DVB-S2 - 1080P - 8PSK
 4:2:0
