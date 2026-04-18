@@ -137,6 +137,15 @@ ID: A1PRO Via1 (Net 1)
 1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 20.505Mb/Sec
 CW: FTA
 ---FEED-SEPARATOR---
+FIFA World Cup, Women, Qualification, UEFA,
+Iceland vs England
+16.0E
+11084 H 14240
+4.2.2
+ HD DVB-S2 | 8PSK 29.38mp
+ID: Iseland
+CW: DE 31 B7 C6 6C C5 AA DB
+---FEED-SEPARATOR---
 Ferari3000 said:
 			Astra 4A & SES 5 (4.8E)
 12528 H 3751
