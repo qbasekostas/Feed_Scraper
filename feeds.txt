@@ -16,10 +16,21 @@ ID: Service01
 Scottish Cup - Semi Final
 Dunfermline Athletic v Falkirk
 ---FEED-SEPARATOR---
-100.5E
-3975 V 7199
+Asiasat 5 @ 100.5°E
+3975 V 7199 C-Band
+ID: ENC-1 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |14,09Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: Scotland - Scottish Gas Scottish Cup (Semi-final)
+Teams: 
+Dunfermline Athletic vs Falkirk FC
+Time / Kickoff: 18.30 JKT-TH / 19.30 MY-SG / 11.30 GMT / 13.30 CET
 Red Devils said:
-OLD #CW:
+OLD
+#CW:
 BC AA 45 AB 56 BB CA DB
 Click to expand...
 ---FEED-SEPARATOR---
@@ -89,3 +100,11 @@ ID: E333 M
 Event: 
 Basketball Super Ligi - Bahcesehir vs Karsiyaka
 CW: DC A4 35 B5 99 B1 6B B5
+---FEED-SEPARATOR---
+Lining City Basketball League, Guangdong Province, 2026
+Asiasat 5 (100.5°E) C BAND
+3964 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:GRT-4K
+CW: EE 09 22 19 D1 E0 40 F1
