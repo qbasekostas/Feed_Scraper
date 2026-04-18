@@ -137,6 +137,33 @@ ID: A1PRO Via1 (Net 1)
 1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 20.505Mb/Sec
 CW: FTA
 ---FEED-SEPARATOR---
+Ferari3000 said:
+			Astra 4A & SES 5 (4.8E)
+12528 H 3751
+ID: STA SNG HD 2
+Provider: STALBANIA
+World Championship Qualification Women,League B,Round 4,Group 1
+Albania W - Wales W (18:00)
+Biss Encrypt ?
+Click to expand...
+SES 5/ASTRA 4A  ( 4.9E )
+12529 H 3749
+DVB-S2 - 4:2:0 - 8PSK
+ID: STA SNG HD 2
+Event: 
+World Cup Women - Qualification, Albania vs Wales
+CW: AE 26 35 09 C8 8C 66 BA
+---FEED-SEPARATOR---
+World Cup Women - Qualification
+Iceland vs England
+Eutelsat 7B/7C @ 7.0E
+10987
+ H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: ISRUV enc 2 (RUV)
+CW: DE 2F 73 80 CA 34 21 1F
+---FEED-SEPARATOR---
 Europe FIFA World Cup, Women, Qualification
 Sweden vs Serbia
 Eutelsat 7B/7C @ 7.0E
@@ -184,6 +211,26 @@ ID: E333 M
 Event: 
 Basketball Super Ligi - Bahcesehir vs Karsiyaka
 CW: DC A4 35 B5 99 B1 6B B5
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:11273 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: Encoder 1
+Serie A
+ Trento vs Reggiana
+CW: 6E EF 36 93 3B 29 86 EA
+---FEED-SEPARATOR---
+Basketball Super Ligi
+Türk Telekom vs Merkezefendi Basket
+13.0E
+10838  V 7500
+ID: TUR 161 Main
++
+42.0E
+10984 V 7500
+4.2.2 HD DVB-S2 - 8PSK
+ID: TUR 161 main
+CW: 24 B0 BA 8E C7 C6 15 A2
 ---FEED-SEPARATOR---
 Portugal LBP, Round 21
 SC Braga vs Porto
