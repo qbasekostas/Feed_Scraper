@@ -93,6 +93,16 @@ Dunfermline v Falkirk
 CW: BC AA 45 AB 56 BB CA DB
 Click to expand...
 ---FEED-SEPARATOR---
+ Championship
+Hull City vs Birmingham City
+Asiasat 5 (100.5°E) C BAND
+4106 V 7119
+4015 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  BT_SES_18_SDI (SES)
+CW: 4F 3A 35 BE 36 38 23 91
+---FEED-SEPARATOR---
 Albahraniy said:
 Championship, Round 43
 Portsmouth vs Leicester City
@@ -148,6 +158,15 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:BT_SES_12_SDI (SES)
 CW: 34 AA BC 9A D8 18 04 F4
+---FEED-SEPARATOR---
+FIFA World Cup, Women, Qualification, UEFA
+Slovenia vs Norway
+Eutelsat 7B/7C @ 7.0E
+11568 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: SLO-008 Tx 1
+CW: 08 75 72 EF 54 4E 4C EE
 ---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 11579 V 7198
