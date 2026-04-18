@@ -1,0 +1,49 @@
+Eutelsat 7B/7C @ 7.0E
+12602 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Polsat Sport (POLSAT)
+Poland Volleyball Women - 
+TAURON Liga Women - Play Offs
+Bielsko-Biala W vs Opole W
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12726 Vertical 7200.153 | 3/4 | 4:2:0
+ID: ENC 1 (SES)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 16.049Mb/Sec
+Scottish FA Cup 
+Semi Final: 
+Dunfermline v Falkirk 
+E7 8A C0 D6 C8 D3 FB C2  #CW:
+BC AA 45 AB 56 BB CA DB
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11579 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: Ireland v Poland world
+Event: 
+World Cup Women - Qualification, Ireland vs Poland
+CW: 20 26 FB 41 DE 04 18 FA
+---FEED-SEPARATOR---
+Verdeoro said:
+			Event: 
+Basketball Super Ligi - Bahcesehir vs Karsiyaka
+CW: DC A4 35 B5 99 B1 6B B5
+Click to expand...
+Turksat 3A/4A   ( 42.0E )
+10957 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E333 M
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+12601 V 7500
+DVB-S2 - 
+4:2:2
+- 8PSK
+ID: E333 M
+Event: 
+Basketball Super Ligi - Bahcesehir vs Karsiyaka
+CW: DC A4 35 B5 99 B1 6B B5
