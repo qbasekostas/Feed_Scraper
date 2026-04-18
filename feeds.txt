@@ -212,6 +212,14 @@ Event:
 Basketball Super Ligi - Bahcesehir vs Karsiyaka
 CW: DC A4 35 B5 99 B1 6B B5
 ---FEED-SEPARATOR---
+Liga Endesa (Spanish Basketball League)
+Surne Bilbao vs. BAXI Manresa
+Eutelsat 7A/7B/7C @ 7.0E
+11106 Horizontal 7200.153 | 3/4 | 4:2:0
+ID: Fi01 ACB (CM5000)
+1920*1080 | DVB-S2 | 8PSK | SNR: 8.4dB | 16.049Mb/Sec
+45 A2 94 5D 05 17 2B 5F  #CW: D6 02 F3 CB 70 0B 28 A3
+---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:11273 - H - 7200
 MPEG 4 - 4:2:0 - DVB-S2
