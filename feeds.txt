@@ -1,0 +1,7 @@
+7°E KU
+12510 V 7500
+DVB-S2|1080HD
+4.2.0|H264
+ID: AFD
+Event: Argentina Liga Profesional -  Independiente VS Defensa y Justicia
+CW: 14 1A C8 F6 1A BD 19 F0
