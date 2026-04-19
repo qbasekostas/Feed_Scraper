@@ -6,6 +6,36 @@ ID: AFD
 Event: Argentina Liga Profesional -  Independiente VS Defensa y Justicia
 CW: 14 1A C8 F6 1A BD 19 F0
 ---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12601 V  7200
+ID: POL103
+Event: 
+Women's volleyball: TAURON Liga - 2nd final match of the play-off phase: PGE Budowlani Łódź - KS DevelopRes Rzeszów
+4.2.0
+- DVB-S2 - 8PSK
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+Premier League 2025/26 (Wk33)
+Everton vs Liverpool
+3.1E
+10959 H 7500
+4.2.0 HD DVB-S2 - 8PSK
+ID: beIN SPORTS
+10969 H 7500
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12703 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: ENC 1
+Albahraniy said:
+			Event: 
+Scottish FA Cup Semi Final: Celtic - St.Mirren [ 14:00pm UK time k/off ]
+CW: BC AA 45 AB 56 BB CA DB
+Click to expand...
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3967 V 7119 C-Band
 ID: BT_SES_18_SDI 
@@ -63,3 +93,19 @@ Event:
 4.2.2
 - DVB-S2 - 8PSK
 CW: AB BA 26 8B DC AE 04 8E
+---FEED-SEPARATOR---
+ZikaMitrovic said:
+			EUTELSAT 7 EAST
+Perspektiva Ilirija
+-Studentski Centar
+aba league
+Known CW: AB BA 20 85 25 20 26 6B
+Click to expand...
+7e
+11512 V 4937
+---FEED-SEPARATOR---
+EUTELSAT 7 EAST
+Perspektiva Ilirija
+-Studentski Centar
+aba league
+Known CW: AB BA 20 85 25 20 26 6B
