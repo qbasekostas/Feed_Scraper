@@ -1,3 +1,11 @@
+Eutelsat 7A/B @7.0°E
+Fréq:12509 - V - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: AFD
+Argentina, Primera LPF
+River Plate vs Boca Juniors
+CW: 14 1A C8 F6 1A BD 19 F0
+---FEED-SEPARATOR---
 7°E KU
 12510 V 7500
 DVB-S2|1080HD
@@ -93,6 +101,16 @@ Event:
 4.2.2
 - DVB-S2 - 8PSK
 CW: AB BA 26 8B DC AE 04 8E
+---FEED-SEPARATOR---
+FINAL BG 3X3 LEAGUE WINTER 2026
+Belgrade, Serbia
+Saturday, April 18, 2026 - Sunday, April 19, 2026
+Eutelsat 16A @ 16.0E
+12508 H 4936
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: YSM-013M
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 NBA Playoffs (Game 1
 Phoenix Suns vs. Oklahoma City Thunder
