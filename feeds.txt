@@ -6,14 +6,6 @@ ID: AFD
 Event: Argentina Liga Profesional -  Independiente VS Defensa y Justicia
 CW: 14 1A C8 F6 1A BD 19 F0
 ---FEED-SEPARATOR---
-Event:
-Teams :
-Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
-12593 V 7198
-ID:   POL 058_T1 (POLSAT)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
-51 4B 20 97 E6 E5 B8 B9  #CW:15 58 35 A2 71 42 63 16
----FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12601 V  7200
 ID: POL103
@@ -126,3 +118,12 @@ Perspektiva Ilirija
 -Studentski Centar
 aba league
 Known CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Stoiximan Super League
+AEK vs PAOK
+Eutelsat 7A/7B/7C @ 7.0E
+12678 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.16 Mbit/s
+ID: AEK VS PAOK A
+CW: DB 22 1B 18 32 F0 6B 8D
