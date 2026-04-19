@@ -6,6 +6,25 @@ ID: AFD
 Event: Argentina Liga Profesional -  Independiente VS Defensa y Justicia
 CW: 14 1A C8 F6 1A BD 19 F0
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11042 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: EFL - Highlights 2025/26 show 37
+Albahraniy said:
+Pitch EFL- Highlights
+CW: 53 23 CF 45 32 88 42 FC
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+4106 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: ENC 1
+Event: 
+Scottish FA Cup Semi Final: Celtic - St.Mirren [ 14:00pm UK time k/off ]
+CW: BC AA 45 AB 56 BB CA DB
+---FEED-SEPARATOR---
 Pitch EFL- Highlights
 Asiasat 5 (100.5°E) C BAND
 3966 V 7119
