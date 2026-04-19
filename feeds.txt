@@ -94,6 +94,13 @@ Event:
 - DVB-S2 - 8PSK
 CW: AB BA 26 8B DC AE 04 8E
 ---FEED-SEPARATOR---
+10.0°E
+11264 H 7200
+4:2:2
+ID: Encoder 3
+CW: 5B 37 46 D8 FC BF 7E 39
+LBA Italian Basket
+---FEED-SEPARATOR---
 Event:
 Europe AdmiralBet ABA League - Winners stage - Round 8
 Teams :Cedevita Olimpija 
@@ -130,6 +137,18 @@ Perspektiva Ilirija
 -Studentski Centar
 aba league
 Known CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Greek Super League 1 - 
+Play Offs - Day 2
+Panathinaikos
+ Vs 
+Olympiacos
+13.0°E @ Hotbird 13F/13G 
+10839 V 7200
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  E399 MAIN (overon)
+CW: E7 55 64 A0 A8 05 00 AD
 ---FEED-SEPARATOR---
 Stoiximan Super League
 AEK vs PAOK
