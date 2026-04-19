@@ -5,3 +5,11 @@ DVB-S2|1080HD
 ID: AFD
 Event: Argentina Liga Profesional -  Independiente VS Defensa y Justicia
 CW: 14 1A C8 F6 1A BD 19 F0
+---FEED-SEPARATOR---
+Pitch EFL- Highlights
+Asiasat 5 (100.5°E) C BAND
+3966 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI (SES)
+CW: 53 23 CF 45 32 88 42 FC
