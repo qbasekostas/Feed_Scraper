@@ -94,6 +94,14 @@ Event:
 - DVB-S2 - 8PSK
 CW: AB BA 26 8B DC AE 04 8E
 ---FEED-SEPARATOR---
+NBA Playoffs (Game 1
+Phoenix Suns vs. Oklahoma City Thunder
+Eutelsat 7A/7B/7C @ 7.0E
+11051 Vertical 7200.153 | 3/4 | 4:2:0
+ID: GVA_Fi01 (EUROVISION SA)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 16.049Mb/Sec
+F8 C0 DE EE 1A CC D3 3C  #CW:93 65 2F 27 A9 D0 59 D2
+---FEED-SEPARATOR---
 10.0°E
 11264 H 7200
 4:2:2
