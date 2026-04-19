@@ -6,6 +6,28 @@ ID: AFD
 Event: Argentina Liga Profesional -  Independiente VS Defensa y Justicia
 CW: 14 1A C8 F6 1A BD 19 F0
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3967 V 7119 C-Band
+ID: BT_SES_18_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,39Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 43)
+Teams: Ipswich Town vs Middlesbrough
+Time / Kickoff: 18.00 JKT-TH / 19.00 MY-SG / 11.00 GMT / 13.00 CET
+xachik said:
+CW: 33 39 EA 56 A3 A2 77 BC
+Click to expand...
+---FEED-SEPARATOR---
+7e
+11043 V 7120
+4:2:0
+ID: EFL - Ipswich v Middlesborough
+Championship    Ipswich  vs   Middlesbrough    
+FF A7 02 66 D3 4D 3B BA  #CW:33 39 EA 56 A3 A2 77 BC
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 11042 V 7200
 DVB-S2 - 1080P - 8PSK
@@ -32,3 +54,12 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_22_SDI (SES)
 CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10985 V 9600
+ID: POL-141 ENC1
+Event:
+ Football - charity match: Artists - TVP
+4.2.2
+- DVB-S2 - 8PSK
+CW: AB BA 26 8B DC AE 04 8E
