@@ -102,6 +102,15 @@ Event:
 - DVB-S2 - 8PSK
 CW: AB BA 26 8B DC AE 04 8E
 ---FEED-SEPARATOR---
+Turkish Basketball Super League, Round 27
+Fenerbahçe Beko vs Trabzonspor 
+Hot Bird 13.0E
+11194 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  TUR-062 A
+CW: DB CC 17 BE 74 65 E5 BE
+---FEED-SEPARATOR---
 ZikaMitrovic said:
 			EUTELSAT 7 EAST
 Perspektiva Ilirija
