@@ -94,6 +94,18 @@ Event:
 - DVB-S2 - 8PSK
 CW: AB BA 26 8B DC AE 04 8E
 ---FEED-SEPARATOR---
+Event:
+Europe AdmiralBet ABA League - Winners stage - Round 8
+Teams :Cedevita Olimpija 
+ Igokea
+Eutelsat 7A/7B/7C @ 7.0E 
+( KU-BAND )
+11476 V 4936
+ID:  Medialink CRO-024/1 (Media Link)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+3C 72 98 CD 97 7F 18 3C 
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Turkish Basketball Super League, Round 27
 Fenerbahçe Beko vs Trabzonspor 
 Hot Bird 13.0E
