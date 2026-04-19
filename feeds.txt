@@ -6,6 +6,14 @@ ID: AFD
 Event: Argentina Liga Profesional -  Independiente VS Defensa y Justicia
 CW: 14 1A C8 F6 1A BD 19 F0
 ---FEED-SEPARATOR---
+Event:
+Teams :
+Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
+12593 V 7198
+ID:   POL 058_T1 (POLSAT)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+51 4B 20 97 E6 E5 B8 B9  #CW:15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12601 V  7200
 ID: POL103
