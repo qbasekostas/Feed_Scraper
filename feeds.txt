@@ -38,6 +38,18 @@ DVB-S2 | 8PSK | 3/4
 ID: F419_BCKP
 CW: BD 26 2B 0E 88 4E 1B F1
 ---FEED-SEPARATOR---
+Ratzvan said:
+			Event: 
+Turkish Super Lig, Galatasaray vs Anadolu Efes
+CW: AC 4C D1 C9 5B 15 5D CD
+Click to expand...
+Hot Bird ( 13.0E )
+12611 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  DT SNG 2 MAIN
+---FEED-SEPARATOR---
 AdmiralBet ABA League
 KK FMP - 
 BC Vienna
