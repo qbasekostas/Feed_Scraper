@@ -38,6 +38,14 @@ DVB-S2 | 8PSK | 3/4
 ID: F419_BCKP
 CW: BD 26 2B 0E 88 4E 1B F1
 ---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12515 H 4936
+DVB-S2 - 4:2:0 - 8PSK
+ID: YSM-016 MAIN
+Event:  
+AdmiralBet ABA League - Losers stage, Mega Basket vs Split
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event: 
 Turkish Super Lig, Galatasaray vs Anadolu Efes
