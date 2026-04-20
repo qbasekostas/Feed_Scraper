@@ -1,0 +1,16 @@
+Eutelsat 7A/B   ( 7.0E )
+12510 V 7499
+DVB-S2 - 4:2:0 - 8PSK
+ID: AFD
+Event: 
+Argentina Liga Profesional - Apertura, San Lorenzo vs Velez Sarsfield
+CW: 14 1A C8 F6 1A BD 19 F0
+---FEED-SEPARATOR---
+Liga Argentina 
+Apertura Fecha 16:
+San Lorenzo De Almagro
+Velez Sarsfield 
+Eutelsat 7E
+12510 V 7500
+AFD
+CW: 14 1A C8 F6 1A BD 19 F0
