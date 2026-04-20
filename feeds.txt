@@ -1,0 +1,49 @@
+Turksat 3A/4A   ( 42.0E )
+11479 V 6798
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR-M25-A
+Event: 
+TURKISH Sultanlar Ligi Women - 5th-8th places - Galatasaray vs Aras Kargo
+CW: 53 27 00 7A 00 53 27 7A
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11461 V 6798
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 123 A
+Event: 
+Turkish Sultanlar Ligi Women - 5th-8th places, Nilufer Bld.  vs THY
+CW: 22 84 00 A6 00 22 84 A6
+---FEED-SEPARATOR---
+xFayez95 said:
+UEFA Youth League, Final
+Club Brugge U19 vs Real Madrid U19
+Click to expand...
+Eutelsat 10A @ 10.0°E
+11248 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 19.32 Mbit/s
+ID: F489 BKUP FEED M
+CW: BD 26 2B 0E 88 4E 1B F1
+---FEED-SEPARATOR---
+UEFA Youth League, Final
+Club Brugge U19 vs Real Madrid U19
+Eutelsat 7A/7B/7C @ 7.0°E
+10974 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.43 Mbit/s
+ID: F419_BCKP
+CW: BD 26 2B 0E 88 4E 1B F1
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10957 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: DT SNG 2 MAIN
+Event: 
+Turkish Super Lig, Galatasaray vs Anadolu Efes
+CW: AC 4C D1 C9 5B 15 5D CD
