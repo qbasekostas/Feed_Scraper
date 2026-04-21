@@ -33,6 +33,13 @@ ID: Polsat Sport (POLSAT)
 1920*1080 | DVB-S2 | 8PSK | SNR: 8.4dB | 14.263Mb/Sec
 51 4B 20 97 E6 E5 B8 B9  #CW:15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_18_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: D4 44 A5 BD D2 35 21 28
+Leicester City vs Hull City
+---FEED-SEPARATOR---
 FIBA Women's Basketball World Cup 2026 Draw
 Eutelsat 7A/7B/7C @ 7.0E
 12676 Vertical 7200.153 | 3/4 | 4:2:0
