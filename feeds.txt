@@ -8,6 +8,21 @@ Event:
 Turkish Efeler Ligi - Play Offs, Halkbank vs Spor Toto
 CW: 83 41 00 C4 00 83 41 C4
 ---FEED-SEPARATOR---
+Eutelsat 21B ( 21.6E )
+11591 H 3999
+DVB-S2 - 4:2:0 - 8PSK
+ID: MRCO05-MAIN
+11596 Horizontal 3999,107
+DVB-S2 - 4:2:0 - 8PSK
+ID: MRCO05-BUCKUP
+Eutelsat 3B/Rascom QAF 1R   ( 3.1E )
+11669 H 3499
+DVB-S2 - 4:2:0 - 8PSK
+ID:  MRC004-BUCK
+Event:  
+Mohammed VI Football Academy International Tournament 2026 - Salè (Morocco)
+CW: FE ED AC 97 AD 20 26 F3
+---FEED-SEPARATOR---
 Serbian Women's Basketball League
 ŽKK Crvena zvezda Belgrade vs. ŽKK Student Niš
 Eutelsat 7A/7B/7C @ 7.0E
@@ -17,6 +32,7 @@ ID: YSM-012 MAIN (DSNG)
 3C 72 98 CD 97 7F 18 3C  #CW:
 AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
+Red Devils said:
 Eurocup - Play Offs - Final 
 Besiktas - JL Bourg
 Eutelsat 7A/7B/7C @ 7.0E
@@ -25,6 +41,50 @@ ID: SNG ATLAS-SAT 1 (GRC-017)
 1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 16.049Mb/Sec
 8B E8 00 15 89 EC A7 F4  #CW:
 78 9A C4 D6 5B FA 43 98
+Click to expand...
+FIBA Europe Cup - Play Offs
+PAOK
+Bilbao
+---FEED-SEPARATOR---
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+11606 Vertical 7200.164 | 3/4 | 4:2:0
+ID:  MAIN AFRIQUE (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 7.7dB | 16.049Mb/Sec
+5E 05 0C DA 70 73 19 B3  #CW:
+44 44 55 DD 55 66 66 21
+---FEED-SEPARATOR---
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+11597 Vertical 7200.153 | 3/4 | 4:2:0
+ID: WORLD FEED (*unnamed-512*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 16.049Mb/Sec
+11 2E C4 5C 31 A7 A0 E7  #CW:11 11 22 44 22 33 33 88
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12727 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: OB-09 A
+Event: 
+Eurocup - Play Offs, Besiktas vs JL Bourg
+CW: 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+Eurocup - Play Offs - Final 
+Besiktas - JL Bourg
+Eutelsat 7A/7B/7C @ 7.0E
+11022 Horizontal 7200.153 | 3/4 | 4:2:0
+ID: SNG ATLAS-SAT 1 (GRC-017)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 16.049Mb/Sec
+8B E8 00 15 89 EC A7 F4  #CW:
+78 9A C4 D6 5B FA 43 98
+---FEED-SEPARATOR---
+Greek Super League 1
+Playouts (Relegation Group) - Round 4
+Asteras Tripolis vs Panetolikos
+39e
+12662 V 7200
+ID: E394 MAIN
+CW: B7 3D A5 99 9F C2 2E 8F
 ---FEED-SEPARATOR---
 Greek Super League 1
 Playouts (Relegation Group) - Round 4
