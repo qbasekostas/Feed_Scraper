@@ -1,3 +1,27 @@
+Eutelsat 7B-7C  @ 07.0E
+11124 V 5000
+1920x1080 |8PSK |4:2:0| HEVC
+ID: ITA 646 A
+Event: 
+Italy Serie A1 Women - Play Offs, Vero Volley vs Conegliano
+CW: E3 A6 36 BF 07 B2 58 11
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+11079 H 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID: VOLLEY_WORLD_MAIN
+Event:
+ Italy Serie A1 Women - Play Offs, Vero Volley vs Conegliano
+CW: 64 BB 03 22 57 9D 52 46
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12538 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA556 HD16
+Event:
+ CEV Cup, Piacenza vs Luneburg
+CW: 44 A4 76 5E F8 B8 D9 89
+---FEED-SEPARATOR---
 Turksat 3A/4A   ( 42.0E )
 11470 V 6798
 DVB-S2 - 
