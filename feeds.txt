@@ -1,3 +1,13 @@
+Turksat 3A/4A   ( 42.0E )
+11470 V 6798
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  TUR-145-A
+Event:  
+Turkish Efeler Ligi - Play Offs, Halkbank vs Spor Toto
+CW: 83 41 00 C4 00 83 41 C4
+---FEED-SEPARATOR---
 Serbian Women's Basketball League
 ŽKK Crvena zvezda Belgrade vs. ŽKK Student Niš
 Eutelsat 7A/7B/7C @ 7.0E
@@ -6,6 +16,15 @@ ID: YSM-012 MAIN (DSNG)
 1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 11.005Mb/Sec
 3C 72 98 CD 97 7F 18 3C  #CW:
 AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Eurocup - Play Offs - Final 
+Besiktas - JL Bourg
+Eutelsat 7A/7B/7C @ 7.0E
+11022 Horizontal 7200.153 | 3/4 | 4:2:0
+ID: SNG ATLAS-SAT 1 (GRC-017)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 16.049Mb/Sec
+8B E8 00 15 89 EC A7 F4  #CW:
+78 9A C4 D6 5B FA 43 98
 ---FEED-SEPARATOR---
 Greek Super League 1
 Playouts (Relegation Group) - Round 4
