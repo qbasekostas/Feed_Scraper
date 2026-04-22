@@ -32,6 +32,31 @@ Event:
 Turkish Efeler Ligi - Play Offs, Halkbank vs Spor Toto
 CW: 83 41 00 C4 00 83 41 C4
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3967 V 7119 C-Band
+ID: BT_SES_18_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,15Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 44)
+Teams: 
+Charlton Athletic vs Ipswich Town
+Time / Kickoff: 01.45 JKT-TH / 02.45 MY-SG / 18.45 GMT / 20.45 CET
+Red Devils said:
+CW: 93 0D EE 8E 34 37 27 92
+Click to expand...
+---FEED-SEPARATOR---
+England Championship - Round 44
+Charlton - Ipswich
+Eutelsat 7A/7B/7C @ 7.0E
+12654 Vertical 7120.153 | 2/3 | 4:2:0
+ID: Pitch - EFL - Charlton Athletic v Ipswich (NEP Connect)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 14.105Mb/Sec
+95 36 B6 78 D6 0B 28 07  #CW:
+93 0D EE 8E 34 37 27 92
+---FEED-SEPARATOR---
 Eutelsat 21B ( 21.6E )
 11591 H 3999
 DVB-S2 - 4:2:0 - 8PSK
