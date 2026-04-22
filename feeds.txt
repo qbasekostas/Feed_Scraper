@@ -1,3 +1,12 @@
+Serbian Women's Basketball League
+ŽKK Crvena zvezda Belgrade vs. ŽKK Student Niš
+Eutelsat 7A/7B/7C @ 7.0E
+12551 Horizontal 4937.965 | 3/4 | 4:2:0
+ID: YSM-012 MAIN (DSNG)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 11.005Mb/Sec
+3C 72 98 CD 97 7F 18 3C  #CW:
+AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Greek Super League 1
 Playouts (Relegation Group) - Round 4
 Panserraikos vs Atromitos
