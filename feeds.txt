@@ -20,3 +20,36 @@ Mohammed VI Football Academy International Tournament 2026
 90 85 BF C4 DE 89 12 49  
 CW: FE ED AC 97 AD 20 26 F3
    #[E] PID:0200h
+---FEED-SEPARATOR---
+Red Devils said:
+Basketball Africa League 
+Eutelsat 7A/7B/7C @ 7.0E
+11606 Vertical 7200.153 | 2/3 | 4:2:0
+ID: MAIN AFRIQUE (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 14.263Mb/Sec
+CW: 4B 9D 2F 17 7A 8C 13 19
+Click to expand...
+Thanks red devils but is 422
+---FEED-SEPARATOR---
+Basketball Africa League 
+Eutelsat 7A/7B/7C @ 7.0E
+11606 Vertical 7200.153 | 2/3 | 4:2:0
+ID: MAIN AFRIQUE (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 14.263Mb/Sec
+CW: 4B 9D 2F 17 7A 8C 13 19
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10957 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E333 M
+Hot Bird ( 13.0E )
+12584 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E333 M
+Event:  
+ Turkish Super Lig, Merkezefendi vs Galatasaray
+CW: BD D0 6F FC 5A 7B B7 8C
