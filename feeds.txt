@@ -1,0 +1,22 @@
+Mohammed VI Football Academy International Tournament 2026 
+21.6E
+- Name:MRC-003/WF1
+- Freq: 11592,251
+- Pol: Horizontal
+- SR: 4000,018
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+---------------------------------------------------------------------------------
+21.6E
+- Name:MRC-003/WF2
+- Freq: 11595,251
+- Pol: Horizontal
+- SR: 4000,018
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+---------------------------------------------------------------------------------
+90 85 BF C4 DE 89 12 49  
+CW: FE ED AC 97 AD 20 26 F3
+   #[E] PID:0200h
