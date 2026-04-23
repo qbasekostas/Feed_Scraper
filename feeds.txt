@@ -1,3 +1,29 @@
+Asiasat 5 @ 100.5°E
+3994 V 7119 C-Band
+ID: BT_SES_24_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,19Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL League Two (Matchday 45)
+Teams: 
+Salford City vs Bromley
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+Mo_ha said:
+CW: BC 5B 27 3E 34 A3 44 1B
+Click to expand...
+---FEED-SEPARATOR---
+League Two
+Salford vs Bromley
+Eutelsat 7A/B ( 7.0E )
+11043 V 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Pitch - EFL - Salford - Bro
+CW: : BC 5B 27 3E 34 A3 44 1B
+---FEED-SEPARATOR---
 Mohammed VI Football Academy International Tournament 2026 
 21.6E
 - Name:MRC-003/WF1
