@@ -56,6 +56,14 @@ Event:
  Scottish  SWPL 1 Women - Championship Group, Rangers vs Hearts
 CW: E5 21 15 1B 77 54 71 3C
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10829 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: GCUK Enc 2
+Event: 
+William Hill Championship - St Johnstone vs Raith Rovers
+CW: 6A CB BD F2 EE 43 51 82
+---FEED-SEPARATOR---
 Albahraniy said:
 CW: 21 99 A2 5C 26 14 5A 94
 Click to expand...
