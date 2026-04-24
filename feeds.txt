@@ -7,6 +7,16 @@ DVB-S2 | 8PSK | 5/6
 ID: AFD
 CW: 17 38 C1 10 2A BD D1 B8
 ---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+11478 V 6798
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR-M25-A
+Event:  
+Turkish Efeler Ligi - Play Offs, Galatasaray vs Ziraat Bankasi
+CW: 28 42 00 6A 00 28 42 6A
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event: 
  Scottish  SWPL 1 Women - Championship Group, Rangers vs Hearts
@@ -29,6 +39,15 @@ Event:
  Scottish  SWPL 1 Women - Championship Group, Rangers vs Hearts
 CW: E5 21 15 1B 77 54 71 3C
 ---FEED-SEPARATOR---
+Championship, Round 45
+Leicester City vs Millwall
+Asiasat 5 (100.5°E) C BAND
+3992 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_24_SDI (SES)
+CW: 21 99 A2 5C 26 14 5A 94
+---FEED-SEPARATOR---
 Eutelsat 7A/B   ( 7.0E )
 10962 H 9874
 DVB-S2 - 
@@ -47,6 +66,30 @@ ID: backup
 Event:  
     Romania Divizia A - Play        Offs, Dinamo Bucharest vs Rapid Bucuresti 
 FTA / CLEAR
+---FEED-SEPARATOR---
+Hot Bird ( 13.0E )
+12609 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E333 M
+Turksat 3A/4A   ( 42.0E )
+10957 Vertical 7498,357
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  E333 M
+Event:  
+   Turkish Super Lig, Manisa        vs Fenerbahce
+CW: 33 2E 72 D3 BC 96 63 B5
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10969 V 7198
+DVB-S2 - 4:2:0 - 8PSK
+ID :F489 MAIN
+Event:   
+Euroleague - Play-in, Monaco vs Barcelona
+CW: 67 2B 53 E5 B1 DF 49 D9
 ---FEED-SEPARATOR---
 Red Devils said:
 Basketball Africa League - Season 6
