@@ -67,6 +67,14 @@ Event:
     Romania Divizia A - Play        Offs, Dinamo Bucharest vs Rapid Bucuresti 
 FTA / CLEAR
 ---FEED-SEPARATOR---
+Croatia Premijer liga - Round 31 
+Samobor - Kvarner
+Eutelsat 7A/7B/7C @ 7.0E
+10977 Vertical 7200.142 | 3/4 | 4:2:0
+ID: Medialink CRO-024/1 (Media Link)
+1920*1080 | DVB-S2 | 8PSK | SNR: 13.2dB | 16.049Mb/Sec
+79 6D 7A 50 A7 06 09 0A  #CW:20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
 Hot Bird ( 13.0E )
 12609 V 7498
 DVB-S2 - 
