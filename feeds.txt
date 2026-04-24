@@ -17,6 +17,23 @@ Event:
 Turkish Efeler Ligi - Play Offs, Galatasaray vs Ziraat Bankasi
 CW: 28 42 00 6A 00 28 42 6A
 ---FEED-SEPARATOR---
+28.2E
+12667 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish SWPL 1
+Partick Thistle v Glasgow City
+---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship - Week 35
+St Johnstone v Raith Rovers
+---FEED-SEPARATOR---
 Ratzvan said:
 			Event: 
  Scottish  SWPL 1 Women - Championship Group, Rangers vs Hearts
@@ -38,6 +55,16 @@ ID: (empty)
 Event: 
  Scottish  SWPL 1 Women - Championship Group, Rangers vs Hearts
 CW: E5 21 15 1B 77 54 71 3C
+---FEED-SEPARATOR---
+Albahraniy said:
+CW: 21 99 A2 5C 26 14 5A 94
+Click to expand...
+Eutelsat 7A/B   ( 7.0E )
+12647 V 7118
+DVB-S2 - 4:2:0 - 8PSK
+ID:   Pitch EFL Leicester v Millwall
+Event:  
+English Championship, Leicester vs Millwall
 ---FEED-SEPARATOR---
 Championship, Round 45
 Leicester City vs Millwall
