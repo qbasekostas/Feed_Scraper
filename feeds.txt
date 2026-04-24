@@ -6,3 +6,14 @@ DVB-S2 | 8PSK | 5/6
 1920x1080 | H.264/AVC Video | 4:2:0 | 17.15 Mbit/s
 ID: AFD
 CW: 17 38 C1 10 2A BD D1 B8
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+10962 H 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: UWCL M01 MD-1 Bu
+Event:   
+Champions League Women - Play Offs, Bayern Munich vs Barcelona 
+(TOMORROW)
+CW: F3 08 C9 C4 A3 33 C9 9F
