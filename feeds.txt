@@ -40,6 +40,14 @@ ID:  Polsat Sport (POLSAT)
 POLSAT SPORT - Women Volleyball - Bielsko-Biala W vs Opole W
 51 4B 20 97 E6 E5 B8 B9  #CW:15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+Post-match multilateral feed
+Eutelsat 7B/7C @ 7.0E
+10986 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Post-match multilateral feed - FACSF - Manchester City v Southampton
+CW: 12 34 AC F2 FB 87 65 E7
+---FEED-SEPARATOR---
 Scottish Premiership - Championship Group - 34
 Celtic vs. Falkirk
 Hot Bird 13F/13G @ 13.0°E
@@ -275,6 +283,23 @@ ID: TUR 112 MAIN
 Event:  
 Turkish Super Lig, Anadolu Efes vs Turk Telekom
 CW: FA 8A 10 94 34 9F B2 85
+---FEED-SEPARATOR---
+NBA - Play Offs - 1/8-finals 
+Phoenix Suns - Oklahoma City Thunder
+Eutelsat 7A/7B/7C @ 7.0E
+10995 Horizontal 7200.12 | 3/4 | 4:2:0
+ID: Fi11_GNVE (CM5000)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 16.049Mb/Sec
+94 3C 98 64 37 CE 43 FA  #CW:
+46 10 33 89 4A 7D EA B1
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11106 Horizontal 7200.131 | 3/4 | 4:2:0
+ID:  Fi01 ACB (CM5000)
+1920*1080 | DVB-S2 | 8PSK | SNR: 8.4dB | 16.049Mb/Sec
+Basketball - Spain ACB - Round 28  Valencia - Real Madrid
+2F 39 60 BC DF 3F 65 A6  #CW: 
+DE F5 47 1A F0 62 2E 80
 ---FEED-SEPARATOR---
 Event : Italy Lega A - Round 28
 Teams : Basket Napoli VS Trento
