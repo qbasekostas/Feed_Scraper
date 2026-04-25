@@ -32,6 +32,17 @@ ID:  Polsat Sport (POLSAT)
 POLSAT SPORT - Women Volleyball - Bielsko-Biala W vs Opole W
 51 4B 20 97 E6 E5 B8 B9  #CW:15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+Scottish Premiership - Championship Group - 34
+Celtic vs. Falkirk
+Hot Bird 13F/13G @ 13.0°E
+10838 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: GCUK Enc 2
+CW: EB BC DE 85 6A BE 37 5F
+---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:10995 - H - 7200
 MPEG 4 - 4:2:0 - DVB-S2
