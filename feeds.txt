@@ -14,6 +14,33 @@ Eutelsat 7.0°East
 ID: AFD
 CW: 17 38 C1 10 2A BD D1 B8
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12600 Vertical 7200.12 | 2/3 | 4:2:0
+ID: POL103 (POLSAT)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 14.263Mb/Sec
+Event: 
+Polsat Sport Volleyball - 
+Poland PlusLiga - Play Offs - Final 
+Zawiercie - Lublin
+51 4B 20 97 E6 E5 B8 B9  #CW:
+ 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12591 Vertical 7200.131 | 2/3 | 4:2:0
+ID:  Polsat Sport (POLSAT)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 14.263Mb/Sec
+POLSAT SPORT - Women Volleyball - Bielsko-Biala W vs Opole W
+51 4B 20 97 E6 E5 B8 B9  #CW:15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+Championship - Round 45 
+West Brom - Ipswich
+Eutelsat 7A/7B/7C @ 7.0E
+12627 Vertical 7120.153 | 2/3 | 4:2:0
+ID:  Pitch EFL - West Brom v Ipswich (NEP Connect)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 14.105Mb/Sec
+F8 2A 04 6B A3 24 E5 E3  #CW:
+32 55 30 B7 12 A3 DD 92
+---FEED-SEPARATOR---
 Ratzvan said:
 			Eutelsat 7A/B   ( 7.0E )
 10962 H 9874
