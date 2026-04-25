@@ -32,6 +32,16 @@ ID:  Polsat Sport (POLSAT)
 POLSAT SPORT - Women Volleyball - Bielsko-Biala W vs Opole W
 51 4B 20 97 E6 E5 B8 B9  #CW:15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:10995 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: Pitch Pre Match Man C V Southampton
+About
+ , 
+FA Cup
+ Man City vs Southampton
+CW: 12 34 AC F2 FB 87 65 E7
+---FEED-SEPARATOR---
 19.2°E
 11435 V 15000
 4:2:0
@@ -78,6 +88,21 @@ ID:  Pitch EFL - West Brom v Ipswich (NEP Connect)
 1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 14.105Mb/Sec
 F8 2A 04 6B A3 24 E5 E3  #CW:
 32 55 30 B7 12 A3 DD 92
+---FEED-SEPARATOR---
+Mohammed VI Football Academy International Tournament 2026
+ASPAIR vs AIN 
+21.6E
+- Name:
+MRC004-MAIN
+- Freq: 11596,251
+- Pol: Horizontal
+- SR: 4000,018
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+90 85 BF C4 DE 89 12 49 
+CW: FE ED AC 97 AD 20 26 F3
+ #[E] PID:0200h
 ---FEED-SEPARATOR---
 Event:
  "Galacticos Showcase - Duel of Legends"
@@ -134,6 +159,33 @@ CW: F3 08 C9 C4 A3 33 C9 9F
 Click to expand...
 Active
 ---FEED-SEPARATOR---
+Event : Europe AdmiralBet ABA League - Losers stage - Round 10
+Teams : FMP Beograd VS Perspektiva Ilirija
+Eutelsat 7A/7B/7C @ 7.0E 
+( KU-BAND )
+12553  Horizontal  4938.089
+ID:ITA 415 Main (Live Images)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+3C 72 98 CD 97 7F 18 3C  
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+GreeceStoiximan GBL, Round 26
+AEK BC vs Olympiacos BC
+Eutelsat 7B/7C @ 7.0E
+12676 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: E399 BACK (overon)
+CW: A0 D1 3A AB A6 43 42 2B
+---FEED-SEPARATOR---
+Hot Bird 13F/G @ 13° E
+Fréq:12601 - V - 7500
+MPEG 4 - 4:2:2 - DVB-S2
+ID: E333
+Turkish Super Lig
+Bahcesehir Vs Tofas
+CW: 6F 55 41 05 2E 80 9C 4A
+---FEED-SEPARATOR---
 Basketball Africa League - Season 6
 Eutelsat 7A/7B/7C @ 7.0E
 11605 Vertical 7200.12 | 2/3 | 4:2:0
@@ -171,6 +223,15 @@ ID: TUR 112 MAIN
 Event:  
 Turkish Super Lig, Anadolu Efes vs Turk Telekom
 CW: FA 8A 10 94 34 9F B2 85
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12592 V  7200
+ID: POL-058_ch1
+Event: 
+Men's basketball: ORLEN Basket Liga - match: Anwil Włocławek - WKS Śląsk Wrocław
+4.2.0
+- DVB-S2 - 8PSK
+CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
 Greek Super League 2
 Relegation Group - Matchday 10
