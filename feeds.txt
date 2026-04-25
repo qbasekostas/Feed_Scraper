@@ -100,6 +100,21 @@ ID:  Pitch EFL - West Brom v Ipswich (NEP Connect)
 F8 2A 04 6B A3 24 E5 E3  #CW:
 32 55 30 B7 12 A3 DD 92
 ---FEED-SEPARATOR---
+Mohammed VI Football Academy International Tournament 2026 - SEMI FINAL
+AMF vs FUS
+21.6E
+- Name:
+M49-MRC007-Bu
+- Freq: 11593,251
+- Pol: Horizontal
+- SR: 4000,018
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+90 85 BF C4 DE 89 12 49 
+CW: FE ED AC 97 AD 20 26 F3
+ #[E] PID:0200h
+---FEED-SEPARATOR---
 Mohammed VI Football Academy International Tournament 2026
 ASPAIR vs AIN 
 21.6E
@@ -127,6 +142,15 @@ Coaches
 ID: POL027
 OLD
 CW: 77 93 52 5C 99 08 86 27
+---FEED-SEPARATOR---
+Astra 2E/2F/2G (28.2E)
+12524 H 7200
+MPEG-4 FTA DVB-S2 8PSK,4:2:0
+ID: 
+WUCL TV3 Main 
+Provider: OVERON
+Champions League Women,Playoff, Semifinals,1st Match
+Bayern München (Ger) W - FC Barcelona (Spa) W (18:15)
 ---FEED-SEPARATOR---
 Event: 
 UWCL  | Bayern Munich v FC Barcelona
@@ -169,6 +193,15 @@ Champions League Women - Play Offs, Bayern Munich vs Barcelona
 CW: F3 08 C9 C4 A3 33 C9 9F
 Click to expand...
 Active
+---FEED-SEPARATOR---
+Astra 2E/2F/2G (28.2E)
+12613 H 7200
+MPEG-4 FTA DVB-S2 8PSK,4:2:0
+ID: 
+E266 J30 ENDESA
+Provider: 8MM Producciones 
+Liga ENDESA Femmenina,Jornada 30
+Baxi Ferrol W - Club Baloncesto Leganes W (19:00)
 ---FEED-SEPARATOR---
 Event : Europe AdmiralBet ABA League - Losers stage - Round 10
 Teams : FMP Beograd VS Perspektiva Ilirija
@@ -235,6 +268,16 @@ Event:
 Turkish Super Lig, Anadolu Efes vs Turk Telekom
 CW: FA 8A 10 94 34 9F B2 85
 ---FEED-SEPARATOR---
+Event : Italy Lega A - Round 28
+Teams : Basket Napoli VS Trento
+Eutelsat 7A/7B/7C @ 7.0E 
+( KU-BAND )
+11589 V 7199
+ID: Encoder 1 (Infront Italy)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+4C 6C 93 F2 BE BA CA E3
+CW: 44 48 25 B1 C5 A7 46 B2
+---FEED-SEPARATOR---
 3X3.U23 LEAGUE 
 ANNS VS FAVORIT 3X3
 16.0E
@@ -259,3 +302,14 @@ Athens Kallithea vs Chania
 12527 H 7200
 ID: KALLITHEA VS XANIA A
 FTA
+---FEED-SEPARATOR---
+Greek Cup, Play Offs - Final
+PAOK vs. OFI Crete
+Hot Bird 13F/13G @ 13.0°E
+11634  - V - 9700 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: SNG ATLAS-SAT 1
+CW: 98 98 AA DA CC 12 34 12
