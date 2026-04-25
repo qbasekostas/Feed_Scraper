@@ -13,3 +13,56 @@ Eutelsat 7.0°East
 10961 V 7500
 ID: AFD
 CW: 17 38 C1 10 2A BD D1 B8
+---FEED-SEPARATOR---
+Ratzvan said:
+			Eutelsat 7A/B   ( 7.0E )
+10962 H 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: UWCL M01 MD-1 Bu
+Event:   
+Champions League Women - Play Offs, Bayern Munich vs Barcelona 
+(TOMORROW)
+CW: F3 08 C9 C4 A3 33 C9 9F
+Click to expand...
+13.0°E
+11632 H 9876
+4:2:2
+ID: UWCL M01 M
+---FEED-SEPARATOR---
+Ratzvan said:
+			Eutelsat 7A/B   ( 7.0E )
+10962 H 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: UWCL M01 MD-1 Bu
+Event:   
+Champions League Women - Play Offs, Bayern Munich vs Barcelona 
+(TOMORROW)
+CW: F3 08 C9 C4 A3 33 C9 9F
+Click to expand...
+Active
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+Turkish Super Lig, Anadolu Efes vs Turk Telekom
+CW: FA 8A 10 94 34 9F B2 85
+Click to expand...
+Hot Bird ( 13.0E )
+12600 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10957 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
+Event:  
+Turkish Super Lig, Anadolu Efes vs Turk Telekom
+CW: FA 8A 10 94 34 9F B2 85
