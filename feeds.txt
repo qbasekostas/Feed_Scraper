@@ -1,4 +1,12 @@
 Argentina, Primera LPF
+Estidiantes-- Tallares
+7.0°E
+10960 V 7500
+4.2.0 HD DVB-S2 - 8PSK
+ID: AFD
+CW: 17 38 C1 10 2A BD D1 B8
+---FEED-SEPARATOR---
+Argentina, Primera LPF
 Racing Club vs Barrcas Central
  7.0°E
 10960 V 7500
