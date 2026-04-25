@@ -14,6 +14,14 @@ Eutelsat 7.0°East
 ID: AFD
 CW: 17 38 C1 10 2A BD D1 B8
 ---FEED-SEPARATOR---
+Croatia Volleyball
+Eutelsat 7B/7C @ 7.0E
+12554 H 4936
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: YSM-021M (DSNG)
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 12600 Vertical 7200.12 | 2/3 | 4:2:0
 ID: POL103 (POLSAT)
