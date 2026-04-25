@@ -32,6 +32,13 @@ ID:  Polsat Sport (POLSAT)
 POLSAT SPORT - Women Volleyball - Bielsko-Biala W vs Opole W
 51 4B 20 97 E6 E5 B8 B9  #CW:15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+19.2°E
+11435 V 15000
+4:2:0
+ID: BBC BU
+FA CUP Semi-Final - MAN CITY VS Southampton 
+CW: AA 23 44 11 AB BB 1A 80
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0E
 11087 v 7119
 DVB-S2 - 1080P - 8PSK
@@ -71,6 +78,30 @@ ID:  Pitch EFL - West Brom v Ipswich (NEP Connect)
 1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 14.105Mb/Sec
 F8 2A 04 6B A3 24 E5 E3  #CW:
 32 55 30 B7 12 A3 DD 92
+---FEED-SEPARATOR---
+Event:
+ "Galacticos Showcase - Duel of Legends"
+Location
+: Celina Stadium in Poland. Participants: Ronaldinho, Francesco Totti, Marco Materazzi, 
+Coaches
+: Fabio Capello and Jerzy Brzezinski
+16.0E
+10998 V 10000
+4.2.0 HD DVB-S2 - 8PSK
+ID: POL027
+OLD
+CW: 77 93 52 5C 99 08 86 27
+---FEED-SEPARATOR---
+Event: 
+UWCL  | Bayern Munich v FC Barcelona
+Teams : 
+Bayern Munich W v FC Barcelona W
+Eutelsat 7A/7B/7C @ 7.0E
+ ( KU-BAND )
+12686  Vertical  7199.946
+ID: ENC-13 (SES)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+CW: CF 04 E6 B9 2F BB 9F 89
 ---FEED-SEPARATOR---
 Ratzvan said:
 			Eutelsat 7A/B   ( 7.0E )
