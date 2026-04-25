@@ -32,6 +32,37 @@ ID:  Polsat Sport (POLSAT)
 POLSAT SPORT - Women Volleyball - Bielsko-Biala W vs Opole W
 51 4B 20 97 E6 E5 B8 B9  #CW:15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11087 v 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  Pitch - EFL - QPR v Derby County
+Albahraniy said:
+England Championship 
+Queens Park Rangers vs Derby County
+CW: 20 0C 32 5E 5A 24 31 AF
+Click to expand...
+---FEED-SEPARATOR---
+England Championship 
+Queens Park Rangers vs Derby County
+Asiasat 5 (100.5°E) C BAND
+3984 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_20_SDI (SES)
+CW: 20 0C 32 5E 5A 24 31 AF
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3966 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_18_SDI (SES)
+Red Devils said:
+Championship - Round 45 
+West Brom - Ipswich
+CW: 32 55 30 B7 12 A3 DD 92
+Click to expand...
+---FEED-SEPARATOR---
 Championship - Round 45 
 West Brom - Ipswich
 Eutelsat 7A/7B/7C @ 7.0E
@@ -71,6 +102,22 @@ Champions League Women - Play Offs, Bayern Munich vs Barcelona
 CW: F3 08 C9 C4 A3 33 C9 9F
 Click to expand...
 Active
+---FEED-SEPARATOR---
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+11605 Vertical 7200.12 | 2/3 | 4:2:0
+ID: AFRIQUE FEED (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 14.263Mb/Sec
+55 F0 18 96 B3 88 93 C5  #CW:
+6A 1E 9D 25 4B 2F 73 ED
+---FEED-SEPARATOR---
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+11596 Vertical 7200.131 | 2/3 | 4:2:0
+ID: WORLD FEED (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 14.263Mb/Sec
+0F BF C6 12 0F F5 6B C0  #CW:
+2F 8B 6D 27 3A 7C 91 47
 ---FEED-SEPARATOR---
 Ratzvan said:
 			Event:  
