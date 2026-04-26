@@ -6,6 +6,23 @@ River Plate vs Aldosivi
 ID: AFD
 CW: 17 38 C1 10 2A BD D1 B8
 ---FEED-SEPARATOR---
+England FA Cup - Semi-finals 
+Chelsea - Leeds
+Eutelsat 7A/7B/7C @ 7.0E
+11013 Vertical 7200.131 | 2/3 | 4:2:0
+ID:  Pitch - Pre Match Multilateral Chelsea (NEP Connect)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 14.263Mb/Sec
+3F A5 6E 7C 68 42 4F AB  #CW:
+12 34 AC F2 FB 56 78 C9
+---FEED-SEPARATOR---
+13°E KU
+10820 H 7200
+DVB-S2|1080HD
+4.2.0|H264
+ID: GCUK Enc 9
+Event: Scottish Premiership - Dundee Utd Vs Dundee FC
+CW: 6A CB BD F2 EE 43 51 82
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3967 V 7119 C-Band
 ID: BT_SES_20_SDI 
@@ -50,6 +67,22 @@ CW: A2 14 BA 70 B7 53 A1 AB
 English Championship - Week 45
 Coventry City v Wrexham
 ---FEED-SEPARATOR---
+U19 International Tournament (Rabat, Morocco) - 5th Place Match
+Boca Juniors (Arg) vs Al Ain (UAE)
+21.6E
+11595 H 4000
+DVB-S2 4:2:0 8PSK
+ID: MRC004-MAIN
+CW: FE ED AC 97 AD 20 26 F3
+---FEED-SEPARATOR---
+U19 International Tournament (Rabat, Morocco) - 7th Place Match
+Leeds United (Eng) vs Aspire Academy (Qat)
+21.6E
+11591 H 4000
+DVB-S2 4:2:0 8PSK
+ID: MRCO05-MAIN
+CW: FE ED AC 97 AD 20 26 F3
+---FEED-SEPARATOR---
 Event :
  Europe Champions League Women - Play Offs - Semi-finals
 Teams : Arsenal W VS Lyon W
@@ -63,6 +96,44 @@ MPEG4-
 22.680
  Mbit/Sec|8PSK DVB-S2 HD 
 CW: 8F 8D AB C7 5C CA BF E5
+---FEED-SEPARATOR---
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+11596 Vertical 7200.131 | 2/3 | 4:2:0
+ID: WORLD FEED (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 14.263Mb/Sec
+2A 62 76 4B 3A D5 52 B4  #CW:
+B5 C7 A2 1E D1 8E 4F AE
+---FEED-SEPARATOR---
+FaDeL® said:
+			Türksat 3A @ 42.0°E
+Fréq:10965 - V - 7500
+MPEG 4 - 4:2:2 - DVB-S2
+ID:TUR156 Main
+CW: D6 38 4F 5D 45 DA 1D 3C
+Click to expand...
+13e
+12583 V 7500
+4:2:2
+Turkey    Basketball    Super Lig    Trabzonspor  vs  Galatasaray
+---FEED-SEPARATOR---
+Türksat 3A @ 42.0°E
+Fréq:10965 - V - 7500
+MPEG 4 - 4:2:2 - DVB-S2
+ID:TUR156 Main
+Turkish Basketball Super League
+Trabzonspor  vs Galatasaray MCT Technic
+CW: D6 38 4F 5D 45 DA 1D 3C
+---FEED-SEPARATOR---
+Event : Africa BAL
+Teams : Ville de Dakar (Sen) VS Al Ahly (Egy)
+Eutelsat 7A/7B/7C @ 7.0E 
+( KU-BAND )
+11607 V 7198
+ID: AFRIQUE FEED (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+CA BF 0E 49 4C FB 70 46 
+CW: 8D 3F 1B E7 6A 9C 72 78
 ---FEED-SEPARATOR---
 Türksat 3A @ 42.0°E
 Fréq:10957 - V - 7500
