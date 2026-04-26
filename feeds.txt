@@ -6,6 +6,30 @@ River Plate vs Aldosivi
 ID: AFD
 CW: 17 38 C1 10 2A BD D1 B8
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3967 V 7119 C-Band
+ID: BT_SES_20_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,46Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 45)
+Teams: 
+Coventry City vs Wrexham
+Time / Kickoff: 18.00 JKT-TH / 19.00 MY-SG / 11.00 GMT / 13.00 CET
+barney115 said:
+CW: 32 0C 32 70 00 14 DE F2
+Click to expand...
+---FEED-SEPARATOR---
+English Championship - Week 45
+Coventry City v Wrexham
+7 EAST
+12647 V 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV 
+ID: EFL - Coventry v Wrexham
+CW: 32 0C 32 70 00 14 DE F2
+---FEED-SEPARATOR---
 28.2E
 12642 H 7200 
 4:2:2
@@ -25,6 +49,35 @@ Coventry v Wrexham Enc 1
 CW: A2 14 BA 70 B7 53 A1 AB
 English Championship - Week 45
 Coventry City v Wrexham
+---FEED-SEPARATOR---
+Event :
+ Europe Champions League Women - Play Offs - Semi-finals
+Teams : Arsenal W VS Lyon W
+Eutelsat 7A/7B/7C @ 7.0E 
+( KU-BAND )
+10973  Horizontal  9874.858
+ID:  ARSENAL v OL LYONNES (LINKS BROADCAST)
+MPEG4-
+4:2:2
+ HD 1920x1080 |
+22.680
+ Mbit/Sec|8PSK DVB-S2 HD 
+CW: 8F 8D AB C7 5C CA BF E5
+---FEED-SEPARATOR---
+Türksat 3A @ 42.0°E
+Fréq:10957 - V - 7500
+MPEG 4 - 4:2:2 - DVB-S2
+ID:TUR 161 Main
+Karsiyaka v Erokspor
+CW: 75 2E 87 2A 57 DF 39 6F
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11106 H 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID:  Fi01 ACB (CM5000)
+Basketball - Spain ACB - 
+Kosner Baskonia VS Barcelona
+CW: CD 35 71 73 CE 53 65 86
 ---FEED-SEPARATOR---
 Dolg said:
 Turksat 3A/4A ( 42.0E )
