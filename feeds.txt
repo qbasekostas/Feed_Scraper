@@ -25,3 +25,28 @@ Coventry v Wrexham Enc 1
 CW: A2 14 BA 70 B7 53 A1 AB
 English Championship - Week 45
 Coventry City v Wrexham
+---FEED-SEPARATOR---
+Dolg said:
+Turksat 3A/4A ( 42.0E )
+10957 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
+Event: 
+Turkish Super Lig, Karsiyaka vs Esenler Erokspor
+27 DD F4 0A AD 74 6A CC  #CW:75 2E 87 2A 57 DF 39 6F
+Click to expand...
+13E 10830 V 7500 8PSK 4:2:2
+ID: TUR 161 Main
+Same CW
+---FEED-SEPARATOR---
+Turksat 3A/4A ( 42.0E )
+10957 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
+Event: 
+Turkish Super Lig, Karsiyaka vs Esenler Erokspor
+27 DD F4 0A AD 74 6A CC  #CW:75 2E 87 2A 57 DF 39 6F
