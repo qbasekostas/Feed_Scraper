@@ -6,6 +6,14 @@ River Plate vs Aldosivi
 ID: AFD
 CW: 17 38 C1 10 2A BD D1 B8
 ---FEED-SEPARATOR---
+Scottish  Premiership
+Hibernian vs Heartz
+13.0E
+10838 V 7200
+4.2.0 HD 8PSK DVB-S2
+ID: GCUK Enc 2
+CW: 6A CB BD F2 EE 43 51 82
+---FEED-SEPARATOR---
 England FA Cup - Semi-finals 
 Chelsea - Leeds
 Eutelsat 7A/7B/7C @ 7.0E
@@ -111,6 +119,13 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID: Studioline Main (ITA863 A)
 1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 10.699Mb/Sec
 CW: FTA
+---FEED-SEPARATOR---
+13.0°E
+10829 V 7500
+4:2:2
+ID: beINSPORTS TURKEY 4
+CW: 8D A4 75 A6 6A 4F 1D D6
+Turkey    Basketball    Super Lig
 ---FEED-SEPARATOR---
 Lega Basket Serie A
 Venezia - Olimpia Milano
