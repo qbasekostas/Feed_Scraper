@@ -5,3 +5,23 @@ River Plate vs Aldosivi
  4.2.0 HD DVB-S2  - 8PSK
 ID: AFD
 CW: 17 38 C1 10 2A BD D1 B8
+---FEED-SEPARATOR---
+28.2E
+12642 H 7200 
+4:2:2
+DVBS2 8PSK
+ID: 
+No name
+CW: D7 67 1D 5B 40 54 A7 3B
+English FA Cup - Semi Final
+Chelsea v Leeds United
+---FEED-SEPARATOR---
+28.2E
+12613 H 7200 
+4:2:0
+DVBS2 8PSK
+ID: 
+Coventry v Wrexham Enc 1
+CW: A2 14 BA 70 B7 53 A1 AB
+English Championship - Week 45
+Coventry City v Wrexham
