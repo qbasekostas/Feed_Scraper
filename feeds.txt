@@ -141,6 +141,17 @@ ID: Studioline Main (ITA863 A)
 1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 10.699Mb/Sec
 CW: FTA
 ---FEED-SEPARATOR---
+Event: Europe AdmiralBet ABA League - Losers stage - Round 10
+Teams : Borac Mozzart 
+ Mega Basket
+Eutelsat 7A/7B/7C @ 7.0E
+ ( KU-BAND )
+12521 H 4936
+ID:YSM-016 MAIN (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+3C 72 98 CD 97 7F 18 3C  
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Italy Lega A - Round 28 
 Virtus Bologna - Trieste
 Eutelsat 7A/7B/7C @ 7.0E
