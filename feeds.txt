@@ -88,6 +88,16 @@ Coventry City v Wrexham
 ---FEED-SEPARATOR---
 AhmedCeNa said:
 			21.6E
+11595 H 4000
+DVB-S2 4:2:0 8PSK
+ID: MRC004-MAIN
+CW: FE ED AC 97 AD 20 26 F3
+Click to expand...
+U19 International Tournament (Rabat, Morocco) - FINAL
+Mohammed VI Academy (Mar) vs Hajduk Split (Cro)
+---FEED-SEPARATOR---
+AhmedCeNa said:
+			21.6E
 11591 H 4000
 DVB-S2 4:2:0 8PSK
 ID: MRCO05-MAIN
