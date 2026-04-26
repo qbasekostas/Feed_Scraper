@@ -6,6 +6,17 @@ River Plate vs Aldosivi
 ID: AFD
 CW: 17 38 C1 10 2A BD D1 B8
 ---FEED-SEPARATOR---
+Event:
+Teams :
+Eutelsat 7A/7B/7C @ 7.0E
+ ( KU-BAND )
+12602  Vertical  7199.946
+ID:    Polsat Sport (POLSAT)
+Women's volleyball: TAURON Liga - 4th final match of the play-off phase: PGE Budowlani Łódź - KS DevelopRes Rzeszów
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+51 4B 20 97 E6 E5 B8 B9
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 Scottish  Premiership
 Hibernian vs Heartz
 13.0E
@@ -129,6 +140,16 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID: Studioline Main (ITA863 A)
 1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 10.699Mb/Sec
 CW: FTA
+---FEED-SEPARATOR---
+Italy Lega A - Round 28 
+Virtus Bologna - Trieste
+Eutelsat 7A/7B/7C @ 7.0E
+11579 Vertical 7200.142 | 3/4 | 
+4:2:2
+ID: Encoder 3 (Infront Italy)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 16.049Mb/Sec
+DE BB F6 B3 61 03 4D 5F  #CW:
+F4 7E 9E 10 BC BE 39 B3
 ---FEED-SEPARATOR---
 13.0°E
 10829 V 7500
