@@ -1,19 +1,50 @@
-simo naith said:
-			UEFA Champions League
-Tomorow:
-PSG vs Bayern Munich
-Eutelsat 7E
-11544 V 7199
-UCL-PSG v BAYERN M BACKUP E
-CW: 8A 8B 8C A1 8D 8E 8F AA
-Click to expand...
-https://www.sat-universe.com/index....d-to-move-if-completed.319817/post-2037447527
-post dup
+Turksat 3A/4A   ( 42.0E )
+11461 V 6798
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR-145-A
+Event: 
+Turkish Efeler Ligi - Play Offs, Ziraat Bankasi vs Galatasaray
+CW: 41 14 00 55 00 41 14 55
 ---FEED-SEPARATOR---
-UEFA Champions League
-Tomorow: 
-PSG vs Bayern Munich
-Eutelsat 7E
-11544 V 7199
-UCL-PSG v BAYERN M BACKUP E
+Event:Europe Champions League - Play Offs - Semi-finals
+Teams : PSG 
+ Bayern Munich
+Eutelsat 7A/7B/7C @ 7.0E 
+( KU-BAND )
+11544 V 7198
+: UCL-PSG v BAYERN M MAIN FEED E414 (OVERON)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+BC 11 F6 3D 54 65 2D 95
 CW: 8A 8B 8C A1 8D 8E 8F AA
+---FEED-SEPARATOR---
+Eutelsat 7A/B   ( 7.0E )
+12547 H 4936
+DVB-S2 - 4:2:0 - 8PSK
+ID: MNE-001 main
+Event:  
+ AdmiralBet ABA League - Losers stage, Studentski Centar vs Zadar
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Ratzvan said:
+			Event:  
+Turkish Super Lig, Merkezefendi vs Mersin SK
+CW: 53 22 A1 16 32 9F 2F 00
+Click to expand...
+Hot Bird ( 13.0E )
+10848 V 7499
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:TUR 161 Main
+---FEED-SEPARATOR---
+Turksat 3A/4A   ( 42.0E )
+10957 V 7498
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 161 Main
+Event:  
+Turkish Super Lig, Merkezefendi vs Mersin SK
+CW: 53 22 A1 16 32 9F 2F 00
