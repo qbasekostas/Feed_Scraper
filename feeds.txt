@@ -8,6 +8,17 @@ Event:
 Turkish Efeler Ligi - Play Offs, Ziraat Bankasi vs Galatasaray
 CW: 41 14 00 55 00 41 14 55
 ---FEED-SEPARATOR---
+English Premier League 
+Rouend 34
+ Manchester United vs Brentford
+3.1E
+10959 H 7500
+4.2.0 HD DVB-S2 - 8PSK
+ID: beIN SPORTS
+10969 H 7500
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
 Event:Europe Champions League - Play Offs - Semi-finals
 Teams : PSG 
  Bayern Munich
