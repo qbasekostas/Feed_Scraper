@@ -1,185 +1,81 @@
-100.5e
-3840 H 30000
+Eutelsat 10E
+10767 V 34000 S2
+ 4:2:2
+ID: OCC 5
+Copa Libertadores & Copa Sudamericana
+CW: BD E3 A9 49 D5 1F FA EE
+---FEED-SEPARATOR---
+CONMEBOL Libertadores
+Libertad vs Independiente del Valle
+Eutelsat 10B @ 10.0E
+10767 V 34000
+DVB-S2 - 1080P - 8PSK
 4:2:2
-ID: 
-OCC 3
+ID: OCC 2
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 2
+CW: 72 E3 A9 FE D5 13 FA E2
+---FEED-SEPARATOR---
+Eutelsat 10E
+10767 V 34000 S2
+ 4:2:2
+ID: OCC 1
+Copa Libertadores & Copa Sudamericana
+B2 F6 56 F4 81 9F 6B 75 #CW: 3B E3 B8 D6 D5 1C FA EB
+ID: OCC 3
 Copa Libertadores & Copa Sudamericana
 CW: F1 E3 8B 5F D5 1E 4A 3D
 ---FEED-SEPARATOR---
-100.5e
-3840 H 30000
-4:2:2
-ID: 
-OCC 1
 Copa Libertadores & Copa Sudamericana
-B2 F6 56 F4 81 9F 6B 75  #CW: 
-3B E3 B8 D6 D5 1C FA EB
----FEED-SEPARATOR---
-Turksat 3A/4A ( 42.0E )
-11460 V 6800
-DVB-S2 - 
+Asiasat 5 (100.5°E) C BAND
+3992 V 7500
+DVB-S2 - 1080P - 8PSK
 4:2:2
- - 8PSK
-ID: TUR-145-B
-Event: 
-Turkish Efeler Ligi - Play Offs, Halkbank  vs   Spor Toto
-7E CA 2F 34 B1 46 DF F5  #CW: 
-24 57 00 7B 00 24 57 7B
+ID: OCC 8
+CW: CB E3 5E 0C D5 1E 4A 3D
 ---FEED-SEPARATOR---
-28.2E
-12703 V 7120 
-4:2:0
-DVBS-2 8PSK
-ID 
-Cloudbass
-Scottish SWPL 1
-Hearts v Partick Thistle
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100.5°E) C BAND
+3984 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 7
+CW: 43 E3 6D 93 D5 19 4A 38
 ---FEED-SEPARATOR---
-28.2E
-12632 V 7120 
-4:2:0
-DVBS-2 8PSK
-ID 
-Cloudbass
-Scottish SWPL 1
-Hearts v Partick Thistle 
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100.5°E) C BAND
+3975 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 6
+CW: 8A E3 6D DA D5 14 4A 33
 ---FEED-SEPARATOR---
-Scottish FA Youth Cup FINAL
-Queen's Park vs Heart of Midlothian
-16E
-12692 V 10000
-12704 V 10000
-12712 V 2000
-DVB-S2 4:2:0 8PSK
-ID: Uki-1592
-ID: Uki-1592
-ID: Service 01
-FTA
----FEED-SEPARATOR---
-100.5e
-3967 V 7120
-4:2:0
-Championship    Southampton  vs  Ipswich
-6C 88 19 DA 79 9C 97 0E  #CW: C4 54 24 3C 41 25 A4 0A
----FEED-SEPARATOR---
-xachik said:
-Championship    Southampton  vs  Ipswich
-CW: C4 54 24 3C 41 25 A4 0A
+CONMEBOL Sudamericana
+Recoleta FC vs Deportivo Cuenca
+Asiasat 5 (100.5°E) C BAND
+3965 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 5
+Ozan said:
+CW: BD E3 A9 49 D5 1F FA EE
 Click to expand...
-Eutelsat 7A/7B/7C @ 7.0E
-11042 Vertical 7120.153 | 2/3 | 4:2:0
-ID:  EFL - Southampton v Ipswich (NEP Connect)
-1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 14.105Mb/Sec
 ---FEED-SEPARATOR---
-UEFA Champions League
-PSG vs Bayern Munich
-19.2E
-11567 V 14400
-DVB-S2 
+CONMEBOL Sudamericana standings
+Botafogo vs Club Independiente
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
 4:2:2
- 8PSK
-ID: HOL-241-1
-FTA
-Edit: Encrypted in BISS 2 now 
+ID: OCC 4
+CW: 5D E3 4F 8F G5 14 4A 33
 ---FEED-SEPARATOR---
-UEFA Champions League - Simi Final (1st Leg)
-Paris St Germain vs Bayern 
-Munich
-Eutelsat 3B @ 3.1E C-Band
-3796 Horizontal 7200.172 3/4
-ID:UEFA (IKOMG)
-1920x1080 | 16.049 Mb/Sec | 8PSK | 4:2:0 DVB-S2
-SNR: 7.7 dB
-CW: 5D 91 8C 7A 9D EA 58 DF
----FEED-SEPARATOR---
-CBS/Paramount
-UEFA Championship League
-ID: ENC 1
-47.5 West 4175 L 7200
-CW: 28 29 00 51 04 20 26 4A
-4:2:0
----FEED-SEPARATOR---
-UEFA Champions League - Highlites
-Eutelsat 7A/7B/7C @ 7.0E
-11020 Horizontal 9875.153 | 3/4 | 
-4:2:2
-ID:  LEUK_Fi01 (EUROVISION SA)
-1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 22.011Mb/Sec
-FB ED 26 C0 21 E8 6D 84  #CW:
-8B 01 E7 73 DA F6 A3 73
----FEED-SEPARATOR---
-UEFA Champions League
-PSG vs Bayern Munich
-7E
-12510 V 7200
-DVB-S2 4:2:0 8PSK
-ID: PSG-BAY UNILATERAL MOVISTAR
-CW: 8A 8B 8C A1 8D 8E 8F AA
----FEED-SEPARATOR---
-UEFA Champions League
-Atl. Madrid - Arsenal
-Eutelsat 7A/7B/7C @ 7.0E
-11543 V 7201 | 3/4 | 4:2:0
-ID: OVERON E-457 V1 (OVERON E399 V1)
-1920*1080 | DVB-S2 | 8PSK | SNR: 0.0dB | 15.680Mb/Sec
-CW: 28 28 00 50 04 20 26 4A
----FEED-SEPARATOR---
-UEFA Champions League
-Paris St Germain vs Bayern Munich
-Eutelsat 7A/B ( 7.0E )
-10970 H 4825
-DVB-S2 - 
-4:2:0 
-- H.265
-ID: GCR/F563/2/FEED B2 BACKUP
-CW: : 8B 01 E7 73 DA F6 A3 73
----FEED-SEPARATOR---
-xachik said:
-			7e
-12524 H 4937
-4:2:0
-ID: BIH007
-AdmiralBet ABA League - Play-in    KK Bosna  vs  Igokea
-Click to expand...
-Also on 7E 11474 H 4936
-Same ID FTA
----FEED-SEPARATOR---
-7e
-12524 H 4937
-4:2:0
-ID: BIH007
-AdmiralBet ABA League - Play-in    KK Bosna  vs  Igokea
----FEED-SEPARATOR---
-Intelsat 10-02 ( 1.0W )
-12535 V 4798
-DVB-S2 - 4:2:0 - 8PSK
-ID: (ermpty)
-Event: 
-Romania Divizia A - Play Offs, Voluntari vs SCM Craiova
-FTA / CLEAR
----FEED-SEPARATOR---
-Basketball Africa League - Season 6
-Eutelsat 7A/7B/7C @ 7.0E
-11606 Vertical 7200.131 | 2/3 | 4:2:0
-ID: AFRIQUE FEED (*unnamed-1*)
-1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 14.263Mb/Sec
-67 90 88 2B 99 BE 1A CD  #CW:
-F1 D6 A8 6F B3 C7 29 A3
----FEED-SEPARATOR---
-Basketball Africa League - Season 6
-Eutelsat 7A/7B/7C @ 7.0E
-11597 Vertical 7200.131 | 2/3 | 4:2:0
-ID:  WORLD FEED (*unnamed-1*)
-1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 14.263Mb/Sec
-51 54 F7 B3 5B F2 A0 A7  #CW:
-3A 7C 9E 54 2D 5F 18 A4
----FEED-SEPARATOR---
-Event:
-Teams :
-Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
-12685 H 7198
-ID:  F419_MAIN (SAT PROD)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
-bourg - besiktas 
-Basketball Eurocup finals
-CW: 28 04 BD E9 AC 20 26 F2
+Eutelsat 10E
+10767 V 34000 S2
+ 4:2:2
+ID: OCC 4
+Copa Libertadores & Copa Sudamericana
+CW: 5D E3 4F 8F D5 14 4A 33
