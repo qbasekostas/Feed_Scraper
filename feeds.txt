@@ -1,3 +1,31 @@
+Turksat 3A/4A ( 42.0E )
+11460 V 6800
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR-145-B
+Event: 
+Turkish Efeler Ligi - Play Offs, Halkbank  vs   Spor Toto
+7E CA 2F 34 B1 46 DF F5  #CW: 
+24 57 00 7B 00 24 57 7B
+---FEED-SEPARATOR---
+100.5e
+3967 V 7120
+4:2:0
+Championship    Southampton  vs  Ipswich
+6C 88 19 DA 79 9C 97 0E  #CW: C4 54 24 3C 41 25 A4 0A
+---FEED-SEPARATOR---
+UEFA Champions League
+PSG vs Bayern Munich
+19.2E
+11567 V 14400
+DVB-S2 
+4:2:2
+ 8PSK
+ID: HOL-241-1
+FTA
+Edit: Encrypted in BISS 2 now 
+---FEED-SEPARATOR---
 UEFA Champions League
 Atl. Madrid - Arsenal
 Eutelsat 7A/7B/7C @ 7.0E
@@ -5,12 +33,6 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID: OVERON E-457 V1 (OVERON E399 V1)
 1920*1080 | DVB-S2 | 8PSK | SNR: 0.0dB | 15.680Mb/Sec
 CW: 28 28 00 50 04 20 26 4A
----FEED-SEPARATOR---
-UEFA Champions League: 
-Eutelsat 7E
-11024 V 4937
-GVA_Fi05 
-CW: 40 26 49 AF DC DB 12 C9
 ---FEED-SEPARATOR---
 UEFA Champions League
 Paris St Germain vs Bayern Munich
@@ -21,3 +43,11 @@ DVB-S2 -
 - H.265
 ID: GCR/F563/2/FEED B2 BACKUP
 CW: : 8B 01 E7 73 DA F6 A3 73
+---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+12535 V 4798
+DVB-S2 - 4:2:0 - 8PSK
+ID: (ermpty)
+Event: 
+Romania Divizia A - Play Offs, Voluntari vs SCM Craiova
+FTA / CLEAR
