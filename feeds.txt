@@ -9,11 +9,32 @@ Turkish Efeler Ligi - Play Offs, Halkbank  vs   Spor Toto
 7E CA 2F 34 B1 46 DF F5  #CW: 
 24 57 00 7B 00 24 57 7B
 ---FEED-SEPARATOR---
+Scottish FA Youth Cup FINAL
+Queen's Park vs Heart of Midlothian
+16E
+12692 V 10000
+12704 V 10000
+12712 V 2000
+DVB-S2 4:2:0 8PSK
+ID: Uki-1592
+ID: Uki-1592
+ID: Service 01
+FTA
+---FEED-SEPARATOR---
 100.5e
 3967 V 7120
 4:2:0
 Championship    Southampton  vs  Ipswich
 6C 88 19 DA 79 9C 97 0E  #CW: C4 54 24 3C 41 25 A4 0A
+---FEED-SEPARATOR---
+xachik said:
+Championship    Southampton  vs  Ipswich
+CW: C4 54 24 3C 41 25 A4 0A
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0E
+11042 Vertical 7120.153 | 2/3 | 4:2:0
+ID:  EFL - Southampton v Ipswich (NEP Connect)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 14.105Mb/Sec
 ---FEED-SEPARATOR---
 UEFA Champions League
 PSG vs Bayern Munich
@@ -25,6 +46,32 @@ DVB-S2
 ID: HOL-241-1
 FTA
 Edit: Encrypted in BISS 2 now 
+---FEED-SEPARATOR---
+UEFA Champions League - Simi Final (1st Leg)
+Paris St Germain vs Bayern 
+Munich
+Eutelsat 3B @ 3.1E C-Band
+3796 Horizontal 7200.172 3/4
+ID:UEFA (IKOMG)
+1920x1080 | 16.049 Mb/Sec | 8PSK | 4:2:0 DVB-S2
+SNR: 7.7 dB
+CW: 5D 91 8C 7A 9D EA 58 DF
+---FEED-SEPARATOR---
+CBS/Paramount
+UEFA Championship League
+ID: ENC 1
+47.5 West 4175 L 7200
+CW: 28 29 00 51 04 20 26 4A
+4:2:0
+---FEED-SEPARATOR---
+UEFA Champions League - Highlites
+Eutelsat 7A/7B/7C @ 7.0E
+11020 Horizontal 9875.153 | 3/4 | 
+4:2:2
+ID:  LEUK_Fi01 (EUROVISION SA)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 22.011Mb/Sec
+FB ED 26 C0 21 E8 6D 84  #CW:
+8B 01 E7 73 DA F6 A3 73
 ---FEED-SEPARATOR---
 UEFA Champions League
 PSG vs Bayern Munich
