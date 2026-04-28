@@ -1,0 +1,9 @@
+UEFA Champions League
+Paris St Germain vs Bayern Munich
+Eutelsat 7A/B ( 7.0E )
+10970 H 4825
+DVB-S2 - 
+4:2:0 
+- H.265
+ID: GCR/F563/2/FEED B2 BACKUP
+CW: : 8B 01 E7 73 DA F6 A3 73
