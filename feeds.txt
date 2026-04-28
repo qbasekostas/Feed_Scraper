@@ -1,3 +1,20 @@
+100.5e
+3840 H 30000
+4:2:2
+ID: 
+OCC 3
+Copa Libertadores & Copa Sudamericana
+CW: F1 E3 8B 5F D5 1E 4A 3D
+---FEED-SEPARATOR---
+100.5e
+3840 H 30000
+4:2:2
+ID: 
+OCC 1
+Copa Libertadores & Copa Sudamericana
+B2 F6 56 F4 81 9F 6B 75  #CW: 
+3B E3 B8 D6 D5 1C FA EB
+---FEED-SEPARATOR---
 Turksat 3A/4A ( 42.0E )
 11460 V 6800
 DVB-S2 - 
@@ -8,6 +25,24 @@ Event:
 Turkish Efeler Ligi - Play Offs, Halkbank  vs   Spor Toto
 7E CA 2F 34 B1 46 DF F5  #CW: 
 24 57 00 7B 00 24 57 7B
+---FEED-SEPARATOR---
+28.2E
+12703 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish SWPL 1
+Hearts v Partick Thistle
+---FEED-SEPARATOR---
+28.2E
+12632 V 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish SWPL 1
+Hearts v Partick Thistle 
 ---FEED-SEPARATOR---
 Scottish FA Youth Cup FINAL
 Queen's Park vs Heart of Midlothian
