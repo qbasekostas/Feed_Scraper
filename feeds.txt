@@ -27,6 +27,14 @@ FTA
 Edit: Encrypted in BISS 2 now 
 ---FEED-SEPARATOR---
 UEFA Champions League
+PSG vs Bayern Munich
+7E
+12510 V 7200
+DVB-S2 4:2:0 8PSK
+ID: PSG-BAY UNILATERAL MOVISTAR
+CW: 8A 8B 8C A1 8D 8E 8F AA
+---FEED-SEPARATOR---
+UEFA Champions League
 Atl. Madrid - Arsenal
 Eutelsat 7A/7B/7C @ 7.0E
 11543 V 7201 | 3/4 | 4:2:0
@@ -44,6 +52,22 @@ DVB-S2 -
 ID: GCR/F563/2/FEED B2 BACKUP
 CW: : 8B 01 E7 73 DA F6 A3 73
 ---FEED-SEPARATOR---
+xachik said:
+			7e
+12524 H 4937
+4:2:0
+ID: BIH007
+AdmiralBet ABA League - Play-in    KK Bosna  vs  Igokea
+Click to expand...
+Also on 7E 11474 H 4936
+Same ID FTA
+---FEED-SEPARATOR---
+7e
+12524 H 4937
+4:2:0
+ID: BIH007
+AdmiralBet ABA League - Play-in    KK Bosna  vs  Igokea
+---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12535 V 4798
 DVB-S2 - 4:2:0 - 8PSK
@@ -51,3 +75,29 @@ ID: (ermpty)
 Event: 
 Romania Divizia A - Play Offs, Voluntari vs SCM Craiova
 FTA / CLEAR
+---FEED-SEPARATOR---
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+11606 Vertical 7200.131 | 2/3 | 4:2:0
+ID: AFRIQUE FEED (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 14.263Mb/Sec
+67 90 88 2B 99 BE 1A CD  #CW:
+F1 D6 A8 6F B3 C7 29 A3
+---FEED-SEPARATOR---
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+11597 Vertical 7200.131 | 2/3 | 4:2:0
+ID:  WORLD FEED (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 14.263Mb/Sec
+51 54 F7 B3 5B F2 A0 A7  #CW:
+3A 7C 9E 54 2D 5F 18 A4
+---FEED-SEPARATOR---
+Event:
+Teams :
+Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
+12685 H 7198
+ID:  F419_MAIN (SAT PROD)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+bourg - besiktas 
+Basketball Eurocup finals
+CW: 28 04 BD E9 AC 20 26 F2
