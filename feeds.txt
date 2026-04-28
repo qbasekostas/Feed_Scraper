@@ -1,4 +1,18 @@
 UEFA Champions League
+Atl. Madrid - Arsenal
+Eutelsat 7A/7B/7C @ 7.0E
+11543 V 7201 | 3/4 | 4:2:0
+ID: OVERON E-457 V1 (OVERON E399 V1)
+1920*1080 | DVB-S2 | 8PSK | SNR: 0.0dB | 15.680Mb/Sec
+CW: 28 28 00 50 04 20 26 4A
+---FEED-SEPARATOR---
+UEFA Champions League: 
+Eutelsat 7E
+11024 V 4937
+GVA_Fi05 
+CW: 40 26 49 AF DC DB 12 C9
+---FEED-SEPARATOR---
+UEFA Champions League
 Paris St Germain vs Bayern Munich
 Eutelsat 7A/B ( 7.0E )
 10970 H 4825
