@@ -80,6 +80,30 @@ ID: OCC 4
 Copa Libertadores & Copa Sudamericana
 CW: 5D E3 4F 8F D5 14 4A 33
 ---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event:Europe Champions League - Play Offs - Semi-finals
+Teams : Atl. Madrid 
+ Arsenal
+Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
+11544  Vertical  7199.946
+:   OVERON E-413 MAIN (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+8D 1F CE 3A 2B 95 65 89 
+CW: A5 B4 1F 78 D7 8B 89 EB
+Click to expand...
+New CW: 
+F4 DE CB 9D 49 DE 63 8A
+---FEED-SEPARATOR---
+Event:Europe Champions League - Play Offs - Semi-finals
+Teams : Atl. Madrid 
+ Arsenal
+Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
+11544  Vertical  7199.946
+:   OVERON E-413 MAIN (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+8D 1F CE 3A 2B 95 65 89 
+CW: A5 B4 1F 78 D7 8B 89 EB
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 10970 H 4825
 DVB-S2 - 4:2:0 - 8PSK - HEVC
