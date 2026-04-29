@@ -88,6 +88,17 @@ Event:
 PlusLiga - Play Offs - Lublin vs Zawiercie
 CW: 07 BB 01 C3 AE 26 CF A3
 ---FEED-SEPARATOR---
+SWPL 1 Womens Championship Group - Week 25
+Glasgow City W vs. Celtic W
+Intelsat 10-02 @ 1.0°W
+11468 - V - 15000 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 60 7E D6 B4 CD 61 99 C7
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event:Europe Champions League - Play Offs - Semi-finals
 Teams : Atl. Madrid 
@@ -151,6 +162,15 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 16APSK
 ID: E387 M1 MAIN
 CW: CB DA 28 CD 34 CD AB AC
+---FEED-SEPARATOR---
+7e
+11556
+V
+ -  
+9600
+4:2:0
+ID: CH-31 
+Bilbao - PAOK
 ---FEED-SEPARATOR---
 Serbia KLS
 sKK Crvena zvezda vs KK Zlatibor Čajetina
