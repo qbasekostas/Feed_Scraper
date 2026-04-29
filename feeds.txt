@@ -80,6 +80,14 @@ ID: OCC 4
 Copa Libertadores & Copa Sudamericana
 CW: 5D E3 4F 8F D5 14 4A 33
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12591 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL 058_T1
+Event: 
+PlusLiga - Play Offs - Lublin vs Zawiercie
+CW: 07 BB 01 C3 AE 26 CF A3
+---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event:Europe Champions League - Play Offs - Semi-finals
 Teams : Atl. Madrid 
@@ -112,15 +120,6 @@ Event:
 Uefa Champions League - Atletico Madrid vs Arsenal
 CW: 6A 56 E9 A9 84 E2 FC 62
 ---FEED-SEPARATOR---
-SuannS said:
-			CBS/Paramount
-UEFA Champions League
-ID: ENC 1
-47.5 West 4175 L 7200
-CW: 28 29 00 51 04 20 26 4A
-Click to expand...
-Active CW
----FEED-SEPARATOR---
 UEFA Champions League
 About: 
 Atlético Madrid vs Arsenal
@@ -152,6 +151,15 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 16APSK
 ID: E387 M1 MAIN
 CW: CB DA 28 CD 34 CD AB AC
+---FEED-SEPARATOR---
+Serbia KLS
+sKK Crvena zvezda vs KK Zlatibor Čajetina
+Eutelsat 7B/7C @ 7.0E
+12552 H 4936
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: YSM-021M (DSNG)
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 Event: 
 Basketball Africa League - Season 6
