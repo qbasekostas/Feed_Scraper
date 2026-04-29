@@ -79,3 +79,11 @@ Eutelsat 10E
 ID: OCC 4
 Copa Libertadores & Copa Sudamericana
 CW: 5D E3 4F 8F D5 14 4A 33
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+10970 H 4825
+DVB-S2 - 4:2:0 - 8PSK - HEVC
+ID: E467 B2 M1
+Event:
+Uefa Champions League - Atletico Madrid vs Arsenal
+CW: 6A 56 E9 A9 84 E2 FC 62
