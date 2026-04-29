@@ -31,6 +31,31 @@ CW: F1 E3 8B 5F D5 1E 4A 3D
 ---FEED-SEPARATOR---
 Copa Libertadores & Copa Sudamericana
 Asiasat 5 (100.5°E) C BAND
+3984 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 7
+CW: 8A BF 8B D4 A2 D4 47 BD
+---FEED-SEPARATOR---
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100.5°E) C BAND
+3975 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 6
+CW: F1 BF A9 59 A2 DC F7 75
+---FEED-SEPARATOR---
+CONMEBOL Sudamericana, Group F, Round 3
+Deportivo Riestra vs Montevideo City Torque
+Asiasat 5 (100.5°E) C BAND
+3965 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 5
+CW: BD BF B8 34 A2 DF F7 78
+---FEED-SEPARATOR---
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100.5°E) C BAND
 3840 H 30000
 DVB-S2 - 1080P - 8PSK
 4:2:2
@@ -112,6 +137,11 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: 60 7E D6 B4 CD 61 99 C7
+---FEED-SEPARATOR---
+Vancouver FIFA Congress *Test 
+47.5 West 4148 L 7200
+CW: 76 DB 06 57 27 16 5D 99
+4:2:0
 ---FEED-SEPARATOR---
 Abo Saeid Satellite said:
 Event:Europe Champions League - Play Offs - Semi-finals
