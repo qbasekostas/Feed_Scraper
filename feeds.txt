@@ -111,3 +111,62 @@ ID: E467 B2 M1
 Event:
 Uefa Champions League - Atletico Madrid vs Arsenal
 CW: 6A 56 E9 A9 84 E2 FC 62
+---FEED-SEPARATOR---
+SuannS said:
+			CBS/Paramount
+UEFA Champions League
+ID: ENC 1
+47.5 West 4175 L 7200
+CW: 28 29 00 51 04 20 26 4A
+Click to expand...
+Active CW
+---FEED-SEPARATOR---
+UEFA Champions League
+About: 
+Atlético Madrid vs Arsenal
+Eutelsat 7A/7B/7C @ 7.0E
+12736 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
+ID: OVERON E-457 V1
+CW: 28 28 00 50 04 20 26 4A
+---FEED-SEPARATOR---
+UEFA Champions League - Semi Final (1st Leg)
+Atlético Madrid vs. Arsenal
+Intelsat 10-02 @ 1.0°W
+12646 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: OVERON E-413 BACKUP
+CW: F4 DE CB 9D 49 DE 63 8A
+---FEED-SEPARATOR---
+UEFA Champions League - Semi Final (1st Leg)
+Atlético Madrid vs. Arsenal
+Eutelsat 7B/7C @ 7.0°E
+10964 - V - 17140 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 16APSK
+ID: E387 M1 MAIN
+CW: CB DA 28 CD 34 CD AB AC
+---FEED-SEPARATOR---
+Event: 
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+ ( KU-BAND )
+11607 V 7198
+:  AFRIQUE FEED (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+56 F9 71 9B 07 35 F4 C4  
+CW: 5B 8D 3A 22 7C 1F 26 C1
+---FEED-SEPARATOR---
+Event : Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
+11598 V 7199
+: WORLD FEED (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+44 56 FF 87 C8 77 0B 1
+F  #CW:C4 E2 B7 5D A1 D9 5F D9
