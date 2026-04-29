@@ -31,6 +31,20 @@ CW: F1 E3 8B 5F D5 1E 4A 3D
 ---FEED-SEPARATOR---
 Copa Libertadores & Copa Sudamericana
 Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 1
+CW: 6B F4 E5 44 E6 2C FB 0D
+ID: OCC 2
+CW: EA BF E5 8E A2 DF F7 78
+ID: OCC 3
+CW: 3B BF D6 D0 A2 DC F7 75
+ID: OCC 4
+CW: 12 BF 5E 2F A2 D9 47 C2
+---FEED-SEPARATOR---
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100.5°E) C BAND
 3992 V 7500
 DVB-S2 - 1080P - 8PSK
 4:2:2
@@ -130,6 +144,13 @@ ID: E467 B2 M1
 Event:
 Uefa Champions League - Atletico Madrid vs Arsenal
 CW: 6A 56 E9 A9 84 E2 FC 62
+---FEED-SEPARATOR---
+47W SES14 C 
+4175H7200
+DVB-S2 4.2.0 1080I
+CW: 28 29 00 51 04 20 26 4A
+CHAMPIONS LEAGUE
+ATHLETIC MADRID VS ARSENAL
 ---FEED-SEPARATOR---
 UEFA Champions League
 About: 
