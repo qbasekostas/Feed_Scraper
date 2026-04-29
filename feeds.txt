@@ -1,64 +1,25 @@
-Eutelsat 10E
-10767 V 34000 S2
- 4:2:2
-ID: OCC 5
-Copa Libertadores & Copa Sudamericana
-CW: BD E3 A9 49 D5 1F FA EE
----FEED-SEPARATOR---
-CONMEBOL Libertadores
-Libertad vs Independiente del Valle
 Eutelsat 10B @ 10.0E
 10767 V 34000
 DVB-S2 - 1080P - 8PSK
 4:2:2
-ID: OCC 2
-Asiasat 5 (100.5°E) C BAND
-3840 H 30000
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 2
-CW: 72 E3 A9 FE D5 13 FA E2
----FEED-SEPARATOR---
-Eutelsat 10E
-10767 V 34000 S2
- 4:2:2
-ID: OCC 1
-Copa Libertadores & Copa Sudamericana
-B2 F6 56 F4 81 9F 6B 75 #CW: 3B E3 B8 D6 D5 1C FA EB
-ID: OCC 3
-Copa Libertadores & Copa Sudamericana
-CW: F1 E3 8B 5F D5 1E 4A 3D
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3984 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 7
-CW: 8A BF 8B D4 A2 D4 47 BD
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3975 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 6
-CW: F1 BF A9 59 A2 DC F7 75
----FEED-SEPARATOR---
+ID: OCC 5
+Albahraniy said:
 CONMEBOL Sudamericana, Group F, Round 3
 Deportivo Riestra vs Montevideo City Torque
-Asiasat 5 (100.5°E) C BAND
-3965 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 5
 CW: BD BF B8 34 A2 DF F7 78
+Click to expand...
 ---FEED-SEPARATOR---
 Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3840 H 30000
+ OCC 1: Mirassol vs Club Always Ready
+ OCC 2: Club Atlético Platense vs Independiente Santa Fe
+OCC 3: Caracas F.C. vs Racing Club
+CCC 4: Juventud de Las Piedras vs Academia Puerto Cabello
+Eutelsat 10B @ 10.0E
+10767 V 34000
 DVB-S2 - 1080P - 8PSK
 4:2:2
+Albahraniy said:
+Copa Libertadores & Copa Sudamericana
 ID: OCC 1
 CW: 6B F4 E5 44 E6 2C FB 0D
 ID: OCC 2
@@ -67,185 +28,4 @@ ID: OCC 3
 CW: 3B BF D6 D0 A2 DC F7 75
 ID: OCC 4
 CW: 12 BF 5E 2F A2 D9 47 C2
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3992 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 8
-CW: CB E3 5E 0C D5 1E 4A 3D
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3984 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 7
-CW: 43 E3 6D 93 D5 19 4A 38
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3975 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 6
-CW: 8A E3 6D DA D5 14 4A 33
----FEED-SEPARATOR---
-CONMEBOL Sudamericana
-Recoleta FC vs Deportivo Cuenca
-Asiasat 5 (100.5°E) C BAND
-3965 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 5
-Ozan said:
-CW: BD E3 A9 49 D5 1F FA EE
 Click to expand...
----FEED-SEPARATOR---
-CONMEBOL Sudamericana standings
-Botafogo vs Club Independiente
-Asiasat 5 (100.5°E) C BAND
-3840 H 30000
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 4
-CW: 5D E3 4F 8F G5 14 4A 33
----FEED-SEPARATOR---
-Eutelsat 10E
-10767 V 34000 S2
- 4:2:2
-ID: OCC 4
-Copa Libertadores & Copa Sudamericana
-CW: 5D E3 4F 8F D5 14 4A 33
----FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0E
-12591 V 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: POL 058_T1
-Event: 
-PlusLiga - Play Offs - Lublin vs Zawiercie
-CW: 07 BB 01 C3 AE 26 CF A3
----FEED-SEPARATOR---
-SWPL 1 Womens Championship Group - Week 25
-Glasgow City W vs. Celtic W
-Intelsat 10-02 @ 1.0°W
-11468 - V - 15000 
-|
-4:2:2
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: Unname
-CW: 60 7E D6 B4 CD 61 99 C7
----FEED-SEPARATOR---
-Vancouver FIFA Congress *Test 
-47.5 West 4148 L 7200
-CW: 76 DB 06 57 27 16 5D 99
-4:2:0
----FEED-SEPARATOR---
-Abo Saeid Satellite said:
-Event:Europe Champions League - Play Offs - Semi-finals
-Teams : Atl. Madrid 
- Arsenal
-Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
-11544  Vertical  7199.946
-:   OVERON E-413 MAIN (*unnamed-1*)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
-8D 1F CE 3A 2B 95 65 89 
-CW: A5 B4 1F 78 D7 8B 89 EB
-Click to expand...
-New CW: 
-F4 DE CB 9D 49 DE 63 8A
----FEED-SEPARATOR---
-Event:Europe Champions League - Play Offs - Semi-finals
-Teams : Atl. Madrid 
- Arsenal
-Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
-11544  Vertical  7199.946
-:   OVERON E-413 MAIN (*unnamed-1*)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
-8D 1F CE 3A 2B 95 65 89 
-CW: A5 B4 1F 78 D7 8B 89 EB
----FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0E
-10970 H 4825
-DVB-S2 - 4:2:0 - 8PSK - HEVC
-ID: E467 B2 M1
-Event:
-Uefa Champions League - Atletico Madrid vs Arsenal
-CW: 6A 56 E9 A9 84 E2 FC 62
----FEED-SEPARATOR---
-47W SES14 C 
-4175H7200
-DVB-S2 4.2.0 1080I
-CW: 28 29 00 51 04 20 26 4A
-CHAMPIONS LEAGUE
-ATHLETIC MADRID VS ARSENAL
----FEED-SEPARATOR---
-UEFA Champions League
-About: 
-Atlético Madrid vs Arsenal
-Eutelsat 7A/7B/7C @ 7.0E
-12736 V 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 15.09 Mbit/s
-ID: OVERON E-457 V1
-CW: 28 28 00 50 04 20 26 4A
----FEED-SEPARATOR---
-UEFA Champions League - Semi Final (1st Leg)
-Atlético Madrid vs. Arsenal
-Intelsat 10-02 @ 1.0°W
-12646 - H - 7200 
-|
-4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: OVERON E-413 BACKUP
-CW: F4 DE CB 9D 49 DE 63 8A
----FEED-SEPARATOR---
-UEFA Champions League - Semi Final (1st Leg)
-Atlético Madrid vs. Arsenal
-Eutelsat 7B/7C @ 7.0°E
-10964 - V - 17140 
-|
-4:2:2
- | H.264
-1920*1080 | DVB-S2 | 16APSK
-ID: E387 M1 MAIN
-CW: CB DA 28 CD 34 CD AB AC
----FEED-SEPARATOR---
-7e
-11556
-V
- -  
-9600
-4:2:0
-ID: CH-31 
-Bilbao - PAOK
----FEED-SEPARATOR---
-Serbia KLS
-sKK Crvena zvezda vs KK Zlatibor Čajetina
-Eutelsat 7B/7C @ 7.0E
-12552 H 4936
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID: YSM-021M (DSNG)
-CW: AB BA 20 85 25 20 26 6B
----FEED-SEPARATOR---
-Event: 
-Basketball Africa League - Season 6
-Eutelsat 7A/7B/7C @ 7.0E
- ( KU-BAND )
-11607 V 7198
-:  AFRIQUE FEED (*unnamed-1*)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
-56 F9 71 9B 07 35 F4 C4  
-CW: 5B 8D 3A 22 7C 1F 26 C1
----FEED-SEPARATOR---
-Event : Basketball Africa League - Season 6
-Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
-11598 V 7199
-: WORLD FEED (*unnamed-1*)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
-44 56 FF 87 C8 77 0B 1
-F  #CW:C4 E2 B7 5D A1 D9 5F D9
