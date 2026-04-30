@@ -1,3 +1,36 @@
+Albahraniy said:
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100,5°E) Băng tần C
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 1
+CW: 6B F4 E5 44 E6 2C FB 0D
+ID: OCC 2
+CW: EA BF E5 8E A2 DF F7 78
+ID: OCC 3
+CW: 3B BF D6 D0 A2 DC F7 75
+ID: OCC 4
+CW: 12 BF 5E 2F A2 D9 47 C2
+Click to expand...
+New CW
+OCC1 : D3 C1 31C5 B3 E9 4B E7
+OCC2 : 2A C1 C7 B2 B3 EF F8 9A
+OCC3 : 6B C1 9A C6 B3 EE 48 E9
+OCC4 : ED D2 D6 95 C4 FF F9 BC
+---FEED-SEPARATOR---
+Albahraniy said:
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100.5°E) C BAND
+3975 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 6
+CW: F1 BF A9 59 A2 DC F7 75
+Click to expand...
+New CW : 
+91 BF 4F 9F A2 DE 47 C7
+---FEED-SEPARATOR---
 Eutelsat 10B @ 10.0E
 10767 V 34000
 DVB-S2 - 1080P - 8PSK
@@ -49,6 +82,15 @@ Eutelsat 16A @ 16.0°E
 ID: D-KOL-033
 FTA 
 ---FEED-SEPARATOR---
+UEFA Conference & 
+UEFA Europa
+Asiasat 5 (100.5°E) C BAND
+4189 V 9704
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  LEUK_Fi01
+CW: A3 CB AF 1D 52 9A 54 40
+---FEED-SEPARATOR---
 Dani Sat said:
 UEFA Europa League - Semi Final (1st Leg)
 Sporting Braga vs. Freiburg
@@ -63,17 +105,6 @@ CW: DC AB 30 C6 04 AB CD 7C
 Click to expand...
 correct keys
 DC BA 30 C6 04 AB CD 7C
----FEED-SEPARATOR---
-UEFA Europa League - Semi Final (1st Leg)
-Sporting Braga vs. Freiburg
-Eutelsat 16A @ 16.0°E
-12575 - H - 7200 
-|
-4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: DECBC Cologne
-CW: DC AB 30 C6 04 AB CD 7C
 ---FEED-SEPARATOR---
 UEFA Conference League - Semi Final (1st Leg)
 Rayo Vallecano vs. Strasbourg
