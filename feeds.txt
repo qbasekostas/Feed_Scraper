@@ -38,6 +38,17 @@ DVB-S2 - 1080P - 8PSK
 ID:  Fi13_GNVE
 CW: 76 DB 06 57 27 15 5D 99
 ---FEED-SEPARATOR---
+UEFA Conference League - Semi Final (1st Leg)
+Rayo Vallecano vs. Strasbourg
+Eutelsat 7B/7C @ 7.0°E
+10964 - V - 17140 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 16APSK
+ID: E387 M1 MAIN
+CW: BB AA 06 6B 88 11 12 AB
+---FEED-SEPARATOR---
 UEFA Europa League - Semi Final (1st Leg)
 Nottingham Forest vs. Aston Villa
 Intelsat 10-02 @ 1.0°W
@@ -48,3 +59,33 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID: Unname
 CW: E8 84 B9 25 AF AE 06 63
+---FEED-SEPARATOR---
+UEFA Europa League - Semi Final
+Nottingham Forest vs Aston Villa
+Eutelsat 7A/B ( 7.0E )
+11005 H 4825
+DVB-S2 - 
+4:2:0 
+- H.265
+ID: Match 1 B2 Main
+CW
+: 
+A3 CB AF 1D 52 9A 54 40
+---FEED-SEPARATOR---
+Intelsat 10-02 ( 1.0W )
+12535 V 4798
+DVB-S2 - 4:2:0 - 8PSK
+ID: B 191 DGI
+Event:   
+Romania Divizia A - Play Offs, Cluj-Napoca vs CSU Sibiu 
+NEXT
+ Arges Pitesti vs CSM Oradea
+CW: 30 04 20 54 26 AB C1 92
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0°E
+11070 H 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 14.96 Mbit/s
+ID: IMG A EU
+CW: 32 18 A7 F1 CD 85 55 A7
+basket fenerbhace
