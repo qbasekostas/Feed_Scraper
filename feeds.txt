@@ -1,30 +1,3 @@
-Copa Libertadores Grupos Fecha 3: 
-Bolivar
-Fluminense
-Eutelsat 10E
-10725 V 15000/4.2.2
-OCC 6
-CW: 91 BF 4F 9F A2 DE 47 C7
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana: 
-Bolívar 
-Fluminens
-Ind Rivadavia 
-Deportivo La Guaira
-Corinthians VS Peñarol
-Vasco da Gama 
- Olimpia
-Carabobo 
-Bloomin
-Eutelsat 10E
-10768 V 34001/4.2.2
-OCC 1/2/3/4/5
-CW: D3 C1 31C5 B3 E9 4B E7
-CW: 2A C1 C7 B2 B3 EF F8 9A
-CW: 6B C1 9A C6 B3 EE 48 E9
-CW: ED D2 D6 95 C4 FF F9 BC
-CW: A2 C1 7C DF B3 E9 48 E4
----FEED-SEPARATOR---
 NBA USA
 Atlanta Hawks vs New York Knicks
 Asiasat 5 (100.5°E) C BAND
