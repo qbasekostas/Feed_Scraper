@@ -38,6 +38,43 @@ DVB-S2 - 1080P - 8PSK
 ID:  Fi13_GNVE
 CW: 76 DB 06 57 27 15 5D 99
 ---FEED-SEPARATOR---
+UEFA Europa League - Semi Final (1st Leg)
+Sporting Braga vs. Freiburg
+Eutelsat 16A @ 16.0°E
+12550 - H - 9875 
+|
+4:2:0
+ | H.265
+1920*1080 | DVB-S2 | 8PSK
+ID: D-KOL-033
+FTA 
+---FEED-SEPARATOR---
+Dani Sat said:
+UEFA Europa League - Semi Final (1st Leg)
+Sporting Braga vs. Freiburg
+Eutelsat 16A @ 16.0°E
+12575 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: DECBC Cologne
+CW: DC AB 30 C6 04 AB CD 7C
+Click to expand...
+correct keys
+DC BA 30 C6 04 AB CD 7C
+---FEED-SEPARATOR---
+UEFA Europa League - Semi Final (1st Leg)
+Sporting Braga vs. Freiburg
+Eutelsat 16A @ 16.0°E
+12575 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: DECBC Cologne
+CW: DC AB 30 C6 04 AB CD 7C
+---FEED-SEPARATOR---
 UEFA Conference League - Semi Final (1st Leg)
 Rayo Vallecano vs. Strasbourg
 Eutelsat 7B/7C @ 7.0°E
