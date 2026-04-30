@@ -63,6 +63,15 @@ ID: OCC 4
 CW: 12 BF 5E 2F A2 D9 47 C2
 Click to expand...
 ---FEED-SEPARATOR---
+Italy SuperLega - Play Offs - Final 
+Perugia  - Lube Civitanova
+Eutelsat 7A/7B/7C @ 7.0E
+11022 Vertical 7200.131 | 3/4 | 4:2:0
+ID: Main (ITA863 A)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 16.049Mb/Sec
+40 FF B8 94 79 0E 8B FC  #CW:
+E2 5D 2C 6B 82 AC 34 62
+---FEED-SEPARATOR---
 76 FIFA CONGRESS VANCOUVER 2026
 Asiasat 5 (100.5°E) C BAND
 3946 H 7200
@@ -82,8 +91,8 @@ Eutelsat 16A @ 16.0°E
 ID: D-KOL-033
 FTA 
 ---FEED-SEPARATOR---
-UEFA Conference & 
-UEFA Europa
+UEFA Europa League 
+Nottingham Forest vs. Aston Villa
 Asiasat 5 (100.5°E) C BAND
 4189 V 9704
 DVB-S2 - 1080P - 8PSK
@@ -139,6 +148,14 @@ ID: Match 1 B2 Main
 CW
 : 
 A3 CB AF 1D 52 9A 54 40
+---FEED-SEPARATOR---
+Romania Divizia A - Play Offs - Quarter-finals 
+Arges Pitesti  - CSM Oradea
+Thor 5/6/7 & Intelsat 10-02 @ 0.8W
+12540 Vertical 6660.12 | 3/4 | 4:2:0
+ID: B 123 DGI (RCS-RDS BUCURESTI)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 14.845Mb/Sec
+CW: 30 04 20 54 26 AB C2 93
 ---FEED-SEPARATOR---
 Intelsat 10-02 ( 1.0W )
 12535 V 4798
