@@ -1,176 +1,52 @@
-Albahraniy said:
-Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100,5°E) Băng tần C
-3840 H 30000
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 1
-CW: 6B F4 E5 44 E6 2C FB 0D
-ID: OCC 2
-CW: EA BF E5 8E A2 DF F7 78
-ID: OCC 3
-CW: 3B BF D6 D0 A2 DC F7 75
-ID: OCC 4
-CW: 12 BF 5E 2F A2 D9 47 C2
-Click to expand...
-New CW
-OCC1 : D3 C1 31C5 B3 E9 4B E7
-OCC2 : 2A C1 C7 B2 B3 EF F8 9A
-OCC3 : 6B C1 9A C6 B3 EE 48 E9
-OCC4 : ED D2 D6 95 C4 FF F9 BC
+Copa Libertadores & Copa Sudamericana: 
+Bolívar 
+Fluminens
+Ind Rivadavia 
+Deportivo La Guaira
+Corinthians VS Peñarol
+Vasco da Gama 
+ Olimpia
+Carabobo 
+Bloomin
+Eutelsat 10E
+10768 V 34001/4.2.2
+OCC 1/2/3/4/5
+CW: D3 C1 31C5 B3 E9 4B E7
+CW: 2A C1 C7 B2 B3 EF F8 9A
+CW: 6B C1 9A C6 B3 EE 48 E9
+CW: ED D2 D6 95 C4 FF F9 BC
+CW: A2 C1 7C DF B3 E9 48 E4
 ---FEED-SEPARATOR---
-Albahraniy said:
-Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3975 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:2
+Copa Libertadores
+Bolívar vs Fluminense
+Eutelsat 10B @ ( 10.0E )
+10724 V 14997
+DVB-S2 -
+ 4:2:2 
+- 8PSK
 ID: OCC 6
-CW: F1 BF A9 59 A2 DC F7 75
-Click to expand...
-New CW : 
-91 BF 4F 9F A2 DE 47 C7
+CW: : 91 BF 4F 9F A2 DE 47 C7
 ---FEED-SEPARATOR---
+Copa Libertadores & Copa Sudamericana
 Eutelsat 10B @ 10.0E
 10767 V 34000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC1
+CW: D3 C1 31C5 B3 E9 4B E7
+ID: OCC2
+CW: 2A C1 C7 B2 B3 EF F8 9A
+ID: OCC3
+CW: 6B C1 9A C6 B3 EE 48 E9
+ID: OCC4
+CW: ED D2 D6 95 C4 FF F9 BC
+ID: OCC 5
+CW: A2 C1 7C DF B3 E9 48 E4
+---FEED-SEPARATOR---
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100.5°E) C BAND
+3965 V 7500
 DVB-S2 - 1080P - 8PSK
 4:2:2
 ID: OCC 5
-Albahraniy said:
-CONMEBOL Sudamericana, Group F, Round 3
-Deportivo Riestra vs Montevideo City Torque
-CW: BD BF B8 34 A2 DF F7 78
-Click to expand...
----FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana
- OCC 1: Mirassol vs Club Always Ready
- OCC 2: Club Atlético Platense vs Independiente Santa Fe
-OCC 3: Caracas F.C. vs Racing Club
-CCC 4: Juventud de Las Piedras vs Academia Puerto Cabello
-Eutelsat 10B @ 10.0E
-10767 V 34000
-DVB-S2 - 1080P - 8PSK
-4:2:2
-Albahraniy said:
-Copa Libertadores & Copa Sudamericana
-ID: OCC 1
-CW: 6B F4 E5 44 E6 2C FB 0D
-ID: OCC 2
-CW: EA BF E5 8E A2 DF F7 78
-ID: OCC 3
-CW: 3B BF D6 D0 A2 DC F7 75
-ID: OCC 4
-CW: 12 BF 5E 2F A2 D9 47 C2
-Click to expand...
----FEED-SEPARATOR---
-Italy SuperLega - Play Offs - Final 
-Perugia  - Lube Civitanova
-Eutelsat 7A/7B/7C @ 7.0E
-11022 Vertical 7200.131 | 3/4 | 4:2:0
-ID: Main (ITA863 A)
-1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 16.049Mb/Sec
-40 FF B8 94 79 0E 8B FC  #CW:
-E2 5D 2C 6B 82 AC 34 62
----FEED-SEPARATOR---
-76 FIFA CONGRESS VANCOUVER 2026
-Asiasat 5 (100.5°E) C BAND
-3946 H 7200
-DVB-S2 - 1080P - 8PSK
-4:2:0
-ID:  Fi13_GNVE
-CW: 76 DB 06 57 27 15 5D 99
----FEED-SEPARATOR---
-UEFA Europa League - Semi Final (1st Leg)
-Sporting Braga vs. Freiburg
-Eutelsat 16A @ 16.0°E
-12550 - H - 9875 
-|
-4:2:0
- | H.265
-1920*1080 | DVB-S2 | 8PSK
-ID: D-KOL-033
-FTA 
----FEED-SEPARATOR---
-UEFA Europa League 
-Nottingham Forest vs. Aston Villa
-Asiasat 5 (100.5°E) C BAND
-4189 V 9704
-DVB-S2 - 1080P - 8PSK
-4:2:0
-ID:  LEUK_Fi01
-CW: A3 CB AF 1D 52 9A 54 40
----FEED-SEPARATOR---
-Dani Sat said:
-UEFA Europa League - Semi Final (1st Leg)
-Sporting Braga vs. Freiburg
-Eutelsat 16A @ 16.0°E
-12575 - H - 7200 
-|
-4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: DECBC Cologne
-CW: DC AB 30 C6 04 AB CD 7C
-Click to expand...
-correct keys
-DC BA 30 C6 04 AB CD 7C
----FEED-SEPARATOR---
-UEFA Conference League - Semi Final (1st Leg)
-Rayo Vallecano vs. Strasbourg
-Eutelsat 7B/7C @ 7.0°E
-10964 - V - 17140 
-|
-4:2:2
- | H.264
-1920*1080 | DVB-S2 | 16APSK
-ID: E387 M1 MAIN
-CW: BB AA 06 6B 88 11 12 AB
----FEED-SEPARATOR---
-UEFA Europa League - Semi Final (1st Leg)
-Nottingham Forest vs. Aston Villa
-Intelsat 10-02 @ 1.0°W
-11499 - V - 7200 
-|
-4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: Unname
-CW: E8 84 B9 25 AF AE 06 63
----FEED-SEPARATOR---
-UEFA Europa League - Semi Final
-Nottingham Forest vs Aston Villa
-Eutelsat 7A/B ( 7.0E )
-11005 H 4825
-DVB-S2 - 
-4:2:0 
-- H.265
-ID: Match 1 B2 Main
-CW
-: 
-A3 CB AF 1D 52 9A 54 40
----FEED-SEPARATOR---
-Romania Divizia A - Play Offs - Quarter-finals 
-Arges Pitesti  - CSM Oradea
-Thor 5/6/7 & Intelsat 10-02 @ 0.8W
-12540 Vertical 6660.12 | 3/4 | 4:2:0
-ID: B 123 DGI (RCS-RDS BUCURESTI)
-1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 14.845Mb/Sec
-CW: 30 04 20 54 26 AB C2 93
----FEED-SEPARATOR---
-Intelsat 10-02 ( 1.0W )
-12535 V 4798
-DVB-S2 - 4:2:0 - 8PSK
-ID: B 191 DGI
-Event:   
-Romania Divizia A - Play Offs, Cluj-Napoca vs CSU Sibiu 
-NEXT
- Arges Pitesti vs CSM Oradea
-CW: 30 04 20 54 26 AB C1 92
----FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0°E
-11070 H 7200
-DVB-S2 | 8PSK | 3/4
-1920x1080 | H.264/AVC Video | 4:2:0 | 14.96 Mbit/s
-ID: IMG A EU
-CW: 32 18 A7 F1 CD 85 55 A7
-basket fenerbhace
+CW: A2 C1 7C DF B3 E9 48 E4
