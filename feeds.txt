@@ -1,0 +1,12 @@
+Colombia Primera A 
+ SES-14 (47.5° W)
+ 3848 H 6666 - (C-BAND)
+ NACMED
+CW: 51 C0 F1 02 C0 37 A8 9F
+---FEED-SEPARATOR---
+Colombia Primera A 
+Once Caldas vs Atlético Nacional
+ SES-14 (47.5° W)
+ 3856 H 6666 - (C-BAND)
+ ONCNAC1
+CW: 20 95 8E 43 5B FC 39 90
