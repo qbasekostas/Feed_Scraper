@@ -1,13 +1,39 @@
 16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship
+Raith Rovers v Ross County
+---FEED-SEPARATOR---
+16E
 12692 V 10000
  4:2:0
+DVB-S2 16APSK
 12702 V 10000 
 4:2:0
-DVB-S2 16APSK
+DVB-S2 8PSK
 ID: Uki-1592
 ID: Uki-1592
 Scottish Championship 
 Raith Rovers v Ross County
+---FEED-SEPARATOR---
+13.0E
+10847 V 7200 
+4:2:0
+DVB-S2 8PSK
+ID: GCUK Enc 3
+CW: 4B A1 42 2E EE FB 13 FC
+Scottish Premiership - Relegation Group - 35
+Livingston v Aberdeen
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10829 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: GCUK Enc 9
+Event: 
+William Hill Championship - Raith Rovers vs Ross County
+CW: 7E EB B1 1A 2D DE EE F9
 ---FEED-SEPARATOR---
 THE DRAW UEFA WOMENS CHAMPIONS LEAGUE
 Eutelsat 7B/7C @ 7.0E
