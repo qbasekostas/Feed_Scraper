@@ -10,3 +10,10 @@ Once Caldas vs Atlético Nacional
  3856 H 6666 - (C-BAND)
  ONCNAC1
 CW: 20 95 8E 43 5B FC 39 90
+---FEED-SEPARATOR---
+StarOne C2. 70w
+4185 V 7500
+CW: 34 27 49 A4  01 05 26 2C
+4.2.0
+Brazilian Volleyball
+Cruzeiro x Minas
