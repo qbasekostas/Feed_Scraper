@@ -6,6 +6,40 @@ DVB-S2 - 1080P - 8PSK
 ID:  F563/FLY4/Encoder 4.13/HD FEED B
 CW: 91 1C 37 E4 0D B5 24 E6
 ---FEED-SEPARATOR---
+Basketball Africa League
+Eutelsat 7A/B ( 7.0E )
+11598 V 7200
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: WORLD FEED
+CW: : 1F 6B 8C 16 3A 9D 72 49
+---FEED-SEPARATOR---
+Gevs999 said:
+			new sw pls?
+Click to expand...
+Basketball Africa League
+Eutelsat 7A/B ( 7.0E )
+11607 V 7200
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: AFRIQUE FEED
+CW: : D9 A7 F1 71 B3 C8 24 9F
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+Event: 
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+ ( KU-BAND )
+11607 V 7198
+:  AFRIQUE FEED (*unnamed-1*)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+56 F9 71 9B 07 35 F4 C4  
+CW: 5B 8D 3A 22 7C 1F 26 C1
+Click to expand...
+new sw pls?
+---FEED-SEPARATOR---
 NBA USA
 Atlanta Hawks vs New York Knicks
 Asiasat 5 (100.5°E) C BAND
