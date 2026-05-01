@@ -1,3 +1,14 @@
+16E
+12692 V 10000
+ 4:2:0
+12702 V 10000 
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+ID: Uki-1592
+Scottish Championship 
+Raith Rovers v Ross County
+---FEED-SEPARATOR---
 THE DRAW UEFA WOMENS CHAMPIONS LEAGUE
 Eutelsat 7B/7C @ 7.0E
 10962 H 9875
