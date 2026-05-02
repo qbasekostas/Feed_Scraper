@@ -18,6 +18,30 @@ CW: 34 27 49 A4  01 05 26 2C
 Brazilian Volleyball
 Cruzeiro x Minas
 ---FEED-SEPARATOR---
+England Championship, Round 46
+Ipswich Town vs Queens Park Rangers
+Asiasat 5 (100.5°E) C BAND
+4115 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  BT_SES_22_SDI (SES)
+CW: DD DC 71 2A 3A 24 E3 41
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Knockout stage, Semifinals
+OL Lyonnes vs Arsenal
+Eutelsat 7B/7C @ 7.0E
+12538 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: lyon v arsenal
+CW: 01 05 01 07 90 20 26 D6
+---FEED-SEPARATOR---
+7.0°E
+10961 V 9875
+4:2:2
+ID: OER/F40/FEED CLEAN
+CW: 5D 55 08 BA F6 65 BE 19
+---FEED-SEPARATOR---
 Albahraniy said:
 CW: 91 1C 37 E4 0D B5 24 E6
 Click to expand...
