@@ -18,6 +18,90 @@ CW: 34 27 49 A4  01 05 26 2C
 Brazilian Volleyball
 Cruzeiro x Minas
 ---FEED-SEPARATOR---
+16E
+12692 V 10000 
+4:2:2
+DVB-S2 8PSK
+ID BBC DIRTY p1
+Northern Ireland Irish Cup - FINAL
+Dungannon Swifts v Coleraine
+---FEED-SEPARATOR---
+28.2E
+12705 V 7120
+DVBS-2 8PSK FEC 3/4
+HD (1920*1080) 4:2:0
+ID 
+Cloudbass
+Scottish Woman's Cup - Semi Final
+Celtic - Glasgow City
+---FEED-SEPARATOR---
+16E
+12705 V 10000 
+4:2:2
+DVB-S2 8PSK
+ID BBC CLEAN p2
+Northern Ireland Irish Cup - FINAL
+Dungannon Swifts v Coleraine
+---FEED-SEPARATOR---
+100.5E
+3726 V 7119
+Dani Sat said:
+CW: A3 39 F2 CE 81 29 31 DB
+Click to expand...
+---FEED-SEPARATOR---
+100,5E
+3735 V 7119
+Dani Sat said:
+CW: 29 2C 20 75 23 24 55 9C
+Click to expand...
+---FEED-SEPARATOR---
+English Championship - Week 46
+Millwall vs. Oxford United
+Eutelsat 7B/7C @ 7.0°E
+11061 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch-EFL , Millwall v Oxford
+CW: A3 39 F2 CE 81 29 31 DB
+---FEED-SEPARATOR---
+Dani Sat said:
+English Championship - Week 46
+Millwall vs. Oxford United
+Eutelsat 7B/7C @ 7.0°E
+11061 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch-EFL , Millwall v Oxford
+CW: A3 29 F2 CE 81 29 31 DB
+Click to expand...
+Wrong kay .
+---FEED-SEPARATOR---
+English Championship - Week 46
+Ipswich Town vs. Queens Park Rangers
+Eutelsat 7B/7C @ 7.0°E
+11052 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch - EFL Match 1
+CW: DD DC 71 2A 3A 24 E3 41
+---FEED-SEPARATOR---
+English Championship - Week 46
+Wrexham vs. Middlesbrough
+Eutelsat 7B/7C @ 7.0°E
+11070 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch EFL Wrexham v Middlesbrough
+CW: 29 2C 20 75 23 24 55 9C
+---FEED-SEPARATOR---
 England Championship, Round 46
 Ipswich Town vs Queens Park Rangers
 Asiasat 5 (100.5°E) C BAND
