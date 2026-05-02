@@ -11,6 +11,15 @@ Once Caldas vs Atlético Nacional
  ONCNAC1
 CW: 20 95 8E 43 5B FC 39 90
 ---FEED-SEPARATOR---
+Champions League Women, Playoffs,
+ Semifinals
+VakıfBank vs Imoco Volley
+42.0E
+11459 V 6800
+4.2.2 HD
+ID: TUR-M25-A
+CW: 72 28 00 9A 00 72 28 9A
+---FEED-SEPARATOR---
 Champions League Women, Playoffs, Semifinals
 VakıfBank vs Imoco Volley Conegliano
 Eutelsat 7B/7C @ 7.0E
@@ -248,6 +257,28 @@ Click to expand...
 4:2:2
 ID: F563/FLY4/Encoder 4.12/HD FEED A NO VBR B/U
 ---FEED-SEPARATOR---
+13.0E
+10847 V 7500
+DVB-S2 - 4:2:2 - 8PSK
+ID: E333
+Jacop said:
+Turkish Basketball Super League
+Esenler Erokspor VS Bursaspor
+42.0E
+10975 V 7500
+4.2.2 HD
+ID: E333M
+CW: 82 9A 7F 9B 58 34 4A D6
+Click to expand...
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Esenler Erokspor VS Bursaspor
+42.0E
+10975 V 7500
+4.2.2 HD
+ID: E333M
+CW: 82 9A 7F 9B 58 34 4A D6
+---FEED-SEPARATOR---
 Hungary Divison A Women
 , Playoffs
 DVTK Hun Therm vs PEAC-Pécs
@@ -282,3 +313,11 @@ ID: TUR 112 MAIN
 Event: 
 Basketball Super Ligi - Galatasaray vs Manisa
 CW: 5A 1D 40 B7 FD 6E FD 68
+---FEED-SEPARATOR---
+Greek Super League 1
+Playouts (Relegation Group) - Round 6
+Panserraikos vs AEL
+39e
+12642 V 7200
+ID: panserraikos ael
+CW: F6 91 A1 28 0C B5 2A EB
