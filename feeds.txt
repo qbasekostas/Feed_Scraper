@@ -191,6 +191,16 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI (SES)
 CW: DD DC 71 2A 3A 24 E3 41
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E 
+( KU-BAND )
+11106 V 8020
+ID:  Fi14_GNVE (EBUER)
+MPEG4-4:2:0 HD 1920x1080 |17.680 Mbit/Sec|16PSK DVB-S2X UHD 
+Event: 
+UEFA Champions /Europa/Conference League Magazine
+16 FF C7 43 B8 97 E2 19
+CW: AF FD 78 24 2D D8 4B 50
+---FEED-SEPARATOR---
 Event: Europe Champions League Women - Play Offs - Semi-finals
 Teams : Lyon W 
  Arsenal W
@@ -237,6 +247,15 @@ Click to expand...
 10985 H 9875
 4:2:2
 ID: F563/FLY4/Encoder 4.12/HD FEED A NO VBR B/U
+---FEED-SEPARATOR---
+Hungary Divison A Women
+, Playoffs
+DVTK Hun Therm vs PEAC-Pécs
+39.0E
+10985 V 4091
+4.2.0 HD DVB S2 8PSK
+ID: HUN-017/LINE1
+CW: 3E BE D5 D1 12 8A DA 76
 ---FEED-SEPARATOR---
 Basketball Africa League
 Eutelsat 7B/7C @ 7.0E
