@@ -11,6 +11,17 @@ Once Caldas vs Atlético Nacional
  ONCNAC1
 CW: 20 95 8E 43 5B FC 39 90
 ---FEED-SEPARATOR---
+Event: Poland PlusLiga - Play Offs - Final
+Teams : Zawiercie 
+ Lublin
+Eutelsat 7A/7B/7C @ 7.0E 
+( KU-BAND )
+12593 V 7198
+: Polsat Sport (POLSAT)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+51 4B 20 97 E6 E5 B8 B9  
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 StarOne C2. 70w
 4185 V 7500
 CW: 34 27 49 A4  01 05 26 2C
@@ -43,14 +54,32 @@ ID BBC CLEAN p2
 Northern Ireland Irish Cup - FINAL
 Dungannon Swifts v Coleraine
 ---FEED-SEPARATOR---
-100.5E
-3726 V 7119
+Asiasat 5 @ 100.5°E
+3726 V 7119 C-Band
+ID: BT_SES_20_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,31Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 46)
+Teams: Millwall vs Oxford United
+Time / Kickoff: 18.30 JKT-TH / 19.30 MY-SG / 11.30 GMT / 13.30 CET
 Dani Sat said:
 CW: A3 39 F2 CE 81 29 31 DB
 Click to expand...
 ---FEED-SEPARATOR---
-100,5E
-3735 V 7119
+Asiasat 5 @ 100.5°E
+3734 V 7119 C-Band
+ID: BT_SES_18_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,11Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL Championship (Matchday 46)
+Teams: Wrexham vs Middlesbrough
+Time / Kickoff: 18.30 JKT-TH / 19.30 MY-SG / 11.30 GMT / 13.30 CET
 Dani Sat said:
 CW: 29 2C 20 75 23 24 55 9C
 Click to expand...
@@ -66,20 +95,6 @@ Eutelsat 7B/7C @ 7.0°E
 ID: Pitch-EFL , Millwall v Oxford
 CW: A3 39 F2 CE 81 29 31 DB
 ---FEED-SEPARATOR---
-Dani Sat said:
-English Championship - Week 46
-Millwall vs. Oxford United
-Eutelsat 7B/7C @ 7.0°E
-11061 - V - 7120 
-|
-4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: Pitch-EFL , Millwall v Oxford
-CW: A3 29 F2 CE 81 29 31 DB
-Click to expand...
-Wrong kay .
----FEED-SEPARATOR---
 English Championship - Week 46
 Ipswich Town vs. Queens Park Rangers
 Eutelsat 7B/7C @ 7.0°E
@@ -90,6 +105,16 @@ Eutelsat 7B/7C @ 7.0°E
 1920*1080 | DVB-S2 | 8PSK
 ID: Pitch - EFL Match 1
 CW: DD DC 71 2A 3A 24 E3 41
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+ ( KU-BAND )
+11080  Vertical  7119.957
+ID:  Hull City v Norwich (NEP Connect)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+DE 38 AB 23 4E 42 73 42
+CW: 44 55 25 BE 52 25 66 DD
+Event:English Championship - Week 46
+Teams Hull City vs. Norwich City
 ---FEED-SEPARATOR---
 English Championship - Week 46
 Wrexham vs. Middlesbrough
@@ -105,11 +130,21 @@ CW: 29 2C 20 75 23 24 55 9C
 England Championship, Round 46
 Ipswich Town vs Queens Park Rangers
 Asiasat 5 (100.5°E) C BAND
-3984 V 7200
+4115 H 7119
 DVB-S2 - 1080P - 8PSK
 4:2:0
-ID:  BT_SES_24_SDI (SES)
-CW: 85 1F 38 DC 73 87 BD B7
+ID: BT_SES_22_SDI (SES)
+CW: DD DC 71 2A 3A 24 E3 41
+---FEED-SEPARATOR---
+Event: Europe Champions League Women - Play Offs - Semi-finals
+Teams : Lyon W 
+ Arsenal W
+Eutelsat 7A/7B/7C @ 7.0E ( KU-BAND )
+11190  Horizontal  7199.946
+:ENC 10 (MX-1)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+4C 9F 9A C3 EF 59 7F A1
+CW: E7 19 10 10 EF 9A 71 FA
 ---FEED-SEPARATOR---
 UEFA Champions League, Women, Knockout stage, Semifinals
 OL Lyonnes vs Arsenal
@@ -120,10 +155,13 @@ DVB-S2 - 1080P - 8PSK
 ID: lyon v arsenal
 CW: 01 05 01 07 90 20 26 D6
 ---FEED-SEPARATOR---
-7.0°E
-10961 V 9875
-4:2:2
-ID: OER/F40/FEED CLEAN
+UEFA Champions League, Women, Knockout stage, Semifinals
+OL Lyonnes vs Arsenal 
+Eutelsat 7B/7C @ 7.0E
+10962 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:OER/F40/1/FEED CLEAN
 CW: 5D 55 08 BA F6 65 BE 19
 ---FEED-SEPARATOR---
 Albahraniy said:
