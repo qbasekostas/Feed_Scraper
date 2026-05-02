@@ -1,3 +1,11 @@
+Argentine First Division
+ Central Córdoba vsBoca Juniors
+7.0E
+12510 V 7500
+ 4.2.0 HDDVB-S2 8PSK 
+ID: AFD
+CW: 7B B2 A1 CE 9D DD 34 AE
+---FEED-SEPARATOR---
 Colombia Primera A 
  SES-14 (47.5° W)
  3848 H 6666 - (C-BAND)
