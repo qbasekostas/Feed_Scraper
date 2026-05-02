@@ -11,6 +11,15 @@ Once Caldas vs Atlético Nacional
  ONCNAC1
 CW: 20 95 8E 43 5B FC 39 90
 ---FEED-SEPARATOR---
+Champions League Women, Playoffs, Semifinals
+VakıfBank vs Imoco Volley Conegliano
+Eutelsat 7B/7C @ 7.0E
+12685 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: TKS.TRT.M13
+CW: 4E 5B 23 CC 6D D4 3A 7B
+---FEED-SEPARATOR---
 Event: Poland PlusLiga - Play Offs - Final
 Teams : Zawiercie 
  Lublin
@@ -53,6 +62,52 @@ DVB-S2 8PSK
 ID BBC CLEAN p2
 Northern Ireland Irish Cup - FINAL
 Dungannon Swifts v Coleraine
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3716 V 7119 C-Band
+ID: BT_SES_14_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,81Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: England - EFL League One (Matchday 46)
+Teams: 
+Exeter City vs Bradford City
+Time / Kickoff: 21.00 JKT-TH / 22.00 MY-SG / 14.00 GMT / 16.00 CET
+Dani Sat said:
+CW: 91 23 DE 92 E2 71 76 C9
+Click to expand...
+---FEED-SEPARATOR---
+English League One - Week 46
+Exeter City vs. Bradford City
+Eutelsat 7B/7C @ 7.0°E
+12637 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Pitch Exeter  City v Bradford
+CW: 91 23 DE 92 E2 71 76 C9
+---FEED-SEPARATOR---
+English Premier League 
+2025/2026.Round (35)
+Newcastle vs Brighton
+19.2E 
+11817 V 31428
+DVB-S2 - 4:2:0 - 16APSK
+ID: Astra 1 Service 5
+same
+CW: 77 D4 54 9F 7A 96 4D 5D
+---FEED-SEPARATOR---
+England Championship, Round 46
+Derby County vs Sheffield United
+Eutelsat 7B/7C @ 7.0E
+12646 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:BeIn Derby v Sheffield Utd
+CW: 39 2D 22 88 90 22 43 F5
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3726 V 7119 C-Band
@@ -155,6 +210,17 @@ DVB-S2 - 1080P - 8PSK
 ID: lyon v arsenal
 CW: 01 05 01 07 90 20 26 D6
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+10974 H 9875
+DVB-S2 - 
+4:2:2
+ - 8PSK
+new id : E379 Feed 1 (OVERON)
+Event: 
+UEFA Women's Champions League
+Lyon vs Arsenal
+CW: ED C2 10 BF 87 8D 0B 1F
+---FEED-SEPARATOR---
 UEFA Champions League, Women, Knockout stage, Semifinals
 OL Lyonnes vs Arsenal 
 Eutelsat 7B/7C @ 7.0E
@@ -171,6 +237,22 @@ Click to expand...
 10985 H 9875
 4:2:2
 ID: F563/FLY4/Encoder 4.12/HD FEED A NO VBR B/U
+---FEED-SEPARATOR---
+Basketball Africa League
+Eutelsat 7B/7C @ 7.0E
+11596 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:WORLD FEED
+CW: 7B 2C 4D F4 1A 8E 95 3D
+---FEED-SEPARATOR---
+Basketball Africa League
+Eutelsat 7B/7C @ 7.0E
+11605 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:AFRIQUE FEED
+CW: E3 F7 A2 7C C9 B6 18 97
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10847 V 7500
