@@ -316,6 +316,19 @@ CW: 5A 1D 40 B7 FD 6E FD 68
 ---FEED-SEPARATOR---
 Greek Super League 1
 Playouts (Relegation Group) - Round 6
+Asteras Tripolis vs Atromitos
+R
+Post in thread 'Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed.'
+Today at 19:23
+Hellas Sat 3/4 (39. 0E)
+12634 Vertical 7198,47 3/4
+DVB-S2/8PSK (4:2:0)
+E394 MAIN
+CW: 64 E1 9A DF 3D 88 CF 94
+Robertooo
+---FEED-SEPARATOR---
+Greek Super League 1
+Playouts (Relegation Group) - Round 6
 Panserraikos vs AEL
 39e
 12642 V 7200
