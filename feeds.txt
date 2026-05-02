@@ -1,3 +1,11 @@
+Liga Argentina  Apertura Fecha 16:
+San Lorenzo vs Independiente Avellaneda 
+Eutelsat 7E
+12510 V 7500
+AFD
+CW: 7B B2 A1 CE 9D DD 34 AE
+Thank you, brother EL Pazzo Ragazzo
+---FEED-SEPARATOR---
 Feed Intelsat 34/55.5° W
 4150 V 5000
 DVBS2 8PSK FEC: 3/4
