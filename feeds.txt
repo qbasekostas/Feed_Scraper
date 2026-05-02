@@ -21,11 +21,11 @@ Cruzeiro x Minas
 England Championship, Round 46
 Ipswich Town vs Queens Park Rangers
 Asiasat 5 (100.5°E) C BAND
-4115 H 7119
+3984 V 7200
 DVB-S2 - 1080P - 8PSK
 4:2:0
-ID:  BT_SES_22_SDI (SES)
-CW: DD DC 71 2A 3A 24 E3 41
+ID:  BT_SES_24_SDI (SES)
+CW: 85 1F 38 DC 73 87 BD B7
 ---FEED-SEPARATOR---
 UEFA Champions League, Women, Knockout stage, Semifinals
 OL Lyonnes vs Arsenal
@@ -49,3 +49,13 @@ Click to expand...
 10985 H 9875
 4:2:2
 ID: F563/FLY4/Encoder 4.12/HD FEED A NO VBR B/U
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10847 V 7500
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
+Event: 
+Basketball Super Ligi - Galatasaray vs Manisa
+CW: 5A 1D 40 B7 FD 6E FD 68
