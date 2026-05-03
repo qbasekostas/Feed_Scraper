@@ -6,6 +6,23 @@ AFD
 CW: 7B B2 A1 CE 9D DD 34 AE
 Thank you, brother EL Pazzo Ragazzo
 ---FEED-SEPARATOR---
+Albahraniy said:
+EFL Highlights SHOW 40
+CW: 53 23 CF 45 32 88 42 FC
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0E
+11096 Vertical 7120.164 | 2/3 | 4:2:0
+ID: EFL Highlights (NEP Connect)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 14.105Mb/Sec
+---FEED-SEPARATOR---
+EFL Highlights SHOW 40
+Asiasat 5 (100.5°E) C BAND
+3984 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI (SES)
+CW: 53 23 CF 45 32 88 42 FC
+---FEED-SEPARATOR---
 Feed Intelsat 34/55.5° W
 4150 V 5000
 DVBS2 8PSK FEC: 3/4
