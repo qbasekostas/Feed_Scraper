@@ -40,6 +40,16 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI (SES)
 CW: 53 23 CF 45 32 88 42 FC
 ---FEED-SEPARATOR---
+28.2E
+12691 V 7500 
+4.2.0
+DVBS-2 16APSK
+ID: EDS807HD.1
+UEFA Womens Champions League
+ - 
+Semi Final  (2nd Leg)
+Barcelona v Bayern Munich
+---FEED-SEPARATOR---
 Feed Intelsat 34/55.5° W
 4150 V 5000
 DVBS2 8PSK FEC: 3/4
@@ -47,6 +57,22 @@ MPEG4/4:2:2
 Id.: Unname
 Superliga Profesional Femenina Venezuela
 Caribeñas de Caracas vs. Marineras de Anzoategui
+---FEED-SEPARATOR---
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+11606 Vertical 7200.131 | 2/3 | 4:2:0
+ID: AFRIQUE FEED (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 14.263Mb/Sec
+27 8A F2 B7 80 40 36 4E  #CW:
+2D 6B 9A 32 3F 1C 87 E2
+---FEED-SEPARATOR---
+Basketball Africa League - Season 6
+Eutelsat 7A/7B/7C @ 7.0E
+11597 Vertical 7200.131 | 2/3 | 4:2:0
+ID: WORLD FEED (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 14.263Mb/Sec
+81 A1 30 30 22 D8 AD B2  #CW:
+8A 1C 7E 24 4D 2B 93 0B
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10847 V 7500
