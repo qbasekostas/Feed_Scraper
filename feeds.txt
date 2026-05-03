@@ -1,3 +1,11 @@
+Liga Argentina Apertura
+Racing 
+ Huracán
+Hotbird 13.0°East
+12436 H 27500
+ID: FEED 2
+CW: 12 34 56 9C 78 91 23 2C
+---FEED-SEPARATOR---
 Liga Argentina  Apertura Fecha 16:
 San Lorenzo vs Independiente Avellaneda 
 Eutelsat 7E
