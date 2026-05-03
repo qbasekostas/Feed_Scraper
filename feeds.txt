@@ -6,6 +6,14 @@ AFD
 CW: 7B B2 A1 CE 9D DD 34 AE
 Thank you, brother EL Pazzo Ragazzo
 ---FEED-SEPARATOR---
+CEV-Champions League Women, 
+VakıfBank VS Eczacıbaşı
+42.0E
+11459 V 6800
+4.2.2 HD DVB S2 8PSK
+ID: TUR-M25-A
+CW: 72 28 00 9A 00 72 28 9A
+---FEED-SEPARATOR---
 Italy SuperLega - Play Offs - Final 
 Lube Civitanova - Perugia
 Eutelsat 7A/7B/7C @ 7.0E
@@ -94,6 +102,17 @@ Id.: Unname
 Superliga Profesional Femenina Venezuela
 Caribeñas de Caracas vs. Marineras de Anzoategui
 ---FEED-SEPARATOR---
+ ITALY-LBA Lega A Basket
+10.0E
+11246 H 7200
+11255 H 7200
+11265 H 7200
+4.2.2 HD DVB S2 8PSK
+ID:Encode 1/2/3
+CW: 7A AE B2 D2 35 CD 77 79
+CW: C4 E7 E9 94 DE A2 6D ED
+CW: 2A A9 68 3B 79 96 7E 8D
+---FEED-SEPARATOR---
 Jacop said:
 Turkish Basketball Super League
 Tofaş vs Karşıyaka
@@ -141,3 +160,20 @@ ID: TUR 112 MAIN
 Event: 
 Basketball Super Ligi - Buyukcekmece vs Merkezefendi Belediyesi
 CW: FE 46 44 88 88 87 8B 9A
+---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0 E)
+12634 Vertical 7198,447 3/4
+DVB-S2/8PSK (4:2:0)
+E394 MAIN
+Levadiakos vs Volos
+CW: F6 03 A1 9A 84 BD 37 78
+---FEED-SEPARATOR---
+Greece, Super League
+PAOK vs Olympiacos FC
+Hotbird 13B/13C/13G @ ( 13.0E )
+10838 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: PAOK VS OSFP A
+CW: : 63 6B E7 B5 8E 6B D6 CF
