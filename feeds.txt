@@ -161,6 +161,14 @@ Event:
 Basketball Super Ligi - Buyukcekmece vs Merkezefendi Belediyesi
 CW: FE 46 44 88 88 87 8B 9A
 ---FEED-SEPARATOR---
+Greek Super League 1
+Playoffs (Championship Group) - Round 3
+Panathinaikos vs AEK
+13e
+10829 V 7200
+ID: TANDBERG
+CW: 53 ED F3 33 43 BD 2F 2F
+---FEED-SEPARATOR---
 Hellas Sat 3/4 (39.0 E)
 12634 Vertical 7198,447 3/4
 DVB-S2/8PSK (4:2:0)
