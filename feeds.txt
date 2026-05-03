@@ -1,7 +1,8 @@
-Liga Argentina Apertura
-Racing 
- Huracán
-Hotbird 13.0°East
-12436 H 27500
-ID: FEED 2
-CW: 12 34 56 9C 78 91 23 2C
+7°E KU
+12510 V 7500
+DVB-S2|1080HD
+4.2.0
+|H264
+ID: AFD
+Event: Liga Profesional River Plate V Atl. Tucuman
+CW: 7B B2 A1 CE 9D DD 34 AE
