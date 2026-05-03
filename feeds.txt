@@ -6,6 +6,15 @@ AFD
 CW: 7B B2 A1 CE 9D DD 34 AE
 Thank you, brother EL Pazzo Ragazzo
 ---FEED-SEPARATOR---
+Netherlands Eredivisie - Play Offs - Final 
+Lycurgus Groningen - Orion Stars
+Eutelsat 16A @ 16.0E
+12575 Horizontal 7200.032 | 3/4 | 4:2:0
+ID: 2sat.nl HOL319 B/U (2 SAT Europe)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 16.049Mb/Sec
+4D 7A FD 10 1D 70 91 5C  #CW:
+F3 19 AD B9 03 CB 05 D3
+---FEED-SEPARATOR---
 Albahraniy said:
 EFL Highlights SHOW 40
 CW: 53 23 CF 45 32 88 42 FC
