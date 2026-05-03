@@ -6,6 +6,19 @@ AFD
 CW: 7B B2 A1 CE 9D DD 34 AE
 Thank you, brother EL Pazzo Ragazzo
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0E)
+12574 H 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+TKS.TRT.M13
+CEV Zeren Group Champions League Volley 2026 Women,Final Four in Istanbul (Turkey)
+A.Carraro Prosecco Doc Imoco Volley Conegliano (Ita) W - Savino Del Bene Scandicci (Ita) W (16:00) 3rd Place
+Vakifbank Istanbul (Tur) W - Eczacibasi Dynavit (Tur) W (19:00) Final
+CW: 4E 5B 23 CC 6D D4 3A 7B
+						dream Droid 1777816950307 hosted at ImgBB
+Image dream Droid 1777816950307 hosted on ImgBB
+					ibb.co
+---FEED-SEPARATOR---
 Netherlands Eredivisie - Play Offs - Final 
 Lycurgus Groningen - Orion Stars
 Eutelsat 16A @ 16.0E
@@ -14,6 +27,13 @@ ID: 2sat.nl HOL319 B/U (2 SAT Europe)
 1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 16.049Mb/Sec
 4D 7A FD 10 1D 70 91 5C  #CW:
 F3 19 AD B9 03 CB 05 D3
+---FEED-SEPARATOR---
+19.2°E
+11817 V 31432
+4:2:0
+ID: Astra 1 Service 5
+CW: 77 D4 54 9F 7A 96 4D 5D
+EPL: Man UTD - Liverpool
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 10838 V 7200
