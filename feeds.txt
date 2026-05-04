@@ -26,22 +26,6 @@ DVB-S2 - 1080P - 8PSK
 ID: ENC 1 (SES)
 FAT
 ---FEED-SEPARATOR---
-Eutelsat 7B/7C (7.0E)
-11110 H 9875
-DVB-S2 8PSK FEC 3/4
-HD (1920*1080) 4:2:0
-ID: 
-coleraine P1
-cw : C3 91 C7 1B 8A 62 39 25   
- thanks to:
-(
-sahafe
- &
-Brahimiro
-)
-2026 Women's U17 EURO finals in Northern Ireland (4 to 17 May)
-​
----FEED-SEPARATOR---
 13.0E
 10830 V 7200 
 4:2:0
@@ -50,6 +34,16 @@ ID: GCUK Enc 2
 CW: 7E EB B1 1A 2D DE EE F9
 Scottish Premiership 
 Hearts v Rangers
+---FEED-SEPARATOR---
+Europe Champions League - Play Offs - Semi-finals 
+Arsenal - Atl. Madrid
+Eutelsat 7A/7B/7C @ 7.0E
+11588 Vertical 7200.043 | 3/4 | 4:2:0
+ID: UKI-1955-1 (Red Cat 1 )
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 16.049Mb/Sec
+CW: FTA (
+NOW
+)
 ---FEED-SEPARATOR---
 UEFA Champions League
  Play Offs - Semi-finals
