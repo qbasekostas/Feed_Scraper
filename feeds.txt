@@ -6,3 +6,22 @@ DVB-S2|1080HD
 ID: AFD
 Event: Liga Profesional River Plate V Atl. Tucuman
 CW: 7B B2 A1 CE 9D DD 34 AE
+---FEED-SEPARATOR---
+Albahraniy said:
+Premier League, Round 35
+Asiasat 5 (100.5°E) C BAND
+3993 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: ENC 1 (SES)
+FAT
+Click to expand...
+available on 7E?
+---FEED-SEPARATOR---
+Premier League, Round 35
+Asiasat 5 (100.5°E) C BAND
+3993 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: ENC 1 (SES)
+FAT
