@@ -2,7 +2,7 @@ name: Scrape Thread
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 # Αυτό προσθέτουμε για να εξαφανιστεί το warning και να χρησιμοποιηθεί το Node 24
