@@ -1,3 +1,22 @@
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship
+Dunfremline v Arbroath
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+12702 V 10000
+4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+ID: Uki-1592
+Scottish Championship
+Dunfremline v Arbroath
+---FEED-SEPARATOR---
 UEFA Champions League - Play Offs - Semi-finals
 Arsenal - Atl. Madrid
 Eutelsat 7A/7B/7C @ 7.0E
@@ -37,6 +56,25 @@ DVB-S2X
  | 16APSK | SNR: 12.0dB | 10.750Mb/Sec
 7E EF 88 90 25 56 23 0F  #CW:
 6A 56 E9 A9 84 E2 FC 62
+---FEED-SEPARATOR---
+UEFA Champions League - Semi Final
+Arsenal VS Atletico Madrid
+Eutelsat 3.1°E
+3798 V/H 7200
+ID: UEFA
+CW: 55 CF 18 3C 1D 04 12 33
+---FEED-SEPARATOR---
+UEFA Champions League - Semi Final (2nd Leg)
+Arsenal vs Atletico Madrid - Highlights
+7E
+11022 H 9875
+DVB-S2 
+4:2:2
+ 8PSK
+ID: GVA_Fi01
+Red Devils said:
+CW: 6A 56 E9 A9 84 E2 FC 62
+Click to expand...
 ---FEED-SEPARATOR---
 UEFA Champions League - Semi Final (2nd Leg)
 Arsenal vs Atletico Madrid
