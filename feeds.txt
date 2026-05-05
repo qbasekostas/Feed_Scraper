@@ -38,6 +38,18 @@ DVB-S2X
 7E EF 88 90 25 56 23 0F  #CW:
 6A 56 E9 A9 84 E2 FC 62
 ---FEED-SEPARATOR---
+UEFA Champions League - Semi Final (2nd Leg)
+Arsenal vs Atletico Madrid
+3.1E
+10960 H 7500
+10969 H 7500 (
+Active Later
+)
+DVB-S2 4:2:0 QPSK
+ID: beIN SPORTS
+ID: Service-1
+CW: AD 54 9E 9F 52 89 7B 56
+---FEED-SEPARATOR---
 ID: ENC 7
 UEFA Champions League - Leg 2
 47.5 West 4175 L 7200
