@@ -1,0 +1,39 @@
+UEFA Champions League - Play Offs - Semi-finals
+Arsenal - Atl. Madrid
+Eutelsat 7A/7B/7C @ 7.0E
+10961 H 11247 | 13/18 |
+4:2:2
+ID: UKI1866 M1 B1 M (*unnamed-1*)
+1920*1080 | 
+DVB-S2X
+ | 16APSK | SNR: 11.8dB | 31.360Mb/Sec
+#CW:
+FTA (
+NOW
+)
+---FEED-SEPARATOR---
+UEFA Champions League - Play Offs - Semi-finals
+Arsenal - Atl. Madrid
+Eutelsat 7A/7B/7C @ 7.0E
+10970 H 4827 | 26/45 |
+4:2:2
+ID: UKI1866 M1 B/Up (*unnamed-1*)
+1920*1080 | 
+DVB-S2X 
+| 16APSK | SNR: 12.0dB | 10.750Mb/Sec
+CW: FTA (
+NOW
+)
+---FEED-SEPARATOR---
+UEFA Champions League
+ Play Offs - Semi-finals
+Arsenal - Atl. Madrid
+Eutelsat 7A/7B/7C @ 7.0E
+10970 H 4827 | 26/45 |
+4:2:2
+ID:  UKI1866 M1 B2 (*unnamed-1*)
+1920*1080 | 
+DVB-S2X
+ | 16APSK | SNR: 12.0dB | 10.750Mb/Sec
+7E EF 88 90 25 56 23 0F  #CW:
+6A 56 E9 A9 84 E2 FC 62
