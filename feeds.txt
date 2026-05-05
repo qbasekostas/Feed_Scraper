@@ -37,3 +37,61 @@ DVB-S2X
  | 16APSK | SNR: 12.0dB | 10.750Mb/Sec
 7E EF 88 90 25 56 23 0F  #CW:
 6A 56 E9 A9 84 E2 FC 62
+---FEED-SEPARATOR---
+ID: ENC 7
+UEFA Champions League - Leg 2
+47.5 West 4175 L 7200
+CW: AD AA 05 5C 06 26 05 31
+4:2:0
+---FEED-SEPARATOR---
+UEFA Champions League - Semi Final (2nd Leg) [1-1]
+Arsenal vs. Atlético Madrid
+Eutelsat 7B/7C @ 7.0°E
+10964 - V - 17140 
+|
+4:2:2
+ | H.264
+1920*1080 | DVB-S2 | 16APSK
+ID: Canal Plus Arsenal Main
+CW: BA DA 65 F9 48 FA 11 53
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:10969 - H - 4827
+MPEG 4 - 4:2:0 - DVB-S2x
+ID:UKI1866 M1 B2
+UEFA Champions League
+Arsenal Vs Atl. Madrid
+CW: 8B 01 E7 73 DA F6 A3 73
+---FEED-SEPARATOR---
+Serbia Superleague - Play Offs - Quarter-finals 
+Mega Basket - FMP Beograd
+Eutelsat 7A/7B/7C @ 7.0E
+12543 Horizontal 4937.982 | 3/4 | 4:2:0
+ID: YSM-021M
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 11.005Mb/Sec
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Euroleague - Play Offs - Final 
+Hapoel Tel Aviv - Real Madrid
+Eutelsat 7A/7B/7C @ 7.0E
+11004 Vertical 7199.85 | 3/4 | 4:2:0
+ID: Hapoev vs. Real BUL006 Main (TV1)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 16.047Mb/Sec
+CW: 84 BC 86 C6 85 55 9C 76
+---FEED-SEPARATOR---
+Euroleague - Play Offs - Final 
+Monaco - Olympiacos
+Eutelsat 7A/7B/7C @ 7.0E
+11061 Horizontal 7200.164 | 3/4 | 4:2:0
+ID:  F489 BKUP (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 16.049Mb/Sec
+CW: 75 5D 81 53 5F A3 E7 E9
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Beşiktaş Gain vs Petkim Spor
+Hot Bird 13.0E
+12584 V 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: E333 M
+CW: E3 8F C6 38 84 4B FA C9
