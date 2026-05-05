@@ -1,3 +1,31 @@
+CONMEBOL Libertadores, Group H, Round 4
+Rosario Central vs Libertad
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:OCC 4
+Eutelsat 10B @ 10.0E
+10767 V 34000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:OCC 4
+CW: 42 E3 7C A1 D5 19 4A 38
+---FEED-SEPARATOR---
+CONMEBOL Sudamericana, Group F, Round 4
+Deportivo Riestra vs Grêmio
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:OCC 3
+Eutelsat 10B @ 10.0E
+10767 V 34000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:OCC 3
+CW: 13 F4 D6 DD E6 23 FB 04
+---FEED-SEPARATOR---
 xachik said:
 Copa Sudamericana
 52 EA 50 7C 43 78 81 E3  #CW: 
@@ -11,39 +39,16 @@ DVB-S2 - 1080P - 8PSK
 4:2:2
 ID:OCC 1
 ---FEED-SEPARATOR---
+CONMEBOL Libertadores, Group F, Round 4
+Club Sporting Cristal vs Palmeiras
 Asiasat 5 (100.5°E) C BAND
 3966 V 7500
 DVB-S2 - 1080P - 8PSK
-4:2:0
+4:2:2
 ID:OCC 5
 Eutelsat 10B @ 10.0E
-10767 V 34000 
+10767 V 34000
 DVB-S2 - 1080P - 8PSK
 4:2:2
 ID:OCC 5
-CW: FBE39A78D51E4A3D
----FEED-SEPARATOR---
-Asiasat 5 (100.5°E) C BAND
-3983 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:0
-ID:OCC 7
-CW: 3BBFD6D0A2DCF775
----FEED-SEPARATOR---
-Asiasat 5 (100.5°E) C BAND
-3992 V 7500
-DVB-S2 - 1080P - 8PSK
-4:2:0
-ID:OCC 6
-CW: EABFE58EA2DFF77
----FEED-SEPARATOR---
-100.5e
-3840 H 30000
-4:2:2
-ID: 
-OCC 1
-Copa Sudamericana
-52 EA 50 7C 43 78 81 E3  #CW: 
-C1 F4 22 D7 E6 2E 4B 5F
-Juventud (Uru)
-Atletico-MG (Bra)
+CW: FB E3 9A 78 D5 1E 4A 3D
