@@ -53,6 +53,15 @@ DVB-S2 - 1080P - 8PSK
 ID:OCC 5
 CW: FB E3 9A 78 D5 1E 4A 3D
 ---FEED-SEPARATOR---
+Poland PlusLiga, Playoffs, Final
+Bogdanka LUK Lublin vs Aluron CMC Warta Zawiercie
+Eutelsat 7B/7C @ 7.0E
+12592 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: POL-058_ch1 (POLSAT)
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 UEFA Champions League - Semi Final 
 Bayern Munich vs. Paris St Germain
 Eutelsat 7A/7B/7C @ 7.0E
@@ -64,17 +73,6 @@ CW: FTA(
 NOW
 )
 ---FEED-SEPARATOR---
-UEFAChampions League - Semi Final (2nd Leg) [4-5]
-Bayern Munich vs. Paris St Germain
-Eutelsat 7B/7C @ 7.0°E
-10982 - V - 17140 
-|
-4:2:2
- | H.265
-1920*1080 | DVB-S2 | 16APSK
-ID: MUN-PSG
-FTA 
----FEED-SEPARATOR---
 UEFA Europa League - Play Offs - Semi-finals Tomorrow
 Eutelsat 7A/7B/7C @ 7.0E
 11104 Horizontal 9875.186 | 3/4 | 4:2:0
@@ -84,6 +82,15 @@ CW: FTA (
 NOW
 )
 ---FEED-SEPARATOR---
+UEFAChampions League - Semi Final 
+Bayern Munich vs Paris St Germain
+Eutelsat 7A/7B/7C @ 7.0E
+10981 Vertical 17140.306 | 2/3 | 
+4:2:2 | HEVC
+ID: MUN-PSG (*unnamed-1*)
+1920*1080 | DVB-S2 | 16APSK | SNR: 9.0dB | 45.370Mb/Sec
+CW: ED BE 78 23 54 DA 96 C4
+---FEED-SEPARATOR---
 Bayern Munich vs PSG 
 UEFA Champions League - Leg 2
 ID: ENC 7
@@ -91,7 +98,7 @@ ID: ENC 7
 CW: AD AA 05 5C 06 26 05 31
 4:2:0
 ---FEED-SEPARATOR---
-UEFAChampions League - Semi Final (2nd Leg) [4-5]
+UEFA Champions League - Semi Final (2nd Leg) [4-5]
 Bayern Munich vs. Paris St Germain
 Intelsat 10-02 @ 1.0°W
 12647 - H - 7200 
@@ -113,6 +120,14 @@ DVB-S2X
  | 16APSK | SNR: 12.0dB | 10.750Mb/Sec
 7E EF 88 90 25 56 23 0F  #CW:
 6A 56 E9 A9 84 E2 FC 62   
+---FEED-SEPARATOR---
+Europe AdmiralBet ABA League - Play Offs - Quarter-finals 
+Dubai - Spartak Subotica
+Eutelsat 7A/7B/7C @ 7.0E
+12551 Horizontal 4937.982 | 3/4 | 4:2:0
+ID: BIH007 (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 11.005Mb/Sec
+CW: FTA
 ---FEED-SEPARATOR---
 Basketball Euroleague
 Kauno Žalgiris vs Fenerbahçe Beko
