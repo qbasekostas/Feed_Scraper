@@ -1,3 +1,9 @@
+DETAILS WILL FOLLOW:
+OCC 1 = 8A BF 8B D4 A2 D4 47 BD
+OCC 2 = CB BF 7C 06 A2 DE 47 C7
+OCC 3 = 12 BF 5E 2F A2 D9 47 C2
+OCC 4 = A2 C1 7C DF B3 E9 48 E4
+---FEED-SEPARATOR---
 CONMEBOL Libertadores, Group H, Round 4
 Rosario Central vs Libertad
 Asiasat 5 (100.5°E) C BAND
@@ -53,6 +59,17 @@ DVB-S2 - 1080P - 8PSK
 ID:OCC 5
 CW: FB E3 9A 78 D5 1E 4A 3D
 ---FEED-SEPARATOR---
+Italy, 
+SuperLega
+PERUGIA vs CUCINE LUBE CIVITNOVA
+Eutelsat 7A/B ( 7.0E )
+10959 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Ita 863 Main
+CW: : 72 1D EF 7E 9C 9C FE 36
+---FEED-SEPARATOR---
 Poland PlusLiga, Playoffs, Final
 Bogdanka LUK Lublin vs Aluron CMC Warta Zawiercie
 Eutelsat 7B/7C @ 7.0E
@@ -81,6 +98,26 @@ ID:  F615_M04_BKUP (*unnamed-1*)
 CW: FTA (
 NOW
 )
+---FEED-SEPARATOR---
+UEFA Champions League - Semi Final (2nd Leg) [4-5]
+Bayern Munich vs. Paris St Germain
+7.0°E
+12677 H 7200
+1920×1080 | H.264 | 
+4:2:0
+ID: D-312
+CW: 1F 2E 3D 8A 4C 5B 6A 11
+---FEED-SEPARATOR---
+UEFA Champions League - Semi Final 
+Bayern Munich vs Paris St Germain
+Eutelsat 7A/B ( 7.0E )
+10981 V 14997
+DVB-S2 - 
+4:2:2
+ - 
+H.265
+ID: MUN-PSG 
+CW: : ED BE 78 23 54 DA 96 C4
 ---FEED-SEPARATOR---
 UEFAChampions League - Semi Final 
 Bayern Munich vs Paris St Germain
