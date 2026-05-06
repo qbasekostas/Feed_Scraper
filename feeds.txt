@@ -53,6 +53,28 @@ DVB-S2 - 1080P - 8PSK
 ID:OCC 5
 CW: FB E3 9A 78 D5 1E 4A 3D
 ---FEED-SEPARATOR---
+UEFA Champions League - Semi Final 
+Bayern Munich vs. Paris St Germain
+Eutelsat 7A/7B/7C @ 7.0E
+10981 Vertical 17140.306 | 2/3 | 
+4:2:2
+ID: MUN-PSG (Service Provider)
+1920*1080 | DVB-S2 | 16APSK | SNR: 9.0dB | 45.370Mb/Sec
+CW: FTA(
+NOW
+)
+---FEED-SEPARATOR---
+UEFAChampions League - Semi Final (2nd Leg) [4-5]
+Bayern Munich vs. Paris St Germain
+Eutelsat 7B/7C @ 7.0°E
+10982 - V - 17140 
+|
+4:2:2
+ | H.265
+1920*1080 | DVB-S2 | 16APSK
+ID: MUN-PSG
+FTA 
+---FEED-SEPARATOR---
 UEFA Europa League - Play Offs - Semi-finals Tomorrow
 Eutelsat 7A/7B/7C @ 7.0E
 11104 Horizontal 9875.186 | 3/4 | 4:2:0
@@ -61,6 +83,24 @@ ID:  F615_M04_BKUP (*unnamed-1*)
 CW: FTA (
 NOW
 )
+---FEED-SEPARATOR---
+Bayern Munich vs PSG 
+UEFA Champions League - Leg 2
+ID: ENC 7
+47.5 West 4175 L 7200
+CW: AD AA 05 5C 06 26 05 31
+4:2:0
+---FEED-SEPARATOR---
+UEFAChampions League - Semi Final (2nd Leg) [4-5]
+Bayern Munich vs. Paris St Germain
+Intelsat 10-02 @ 1.0°W
+12647 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D 312
+CW: F4 DE CB 9D 49 DE 63 8A
 ---FEED-SEPARATOR---
 UEFA Champions League Play Offs - Semi-finals
 Bayern Munich - PSG
@@ -73,3 +113,12 @@ DVB-S2X
  | 16APSK | SNR: 12.0dB | 10.750Mb/Sec
 7E EF 88 90 25 56 23 0F  #CW:
 6A 56 E9 A9 84 E2 FC 62   
+---FEED-SEPARATOR---
+Basketball Euroleague
+Kauno Žalgiris vs Fenerbahçe Beko
+Eutelsat 7B/7C @ 7.0E
+11070 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:IMG A EU
+CW: 7E 59 D5 AC 2E 79 D8 7F
