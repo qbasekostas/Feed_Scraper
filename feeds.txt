@@ -1,176 +1,44 @@
-DETAILS WILL FOLLOW:
-OCC 1 = 8A BF 8B D4 A2 D4 47 BD
-OCC 2 = CB BF 7C 06 A2 DE 47 C7
-OCC 3 = 12 BF 5E 2F A2 D9 47 C2
-OCC 4 = A2 C1 7C DF B3 E9 48 E4
+Copa Libertadores & Copa Sudamericana: 
+Deportivo La Guaira
+Bolívar
+Cusco 
+Estudiantes
+Audax Italiano
+Vasco da Gama
+City Torque
+Palestine
+Santa Fe
+Corinthians
+Eutelsat 10E
+10768 V 34001/4.2.2
+OCC 1/2/3/4/5
+CW: 8A BF 8B D4 A2 D4 47 BD
+CW: CB BF 7C 06 A2 DE 47 C7
+CW: 12 BF 5E 2F A2 D9 47 C2
+CW: A2 C1 7C DF B3 E9 48 E4
+CW: 91 BF 4F 9F A2 DE 47 C7
+Thanks for El Pazzo Ragazzo
 ---FEED-SEPARATOR---
-CONMEBOL Libertadores, Group H, Round 4
-Rosario Central vs Libertad
+Copa Libertadores & Copa Sudamericana
 Asiasat 5 (100.5°E) C BAND
-3840 H 30000
+3993 V 7500
 DVB-S2 - 1080P - 8PSK
 4:2:2
-ID:OCC 4
-Eutelsat 10B @ 10.0E
-10767 V 34000
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID:OCC 4
-CW: 42 E3 7C A1 D5 19 4A 38
+ID: OCC 8
+CW: 2A C1 C7 B2 B3 EF F8 9A
 ---FEED-SEPARATOR---
-CONMEBOL Sudamericana, Group F, Round 4
-Deportivo Riestra vs Grêmio
+Copa Libertadores & Copa Sudamericana
 Asiasat 5 (100.5°E) C BAND
-3840 H 30000
+3984 V 7500
 DVB-S2 - 1080P - 8PSK
 4:2:2
-ID:OCC 3
-Eutelsat 10B @ 10.0E
-10767 V 34000
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID:OCC 3
-CW: 13 F4 D6 DD E6 23 FB 04
+ID: OCC 7
+CW: 6B C1 9A C6 B3 EE 48 E9
 ---FEED-SEPARATOR---
-xachik said:
-Copa Sudamericana
-52 EA 50 7C 43 78 81 E3  #CW: 
-C1 F4 22 D7 E6 2E 4B 5F
-Juventud (Uru)
-Atletico-MG (Bra)
-Click to expand...
-Eutelsat 10B @ 10.0E
-10767 V 34000
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID:OCC 1
----FEED-SEPARATOR---
-CONMEBOL Libertadores, Group F, Round 4
-Club Sporting Cristal vs Palmeiras
+Copa Libertadores & Copa Sudamericana
 Asiasat 5 (100.5°E) C BAND
-3966 V 7500
+3975 V 7500
 DVB-S2 - 1080P - 8PSK
 4:2:2
-ID:OCC 5
-Eutelsat 10B @ 10.0E
-10767 V 34000
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID:OCC 5
-CW: FB E3 9A 78 D5 1E 4A 3D
----FEED-SEPARATOR---
-Italy, 
-SuperLega
-PERUGIA vs CUCINE LUBE CIVITNOVA
-Eutelsat 7A/B ( 7.0E )
-10959 V 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: Ita 863 Main
-CW: : 72 1D EF 7E 9C 9C FE 36
----FEED-SEPARATOR---
-Poland PlusLiga, Playoffs, Final
-Bogdanka LUK Lublin vs Aluron CMC Warta Zawiercie
-Eutelsat 7B/7C @ 7.0E
-12592 V 7200
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID: POL-058_ch1 (POLSAT)
-CW: 15 58 35 A2 71 42 63 16
----FEED-SEPARATOR---
-UEFA Champions League - Semi Final 
-Bayern Munich vs. Paris St Germain
-Eutelsat 7A/7B/7C @ 7.0E
-10981 Vertical 17140.306 | 2/3 | 
-4:2:2
-ID: MUN-PSG (Service Provider)
-1920*1080 | DVB-S2 | 16APSK | SNR: 9.0dB | 45.370Mb/Sec
-CW: FTA(
-NOW
-)
----FEED-SEPARATOR---
-UEFA Europa League - Play Offs - Semi-finals Tomorrow
-Eutelsat 7A/7B/7C @ 7.0E
-11104 Horizontal 9875.186 | 3/4 | 4:2:0
-ID:  F615_M04_BKUP (*unnamed-1*)
-1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 22.011Mb/Sec
-CW: FTA (
-NOW
-)
----FEED-SEPARATOR---
-UEFA Champions League - Semi Final (2nd Leg) [4-5]
-Bayern Munich vs. Paris St Germain
-7.0°E
-12677 H 7200
-1920×1080 | H.264 | 
-4:2:0
-ID: D-312
-CW: 1F 2E 3D 8A 4C 5B 6A 11
----FEED-SEPARATOR---
-UEFA Champions League - Semi Final 
-Bayern Munich vs Paris St Germain
-Eutelsat 7A/B ( 7.0E )
-10981 V 14997
-DVB-S2 - 
-4:2:2
- - 
-H.265
-ID: MUN-PSG 
-CW: : ED BE 78 23 54 DA 96 C4
----FEED-SEPARATOR---
-UEFAChampions League - Semi Final 
-Bayern Munich vs Paris St Germain
-Eutelsat 7A/7B/7C @ 7.0E
-10981 Vertical 17140.306 | 2/3 | 
-4:2:2 | HEVC
-ID: MUN-PSG (*unnamed-1*)
-1920*1080 | DVB-S2 | 16APSK | SNR: 9.0dB | 45.370Mb/Sec
-CW: ED BE 78 23 54 DA 96 C4
----FEED-SEPARATOR---
-Bayern Munich vs PSG 
-UEFA Champions League - Leg 2
-ID: ENC 7
-47.5 West 4175 L 7200
-CW: AD AA 05 5C 06 26 05 31
-4:2:0
----FEED-SEPARATOR---
-UEFA Champions League - Semi Final (2nd Leg) [4-5]
-Bayern Munich vs. Paris St Germain
-Intelsat 10-02 @ 1.0°W
-12647 - H - 7200 
-|
-4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: D 312
-CW: F4 DE CB 9D 49 DE 63 8A
----FEED-SEPARATOR---
-UEFA Champions League Play Offs - Semi-finals
-Bayern Munich - PSG
-Eutelsat 7A/7B/7C @ 7.0E
-10970 H 4827 | 26/45 |
-4:2:0 |HEVC
-ID: CRO-025 M01 FEED B2 (Medialink)
-1920*1088 | 
-DVB-S2X
- | 16APSK | SNR: 12.0dB | 10.750Mb/Sec
-7E EF 88 90 25 56 23 0F  #CW:
-6A 56 E9 A9 84 E2 FC 62   
----FEED-SEPARATOR---
-Europe AdmiralBet ABA League - Play Offs - Quarter-finals 
-Dubai - Spartak Subotica
-Eutelsat 7A/7B/7C @ 7.0E
-12551 Horizontal 4937.982 | 3/4 | 4:2:0
-ID: BIH007 (Service Provider)
-1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 11.005Mb/Sec
-CW: FTA
----FEED-SEPARATOR---
-Basketball Euroleague
-Kauno Žalgiris vs Fenerbahçe Beko
-Eutelsat 7B/7C @ 7.0E
-11070 H 7200
-DVB-S2 - 1080P - 8PSK
-4.2.0
-ID:IMG A EU
-CW: 7E 59 D5 AC 2E 79 D8 7F
+ID: OCC 6
+CW: D3 C1 31 C5 B3 E9 4B E7
