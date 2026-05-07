@@ -59,6 +59,15 @@ CW: FTA(
 NOW
 )
 ---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+4189 V 9704
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: LEUK_Fi01
+Event : 
+Instant Highlights UEFA EL And Conference Leagues !
+CW: F2 01 00 F3 BB 54 6F 7E
+---FEED-SEPARATOR---
 UEFA Conference League - Semi Final (2nd Leg) [3-1]
 Crystal Palace vs. Shakhtar Donetsk
 Intelsat 10-02 @ 1.0°W
@@ -108,6 +117,26 @@ ID: Match 1 B2 Main (*unnamed-1*)
 1920*1080 | DVB-S2X | 16APSK | SNR: 11.3dB | 10.750Mb/Sec
 52 2D 6C 96 7C 17 A4 06  #CW:
 F2 01 00 F3 BB 54 6F 7E
+---FEED-SEPARATOR---
+Basketball Champions League FINAL FOUR, Semi-finals
+Rytas Vilnius vs La Laguna Tenerife
+- 18:00 (GMT+2)
+Unicaja vs AEK BC
+- 21:00 (GMT+2)
+7e
+11606 V 7200
+ID: E115 G65 VIA 1
+FTA
+---FEED-SEPARATOR---
+candu said:
+			Eutelsat 7E
+10977 V 7200 S2
+ID: Hapoev vs. Real BUL006 Main
+BISS Key,please?
+Click to expand...
+Event: 
+EuroLeague - Hapoel vs Real Madrid
+CW: AA 29 AA 7D FD 17 4E 62
 ---FEED-SEPARATOR---
 Eutelsat 7.0 E
 12545 H 4936
