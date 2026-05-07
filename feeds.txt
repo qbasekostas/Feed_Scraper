@@ -1,5 +1,19 @@
 Copa Libertadores & Copa Sudamericana
 Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:  OCC 1
+CW: BA E3 D6 73 D5 1F FA EE
+ID:  OCC 2
+CW: FB E3 9A 78 D5 1E 4A 3D
+ID:  OCC 3
+CW: 42 E3 7C A1 D5 19 4A 38
+ID:  OCC 4
+CW: 8D F4 31 B2 E6 24 4B 55
+---FEED-SEPARATOR---
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100.5°E) C BAND
 3993 V 7500
 DVB-S2 - 1080P - 8PSK
 4:2:2
@@ -94,3 +108,11 @@ ID: Match 1 B2 Main (*unnamed-1*)
 1920*1080 | DVB-S2X | 16APSK | SNR: 11.3dB | 10.750Mb/Sec
 52 2D 6C 96 7C 17 A4 06  #CW:
 F2 01 00 F3 BB 54 6F 7E
+---FEED-SEPARATOR---
+Eutelsat 7.0 E
+12545 H 4936
+4:2:0
+ID: YSM - 012 MAIN
+CW: AB BA 20 85 25 20 26 6B
+ABA League - Playoff
+Crvena Zvezda - Cedevita Olimpija
