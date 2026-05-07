@@ -1,24 +1,3 @@
-Copa Libertadores & Copa Sudamericana: 
-Deportivo La Guaira
-Bolívar
-Cusco 
-Estudiantes
-Audax Italiano
-Vasco da Gama
-City Torque
-Palestine
-Santa Fe
-Corinthians
-Eutelsat 10E
-10768 V 34001/4.2.2
-OCC 1/2/3/4/5
-CW: 8A BF 8B D4 A2 D4 47 BD
-CW: CB BF 7C 06 A2 DE 47 C7
-CW: 12 BF 5E 2F A2 D9 47 C2
-CW: A2 C1 7C DF B3 E9 48 E4
-CW: 91 BF 4F 9F A2 DE 47 C7
-Thanks for El Pazzo Ragazzo
----FEED-SEPARATOR---
 Copa Libertadores & Copa Sudamericana
 Asiasat 5 (100.5°E) C BAND
 3993 V 7500
