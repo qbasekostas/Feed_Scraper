@@ -21,3 +21,54 @@ DVB-S2 - 1080P - 8PSK
 4:2:2
 ID: OCC 6
 CW: D3 C1 31 C5 B3 E9 4B E7
+---FEED-SEPARATOR---
+Red Devils said:
+UEFA Europa League & Conference League
+Eutelsat 7A/7B/7C @ 7.0E
+10984 Horizontal 9875.164 | 3/4 | 
+4:2:0
+ID:  UKI 1866 M3 Feed B B/Up (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 22.011Mb/Sec
+CW: FTA(
+NOW
+)
+Click to expand...
+2610 
+---FEED-SEPARATOR---
+UEFA Europa League & Conference League
+Eutelsat 7A/7B/7C @ 7.0E
+10984 Horizontal 9875.164 | 3/4 | 
+4:2:0
+ID:  UKI 1866 M3 Feed B B/Up (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 22.011Mb/Sec
+CW: FTA(
+NOW
+)
+---FEED-SEPARATOR---
+Eutelsat 7A/B @7.0°E
+Fréq:11011 - H - 4827
+MPEG 4 - 4:2:2 - DVB-S2
+ID: D565 M2 MAIN B2
+UEFA Europa League
+Freiburg vs Braga
+CW: F2 01 00 F3 BB 54 6F 7E
+---FEED-SEPARATOR---
+Red Devils said:
+UEFA Europa League & Conference League - Instant Highlights
+CW: F2 01 00 F3 BB 54 6F 7E
+Click to expand...
+Eutelsat 10E
+11200 H 70000
+NS4
+ID: 6GVs5 IHL
+1920x1080 | H264 | 4:2:0
+---FEED-SEPARATOR---
+UEFA Europa League - Play Offs - Semi-finals 
+Aston Villa - Nottingham
+Eutelsat 7A/7B/7C @ 7.0E
+11006 H 4827 | 26/45 | 4:2:0 |
+HEVC
+ID: Match 1 B2 Main (*unnamed-1*)
+1920*1080 | DVB-S2X | 16APSK | SNR: 11.3dB | 10.750Mb/Sec
+52 2D 6C 96 7C 17 A4 06  #CW:
+F2 01 00 F3 BB 54 6F 7E
