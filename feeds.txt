@@ -45,6 +45,28 @@ CW: FTA(
 NOW
 )
 ---FEED-SEPARATOR---
+UEFA Conference League - Semi Final (2nd Leg) [3-1]
+Crystal Palace vs. Shakhtar Donetsk
+Intelsat 10-02 @ 1.0°W
+11463 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: 27 F8 35 54 4B 55 FE 9E
+---FEED-SEPARATOR---
+UEFA Europa League - Semi Final (2nd Leg) [0-1]
+Aston Villa vs. Nottingham Forest
+Intelsat 10-02 @ 1.0°W
+11472 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Unname
+CW: E7 89 C4 34 BA 22 C4 A0
+---FEED-SEPARATOR---
 Eutelsat 7A/B @7.0°E
 Fréq:11011 - H - 4827
 MPEG 4 - 4:2:2 - DVB-S2
