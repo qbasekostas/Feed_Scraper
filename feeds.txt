@@ -1,0 +1,58 @@
+3.1E
+- Name:           beIN SPORTS HD (TANDBERG Television)
+- Freq: 10976,857
+- Pol: Horizontal
+- SR: 7502,071
+- Mod: QPSK-S2
+- FEC: 3/4
+- Std: DVB-S2
+----
+England Premier League - Round 36
+Liverpool - Chelsea
+- Name:           beIN SPORTS (JSSC)
+- Freq: 10985,656
+- Pol: Horizontal
+- SR: 7502,071
+- Mod: QPSK-S2
+- FEC: 3/4
+- Std: DVB-S2
+D4 13 C1 20 25 2B 1E 94 
+CW: 25 65 5B E5 DE AD F6 81
+---FEED-SEPARATOR---
+English Championship - Play-Off Semi Final (1st Leg)
+Middlesbrough vs. Southampton
+Eutelsat 7B/7C @ 7.0°E
+11079 - V - 7120 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: Middlesbrough v Southampton
+HBO said:
+CW: 22 4D 35 A4 99 2F F4 BC
+Click to expand...
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 22 4D 35 A4 99 2F F4 BC
+Middlesbrough vs Southampton
+---FEED-SEPARATOR---
+Champions League basketball
+Unicaja vs Tenerife
+Eutelsat 7B/7C @ ( 7.0E )
+11606 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: E115 G65 VIA 1
+CW: : 63 1F F7 79 15 00 D1 E6
+---FEED-SEPARATOR---
+Greek Super League 1
+Playouts (Relegation Group) - Round 7
+Panserraikos vs Kifisia
+39e
+12634 V 7200
+ID: panserraikos vs Kifisia
+CW: 85 A3 9F C7 5D CC 73 9C
