@@ -1,3 +1,13 @@
+Scottish League Premiership
+Motherwell vs Hearts
+Hotbird 13B/13C/13G @ ( 13.0E )
+10837 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: GCUK Enc 6
+CW: : EB BC DE 85 6A BE 37 5F
+---FEED-SEPARATOR---
 3.1E
 - Name:           beIN SPORTS HD (TANDBERG Television)
 - Freq: 10976,857
@@ -50,6 +60,15 @@ International Seven Cup Marakach
 - Std: DVB-S2
 D9 0D 7D D5 FA F9 90 5F 
 CW: FE ED 09 F4 05 20 26 4B
+---FEED-SEPARATOR---
+SpainLiga ACB, Round 30
+UCAM Murcia vs Bàsquet Girona
+Eutelsat 7B/7C @ 7.0E
+10960 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:   Fi01 ACB
+CW: E6 0D C2 B5 92 76 D7 DF
 ---FEED-SEPARATOR---
 Champions League basketball
 Unicaja vs Tenerife
