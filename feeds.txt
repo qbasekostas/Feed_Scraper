@@ -1,5 +1,5 @@
 Scottish League Premiership
-Motherwell vs Hearts
+Motherwell vs Heart of Midlothian
 Hotbird 13B/13C/13G @ ( 13.0E )
 10837 V 7199
 DVB-S2 - 
@@ -7,6 +7,26 @@ DVB-S2 -
  - 8PSK
 ID: GCUK Enc 6
 CW: : EB BC DE 85 6A BE 37 5F
+---FEED-SEPARATOR---
+England League One, Playoffs, Semifinals
+Stevenage vs Stockport County
+Eutelsat 7B/7C @ 7.0E
+12655 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:EFL League 1 Semi Final A
+Albahraniy said:
+CW: 70 02 23 95 DA 32 CA D6
+Click to expand...
+---FEED-SEPARATOR---
+England League One, Playoffs, Semifinals
+Stevenage vs Stockport County
+Asiasat 5 (100.5°E) C BAND
+4106 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_24_SDI
+CW: 70 02 23 95 DA 32 CA D6
 ---FEED-SEPARATOR---
 3.1E
 - Name:           beIN SPORTS HD (TANDBERG Television)
