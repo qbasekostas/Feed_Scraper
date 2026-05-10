@@ -119,6 +119,11 @@ DVB-S2 4:2:0 8PSK
 ID: BeIN Sport Westham Arsenal
 CW: DD 4C AA D3 52 78 4D 17
 ---FEED-SEPARATOR---
+Hellas Sat 3/4 (39.0 E)
+12643 Vertical 7198,303 3/4
+DVB-S2/8PSK (4:2:2)
+GRC071 MESOLOGGI
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 12582 V 7500
 DVB-S2 8PSK
@@ -137,6 +142,15 @@ HD (1920*1080) 4:2:0
 ID: E-289
 Liga Betlic Masculina
 Sporting Clube Portugal - Esgueira Aveiro OLI
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Beşiktaş Gain vs Galatasaray MCT Technic
+Hot Bird 13.0E
+12584 V 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  TUR-119 Main
+CW: E3 8F C6 38 84 4B FA C9
 ---FEED-SEPARATOR---
 Astra 2E/2F/2G (28.2E)
 12704 V 9600
