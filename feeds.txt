@@ -1,4 +1,14 @@
 Argentine First Division
+Rosario Central vs Independiente
+Eutelsat 7B/7C @ ( 7.0E )
+12648 H 7500
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: AFD
+CW: : 1D 38 BC 11 A5 9A AC EB
+---FEED-SEPARATOR---
+Argentine First Division
 Boca Juniors vs Huracan
 Eutelsat 7B/7C @ ( 7.0E )
 12639 H 7500
@@ -180,6 +190,14 @@ CW: BB CA AC 31 AA AC AC 02
 						dream Droid 1778416720454 hosted at ImgBB
 Image dream Droid 1778416720454 hosted on ImgBB
 					ibb.co
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+10959 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi01 ACB
+Event: 
+Liga ACB - Valencia vs Baskonia
+CW: CC 34 20 20 48 A7 5E 4D
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:11254 - H - 7200
