@@ -10,3 +10,19 @@ CW: : 1D 38 BC 11 A5 9A AC EB
 Click to expand...
 Event now: 
 River Plate vs San Lorenzo
+---FEED-SEPARATOR---
+Tottenham Hotspur vs Leeds United 
+Asiasat 5 (100.5°E) C BAND
+4007 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:   ENC 1 (SES)
+---FEED-SEPARATOR---
+England Championship
+Millwall vs Hull City
+Asiasat 5 (100.5°E) C BAND
+3975 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:   BT_SES_22_SDI (SES)
+CW: CC C5 22 B3 66 2E 77 0B
