@@ -33,19 +33,16 @@ ID: Uki-1592
 CW
 : FTA
 ---FEED-SEPARATOR---
-Mo_ha said:
-Scottish Premiership
-Aberdeen vs St.Mirren
-Hotbird 13B/13C/13G @ ( 13.0E )
-10831 V 7199
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: GCUK ENC 02
-CW: : DB AA 12 97 EF FE AA 97
+Eutelsat 7B/7C @ 7.0E
+11014 H 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  Championship semi final B 2 leg
+Albahraniy said:
+England Championship
+Southampton vs Middlesbrough 
+CW: 29 99 85 47 12 42 A3 F7
 Click to expand...
-Scottish Championship
-Dunfermline V Partick Thistle
 ---FEED-SEPARATOR---
 Scottish Premiership
 Aberdeen
