@@ -1,0 +1,16 @@
+England Championship
+Southampton vs Middlesbrough 
+Asiasat 5 (100.5°E) C BAND
+3975 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI (SES)
+CW: 29 99 85 47 12 42 A3 F7
+---FEED-SEPARATOR---
+Greek Super League 1
+Playouts (Relegation Group) - Round 8
+Asteras Tripolis vs Panserraikos
+39e
+12634 V 7200
+ID: E394 MAIN
+CW: D9 1A AA 9D 5F E9 9C E4
