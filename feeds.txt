@@ -8,6 +8,26 @@ AFD
 CW: FA 67 92 F3 31 00 B5 E6
 ---FEED-SEPARATOR---
 13.0E
+10848 V 7200 
+4:2:0
+DVB-S2 8PSK
+ID: GCUK Enc 4
+CW: 4B A1 42 2E EE FB 13 FC
+Scottish Premiership
+Motherwell v Celtic
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11014 H 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: PITCH EFL Stockport v Stevenage leg 2
+Albahraniy said:
+England League One Semi finals
+Stockport County vs Stevenage 
+CW: 25 26 BC 07 53 CC BC DB
+Click to expand...
+---FEED-SEPARATOR---
+13.0E
 10830 V 7200 
 4:2:0
 DVB-S2 8PSK
@@ -20,6 +40,7 @@ England League One Semi finals
 Stockport County vs Stevenage 
 Asiasat 5 (100.5°E) C BAND
 3975 V 7119
+3935 V 7119
 DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: BT_SES_22_SDI (SES)
