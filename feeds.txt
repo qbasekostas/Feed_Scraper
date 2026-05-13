@@ -7,14 +7,33 @@ ID:
 AFD
 CW: FA 67 92 F3 31 00 B5 E6
 ---FEED-SEPARATOR---
-League One
-Stockport County vs Stevenage
+13.0E
+10830 V 7200 
+4:2:0
+DVB-S2 8PSK
+ID: GCUK ENC 02
+CW: 42 BA 45 41 11 BE EC BB
+Scottish Premiership
+Hearts v Falkirk
+---FEED-SEPARATOR---
+England League One Semi finals
+Stockport County vs Stevenage 
 Asiasat 5 (100.5°E) C BAND
-4133 H 7119
+3975 V 7119
 DVB-S2 - 1080P - 8PSK
 4:2:0
-ID: BT_SES_14_SDI (SES)
-CW: 21 31 CD 1F DC 13 05 F4
+ID: BT_SES_22_SDI (SES)
+CW: 25 26 BC 07 53 CC BC DB
+---FEED-SEPARATOR---
+Eutelsat 3B @ 3.1° E
+Fréq:10959 - H - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID:  beIN SPORTS
+Fréq:10968 - H - 7500
+ID: Service-1
+ Premier League
+Man City vs Crystal Palace
+CW: AD 54 9E 9F 52 89 7B 56
 ---FEED-SEPARATOR---
 China U16 vs Tajikistan U16
 AsiaSat 5 100.5E
@@ -23,6 +42,15 @@ AsiaSat 5 100.5E
 PMT PID: 2048, SID: 1 @ Service (Harmonic)
 CW: 
 ABCD20982605133E
+---FEED-SEPARATOR---
+Portugal LBP
+SC Braga vs SL Benfica
+Eutelsat 7B/7C @ 7.0E
+11005 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: E-228 Main
+CW: 84 F5 DA 53 2F 25 96 EA
 ---FEED-SEPARATOR---
 Turkish Basketball Super League
 Fenerbahçe vs Beşiktaş
@@ -33,6 +61,14 @@ DVB-S2 -
  - 8PSK
 ID: DT SNG 2 MAIN
 CW: : 3E 7E 3A F6 91 32 71 34
+---FEED-SEPARATOR---
+Greek Super League
+Paok vs AEK
+13E
+10839 V 7200
+DVB-S2 4:2:0 8PSK
+ID: PAOK VS AEK A
+CW: D8 69 92 D3 97 61 E8 E0
 ---FEED-SEPARATOR---
 Greek Super League 1
 Playoffs 5-8 (Conference League Group) - Round 5
