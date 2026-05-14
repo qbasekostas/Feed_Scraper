@@ -6,6 +6,23 @@ AFD
 CW: FA 67 92 F3 31 00 B5 E6
 Thank you, brother EL Pazzo Ragazzo
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11124 V 5000
+DVB-S2 - 4:2:0 - 8PSK - H265
+ID: ITA 99 A
+Event: 
+Friendly Women's match - Italy vs France
+CW: 19 6A 04 87 07 B3 E9 A3
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+12736 V 7200
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 15.23 Mbit/s
+ID: ENC 2
+Event: 
+FA YOUTH CUP: Man City vs MAN UTD Kick-OFF 19:00pm UK Time
+CW: CE 21 BA A9 34 AB 18 F7
+---FEED-SEPARATOR---
 FIFA U20 WOMEN’S WORLD CUP, POLAND 2026
 Eutelsat 7B/7C @ ( 7.0E )
 10960 V 7199
@@ -23,3 +40,10 @@ DVB-S2 | 8PSK | 3/4
 1920x1080 | H.264/AVC Video | 4:2:0 | 20.75 Mbit/s
 ID: WU 17 M
 CW: 59 FA 04 57 31 2A B2 0D
+---FEED-SEPARATOR---
+7e
+10996 H 7200
+4:2:0
+ID: Fi01 ACB
+CW: A4 16 91 4B 65 7B 5B 3B
+Spain    Basketball    ACB    Bilbao  vs  Real Madrid
