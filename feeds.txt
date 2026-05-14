@@ -5,3 +5,21 @@ Eutelsat 7E
 AFD
 CW: FA 67 92 F3 31 00 B5 E6
 Thank you, brother EL Pazzo Ragazzo
+---FEED-SEPARATOR---
+FIFA U20 WOMEN’S WORLD CUP, POLAND 2026
+Eutelsat 7B/7C @ ( 7.0E )
+10960 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: E-398 MAIN
+CW: : A5 CC 60 D1 01 4E 14 63
+---FEED-SEPARATOR---
+U17 European Championship, semifinals, Women
+France U17 vs Norway U17
+Eutelsat 7A/7B/7C @ 7.0°E
+11081 H 9875
+DVB-S2 | 8PSK | 3/4
+1920x1080 | H.264/AVC Video | 4:2:0 | 20.75 Mbit/s
+ID: WU 17 M
+CW: 59 FA 04 57 31 2A B2 0D
