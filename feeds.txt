@@ -6,6 +6,14 @@ AFD
 CW: FA 67 92 F3 31 00 B5 E6
 Thank you, brother EL Pazzo Ragazzo
 ---FEED-SEPARATOR---
+Friendly Women's match - Italy vs France
+Hot Bird 13.0E
+12600 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  ITA 864 (A)
+CW: CD AB DA 52 AA 12 43 FF
+---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 11124 V 5000
 DVB-S2 - 4:2:0 - 8PSK - H265
@@ -13,6 +21,45 @@ ID: ITA 99 A
 Event: 
 Friendly Women's match - Italy vs France
 CW: 19 6A 04 87 07 B3 E9 A3
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3975 V 7119
+3934 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  BT_SES_22_SDI (SES)
+Albahraniy said:
+League One Semifinals
+Bradford City vs Bolton Wanderers
+CW: 25 5A 22 A1 11 12 29 4C
+Click to expand...
+---FEED-SEPARATOR---
+League One Semifinals
+Bradford City vs Bolton Wanderers
+Eutelsat 7B/7C @ 7.0E
+11014 H 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: PITCH EFL Bradford V Bolton
+CW: 25 5A 22 A1 11 12 29 4C
+---FEED-SEPARATOR---
+1W
+11468 V 15000 
+4:2:2
+DVB-S2 8PSK
+ID: No name
+CW: 24 79 44 E1 02 72 E7 5B
+ENGLAND: FA Youth Cup
+Man City U18 VS Man United U18 
+---FEED-SEPARATOR---
+1W
+11631 V 7200 
+4:2:2
+DVB-S2 8PSK
+ID: No name
+CW: 24 79 44 E1 02 72 E7 5B
+ENGLAND: FA Youth Cup
+Man City U18 VS Man United U18
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 12736 V 7200
