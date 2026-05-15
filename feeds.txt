@@ -1,3 +1,64 @@
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship
+Partick Thistle v Dunfremline
+---FEED-SEPARATOR---
+16E
+12705 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship
+Partick Thistle v Dunfremline
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship
+ Partick Thistle v Dunfremline
+---FEED-SEPARATOR---
+EnglandLeague Two, Semifinals
+Salford City vs Grimsby Town
+Asiasat 5 (100.5°E) C BAND
+3934 V 7119
+3975 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI (SES)
+CW: 12 3A AE FA 22 0C 34 62
+---FEED-SEPARATOR---
+English Premier League
+Aston Villa vs Liverpool
+Eutelsat 7A/B ( 7.0E )
+11013 V 8020
+DVB-S2 - 
+4:2:2
+ - H.265
+ID: Fi11_GNVE
+CW: : B7 FE 50 05 52 E0 4E 80
+---FEED-SEPARATOR---
+Eutelsat 7B / Eutelsat 7C  7° E
+12601 V  7200
+ID: Polsat Sport
+Event:
+ Men's basketball: ORLEN Basket Liga - 2nd quarterfinal play-off game: WKS Śląsk Wrocław - AMW Arka Gdynia
+4.2.0
+- DVB-S2 - 8PSK
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+AdmiralBet ABA League
+Crvena Zvevda vs Cedevita Olimpia
+Eutelsat 7B/7C @ 7.0E
+12544 H 4936
+4.2.0
+ID: YSM-016 MAIN
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 Super League Cup U19, FINAL
 PAOK U19 vs Aris U19
 39e
