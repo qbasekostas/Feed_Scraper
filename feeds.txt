@@ -1,3 +1,18 @@
+Eutelsat 7A/7B/7C @ 7.0E
+11124 V 5000
+DVB-S2 - 4:2:0 - 8PSK - H265
+ID: ITA 99 A
+Event: 
+Friendly Women's match - Italy vs France (2ND Match)
+CW: DB DF B1 6B 07 B3 EB A5
+---FEED-SEPARATOR---
+Eutelsat 7E
+11022 V 7120 S2 4:2:0
+ID: Pitch Salford V Grimsby
+English League Two - Play-Off Semi Final (2nd Leg)
+Salford City vs. Grimsby Town
+FTA
+---FEED-SEPARATOR---
 16E
 12712 V 2000
  4:2:0
@@ -22,6 +37,13 @@ ID: Uki-1592
 Scottish Championship
  Partick Thistle v Dunfremline
 ---FEED-SEPARATOR---
+Eutelsat 7E
+11013 V 7120 S2 4:2:0
+ID: Pitch EFL Notts County V Chesterfield
+English League Two - Play-Off Semi Final (2nd Leg)
+Notts County vs. Chesterfield
+CW: 21 9D FA B8 24 A1 55 1A
+---FEED-SEPARATOR---
 EnglandLeague Two, Semifinals
 Salford City vs Grimsby Town
 Asiasat 5 (100.5°E) C BAND
@@ -41,6 +63,27 @@ DVB-S2 -
  - H.265
 ID: Fi11_GNVE
 CW: : B7 FE 50 05 52 E0 4E 80
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11021 H 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:
+Albahraniy said:
+EnglandLeague Two, Semifinals
+Salford City vs Grimsby Town
+CW: 12 3A AE FA 22 0C 34 62
+Click to expand...
+Possible V ref Pepadefa
+---FEED-SEPARATOR---
+William Hill Championship 2025/26
+ (Premiership Play Off Semi Final, 2nd Leg)
+Partick Thistle v Dunfermline Athletic
+13.0E
+10847 V 7200
+4.2.0 HD DVB S2 8PSK
+ID: GCUK ENC 9
+CW: 4F 11 33 93 CB BE AD 36
 ---FEED-SEPARATOR---
 Eutelsat 7B / Eutelsat 7C  7° E
 12601 V  7200
