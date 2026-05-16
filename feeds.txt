@@ -1,3 +1,14 @@
+28.2E
+12703 V 7120
+ 4:2:0
+DVB-S2 8PSK
+ID: Cloudbass
+Scottish 
+Championship - Relegation
+Stenhousemuir
+ v 
+Alloa
+---FEED-SEPARATOR---
 English FA Cup - FINAL 
 Chelsea vs Manchester City
 Hotbird 13B/13C/13G @ ( 13.0E ) 
@@ -53,13 +64,6 @@ Hot Bird 13F/13G @ 13.0°E
 ID: GCUK Enc 9
 CW: 46 11 DF 36 23 BC CA A9
 ---FEED-SEPARATOR---
-28.2°E
-12524 H 7200
-4:2:0
-ID: WFAC CLEAN
-CW: AA 23 44 11 AB BB 1A 80
-FA Cup Final
----FEED-SEPARATOR---
 ASTRA 19.2 EAST
 11634 H 7200 DVB-S2 8PSK
 MPEG 4 - 4:2:0 - HDTV
@@ -91,6 +95,13 @@ B8hx00h
 EC A4 14 31 C7 2A 39 D1  #CW: 
 81 8A AC B7 B9 13 5C 28
  #[E] PID:1030h
+---FEED-SEPARATOR---
+Astra 2E/2F/2G (28.2E)
+12526 H 7200
+DVB-S2 8PSK FEC 2/3
+HD (1920*1080) 4:2:0
+ID: E266 
+Playoff Semis
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 12610 V 7500
