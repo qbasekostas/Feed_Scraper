@@ -103,6 +103,15 @@ HD (1920*1080) 4:2:0
 ID: E266 
 Playoff Semis
 ---FEED-SEPARATOR---
+Eutelsat 16A  16° E
+10969 V 4800
+ID: POL11_HARM
+Event: 
+ŁKS Coolpack Łódź Enea Abramczyk - Astoria Bydgoszcz in the Final of the 1st Men's League
+4.2.2
+- DVB-S2 - 8PSK
+CW: AB BA 26 8B DC AE 05 8F
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E @ 13.0E
 12610 V 7500
 DVB-S2 - 
