@@ -35,6 +35,18 @@ ID: Astra Service 5
 CW: 77 D4 54 9F 7A 96 4D 5D
 Click to expand...
 English Premier League 
+Newcastle UTD VS West Ham
+---FEED-SEPARATOR---
+hazem7892 said:
+			English Premier League 
+Manchester United VS Nottingham Forest
+Astra 19.2°E
+11818 V 31430
+4:2:0
+ID: Astra Service 5
+CW: 77 D4 54 9F 7A 96 4D 5D
+Click to expand...
+English Premier League 
 Brentford VS Crystal Palace
 ---FEED-SEPARATOR---
 13.0E
@@ -92,6 +104,22 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:Fi01 ACB
 CW: AA 5A 4A 4E 96 C4 C6 20
+---FEED-SEPARATOR---
+Greek Super League 1
+Playoffs (Championship Group) - Round 6
+AEK vs Olympiacos
+7e
+11479 V 7200
+ID: TANDBERG
+CW: D8 6F 9F E6 FD 46 C9 0C
+---FEED-SEPARATOR---
+Greek Super League 1
+Playoffs (Championship Group) - Round 6
+Panathinaikos vs PAOK
+7e
+11488 V 7200
+ID: PAO VS PAOK A
+CW: F1 D3 D2 96 9C 01 0A A7
 ---FEED-SEPARATOR---
 SlippyGes said:
 Greek Super League 1
