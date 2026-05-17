@@ -1,3 +1,13 @@
+Argentine First Division
+Argentinos Juniors vs Belgrano  
+Eutelsat 7B/7C @ ( 7.0E )
+11514 V 7500
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: AFD
+CW: : 86 5C BB 9D 18 AA D5 97
+---FEED-SEPARATOR---
 CEV Champions League
 placeProjekt Warszawa vs Ziraat Bankası
 Eutelsat 7B/7C @ 7.0E
