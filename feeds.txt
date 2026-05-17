@@ -96,6 +96,13 @@ DVB-S2 8PSK FEC 2/3
 HD (1920*1080) 4:2:0
 ID: A1PRO Via1
 ---FEED-SEPARATOR---
+7.0°E
+11597 V 7200
+4:2:2
+ID: Encoder 1
+CW: 9A 38 F7 C9 4B B7 5C 5E
+Italian Basket LBA
+---FEED-SEPARATOR---
 Spain Liga ACB, Round 32
 Real Madrid vs Joventut Badalona 
 Eutelsat 7B/7C @ 7.0E
