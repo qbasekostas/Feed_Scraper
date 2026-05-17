@@ -83,29 +83,6 @@ DVB-S2 -
 ID: WU 17 M
 CW: : 0E 4C 14 6E CD 60 D5 02
 ---FEED-SEPARATOR---
-Sniper 98 said:
-Europe
-, 
-Euro U17 Women - Play Offs - Final
-Germany U17 W
-France U17 W
-Eutelsat 7.0°E
-11082 H 9874 - 4.2.0
-ID: WU 17 M
-CW: 0E 4C 14 6E CD 60 D5 02
-Click to expand...
-https://www.sat-universe.com/index....mpionship-7°e-10°e-etc.240056/post-2037451062
----FEED-SEPARATOR---
-Europe
-, 
-Euro U17 Women - Play Offs - Final
-Germany U17 W
-France U17 W
-Eutelsat 7.0°E
-11082 H 9874 - 4.2.0
-ID: WU 17 M
-CW: 0E 4C 14 6E CD 60 D5 02
----FEED-SEPARATOR---
 Astra 2E/2F/2G (28.2E)
 12526 H 7200
 DVB-S2 8PSK FEC 2/3
@@ -118,6 +95,16 @@ Astra 2E/2F/2G (28.2E)
 DVB-S2 8PSK FEC 2/3
 HD (1920*1080) 4:2:0
 ID: A1PRO Via1
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11606 V 7200
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Encoder 2
+Event: 
+Basket Serie A - Reyer Venezia vs Derthona
+CW: 27 DA 68 69 85 DB 63 C3
 ---FEED-SEPARATOR---
 7.0°E
 11597 V 7200
@@ -134,16 +121,6 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:Fi01 ACB
 CW: AA 5A 4A 4E 96 C4 C6 20
----FEED-SEPARATOR---
-Greece
-, 
-Super League - Championship Group - Round 6
-Panathinaikos
-PAOK
-Eutelsat 7°E
-11488 V 7199 - 4.2.0
-ID: PAO VS PAOK
-CW: F1 D3 D2 96 9C 01 0A A7
 ---FEED-SEPARATOR---
 Greek Super League 1
 Playoffs (Championship Group) - Round 6
