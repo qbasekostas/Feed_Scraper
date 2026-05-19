@@ -4,3 +4,25 @@
 ID:   GCUK Enc 9 (GlobeCast UK)
 CW: BB AA FF 64 EE 18 05 0B
 FA Cup Highlights
+---FEED-SEPARATOR---
+Albahraniy said:
+Italy Lega A Basket
+Virtus Bologna vs Dolomiti Energia Trento
+Click to expand...
+Eutelsat 7A/B ( 7.0E )
+11588 V 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Encoder 2
+CW: : A7 FD 2E D2 E8 AD A5 3A
+---FEED-SEPARATOR---
+Italy Lega A Basket
+Virtus Bologna vs Dolomiti Energia Trento
+Eutelsat 7B/7C @ 7.0E
+11597 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.
+2
+ID: Encoder 1
+CW: AF 48 49 40 2D F8 89 AE
