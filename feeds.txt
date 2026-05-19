@@ -1,0 +1,6 @@
+13.0°E
+12609 V 7120
+4:2:0
+ID:   GCUK Enc 9 (GlobeCast UK)
+CW: BB AA FF 64 EE 18 05 0B
+FA Cup Highlights
