@@ -1,75 +1,61 @@
-Copa Libertadores => 
-Boca Juniors Vs Cruzeiro
-Eutelsat 10B @ 10.0E
-10767 V 34000
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 4
-50 6C 7A D4 1E C5 2E AA  
-CW: A1 A2 DB 1E F4 11 22 27
+AsiaSat 5 - 100.5 E - CBand
+TP : 4106 H 7500
+ID: OCC 8
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+CW : 72 E3 A9 FE D5 13 FA E2
 ---FEED-SEPARATOR---
-100.5e
-4116 H 7500
-4:2:2
+AsiaSat 5 - 100.5 E - CBand
+TP : 4124 H 7500
 ID: OCC 7
-Copa Libertadores & Copa Sudamericana
-CW: 14 AD CB 8C 5D EA A5 EC
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+CW : EA BF E5 8E A2 DF F7 78
 ---FEED-SEPARATOR---
-100.5e
-4107 H 7500
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100.5°E) C BAND
+4133 H 7500
+DVB-S2 - 1080P - 8PSK
 4:2:2
-ID: 
-OCC 8
-Copa Libertadores & Copa Sudamericana
-CW: E4 A1 DE 63 CB 87 55 A7
+ID: OCC 6
+CW: B6 11 3F 06 CA E8 52 04
 ---FEED-SEPARATOR---
+Copa Libertadores & Copa Sudamericana
+Nacional vs Universitario de Deportes
+Santos vs San Lorenzo
+Olimpia vs Vasco da Gama
+Boston River vs O'Higgins
 Eutelsat 10B @ 10.0E
 10767 V 34000
 DVB-S2 - 1080P - 8PSK
 4:2:2
+Albahraniy said:
+			ID: OCC 1
+CW: CB E3 5E 0C D5 1E 4A 3D
+ID: OCC 2
+CW: B5 A1 ED 43 C6 78 AD EB
 ID: OCC 3
-Copa Libertadores
-Rosario Central (Arg)  vs  Universidad Central (Ven)
-CW: CB 67 55 87 43 DA 11 2E
+CW: 3B E3 B8 D6 D5 1C FA EB
+ID: OCC 4
+CW: BD E3 A9 49 D5 1F FA EE
+Click to expand...
+ID: OCC 5
+CW: BC 23 DA B9 11 CB 66 42
 ---FEED-SEPARATOR---
-Friendly match
-Poland vs Serbia
-Eutelsat 7A/B ( 7.0E )
-12603 V 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: Polsat Sport
-CW: : 20 26 A9 EF 97 1A CA 7B
----FEED-SEPARATOR---
-Eutelsat 16A   ( 16.0E )
-12511 V 7200
-1920x1080 |8PSK |4:2:0 |
-ID: RTL UEL Return
-UEFA Europa League - Final
-Freiburg vs. Aston Villa
-CW: BA BA 20 94 05 DC DC BD
----FEED-SEPARATOR---
-UEFA Europa League - Final 
-Freiburg vs. Aston Villa
-Intelsat 10-02 @ 1.0°W
-12612 - H - 7200 
-|4:2:0 | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID:  TUR139-Main (HD-PROTEK)
-CW: 9F CF 37 A5 38 91 AD 76
----FEED-SEPARATOR---
-42E 11487 V 6800 8PSK 
+Copa Libertadores & Copa Sudamericana
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
 4:2:2
-ID: TUR 147A
-UEFA Europa League - Final
-Freiburg vs. Aston Villa
-CW: 43 27 00 6A 00 43 27 6A
+ID: OCC 1
+CW: CB E3 5E 0C D5 1E 4A 3D
+ID: OCC 2
+CW: B5 A1 ED 43 C6 78 AD EB
+ID: OCC 3
+CW: 3B E3 B8 D6 D5 1C FA EB
+ID: OCC 4
+CW: BD E3 A9 49 D5 1F FA EE
 ---FEED-SEPARATOR---
-Eutelsat 16A   ( 16.0E )
-11107 H 7200
-1920x1080 |8PSK |4:2:0 | H265
-ID: TVN D-564 Enc II MAIN
-UEFA Europa League - Final
-Freiburg vs. Aston Villa
-CW: BA BA 20 94 05 DC DC BD
+AsiaSat 5 - 100.5 E - CBand
+TP : 4115 H 7500
+ID: OCC 5
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+CW : BC 23 DA B9 11 CB 66 42
