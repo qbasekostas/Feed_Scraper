@@ -42,6 +42,14 @@ DVB-S2 -
 ID: Polsat Sport
 CW: : 20 26 A9 EF 97 1A CA 7B
 ---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+12511 V 7200
+1920x1080 |8PSK |4:2:0 |
+ID: RTL UEL Return
+UEFA Europa League - Final
+Freiburg vs. Aston Villa
+CW: BA BA 20 94 05 DC DC BD
+---FEED-SEPARATOR---
 UEFA Europa League - Final 
 Freiburg vs. Aston Villa
 Intelsat 10-02 @ 1.0°W
@@ -50,3 +58,18 @@ Intelsat 10-02 @ 1.0°W
 1920*1080 | DVB-S2 | 8PSK
 ID:  TUR139-Main (HD-PROTEK)
 CW: 9F CF 37 A5 38 91 AD 76
+---FEED-SEPARATOR---
+42E 11487 V 6800 8PSK 
+4:2:2
+ID: TUR 147A
+UEFA Europa League - Final
+Freiburg vs. Aston Villa
+CW: 43 27 00 6A 00 43 27 6A
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11107 H 7200
+1920x1080 |8PSK |4:2:0 | H265
+ID: TVN D-564 Enc II MAIN
+UEFA Europa League - Final
+Freiburg vs. Aston Villa
+CW: BA BA 20 94 05 DC DC BD
