@@ -82,6 +82,22 @@ ID: EUROLEAGUE FINAL 4_DAY 1- ATH. MAIN
 CW: 62 31 B7 4A F2 AF 09 AA
 Euroleague NextGen
 ---FEED-SEPARATOR---
+Italy Lega A Basket
+UNAhotels Reggio Emilia vs EA7 Emporio Armani Milano 
+Eutelsat 7B/7C @ 7.0E
+11597 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:   Encoder 2
+CW: F9 52 6F BA 3E B8 62 58
+---FEED-SEPARATOR---
+ABA League, Semi-finals (GAME 2)
+Crvena Zvezda vs Partizan
+16e
+11013 V 4937
+ID: YSM-016 MAIN
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
 African Basketball Super League
 Eutelsat 10A @ (10.0E )
 10769 H 7199
