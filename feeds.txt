@@ -18,44 +18,77 @@ DVB-S2 - 1080P - 8PSK
 ID: OCC 6
 CW: B6 11 3F 06 CA E8 52 04
 ---FEED-SEPARATOR---
-Copa Libertadores & Copa Sudamericana
-Nacional vs Universitario de Deportes
-Santos vs San Lorenzo
-Olimpia vs Vasco da Gama
-Boston River vs O'Higgins
-Eutelsat 10B @ 10.0E
-10767 V 34000
-DVB-S2 - 1080P - 8PSK
+Copa Sudamericana
+GREMIO vs PALESTINO
+Eutelsat 10B @ ( 10.0E )
+10732 V 34000
+DVB-S2 - 
 4:2:2
-Albahraniy said:
-			ID: OCC 1
-CW: CB E3 5E 0C D5 1E 4A 3D
-ID: OCC 2
-CW: B5 A1 ED 43 C6 78 AD EB
-ID: OCC 3
-CW: 3B E3 B8 D6 D5 1C FA EB
-ID: OCC 4
-CW: BD E3 A9 49 D5 1F FA EE
-Click to expand...
-ID: OCC 5
-CW: BC 23 DA B9 11 CB 66 42
+ - 8PSK
+ID: OCC 9
+CW: : F1 E3 8B 5F D5 1E 4A 3D
 ---FEED-SEPARATOR---
+Eutelsat 10E
+10734 V 34000 S2 4:2:2
 Copa Libertadores & Copa Sudamericana
-Asiasat 5 (100.5°E) C BAND
-3840 H 30000
-DVB-S2 - 1080P - 8PSK
-4:2:2
-ID: OCC 1
-CW: CB E3 5E 0C D5 1E 4A 3D
-ID: OCC 2
-CW: B5 A1 ED 43 C6 78 AD EB
-ID: OCC 3
-CW: 3B E3 B8 D6 D5 1C FA EB
-ID: OCC 4
-CW: BD E3 A9 49 D5 1F FA EE
+Albahraniy said:
+			ID: OCC 6
+CW: B6 11 3F 06 CA E8 52 04
+Click to expand...
+HBO said:
+			ID: OCC 8
+CW : 72 E3 A9 FE D5 13 FA E2
+Click to expand...
+HBO said:
+			ID: OCC 7
+CW : EA BF E5 8E A2 DF F7 78
+Click to expand...
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 4115 H 7500
 ID: OCC 5
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
 CW : BC 23 DA B9 11 CB 66 42
+---FEED-SEPARATOR---
+1W
+11468 V 15000 
+4:2:2
+DVBS2 8PSK
+ID: No name
+Scottish Premiership Playoff 1st Leg
+Partick Thistle v St Mirren
+---FEED-SEPARATOR---
+7.0°E
+11079 H 7200
+4:2:0
+ID: EUROLEAGUE FINAL 4_DAY 1- ATH. MAIN
+CW: 62 31 B7 4A F2 AF 09 AA
+Euroleague NextGen
+---FEED-SEPARATOR---
+African Basketball Super League
+Eutelsat 10A @ (10.0E )
+10769 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: BAL INT
+CW: : 9A 1D 7C 33 4B 3F 26 B0
+---FEED-SEPARATOR---
+African Basketball Super League
+Eutelsat 10A @ (10.0E )
+10778 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: BAL AFR
+CW: : C7 F2 A8 61 B3 D1 69 ED
+---FEED-SEPARATOR---
+7.0°E
+11070 H 7200 DVB-S2 8PSK
+MPEG 4 - 4:2:0 - HDTV
+ID: 
+GBIMG ATHENS MAIN
+Event: 
+Euroleague NextGen Final Four 
+Athens 2026 opening Press Conference 
+CW: FB 07 AC AE 1E E2 E1 E1
