@@ -47,6 +47,25 @@ DVB-S2 - 1080P - 8PSK
 ID:NOR-044 - SERVICE FEED 1
 CW: 5A 52 26 D2 8F 28 9B 52
 ---FEED-SEPARATOR---
+Italy Lega A Basket
+Dolomiti Energia Trento vs Virtus Bologna
+Eutelsat 7B/7C @ 7.0E
+11596 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  Encoder 1
+CW: DF 49 5C 84 19 D2 C6 B1
+---FEED-SEPARATOR---
+African Basketball Super League
+FSSB TIGERS VS FUS RABAT
+Eutelsat 10A @ (10.0E )
+10769 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: BAL INT
+CW: : 5D 1A 9C 13 7F 2B 84 2E
+---FEED-SEPARATOR---
 Euroleague, Semi-Finals
 Olympiacos BC vs Fenerbahçe Beko
 Eutelsat 7A/B ( 7.0E )
