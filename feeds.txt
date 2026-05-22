@@ -47,6 +47,37 @@ DVB-S2 - 1080P - 8PSK
 ID:NOR-044 - SERVICE FEED 1
 CW: 5A 52 26 D2 8F 28 9B 52
 ---FEED-SEPARATOR---
+Euroleague, Final Four
+Valencia vs Real Madrid
+Eutelsat 7A/B ( 7.0E )
+11578 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: E394 MAIN
+CW: : C3 E5 A7 4F B9 F2 D6 81
+---FEED-SEPARATOR---
+Italy Lega A Basket
+Eutelsat 7B/7C @ 7.0E
+11587 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: Encoder 2
+CW: B7 83 FC 36 39 62 46 E1
+---FEED-SEPARATOR---
+Albahraniy said:
+			Italy Lega A Basket
+Dolomiti Energia Trento vs Virtus Bologna
+Eutelsat 7B/7C @ 7.0E
+11596 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  Encoder 1
+CW: DF 49 5C 84 19 D2 C6 B1
+Click to expand...
+E8 AC 24 AB 3E 19 60 4E  
+CW: 9A 66 F6 F6 D8 93 39 A4
+---FEED-SEPARATOR---
 Italy Lega A Basket
 Dolomiti Energia Trento vs Virtus Bologna
 Eutelsat 7B/7C @ 7.0E
