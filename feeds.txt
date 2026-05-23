@@ -102,6 +102,18 @@ DVB-S2 -
 ID: ENC 2
 CW: : FE ED F1 DC A1 BA 11 6C
 ---FEED-SEPARATOR---
+Hispasat 30W-5/30W-6 (30.0W)
+11568 V 9600
+MPEG-4 FTA DVB-S2 8PSK,4:2:0
+ID: 
+E-400 02
+Provider: Net 1
+Liga Endesa Masculino,Round 33
+Dreamland Gran Canaria M - Baxi Manresa M (20:20)
+						dream Droid 1779560125611 hosted at ImgBB
+Image dream Droid 1779560125611 hosted on ImgBB
+					ibb.co
+---FEED-SEPARATOR---
 African Basketball Super League
 Eutelsat 10A @ (10.0E )
 DVB-S2 - 
