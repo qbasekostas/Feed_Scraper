@@ -1,0 +1,114 @@
+Eutelsat 7B/7C @ 7.0E
+12600 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Polsat Sport (POLSAT)
+CW: 20 26 AB F1 CD 1E CA B5
+---FEED-SEPARATOR---
+16E
+12692 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID Uki-1592
+Scottish Fa Cup Final
+Dunfermline v Celtic
+---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Fa Cup Final
+Dunfermline v Celtic
+---FEED-SEPARATOR---
+16E
+12705 V 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Fa Cup Final
+Dunfermline v Celtic
+---FEED-SEPARATOR---
+Championship, Final
+Hull City vs Middlesbrough
+Eutelsat 7A/B ( 7.0E )
+12686 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: GCUK ENC 4
+CW: : 32 9D F2 C1 23 29 91 DD
+---FEED-SEPARATOR---
+Scottish Cup, Final
+Celtic vs Dunfermline
+Eutelsat 7A/B ( 7.0E )
+11523 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ENC 3
+CW: : BC AA 45 AB 56 BB CA DB
+---FEED-SEPARATOR---
+Championship, Final
+Hull City vs Middlesbrough
+Eutelsat 16A @ ( 16.0E )
+11014 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Wembley play off Sat DR
+CW: : 12 34 5A A0 20 26 05 4B
+---FEED-SEPARATOR---
+Albahraniy said:
+Eutelsat 7B/7C @ 7.0E
+12654 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Pitch - EFL - Championship Final Pre Match Multi
+Click to expand...
+wrong
+fta that one and only pre match
+7e
+11023 v 7120 right one
+id: Pitch - EFL - Championship Playoff Finals
+same cw above
+---FEED-SEPARATOR---
+Championship Final
+Hull City vs Middlesbrough
+Asiasat 5 (100.5°E) C BAND
+3993 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_22_SDI (SES)
+CW: 32 9D F2 C1 23 29 91 DD
+---FEED-SEPARATOR---
+2026 UEFA Women's Champions League, Final
+Barcelona vs OL Lyonnes
+Eutelsat 7A/B ( 7.0E )
+11000 H 14398
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: NOR044 UWCLF X
+CW: : 5A 52 26 D2 8F 28 9B 52
+---FEED-SEPARATOR---
+2026 UEFA Women's Champions League, Final
+Barcelona vs OL Lyonnes
+Eutelsat 7A/B ( 7.0E )
+11598 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ENC 2
+CW: : FE ED F1 DC A1 BA 11 6C
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11060 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:EUROLEAGUE FINAL 4_DAY 3- ATH. MAIN
+CW: 52 25 5E D5 19 B7 8A 5A
+barney115 said:
+Euroleague NextGen Final Four
+Athens 2026 opening Press Conference
+Click to expand...
