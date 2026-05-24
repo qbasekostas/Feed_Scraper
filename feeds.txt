@@ -1,3 +1,13 @@
+Argentine First Division - Final
+River Plate vs Atlético Belgrano
+Eutelsat 7B/7C @ ( 7.0E )
+12510 V 7500
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: AFD
+CW: : 88 21 BC 65 BA 26 16 F6
+---FEED-SEPARATOR---
 English Premier League
 Eutelsat 7A/B ( 7.0E )
 DVB-S2 - 
@@ -81,6 +91,13 @@ ID: IMG A EU
 Euroleague NextGen Final Four
 Olympiacos BC vs Real Madrid BC
 CW: C7 5C 06 29 D8 66 DC 1A
+---FEED-SEPARATOR---
+Euroleague - Final Four, FINAL
+Olympiacos vs Real Madrid
+7e
+11589 V 7200
+ID: E394 MAIN
+CW: C3 E5 A7 4F B9 F2 D6 81
 ---FEED-SEPARATOR---
 Women’s Greek Cup, FINAL
 PAOK W vs Asteras Tripolis W
