@@ -38,6 +38,24 @@ DVB-S2 - 1080P - 8PSK
 ID: BT_SES_22_SDI (SES)
 CW: 1B C2 21 FE 1C 24 77 B7
 ---FEED-SEPARATOR---
+Eutelsat 7E @ 07.0E
+10960 V 7200 | 4:2:0 | 8PSK
+ID: 
+Fi01 ACB
+Event: 
+ACB Liga Endesa — Joventut Badalona vs San Pablo Burgos (24 May 2026)
+CW: CD 69 DE 14 B4 C9 9C 19
+---FEED-SEPARATOR---
+Italy, Lega A
+Dolomiti Energia vs Virtus Olidata
+Eutelsat 10A @ ( 10.0E )
+11256 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Encoder 1
+CW: : BA ED 26 CD 78 28 72 12
+---FEED-SEPARATOR---
 African Basketball Super League
 Al-AHLY vs ASC VILLE DAKAR
 Eutelsat 10A @ (10.0E )
