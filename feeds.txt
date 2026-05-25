@@ -1,3 +1,13 @@
+13.0E
+10847 V 7200
+ 4.2.0 
+DVB S2 8PSK
+ID: 
+GCUK ENC 1
+CW: 42 BA 45 41 11 BE EC BB
+Scottish Premiership Playoff 2nd Leg
+St Mirren v Partick Thistle
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3984 V 7119 C-Band
 ID: BT_SES_24_SDI 
@@ -47,6 +57,25 @@ DVB-S2 -
 ID: y2
 CW
 : FTA
+---FEED-SEPARATOR---
+Adriatic22 said:
+			Eutelsat 7.0 E
+12508 V 4936
+4:2:0
+ID: MNE - 001 main
+Click to expand...
+CW: AB BA 20 85 25 20 26 6B
+Adriatic22 said:
+			AdmiralBET ABA League - Playoffs
+Budućnost - Dubai
+Click to expand...
+---FEED-SEPARATOR---
+Eutelsat 7.0 E
+12508 V 4936
+4:2:0
+ID: MNE - 001 main
+AdmiralBET ABA League - Playoffs
+Budućnost - Dubai
 ---FEED-SEPARATOR---
 African Basketball Super League
 Al AHLY LY vs CLUB AFRICAIN
