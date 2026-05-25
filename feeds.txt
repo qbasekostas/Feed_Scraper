@@ -58,6 +58,24 @@ ID: y2
 CW
 : FTA
 ---FEED-SEPARATOR---
+UEFA Conference League, Knockout stage, Final (27-05)
+Crystal Palace vs Rayo Vallecano
+ Eutelsat 7A/7B/7C @ 7.0°E
+ 10982 H 17140
+ 1920×1080 | H.265/HEVC
+4:2:2
+ | 40.00 Mb/s
+ FEED G
+ 42 BD 92 91 06 2F 3D 72
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+11023 H 7200
+DVB-S2/8PSK (4:2:0)
+ID: E-95 BK UP
+Event: 
+LPB Play Off Semifinal - Sporting CP vs FC Porto
+CW: D8 9C 93 07 78 18 4D DD
+---FEED-SEPARATOR---
 Adriatic22 said:
 			Eutelsat 7.0 E
 12508 V 4936
