@@ -1,3 +1,16 @@
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+OCC 1 : B6 5A DC EC B9 ED A2 48
+OCC 2 : B7 D1 AD 35 BC 3D AA A3
+OCC 3 : A5 6F BC D0 45 11 22 78
+OCC 4 : 78 BC 2D 61 31 AD BE BC
+Click to expand...
+OCC4: #CW:78 BC 2D 61 31 AD 
+DE
+ BC   #[E] PID:0F01h
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3840 H 30000
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
@@ -52,13 +65,28 @@ Event:
 UEFA Conference League Final — Crystal Palace vs Rayo Vallecano — Fan Zone
 CW: 42 BD 92 91 06 2F 3D 72
 ---FEED-SEPARATOR---
-2026 IIHF Ice Hockey World Championship, SWITZERRLAND
-Hot Bird 13.0E
-12584 V 9700
+Liga ACB
+Basket Zaragoza vs Valencia
+Eutelsat 7A/B ( 7.0E )
+11060 V 7199
+DVB-S2 -
+ 4:2:0
+ - 8PSK
+ID: Fi01 ACB
+CW: : 91 E1 C6 38 DA C8 05 A7
+---FEED-SEPARATOR---
+10971 V 7500 42 E 
+​
 DVB-S2 - 1080P - 8PSK
+​
 4.2.2
-ID:IIHF2026 - ZUR - WF
-CW: 7B CE 2B 74 C6 6A 15 45
+​
+ID:E360 M
+​
+CW: E2 17 69 62 50 E9 E8 21
+​
+Beşiktaş Gain vs Galatasaray MCT Technic
+​
 ---FEED-SEPARATOR---
 Turkish Basketball Super League
 Beşiktaş Gain vs Galatasaray MCT Technic
