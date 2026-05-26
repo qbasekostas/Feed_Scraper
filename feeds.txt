@@ -1,0 +1,96 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3840 H 30000
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+OCC 1 : B6 5A DC EC B9 ED A2 48
+OCC 2 : B7 D1 AD 35 BC 3D AA A3
+OCC 3 : A5 6F BC D0 45 11 22 78
+OCC 4 : 78 BC 2D 61 31 AD BE BC
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7500
+ID: OCC 7
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+CW : B8 7A DC 0E BA 23 DA B7
+---FEED-SEPARATOR---
+CONMEBOL Sudamericana
+Asiasat 5 (100.5°E) C BAND
+3993 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID: OCC 8
+CW: BC 31 11 FE DA 56 43 73
+---FEED-SEPARATOR---
+Press conference to announce Morocco's World Cup 2026 squad
+21.6E
+11580 H 5000
+DVB-S2 4:2:0 8PSK
+ID: MRC004-MAIN
+CW: FE ED 26 11 05 20 26 4B
+---FEED-SEPARATOR---
+2026 UEFA Conference League
+- Final
+Crystal Palace
+vs
+Rayo Vallecano
+May 27 , 2026
+Eutelsat 7A/B ( 7.0E )
+12511 V 7200
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: D 312
+CW
+: FTA
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0E
+11048 V 14400 |
+4:2:2
+ | 8PSK
+ID: 
+Fan Zone
+Event: 
+UEFA Conference League Final — Crystal Palace vs Rayo Vallecano — Fan Zone
+CW: 42 BD 92 91 06 2F 3D 72
+---FEED-SEPARATOR---
+2026 IIHF Ice Hockey World Championship, SWITZERRLAND
+Hot Bird 13.0E
+12584 V 9700
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:IIHF2026 - ZUR - WF
+CW: 7B CE 2B 74 C6 6A 15 45
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Beşiktaş Gain vs Galatasaray MCT Technic
+Hot Bird 13.0E
+10846 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:E360 M
+CW: E2 17 69 62 50 E9 E8 21
+---FEED-SEPARATOR---
+Türksat 3A/4A @ 42.0E
+10982 V 10000 | 4:2:0 | 8PSK | UHD
+ID: 
+E363 4K M
+Event: 
+Turkish Basketbol Süper Ligi Playoffs — Bahçeşehir Koleji vs Trabzonspor
+CW: F3 58 31 7C 6F 2F 52 F0
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Bahçeşehir Koleji vs Trabzonspor
+Hotbird 13B/13C/13G @ ( 13.0E )
+10803 H 7500
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: DT SNG 2 MAIN
+CW: : DD AC 8D 16 AD C7 74 E8
+---FEED-SEPARATOR---
+100.5e
+3860 V 30000
+4:2:0
+ID: NBA NY vs CLE
+NBA - Play Offs
+Cleveland Cavaliers  vs  New York Knicks
+CW: 83 EC 94 03 64 63 20 E7
