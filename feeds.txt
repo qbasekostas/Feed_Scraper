@@ -24,6 +24,15 @@ ID: OCC 4
 CW: : BA D4 66 F4 55 FD 22 74
 Click to expand...
 ---FEED-SEPARATOR---
+28.2E
+12595 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish SWPL Playoff
+Aberdeen v Queens Park
+---FEED-SEPARATOR---
 International Friendly Match
 Bosnia and Herzegovina vs North Macedonia
 Eutelsat 7A/B ( 7.0E )
@@ -173,6 +182,35 @@ ID: ARS-PSG
 CW
 : 
 BA DA 52 E6 82 CA BA 06
+---FEED-SEPARATOR---
+28E
+12703 V 9600 
+4:2:0
+DVBS2 8PSK
+ID G19 E349 Via
+CW: CB CA AA 3F BC B1 CA 37
+MoraBanc Andorra
+ V 
+Barcelona
+---FEED-SEPARATOR---
+Italy Lega A Basket
+Germani Brescia vs Emporio Armani Milano
+Eutelsat 10A @ (10.0E )
+10720 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Encoder 1
+CW: : B2 A8 FE 58 EE B7 49 EE
+---FEED-SEPARATOR---
+Spain Liga ACB
+Eutelsat 7B/7C @ 7.0E
+10986 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Fi01 ACB
+CW: F2 2A 72 8E 6E 38 78 1E
+NOW Black screen
 ---FEED-SEPARATOR---
 Turkish Basketball Super League
 Esenler Erokspor vs Fenerbahce
