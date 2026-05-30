@@ -86,6 +86,14 @@ ID:  GVA_Fi06 (EUROVISION SA)
 #CW:
 FTA (NOW)
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+12654 V 8570 | 4:2:0 | DVB-S2 8PSK
+ID: 
+UKI-1462 - MAIN
+Event: 
+2026 UEFA Champions League Final — Paris Saint-Germain vs. Arsenal (Canal+ Afrique )
+CW: 85 24 BB 64 AC AA 62 B8
+---FEED-SEPARATOR---
 UEFA Champions League - Final
 Eutelsat 3°E
 3845 V/H 30000
