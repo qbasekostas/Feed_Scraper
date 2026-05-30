@@ -1,0 +1,134 @@
+7E
+11179 H 10000
+ 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+International Friendly Match
+Scotland vs Curacao
+---FEED-SEPARATOR---
+International Friendly Match
+Scotland vs Curacao
+Eutelsat 7A/B ( 7.0E )
+11166 H 9998
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Service 01
+CW
+: FTA
+---FEED-SEPARATOR---
+Friendly International
+Scotland VS Curacao
+Eutelsat 7B/7C @ 7.0E
+12632 V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: UKI-1983 Match 1 Main
+CW: 30 F8 B6 DE AC 8F 05 40
+---FEED-SEPARATOR---
+Live Watch from Parc des Princes
+About: UCL Final - PSG vs Arsenal
+8W
+12637 V 7700
+DVB-S2 4:2:0 8PSK
+ID: S3 Paris Gregoire C
+ID: S3-2 Valentin
+FTA
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+12654 V 8570 | 4:2:0 | DVB-S2 8PSK
+ID: 
+UKI-1462 - MAIN
+Event: 
+2026 UEFA Champions League Final — Paris Saint-Germain vs. Arsenal 
+Clear / FTA
+---FEED-SEPARATOR---
+DUBLE POST
+---FEED-SEPARATOR---
+UEFA Champions League - FINAL 2026 
+(Puskás Aréna, Budapest)
+Paris St Germain vs. Arsenal
+Intelsat 10-02 @ 1.0°W
+12647 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: D 312 - Main
+FTA
+---FEED-SEPARATOR---
+madness74 said:
+			need a code.
+Click to expand...
+Switch to 
+BISS-CA
+---FEED-SEPARATOR---
+Red Devils said:
+UEFA Champions League - Final 2026
+Paris St Germain vs Arsenal
+Eutelsat 7A/7B/7C @ 7.0E
+10964 V 16963 | 23/36 | 4:2:2 |
+HDR
+ID: y2-hdr (ESSA)
+1920*1080 | DVB-S2X | 16APSK | SNR: 12.0dB | 41.810Mb/Sec
+#CW:
+FTA (NOW)
+Click to expand...
+need a code.
+---FEED-SEPARATOR---
+UEFA Champions League - Final 2026
+Paris St Germain vs Arsenal
+Eutelsat 7A/7B/7C @ 7.0E
+10982 V 14402 | 3/4 |
+ 4:2:2
+ID:  GVA_Fi06 (EUROVISION SA)
+1920*1080 | DVB-S2 | QPSK-S2 | SNR: 8.8dB | 20.910Mb/Sec
+#CW:
+FTA (NOW)
+---FEED-SEPARATOR---
+UEFA Champions League - Final
+Eutelsat 3°E
+3845 V/H 30000
+ID: SVC CAF VMIX 01
+CW: BC F7 24 D7 05 44 61 AA
+---FEED-SEPARATOR---
+Eutelsat 21B @ 21.6°E
+11666 H 6666 | 4:2:0 | DVB-S2 8PSK
+ID: 
+PSG_INTER
+Event: 
+2026 UEFA Champions League Final — Paris Saint-Germain vs. Arsenal
+CW: AD C1 B5 23 4D 14 CD 2E
+---FEED-SEPARATOR---
+Eutelsat 21B @ 21.6°E
+11658 H 6666 | 4:2:0 | DVB-S2 8PSK
+ID: 
+F419 SATPROD
+Event: 
+2026 UEFA Champions League Final — Paris Saint-Germain vs. Arsenal
+CW: AD C1 B5 23 4D 14 CD 2E
+---FEED-SEPARATOR---
+Eutelsat 21B @ 21.6°E
+11651 H 6666 | 4:2:0 | DVB-S2 8PSK
+ID: 
+PSG_CAM_REPORTER
+Event: 
+2026 UEFA Champions League Final — Paris Saint-Germain vs. Arsenal
+CW: AD C1 B5 23 4D 14 CD 2E
+---FEED-SEPARATOR---
+UEFA Champions League - FINAL
+Paris Saint Germain vs Arsenal
+16.0E
+11104 H 7200 4:2:0
+Id: M6 BUDAPEST
+CW: FC BD 30 E9 05 DB AC 8C
+---FEED-SEPARATOR---
+NBA Playoffs
+Western Conference Finals, Game 7 
+(Series tied 3-3)
+Oklahoma City Thunder vs San Antonio Spurs
+19.2E
+11817 V 31428
+DVB-S2 4:2:0 16APSK
+ID: Astra 1 Service 5
+CW: 77 D4 54 9F 7A 96 4D 5D
