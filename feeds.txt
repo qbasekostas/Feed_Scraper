@@ -43,8 +43,6 @@ Event:
 2026 UEFA Champions League Final — Paris Saint-Germain vs. Arsenal 
 Clear / FTA
 ---FEED-SEPARATOR---
-DUBLE POST
----FEED-SEPARATOR---
 UEFA Champions League - FINAL 2026 
 (Puskás Aréna, Budapest)
 Paris St Germain vs. Arsenal
@@ -86,6 +84,13 @@ ID:  GVA_Fi06 (EUROVISION SA)
 #CW:
 FTA (NOW)
 ---FEED-SEPARATOR---
+ Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)     
+Frequency: 12647 - Pol: H - SR: 7200 - FEC: -
+ | 4:2:0 | DVB-S2 8PSK
+D 312 NAIN
+ PSG-Arsenal
+CW: F4DECB9D49DE638A
+---FEED-SEPARATOR---
 Eutelsat 7A/7B @ 7.0°E
 12654 V 8570 | 4:2:0 | DVB-S2 8PSK
 ID: 
@@ -93,6 +98,9 @@ UKI-1462 - MAIN
 Event: 
 2026 UEFA Champions League Final — Paris Saint-Germain vs. Arsenal (Canal+ Afrique )
 CW: 85 24 BB 64 AC AA 62 B8
+Reported
+video: fta
+audio encrypted
 ---FEED-SEPARATOR---
 UEFA Champions League - Final
 Eutelsat 3°E
