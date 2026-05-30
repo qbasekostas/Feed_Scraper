@@ -84,13 +84,6 @@ ID:  GVA_Fi06 (EUROVISION SA)
 #CW:
 FTA (NOW)
 ---FEED-SEPARATOR---
- Intelsat 10-02 / Thor 5 - 6 - 7 (0.8°W)     
-Frequency: 12647 - Pol: H - SR: 7200 - FEC: -
- | 4:2:0 | DVB-S2 8PSK
-D 312 NAIN
- PSG-Arsenal
-CW: F4DECB9D49DE638A
----FEED-SEPARATOR---
 Eutelsat 7A/7B @ 7.0°E
 12654 V 8570 | 4:2:0 | DVB-S2 8PSK
 ID: 
@@ -138,6 +131,18 @@ Paris Saint Germain vs Arsenal
 11104 H 7200 4:2:0
 Id: M6 BUDAPEST
 CW: FC BD 30 E9 05 DB AC 8C
+---FEED-SEPARATOR---
+Basketbol Süper Ligi, Playoffs
+Quarterfinals, Game 3 
+(Series tied 1-1)
+Beşiktaş J.K. vs Galatasaray S.K.
+42E
+10972 V 7500
+DVB-S2 
+4:2:2
+ 8PSK
+ID: TUR139-Main
+CW: 23 FF 58 7A 90 37 CD 94
 ---FEED-SEPARATOR---
 NBA Playoffs
 Western Conference Finals, Game 7 
