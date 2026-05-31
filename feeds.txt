@@ -1,3 +1,10 @@
+13.0°E
+12552 H 7200
+4:2:2
+ID: ITA 864 (B)
+CW: DD AB DB 63 BA 32 43 2F
+Italy - Turkey
+---FEED-SEPARATOR---
 28.2E
 12613 H 7120 
 4:2:0
@@ -196,6 +203,16 @@ ID: INTER PARIS T EIFFEL
 4:2:0
 83 80 A3 AF 9C 69 D0 93  #[E] PID:0200h
 Found CW: DB C5 A1 41 4D 41 CD 5B
+---FEED-SEPARATOR---
+African Basketball Super League
+Tigers BBC vs Atlético Petróleos de Luanda
+Eutelsat 10A @ (10.0E )
+10780 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: BAL AFR
+CW: : 2D 7A 9C 43 1B 3F 68 C2
 ---FEED-SEPARATOR---
 Liga ACB
 Barcelona vs Valencia
