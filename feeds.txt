@@ -70,27 +70,33 @@ ID: ECUADOR vs SAUDI ARABIA
 CW
 : FTA
 ---FEED-SEPARATOR---
-Ozan said:
-			16.0E
+International Football Friendly
+Cape Verde 
+ Serbia 
+C_Eutelsat 3.1°E(Cband) 
+3819 H 7200 - 4.2.0
+ID: SINTRA 2 MN
+CW: 4F 9E 2D 1A A3 7C 1B 3A
+---FEED-SEPARATOR---
+International Friendly Match
+Cape Verde vs Serbia
+Eutelsat 10A @ ( 10.0E )
+11305 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: SINTRA 1BK
+CW: : 4F 9E 2D 1A A3 7C 1B 3A
+---FEED-SEPARATOR---
+16.0E
 11016 V 9875
 | 
 4:2:2
  | DVB-S2 8PSK
 ID: HOL -110 MAIN 
 Event: 
-International Football Friendly
-CW: 31 F8 B6 DF AC 8F 05 40
-Click to expand...
+International Football Friendly 
 Germany v Finland
----FEED-SEPARATOR---
-16.0E 
-11016 V 9875 
-| 
-4:2:2
- | DVB-S2 8PSK
-ID: HOL -110 MAIN 
-Event: 
-International Football Friendly
 CW: 31 F8 B6 DF AC 8F 05 40
 ---FEED-SEPARATOR---
 Poland​
@@ -118,7 +124,8 @@ Eutelsat 7A/7B @ 7.0°E
 ID: 
 GVA_Fi01_NTF_M2
 Event: 
-International Football Friendly — Switzerland vs. Jordan 
+International Football Friendly — 
+Germany vs Finland
 CW: 31 F8 B6 DF AC 8F 05 40
 ---FEED-SEPARATOR---
 International Football Friendly
@@ -172,6 +179,15 @@ Eutelsat 3.1°E Cband
 ID: SVC CAF VMIX 01
 #FTA
 ---FEED-SEPARATOR---
+Paris Saint-Germain celebrations In 2026 UEFA Champions League 
+Paris Saint-Germain stadium 
+Eutelsat 3.1°E
+10968 H 7500 4.2.0
+ID: F419_ MENA_ BT_ES
+10978 H 7500 - 4.2.0
+ID: F419_BEAUTY 
+CW: C1 DA 5B F6 DC 14 AD 9D
+---FEED-SEPARATOR---
 (Champions League) Champ-de-Mars 
 Paris Saint Germain celebrations
 3.1E
@@ -180,6 +196,31 @@ ID: INTER PARIS T EIFFEL
 4:2:0
 83 80 A3 AF 9C 69 D0 93  #[E] PID:0200h
 Found CW: DB C5 A1 41 4D 41 CD 5B
+---FEED-SEPARATOR---
+Liga ACB
+Barcelona vs Valencia
+Eutelsat 7A/B ( 7.0E )
+11014 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi01 ACB
+CW: : E9 BB BF 63 4D 0B 46 9E
+---FEED-SEPARATOR---
+FaDeL® said:
+			EUTELSAT 10A (10°E)
+Fréq:10769 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: BAL INT
+African Basketball Super League
+found CW: 9B 3C 1F F6 7A 6D 24 0B 
+Click to expand...
+#Play_now
+Africa
+, 
+BAL - Play Offs - Final
+Petro Atletico
+RSSB Tigers
 ---FEED-SEPARATOR---
 EUTELSAT 10A (10°E)
 Fréq:10769 - H - 7200
