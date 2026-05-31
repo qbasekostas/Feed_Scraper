@@ -1,20 +1,202 @@
+28.2E
+12613 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish Junior Cup Final
+Largs Thistle v Auchinleck Talbot
+---FEED-SEPARATOR---
+7E
+11179 H 10000
+ 4:2:0
+DVB-S2 8PSK
+ID: Uki-1592
+SCOTTISH CUP WOMEN - FINAL
+Rangers
+ v 
+Celtic
+---FEED-SEPARATOR---
+7E
+11167 H 10000
+ 4:2:0
+DVB-S2 8PSK
+ID: Service01
+SCOTTISH CUP WOMEN - FINAL
+Rangers
+ v
+Celtic
+---FEED-SEPARATOR---
+FA Cup Women  
+19.2E
+- Name:           WFA Cup-CH4 (UKI-1867)
+- Freq: 11559,751
+- Pol: Vertical
+- SR: 7502,071
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+2A B1 D7 E2 54 00 37 CE 
+CW: DD 45 CD EF 68 EF 31 88
+----
+- Name:           WFA Cup-W B/UP (UKI-1867)
+- Freq: 11572,648
+- Pol: Vertical
+- SR: 7502,071
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+Found CW: EF 32 DE FF 45 FF 12 56
+---FEED-SEPARATOR---
+19.2°E
+11435 V 15000 DVB-S2 8PSK
+MPEG 4 - 
+4:2:2
+ - HDTV
+ID: unnamed
+CW: F5 0E D4 D7 8D DF 77 E3
+FA Cup Women Final
+Brighton v Manchester City
+kick off at 3pm BST on Sunday 31 May at Wembley Stadium
+---FEED-SEPARATOR---
 International Friendly Match
 Saudi Arabia vs Ecuador
-Eutelsat 7A/B ( 7.0E )
-12655 V 7199
+Eutelsat 21B @ ( 21.6E )
+12593 H 7199
 DVB-S2 - 
 4:2:0 
 - 8PSK
-ID: Fi20_GNVE
-CW: : FD 7D 00 7A E0 1A 81 7B
----FEED-SEPARATOR---
-UEFA Champions League - FINAL 2026
-Post-match press conference
-Eutelsat 7A/B ( 7.0E )
-10996 H 11240
-DVB-S2 -
- 4:2:0
- - 8PSK
-ID: Fi01_GBGRM
+ID: ECUADOR vs SAUDI ARABIA
 CW
 : FTA
+---FEED-SEPARATOR---
+Ozan said:
+			16.0E
+11016 V 9875
+| 
+4:2:2
+ | DVB-S2 8PSK
+ID: HOL -110 MAIN 
+Event: 
+International Football Friendly
+CW: 31 F8 B6 DF AC 8F 05 40
+Click to expand...
+Germany v Finland
+---FEED-SEPARATOR---
+16.0E 
+11016 V 9875 
+| 
+4:2:2
+ | DVB-S2 8PSK
+ID: HOL -110 MAIN 
+Event: 
+International Football Friendly
+CW: 31 F8 B6 DF AC 8F 05 40
+---FEED-SEPARATOR---
+Poland​
+vs.​
+Ukraine​
+Eutelsat 16A @ ( 16.0E )
+10975 V 9600 
+DVB-S2 - 4:2:2 - 8PSK
+ID: PO
+L-030
+CW: AB BA 26 8B DC AE 05 8F
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11022 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+E-228 Main
+Event: 
+2026 Maurice Revello Tournament (Toulon) — Group A: China U20 vs. Saudi Arabia U23 / DR Congo U20 vs. Tunisia U20
+CW: 23 E4 29 30 9A 24 5E 1C
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11083 V 14400 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+GVA_Fi01_NTF_M2
+Event: 
+International Football Friendly — Switzerland vs. Jordan 
+CW: 31 F8 B6 DF AC 8F 05 40
+---FEED-SEPARATOR---
+International Football Friendly
+Switzerland vs Jordan
+Eutelsat 7A/7B/7C @ 7.0E
+11096 Horizontal 7200.131 | 3/4 | 4:2:0
+ID: GVA_Fi03_NTF_M1_VBR (EUROVISION SA)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 16.049Mb/Sec
+99 C8 BA 64 11 1F CD C3  #CW:
+FC 60 4A A6 8F A3 2C 5E
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11018 H 14400 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+POL-102 Backup M04 EUROPE
+Event: 
+International Football Friendly — Poland vs. Ukraine 
+CW: 31 F8 B6 DF AC 8F 05 40
+---FEED-SEPARATOR---
+Int. Friendly Games
+Czechia vs Kosovo
+Eutelsat 7B/7C @ 7.0E
+11000 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: CZE-012-MATCH03-BACKUP
+CW: 31 F8 B6 DF AC 8F 05 40
+---FEED-SEPARATOR---
+Int. Friendly Games
+Switzerland vs Jordan
+Eutelsat 7B/7C @ 7.0E
+10963 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:SUI76-2 M1 BKP
+CW: 31 F8 B6 DF AC 8F 05 40
+---FEED-SEPARATOR---
+100.5e
+4107 H 7500
+4:2:0
+ID: KOREA SOCCER TX1
+Friendly International
+South Korea  vs  Trinidad & Tobago
+CW: 21 2B 34 80 7A 64 6C 4A
+---FEED-SEPARATOR---
+UEFA Champions League, Paris Saint-Germain celebrations 
+Eutelsat 3.1°E Cband 
+3845 H 30000 - 4.2.0
+ID: SVC CAF VMIX 01
+#FTA
+---FEED-SEPARATOR---
+(Champions League) Champ-de-Mars 
+Paris Saint Germain celebrations
+3.1E
+10986 H 7500
+ID: INTER PARIS T EIFFEL
+4:2:0
+83 80 A3 AF 9C 69 D0 93  #[E] PID:0200h
+Found CW: DB C5 A1 41 4D 41 CD 5B
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10769 - H - 7200
+MPEG 4 - 4:2:0 - DVB-S2
+ID: BAL INT
+African Basketball Super League
+found CW: 9B 3C 1F F6 7A 6D 24 0B 
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3860 V 30000
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:NBA SA vs OKC
+CW: 83 EC 94 03 64 63 20 E7
+AhmedCeNa said:
+NBA Playoffs
+Western Conference Finals, Game 7 
+(Series tied 3-3)
+Oklahoma City Thunder vs San Antonio Spurs
+Click to expand...
