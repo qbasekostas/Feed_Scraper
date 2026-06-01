@@ -1,0 +1,132 @@
+Eutelsat 7A/7B @ 7.0°E
+10964 H 14400 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+BUL007 FM M1 Main
+Event: 
+International Football Friendly — Bulgaria vs. Montenegro
+CW: 01 F8 B6 AF AC 8F 06 41
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+10982 H 14400 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+SLQ-010 BU
+Event: 
+International Football Friendly — Slovakia vs. Malta
+CW: 01 F8 B6 AF AC 8F 06 41
+---FEED-SEPARATOR---
+DUBLE POST
+---FEED-SEPARATOR---
+International Football Friendly
+Slovakia vs Malta
+Eutelsat 7A/B ( 7.0E )
+12650 H 7199
+DVB-S2 -
+ 4:2:0
+ - 8PSK
+ID: HUN-010 - 1 - M12
+CW: : 13 57 AB 15 CD 24 68 59
+---FEED-SEPARATOR---
+International Football Friendly
+Austria vs. Tunisia
+Eutelsat 7A/7B/7C @ 7.0E
+12703 Vertical 7500.142 | 3/4 | 4:2:0
+ID:  STV Feed 3 (RedBull MediaHouse)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 16.718Mb/Sec
+CW: 32 CA BD B9 52 43 AC 41
+---FEED-SEPARATOR---
+International Football Friendly 
+Austria vs. Tunisia
+Eutelsat 7A/7B/7C @ 7.0E
+12694 Vertical 7500.142 | 3/4 | 4:2:0
+ID: FB_AUT-TUN (RBMH)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.3dB | 16.718Mb/Sec
+CW: 32 CA BD B9 52 43 AC 41
+---FEED-SEPARATOR---
+Int. Friendly Games
+Türkiye vs North Macedonia 
+Eutelsat 7B/7C @ 7.0E
+11065  V 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: SLQ-010 Main
+CW: 01 F8 B6 AF AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly 
+Norway 
+ Sweden 
+Eutelsat 16.0°E
+11015 V 9876 - 4.2.2
+ID: NOR_044-1-
+CW: 01 F8 B6 AF AC 8F 06 41
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11048 V 14400 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+AUT34M/M-5
+Event: 
+International Football Friendly — Austria vs. Tunisia 
+CW: 01 F8 B6 AF AC 8F 06 41
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11000 H 14400 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+GVA_Fi01_NTF_M03
+Event: 
+International Football Friendly — Norway vs. Sweden 
+CW: 01 F8 B6 AF AC 8F 06 41
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11018 H 14400 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+TUR-057 MAIN
+Event: 
+International Football Friendly — Turkey vs. North Macedonia (Şükrü Saracoğlu Stadium, Istanbul )
+CW: 01 F8 B6 AF AC 8F 06 41
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11065 V 14400 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+SLQ-010 BU
+Event: 
+International Football Friendly — Slovakia vs. Malta 
+CW: 01 F8 B6 AF AC 8F 06 41
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+10985 V 9600
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: POL-141 ENC1
+Event: 
+FIBA 3x3 WORLD CUP 2026
+CW: 01 06 26 2D CA E1 41 EC
+---FEED-SEPARATOR---
+Hot Bird 13F/13G @ 13.0°E
+10829 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+GCUK Enc 3
+Event: 
+Basketball — FIBA Official Draw Ceremony 
+CW: AB CD 1A 92 3B 56 43 D4
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Fenerbahce vs Anadolu Efes
+Hotbird 13B/13C/13G @ ( 13.0E )
+10829 H 7500
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: DT SNG 2 MAIN
+CW: : 69 7C 34 19 87 68 6A 59
