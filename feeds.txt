@@ -1,0 +1,187 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3945 H 7200
+ID : NANJING-M
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 39 4A BA 3D F9 F3 BA A6
+---FEED-SEPARATOR---
+International Football Friendly
+DR Congo vs Denmark
+Thor 5/6/7 & Intelsat 10-02 @ 0.8W
+11489 Vertical 7200.054 | 3/4 | 4:2:2
+ID: DNK131 Test ENC2 (Eastproduction)
+1920*1080 | DVB-S2 | 8PSK | SNR: 8.4dB | 16.049Mb/Sec
+CW: FTA
+---FEED-SEPARATOR---
+International Football Friendly
+DR Congo vs Denmark
+Thor 5/6/7 & Intelsat 10-02 @ 0.8W
+11476 Vertical 14400.131 | 3/4 | 4:2:2
+ID: DNK131 test Main (Eastproduction)
+1920*1080 | DVB-S2 | 8PSK | SNR: 7.7dB | 32.098Mb/Sec
+CW: FTA
+---FEED-SEPARATOR---
+International Football Friendly
+DR Congo 
+ Denmark
+C_Eutelsat ( 3.1°E ) Cband 
+4107 H 14400
+DVB-S2 - 4:2:0 - 8PSK
+ID: Enc-3 Multi-link.tv 
+CW: FTA
+---FEED-SEPARATOR---
+International Football Friendly
+Poland vs Nigeria
+Eutelsat 16A @ 16.0E
+10973 Vertical 9600.032 | 3/4 | 
+4:2:2
+ID: pol-053_enc2 (Harmonic)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 21.398Mb/Sec
+CW: AB BA 26 8B DC AE 06 90
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11126 V 14400 | 4:2:0 | DVB-S2 8PSK
+ID: 
+ITA vs LUX RAI
+Event: 
+International Football Friendly — Italy vs. Luxembourg (RAI Host Broadcast Main Feed)
+CW: 75 7C FC ED 07 B6 98 55
+---FEED-SEPARATOR---
+ International Friendly Games
+​
+Luxembourg
+​
+vs. 
+​
+Italy 
+​
+​
+16.0E 
+11016 V 9875 |4:2:2 | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID:  HOL-241-2D2M
+CW: 03 F8 B6 B1 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Poland vs Nigeria
+Eutelsat 7A/B ( 7.0E )
+11047 V 14400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: POL-142  Backup M05 Europe
+CW: : 03 F8 B6 B1 AC 8F 06 41
+---FEED-SEPARATOR---
+Mo_ha said:
+women's friendly match
+China vs Russia
+Eutelsat 7A/B ( 7.0E )
+11597 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Unname
+CW: : DD 03 20 00 26 06 CA F6
+Click to expand...
+100.E
+3808 H 7200
+---FEED-SEPARATOR---
+Friendly International
+Netherlands vs. Algeria
+Eutelsat 7B/7C @ 7.0°E
+11018 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: 2Sat HOL318-2 MD2 M4
+CW: 03 F8 B6 B1 AC 8F 06 41
+---FEED-SEPARATOR---
+women's friendly match
+China vs Russia
+Eutelsat 7A/B ( 7.0E )
+11597 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Unname
+CW: : DD 03 20 00 26 06 CA F6
+---FEED-SEPARATOR---
+Friendly International
+Albania vs 
+Eutelsat 7A/B ( 7.0E )
+11000 H 14400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: BUL007 FM M03 Back
+CW: : 03 F8 B6 B1 AC 8F 06 41
+---FEED-SEPARATOR---
+Friendly International
+Luxembourg vs. Italy
+Eutelsat 7B/7C @ 7.0°E
+11066 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: HOL-241-2-D1BU
+CW: 03 F8 B6 B1 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+DR Congo vs Denmark
+Eutelsat 7A/B ( 7.0E )
+10982 H 14400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: BEL095 - ENC1 - M2
+CW: : 03 F8 B6 B1 AC 8F 06 41
+---FEED-SEPARATOR---
+Friendly International
+Gibraltar vs. British Virgin Islands
+Eutelsat 7B/7C @ 7.0°E
+10964 - H - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: E-073 MAIN
+CW: 03 F8 B6 B1 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Poland vs Nigeria
+Eutelsat 16A @ ( 16.0E )
+11006 V 7500
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: POL086 
+CW: : 77 93 52 5C 99 08 86 27
+---FEED-SEPARATOR---
+LBA Serie A Playoffs
+EA7 EMPORIO ARMANI MILANO vs GERMANI BRESCIA
+Eutelsat 10A @ (10.0E )
+10722 H 7199 
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Encoder 1
+CW: : 56 48 7E 1C 76 2B F3 94
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Fenerbahce vs Anadolu Efes
+Hotbird 13B/13C/13G @ ( 13.0E )
+10829 V 7500
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: DT SNG 2 MAIN
+CW: : 4A C5 B2 C1 F9 FD 7C 72
+---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+10959 V 7200
+DVB-S2/8PSK (4:2:0)
+ID: Fi01 ACB
+Event: 
+LIGA ACB - Valencia vs Bilbao
+CW: E1 6C 15 62 AC DF 57 E2
