@@ -4,6 +4,24 @@ ID : NANJING-M
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW : 21 35 EC 42 92 91 CB EE
 ---FEED-SEPARATOR---
+International Football Friendly
+Spain vs Iraq
+Hispasat 30W-5/30W-6 @ 30.0W
+11681 Vertical 10000.032 | 3/4 | 4:2:0
+ID: E342 FEED 2 (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 13.0dB | 22.290Mb/Sec
+#CW: 
+FTA
+---FEED-SEPARATOR---
+International Football Friendly
+Spain vs. Iraq
+Hispasat 30W-5/30W-6 @ 30.0W
+11670 Vertical 10000.032 | 3/4 | 4:2:0
+ID: E342 FEED 1 (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 22.290Mb/Sec
+#CW:  
+FTA
+---FEED-SEPARATOR---
 Friendly International
 France vs. Ivory Coast
 Eutelsat 8 West B @ 8.0°W
@@ -91,6 +109,51 @@ GVA_Fi03_NTF_M2_VBR
 Event: 
 International Football Friendly — Sweden vs. Greece 
 CW: 7C 0B 6A F1 D2 A8 C2 3C
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11097 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Fi20_GNVE
+Event: 
+Test for Brazil vs Egypt (International Friendly)
+CW: 3D FC 29 62 C0 30 6B 5B
+---FEED-SEPARATOR---
+Spain ACB - Play Offs - Quarter-finals
+Tenerife - Real Madrid
+Eutelsat 7A/7B/7C @ 7.0E
+11070 Vertical 7200.054 | 3/4 | 4:2:0
+ID: Fi02_ACB (CM5000)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.8dB | 16.049Mb/Sec
+CW: EE B5 E8 8B F0 DA CA 94
+---FEED-SEPARATOR---
+Italy Lega A - Play Offs - Semi-finals
+Venezia - Virtus Bologna
+Eutelsat 10A @ 10.0E
+10720 Horizontal 7200.065 | 3/4 | 4:2:0
+ID:   Encoder 1 (Infront Italy)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 16.049Mb/Sec
+CW: C4 5A F1 0F AE BD 39 A4
+---FEED-SEPARATOR---
+Red Devils said:
+CW: 1F CB B1 9B F4 C9 C1 7E
+Click to expand...
+Turkish Basketball Super League
+Besiktas - Bahcesehir Kol.
+Turksat 3A/4A ( 42.0E )
+10984 V 7498
+ID: TUR139-Main
+DVB-S2 - 
+4:2:2
+ - 8PSK
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Besiktas - Bahcesehir Kol.
+Hot Bird 13B/13C/13E @ 13.0E
+10829 Vertical 7500.032 | 3/4 | 
+4:2:2
+ID: TUR139-Main (HD-PROTEK)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 16.718Mb/Sec
+CW: 1F CB B1 9B F4 C9 C1 7E
 ---FEED-SEPARATOR---
 Europe AdmiralBet ABA League - Play Offs - Final 
 Dubai - Partizan Mozzart Bet
