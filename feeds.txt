@@ -1,0 +1,122 @@
+AsiaSat 5 - 100.5 E - CBand
+TP : 3945 H 7200
+ID : NANJING-M
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 21 35 EC 42 92 91 CB EE
+---FEED-SEPARATOR---
+Friendly International
+France vs. Ivory Coast
+Eutelsat 8 West B @ 8.0°W
+12714 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SOS TF1 FOOT FRANCE VS COTE
+CW: FE ED 20 0B 26 10 37 6D
+---FEED-SEPARATOR---
+International Football Friendly
+France vs Côte d'Ivoire
+Eutelsat 7A/B ( 7.0E )
+10998 V 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: F634/5/MATCH_06/MAIN
+CW: : 04 F8 B6 B2 AC 8F 06 41
+---FEED-SEPARATOR---
+Friendly International
+Spain vs. Iraq
+Eutelsat 7B/7C @ 7.0°E
+11009 - V - 9875 
+|
+4:2:0 
+| H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: E386 FEED 1
+CW: 04 F8 B6 B2 AC 8F 06 41
+---FEED-SEPARATOR---
+Friendly International
+Sweden vs. Greece
+Eutelsat 7B/7C @ 7.0°E
+11021 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: SWE-043 - 3 - BACKUP
+CW: 04 F8 B6 B2 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Andorra - Liechtenstein
+Eutelsat 7A/7B/7C @ 7.0E
+10999 Horizontal 14400.131 | 3/4 | 
+4:2:2
+ID: ANDORRA LIECHTENSTEIN M (OVERON)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 32.098Mb/Sec
+CW: 04 F8 B6 B2 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Northern Ireland - Guinea
+Eutelsat 7A/7B/7C @ 7.0E
+10982 Horizontal 14400.109 | 3/4 | 
+4:2:2
+ID: E393 PATH1 (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 32.098Mb/Sec
+CW: 04 F8 B6 B2 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Slovenia - Cyprus
+Eutelsat 7A/7B/7C @ 7.0E
+10963 Horizontal 14400.109 | 3/4 | 
+4:2:2
+ID: UKI-1462 - BKP (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 32.098Mb/Sec
+CW: 04 F8 B6 B2 AC 8F 06 41
+---FEED-SEPARATOR---
+Eutelsat 3C @ 3.1° E
+Fréq:3976 - L - 14809
+MPEG 4 - 4:2:2 - DVB-S2
+ID: GVA_Fi02
+Friendly International
+France vs Ivory Coast
+CW: 4B 07 A5 F7 F6 76 EE 5A
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11048 V 14400 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+GVA_Fi03_NTF_M2_VBR
+Event: 
+International Football Friendly — Sweden vs. Greece 
+CW: 7C 0B 6A F1 D2 A8 C2 3C
+---FEED-SEPARATOR---
+Europe AdmiralBet ABA League - Play Offs - Final 
+Dubai - Partizan Mozzart Bet
+Eutelsat 7A/7B/7C @ 7.0E
+11606 Vertical 7500.054 | 3/4 | 4:2:0
+ID: ABBA (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 16.718Mb/Sec
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+American Professional Basketball League (Game 1)
+NY - New York Knicks Vs. SA - San Antonio Spurs
+21.6E
+- Name:           FRBEIN_ENC_01 (EUROVISION SA)
+- Freq: 11658,179
+- Pol: Horizontal
+- SR: 6667,902
+- Mod: QPSK-S2
+- FEC: 3/4
+- Std: DVB-S2
+75 D4 50 20 F8 7C 85 D2  
+CW: C2 D1 5E F1 A1 4B 5D 49
+---FEED-SEPARATOR---
+Spain ACB - Play Offs - Quarter-finals 
+Barcelona - Murcia
+Eutelsat 7A/7B/7C @ 7.0E
+11061 Vertical 7199.924 | 3/4 | 4:2:0
+ID:  Fi01 ACB (CM5000)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 16.047Mb/Sec
+CW: EE B5 E8 8B F0 DA CA 94
