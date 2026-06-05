@@ -1,4 +1,14 @@
 CEV Volleyball European League 2026
+Finland vs Austria
+Eutelsat 7A/B ( 7.0E )
+12740 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Volleyball
+CW: : A0 50 62 52 0A 20 26 50
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
 Eutelsat 7A/7B/7C @ 7.0E
 12674 Horizontal 7200.328 | 3/4 | 4:2:0
 ID: MediaLink CRO-023/1 (Media Link)
@@ -37,6 +47,14 @@ ID: SLQ-005 MAIN (SLQ-005)
 1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 16.049Mb/Sec
 #CW: 
 FTA
+---FEED-SEPARATOR---
+FIFA/UEFA Womens WC 2027 Qualifiers
+Germany
+Norway
+Eutelsat 7°E
+12647 V 7120 - 4.2.0
+ID: Pitch World Cup Getmany V N
+CW: FTA
 ---FEED-SEPARATOR---
 1W
 11483 V 9600 
@@ -215,6 +233,31 @@ ID: Friendly Gua vs Czec (Service Provider)
 1920*1080 | DVB-S2 | 8PSK | SNR: 12.5dB | 37.185Mb/Sec
 CW: 42 53 96 2B 85 06 04 8F
 ---FEED-SEPARATOR---
+FIFA/UEFA Womens WC 2027 Qualifiers
+Germany
+Norway
+Thor 0.8°W
+11499 V 9875 - 4.2.0
+ID: D-413 DFB Cologe
+CW: 17 11 12 3A 96 2A 23 E3
+---FEED-SEPARATOR---
+European Qualifier FIFA Womens World Cup  2027
+Belgium
+ Luxembourg
+Eutelsat 7°E
+11089  V 7120 4.2.0
+ID: Pitch World cup Belgium v Luxembourg
+CW: 3D C8 9F A4 A4 B2 1E 74
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A 
+Spain W -  England W
+Hot Bird 13B/13C/13E @ 13.0E
+12596 Vertical 7120.153 | 3/4 | 
+4:2:2
+ID: E-96 FEED 1 (Overon)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.0dB | 15.870Mb/Sec
+CW: AC 39 BD A2 1A 57 19 8A
+---FEED-SEPARATOR---
 1W
 11473 V 7200 
 4.2.0
@@ -225,6 +268,35 @@ FIFA/UEFA Womens WC 2027 Qualifiers
 Ireland
  v 
 Netherlands
+---FEED-SEPARATOR---
+Super Lig - Play Offs - Semi-finals
+Anadolu Efes - Fenerbahce
+Hot Bird 13B/13C/13E @ 13.0E
+10829 Vertical 7500.131 | 3/4 | 
+4:2:2
+ID:  TUR 112 MAIN (MEDÄ°APRO TURKEY)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 16.718Mb/Sec
+CW: ED 6E CF 2A 70 4F 8A 49
+---FEED-SEPARATOR---
+LBA Serie A Playoffs
+EA7 EMPORIO ARMANI MILANO vs GERMANI BRESCIA
+Eutelsat 7A/B ( 7.0E )
+11522 V 7199 
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Encoder 1
+CW: : 2E DB 67 70 AC 84 67 97
+---FEED-SEPARATOR---
+Liga, ACB
+Joventut vs Baskonia
+Eutelsat 7A/B ( 7.0E )
+11096 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi02_ACB
+CW: : DE 71 65 B4 51 13 3D A1
 ---FEED-SEPARATOR---
 Algerian Basketball League 
 Widad Adabi Boufarik 
