@@ -1,8 +1,185 @@
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+12674 Horizontal 7200.328 | 3/4 | 4:2:0
+ID: MediaLink CRO-023/1 (Media Link)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 16.049Mb/Sec
+CW: DC AA FF 85 EE 05 06 F9
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+11526 Horizontal 7200.164 | 3/4 | 4:2:0
+ID: LAT-001 M (LTV)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 16.049Mb/Sec
+CW: 44 A4 76 5E F8 B8 D9 89
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/B ( 7.0E )
+10968 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: HUN-013 Line 1
+CW: : DE 33 E8 F9 1C 9E 4E 08
+---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3945 H 7200
+ID : NANJING-M
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+Click to expand...
+ New CW : CBCD47DF717FC9B9
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League B 
+Slovakia W - Finland W
+Thor 5/6/7 & Intelsat 10-02 @ 0.8W
+10991 Vertical 7200.142 | 3/4 | 4:2:0
+ID: SLQ-005 MAIN (SLQ-005)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 16.049Mb/Sec
+#CW: 
+FTA
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League B
+Czech Republic W - Albania W
+Eutelsat 16A @ 16.0E
+11051 Horizontal 4800.082 | 3/4 | 
+4:2:2
+ID: CZE 001/2 (CTV)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 10.699Mb/Sec
+#CW:
+FTA
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A 
+Denmark W - Sweden W
+Eutelsat 7A/7B/7C @ 7.0E
+10961 Vertical 9875.043 | 3/4 | 
+4:2:2
+ID: DNK83_enc1 (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 22.011Mb/Sec
+CW: 60 95 2E 23 E1 79 DE 38
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League C 
+Azerbaijan W  - Hungary W
+AzerSpace 1 (Africasat 1a) @ 46.0E
+11056 Horizontal 4999.99 | 3/4 | 
+4:2:2
+ID: AZE-013_MAIN_CHAIN (AZTV SNG)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 11.143Mb/Sec
+CW: 3B D7 27 39 7E 5F B7 94
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League B 
+Montenegro W - Wales W
+Eutelsat 7A/7B/7C @ 7.0E
+12648 Horizontal 7200.098 | 3/4 | 4:2:0
+ID:  YSM-021M (DSNG)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 16.049Mb/Sec
+CW: DD 13 20 10 26 06 CA F6
+---FEED-SEPARATOR---
+28.2E
+12613 V 9875 
+4:2:2
+DVB-S2 - 8PSK
+ID KNVB Women-Ireland v Netherlands
+CW: DA B2 EF 7B 4A D6 3B 5B
+FIFA/UEFA Womens WC 2027 Qualifiers
+Ireland v Netherlands
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A
+Poland W - France W
+Eutelsat 16A @ 16.0E
+10972 Vertical 9600.175 | 3/4 | 
+4:2:2
+ID:  POL 48 ENC1 (*unnamed-348*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 21.398Mb/Sec
+CW: 26 06 05 31 CA E0 48 F2
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A 
+Poland W - France W
+Eutelsat 16A @ 16.0E
+11102 Horizontal 7200.142 | 2/3 | 4:2:0
+ID:  F560 (SNGLIVE)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 14.263Mb/Sec
+CW: BD FC 05 BE 06 AA DF 8F
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+12647 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Fi10_GNVE
+Event: 
+International Football Friendly
+Thailand - Kuwait
+CW: 88 20 50 F8 70 1B 4F DA
+---FEED-SEPARATOR---
+Friendly International
+Azerbaijan vs. Malta
+Eutelsat 7B/7C @ 7.0°E
+11066 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: HUN-022-2 UNLM
+CW: 05 F8 B6 B3 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Hungary vs Finland
+Eutelsat 7A/B ( 7.0E )
+11047 V 14400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: UKU-1324-2 - M05
+CW: : 05 F8 B6 B3 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+San Marino - Bangladesh
+Eutelsat 7A/7B/7C @ 7.0E
+11018 Horizontal 14400.306 | 3/4 | 
+4:2:2
+ID: ITA198 M4 NTF EU BCKP (Elpitel)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 32.098Mb/Sec
+CW: 05 F8 B6 B3 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Moldova v Bulgaria
+Eutelsat 7A/7B/7C @ 7.0E
+10999 Horizontal 14400.328 | 3/4 | 
+4:2:2
+ID: ROU-015 - 2 - M3 (Eurovision)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 32.098Mb/Sec
+CW: 05 F8 B6 B3 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Slovakia  - Montenegro
+Eutelsat 7A/7B/7C @ 7.0E
+10982 Horizontal 14400.328 | 3/4 | 
+4:2:2
+ID: SLQ-010 BU (ONmedia)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 32.098Mb/Sec
+CW: 05 F8 B6 B3 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Belarus - Syria
+Eutelsat 7A/7B/7C @ 7.0E
+11083 Horizontal 14400.328 | 3/4 | 
+4:2:2
+ID: BER-004 - 2 (BYSTOL)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 32.098Mb/Sec
+CW: 05 F8 B6 B3 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Georgia - Bahrain
+Eutelsat 7A/7B/7C @ 7.0E
+Georgia - Bahrain
+10963 Horizontal 14400.328 | 3/4 | 
+4:2:2
+ID: E 360 B (MEDIAPORO TURKEY)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 32.098Mb/Sec
+CW: 05 F8 B6 B3 AC 8F 06 41
+---FEED-SEPARATOR---
 International Football Friendly
 Czech Republic - Guatemala
-Eutelsat 7A/7B/7C @ 7.0E
-11018 Horizontal 14400.109 | 3/4 | 
-4:2:2
-ID: GVA_Fi07 (EUROVISION SA)
-1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 32.098Mb/Sec
-CW: 04 F8 B6 B2 AC 8F 06 41
+Eutelsat 10A @ 10.0E
+10757 Vertical 15000.087 | 5/6 | 4:2:0
+ID: Friendly Gua vs Czec (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.5dB | 37.185Mb/Sec
+CW: 42 53 96 2B 85 06 04 8F
