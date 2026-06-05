@@ -38,6 +38,26 @@ ID: SLQ-005 MAIN (SLQ-005)
 #CW: 
 FTA
 ---FEED-SEPARATOR---
+1W
+11483 V 9600 
+4.2.0
+DVBS-2 8PSK
+ID: RTE IRL v Neth
+FIFA/UEFA Womens WC 2027 Qualifiers
+Ireland
+ v 
+Netherlands
+---FEED-SEPARATOR---
+28.2E
+12645 V 5000 
+4:2:2
+DVBS-2 16APSK
+ID: BEL119
+World Cup Women - Qualification
+Belgium
+v 
+Luxemborg
+---FEED-SEPARATOR---
 World Cup Women - Qualification - League B
 Czech Republic W - Albania W
 Eutelsat 16A @ 16.0E
@@ -47,6 +67,17 @@ ID: CZE 001/2 (CTV)
 1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 10.699Mb/Sec
 #CW:
 FTA
+---FEED-SEPARATOR---
+28.2E
+12707 V 5000 
+4:2:2
+DVBS-2 16APSK
+ID: BEL119
+CW: 3D C8 9F A4 A4 B2 1E 74
+World Cup Women - Qualification
+Belgium
+v 
+Luxemborg
 ---FEED-SEPARATOR---
 World Cup Women - Qualification - League A 
 Denmark W - Sweden W
@@ -183,3 +214,32 @@ Eutelsat 10A @ 10.0E
 ID: Friendly Gua vs Czec (Service Provider)
 1920*1080 | DVB-S2 | 8PSK | SNR: 12.5dB | 37.185Mb/Sec
 CW: 42 53 96 2B 85 06 04 8F
+---FEED-SEPARATOR---
+1W
+11473 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: Ireland World
+CW: 20 26 EF 35 DC 05 06 E7
+FIFA/UEFA Womens WC 2027 Qualifiers
+Ireland
+ v 
+Netherlands
+---FEED-SEPARATOR---
+Algerian Basketball League 
+Widad Adabi Boufarik 
+ Nadi Basketball Staoueli 
+Alcomsat 24.8°W
+12681 H 4166 (4:2:0) 
+ID: Service 01 
+CW: 05 06 AB B6 CD 20 26 13
+---FEED-SEPARATOR---
+Liga, ACB
+Bilbao vs Valencia
+Eutelsat 7A/B ( 7.0E )
+11080 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Fi01 ACB
+CW: : DE 71 65 B4 51 13 3D A1
