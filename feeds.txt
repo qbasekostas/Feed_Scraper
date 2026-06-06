@@ -1,3 +1,15 @@
+Mo_ha said:
+CEV Volleyball European League 2026
+Eutelsat 7A/B ( 7.0E )
+12740 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Volleyball
+CW: : A0 50 62 52 0A 20 26 50
+Click to expand...
+new cw pls?
+---FEED-SEPARATOR---
 CEV Volleyball European League 2026
 Eutelsat 7A/7B/7C @ ( 7.0E )
 12641 V 4937
@@ -75,6 +87,27 @@ DVB-S2 - 1080P - 8PSK
 ID:MAIN - E-285
 CW: AB BA 20 85 26 06 05 31
 ---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/B ( 7.0E )
+11070 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: MAIN - E-285
+CW: : AA BB 20 85 26 06 06 32
+---FEED-SEPARATOR---
+Gevs999 said:
+			new cw pls?
+Click to expand...
+CEV Volleyball European League 2026
+Eutelsat 7A/B ( 7.0E )
+12740 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Volleyball
+CW: : BE BE 06 82 06 A2 6A 12
+---FEED-SEPARATOR---
 International Football Friendly 
 Belgium vs Tunisia
 Eutelsat 16A @ 16.0E
@@ -138,7 +171,7 @@ Eutelsat 7A/7B/7C @ 7.0E
 4:2:2
 ID: E-95 MAIN (Mediapro Portugal)
 1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 22.011Mb/Sec
-CW: 06 6F 8B 00 6A C8 F0 22
+CW: 06 F8 B6 B4 AC 8F 06 41
 ---FEED-SEPARATOR---
 International Football Friendly
 Albania - Luxembourg
@@ -211,6 +244,17 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: LTU-005 - 1- M02 main feed
 CW: 06 F8 B6 B4 AC 8F 06 41
+---FEED-SEPARATOR---
+SATELLITE Name : Eutelsat 7 (7.0°E)
+KU Band
+FREQUENCY: 11468V SR:7500
+DVB-S2 8PSK
+Format 4:2:0
+Event
+ ABA League, finals, game2
+Dubai - Partizan
+1080p HD FORMAT
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 16.0E
 12574 H 7199
