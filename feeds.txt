@@ -128,6 +128,14 @@ Replay of the Newcastle United vs Fulham match that took place on May 24, 2026
 F8 B3 25 AE 5A 54 E9 8E  
 CW: C5 E4 B1 5A A6 D5 A2 1D
 ---FEED-SEPARATOR---
+International Football Friendly
+QATAR V EL SALVADOR
+Eutelsat 7A/7B/7C @ 7.0E
+11468 Vertical 7200.153 | 3/4 | 4:2:0
+ID:  QATAR V EL SALVADOR (IKOMG)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 16.049Mb/Sec
+CW: FTA
+---FEED-SEPARATOR---
 International Football Friendly 
 Belgium vs Tunisia
 Eutelsat 16A @ 16.0E
