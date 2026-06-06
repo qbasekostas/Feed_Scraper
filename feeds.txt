@@ -1,4 +1,72 @@
 CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12641 V 4937
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: MNE-001 main
+CW: : 43 B7 E0 DA BA CB 45 CA
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+12674 Horizontal 7200.153 | 3/4 | 4:2:0
+ID: ITA 274 CEV Main (Live Images )
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 16.049Mb/Sec
+CW: DC AA FF 85 EE 06 06 FA
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+11079 Vertical 7200.142 | 3/4 | 4:2:0
+ID: HUN-013 Line 1 (HU-MTVA)
+1920*1080 | DVB-S2 | 8PSK | SNR: 3.0dB | 16.049Mb/Sec
+CW: 55 EF BC 00 5C 11 87 F4
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11516 Horizontal 7200.153 | 3/4 | 
+4:2:0
+ID: DNK-ORE6 (DR MCR)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 16.049Mb/Sec
+CW: A7 8C DA 0D 2C 63 74 03
+CEV Volleyball European League 2026
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+12563 Horizontal 7200.153 | 3/4 | 4:2:0
+ID:  SLQ 001 (JOJ TV)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 16.049Mb/Sec
+CW: A2 02 60 04 60 6C AB 77
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+11525 Horizontal 7200.142 | 3/4 | 4:2:0
+ID: LAT-002 (LNT,AM Baltics)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 16.049Mb/Sec
+CW: 4E 5B 29 D2 6D D4 6A AB
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+11579 Vertical 7200.153 | 3/4 | 4:2:0
+ID:  ENC 1 (SES)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.8dB | 16.049Mb/Sec
+CW: 05 06 BA C5 CA D1 B3 4E
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3944 H 7199 C-Band
+ID: NANJING-M
+(Provider ID: Service Provider)
+MPEG4 | DVB-S2
+1920x1080i |13,07Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: FIVB Volleyball Nations League Women's 2026 
+– Nanjing (Pool 3 - Week 1)
+Match 22: Thailand vs Belgium
+Time / Kickoff: 14.00 JKT-TH / 15.00 MY-SG / 07.00 GMT / 09.00 CET
+Match 23: China vs Serbia
+Time / Kickoff: 18.30 JKT-TH / 19.30 MY-SG / 11.30 GMT / 13.30 CET
+CW: DF A2 18 99 06 59 93 F2
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
 Hungary vs Portugal
 Eutelsat 7B/7C @ 7.0E
 11023 V 7200
@@ -6,6 +74,30 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID:MAIN - E-285
 CW: AB BA 20 85 26 06 05 31
+---FEED-SEPARATOR---
+International Football Friendly 
+Belgium vs Tunisia
+Eutelsat 16A @ 16.0E
+11189  Horizontal  6670.021
+ID:*unnamed-1* (*unnamed-1*)
+1920x1080 |13.213Mb/Sec 8PSK |4:2:0 HD
+CW: FTA
+---FEED-SEPARATOR---
+International Football Friendly
+Canada - Ireland
+Eutelsat 7A/7B/7C @ 7.0E
+12563 Horizontal 7200.153 | 3/4 | 4:2:0
+ID:  BOXING ENC 11 (TV2GO BROADCAST )
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 16.049Mb/Sec
+CW: FTA
+---FEED-SEPARATOR---
+International Football Friendly
+Puerto Rico- Saudi Arabia
+Eutelsat 10A @ 10.0E
+10758  Vertical  15000.087
+ID: Friendly Saudi Arabia vs PR (Service Provider)
+1920x1080 |37.185Mb/Sec 8PSK |4:2:0 HD
+CW: FTA
 ---FEED-SEPARATOR---
 International Football Friendly
 Saudi Arabia 
@@ -22,3 +114,107 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID:IKOMG (IKOMG)
 1920x1080 |16.049Mb/Sec 8PSK |4:2:0 HD
 CW: FTA
+---FEED-SEPARATOR---
+World Friendly International Women
+Tanzania W 
+ Malawi 
+C_Eutelsat 10°E (Cband) 
+3888 V 5000 - 4.2.0
+ID: TAN-004-BACKUP
+CW: EB 54 4F 8E D0 B1 DA 5B
+---FEED-SEPARATOR---
+World Maurice Revello Tournament 
+Japan U20 - Canada U20
+Eutelsat 7A/7B/7C @ 7.0E
+12655 Vertical 7120.153 | 2/3 | 4:2:0
+ID: E-228 Backup (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 8.4dB | 14.105Mb/Sec
+CW: 23 E4 29 30 9A 24 5E 1C
+---FEED-SEPARATOR---
+International Football Friendly
+Portugal - Chile
+Eutelsat 7A/7B/7C @ 7.0E
+11056 Vertical 9875.175 | 3/4 | 
+4:2:2
+ID: E-95 MAIN (Mediapro Portugal)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 22.011Mb/Sec
+CW: 06 6F 8B 00 6A C8 F0 22
+---FEED-SEPARATOR---
+International Football Friendly
+Albania - Luxembourg
+Eutelsat 7A/7B/7C @ 7.0E
+11083 Horizontal 14400.306 | 3/4 | 
+4:2:2
+ID: BUL007 M08  B (TV1 )
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 32.098Mb/Sec
+CW: 06 F8 B6 B4 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Romania - Wales
+Eutelsat 7A/7B/7C @ 7.0E
+10963 Vertical 14400.087 | 3/4 | 
+4:2:2
+ID: ROU038 BACKUP MATCH7 (ROSVA)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 32.098Mb/Sec
+CW: 06 F8 B6 B4 AC 8F 06 41
+---FEED-SEPARATOR---
+International Football Friendly
+Gibraltar - Cayman Islands
+Eutelsat 7A/7B/7C @ 7.0E
+11018 Horizontal 14400.306 | 3/4 | 4:2:2
+ID:  E-073 BK (Mediapro Portugal)
+1920*1080 | DVB-S2 | 8PSK | SNR 9.0dB | 32.098Mb/Sec
+CW: 06 F8 B6 B4 AC 8F 06 41
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°E
+10982 H 14400 |
+4:2:2
+ | DVB-S2 1080p 8PSK
+ID: 
+EST-004 MAIN MD3
+Event: 
+2026 Baltic Cup (Semi-Final) — Estonia vs. Faroe Island
+CW: 06 F8 B6 B4 AC 8F 06 41
+---FEED-SEPARATOR---
+China U23 vs Tajikistan U23
+Asiasat 5 100.5C
+3808 H 7200
+ID: 2026 ZUNYI main
+4.2.0 DVB-S2 8PSK
+CW: DD 06 20 03 26 06 CA F6
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11045 V 9875 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+BEL095 - ENC2 -MD3
+Event: 
+International Football Friendly — Belgium vs. Tunisia 
+CW: 06 F8 B6 B4 AC 8F 06 41
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°E
+10999 H 14400 |
+4:2:2
+ | DVB-S2 1080p 8PSK
+ID: 
+E363 A
+Event: 
+International Football Friendly — Armenia vs. Kazakhstan 
+CW: 06 F8 B6 B4 AC 8F 06 41
+---FEED-SEPARATOR---
+Baltic Cup, Semifinals
+Lithuania vs Latvia
+Eutelsat 7B/7C @ 7.0E
+10963 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: LTU-005 - 1- M02 main feed
+CW: 06 F8 B6 B4 AC 8F 06 41
+---FEED-SEPARATOR---
+16.0E
+12574 H 7199
+ID: Fi01 ACB
+F3 26 D7 BE B6 D7 20 32  
+CW: ED 40 06 33 26 2A E4 34
+  #[E] PID:0200h
