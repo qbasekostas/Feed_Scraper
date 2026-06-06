@@ -88,6 +88,13 @@ ID:MAIN - E-285
 CW: AB BA 20 85 26 06 05 31
 ---FEED-SEPARATOR---
 CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+12645 Vertical 7200.153 | 3/4 | 4:2:0
+ID: ITA 415 MAIN (Live Images)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 16.049Mb/Sec
+CW: FB 65 D0 30 60 4E 65 13
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
 Eutelsat 7A/B ( 7.0E )
 11070 V 7199
 DVB-S2 - 
@@ -107,6 +114,19 @@ DVB-S2 -
  - 8PSK
 ID: Volleyball
 CW: : BE BE 06 82 06 A2 6A 12
+---FEED-SEPARATOR---
+Replay of the Newcastle United vs Fulham match that took place on May 24, 2026
+3.1E
+- Name:           FRBEIN_ENC_01 (EUROVISION SA)
+- VID PID:       512
+- Freq: 10985,816
+- Pol: Horizontal
+- SR: 7502,082
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+F8 B3 25 AE 5A 54 E9 8E  
+CW: C5 E4 B1 5A A6 D5 A2 1D
 ---FEED-SEPARATOR---
 International Football Friendly 
 Belgium vs Tunisia
@@ -148,6 +168,45 @@ ID:IKOMG (IKOMG)
 1920x1080 |16.049Mb/Sec 8PSK |4:2:0 HD
 CW: FTA
 ---FEED-SEPARATOR---
+Friendly 
+| 
+Turkey vs Venezuela
+Eutelsat 10A @ 10.0E
+10767 Vertical 33999.589 | 5/6 | 
+4:2:2
+ID: Friendly Turkey vs Venezuela (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 84.284Mb/Sec
+CW: 42 53 96 2B 85 06 04 8F
+---FEED-SEPARATOR---
+Friendly
+ | 
+Scotland vs Bolivia
+Eutelsat 10A @ 10.0E
+10767 Vertical 33999.589 | 5/6 | 4:2:0
+ID: Friendly Scotland vs Bolivia (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 84.284Mb/Sec
+CW: AB C4 56 C5 23 87 1A C4
+---FEED-SEPARATOR---
+Friendly 
+| 
+Scotland vs Bolivia 
+Eutelsat 10A @ 10.0E
+10767 Vertical 33999.589 | 5/6 | 4:2:0
+ID:  Friendly Scotland vs Bolivia (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 84.284Mb/Sec
+CW: 41 44 21 A6 73 52 34 F9
+---FEED-SEPARATOR---
+Friendly International
+Brazil vs. Egypt
+Eutelsat 7B/7C @ 7.0°E
+11088 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: Fi13_GNVE
+CW: 3D FC 29 62 C0 30 6B 5B
+---FEED-SEPARATOR---
 World Friendly International Women
 Tanzania W 
  Malawi 
@@ -181,6 +240,15 @@ Eutelsat 7A/7B/7C @ 7.0E
 ID: BUL007 M08  B (TV1 )
 1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 32.098Mb/Sec
 CW: 06 F8 B6 B4 AC 8F 06 41
+---FEED-SEPARATOR---
+Hot Bird 13.0E
+11803 H 7200 reported as 10803
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: GCUK Enc 3
+CW: CE 27 DE D3 F2 26 12 2A
+International Football Friendly
+United States of America vs Germany
 ---FEED-SEPARATOR---
 International Football Friendly
 Romania - Wales
