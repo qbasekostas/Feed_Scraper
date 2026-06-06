@@ -196,17 +196,6 @@ ID:  Friendly Scotland vs Bolivia (Service Provider)
 1920*1080 | DVB-S2 | 8PSK | SNR: 12.0dB | 84.284Mb/Sec
 CW: 41 44 21 A6 73 52 34 F9
 ---FEED-SEPARATOR---
-Friendly International
-Brazil vs. Egypt
-Eutelsat 7B/7C @ 7.0°E
-11088 - V - 7200 
-|
-4:2:0
- | H.264
-1920*1080 - DVB-S2 - 8PSK
-ID: Fi13_GNVE
-CW: 3D FC 29 62 C0 30 6B 5B
----FEED-SEPARATOR---
 World Friendly International Women
 Tanzania W 
  Malawi 
@@ -312,6 +301,26 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID: LTU-005 - 1- M02 main feed
 CW: 06 F8 B6 B4 AC 8F 06 41
+---FEED-SEPARATOR---
+LBA Serie A Playoffs
+Venezia vs Virtus Bologna
+Eutelsat 7A/B ( 7.0E )
+11522 V 7199 
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: Encoder 1
+CW: : B8 82 9F D9 D2 6C 9A D8
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Bahcesehir Kol vs Besiktas
+Hotbird 13B/13C/13G @ ( 13.0E )
+10831 V 7500
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: TUR 112 MAIN
+CW: : C7 31 14 0C 28 4F 5E D5
 ---FEED-SEPARATOR---
 SATELLITE Name : Eutelsat 7 (7.0°E)
 KU Band
