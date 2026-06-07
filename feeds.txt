@@ -111,20 +111,23 @@ DVB-S2 - 1080P - 8PSK
 ID: ENC 2
 CW: D3 57 7A A4 14 0E A2 C4
 ---FEED-SEPARATOR---
+Friendly International
+Colombia vs. Jordan
+Eutelsat 7B/7C @ 7.0°E
+12655 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: Fi13_GNVE
+CW: 92 BB C8 15 C2 8B E6 33
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3984 V 7200
 ID : TA to AS5:  WC Friendlies
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 CW: 95 E2 B1 28 3D 4E AF 3A
 Norway vs Morocco
----FEED-SEPARATOR---
-International Football Friendly
-Norway vs Morocco
-Eutelsat 10A @ 10.0E
-10768 V 34005 | 5/6 | 4:2:0
-ID: Friendly Norway vs Morocco   (Service Provider)
-1920*1080 | DVB-S2 | 8PSK | SNR: 11.0dB | 84.280Mb/Sec
-CW: BC 56 43 55 12 78 AB 35
 ---FEED-SEPARATOR---
 Friendly International
 Greece vs. Italy
@@ -146,6 +149,14 @@ DVB-S2 -
  - 8PSK
 ID: Fi12_GNVE
 CW: : BC 56 43 55 12 78 AB 35
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID:Friendly Norway vs Morocco  
+International Football Friendly
+Norway vs Morocco
+CW: BC 56 43 55 12 78 AB 35
 ---FEED-SEPARATOR---
 International Football Friendly
 Norway vs Morocco
