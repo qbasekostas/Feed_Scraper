@@ -1,3 +1,13 @@
+European League Men 
+North Macedonia vs Luxembourg
+Eutelsat 7B/7C (7.0E)
+12646 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ITA 415 MAIN
+CW: : FB 65 D0 30 60 4E 65 13
+---FEED-SEPARATOR---
 Eutelsat 7B/7C (7.0E)
 11597 V 7200
 MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
@@ -108,14 +118,6 @@ DVB-S2 -
  - 8PSK
 ID: Fi12_GNVE
 CW: : BC 56 43 55 12 78 AB 35
----FEED-SEPARATOR---
-EUTELSAT 10A (10°E)
-Fréq:10768 - V - 34000
-MPEG 4 - 4:2:0 - DVB-S2
-ID:Friendly Norway vs Morocco  
-International Football Friendly
-Norway vs Morocco
-CW: BC 56 43 55 12 78 AB 35
 ---FEED-SEPARATOR---
 International Football Friendly
 Norway vs Morocco
@@ -242,6 +244,14 @@ Event: FIFA International Friendly Match
 Teams: Brazil vs Egypt
 Time / Kickoff: 05.06 JKT-TH / 06.06 MY-SG / 22.06 GMT / 00.06 CET
 CW: F5 A7 7A 16 94 2E A5 67
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11088 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi01 ACB
+CW: : C4 71 88 BD F0 8D 24 A1
 ---FEED-SEPARATOR---
 Turkish Basketball Super League
 Anadolu Efes vs Fenerbahçe Beko
