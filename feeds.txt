@@ -1,3 +1,16 @@
+Eutelsat 7B/7C (7.0E)
+11059 H 4937
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+MNE-001 main
+Provider: Harmonic
+European League Women from Bar (Montenegro)
+Montenegro W - Georgia W (19:00)
+CW: 0A 1A 82 A6 3B EA A5 CA
+						dream Droid 1780854933884 hosted at ImgBB
+Image dream Droid 1780854933884 hosted on ImgBB
+					ibb.co
+---FEED-SEPARATOR---
 European League Men 
 North Macedonia vs Luxembourg
 Eutelsat 7B/7C (7.0E)
@@ -97,6 +110,21 @@ DVB-S2 - 1080P - 8PSK
 4:2:2
 ID: ENC 2
 CW: D3 57 7A A4 14 0E A2 C4
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7200
+ID : TA to AS5:  WC Friendlies
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: 95 E2 B1 28 3D 4E AF 3A
+Norway vs Morocco
+---FEED-SEPARATOR---
+International Football Friendly
+Norway vs Morocco
+Eutelsat 10A @ 10.0E
+10768 V 34005 | 5/6 | 4:2:0
+ID: Friendly Norway vs Morocco   (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.0dB | 84.280Mb/Sec
+CW: BC 56 43 55 12 78 AB 35
 ---FEED-SEPARATOR---
 Friendly International
 Greece vs. Italy
@@ -245,6 +273,8 @@ Teams: Brazil vs Egypt
 Time / Kickoff: 05.06 JKT-TH / 06.06 MY-SG / 22.06 GMT / 00.06 CET
 CW: F5 A7 7A 16 94 2E A5 67
 ---FEED-SEPARATOR---
+Liga, ACB
+Baskonia vs Joventut Badalona
 Eutelsat 7A/7B/7C @ ( 7.0E )
 11088 H 7199
 DVB-S2 - 
