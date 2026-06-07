@@ -1,10 +1,11 @@
-Eutelsat 7A/7B @ 7.0°E
-11597 V 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-MAIN - E-285
-Event: 
-CEV Volleyball European League 2026 — Portugal vs. Hungary 
-CW: BC 20 26 02 06 07 CB D0
+Eutelsat 7B/7C (7.0E)
+11597 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: MAIN - E-285
+Provider: Mediapro Portugal
+European League Women from Vila do Conde (Portugal)
+Portugal W - North Macedonia W (17:30)
+CW: BC 20 26 02 06 07 CB D8
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C (7.0E)
 12675 H 7200
@@ -86,6 +87,35 @@ DVB-S2 - 1080P - 8PSK
 4:2:2
 ID: ENC 2
 CW: D3 57 7A A4 14 0E A2 C4
+---FEED-SEPARATOR---
+Friendly International
+Greece vs. Italy
+Eutelsat 7B/7C @ 7.0°E
+11128 - V - 14400 
+|
+4:2:0
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: E394 MAIN
+CW: AF AA F1 4A 07 B6 99 56
+---FEED-SEPARATOR---
+International Football Friendly
+Norway vs Morocco
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12638 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi12_GNVE
+CW: : BC 56 43 55 12 78 AB 35
+---FEED-SEPARATOR---
+EUTELSAT 10A (10°E)
+Fréq:10768 - V - 34000
+MPEG 4 - 4:2:0 - DVB-S2
+ID:Friendly Norway vs Morocco  
+International Football Friendly
+Norway vs Morocco
+CW: BC 56 43 55 12 78 AB 35
 ---FEED-SEPARATOR---
 International Football Friendly
 Norway vs Morocco
@@ -212,6 +242,16 @@ Event: FIFA International Friendly Match
 Teams: Brazil vs Egypt
 Time / Kickoff: 05.06 JKT-TH / 06.06 MY-SG / 22.06 GMT / 00.06 CET
 CW: F5 A7 7A 16 94 2E A5 67
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Anadolu Efes vs Fenerbahçe Beko
+Hotbird 13B/13C/13G @ ( 13.0E )
+10829 H 7500
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: TUR 112 MAIN
+CW: : D6 BD 6F 02 64 BB B3 D2
 ---FEED-SEPARATOR---
 Red Devils said:
 FIBA 3x3 World Tour
