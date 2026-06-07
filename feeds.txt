@@ -1,3 +1,73 @@
+Eutelsat 7A/7B @ 7.0°E
+11597 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+MAIN - E-285
+Event: 
+CEV Volleyball European League 2026 — Portugal vs. Hungary 
+CW: BC 20 26 02 06 07 CB D0
+---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C (7.0E)
+12675 H 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: ITA 274 CEV Main
+Provider: Live Images
+European League Women and Men from Osijek (Croatia)
+Croatia W - Lithuania W (17:00)
+Croatia M - Georgia M (20:00)
+CW: DC AA FF 85 EE 07 06 FB
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11078 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+HUN-013 Line 1
+Event: 
+CEV Volleyball European League — Hungary vs. Norway 
+CW: DD 95 36 A8 B2 16 4C 14
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+11517 Horizontal 7200.164 | 3/4 | 4:2:0
+ID: DNK-ORE6 (DR MCR)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 16.049Mb/Sec
+CW: 67 62 3E 07 4D D6 73 96
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+12563 Horizontal 7200.153 | 3/4 | 4:2:0
+ID: SLQ 001 (JOJ TV)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 16.049Mb/Sec
+CW: A2 02 60 04 70 6A CB A5
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+11525 Horizontal 7200.164 | 3/4 | 4:2:0
+ID:  LAT-001 M (LTV)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.3dB | 16.049Mb/Sec
+CW: 86 33 69 22 BE 45 A6 A9
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7B/7C @ 7.0E
+12740 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Volleyball (MTI)
+CW: 26 CA CA BA 20 07 06 2D
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Eutelsat 7A/7B/7C @ 7.0E
+11578 Vertical 7200.153 | 3/4 | 4:2:0
+ID: ENC 1 (SES)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.3dB | 16.049Mb/Sec
+CW: 05 06 BA C5 CA D1 B3 4E
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3945 H 7200
+ID : NANJING-M
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW: CA E7 11 C2 93 B3 3A 80
+FIVB Volleyball Nations League Women's 2026 
+– Nanjing
+---FEED-SEPARATOR---
 International Football
  - 
 Brazil v Egypt
@@ -16,3 +86,169 @@ DVB-S2 - 1080P - 8PSK
 4:2:2
 ID: ENC 2
 CW: D3 57 7A A4 14 0E A2 C4
+---FEED-SEPARATOR---
+International Football Friendly
+Norway vs Morocco
+Eutelsat 10A @ ( 10.0E )
+10768 V 34000
+DVB-S2 - 
+4:2:0 
+- 8PSK
+lD: Friendly Norway vs Morocco  w/sponsorss
+CW: : 48 26 35 A3 24 19 37 74
+---FEED-SEPARATOR---
+Eutelsat 7A/7B @ 7.0°E
+11022 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+E-228 Main
+Event: 
+2026 Maurice Revello Tournament (Group A) — DR Congo vs. Colombia (Main Match Feed)
+CW: 23 E4 29 30 9A 24 5E 1C
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°E
+11015 V 9875 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+DNK83_enc1_M2
+Event: 
+International Football Friendly — Denmark vs. Ukraine (East Production DNK83 Uplink)
+CW: 07 F8 B6 B5 AC 8F 06 41
+---FEED-SEPARATOR---
+Verdeoro said:
+CW: 07 F8 B6 B5 AC 8F 06 41
+Click to expand...
+Eutelsat 16A @ 16.0E
+12631 V 9875
+1920x1080 |8PSK |
+4:2:2
+ID: CRO-024/1 NTF MATCH 04/BU
+Event: 
+FIFA International Friendly Match - Croazia vs Slovenia
+---FEED-SEPARATOR---
+FIFA International Friendly Match'
+Greece - Italy
+Eutelsat 16A @ 16.0E
+12643 V 9876
+ID:NTF MATCH 03 EUROPE (*unnamed-1*)
+1920x1080 |21.510Mb/Sec 8PSK |
+4:2:2 
+HD
+CW: 07 F8 B6 B5 AC 8F 06 41
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Greece - Italy
+Eutelsat 7A/7B/7C @ 7.0E
+10999 Horizontal 14400.306 | 3/4 | 
+4:2:2
+ID: NTF MATCH03 EUROPE BACK UP (Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 32.098Mb/Sec
+CW: 07 F8 B6 B5 AC 8F 06 41
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Kosovo - Andorra
+Eutelsat 7A/7B/7C @ 7.0E
+11047 Vertical 14400.306 | 3/4 | 
+4:2:2
+ID: BUL007 M05  B (TV1 )
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 32.098Mb/Sec
+CW: 07 F8 B6 B5 AC 8F 06 41
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Croatia - Slovenia
+Eutelsat 7A/7B/7C @ 7.0E
+11018 Horizontal 14400.284 | 3/4 | 
+4:2:2
+ID: CRO23 NTF M4 Bu (MEDIA LINK)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 32.098Mb/Sec
+CW: 07 F8 B6 B5 AC 8F 06 41
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Denmark - Ukraine
+Eutelsat 7A/7B/7C @ 7.0E
+10982 Horizontal 14400.306 | 3/4 | 
+4:2:2
+ID:  GVA_Fi02 (EUROVISION SA)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 32.098Mb/Sec
+CW: 07 F8 B6 B5 AC 8F 06 41
+---FEED-SEPARATOR---
+Eutelsat 7B-7C  @ 07.0E
+10964 H 14400
+1920x1080 |8PSK |
+4:2:2
+ID: SUI76-1 M4 MAIN
+Event: 
+FIFA International Friendly Match - Liechtenstein vs Cipro
+CW: 07 F8 B6 B5 AC 8F 06 41
+---FEED-SEPARATOR---
+International Friendly
+Argentina vs Honduras
+19.2E
+11817 V 31426
+DVB-S2 4:2:0 16APSK
+ID: Astra 1 Service 1
+CW: AB 13 98 56 78 99 27 38
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Argentina v Honduras
+Eutelsat 7A/7B/7C @ 7.0E
+12646 Vertical 7120.161 | 2/3 | 
+4:2:0
+ID: Pitch International Football Argentina v Honduras (NEP Connect)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 14.105Mb/Sec
+CW: 11 23 CD 01 DC 22 53 51
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3984 V 7199 C-Band
+ID: BT_SES_4_SDI
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |13,08Mb/Sec |8PSK| 
+4:2:2
+ HD
+Event: FIFA International Friendly Match 
+–
+ Road to 26 presented by Turkish Airlines
+Teams: Brazil vs Egypt
+Time / Kickoff: 05.06 JKT-TH / 06.06 MY-SG / 22.06 GMT / 00.06 CET
+CW: F5 A7 7A 16 94 2E A5 67
+---FEED-SEPARATOR---
+Red Devils said:
+FIBA 3x3 World Tour
+Eutelsat 16A @ 16.0E
+10985 V 9601
+ID: POL-141 ENC1 (*unnamed-141*)
+1920x1080 |20.910Mb/Sec 8PSK |
+4:2:2 
+HD
+CW: 01 06 26 2D CA E1 41 EC
+Click to expand...
+V
+Post in thread 'Basketball (CBA/WCBA/LNB/TBL/Euroleague/NBA...) Feeds (7°E,10°E,16°E,62°E,100.5°E & 110.5°E)'
+Monday at 17:33
+Eutelsat 16A   ( 16.0E )
+10985 V 9600
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: POL-141 ENC1
+Event: 
+FIBA 3x3 WORLD CUP 2026
+CW: 01 06 26 2D CA E1 41 EC
+Verdeoro
+---FEED-SEPARATOR---
+FIBA 3x3 World Tour
+Eutelsat 16A @ 16.0E
+10985 V 9601
+ID: POL-141 ENC1 (*unnamed-141*)
+1920x1080 |20.910Mb/Sec 8PSK |
+4:2:2 
+HD
+CW: 01 06 26 2D CA E1 41 EC
+---FEED-SEPARATOR---
+BNXT League
+Eutelsat 16A @ 16.0E
+12512 V 7121
+ID:NLEMG HOL312-1 (EMG Connectivity)
+1920x1080 |15.510Mb/Sec 8PSK |4:2:0 HD
+CW: 14 A0 C7 7B C3 1A 4C 29
