@@ -70,6 +70,16 @@ DVB-S2 - 1080P - 8PSK
 ID: GVA_Fi02
 CW: 08 F8 B6 B6 AC 8F 06 41
 ---FEED-SEPARATOR---
+Maxa NBL
+Pardubice - Nymburk
+Eutelsat 16A @ 16.0E
+11057 H 4801
+ID:CZE 001/2 (CTV)
+1920x1080 |10.450Mb/Sec 8PSK |
+4:2:2
+ HD
+CW: FTA
+---FEED-SEPARATOR---
 Turkish Basketball Super League
 Bahçeşehir Koleji vs Beşiktaş Gain
 Hot Bird 13.0E
