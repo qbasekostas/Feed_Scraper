@@ -1,0 +1,89 @@
+FIFA International Friendly Match
+France - Northern Ireland
+Eutelsat 7A/7B/7C @ 7.0E
+11178 Horizontal 8000.175 | 2/3 | 
+4:2:2
+ID:  BBC LILLE CLEAN (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 15.848Mb/Sec
+#CW:
+FTA
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+France - Northern Ireland
+Eutelsat 7A/7B/7C @ 7.0E
+11166 Horizontal 8000.175 | 2/3 | 
+4:2:2
+ID:  BBC LILLE DIRTY (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 15.848Mb/Sec
+#CW:
+ FTA
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+France - Northern Ireland
+Eutelsat 7B-7C  @ 07.0E
+10964 H 14400
+1920x1080 |8PSK |
+4:2:2
+ID:  GVA_Fi01 (EUROVISION SA)
+Event: 
+FIFA International Friendly Match - 
+CW: 08 F8 B6 B6 AC 8F 06 41
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+France - Northern Ireland
+Eutelsat 16A @ 16.0E
+11015 V 9877
+ID:F563/FLY4/Encoder 4.8/MATCH 01 EUROPE/FEED A B/U (OER)
+1920x1080 |21.510Mb/Sec 8PSK |
+4:2:2
+ HD
+CW: 08 F8 B6 B6 AC 8F 06 41
+---FEED-SEPARATOR---
+Friendly International
+Italy U21 vs. Albania U21
+Eutelsat 7B/7C @ 7.0°E
+11146 - V - 14400 
+|
+4:2:2
+ | H.264
+1920*1080 - DVB-S2 - 8PSK
+ID: Rai_U21_Pordenone
+CW: 57 3A 19 AA 07 BA 15 D6
+---FEED-SEPARATOR---
+Friendly International
+France vs. Northern Ireland
+Eutelsat 8 West B @ 8.0°W
+12714 - V - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: SOS TF1 FOOT FRANCE VS IRLANDE
+CW: FE ED 20 0B 26 09 06 35
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Netherlands - Uzbekistan
+Eutelsat 7B/7C @ 7.0E
+10982 H 14400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: GVA_Fi02
+CW: 08 F8 B6 B6 AC 8F 06 41
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Bahçeşehir Koleji vs Beşiktaş Gain
+Hot Bird 13.0E
+10838 H 7500
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  DT SNG 2 MAIN  (DIGITURK)
+CW: 15 28 65 A2 C1 1B 46 22
+---FEED-SEPARATOR---
+Polish Basketball League, Playoffs, FinalLegia
+Warszawa vs Zastal Zielona Góra
+Eutelsat 7B/7C @ 7.0E
+12591 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  POL-080 MAIN (POLSAT)
+CW: 15 58 35 A2 71 42 63 16
