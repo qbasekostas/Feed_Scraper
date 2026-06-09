@@ -6,6 +6,18 @@ DVB-S2 - 1080P - 8PSK
 ID:Main
 CW: C7 AE 87 FC 29 0B 4D 81
 ---FEED-SEPARATOR---
+Thor 5/6/7 & Intelsat 10-02 (0.8W)
+11463 V 7200
+MPEG-4 FTA DVB-S2 8PSK,4:2:2
+ID: 
+TV2NO-BER 
+Provider: TV 2 Norway 
+World Cup Women,Qualification,League A,Group 4,Round 6
+Norway W - Austria W (18:00)
+						IMG 20260609 182046 hosted at ImgBB
+Image IMG 20260609 182046 hosted on ImgBB
+					ibb.co
+---FEED-SEPARATOR---
 World Cup Women, Qualification, League B
 Wales vs Czech Republic
 Eutelsat 7A/7B/7C @ ( 7.0E )
@@ -70,6 +82,72 @@ ID:  LTU-005 - 1- M05 main feed (Satgate)
 FTA (NOW)
 ---FEED-SEPARATOR---
 World Cup Women, Qualification, League A
+FRANCE VS IRLANDE 
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12688 H 7199
+ID: FEED 2 SECOURS 2 PRIVATIF FTV FOOT FEMININ GRENOBLE FRANCE VS IRLANDE
+DVB-S2 - 
+4:2:0 
+- 8PSK
+CW
+: FTA
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+D.R. Congo
+ Chile 
+SES 14 @ 47°W (C band) 
+4008 H 7200 - 4.2.0
+ID:Soccer IKO E 28
+CW: FTA
+---FEED-SEPARATOR---
+World Cup Women, Qualification, League
+France vs Finland
+Hotbird 13B/13C/13G @ ( 13.0E )
+11695 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: YLE
+CW
+: FTA
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A 
+France W - Ireland W
+Eutelsat 7A/7B/7C @ 7.0E
+12676 Horizontal 7200.153 | 3/4 |
+ 4:2:0
+ID:  INTER DIRTY FRANCE VS IRLANDE FOOT FEMININ FTV GRENOBLE (ADVALEM)
+1920*1080 | DVB-S2 | 8PSK | SNR: 8.4dB | 16.049Mb/Sec
+CW: AC DB 09 90 06 CA BD 8D
+---FEED-SEPARATOR---
+28.2E
+12703 V 7200 
+4:2:0
+DVBS-2 8PSK
+ID: itv sport England v Ukraine
+CW: C4 2B AA 99 BC 15 C2 93
+World Cup Women - Qualification
+England v Ukraine
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A 
+Serbia W - Denmark W
+Eutelsat 16A @ 16.0E
+11014 V 7201
+ID:YSM-016 MAIN (*unnamed-1*)
+1920x1080 |15.680Mb/Sec 8PSK |4:2:0 HD
+CW: AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+World Cup Women, Qualification, League A
+Italy vs Sweden
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12647 V 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Women's World Cup Qualifiers - Sweden v Italy
+CW: : AA FF CC 75 DE 09 06 ED
+---FEED-SEPARATOR---
+World Cup Women, Qualification, League A
 Italy vs Sweden
 Eutelsat 7A/7B/7C @ ( 7.0E )
 12566 H 7199
@@ -90,6 +168,15 @@ DVB-S2 -
  - 8PSK
 ID: 2Sat HOL89 MAIN
 CW: : 09 DA F8 DB 9D EB 06 8E
+---FEED-SEPARATOR---
+FIFA Women's World Cup UEFA
+Luxembourg w VS Belgium w
+Eutelsat 7B/7C @ 7.0E
+11579 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:2Sat HOL89 Main
+CW: 09 DA F8 DB 9D EB 06 8E
 ---FEED-SEPARATOR---
 World Cup Women - Qualification - League A
 Slovenia W - Germany W
@@ -173,3 +260,28 @@ DVB-S2 - 1080P - 8PSK
 4.2.2
 ID:  LEUK_Fi04 (EUROVISION SA)
 CW: 08 F8 B6 B6 AC 8F 06 41
+---FEED-SEPARATOR---
+Campionato Italiano Serie A2
+Verona-Rimini
+Eutelsat 7A/7B/7C @ 7.0E
+12719 Vertical 5000.087 | 3/4 | 4:2:0
+ID:   ITA556 HD16 (ITA)
+1920*1080 | DVB-S2 | 8PSK | SNR: 12.8dB | 11.145Mb/Sec
+CW: FTA
+---FEED-SEPARATOR---
+Portugal LBP, Playoffs, Final
+SL Benfica vs Porto
+Eutelsat 7B/7C @ 7.0E
+11106 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:MAIN - E-285
+CW: 0D F6 33 36 D0 C5 F4 89
+---FEED-SEPARATOR---
+ACB - Play Offs - Semi-finals
+Barcelona - Tenerife
+Eutelsat 7A/7B/7C @ 7.0E
+11022 Vertical 7200.142 | 3/4 | 4:2:0
+ID:   Fi01 ACB (CM5000)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 16.049Mb/Sec
+CW: F8 DF 32 09 3E BA 07 FF
