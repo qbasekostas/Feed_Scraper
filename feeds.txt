@@ -1,4 +1,172 @@
+Nations League
+Asiasat 5 (100.5°E) C BAND
+3946 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:Main
+CW: C7 AE 87 FC 29 0B 4D 81
+---FEED-SEPARATOR---
+World Cup Women, Qualification, League B
+Wales vs Czech Republic
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11153 H 8000
+ID: UKI-888 P2 HD
+11163 H 8000
+ID: Unname
+DVB-S2 - 
+4:2:0
+ - 8PSK
+CW
+: FTA
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+D.R. Congo 
+ Chile 
+C_Eutelsat 3.1°E(Cband) 
+4095 H 7500 | 4:2:0
+ID: F419_MAIN
+CW: FTA
+---FEED-SEPARATOR---
+Red Devils said:
+World Cup Women - Qualification - League B 
+Northern Ireland W - Switzerland W
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0E
+11183 Horizontal 8000.175 | 3/4 | 
+4:2:2
+ID: NI V SWITZ CAM 2 (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 8.4dB | 17.832Mb/Sec
+#CW:
+FTA
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League B 
+Northern Ireland W - Switzerland W
+Eutelsat 7A/7B/7C @ 7.0E
+11173 Horizontal 8000.164 | 3/4 | 
+4:2:2
+ID:  NI V SWITZ CAM 1 (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 7.7dB | 17.832Mb/Sec
+#CW: 
+FTA
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+D.R. Congo - Chile
+Eutelsat 7A/7B/7C @ 7.0E
+11605 Vertical 7200.142 | 3/4 | 
+4:2:0
+ID: F419_MAIN (SAT PROD)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.4dB | 16.049Mb/Sec
+#CW:
+FTA
+---FEED-SEPARATOR---
+ Women - Baltic Cup | 
+Latvia - Faroe Islands
+Eutelsat 7A/7B/7C @ 7.0E
+11047 Vertical 14400.328 | 3/4 | 
+4:2:2
+ID:  LTU-005 - 1- M05 main feed (Satgate)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 32.098Mb/Sec
+#CW:
+FTA (NOW)
+---FEED-SEPARATOR---
+World Cup Women, Qualification, League A
+Italy vs Sweden
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12566 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: SWE-04-SWE-ITA
+CW: : AC 32 A1 7F 1E 24 2C 6E
+---FEED-SEPARATOR---
+World Cup Women, 
+Qualification, 
+League B
+Belgium vs Luxmberougo
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11580 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: 2Sat HOL89 MAIN
+CW: : 09 DA F8 DB 9D EB 06 8E
+---FEED-SEPARATOR---
+World Cup Women - Qualification - League A
+Slovenia W - Germany W
+Eutelsat 7A/7B/7C @ 7.0E
+11587 Vertical 7200.153 | 3/4 | 
+4:2:0
+ID: SLO-008 Tx 1 (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 16.049Mb/Sec
+CW: 08 75 72 EF 54 4E 4C EE
+---FEED-SEPARATOR---
+China vs Thailand 
+AsiaSat 5 100.5E
+3799 H 7198
+8PSK 3/4 DVB-S2 4.2.0
+PMT PID: 256, SID: 1 @ *unnamed-1* (*unnamed-1*)
+CW: DD 10 20 0D 26 06 CA F6
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+China U23 vs Tajikistan U23
+Eutelsat 100.5e 3808 H 7200
+C9 AA 2D E8 A6 E5 A6 5A  #CW:  DD 09 20 06 26 06 CA F6   #[E] PID:0021h
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Azerbaijan  - San Marino
+Eutelsat 7A/7B/7C @ 7.0E
+10999 Horizontal 14400.328 | 3/4 | 
+4:2:2
+ID: HUN-022-2 UNLM (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.4dB | 32.098Mb/Sec
+CW: 09 F8 B6 B7 AC 8F 06 41
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Hungary-Kazakhstan
+Eutelsat 7A/7B/7C @ 7.0E
+10981 Horizontal 14400.284 | 3/4 | 
+4:2:2
+ID: UKI-1324 -2 - M02 (UKI-1324)
+1920*1080 | DVB-S2 | 8PSK | SNR: 8.4dB | 32.098Mb/Sec
+CW: 09 F8 B6 B7 AC 8F 06 41
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Belarus - Burkina Faso
+Eutelsat 7A/7B/7C @ 7.0E
+11065 Vertical 14400.328 | 3/4 | 
+4:2:2
+ID:   BER-004 - 2 (BYSTOL)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 32.098Mb/Sec
+CW: 09 F8 B6 B7 AC 8F 06 41
+---FEED-SEPARATOR---
+Europe Baltic Cup - Final
+Lithuania - Estonia
+Eutelsat 7A/7B/7C @ 7.0E
+11018 Horizontal 14400.35 | 3/4 |
+ 4:2:2
+ID:  EST-010 NTF M4 BU (WorldFeed OU)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 32.098Mb/Sec
+CW: 09 F8 B6 B7 AC 8F 06 41
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Armenia - Moldova
+Eutelsat 7A/7B/7C @ 7.0E
+10963 Horizontal 14400.328 | 3/4 | 
+4:2:2
+ID: ARM-MOL-E363M (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | 32.098Mb/Sec
+CW: 09 F8 B6 B7 AC 8F 06 41
+---FEED-SEPARATOR---
+ASEAN Cup 2026
+Timor-Leste v Brunei
+AsiaSat 5 100.5E
+4165 H 7198
+8PSK 3/4 DVB-S2 4.2.0
+PMT PID: 2048, SID: 1 @ MYSVTP-1-1 (Net 1     )
+CW: 42 BC AD AB A3 DC 52 D1
+---FEED-SEPARATOR---
 Friendly International
+PERU vs Spain
 Eutelsat 7B/7C @ 7.0E
 11000 H 14400
 DVB-S2 - 1080P - 8PSK
