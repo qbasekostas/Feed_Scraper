@@ -99,11 +99,35 @@ ID:Friendly Saudi Arabia vs Senegal (Service Provider)
 HD
 CW: 45 45 DD 67 BB 23 78 56
 ---FEED-SEPARATOR---
+Spain, Liga Endesa, Playoffs
+Valencia Basket vs Asisa Joventut
+Hotbird 13B/13C/13G @ ( 13.0E)
+11616 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Fi01 ACB
+CW: : AD A4 E6 37 7E 0F 1D AA
+---FEED-SEPARATOR---
+AdmiralBet ABA League
+Partizan Mozzart Bet vs Dubai
+Eutelsat 16A @ ( 16.0E )
+11012 V 4936
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: YSM-021M
+CW: : AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Beşiktaş Gain vs Bahçeşehir Koleji
 Hotbird 13B/13C/13G @ ( 13.0E )
 10829 V 7500
-DVB-S2 - 4:2:2 - 8PSK
+DVB-S2 - 
+4:2:2 
+- 8PSK
 ID: TUR139-Main
-CW: F0 ED 1C F9 6B 56 B6 77
+CW: : F0 ED 1C F9 6B 56 B6 77
 ---FEED-SEPARATOR---
 Poland Basket Liga - Play Offs - Final
 Legia - Zielona Gora
