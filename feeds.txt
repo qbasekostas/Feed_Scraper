@@ -1,3 +1,30 @@
+Albahraniy said:
+Nations League
+Asiasat 5 (100.5°E) C BAND
+3946 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:Main
+CW: C7 AE 87 FC 29 0B 4D 81
+Click to expand...
+New CW : DC 77 72 C5 E4 8F 4C BF
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10862  Horizontal  14399.957
+ID:BEL120_18 (CM5000)
+1920x1080 |32.095Mb/Sec 8PSK |
+4:2:2
+ HD
+CW: FTA
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10849  Horizontal  7200.054
+ID:BEL120_9 (CM5000)
+1920x1080 |16.049Mb/Sec 8PSK |
+4:2:0
+ HD
+CW: FTA
+---FEED-SEPARATOR---
 International Friendly Match
 Saudi Arabia vs Senegal
 Eutelsat 7A/7B/7C @ 7.0E
@@ -17,6 +44,51 @@ ID: SAUDI ARABIA VS SENEGAL
 CW
 : FTA
 ---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+11149 H 14402
+ID:10 F8 B6 BE AC 8F 06 41
+1920x1080 |31.360Mb/Sec 8PSK |4:2:2 HD
+FIFA International Friendly Match
+England - Costa Rica
+CW: LEUK_Fi01 (EUROVISION SA)
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Portugal - Nigeria
+Eutelsat 16A @ 16.0E
+11130  Horizontal  14400.087
+NEW ID: LEUK_Fi02 (EUROVISION SA)
+1920x1080 |32.098Mb/Sec 8PSK |
+4:2:2
+ HD
+CW: 10 F8 B6 BE AC 8F 06 41
+---FEED-SEPARATOR---
+FIFA International Friendly Match
+Portugal - Nigeria
+Hot Bird 13B/13C/13E @ 13.0E
+11066  Vertical  14400.109
+ID:E-95 MAIN (Mediapro Portugal)
+1920x1080 |32.098Mb/Sec 8PSK |
+4:2:2
+ HD
+CW: 10 F8 B6 BE AC 8F 06 41
+---FEED-SEPARATOR---
+World Maurice Revello Tournament
+D.R. Congo U20 - Saudi Arabia U21
+Eutelsat 7A/7B/7C @ 7.0E
+12648 Horizontal 7120.153 | 2/3 | 4:2:0
+ID: E-228 Main (*unnamed-1*)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.1dB | 14.105Mb/Sec
+CW: 23 E4 29 30 9A 24 5E 1C
+---FEED-SEPARATOR---
+Friendly International
+Argentina - Iceland
+Eutelsat 7A/7B/7C @ 7.0E
+12676 Vertical 7120.153 | 2/3 | 
+4:2:0
+ID: Pitch International Football - Argentina v Iceland (Appear ECx110)
+1920*1080 | DVB-S2 | 8PSK | SNR: 8.4dB | 14.105Mb/Sec
+CW: 33 21 DD 31 CC 24 22 12
+---FEED-SEPARATOR---
 Friendly International
 Saudi Arabia vs Senegal
 Eutelsat 10A @ 10.0E
@@ -26,3 +98,18 @@ ID:Friendly Saudi Arabia vs Senegal (Service Provider)
 4:2:0 
 HD
 CW: 45 45 DD 67 BB 23 78 56
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+10829 V 7500
+DVB-S2 - 4:2:2 - 8PSK
+ID: TUR139-Main
+CW: F0 ED 1C F9 6B 56 B6 77
+---FEED-SEPARATOR---
+Poland Basket Liga - Play Offs - Final
+Legia - Zielona Gora
+Eutelsat 7A/7B/7C @ 7.0E
+12591 Vertical 7200.164 | 2/3 | 
+4:2:2
+ID:  POL-080 MAIN (POLSAT)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 14.263Mb/Sec
+CW: 60 24 33 B7 28 62 38 C2
