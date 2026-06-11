@@ -9,6 +9,28 @@ CW: C7 AE 87 FC 29 0B 4D 81
 Click to expand...
 New CW : 01 FB D4 D0 3C DD AB C4
 ---FEED-SEPARATOR---
+FIFA WORLD CUP 2026 - Group A, Round 1
+Mexico vs. South Africa
+Eutelsat 7B/7C @ 7.0°E
+11685 - V - 2500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: First_service
+FTA
+---FEED-SEPARATOR---
+FIFA WORLD CUP 2026 - Group A, Round 1
+Mexico vs. South Africa
+Eutelsat 7B/7C @ 7.0°E
+11682 - V - 2500 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: K24_11681_BISS
+CW: 12 34 51 97 23 45 12 7A
+---FEED-SEPARATOR---
 Maurice Revello Tournament, 2026
 Venezuela U20 vs Japan U20
 Portugal U20 vs Canada U20
@@ -19,3 +41,23 @@ DVB-S2 -
 - 8PSK
 ID: E-228 Main
 CW: : 23 E4 29 30 9A 24 5E 1C
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11088 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi01 ACB
+Event: 
+LIGA ACB - Barcellona vs Tenerife
+CW: B2 C2 34 A8 2D 60 48 D5
+---FEED-SEPARATOR---
+Lega A
+Olimpia Milano vs Venezia
+Eutelsat 10A @ (10.0E )
+10722 H 7199 
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Encoder 1
+CW
+:
+3D CA 86 8D D4 32 3A 40
