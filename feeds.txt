@@ -1,0 +1,80 @@
+CEV Volleyball European League, 2026
+Eutelsat 7B/7C @ (7.0E)
+11578 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 4
+CW: : 05 06 BA C5 CA D1 B3 4E
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Estonia vs Kosovo
+Eutelsat 7B/7C @ (7.0E)
+11526 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: EST-010 ENC4 CEV
+CW: : 95 4E 3E 21 8D 8E C8 E3
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+12605 V 7610
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+ROU-073-2-1
+ID: 
+ROU-073-2-2
+European League Women from Blaj (Romania)
+Albania W - Romania W (15:30)
+CW: 67 3D 5B FF 08 AD F2 A7
+						dream Droid 1781272765378 hosted at ImgBB
+Image dream Droid 1781272765378 hosted on ImgBB
+					ibb.co
+---FEED-SEPARATOR---
+VOLLEYBALL Nations League 
+VNL2026
+Ukraine vs Cuba
+Japan vs Poland 
+Asiasat 5 (100.5°E) C BAND
+3895 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: Main
+CW: 4A BA 46 4A F9 EB 45 29
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°E
+12511 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Medialink CRI-020/2
+Event: 
+CEV Volleyball European Silver League Women — Iceland vs. Slovenia 
+CW: F5 3C FE 2F 56 45 A3 3E
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Eutelsat 7B/7C @ (7.0E)
+12534 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: YSM-021M
+CW: : AA 7B DF 04 5F AA 05 0E
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°E
+11127 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+YLE-006
+Provider: 
+EBUER
+Event: 
+CEV Volleyball European Golden League Men — Albania vs. Finland (Live from Helsinki)
+CW: AA 18 58 1A 7F 0F AF 3D
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°E
+12574 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+HUN-013 Line 1
+Provider: 
+HU- MTVA
+Event: 
+CEV Volleyball Volleyball European Golden League Women — Estonia vs. Hungary (Live from Kecskemét)
+CW: A7 C2 10 79 B8 EE BE 64
