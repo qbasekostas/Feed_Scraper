@@ -1,4 +1,5 @@
 CEV Volleyball European League, 2026
+North Macedonia vs Iceland
 Eutelsat 7B/7C @ (7.0E)
 11105 H 7199
 DVB-S2 - 
@@ -76,6 +77,47 @@ Canada vs USA
 99w 4131V 15000
 67 AB 7F 91 8E 61 8D 7C
 so far these have had all matches, 2 secs ahead of radio 5 live AM freq
+---FEED-SEPARATOR---
+LIGA ACB, 
+Play Offs, Semi-final
+Barcellona vs Tenerife
+Hotbird 13B/13C/13G @ ( 13.0E )
+11087 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi01 ACB
+CW: : F7 34 25 50 56 87 DD BA
+---FEED-SEPARATOR---
+Lega A, Play Offs
+Olimpia Milano vs Venezia
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11605 V 7199 
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Encoder 1
+CW
+:
+9A 6B CB D0 8B 6A 5F 54
+---FEED-SEPARATOR---
+Turkish Basketball Super League
+Fenerbahçe vs Beşiktaş
+Hotbird 13B/13C/13G @ ( 13.0E )
+10829 V 7500
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: DT SNG 2 Backup
+CW: : 62 93 6C 61 B7 C5 C4 40
+---FEED-SEPARATOR---
+Event: Men's basketball: ORLEN Basket Liga - 3rd final game of the play-off phase: ORLEN Zastal Zielona Góra - Legia Warszawa
+Eutelsat 7B / Eutelsat 7C  7° E
+12592 V  7200
+ID: POL-058_ch1
+4.2.2
+- DVB-S2 - 8PSK
+CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
 Turkish  basketball final series
 Fenerbahçe vs Beşiktaş
