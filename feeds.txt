@@ -1,0 +1,111 @@
+CEV Volleyball European League, 2026
+Slovakia vs Finland
+Eutelsat 7B/7C @ (7.0E)
+12740 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: SLQ 001
+CW: : 3A 1F 3A 93 1E 4B 3A A3
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Sweden vs Bosnia and Herzegovina
+Eutelsat 7B/7C @ (7.0E)
+11579 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ENC 7
+CW: : 05 06 BA C5 CA D1 B3 4E
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+ESTOINA vs AUSTRIA
+Eutelsat 7B/7C @ (7.0E)
+11526 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: EST-010 ENC4 CEV
+CW: : EE 4E A7 E3 C6 A5 6A D5
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11126 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE-006
+Event: 
+CEV Volleyball European League 2026 - Finland vs Croatia
+CW: AA 18 58 1A 7F 0F AF 3D
+---FEED-SEPARATOR---
+Albahraniy said:
+VOLLEYBALL Nations League 
+VNL2026
+Asiasat 5 (100.5°E) C BAND
+3895 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: Main
+CW: 4A BA 46 4A F9 EB 45 29
+Click to expand...
+NEW CW
+: 
+9E AC D0 1A CF 60 84 B3
+New match
+China VS Cuba
+Slovenia VS Japan
+Belgium VS  Iran
+Germany VS France
+Bulgaria VS Serbia
+Canada VS Türkiye
+---FEED-SEPARATOR---
+Gevs999 said:
+			new cw pls?
+Click to expand...
+CEV Volleyball European League, 2026
+Portugal vs Latvia
+Eutelsat 7B/7C @ (7.0E)
+12509 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: main - E285
+CW: AB BA 20 85 26 06 14 40
+---FEED-SEPARATOR---
+Mo_ha said:
+CEV Volleyball European League, 2026
+Sweden vs Norway
+Eutelsat 7B/7C @ (7.0E)
+12509 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: YSM-021M
+CW: : AA 7B DF 04 5F AA 05 0E
+Click to expand...
+new cw pls?
+---FEED-SEPARATOR---
+krzyś1 said:
+Event: European League Women, Croatia vs Estonia
+Eutelsat 16A @ 16.0°E
+12574 H 7200
+ID: HUN-013 Line 1
+4:2:0
+  DVB-S2 8PSK
+CW
+: 
+51 47 30 C8 C8 86 03 51
+Click to expand...
+NEW KEY
+7F 76 70 47 11 97 3C 8F  
+CW: 1B EE B9 C2 40 9A 32 0C
+---FEED-SEPARATOR---
+sahafe said:
+			21.6E
+ID: FLY HD2 MOD1
+11595 H 4000
+4:2:0
+55 58 FC 2D 41 57 F5 24 
+CW: FE ED 12 FD 06 20 26 4C
+Click to expand...
+THRONE CUP BASKETBALL - WOMEN'S FINAL
+NEW KEY
+6D 88 17 C8 E9 C8 6D EC 
+CW: FE ED 14 FF 06 20 26 4C
+  #[E] PID:0100h
