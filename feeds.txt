@@ -57,6 +57,28 @@ Germany VS France
 Bulgaria VS Serbia
 Canada VS Türkiye
 ---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Greece vs North Macedonia
+Eutelsat 7B/7C @ (7.0E)
+11105 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: BAV
+CW: : FD 79 EE 64 1A C2 BB 97
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+7.0E
+- Name:           YSM-021M (DSNG)
+- Freq: 12640,114
+- Pol: Horizontal
+- SR: 7200,221
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+DD D5 59 D0 62 14 58 9A 
+CW: AA 7B DF 04 5F AA 05 0E
+---FEED-SEPARATOR---
 Gevs999 said:
 			new cw pls?
 Click to expand...
@@ -67,19 +89,6 @@ Eutelsat 7B/7C @ (7.0E)
 DVB-S2 - 4:2:0 - 8PSK
 ID: main - E285
 CW: AB BA 20 85 26 06 14 40
----FEED-SEPARATOR---
-Mo_ha said:
-CEV Volleyball European League, 2026
-Sweden vs Norway
-Eutelsat 7B/7C @ (7.0E)
-12509 V 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: YSM-021M
-CW: : AA 7B DF 04 5F AA 05 0E
-Click to expand...
-new cw pls?
 ---FEED-SEPARATOR---
 krzyś1 said:
 Event: European League Women, Croatia vs Estonia
@@ -95,6 +104,14 @@ Click to expand...
 NEW KEY
 7F 76 70 47 11 97 3C 8F  
 CW: 1B EE B9 C2 40 9A 32 0C
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11636 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: E-95 MAIN
+Event: 
+LPB Play Off - Porto vs Benfica
+CW: D8 28 8E 8E 16 93 9F 48
 ---FEED-SEPARATOR---
 sahafe said:
 			21.6E
