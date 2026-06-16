@@ -1,0 +1,40 @@
+VOLLEYBALL Nations League VNL2026
+Asiasat 5 (100.5°E) C BAND
+3955 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: TLCAT-003-1 (NT THAILAND)
+CW: CD ED E0 9A C2 BB B4 31
+---FEED-SEPARATOR---
+VOLLEYBALL Nations League VNL2026
+Asiasat 5 (100.5°E) C BAND
+3946 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: PHTTSC-001-1
+CW: A6 CD 09 7C 32 5B F4 81
+---FEED-SEPARATOR---
+Gevs999 said:
+Lega A - Play Offs
+ITALY
+(Basketball)
+Venezia
+Olimpia Milano
+Eutelsat 10A @ (10.0E )
+10722 H 7199
+DVB-S2 - 4:2:2 - 8PSK
+ID: Encoder 1
+CW pls?
+Click to expand...
+CW: 2F 82 A3 54 6F E6 CF 24
+---FEED-SEPARATOR---
+Lega A - Play Offs
+ITALY
+(Basketball)
+Venezia
+Olimpia Milano
+Eutelsat 10A @ (10.0E )
+10722 H 7199
+DVB-S2 - 4:2:2 - 8PSK
+ID: Encoder 1
+CW pls?
