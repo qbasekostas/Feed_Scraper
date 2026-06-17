@@ -47,6 +47,15 @@ Argentina VS Argelia
 CW: 16 06 20 3C 26 AA BB 8B
 DVB-S2 H264 1080I 4.2.2 tp 
 ---FEED-SEPARATOR---
+Event: 
+Men's basketball: ORLEN Basket Liga - 5th final game of the play-off phase: Legia Warszawa - ORLEN Zastal Zielona Góra
+Eutelsat 7B / Eutelsat 7C  7° E
+12592 V  7200
+ID: POL-068_ch1
+4.2.2
+- DVB-S2 - 8PSK (Hevc)
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
 Albahraniy said:
 Turkish Basketball Super League, Final
 Beşiktaş Gain vs Fenerbahçe Beko
