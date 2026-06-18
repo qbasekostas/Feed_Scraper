@@ -29,3 +29,13 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: PHTTSC-001-1
 CW: 31 82 F1 A4 BA 4F FF 08
+---FEED-SEPARATOR---
+Liga Endesa, Play Offs, FINALES
+Valencia Basket vs Barça
+Hotbird 13F/13G (13.0E)
+11066 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Service1
+CW: : EA 0E 0D 05 4C 52 DB 79
