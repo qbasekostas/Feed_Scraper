@@ -75,6 +75,25 @@ CW: 31 82 F1 A4 BA 4F FF 08
 Click to expand...
 NEW CW 64 4B 40 EF AC 1F CF 9A 
 ---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Croatia vs North Macedonia 
+Eutelsat 7B/7C @ (7.0E)
+11691 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: PMFL
+CW: : 20 26 AA F0 DD 20 26 23
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Eutelsat 7B/7C @ (7.0E)
+12695 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ENC 7
+CW: : AB 22 83 50 73 BB CC FA
+---FEED-SEPARATOR---
 Ferari3000 said:
 			Eutelsat 16A (16.0E)
 11179 H 4938
@@ -115,6 +134,19 @@ DVB-S2 -
  - 8PSK
 ID: LTU-005 main
 CW: : B3 9D CD 1D 9E 4D A7 92
+---FEED-SEPARATOR---
+Türksat 3A @ 42.0°E
+Fréq:10958 - V - 7500
+MPEG 4 - 4:2:2 - DVB-S2
+ID: DT SN2 MAIN
+beşiktaş vs fenerbahçe
++
+Hot Bird 13F/G @ 13° E
+Fréq:12592 - V - 7500
+MPEG 4 - 4:2:0 - DVB-S2
+ID: DT SNG 2 MAIN
+beşiktaş vs fenerbahçe
+CW: D0 D6 6F 15 F7 70 D2 39
 ---FEED-SEPARATOR---
 Orlen Basket Liga
 Zastal Zielona Góra vs Legia Warszawa
