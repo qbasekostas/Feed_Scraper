@@ -1,0 +1,127 @@
+CEV Volleyball European League, 2026
+Eutelsat 7B/7C @ (7.0E)
+11580 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 6
+CW: : 05 06 BA C5 CA D1 B3 4E
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Montenegro vs Kosovo
+Eutelsat 7B/7C @ (7.0E)
+12593 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: STA SNG HD 2
+CW: : B6 6D A8 CB 8F 4C FB D6
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Latvia vs Estonia 
+Eutelsat 7B/7C @ (7.0E)
+11527 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: EST-010 ENC4 CEV
+CW: : 9E CA DF 47 E8 2E 5B 71
+---FEED-SEPARATOR---
+European Golden League, Women, Round 1
+Austria vs Albania
+Eutelsat 7B/7C @ 7.0E
+12564 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: STA SNG HD 4 (STA)
+CW: E7 7B 62 C4 8D B4 78 B9
+---FEED-SEPARATOR---
+VOLLEYBALL Nations League VNL2026 Women
+France vs China 
+Belgium vs Germany
+Hotbird 13F/13G (13.0E)
+11618 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR 034 / MAIN
+CW: : A9 16 AA 69 60 2F EF 7E
+---FEED-SEPARATOR---
+VOLLEYBALL Nations League VNL2026 Women
+Ukraine vs Netherlands
+Asiasat 5 (100.5°E) C BAND
+3955 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: TLCAT-003-1 (NT THAILAND)
+CW: F9 3F 9B D3 CF 43 F6 08
+---FEED-SEPARATOR---
+BLACKCRUSADER said:
+NEW CW 64 4B 40 EF AC 1F CF 9A 
+Click to expand...
+VOLLEYBALL Nations League VNL2026 Women
+Dominican Republic W - Serbia W
+---FEED-SEPARATOR---
+Albahraniy said:
+VOLLEYBALL Nations League VNL2026 
+Women
+Czechia vs USA
+Asiasat 5 (100.5°E) C BAND
+3946 H 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: PHTTSC-001-1
+CW: 31 82 F1 A4 BA 4F FF 08
+Click to expand...
+NEW CW 64 4B 40 EF AC 1F CF 9A 
+---FEED-SEPARATOR---
+Ferari3000 said:
+			Eutelsat 16A (16.0E)
+11179 H 4938
+ID: MNE-001 main
+Provider: Harmonic
+Biss Encrypt?
+Click to expand...
+Found CW: C2 B3 F0 65 FD 74 B9 2A
+---FEED-SEPARATOR---
+Lebanese First Division Volleyball Championship (XXL Energy Lebanese Volleyball Championship)
+ Club Jeunesse Sportif Batroun  Vs. Qnat Club
+30.5E
+- Name:           SNG MK2 (SV)
+- Freq: 11083,482
+- Pol: Vertical
+- SR: 4001,079
+- Mod: 8PSK
+- FEC: 2/3
+- Std: DVB-S2
+CW: 12 34 50 96 98 76 45 53
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Eutelsat 7B/7C @ (7.0E)
+12510 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: YSM-021M
+CW
+: 
+AA 7B DF 04 5F AA 05 0E
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Eutelsat 7B/7C @ (7.0E)
+11518 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: LTU-005 main
+CW: : B3 9D CD 1D 9E 4D A7 92
+---FEED-SEPARATOR---
+Orlen Basket Liga
+Zastal Zielona Góra vs Legia Warszawa
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12602 V 7199 
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: POL-080 MAIN
+CW: 07 BB 01 C3 AE 26 CF A3
