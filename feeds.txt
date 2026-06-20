@@ -1,3 +1,36 @@
+Gevs999 said:
+CEV Volleyball European League, 2026
+Finland M vs Slovakia M
+Eutelsat 16A (16.0E)
+12511 V 7200
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Iceland
+Click to expand...
+CW
+: 
+A4 D3 CC 43 AE DC FA 84
+---FEED-SEPARATOR---
+Eutelsat 16
+12511 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: Iceland
+Finland M - Slovakia M
+cw pls?
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Slovenia vs Croatia
+Eutelsat 7B/7C @ (7.0E)
+11526 H 7199 
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: PMFL
+CW
+:
+20 26 AA F0 DD 20 26 23
+---FEED-SEPARATOR---
 CEV Volleyball European League, 2026
 EST   -   SWE
 16.0E
@@ -106,20 +139,6 @@ PHTTSC-001-1 (Main)
 AB CE AC 7F 93 D2 E3 46  #CW:
  B5 40 08 FD 40 88 AC 74
 ---FEED-SEPARATOR---
-Dani Sat said:
-FIFA WORLD CUP 2026 - Group F, Round 2
-Netherlands vs. Sweden
-Eutelsat 8 West B @ 8.0°W
-12608 - V - 3615 
-|
-4:2:0
- | H.264
-1920*1080 | DVB-S2 | 8PSK
-ID: HOL-DHG-007
-CW: 14 A0 C7 7B C3 1A 4C 29
-Click to expand...
-Seconds before kickokff, no signal
----FEED-SEPARATOR---
 FIFA WORLD CUP 2026 - Group F, Round 2
 Netherlands vs. Sweden
 Eutelsat 8 West B @ 8.0°W
@@ -141,3 +160,24 @@ DVB-S2 -
  - 8PSK
 ID: UNI 1
 CW: : 7E 90 DD EB CC 17 FC DF
+---FEED-SEPARATOR---
+Gevs999 said:
+			new cw pls?
+Click to expand...
+Hotbird 13F/13G (13.0E)
+11059 H 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi01 ACB
+Valencia vs Barcelona
+BC B9 D9 4E 8E B8 22 68
+---FEED-SEPARATOR---
+Mo_ha said:
+Hotbird 13F/13G (13.0E)
+11066 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi01 ACB
+CW: : EA 0E 0D 05 4C 52 DB 79
+Click to expand...
+new cw pls?
