@@ -139,6 +139,17 @@ PHTTSC-001-1 (Main)
 AB CE AC 7F 93 D2 E3 46  #CW:
  B5 40 08 FD 40 88 AC 74
 ---FEED-SEPARATOR---
+FIFA WORLD CUP 2026
+Netherlands vs Sweden
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12677 H 3600
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Unname
+CW
+: FTA
+---FEED-SEPARATOR---
 FIFA WORLD CUP 2026 - Group F, Round 2
 Netherlands vs. Sweden
 Eutelsat 8 West B @ 8.0°W
