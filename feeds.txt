@@ -1,3 +1,25 @@
+CEV Volleyball European League, 2026
+EST   -   SWE
+16.0E
+- Name:           MNE-001 main (Harmonic)
+- Freq: 11178,039
+- Pol: Horizontal
+- SR: 4937,962
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+AA 42 54 3B 5E E0 B6 66  
+CW: 96 F7 4E DB 48 9D 5E 43
+---FEED-SEPARATOR---
+European Golden League, Women, Round 1
+Switzerland vs Azerbaijan
+Eutelsat 7B/7C @ 7.0E
+12510 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: YSM-021M (DSNG)
+CW: AA 7B DF 04 5F AA 05 0E
+---FEED-SEPARATOR---
 Ferari3000 said:
 			Eutelsat 7B/7C (7.0E)
 12593 H 7200
@@ -83,6 +105,32 @@ ID:
 PHTTSC-001-1 (Main)
 AB CE AC 7F 93 D2 E3 46  #CW:
  B5 40 08 FD 40 88 AC 74
+---FEED-SEPARATOR---
+Dani Sat said:
+FIFA WORLD CUP 2026 - Group F, Round 2
+Netherlands vs. Sweden
+Eutelsat 8 West B @ 8.0°W
+12608 - V - 3615 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: HOL-DHG-007
+CW: 14 A0 C7 7B C3 1A 4C 29
+Click to expand...
+Seconds before kickokff, no signal
+---FEED-SEPARATOR---
+FIFA WORLD CUP 2026 - Group F, Round 2
+Netherlands vs. Sweden
+Eutelsat 8 West B @ 8.0°W
+12608 - V - 3615 
+|
+4:2:0
+ | H.264
+1920*1080 | DVB-S2 | 8PSK
+ID: HOL-DHG-007
+CW: 14 A0 C7 7B C3 1A 4C 29
+(Signal Left Maybe Back Later)
 ---FEED-SEPARATOR---
 World Cup 2026
 After the Morocco vs. Scotland match
