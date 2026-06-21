@@ -10,6 +10,18 @@ PHTTSC-001-1 (Main)
 Click to expand...
 6F EE 24 F4 3B 09 A9 D1  CW : DB 10 0C F7 97 15 47 F3   
 ---FEED-SEPARATOR---
+Eutelsat 16A (16.0E)
+11179 H 4938
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+MNE-001 main
+Provider: 
+Harmonic
+European League
+Montenegro  vs  Estonia
+3F 95 51 2B 36 C3 FF 17 #CW: 
+D5 3A 65 74 D7 1E 00 F5
+---FEED-SEPARATOR---
 CEV Volleyball European League, 2026
 North Macedonia vs Slovenia 
 Eutelsat 7B/7C (7.0E)
@@ -75,6 +87,15 @@ DVB-S2 -
  - 8PSK
 ID: EST-010 ENC4 CEV
 CW: : 4C F8 88 CC EC AE B3 4D
+---FEED-SEPARATOR---
+CEV Volleyball European League 2026
+Luxembourg vs Greece
+Eutelsat 7B/7C @ 7.0E
+12695 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:ENC 5
+CW: 77 33 99 43 88 AB C3 F6
 ---FEED-SEPARATOR---
 CEV Volleyball European Leagu 2026
 Lithuania vs Romania
