@@ -1,22 +1,9 @@
-Mo_ha said:
-FIVB Men's Volleyball Nations League, 2026
-Belgium vs Poland 
-Hotbird 13F/13G (13.0E)
-11610 H 7199
-DVB-S2 -
- 4:2:0 
-- 8PSK
-ID: SLQ 008 M
-CW: : 35 86 DC 97 B1 74 82 A7
-Click to expand...
-China - Turkey
----FEED-SEPARATOR---
 FIVB Men's Volleyball Nations League, 2026
 Bulgaria vs Italy
-Argentina vs Germany
+Ukraine vs Brazil
 Canada vs Slovenia 
 Hotbird 13F/13G (13.0E)
-11619 H 7199
+11617 H 7199
 DVB-S2 - 
 4:2:0
  - 8PSK
@@ -25,9 +12,10 @@ CW: : E2 57 ED 26 57 3B B0 42
 ---FEED-SEPARATOR---
 FIVB Men's Volleyball Nations League, 2026
 China vs Turkey
+Argentina vs Germany
 Belgium vs Poland 
 Hotbird 13F/13G (13.0E)
-11610 H 7199
+11608 H 7199
 DVB-S2 -
  4:2:0 
 - 8PSK
@@ -39,7 +27,7 @@ Serbia vs Japan
 Cuba vs USA
 Iran vs France  
 Hotbird 13F/13G (13.0E)
-11601 H 7199
+11600 H 7199
 DVB-S2 - 
 4:2:0 
 - 8PSK
