@@ -89,16 +89,3 @@ DVB-S2 -
 - 8PSK
 CW: Fi01 ACB
 CW: : 1B 18 39 6C 52 DB 53 80
----FEED-SEPARATOR---
-Mo_ha said:
-LIGA ACB, Play Offs
-Barcelona vs Valencia
-Hotbird 13F/13G (13.0E)
-11059 H 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-CW: Fi01 ACB
-CW: : A0 AD 94 E1 65 55 6C 26
-Click to expand...
-new cw pls?
