@@ -1,0 +1,38 @@
+Eutelsat Hot Bird 13F/13G @ 13.0°E
+11600 H 7199 | 4:2:0 | DVB-S2 8PSK
+ID: 
+F419_MAIN
+Event: 
+2026 FIVB Volleyball Nations League (VNL) — Men's Pool 4: June 26 Matches (Live from CO'MET Arena, Orléans, France)
+ * 
+Match 1 (16:00 GMT+1):
+ Iran vs. Japan
+ * 
+Match 2 (19:30 GMT+1):
+ Serbia vs. Cuba
+CW: D7 D3 DB 85 16 92 9F 47
+---FEED-SEPARATOR---
+Eutelsat Hot Bird 13F/13G @ 13.0°E
+11617 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+SLQ-010
+Event: 
+2026 FIVB Volleyball Nations League (VNL) — Men's Pool 6: June 26 Matches (Live from Arena Stožice, Ljubljana, Slovenia)
+ * 
+Match 1 (16:30):
+ Ukraine vs. Canada
+ * 
+Match 2 (20:00):
+ Brazil vs. Italy
+CW: A6 F6 ED 89 EF 6C C7 22
+---FEED-SEPARATOR---
+FIVB Men's Volleyball Nations League, 2026
+Argentina vs China
+Belgium vs Germany
+Hotbird 13F/13G (13.0E)
+11608 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: SLQ 008 M
+CW: : 54 70 5E 22 16 0C B3 D5
