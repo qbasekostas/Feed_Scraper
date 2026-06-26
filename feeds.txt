@@ -77,16 +77,3 @@ Hot Bird 13F/13G @ 13.0°E
 ID: LMG PATH 1
 NEW 
 CW: 0D 6D 90 0A 83 61 95 79
----FEED-SEPARATOR---
-Mo_ha said:
-FIFA WORLD CUP 2026 
-France vs Norway
-Hot Bird 13B/13C/13E @ ( 13.0E )
-10839 H 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: LMG PATH 1
-CW: : 64 12 E0 56 AC 98 A3 E7
-Click to expand...
-dont work for the video track
