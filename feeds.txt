@@ -1,3 +1,14 @@
+Ferari3000 said:
+			Eutelsat 16A (16.0E)
+11163 H 7200
+ID: HUN-013 Line 1
+Provider: HU-MTVA
+European League Women,Final Group, Semifinal,1st Match
+Hungary W - Sweden W (18:00)
+Biss Encrypt?
+Click to expand...
+CW: 91 BB 68 B4 FE A6 DA 7E
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3862 V 30001 C-Band
 ID: F419_MAIN
@@ -79,18 +90,3 @@ DVB-S2 -
  - 8PSK
 ID:  ROU-015 MATCH 2 MAIN
 CW: : F1 C7 88 40 E7 5D 22 66
----FEED-SEPARATOR---
-Mo_ha said:
-UEFA WOMEN’S UNDER-19 CHAMPIONSHIP
-Poland U19 vs Sweden U19
-Eutelsat 16A @ ( 16.0E )
-11129 H 9874
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: ROU-062 MAIN
-CW: : F1 C7 88 40 E7 5D 22 66
-Click to expand...
-UEFA International matches need to be posted here: 
-https://www.sat-universe.com/index....lease-state-if-4-2-0-or-4-2-2.276471/page-469
-Not in the UEFA Champions league thread
