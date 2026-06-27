@@ -1,0 +1,96 @@
+Asiasat 5 @ 100.5°E
+3862 V 30001 C-Band
+ID: F419_MAIN
+ (Provider ID: SAT PROD)
+MPEG4 | DVB-S2
+1920x1080i |12,13Mb/Sec |8PSK| 
+4:2:0
+ HD
+Event: FIVB Men's Volleyball Nations League 2026 
+– Orléans (Pool 4 - Week 2)
+Match 59: USA vs Japan
+Time / Kickoff: 22.00 JKT-TH / 23.00 MY-SG / 15.00 GMT / 17.00 CET
+Match 61: France vs Serbia
+Time / Kickoff: 01.30 JKT-TH / 02.30 MY-SG / 18.30 GMT / 20.30 CET
+Mo_ha said:
+#CW
+:
+ 76 28 92 30 35 33 B6 1E
+Click to expand...
+---FEED-SEPARATOR---
+FIVB Men's Volleyball Nations League, 2026
+Poland vs Germany
+Turkey vs Argentina
+Hotbird 13F/13G (13.0E)
+11608 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: SLQ 008 M
+CW: : F0 A3 92 25 DB 36 C3 D4
+---FEED-SEPARATOR---
+FIVB Men's Volleyball Nations League, 2026
+United States vs Japan
+France vs Serbia
+Hotbird 13F/13G (13.0E)
+11600 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: F419_MAIN
+CW: : 76 28 92 30 35 33 B6 1E
+---FEED-SEPARATOR---
+FIVB Men's Volleyball Nations League, 2026
+Bulgaria vs Canada
+Slovenia vs Brazil
+Hotbird 13F/13G (13.0E)
+11617 H 7199
+DVB-S2 -
+ 4:2:0 
+- 8PSK
+ID: SLQ-010 BU
+CW: : BE 67 BD E2 72 E0 50 A2
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12636 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: NLFLEV_HOL-090 CH-C
+CW: : 6D C6 2A 5D 8A F5 DB 5A
+---FEED-SEPARATOR---
+UEFA WOMEN’S UNDER-19 CHAMPIONSHIP
+Poland U19 vs Sweden U19
+Eutelsat 16A @ ( 16.0E )
+11129 H 9874
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ROU-062 MAIN
+CW: : F1 C7 88 40 E7 5D 22 66
+---FEED-SEPARATOR---
+UEFA WOMEN’S UNDER-19 CHAMPIONSHIP
+Bosnia & Herzegovina U19 vs Germany U19
+Eutelsat 16A @ ( 16.0E )
+11141 H 9874
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID:  ROU-015 MATCH 2 MAIN
+CW: : F1 C7 88 40 E7 5D 22 66
+---FEED-SEPARATOR---
+Mo_ha said:
+UEFA WOMEN’S UNDER-19 CHAMPIONSHIP
+Poland U19 vs Sweden U19
+Eutelsat 16A @ ( 16.0E )
+11129 H 9874
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ROU-062 MAIN
+CW: : F1 C7 88 40 E7 5D 22 66
+Click to expand...
+UEFA International matches need to be posted here: 
+https://www.sat-universe.com/index....lease-state-if-4-2-0-or-4-2-2.276471/page-469
+Not in the UEFA Champions league thread
