@@ -55,7 +55,7 @@ Germany U19 vs Denmark U19
 Eutelsat 16A @ ( 16.0E )
 11176 H 9874
 DVB-S2 - 
-4:2:0
+4:2:2
  - 8PSK
 ID: Under 19's Match 2 Germany v Denmark
 CW: : F2 C5 67 1E E7 5D 98 DC
