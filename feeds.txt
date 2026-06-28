@@ -1,0 +1,96 @@
+2026 FIVB Volleyball Nations League (VNL)
+Hot Bird 13.0E
+11598 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: F419_MAIN
+Asiasat 5 (100.5°E) C BAND
+3860 V 30000
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  F419_MAIN (SAT PROD)
+CW: 37 09 63 A3 FF D3 F9 CB
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3860 V 30000
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: SLQ 008 M (ONmedia)
+Mo_ha said:
+FIVB Men's Volleyball Nations League, 2026
+CW: : 25 99 2C EA 02 C8 7D 47
+Click to expand...
+---FEED-SEPARATOR---
+FIVB Men's Volleyball Nations League 2026
+Hot Bird 13.0E
+11616 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  SLQ-010 M
+CW: E9 F6 83 62 92 92 BE E2
+---FEED-SEPARATOR---
+FIVB Men's Volleyball Nations League, 2026
+China vs Germany
+Belgium vs Turkey
+Poland vs Argentina
+Hotbird 13F/13G (13.0E)
+11608 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: SLQ 008 M
+CW: : 25 99 2C EA 02 C8 7D 47
+---FEED-SEPARATOR---
+CEV Volleyball European League, 2026
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11043 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: SLQ 001
+CW: : A2 02 62 06 80 6A BC A6
+---FEED-SEPARATOR---
+UEFA MEN’S UNDER-19 CHAMPIONSHIP
+Germany U19 vs Denmark U19
+Eutelsat 16A @ ( 16.0E )
+11176 H 9874
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Under 19's Match 2 Germany v Denmark
+CW: : F2 C5 67 1E E7 5D 98 DC
+---FEED-SEPARATOR---
+UEFA MEN’S UNDER-19 CHAMPIONSHIP (
+https://www.uefa.com/under19/
+)
+Spain U19
+vs Wales U19
+Eutelsat 16A @ ( 16.0E )
+11188 H 9874
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Unname
+CW: : F2 C5 67 1E E7 5D 98 DC
+---FEED-SEPARATOR---
+UEFA WOMEN’S UNDER-19 CHAMPIONSHIP
+Austria U19
+ vs Iceland U19
+Eutelsat 16A @ ( 16.0E )
+11141 H 9874
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ROU-015 MATCH 3 MAIN
+CW: : C7 8F 18 6E E7 5D 45 89
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°E
+11128 H 9875 | 4:2:0 | DVB-S2 8PSK
+ID: 
+ROU-062 MAIN
+Event: 
+2026 UEFA European Women's Under-19 Championship — Group B: June 28 Matches 
+ * 
+Match 1 (13:00 GMT+1):
+ Switzerland vs. Spain
+CW: C7 8F 18 6E E7 5D 45 89
