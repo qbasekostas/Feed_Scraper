@@ -1,0 +1,7 @@
+Hot Bird 13B/13C/13E @ 13.0E
+10839 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: LMG PATH 1
+Event: 
+FIFA WORLD CUP 2026 - France vs Sweden
+CW: 1F 95 4C 00 4B C0 0E 19
