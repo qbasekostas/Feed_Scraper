@@ -1,0 +1,45 @@
+CEV European League, Women, Semifinals
+Sweden vs Hungary
+Eutelsat 7B/7C @ 7.0E
+12675 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:ENC 3
+CW: AB 01 07 B3 BA 20 26 00
+---FEED-SEPARATOR---
+Club Friendly
+Helmond vs Panathinaikos
+7e
+11487 V 7200
+ID: HOL324 TX1
+FTA
+---FEED-SEPARATOR---
+Club Friendly 2026
+Helmond Sport Netherlands vs Panathinaikos Greece
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11486 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: HOL324 TX1
+CW: : 9E 7C 5A 74 3F 1D 2B 87
+---FEED-SEPARATOR---
+UEFA MEN’S UNDER-19 CHAMPIONSHIP
+Wales U19 vs Germany U19
+Eutelsat 16A @ ( 16.0E )
+11176 H 9874
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Wrexham M6 main
+CW: : 87 C1 67 AF 4F 7F CC 9A
+---FEED-SEPARATOR---
+UEFA MEN’S UNDER-19 CHAMPIONSHIP
+Denmark U19 vs Spain U19
+Eutelsat 16A @ ( 16.0E )
+11188 H 9874
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: Match 05 U19 Denmark v Spain Main
+CW: : 87 C1 67 AF 4F 7F CC 9A
