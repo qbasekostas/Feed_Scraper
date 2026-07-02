@@ -18,6 +18,14 @@ DVB-S2 - 1080P - 8PSK
 ID:  U19 Caernafon Main
 CW: 7F 3E 8A 47 F0 47 C5 FC
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11609 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: BIH007
+Event: 
+World Cup Qualifiers - Bosnia and Herzegovina vs Türkiye
+FTA
+---FEED-SEPARATOR---
 bayuware said:
 Astra 1KR-1L-1M-1N ( 19.2E )
 11412 V 7200
@@ -97,3 +105,14 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID: 17
 CW: 79 B0 85 AE D5 03 9B 73
+---FEED-SEPARATOR---
+SlippyGes said:
+FIBA Basketball World Cup 2027 European Qualifiers
+First round, Round 5
+Spain - Denmark
+ID: E-467 FIBA main
+CW: E2 DB 44 01 73 7A 57 44
+Click to expand...
+13.0°E
+11204 V 7200
+4:2:0
