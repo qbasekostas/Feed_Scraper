@@ -18,6 +18,40 @@ DVB-S2 - 1080P - 8PSK
 ID:  U19 Caernafon Main
 CW: 7F 3E 8A 47 F0 47 C5 FC
 ---FEED-SEPARATOR---
+bayuware said:
+Astra 1KR-1L-1M-1N ( 19.2E )
+11412 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: LTU-005 main
+Astra 1KR-1L-1M-1N ( 19.2E )
+11399 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: LTV
+any CW please?
+Click to expand...
+ID: LTU-005 main
+CW: 42 FD 1A 59 4A 20 DB 45
+----------
+ID: LTV
+CW: FD 60 9C F9 60 6F AE 7D
+---FEED-SEPARATOR---
+SlippyGes said:
+FIBA Basketball World Cup 2027 European Qualifiers
+First round, Round 5
+Romania - Greece
+19.2e
+11428 V 7200
+ID: ROU-015 MAIN
+CW: 84 BD E6 27 59 4A 5E 01
+Click to expand...
+13E 11196 V 7200 S2 8psk 3/4
+Id: ROU-15 MAIN
+ 4:2:0
+CW: 84 BD E6 27 59 4A 5E 01
+						1_0_1_1_1_1111_820000_0_0_0_20260702183102.jpg - dodany na Zapodaj.net
+Zdjęcie dodane na bezpłatny hosting zdjęć Zapodaj.net
+					zapodaj.net
+---FEED-SEPARATOR---
 FIBA Basketball World Cup 2027 European Qualifiers
 First round, Round 5
 Romania - Greece
