@@ -106,6 +106,16 @@ DVB-S2 - 1080P - 8PSK
 ID: 17
 CW: 79 B0 85 AE D5 03 9B 73
 ---FEED-SEPARATOR---
+FIBA Basketball World Cup 2027 European Qualifiers
+Iceland vs Italy
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12726 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ISL-RKS-002 - MAIN
+CW: : FF 5D C0 1C 23 8A 14 C1
+---FEED-SEPARATOR---
 SlippyGes said:
 FIBA Basketball World Cup 2027 European Qualifiers
 First round, Round 5
