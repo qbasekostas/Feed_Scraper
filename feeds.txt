@@ -1,0 +1,98 @@
+13e
+11186 V 7200
+4:2:0
+ID: 
+EST-010 ENC1 FIBA
+AF EF 9F 01 B7 98 B0 56  #CW: 
+BE 04 C9 8B A8 7B 51 74
+---FEED-SEPARATOR---
+Dolg said:
+			13E
+10849 H 7200
+ID FIN-006 Main
+Click to expand...
+DVB-S2 - 4:2:0 - 8PSK
+Event: 
+World Cup Qualifiers - Finland vs Hungary
+CW: 77 BE DC 11 10 40 C0 10
+---FEED-SEPARATOR---
+Mo_ha said:
+FIBA Basketball World Cup 2027 European Qualifiers
+CYPRUS vs CROATIA
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12648 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: CYPvsCRI_BASKETBALL_M
+CW: : 40 A0 AD 8D 9A F3 6B F8
+Click to expand...
+40 A0 AD 8D 
+9D
+ F3 6B FB
+---FEED-SEPARATOR---
+FIBA Basketball World Cup 2027 European Qualifiers
+CYPRUS vs CROATIA
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12648 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: CYPvsCRI_BASKETBALL_M
+CW: : 40 A0 AD 8D 9D F3 6B F8
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+3974 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:17
+Verdeoro said:
+			Event: 
+World Cup Qualifications - China vs Japan
+CW: 39 87 76 36 4D AA 3D 34
+Click to expand...
+---FEED-SEPARATOR---
+maxmax11 said:
+			10840 H 7200
+17 channel feed at 13e key please
+Click to expand...
+HOTBIRD 13E
+ID: 17
+Event: 
+World Cup Qualifications - China vs Japan
+CW: 39 87 76 36 4D AA 3D 34
+---FEED-SEPARATOR---
+FIBA U17 Basketball World Cup, Quarter-Finals 39
+Canada U17 vs Australia U17
+Eutelsat 7B/7C @ 7.0E
+12673 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:ROU-015 MAIN
+CW: 2A 8F FF B8 B4 C9 03 80
+---FEED-SEPARATOR---
+FIBA World Cup, Asian & Oceanian Qualifiers, Gr. A, Round 5
+Australia vs Guam
+Asiasat 5 (100.5°E) C BAND
+3992 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  FIBA BBWC Main
+CW: DC AA 39 BF 33 28 33 8E
+---FEED-SEPARATOR---
+FIBA World Cup, Asian & Oceanian Qualifiers, Gr. B, Round 5
+South Korea vs Chinese Taipei
+Asiasat 5 (100.5°E) C BAND
+3984 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  KSN-HD#1 (KT)
+CW: BA 33 39 26 DD 22 5C 5B
+---FEED-SEPARATOR---
+100.5e
+4115 H 7200
+4:2:0
+ID:  
+FIBA BBWC Main
+D9 DA B0 DF C1 BA F8 33  #CW: 
+87 3B BA 7C 33 29 CA 26
