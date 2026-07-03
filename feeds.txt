@@ -1,3 +1,51 @@
+Astra 1N/1P/1Q @ 19.2°E
+11396 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+LTV
+Event: 
+FIBA Basketball World Cup 2027 European Qualifiers: Germany 
+CW: 72 B0 54 76 16 41 FB 52
+---FEED-SEPARATOR---
+Astra 1N/1P/1Q @ 19.2°E
+11574 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+SWE-054 MAIN 
+Event: 
+FIBA Basketball World Cup 2027 European Qualifiers: Sweden vs. Czech Republic 
+CW: 6C A6 1A 2C 50 DB C0 EB
+---FEED-SEPARATOR---
+xachik said:
+13e
+11186 V 7200
+4:2:0
+ID: 
+EST-010 ENC1 FIBA
+AF EF 9F 01 B7 98 B0 56  #CW: 
+BE 04 C9 8B A8 7B 51 74
+Click to expand...
+The same as:
+Astra 1KR-1L-1M-1N ( 19.2E )
+11412 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+Event: 
+World Cup Qualifiers - Estonia vs Slovenia
+---FEED-SEPARATOR---
+Astra 1N/1P/1Q @ 19.2°E
+11430 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+FIN-006 Main 
+Event: 
+FIBA Basketball World Cup 2027 European Qualifiers: Finland vs. Hungary (
+CW: 77 BE DC 11 10 40 C0 10
+---FEED-SEPARATOR---
+Astra 1KR-1L-1M-1N ( 19.2E )
+11562 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: FIBA
+Event: 
+World Cup Qualifiers - Austria vs Poland
+CW: 25 C9 C3 B1 1E 09 47 6E
+---FEED-SEPARATOR---
 13e
 11186 V 7200
 4:2:0
