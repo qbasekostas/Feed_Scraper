@@ -11,7 +11,7 @@ ID: ARG VS CABO
 DVB-S2 4.2.2 1080I 
 FIFA WORLD CUP 2026
 Argentina VS Cabo Verde 
-CW: 03 0720 2A26 26 AA BB 8B
+CW: 03 07 20 2A 26 AA BB 8B
 ---FEED-SEPARATOR---
 FIBA Basketball World Cup 2027 European Qualifiers: Germany
 Hot Bird 13F/13G @ ( 13.0E )
@@ -185,7 +185,7 @@ FIBA BBWC Main
 D9 DA B0 DF C1 BA F8 33  #CW: 
 87 3B BA 7C 33 29 CA 26
 ---FEED-SEPARATOR---
-Hotbird ( 13E )
+Hot Bird 13B/13C/13E @ 13.0E
 10839 H 7200
 DVB-S2 - 4:2:0 - 8PSK
 ID: E412 BCK
