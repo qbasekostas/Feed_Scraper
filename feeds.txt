@@ -5,6 +5,15 @@ PAOK vs Westerlo
 ID: UKI 1678 PATH1
 FTA
 ---FEED-SEPARATOR---
+FIFA WORLD CUP 2026 
+Paraguay - France
+Hot Bird 13B/13C/13E @ 13.0E
+10839 H 7201 | 3/4 | 4:2:0
+ID: LMG PATH 1
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 15.680Mb/Sec
+CW: 6
+4 12 E0 56 AC 98 A3 E7
+---FEED-SEPARATOR---
 Club Friendly Games
 Panathinaikos FC vs AFC Ajax
 Eutelsat 7B/7C @ 7.0E
