@@ -1,0 +1,65 @@
+Club Friendly
+PAOK vs Westerlo
+39e
+12634 V 7400
+ID: UKI 1678 PATH1
+FTA
+---FEED-SEPARATOR---
+UEFA MEN’S UNDER-19 CHAMPIONSHIP
+Spain U19 vs 
+Germany
+ U19
+Eutelsat 16A @ ( 16.0E )
+11176 H 9874
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Match 10 U19 Spain v Germany Main
+CW: : 91 1C 30 DD 8B E7 5A CC
+---FEED-SEPARATOR---
+UEFA MEN’S UNDER-19 CHAMPIONSHIP
+Denmark U19 vs Wales U19
+Eutelsat 16A @ 16.0E
+11186 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: Wrexham M09 main
+CW: 91 1C 30 DD 8B E7 5A CC
+---FEED-SEPARATOR---
+16.0°E
+11176 H 9875
+4:2:0
+ID: Match 10 U19 Spain v Germany B/up
+CW: 91 1C 30 DD 8B E7 5A CC
+---FEED-SEPARATOR---
+FIBA U17 Basketball World Cup
+France vs Lithuania
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12674 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ROU-015 MAIN
+CW: : FA 17 61 72 26 42 D3 3B
+---FEED-SEPARATOR---
+FIBA World Cup Qualification, Americas
+Dominican Republic vs USA
+13°E
+10849 
+H
+ 7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:Fi12_GNVE
+CW: B8 30 D7 BF AC D3 8A 09
+---FEED-SEPARATOR---
+FIBA World Cup Qualification, Americas
+Canada vs Puerto Rico
+Hot Bird 13F/13G @ ( 13.0E )
+11610 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Fi011_GNVE
+CW: : 23 5C F3 72 24 CC FA EA
