@@ -5,6 +5,24 @@ PAOK vs Westerlo
 ID: UKI 1678 PATH1
 FTA
 ---FEED-SEPARATOR---
+Club Friendly Games
+Panathinaikos FC vs AFC Ajax
+Eutelsat 7B/7C @ 7.0E
+11052 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:2Sat HOL318 Main MD2 M4
+CW: F4 07 A1 9C 23 EA 04 11
+---FEED-SEPARATOR---
+Club Friendly Games
+Panathinaikos FC vs AFC Ajax
+Eutelsat 7B/7C @ 7.0E
+11061 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: 2Sat HOL318 BU MD2 M4
+CW: F0 47 B3 EA 26 A0 41 07
+---FEED-SEPARATOR---
 UEFA MEN’S UNDER-19 CHAMPIONSHIP
 Spain U19 vs 
 Germany
