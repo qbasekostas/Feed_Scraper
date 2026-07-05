@@ -34,6 +34,37 @@ DVB-S2 -
 ID: M11 Ukraine Main
 CW: : 2F 80 67 16 37 33 B7 21
 ---FEED-SEPARATOR---
+Eutelsat Hot Bird 13F/13G @ 13.0°E
+11194 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Main 
+Event: 
+FIBA Basketball World Cup 2027 European Qualifiers — First Round: Group D: Italy vs. Lithuania (Live from Virtus Arena, Bologna)
+CW: 78 7C 6A 5E 2B D9 9D A1
+---FEED-SEPARATOR---
+SlippyGes said:
+FIBA Basketball World Cup 2027 European Qualifiers
+First round, Round 6
+Greece - Portugal
+19.2e
+11399 V 7200
+ID: Nameless 0_1
+CW: FF 15 1B 2F 4F 33 33 B5
+Click to expand...
+13.0°E
+10840 H 7200
+4.2.0- DVB-S2 - 8PSK
+ID: unnamed
+CW: FF 15 1B 2F 4F 33 33 B5
+---FEED-SEPARATOR---
+FIBA Basketball World Cup 2027 European Qualifiers
+First round, Round 6
+Greece - Portugal
+19.2e
+11399 V 7200
+ID: Nameless 0_1
+CW: FF 15 1B 2F 4F 33 33 B5
+---FEED-SEPARATOR---
 FIBA Basketball World Cup 2027 European, Qualifiers
 Georgia vs Spain
 Eutelsat 7A/7B/7C @ ( 7.0E )
