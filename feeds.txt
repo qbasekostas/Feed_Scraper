@@ -34,6 +34,35 @@ DVB-S2 -
 ID: M11 Ukraine Main
 CW: : 2F 80 67 16 37 33 B7 21
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C (7.0 E)
+12507 Vertical 4936,171 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-021M
+---FEED-SEPARATOR---
+Astra 1N/1P/1Q @ 19.2°E
+11411 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+sky BO 
+Event: 
+FIBA Basketball World Cup 2027 European Qualifiers — First Round: Group D: Italy vs. Lithuania (Live from Virtus Arena, Bologna)
+CW: 78 7C 6A 5E 2B D9 9D A1
+---FEED-SEPARATOR---
+Astra 1N/1P/1Q @ 19.2°E
+11560 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Main 
+Event: 
+FIBA Basketball World Cup 2027 European Qualifiers — First Round: Group D: Italy vs. Lithuania (Live from Virtus Arena, Bologna)
+CW: 78 7C 6A 5E 2B D9 9D A1
+---FEED-SEPARATOR---
+Astra 1N/1P/1Q @ 19.2°E
+11430 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+MNE-001 main 
+Event: 
+FIBA Basketball World Cup 2027 European Qualifiers — First Round: Group B: Montenegro vs. Romania (Live from Sports Hall Topolica, Bar)
+CW: 64 73 E2 B9 61 3A F0 8B
+---FEED-SEPARATOR---
 Eutelsat Hot Bird 13F/13G @ 13.0°E
 11194 V 7200 | 4:2:0 | DVB-S2 8PSK
 ID: 
