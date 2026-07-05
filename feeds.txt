@@ -34,6 +34,24 @@ DVB-S2 -
 ID: M11 Ukraine Main
 CW: : 2F 80 67 16 37 33 B7 21
 ---FEED-SEPARATOR---
+FIBA Basketball World Cup 2027 European, Qualifiers
+Georgia vs Spain
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12649 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR-119 Main
+CW: : 72 4B 1C D9 49 B6 24 23
+---FEED-SEPARATOR---
+Eutelsat Hot Bird 13F/13G @ 13.0°E
+10848 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+TUR-119 Main 
+Event: 
+FIBA Basketball World Cup 2027 European Qualifiers — First Round: Group A: Georgia vs. Spain (Live Feed)
+CW: 72 4B 1C D9 49 B6 24 23
+---FEED-SEPARATOR---
 Mo_ha said:
 FIBA Basketball World Cup 2027 European Qualifiers
 DENMARK vs UKRAINE
