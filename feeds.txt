@@ -19,6 +19,61 @@ New Zealand  vs  Guam
 AE 5A 71 C4 8D 94 2B DA  #CW: 
 AA 21 A3 6E 9A B6 67 B7
 ---FEED-SEPARATOR---
+Eutelsat Hot Bird 13F/13G @ 13.0°E
+11205 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+SLO-008 Tx 1 *(RTV Slovenija SNG Uplink)*
+Event: 
+FIBA Basketball World Cup 2027 European Qualifiers — First Round: Group D: Slovenia vs. Sweden (Live from Arena Stožice, Ljubljana, Slovenia)
+CW: 3C F0 12 3E 3E 70 10 BE
+---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers, Group C, Round 6
+Serbia vs Bosnia & Herzegovina 
+Hot Bird 13.0E
+11194 v 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: YSM-012 MAIN
+CW: 18 6A 53 D5 A6 19 4F 0E
+---FEED-SEPARATOR---
+FIBA Basketball World Cup 2027 European, Qualifiers
+France vs Finland
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12510 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: F529_PRIV_BEIN
+CW: : DD A7 F5 79 64 DE 98 DA
+---FEED-SEPARATOR---
+7e
+12677 V 7200
+4:2:0
+ID: SLO-008 Tx 1
+55 9A AE 9D 1D 5E 1E 53  #CW: 3C F0 12 3E 3E 70 10 BE
+Basketball
+World Cup - Qualification - First round
+Slovenia vs Sweden
+---FEED-SEPARATOR---
+7e
+12685 V 7200
+4:2:0
+ID: 
+Medialink CRO-024/1
+D1 E0 AC D6 6A 7A D9 C9  #CW:
+7A 94 0A 18 58 82 C2 9C
+Basketball
+World Cup - Qualification - First round
+Croatia - Israel
+---FEED-SEPARATOR---
+FIBA Basketball World Cup 2027 European Qualifiers
+Eutelsat 7B/7C @ 7.0E
+10960 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Medialink CRO-025/1
+CW: 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
 Astra 1N/1P/1Q @ 19.2°E
 11560 V 7200
 DVB-S2 - 4:2:0 - 8PSK
