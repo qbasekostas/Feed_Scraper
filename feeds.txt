@@ -1,0 +1,29 @@
+Nations League, Women 2026
+Asiasat 5 (100.5°E) C BAND
+3912 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:VNL Feed A
+CW: C5 94 5D B6 7E 8E 82 8E
+---FEED-SEPARATOR---
+UEFA Champions League Qualifying
+Ararat-Armenia vs Riga FC
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11022 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ARM-005 Main
+CW: : 78 CD 07 4C D2 6A AC E8
+---FEED-SEPARATOR---
+FIBA World Cup Qualification, Americas
+COLOMBIA vs BRAZIL
+13°E
+10840 
+H
+ 7200
+DVB-S2-
+4:2:0
+-8PSK
+ID:Fi14GNVE_COL_BRA
+CW: C3 66 78 A1 DB 9C F1 68
