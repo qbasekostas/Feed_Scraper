@@ -1,3 +1,10 @@
+13e
+11186 V 7200
+4:2:0
+ID: ITA 274 VNL Women - Belgrade Main
+Vnl Women
+51 55 94 50 EF 50 68 DC  #CW: 4B A7 B1 A3 27 79 35 D5
+---FEED-SEPARATOR---
 Nations League, Women 2026
 Asiasat 5 (100.5°E) C BAND
 3912 V 7200
@@ -5,6 +12,26 @@ DVB-S2 - 1080P - 8PSK
 4:2:0
 ID:VNL Feed A
 CW: C5 94 5D B6 7E 8E 82 8E
+---FEED-SEPARATOR---
+SlippyGes said:
+Club Friendly
+PAOK vs Westerlo
+39e
+12634 V 7400
+ID: UKI 1678 PATH1
+FTA
+Click to expand...
+Club Friendly
+PAOK vs AEK Larnaca
+---FEED-SEPARATOR---
+7e
+12510 V 7200
+4:2:0
+ID: YSM-016 MAIN
+Champions League - Qualification
+Vardar (Mkd)  vs  KuPS (Fin)
+3C 72 98 CD 97 7F 18 3C  #CW: 
+AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 UEFA Champions League Qualifying
 Ararat-Armenia vs Riga FC
