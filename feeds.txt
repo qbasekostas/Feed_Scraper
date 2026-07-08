@@ -59,6 +59,28 @@ DVB-S2 - 1080P - 8PSK
 ID:  M13 Denmark Main
 CW: 72 1B 46 D3 AE 57 A1 A6
 ---FEED-SEPARATOR---
+Verdeoro said:
+CW: 6F 5B E7 B1 B9 0F 1D E5
+Click to expand...
+Eutelsat 16A @ 16.0E
+11176 H 9875
+DVB-S2 - 1080P - 8PSK
+ - 
+4.2.0
+ID: Match 14 U19 Spain v Croatia
+Event: 
+U19 UEFA European Championship - Spain U19 vs Croatia U19
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0E
+11189 H 9875
+DVB-S2 - 1080P - 8PSK
+ - 
+4.2.0
+ID: Wrexham M15 main
+Event: 
+U19 UEFA European Championship - Ukraine U19 vs Germany U19
+CW: 6F 5B E7 B1 B9 0F 1D E5
+---FEED-SEPARATOR---
 Club Friendly Games
 Olympiacos vs Rakow
 Eutelsat 7A/7B/7C @ ( 7.0E )
