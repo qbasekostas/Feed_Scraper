@@ -14,6 +14,22 @@ DVB-S2 - 1080P - 8PSK
 ID: VNL Feed A (PCCWG)
 CW: BA 3E 2B 23 A4 9A BF FD
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+10839 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: LMG PATH 1
+Event: 
+FIFA WORLD CUP 2026 - France vs Marocco
+CW: F4 BE 97 49 B4 0B 57 16
+---FEED-SEPARATOR---
+Eutelsat 7C @ 7.0°East
+11096 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+KLAN HD SNG 2
+Event: 
+UEFA Conference League 2026/27 — First Qualifying Round: 1st Leg: FC Dinamo City vs. FC Astana (Live from Elbasan Arena, Elbasan, Albania)
+FTA/CLEAR
+---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0°East
 12658 V 4935 | 4:2:0 | DVB-S2 8PSK
 ID: 
@@ -21,6 +37,14 @@ BIH007
 Event: 
 UEFA Conference League 2026/27 — First Qualifying Round: 1st Leg: FK Velež Mostar vs. FC Milsami Orhei (Live from Stadion "Bilino Polje", Zenica, Bosnia and Herzegovina)
 FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 7C @ 7.0°East
+12535 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+YSM-016 MAIN
+Event: 
+UEFA Europa League 2026/27 — First Qualifying Round: 1st Leg: FK Vojvodina vs. Ferencvárosi TC (Live from Karađorđe Stadium, Novi Sad, Serbia)
+CW: AB BA 20 85 25 20 26 6B
 ---FEED-SEPARATOR---
 UEFA Conference League Qualifying
 Alashkert vs Yelimay Semey
