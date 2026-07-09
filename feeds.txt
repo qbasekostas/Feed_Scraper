@@ -38,6 +38,18 @@ Event:
 UEFA Conference League 2026/27 — First Qualifying Round: 1st Leg: FK Velež Mostar vs. FC Milsami Orhei (Live from Stadion "Bilino Polje", Zenica, Bosnia and Herzegovina)
 FTA/CLEAR
 ---FEED-SEPARATOR---
+Ferari3000 said:
+			Eutelsat 16A (16.0E)
+12598 V 4938
+ID: Medialink CRO-024/1
+Provider: Media Link
+Biss Encrypt?
+Click to expand...
+Event: 
+UEFA Conference League - FK Sarajevo vs Inter Turku
+CW:
+FA 25 A6 C5 8D 20 26 D3
+---FEED-SEPARATOR---
 Eutelsat 7C @ 7.0°East
 12535 V 7200 | 4:2:0 | DVB-S2 8PSK
 ID: 
