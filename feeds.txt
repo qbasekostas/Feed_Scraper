@@ -16,12 +16,6 @@ new cw pls?
 ---FEED-SEPARATOR---
 Nations League, Women 2026
 Asiasat 5 (100.5°E) C BAND
-3915 V 7200
-ID: VNL Feed A (PCCWG)
-72 A4 54 6A 20 ED 8E 9B
----FEED-SEPARATOR---
-Nations League, Women 2026
-Asiasat 5 (100.5°E) C BAND
 3913 V 7200
 DVB-S2 - 1080P - 8PSK
 4:2:0
