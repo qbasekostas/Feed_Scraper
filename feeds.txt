@@ -1,3 +1,13 @@
+Volleyball European League Men, Playoff, Final
+Netherlands vs Finland
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12683 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: NLFLEV_HOL-090 CH-C
+CW: : 92 94 FA 20 63 E6 B9 02
+---FEED-SEPARATOR---
 Eutelsat Hot Bird 13F/13G @ 13.0°E
 11186 V 7200
 4:2:0 | DVB-S2 8PSK
@@ -63,14 +73,14 @@ CW: CA 26 20 10 26 07 CA F7
 Click to expand...
 ---FEED-SEPARATOR---
 Club Friendly Games
-FenerBahce vs Pogon Szczecin
+FENERBAHCE VS POGON SZCZECIN
 Eutelsat 7A/7B/7C @ ( 7.0E )
 10969 V 7199
 DVB-S2 - 
 4:2:0
  - 8PSK
 ID: UKI-1324 -1 - M02
-CW: : CW: 05 12 CB E2 CA 31 57 52
+CW: : 05 12 CB E2 CA 31 57 52
 ---FEED-SEPARATOR---
 U19 UEFA European Championship
 Spain U19 vs Germany U19
