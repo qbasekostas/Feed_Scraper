@@ -19,6 +19,17 @@ Click to expand...
 New CW : CE B7 93 18 C2 A0 20 82
 ---FEED-SEPARATOR---
 Club Friendly Games
+Benfica Portugal vs Flamengo Brazil
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12535 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Main
+CW
+: FTA
+---FEED-SEPARATOR---
+Club Friendly Games
 FC Pinzgau Saalfelden vs Al Ahli FC
 Eutelsat 7A/7B/7C @ ( 7.0E )
 10960 V 7199
@@ -50,6 +61,16 @@ MPEG4 | DVB-S2
  FHD
 CW: CA 26 20 10 26 07 CA F7
 Click to expand...
+---FEED-SEPARATOR---
+Club Friendly Games
+FenerBahce vs Pogon Szczecin
+Eutelsat 7A/7B/7C @ ( 7.0E )
+10969 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: UKI-1324 -1 - M02
+CW: : CW: 05 12 CB E2 CA 31 57 52
 ---FEED-SEPARATOR---
 U19 UEFA European Championship
 Spain U19 vs Germany U19
