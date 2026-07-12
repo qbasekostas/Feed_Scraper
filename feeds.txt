@@ -1,0 +1,35 @@
+Ferari3000 said:
+			Hotbird 13F/13G (13.0E)
+11186 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: 
+ITA 274 VNL Women - Belgrade Main
+Provider: Live Images
+VNL, Nations League Women from Belgrade (Serbia)
+France W - Czech Republic W (13:00)
+Bulgaria W - Germany W (16:30)
+Serbia W - Netherlands W (20:00)
+Biss Encrypt?
+Click to expand...
+New CW: 
+E7 78 02 61 D5 36 BB C6
+---FEED-SEPARATOR---
+Albahraniy said:
+Nations League, Women 2026
+Asiasat 5 (100.5°E) C BAND
+3913 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: VNL Feed A (PCCWG)
+CW: 72 A4 54 6A 20 ED 8E 9B
+Click to expand...
+New CW : AB 2A 31 06 8A E0 09 73
+---FEED-SEPARATOR---
+Club Friendly Games
+De Graafschap vs AEK Athens
+Eutelsat 7B/7C @ 7.0E
+11013 V 10000
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:AEK-BV
+CW: BB 44 AA A9 55 BB 55 65
