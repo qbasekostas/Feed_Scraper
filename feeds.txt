@@ -25,6 +25,17 @@ ID: UKI-1324 -1 - M02
 CW: : 33 12 AE F3 CA 32 27 23
 ---FEED-SEPARATOR---
 UEFA Champions League Qualifying
+Drita vs Kauno Žalgiris
+Hotbird 13F/13G @ ( 13.0E )
+11062 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Unname
+CW
+: FTA
+---FEED-SEPARATOR---
+UEFA Champions League Qualifying
 ETO FC Győr vs Víkingur Reykjavík
 Hotbird 13F/13G @ ( 13.0E )
 12583 V 7199
