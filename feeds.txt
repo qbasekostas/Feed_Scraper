@@ -1,0 +1,17 @@
+Club Friendly Games
+Sporting Portugal vs Celtic 
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12535 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: POR 33 ENC 1
+CW: FTA
+---FEED-SEPARATOR---
+Club Friendly Games
+FENERBAHCE VS LASK
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11004 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: UKI-1324 -1 - M02
+CW: : 33 12 AE F3 CA 32 27 23
