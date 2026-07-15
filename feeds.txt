@@ -21,6 +21,17 @@ CW: 6D 70 11 EE C5 19 CD AB
 ---FEED-SEPARATOR---
 Club Friendly Games
 Holstein Kiel vs Al-Ahli
+Eutelsat 21B @ ( 21.6E )
+11018 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: AHLI KSA vs HOLSTEIN KIEL GER
+CW
+: FTA
+---FEED-SEPARATOR---
+Club Friendly Games
+Holstein Kiel vs Al-Ahli
 Eutelsat 7A/7B/7C @ ( 7.0E )
 11014 V 7199
 DVB-S2 - 
