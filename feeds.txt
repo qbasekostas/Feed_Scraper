@@ -42,6 +42,16 @@ CW
 : FTA
 ---FEED-SEPARATOR---
 Club Friendly Games
+AEK Athens vs VITESSE
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12511 V 10000
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: AEK-BV
+CW: : DD 11 23 11 FF CA 14 DD
+---FEED-SEPARATOR---
+Club Friendly Games
 Ajax vs Bochum
 Eutelsat 7A/7B/7C @ ( 7.0E )
 11107 H 7199
