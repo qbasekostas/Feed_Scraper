@@ -1,0 +1,52 @@
+13.0°E
+11204 V 7200
+4:2:0
+ID: GVA_Fi05
+CW: 10 16 1C 42 B4 47 23 1E
+VNL Belgium - Cuba
+---FEED-SEPARATOR---
+Ferari3000 said:
+			Hotbird 13F/13G (13.0E)
+11186 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: ITA 274 VNL Women - Belgrade Main
+Provider: Live Images
+VNL, Nations League Men from Belgrade (Serbia)
+Germany M - Slovenia M (13:00)
+Ukraine M - Iran M (16:30)
+Serbia M - Turkey M (20:00)
+Biss Encrypt?
+Click to expand...
+CW: 6D 70 11 EE C5 19 CD AB
+---FEED-SEPARATOR---
+Club Friendly Games
+Holstein Kiel vs Al-Ahli
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11014 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: UKI-1462
+CW
+: FTA
+---FEED-SEPARATOR---
+Club Friendly Games
+Ajax vs Bochum
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11107 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: 2Sat HOL89 Main
+CW: : FE ED 15 00 07 B8 9A 59
+---FEED-SEPARATOR---
+UEFA Conference League Qualifying
+FC Malisheva vs KF Vllaznia
+Hotbird 13F/13G @ ( 13.0E )
+11060 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Unname
+CW
+: FTA
