@@ -1,0 +1,16 @@
+Hotbird 13F/13G
+11186 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+id : ITA 274 VNL Men - Belgrade Main
+Iran - Germany
+New  CW :  FF 90 19 A8 35 FF 1D 51
+---FEED-SEPARATOR---
+fusillo said:
+			13.0°E
+11204 V 7200
+4:2:0
+ID: GVA_Fi05
+CW: 10 16 1C 42 B4 47 23 1E
+VNL Belgium - Cuba
+Click to expand...
+new CW: 19 3A 86 D9 D1 5C B4 E1
