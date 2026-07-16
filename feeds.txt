@@ -55,6 +55,14 @@ DVB-S2 -
 ID: MTVA SNG HUNGARY
 CW: : 34 72 07 AD 16 AC DF A1
 ---FEED-SEPARATOR---
+Eutelsat Hot Bird 13F/13G @ 13.0°E
+12592 V 7200
+DVB-S2 - 1080P - 8PSK - 4:2:0
+ID: ITA556 HD16
+Event: 
+Walter Bussolari Playground - Acqua Cerelia vs Couponlus Face
+CW: 29 01 67 91 AA 11 BB 76
+---FEED-SEPARATOR---
 39.0°E
 12634 V 7200
 4:2:0
