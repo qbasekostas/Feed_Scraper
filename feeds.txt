@@ -25,6 +25,27 @@ FTA/CLEAR
 ---FEED-SEPARATOR---
 UEFA Europa League
 Qualifying
+Zilina vs Hajduk Split
+Eutelsat 10A @ ( 10.0E )
+11246 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: UEFA EL ZIL HAJ
+CW: : 51 17 AE 16 CD 67 32 66
+---FEED-SEPARATOR---
+UEFA Conference League Qualifying
+SILEKS vs DINAMO MINSK
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12510 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: YSM-016 MAIN
+CW: : AB BA 20 85 25 20 26 6B
+---FEED-SEPARATOR---
+UEFA Europa League
+Qualifying
 Ferencvaros vs Vojvodina
 Hotbird 13F/13G @ ( 13.0E )
 12583 V 7199
@@ -33,3 +54,10 @@ DVB-S2 -
  - 8PSK
 ID: MTVA SNG HUNGARY
 CW: : 34 72 07 AD 16 AC DF A1
+---FEED-SEPARATOR---
+39.0°E
+12634 V 7200
+4:2:0
+ID: E394 BACK
+CW: 85 A3 9F C7 5D CC 73 9C
+Stoiximan Super League Draw
