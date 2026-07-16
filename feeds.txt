@@ -15,6 +15,14 @@ VNL Belgium - Cuba
 Click to expand...
 new CW: 19 3A 86 D9 D1 5C B4 E1
 ---FEED-SEPARATOR---
+Eutelsat Hot Bird 13F/13G @ 13.0°East
+11060 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Unnamed-1
+Event: 
+UEFA Conference League 2026/27 — First Qualifying Round: 2nd Leg: FC Ballkani vs. Connah's Quay Nomads (Live from Fadil Vokrri Stadium, Pristina, Kosovo)
+FTA/CLEAR
+---FEED-SEPARATOR---
 UEFA Europa League
 Qualifying
 Ferencvaros vs Vojvodina
