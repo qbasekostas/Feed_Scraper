@@ -28,6 +28,17 @@ New CW:
  D5 50 84 A9 1F 9B 84 3E
 ---FEED-SEPARATOR---
 Club Friendly Games
+SL BENFICA vs VILLARRAAL CF 
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12534 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: POR 33 ENC 1
+CW
+: FTA
+---FEED-SEPARATOR---
+Club Friendly Games
 Yamoussoukro FC vs Olympique de Marseille
 Eutelsat 7A/7B/7C @ ( 7.0E )
 11106 H 7199
