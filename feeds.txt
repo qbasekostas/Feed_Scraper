@@ -27,6 +27,27 @@ VNL Volleyball Men Nations League
 New CW:
  D5 50 84 A9 1F 9B 84 3E
 ---FEED-SEPARATOR---
+Club Friendly Games
+Yamoussoukro FC vs Olympique de Marseille
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11106 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: CC9 - BU
+CW
+: FTA
+---FEED-SEPARATOR---
+Club Friendly Games
+Olympiacos vs Fortuna Sittard
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12511 V 10000
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: OLY-FOR
+CW: : CB 13 23 01 AB CA 13 88
+---FEED-SEPARATOR---
 U23 NS HOOPS X PG LEAGUE
 ANNS U32 vs KRUPANJ U23
 Eutelsat 16A @ ( 16.0E )
