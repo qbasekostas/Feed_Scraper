@@ -28,7 +28,7 @@ DVBS-2 8PSK
 ID: 
 E458 MAIN
 Friendly Club Match
-Girona FC
+Girona FC v Al Qadsiah
 ---FEED-SEPARATOR---
 28.2E
 12515 H 7200 
