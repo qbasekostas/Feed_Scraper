@@ -1,0 +1,65 @@
+Verdeoro said:
+Eutelsat Hot Bird 13F/13G @ 13.0°E
+11186 V 7200
+4:2:0 | DVB-S2 8PSK
+ID: ITA 274 VNL Men - Belgrade Main
+Event: 
+VNL Volleyball Men Nations League
+Click to expand...
+New CW: 
+38 17 86 D5 8E C7 31 86
+---FEED-SEPARATOR---
+Verdeoro said:
+Eutelsat Hot Bird 13F/13G @ 13.0°E
+11204 V 7200
+4:2:0 | DVB-S2 8PSK
+ID: GVA_Fi05
+Event: 
+VNL Volleyball Men Nations League
+Click to expand...
+ID:  GVA_Fi05_VNL_Osaka (EUROVISION SA)
+New: 
+C1 B0 B5 26 DD A4 E3 64   
+---FEED-SEPARATOR---
+28.2E
+12515 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: 
+D-322 Backup
+Friendly Club Match
+---FEED-SEPARATOR---
+28.2E
+12507 H 7200 
+4.2.0
+DVBS-2 8PSK
+ID: 
+D-331 TX1
+Friendly Club Match
+Borussia Dortmund v Rot-Weiss Oberhausen
+---FEED-SEPARATOR---
+Club Friendly Games
+Ajax vs Olympiacos
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11107 H 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: 2Sat HOL89 Main
+CW: 18 07 F8 17 9D EC BA 43
+---FEED-SEPARATOR---
+Club Friendly Games
+FC Groningen vs AEK Athens
+Eutelsat 7B/7C @ 7.0E
+12574 H 10000
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: AEK-GRO
+CW: 22 55 CC 43 BB 12 43 10
+---FEED-SEPARATOR---
+World Championship U17 Women - 5th-8th places - Semi-finals 
+Slovenia U17 W -  China U17 W
+Eutelsat 7A/7B/7C @ 7.0E
+12736 Vertical 7200.164 | 3/4 | 4:2:0
+ID: ROU-015 Bk (ROSVA)
+1920*1080 | DVB-S2 | 8PSK | SNR: 8.4dB | 16.049Mb/Sec
+CW: 4
+4 15 CB 24 D1 98 AB 14
