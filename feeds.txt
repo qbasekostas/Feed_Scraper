@@ -28,10 +28,13 @@ DVBS-2 8PSK
 ID: 
 D-322 Backup
 Friendly Club Match
+Giessen (GER)
+ v 
+Eintracht Frankfurt (GER)
 ---FEED-SEPARATOR---
 28.2E
-12507 H 7200 
-4.2.0
+12507 H 7200 - 
+4.2.0 -
 DVBS-2 8PSK
 ID: 
 D-331 TX1
