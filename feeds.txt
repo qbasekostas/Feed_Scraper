@@ -50,6 +50,14 @@ D-331 TX1
 Friendly Club Match
 Borussia Dortmund v Rot-Weiss Oberhausen
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11655 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: LMG PATH 1
+Event: 
+FIFA WORLD CUP 2026 - Third-fourth place final - France vs England
+CW: 5F 33 2D BF 00 04 CD D1
+---FEED-SEPARATOR---
 Club Friendly Games
 Ajax vs Olympiacos
 Eutelsat 7A/7B/7C @ ( 7.0E )
