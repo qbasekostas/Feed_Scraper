@@ -16,6 +16,21 @@ Event:
 VNL Volleyball Men Nations League
 26 7B 6A 52 0E EB 85 1F  #CW: B3 A4 26 7D 1D A3 28 E8
 ---FEED-SEPARATOR---
+Eutelsat Hot Bird 13 (13.0°E)
+Frequency: 
+11039
+ - Pol: 
+H
+ - SR: 
+4937
+ - FEC: 
+-
+Transmitted in: 
+MPEG-4 crypté
+ℹ​
+FIFA 2026:Fans arriving at stadium
+CW 
+---FEED-SEPARATOR---
 Club Friendly Games
 Rio Ave vs Al Ahli SC
 Eutelsat 21B & SES 16 @ 21.6E
