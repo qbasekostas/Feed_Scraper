@@ -16,6 +16,17 @@ Event:
 VNL Volleyball Men Nations League
 26 7B 6A 52 0E EB 85 1F  #CW: B3 A4 26 7D 1D A3 28 E8
 ---FEED-SEPARATOR---
+Club Friendly Games
+Rio Ave vs Al Ahli SC
+Eutelsat 7A/7B/7C @ ( 7.0E )
+10969 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: E-95 BK
+CW
+: FTA
+---FEED-SEPARATOR---
 Red Devils said:
 Club Friendly
 Sturm Graz II (AUT) - Al Hilal (SAU)
