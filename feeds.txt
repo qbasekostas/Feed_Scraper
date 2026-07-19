@@ -18,6 +18,14 @@ VNL Volleyball Men Nations League
 ---FEED-SEPARATOR---
 Club Friendly Games
 Rio Ave vs Al Ahli SC
+Eutelsat 21B & SES 16 @ 21.6E
+11017 Horizontal 7200.142 | 5/6 | 4:2:0
+ID: AHLI KSA vs RIO AVE POR (Service Provider)
+1920*1080 | DVB-S2 | QPSK-S2 | 11.916Mb/Sec
+CW: FTA
+---FEED-SEPARATOR---
+Club Friendly Games
+Rio Ave vs Al Ahli SC
 Eutelsat 7A/7B/7C @ ( 7.0E )
 10969 V 7199
 DVB-S2 - 
