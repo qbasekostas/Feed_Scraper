@@ -1,0 +1,34 @@
+VNL Volleyball Men Nations League
+Hot Bird 13F/13G @ ( 13.0E )
+11186 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ITA 274 VNL Men - Belgrade Main
+CW: : 7C 85 60 61 67 D6 88 C5
+---FEED-SEPARATOR---
+Eutelsat Hot Bird 13F/13G @ 13.0°E
+11204 V 7200
+4:2:0 | DVB-S2 8PSK
+ID: 
+GVA_Fi05_VNL_Osaka
+Event: 
+VNL Volleyball Men Nations League
+26 7B 6A 52 0E EB 85 1F  #CW: B3 A4 26 7D 1D A3 28 E8
+---FEED-SEPARATOR---
+Red Devils said:
+Club Friendly
+Sturm Graz II (AUT) - Al Hilal (SAU)
+Click to expand...
+Eutelsat 7A/7B/7C @ 7.0E
+11023  Vertical  7200.054
+ID: HIL-STU (UKI-1324)
+1920x1080 |16.049Mb/Sec 8PSK |4:2:0 HD
+---FEED-SEPARATOR---
+Club Friendly
+Sturm Graz II (AUT) - Al Hilal (SAU)
+Eutelsat 21B & SES 16 @ 21.6E
+11002 Horizontal 7200.142 | 5/6 | 4:2:0
+ID: HILAL KSA vs SK STURM GRAZ II AUT (Service Provider)
+1920*1080 | DVB-S2 | QPSK-S2 | SNR: 0.0dB | 11.916Mb/Sec
+CW: FTA
