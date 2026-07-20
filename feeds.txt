@@ -1,7 +1,0 @@
-Eutelsat 7C @ 7.0°East
-12535 V 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-POR 33 ENC 1
-Event: 
-Club Friendlies 2026 — Sporting CP vs. RC Strasbourg Alsace (Live from Estádio Algarve, Portugal)
-FTA/CLEAR
