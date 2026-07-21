@@ -1,0 +1,11 @@
+UEFA Champions League Qualifying
+Ararat-Armenia (Arm)  vs  Shamrock Rovers (Irl)
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11014 V 7200
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: 
+ARM-005 Main
+96 7A A2 71 B7 9B 37 25  #CW: 
+78 CD 07 4C D2 6A AC E8
