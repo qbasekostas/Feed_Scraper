@@ -1,79 +1,25 @@
-28.2E
-12691 V 7500 
-4.2.0
-DVBS-2 16APSK
-ID: 
-EDS807HD.1
-Friendly Club Match
-Espanyol v Pau
----FEED-SEPARATOR---
-Club Friendly Games
-Orlando Pirates vs Al Ittihad
+Copa Sudamericana - Play Offs
+Universidad Central (VEN) vs Santos (BRA)
 Eutelsat 7A/7B/7C @ ( 7.0E )
-10959 V 7199
+12703 V 7199
 DVB-S2 - 
-4:2:2
- - 8PSK
-ID: E-073 MAIN
-CW
-: FTA
----FEED-SEPARATOR---
-Club Friendly Games
-Orlando Pirates vs Al Ittihad
-Eutelsat 21B @ ( 21.6E )
-11018 H 7199
-DVB-S2 - 
-4:2:0 
+4:2:2 
 - 8PSK
-ID: ITTIHAD KSA vs ORLANDO RSA
+ID: Universidad Central (VEN) vs Santos (BRA)
+CW: : CB 71 AD E9 EE DF B8 85
+---FEED-SEPARATOR---
+xachik said:
+Copa Sudamericana - Play Offs
+Nacional (Uru) vs Tigre (Arg)
 CW
-: FTA
----FEED-SEPARATOR---
-Women's International Football Friendly Match.
-Morocco vs. Cape Verde
-21.6E
-- Name: 
-M00-MRC007-Main
-- Freq: 
-11593
-- Pol: 
-Horizontal
-- SR: 
-5001,074
-- Mod:
- 8PSK
-- FEC: 
-3/4
-- Std: 
-DVB-S2
-BE 78 18 1D D9 46 CB 6F 
-CW: FE ED 21 0C 07 20 26 4D
- #[E] PID:0200h
----FEED-SEPARATOR---
-UEFA Champions League Qualifications Round 2
-Sturm Graz VS Hearts Of Medlothian 
-Eutelsat 7°E
-11023 V 7200
-4:2:0
-ID: STU-MID
-FTA
----FEED-SEPARATOR---
-Eutelsat 7B/7C @ 7.0E
-12735 V 7400
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID: TUR139-Main
-Champions League - Qualification / Fenerbahce vs Gornik Zabrze
-CW: C2 1A DD B9 7A 0E 26 AE
----FEED-SEPARATOR---
-UEFA Champions League Qualifying
-Ararat-Armenia (Arm)  vs  Shamrock Rovers (Irl)
+:
+23 58 CE 49 11 AD DE 9C
+Click to expand...
 Eutelsat 7A/7B/7C @ ( 7.0E )
-11014 V 7200
+12694 V 7199
 DVB-S2 - 
-4:2:0
- - 8PSK
-ID: 
-ARM-005 Main
-96 7A A2 71 B7 9B 37 25  #CW: 
-78 CD 07 4C D2 6A AC E8
+4:2:2 
+- 8PSK
+ID:
+Nacional (URU) vs Tigre (
+Arg)
