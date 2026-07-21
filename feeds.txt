@@ -1,3 +1,12 @@
+28.2E
+12691 V 7500 
+4.2.0
+DVBS-2 16APSK
+ID: 
+EDS807HD.1
+Friendly Club Match
+Espanyol v Pau
+---FEED-SEPARATOR---
 Club Friendly Games
 Orlando Pirates vs Al Ittihad
 Eutelsat 7A/7B/7C @ ( 7.0E )
@@ -19,6 +28,22 @@ DVB-S2 -
 ID: ITTIHAD KSA vs ORLANDO RSA
 CW
 : FTA
+---FEED-SEPARATOR---
+UEFA Champions League Qualifications Round 2
+Sturm Graz VS Hearts Of Medlothian 
+Eutelsat 7°E
+11023 V 7200
+4:2:0
+ID: STU-MID
+FTA
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+12735 V 7400
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: TUR139-Main
+Champions League - Qualification / Fenerbahce vs Gornik Zabrze
+CW: C2 1A DD B9 7A 0E 26 AE
 ---FEED-SEPARATOR---
 UEFA Champions League Qualifying
 Ararat-Armenia (Arm)  vs  Shamrock Rovers (Irl)
