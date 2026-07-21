@@ -29,6 +29,27 @@ ID: ITTIHAD KSA vs ORLANDO RSA
 CW
 : FTA
 ---FEED-SEPARATOR---
+Women's International Football Friendly Match.
+Morocco vs. Cape Verde
+21.6E
+- Name: 
+M00-MRC007-Main
+- Freq: 
+11593
+- Pol: 
+Horizontal
+- SR: 
+5001,074
+- Mod:
+ 8PSK
+- FEC: 
+3/4
+- Std: 
+DVB-S2
+BE 78 18 1D D9 46 CB 6F 
+CW: FE ED 21 0C 07 20 26 4D
+ #[E] PID:0200h
+---FEED-SEPARATOR---
 UEFA Champions League Qualifications Round 2
 Sturm Graz VS Hearts Of Medlothian 
 Eutelsat 7°E
