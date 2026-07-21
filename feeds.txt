@@ -1,3 +1,25 @@
+Club Friendly Games
+Orlando Pirates vs Al Ittihad
+Eutelsat 7A/7B/7C @ ( 7.0E )
+10959 V 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: E-073 MAIN
+CW
+: FTA
+---FEED-SEPARATOR---
+Club Friendly Games
+Orlando Pirates vs Al Ittihad
+Eutelsat 21B @ ( 21.6E )
+11018 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ITTIHAD KSA vs ORLANDO RSA
+CW
+: FTA
+---FEED-SEPARATOR---
 UEFA Champions League Qualifying
 Ararat-Armenia (Arm)  vs  Shamrock Rovers (Irl)
 Eutelsat 7A/7B/7C @ ( 7.0E )
