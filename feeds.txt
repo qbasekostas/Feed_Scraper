@@ -59,6 +59,26 @@ DVB-S2 - 1080P - 8PSK
 ID:  VNL-Macao
 CW: C8 8E 4A A0 33 AD 66 46
 ---FEED-SEPARATOR---
+28.2E
+12691 V 7500 
+4.2.0
+DVBS-2 16APSK
+ID: 
+EDS807HD.1
+Friendly Club Match
+Olot v Girona XI
+---FEED-SEPARATOR---
+Club Friendly Games
+Cádiz vs Leicester City
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12536 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: VICAS
+CW
+: FTA
+---FEED-SEPARATOR---
 Club Friendly Games
 Al Sadd vs Shabab Al Ahli 
 Eutelsat 7A/7B/7C @ ( 7.0E )
@@ -77,3 +97,14 @@ PAOK W vs Hapoel Jerusalem W
 12634 V 7200
 ID: paok vs hapoel
 FTA
+---FEED-SEPARATOR---
+UEFA Conference League
+Qualifying
+Başakşehir FK vs Inter Turku
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12704 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: TUR-142 B
+CW: : 4E 5B 29 D2 6D D1 9A D8
