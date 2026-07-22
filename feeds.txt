@@ -1,3 +1,4 @@
+Mo_ha said:
 Copa Sudamericana - Play Offs
 Universidad Central (VEN) vs Santos (BRA)
 Eutelsat 7A/7B/7C @ ( 7.0E )
@@ -7,19 +8,72 @@ DVB-S2 -
 - 8PSK
 ID: Universidad Central (VEN) vs Santos (BRA)
 CW: : CB 71 AD E9 EE DF B8 85
+Click to expand...
+47W SES14 C 
+4159V9998 
+ID: UNI VS SAN SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+UNIVERSIDAD CENTRAL VS SANTOS 
+---FEED-SEPARATOR---
+47W SES14 
+3857H6666 
+ID: AMEREA1
+DVB-S2 4.2.0 1080I 
+COPA COLOMBIA 
+CW: EC 46 68 9A 6D 28 0B A0
 ---FEED-SEPARATOR---
 xachik said:
 Copa Sudamericana - Play Offs
-Nacional (Uru) vs Tigre (Arg)
-CW
-:
+SOUTH AMERICA:
+Nacional (Uru)  vs  Tigre (Arg)
+Asiasat 5 (100.5°E) C BAND
+3840 H 30000
+DVB-S2 - 1080P - 8PSK
+4:2:2
+ID:
+OCC 1
+3B 52 63 C0 6B A7 3B 02  #CW: 
 23 58 CE 49 11 AD DE 9C
 Click to expand...
+47W SES14 
+4148V10000
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+NACIONAL VS TIGRES
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3829 V 14400
+ID: HD-A ( TBS FEED)
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:2
+CW : A3F91CB87E2B842D
+Women’s VNL 2026 Macao,CHINA 
+---FEED-SEPARATOR---
+Women’s VNL 2026
+Macao,CHINA
+Italy v Netherlands
+Asiasat 5 (100.5°E) C BAND
+4178 V 9704
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  VNL-Macao
+CW: C8 8E 4A A0 33 AD 66 46
+---FEED-SEPARATOR---
+Club Friendly Games
+Al Sadd vs Shabab Al Ahli 
 Eutelsat 7A/7B/7C @ ( 7.0E )
-12694 V 7199
+11023 V 7199
 DVB-S2 - 
-4:2:2 
-- 8PSK
-ID:
-Nacional (URU) vs Tigre (
-Arg)
+4:2:0
+ - 8PSK
+ID: BUL007 AL Sadd Main
+CW
+: FTA
+---FEED-SEPARATOR---
+UEFA Women's Champions League
+First qualifying round, Semi-finals
+PAOK W vs Hapoel Jerusalem W
+39e
+12634 V 7200
+ID: paok vs hapoel
+FTA
