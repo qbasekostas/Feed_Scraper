@@ -154,8 +154,8 @@ DVB-S2 -
 ID: TUR-142 B
 CW: : 4E 5B 29 D2 6D D1 9A D8
 ---FEED-SEPARATOR---
-UEFA Conference League Qualifying
- Qualification / Trnava vs CSKA 1948 Sofia
+UEFA Conference League Qualification 
+Trnava vs CSKA 1948 Sofia
 Eutelsat 10A @ ( 10.0E )
 11247 H 7199
 DVB-S2 - 
