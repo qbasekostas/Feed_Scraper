@@ -48,6 +48,14 @@ ID: CBC-01
 FTA
 ---FEED-SEPARATOR---
 UEFA Conference League - 2nd Qualifying Round (1st Leg)
+Partizan Belgrade vs UNA Strassen
+Hot Bird 13F/13G @ ( 13.0E )
+11636 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID:  YSM 019 01 (Net 1     )
+CW: 12 34 AB F1 CD 56 78 9B
+---FEED-SEPARATOR---
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
 Lugano vs Dukagjini
 Eutelsat 7°E
 11022 V 6974
