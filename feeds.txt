@@ -1,3 +1,17 @@
+Eutelsat 7C @ 7.0°East
+12695 V 7200 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+Bolivar (BOL) vs Gr?mio (BRA) - INGLES EUROPA
+Event: 
+CONMEBOL Copa Sudamericana 2026 — Play-off Round: 1st Leg:
+Club Bolívar (BOL)
+ vs. 
+Grêmio (BRA)
+ (Live from Estadio Hernando Siles, La Paz, Bolivia)
+CW: CA 2D FC F3 56 DA A1 D1
+---FEED-SEPARATOR---
 Copa Sudamericana - Play Offs
 CA Lanús (ARG) vs Cienciano (PER)
 Eutelsat 7A/7B/7C @ ( 7.0E )
@@ -18,6 +32,35 @@ DVB-S2 -
 ID: Sporting Cristal (PER) vs Red Bull Bragantino (BRA) - INGLES EUROPA
 CW: : DA 23 DC D9 66 FA C1 21
 ---FEED-SEPARATOR---
+UEFA Europa League Qualifications Round 2
+Qarabag VS CSKA Sofia
+Azerspace 46°E
+11061 H 10000
+ID: CBC-01
+FTA
+---FEED-SEPARATOR---
+UEFA Conference League 
+Qualifying
+FCSB vs Auda
+Eutelsat 16A @ ( 16.0E )
+11188 H 10000
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: SNG 022 MAIN
+CW: : A6 B5 C4 1F D3 E2 F1 A6
+---FEED-SEPARATOR---
+Eutelsat Hot Bird 13F/13G @ 13.0°East
+12582 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+MTVA SNG HUNGARY
+Event: 
+UEFA Conference League 2026/27 — Second Qualifying Round: 1st Leg:
+Paksi FC (HUN)
+ vs. 
+Panathinaikos FC (GRE)
+CW: 16 07 AC C9 DF 20 26 25
+---FEED-SEPARATOR---
 UEFA Europa League
 Qualifying
 HAJDUK SPLIT vs PAFOS 
@@ -28,13 +71,6 @@ DVB-S2 -
 - 8PSK
 ID: CRO-004 Kup RH W - Back-up
 CW: : 12 34 AB F1 CD 20 26 13
----FEED-SEPARATOR---
-UEFA Europa League Qualifications Round 2
-Qarabag VS CSKA Sofia
-Azerspace 46°E
-11061 H 10000
-ID: CBC-01
-FTA
 ---FEED-SEPARATOR---
 UEFA Conference League - 2nd Qualifying Round (1st Leg)
 Dunajská Streda vs Velez Mostar
