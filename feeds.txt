@@ -32,12 +32,64 @@ DVB-S2 -
 ID: Sporting Cristal (PER) vs Red Bull Bragantino (BRA) - INGLES EUROPA
 CW: : DA 23 DC D9 66 FA C1 21
 ---FEED-SEPARATOR---
+UEFA Europa League - 2nd Qualifying Round (1st Leg)
+St Gallen vs Benfica
+Eutelsat 7°E
+11043 H 6974
+4:2:2
+ID: UELQ2 St.Gallen - Be (SRG SSR)
+FTA
+---FEED-SEPARATOR---
 UEFA Europa League Qualifications Round 2
 Qarabag VS CSKA Sofia
 Azerspace 46°E
 11061 H 10000
 ID: CBC-01
 FTA
+---FEED-SEPARATOR---
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+Lugano vs Dukagjini
+Eutelsat 7°E
+11022 V 6974
+4:2:2
+ID: UECLQ2 Lugano - Dukagjini (SRG SSR)
+CW: A3 56 BC B5 14 27 81 BC
+---FEED-SEPARATOR---
+UEFA Conference League Qualifying
+Hapoel Tel Aviv vs Ludogorets
+Eutelsat 7A/7B/7C @ ( 7.0E )
+10960 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Hapoel-Ludogorets (BS)
+CW: 8D 6B 4F 47 2A 9C 3E 04
+---FEED-SEPARATOR---
+UEFA Conference League Qualification
+MSK Zilina v GKS Katowice
+Eutelsat 10A @ ( 10.0E )
+11247 H 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: SPA - CSKA
+CW: 51 17 AE 16 CD 67 32 66
+---FEED-SEPARATOR---
+UEFA Conference League 
+Qualifying
+Vojvodina vs Ajax
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12536 V 7199 
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: YSM-016 MAIN
+CW: : 20 10 20 50 25 20 26 6B
+---FEED-SEPARATOR---
+UEFA Europa League
+Qualifying
+Besiktas vs Midtjylland
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12677 V 7400
+DVB-S2 - 4:2:2 - 8PSK
+ID:  TUR139-Main (HD-PROTEK)
+CW: A0 7A D2 EC 3A 0E 26 6E
 ---FEED-SEPARATOR---
 UEFA Conference League 
 Qualifying
