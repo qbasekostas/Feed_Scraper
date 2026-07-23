@@ -1,4 +1,14 @@
 Copa Sudamericana - Play Offs
+CA Lanús (ARG) vs Cienciano (PER)
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12703 V 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Lan?s (ARG) vs Cienciano (PER) - INGLES EUROPA
+CW: : 33 E3 FC 12 21 AD CC 9A
+---FEED-SEPARATOR---
+Copa Sudamericana - Play Offs
 Club Sporting Cristal (PER) vs Red Bull Bragantino (BRA)
 Eutelsat 7A/7B/7C @ ( 7.0E )
 12685 V 7199
@@ -7,3 +17,63 @@ DVB-S2 -
  - 8PSK
 ID: Sporting Cristal (PER) vs Red Bull Bragantino (BRA) - INGLES EUROPA
 CW: : DA 23 DC D9 66 FA C1 21
+---FEED-SEPARATOR---
+UEFA Europa League
+Qualifying
+HAJDUK SPLIT vs PAFOS 
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12656 H 7199 
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: CRO-004 Kup RH W - Back-up
+CW: : 12 34 AB F1 CD 20 26 13
+---FEED-SEPARATOR---
+UEFA Europa League Qualifications Round 2
+Qarabag VS CSKA Sofia
+Azerspace 46°E
+11061 H 10000
+ID: CBC-01
+FTA
+---FEED-SEPARATOR---
+UEFA Conference League - 2nd Qualifying Round (1st Leg)
+Dunajská Streda vs Velez Mostar
+Eutelsat 10A @ ( 10.0E )
+11255 H 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: DAC-MOS
+CW: 31 37 BC 24 CD 77 32 76
+---FEED-SEPARATOR---
+UEFA Europa League
+Qualifying
+Dyn. Kyiv vs PAOK
+Hot Bird 13F/13G @ ( 13.0E )
+10840 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: UKR-018 Main
+CW: : 1F F1 23 33 07 E1 3E 26
+---FEED-SEPARATOR---
+Eutelsat Hot Bird 13F/13G @ 13.0°East
+12592 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+HUN-013 Line 1
+Event: 
+UEFA Conference League 2026/27 — Second Qualifying Round: 1st Leg:
+DVSC Debrecen (HUN)
+ vs. 
+FC Pyunik (ARM)
+CW: 16 07 BE DB CF 20 26 15
+---FEED-SEPARATOR---
+Eutelsat 7C @ 7.0°East
+11014 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+ARM-005 Main
+Event: 
+UEFA Conference League 2026/27 — Second Qualifying Round: 1st Leg:
+FC Alashkert (ARM)
+ vs. 
+CFR Cluj (ROU)
+FFA Technical Center-Academy Stadium
+CW: 78 CD 07 4C D2 6A AC E8
