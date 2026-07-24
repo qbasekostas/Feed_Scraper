@@ -18,3 +18,24 @@ Al-Ahli SC (SAU)
  vs. 
 Vitória SC (POR)
 FTA/CLEAR
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°East
+12563 H 10000 | 4:2:0 | DVB-S2 8PSK
+ID: 
+HOL324 Golf WF
+Event: 
+Club Friendly:
+Royal Antwerp (BEL)
+ vs. 
+Olympiacos (GRE)
+CW: 27 43 FD 67 32 08 4B 85
+---FEED-SEPARATOR---
+Club Friendly Games
+Galatasaray vs AC Monza
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11024 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: LNZ
+CW: : 31 72 BB 5E CA 11 27 02
