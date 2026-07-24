@@ -1,19 +1,20 @@
-Copa Sudamericana - Play Offs
-Santa Fe (COL) vs Caracas (VEN)
-Eutelsat 7A/7B/7C @ ( 7.0E )
-12703 V 7199
+Argentine First Division
+Club Atlético Belgrano vs Rosario Central
+Eutelsat 7B/7C @ ( 7.0E )
+10959 V 7500
 DVB-S2 - 
-4:2:2
+4:2:0
  - 8PSK
-ID: Santa Fe (COL) vs Caracas (VEN) - INGLES EUROPA
-CW: : CA 2D FC F3 56 DA A1 D1
+ID: AFD - Belgrano v Rosario Central
+CW: : 18 44 AB 07 1D DD 14 0E
 ---FEED-SEPARATOR---
-Copa Sudamericana - Play Offs
-Boca Juniors (ARG) vs O'Higgins (CHI)
-Eutelsat 7A/7B/7C @ ( 7.0E )
-12685 V 7199
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: Boca Juniors (ARG) vs O'Higgins (CHI) - INGLES EUROPA
-CW: : B7 81 DC 14 A3 56 CB C4
+Eutelsat 7C @ 7.0°East
+10960 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+main - E285
+Event: 
+Club Friendly 2026:
+Al-Ahli SC (SAU)
+ vs. 
+Vitória SC (POR)
+FTA/CLEAR
