@@ -28,18 +28,11 @@ Friendly Club Match
 Espanyol v 
 Sabadell
 ---FEED-SEPARATOR---
-vakula said:
-			7E
-12535 V 7200 420 HD FTA MPEG4
-ID: VICAS
-friendly match
-Click to expand...
-Malaga vs Leicester City
----FEED-SEPARATOR---
-7E 
+7E
 11559 V 4798 420 HD FTA MPEG4
-ID: E386 FEED 3 
-friendly match
+ID: E386 FEED 3
+Friendly match: 
+Malaga vs Leicester City
 ---FEED-SEPARATOR---
 7E
 12535 V 7200 420 HD FTA MPEG4
@@ -65,6 +58,20 @@ DVBS2 8PSK
 ID: D-331 TX1
 Friendly Club Match
 Fortuna Düsseldorf v Borussia Dortmund
+---FEED-SEPARATOR---
+Türksat 3A/4A @ 42.0°East
+12512 H 7500 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+Medialink CRO-025/1
+Event: 
+Club Friendly:
+Konyaspor (TUR)
+ vs. 
+Hull City A.F.C. (ENG)
+ (Live from Športni park Aluminij, Kidričevo, Slovenia)
+CW: 11 78 CD 56 55 AF 77 7B
 ---FEED-SEPARATOR---
 Club Friendly Games
 Olympiacos vs Alkmaar
