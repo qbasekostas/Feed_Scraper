@@ -1,0 +1,47 @@
+Argentine First Division
+RACING CLUP vs GIMNASIA Y ESGRIMA
+Eutelsat 7B/7C @ ( 7.0E )
+10959 V 7500
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: AFD - Racing v Gimnasia LP
+CW: : 18 44 AB 07 1D DD 14 0E
+---FEED-SEPARATOR---
+Women’s VNL 2026 Macao,CHINA
+Brazil vs Italy
+Asiasat 5 (100.5°E) C BAND
+4153
+ V 9704
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:VNL-Macao
+CW: C8 8E 4A A0 33 AD 66 46
+---FEED-SEPARATOR---
+28.2E
+12691 V 10000 
+4.2.2
+DVBS-2 16APSK
+ID: 
+EDS807HD.1
+Friendly Club Match
+Espanyol v 
+Sabadell
+---FEED-SEPARATOR---
+28.2E
+12642 H 7200 
+4:2:0
+DVBS2 8PSK
+ID: D-331 TX1
+Friendly Club Match
+Fortuna Düsseldorf v Borussia Dortmund
+---FEED-SEPARATOR---
+Club Friendly Games
+Olympiacos vs Alkmaar
+Eutelsat 16A @ ( 16.0E )
+11188 H 10000
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: AEK-GRO
+CW: : AB 12 24 E1 DD CB 11 B9
