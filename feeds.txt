@@ -59,6 +59,20 @@ ID: D-331 TX1
 Friendly Club Match
 Fortuna Düsseldorf v Borussia Dortmund
 ---FEED-SEPARATOR---
+Thor 5/6/7 / Intelsat 10-02 @ 0.8°West
+11490 V 7500 |
+4:2:2
+ | HEVC | DVB-S2 8PSK
+ID: 
+HOL312 DAZN MAIN
+Event: 
+Club Friendly:
+Standard Liège (BEL)
+ vs. 
+Juventus FC (ITA)
+ (Live from Stade Maurice Dufrasne, Liège, Belgium)
+CW: DA 25 EB EA 07 FC 26 29
+---FEED-SEPARATOR---
 Türksat 3A/4A @ 42.0°East
 12512 H 7500 |
 4:2:2
