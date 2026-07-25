@@ -28,6 +28,18 @@ Friendly Club Match
 Espanyol v 
 Sabadell
 ---FEED-SEPARATOR---
+Club Friendly Games
+Las Palmas vs
+Al-Ittihad  
+Eutelsat 7B/7C @ ( 7.0E )
+10959 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: E-95 MAIN
+CW
+: FTA
+---FEED-SEPARATOR---
 28.2E
 12642 H 7200 
 4:2:0
@@ -45,3 +57,11 @@ DVB-S2 -
 - 8PSK
 ID: AEK-GRO
 CW: : AB 12 24 E1 DD CB 11 B9
+---FEED-SEPARATOR---
+UEFA Women's Champions League
+First qualifying round, Final
+PAOK W vs Neftçi W
+39e
+12642 V 7200
+ID: paok vs neftchi baku
+FTA
