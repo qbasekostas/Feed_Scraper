@@ -24,6 +24,13 @@ Match 116 / Final: Türkiye vs Brazil
 Time / Kickoff: 18.30 JKT-TH / 19.30 MY-SG / 11.30 GMT / 13.30 CET
 CW: C8 8E 4A A0 33 AD 66 46
 ---FEED-SEPARATOR---
+CECAFA FRIENDLY CUP( KIGALI, RWANDA )
+RAYON SPORTS (RWA) vs. KVZ FC (TZ_ZN)
+SAT : EUTELSAT 10.0°E C-BAND 
+ID : BUS04MAIN 4:2:0 
+TP : 3890 V/H 3750 DVB-S2 8PSK 
+CW : CECAFA9224072651
+---FEED-SEPARATOR---
 Club Friendly
 Karlsruher SC vs FC Internazionale Milano
 Eutelsat 7B/7C @ ( 7.0E )
