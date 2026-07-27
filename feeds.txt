@@ -1,0 +1,9 @@
+Club Friendly
+GALATASARAY vs VENEZIA FC
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11024 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: LINZ
+CW: : 31 22 AC FF DE 55 27 5A
