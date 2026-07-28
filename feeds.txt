@@ -6,6 +6,15 @@ CW : 3F CC A4 AF EC FE 22 0C
 2026 FIVB Men's Volleyball Nations League
 ---FEED-SEPARATOR---
 Club Friendly
+Las Palmas (ESP) vs Leiria (POR)
+30W
+11616 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID:  E-447 BROADCAST (Harmonic)
+CW: FTA
+---FEED-SEPARATOR---
+Club Friendly
+Al Ahli SC vs Fulham
 Eutelsat 7B/7C @ ( 7.0E )
 10959 V 7199
 DVB-S2 - 
@@ -15,12 +24,32 @@ ID: main - E285
 CW
 : FTA
 ---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°East
+11188 H 10000 | 4:2:0 | DVB-S2 8PSK
+ID: 
+CAM-VOL
+Event: 
+Club Friendly:
+SC Cambuur (NED)
+ vs. 
+Volos NFC (GRE)
+ (Live from Kooi Stadion, Leeuwarden)
+CW: 14 42 BC 12 22 19 5A 95
+---FEED-SEPARATOR---
 Chelsea vs Western Sydney
 AsiaSat 5 100.5E
 3967 V 7498
 8PSK 3/4 DVB-S2 4.2.0
 PMT PID: 4096, SID: 1 @ Chelsea FC v WSW  (STS)
 CW: CB 43 34 42 3E 4D F3 7E
+---FEED-SEPARATOR---
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-0]
+CSKA 1948 Sofia v Spartak Trnava
+BulgariaSat 1.9°E
+12509 H 6331
+4:2:0
+ID: BUL-001 (bTV)
+FTA
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0°East
 11013 V 7200 | 4:2:0 | DVB-S2 8PSK
