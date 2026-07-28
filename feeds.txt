@@ -1,3 +1,17 @@
+Copa Sudamericana - Play Offs
+Tigre
+(ARG) vs Nacional (URU)
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12703 V 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: 
+Tigre
+(ARG) vs Nacional (URU)
+ - INGLES EUROPA
+CW: : BC 51 AD BA 34 78 5D 09
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP :  4154 V 9705
 ID: Service 1M
