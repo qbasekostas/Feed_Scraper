@@ -1,0 +1,59 @@
+AsiaSat 5 - 100.5 E - CBand
+TP :  4154 V 9705
+ID: Service 1M
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 3F CC A4 AF EC FE 22 0C
+2026 FIVB Men's Volleyball Nations League
+---FEED-SEPARATOR---
+Club Friendly
+Eutelsat 7B/7C @ ( 7.0E )
+10959 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: main - E285
+CW
+: FTA
+---FEED-SEPARATOR---
+Chelsea vs Western Sydney
+AsiaSat 5 100.5E
+3967 V 7498
+8PSK 3/4 DVB-S2 4.2.0
+PMT PID: 4096, SID: 1 @ Chelsea FC v WSW  (STS)
+CW: CB 43 34 42 3E 4D F3 7E
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+11013 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+YLE
+Event: 
+UEFA Champions League (2nd Qual. Round - 2nd Leg):
+KuPS Kuopio (FIN)
+ vs. 
+Sabah FK (AZE)
+ (Agg: 0–1 | Live from Väre Areena, Kuopio)
+CW: CD 34 53 54 12 CB CB A8
+---FEED-SEPARATOR---
+13E
+10830 V 7200 
+4:2:0
+DVBS2 8PSK
+ID GCUK Enc 9
+CW: CA 11 FB D6 BF 34 11 04
+UEFA CL 2nd Qualifying Round : Hearts 
+of Midlothian
+ vs SK Strum Graz 
+K/OFF 19:45pm UK Time
+---FEED-SEPARATOR---
+BASKETBALL TAIFA CUP( CHINAGALI,DODOMA,TANZANIA )
+DAR ES SALAAM VS. MANYARA
+SAT : EUTELSAT 10.0°E
+ | 
+C-BAND
+ID : TAN 005 BACKUP
+ |
+ 4:2:0
+TP : 3885 V/H 3750
+ | 
+DVB-S2 8PSK
+CW: EB 54 4F 8E D0 B1 DA 5B
