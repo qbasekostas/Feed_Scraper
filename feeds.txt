@@ -1,0 +1,88 @@
+Argentine First Division
+Rosario Central vs Racing Club
+Eutelsat 7B/7C @ ( 7.0E )
+12563 H 7500
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: AFD
+CW: : BC AA CA 30 1A B0 33 FD
+---FEED-SEPARATOR---
+Copa Sudamericana - Play Offs
+Santos (BRA) vs Universidad Central (VEN)
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12685 V 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: Santos (BRA) vs Universidad Central (VEN) - INGLES EUROPA
+CW: : B6 72 8A B2 56 BC 11 23
+---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP :  4154 V 9705
+ID: Service 1M
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+CW : 3F CC A4 AF EC FE 22 0C
+2026 FIVB Men's Volleyball Nations League
+View attachment 110935
+Click to expand...
+New CW 82 EB 34 A1 07 AB 23 D5 
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+11004 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+UKI-1462
+Event: 
+Club Friendly:
+Al-Hilal SFC (KSA)
+ vs. 
+MC Alger (ALG)
+[
+/B]
+---FEED-SEPARATOR---
+Sydney FC vs Tottenham
+Friendly
+AsiaSat 5 100.5E
+3967 V 7498
+8PSK 3/4 DVB-S2 4.2.0
+PMT PID: 2048, SID: 1 @ Football Tot Vs Syd WF (STS)
+FTA
+---FEED-SEPARATOR---
+Club Friendly 
+AEK VS SAMSUNSPOR
+Eutelsat 16A @ ( 16.0E )
+11188 H 10000
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: AEK-SAM
+CW: : 27 43 FD 67 32 08 7A B4
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+10960 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+unnamed-1
+Event: 
+UEFA Conference League (2nd Qual. Round - 2nd Leg):
+KF Dukagjini (KOS)
+ vs. 
+FC Lugano (SUI)
+ (Agg: 0–1 | Live from Kampi Nacional Hajvalia, Pristina)
+---FEED-SEPARATOR---
+krzyś1 said:
+			Event: UEFA Champions League qualifying - second leg of the 2nd round: Lech Poznań - Aarhus GF
+Eutelsat 16A  16° E
+10985 V 9601
+ID: POL 030 | 4:2:0
+Click to expand...
+CW: 26 CA E0 D0 72 90 01 03
+---FEED-SEPARATOR---
+UEFA Champions League, 2nd Qualifying Round
+Eutelsat 7A/7B/7C @ ( 7.0E )
+10960 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: HBeerSheva-Vikingur
+CW: : 5A 3C 1E B4 9B 7D 4F 67
