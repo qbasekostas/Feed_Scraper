@@ -1,130 +1,68 @@
-Argentine First Division
-Rosario Central vs Racing Club
-Eutelsat 7B/7C @ ( 7.0E )
-12563 H 7500
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: AFD
-CW: : BC AA CA 30 1A B0 33 FD
+Asiasat 5 @ 100.5°E
+3842 H 30001 C-Band
+ID: OCC 3
+ (Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,56Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL 
+– Copa Sudamericana (2nd Leg Play-Offs)
+Teams: Red Bull Bragantino vs Sporting Cristal
+Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
+Mo_ha said:
+#
+CW: B9 AD CE 34 23 BA 22 FF
+Click to expand...
 ---FEED-SEPARATOR---
-Copa Sudamericana - Play Offs
-Santos (BRA) vs Universidad Central (VEN)
+Asiasat 5 @ 100.5°E
+3842 H 30001 C-Band
+ID: OCC 2
+ (Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,24Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL 
+– Copa Sudamericana (2nd Leg Play-Offs)
+Teams: Cienciano vs Lanús
+Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
+Mo_ha said:
+CW: C3 EA 56 03 CB 11 22 FE
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1
+ (Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,95Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL 
+– Copa Sudamericana (2nd Leg Play-Offs)
+Teams: Vasco da Gama vs Independiente Medellín
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+Mo_ha said:
+CW: B6 AD FB 5E 61 2D E3 71
+Click to expand...
+---FEED-SEPARATOR---
+Copa Sudamericana - PlayOffs B
+Cienciano (PER) vs Lanus (ARG)
 Eutelsat 7A/7B/7C @ ( 7.0E )
 12685 V 7199
 DVB-S2 - 
 4:2:2 
 - 8PSK
-ID: Santos (BRA) vs Universidad Central (VEN) - INGLES EUROPA
-CW: : B6 72 8A B2 56 BC 11 23
+ID: Cienciano (PER) vs Lan?s (ARG) - INGLES EUROPA
+CW: : C3 EA 56 03 CB 11 22 FE
 ---FEED-SEPARATOR---
-HBO said:
-			AsiaSat 5 - 100.5 E - CBand
-TP :  4154 V 9705
-ID: Service 1M
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-CW : 3F CC A4 AF EC FE 22 0C
-2026 FIVB Men's Volleyball Nations League
-View attachment 110935
-Click to expand...
-New CW 82 EB 34 A1 07 AB 23 D5 
----FEED-SEPARATOR---
-Club Friendly
-Dep. A Coruna vs Lugo
-Eutelsat 7B/7C @ ( 7.0E )
-11559 V 4800
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: E382 FEED 1
-CW
-: FTA
----FEED-SEPARATOR---
-Eutelsat 7B/7C @ 7.0°East
-11004 V 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-UKI-1462
-Event: 
-Club Friendly:
-Al-Hilal SFC (KSA)
- vs. 
-MC Alger (ALG)
-[
-/B]
----FEED-SEPARATOR---
-Sydney FC vs Tottenham
-Friendly
-AsiaSat 5 100.5E
-3967 V 7498
-8PSK 3/4 DVB-S2 4.2.0
-PMT PID: 2048, SID: 1 @ Football Tot Vs Syd WF (STS)
-FTA
----FEED-SEPARATOR---
-Club Friendly 
-AEK VS SAMSUNSPOR
-Eutelsat 16A @ ( 16.0E )
-11188 H 10000
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: AEK-SAM
-CW: : 27 43 FD 67 32 08 7A B4
----FEED-SEPARATOR---
-Eutelsat 7B/7C @ 7.0°East
-12510 V 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-YSM-013M
-Event: 
-UEFA Champions League (2nd Qual. Round - 2nd Leg):
-FK Crvena zvezda (SRB)
- vs. 
-Larne FC (NIR)
- (Agg: 4–0 | Live from Stadion Rajko Mitić, Belgrade)
----FEED-SEPARATOR---
-Eutelsat 7B/7C @ 7.0°East
-10960 V 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-unnamed-1
-Event: 
-UEFA Conference League (2nd Qual. Round - 2nd Leg):
-KF Dukagjini (KOS)
- vs. 
-FC Lugano (SUI)
- (Agg: 0–1 | Live from Kampi Nacional Hajvalia, Pristina)
----FEED-SEPARATOR---
-UEFA Champions League, 2nd Qualifying Round
+Copa Sudamericana - PlayOffs G
+Red Bull Bragantino (BRA) vs Sporting Cristal (PER)
 Eutelsat 7A/7B/7C @ ( 7.0E )
-10960 V 7199
+12676 V 7199
 DVB-S2 - 
-4:2:0
- - 8PSK
-ID: HBeerSheva-Vikingur
-CW: : 5A 3C 1E B4 9B 7D 4F 67
----FEED-SEPARATOR---
-7E
-12593 V 7200
-4:2:2
-ID:  POL-058_ch1 (POLSAT)
-CW: 20 26 AB F1 CD 1E CA B5
-UEFA Champions League - 2nd Qualifying Round (2nd Leg) [0-1]
-Górnik Zabrze vs Fenerbahçe
----FEED-SEPARATOR---
-krzyś1 said:
-			Event: UEFA Champions League qualifying - second leg of the 2nd round: Lech Poznań - Aarhus GF
-Eutelsat 16A  16° E
-10985 V 9601
-ID: POL 030 | 4:2:0
-Click to expand...
-CW: 26 CA E0 D0 72 90 01 03
----FEED-SEPARATOR---
-Eutelsat 10B @ 10.0°East
-11246 H 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-SLO-IBE
-Event: 
-UEFA Champions League (2nd Qual. Round - 2nd Leg):
-ŠK Slovan Bratislava (SVK)
- vs. 
-FC Iberia 1999 (GEO)
- (Agg: 2–0 | Live from Štadión Tehelné pole, Bratislava)
-CW: 35 57 BA 46 AD 71 17 35
+4:2:2 
+- 8PSK
+ID: Red Bull Bragantino (BRA) vs Sporting Cristal (PER) - INGLES EUROPA
+CW: : B9 AD CE 34 23 BA 22 FF
