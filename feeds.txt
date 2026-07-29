@@ -30,12 +30,15 @@ Click to expand...
 New CW 82 EB 34 A1 07 AB 23 D5 
 ---FEED-SEPARATOR---
 Club Friendly
-Sestao (ESP) vs Ath Bilbao B (ESP)
-30W
-11674 V 14400
-DVB-S2 - 4:2:0 - 4K- 8PSK
-ID: unnamed
-CW: FTA
+Dep. A Coruna vs Lugo
+Eutelsat 7B/7C @ ( 7.0E )
+11559 V 4800
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: E382 FEED 1
+CW
+: FTA
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0°East
 11004 V 7200 | 4:2:0 | DVB-S2 8PSK
@@ -68,6 +71,17 @@ ID: AEK-SAM
 CW: : 27 43 FD 67 32 08 7A B4
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0°East
+12510 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+YSM-013M
+Event: 
+UEFA Champions League (2nd Qual. Round - 2nd Leg):
+FK Crvena zvezda (SRB)
+ vs. 
+Larne FC (NIR)
+ (Agg: 4–0 | Live from Stadion Rajko Mitić, Belgrade)
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
 10960 V 7200 | 4:2:0 | DVB-S2 8PSK
 ID: 
 unnamed-1
@@ -77,6 +91,15 @@ KF Dukagjini (KOS)
  vs. 
 FC Lugano (SUI)
  (Agg: 0–1 | Live from Kampi Nacional Hajvalia, Pristina)
+---FEED-SEPARATOR---
+UEFA Champions League, 2nd Qualifying Round
+Eutelsat 7A/7B/7C @ ( 7.0E )
+10960 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: HBeerSheva-Vikingur
+CW: : 5A 3C 1E B4 9B 7D 4F 67
 ---FEED-SEPARATOR---
 7E
 12593 V 7200
@@ -93,3 +116,15 @@ Eutelsat 16A  16° E
 ID: POL 030 | 4:2:0
 Click to expand...
 CW: 26 CA E0 D0 72 90 01 03
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0°East
+11246 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+SLO-IBE
+Event: 
+UEFA Champions League (2nd Qual. Round - 2nd Leg):
+ŠK Slovan Bratislava (SVK)
+ vs. 
+FC Iberia 1999 (GEO)
+ (Agg: 2–0 | Live from Štadión Tehelné pole, Bratislava)
+CW: 35 57 BA 46 AD 71 17 35
