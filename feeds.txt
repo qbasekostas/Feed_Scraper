@@ -95,6 +95,35 @@ Click to expand...
 New CW: 
 3A 9F BC 95 3F D7 5C 72
 ---FEED-SEPARATOR---
+Club Friendly
+Malaga vs Al Ittihad
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11023 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: E-95 MAIN
+CW
+: FTA
+---FEED-SEPARATOR---
+CECAFA FRIENDLY CUP ( KIGALI, RWANDA )
+APR FC (RWA) vs. VIPERS SC (UGA)
+GOR MAHIA (KEN) vs. GARDE REPUBLICAINE (DJB)
+SAT : EUTELSAT 10.0°E | C-BAND
+ID : 
+BUS04MAIN
+ | 4:2:0
+TP : 
+3890 V/H 3750 
+| DVB-S2 8PSK
+ID : 
+RBA-CECAFA-MAIN
+ | 4:2:0
+TP : 
+3895 V/H 3750
+ | DVB-S2 8PSK
+CW: CE CA FA 92 24 07 26 51
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0°East
 11013 V 7200 | 4:2:0 | DVB-S2 8PSK
 ID: 
@@ -105,6 +134,34 @@ Trabzonspor (TUR)
  vs. 
 Al Sadd SC (QAT)
  (Live from Sportzentrum Anif, Anif, Austria)
+---FEED-SEPARATOR---
+13E
+11088 V 7200
+4:2:2
+ID: MLT-001 MAIN (MLT-001)
+FTA
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [1-3]
+Valletta v Raków Czestochowa   
+FTA
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°East
+11102 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+unnamed-1
+Event: 
+UEFA Europa League (2nd Qual. Round - 2nd Leg):
+RSC Anderlecht (BEL)
+ vs. 
+Hammarby IF (SWE)
+ (Agg: 1–1 | Live from Lotto Park, Brussels)
+---FEED-SEPARATOR---
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [3-2]
+Auda vs FCSB
+Eutelsat 7B/7C @ 7.0°East
+11574 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+OU3_INTERLACED
+FTA
 ---FEED-SEPARATOR---
 UEFA Europa League, 
 2nd 
@@ -131,6 +188,62 @@ vs
 FC Sheriff Tiraspol (MDA)
  (Agg: 5–0 |
 Live from Adjarabet Arena, Batumi, Georgia
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°East
+12658 V 4935 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Medialink CRO-022/1
+Event: 
+UEFA Conference League (2nd Qual. Round - 2nd Leg):
+FK Velež Mostar (BIH)
+ vs. 
+FC DAC 1904 Dunajská Streda (SVK)
+ (Agg: 0–1 | Live from Stadion Bilino Polje, Zenica)
+CW: 7C 6B 9D 84 2B FC 95 BC
+---FEED-SEPARATOR---
+UEFA Europa League, 2nd Qualifying, Round - 2nd Leg
+FC Midtjylland vs Beşiktaş JK 
+Eutelsat 7B/7C @ ( 7.0E )
+12676 V 7400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: SWE-041 MID-BES
+CW: : A3 0A D0 7D 7A 0E 26 AE
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+12564 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: paok vs dinamo kiev
+UEFA Europa League - 2nd Qualifying Round (2nd Leg) [3-2]
+PAOK Thessaloniki v Dynamo Kyiv
+CW: 30 21 12 63 12 20 93 C5
+---FEED-SEPARATOR---
+UEFA Conference League - 2nd Qualifying Round (2nd Leg) [0-4]
+UNA Strassen v Partizan Belgrade
+Hot Bird 13F/13G @ ( 13.0E )
+12591 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: HOL324 TX2 (Newslive.nl)
+CW: 20 26 30 76 07 F1 A6 9E
+---FEED-SEPARATOR---
+Hotbird 13F/13G @ 13.0°East
+12582 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+HUN-013 Line 1
+Event: 
+UEFA Europa League (2nd Qual. Round - 2nd Leg):
+Ferencvárosi TC (HUN)
+ vs. 
+FC Twente (NED)
+ (Agg: 2–1 | Live from Groupama Aréna, Budapest)
+CW: F4 D2 20 E6 26 30 07 5D
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+12535 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: UGR-018
+Event: UEFA Europa League (2nd Qual. Round - 2nd Leg): vs. FC Sheriff Tiraspol (MDA) (Agg: 5–0 |
+Live from Adjarabet Arena, Batumi, Georgia
+CW: 7C 5A 3E 14 1B 9D 4F 07
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0°East
 12511 V 9700 | 4:2:0 | DVB-S2 8PSK
