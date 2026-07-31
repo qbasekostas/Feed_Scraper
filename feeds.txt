@@ -1,0 +1,43 @@
+7°E KU
+12564 H 7500
+DVB-S2|1080HD
+4.2.0
+|H264
+ID: AFD
+Event: Liga Profesional Independiente vs Newells Old Boys
+CW: BC AA CA 30 1A B0 33 FD
+---FEED-SEPARATOR---
+7°E KU
+12677 V 7200
+DVB-S2|1080HD
+4.2.2
+|H264
+ID: SRT + E7B 9MHz uplink - O'Higgins (CHI) vs Boca Juniors (ARG)
+Event: Copa Sudamericana - O'Higgins (CHI) vs Boca Juniors (ARG)
+CW: B8 ED CA 6F CE B5 66 E9
+---FEED-SEPARATOR---
+7°E KU
+12686 V 7200
+DVB-S2|1080HD
+4.2.2
+|H264
+ID: SRT + E7B 9MHz uplink - Caracas (VEN) vs Santa Fe (COL) - INGL
+Event: Copa Sudamericana - Caracas (VEN) vs Santa Fe (COL)
+CW: BA 12 B8 84 D2 DE 55 05
+---FEED-SEPARATOR---
+Club Friendly
+Birmingham vs Barcelona
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12727 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 1
+CW: : 11 27 5A 92 35 9D 3A 0C
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : HoyTV HKFF 2026 A
+CW : 8B F5 9A 1A 6D 19 5B E1
+Hong Kong Football Festival - HKFF ( Man City vs Inter Milan)
