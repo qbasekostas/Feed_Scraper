@@ -26,6 +26,17 @@ Event: Copa Sudamericana - Caracas (VEN) vs Santa Fe (COL)
 CW: BA 12 B8 84 D2 DE 55 05
 ---FEED-SEPARATOR---
 Club Friendly
+Sporting CP vs Nottingham Forest
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12535 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: POR 33 ENC 1
+CW
+: FTA
+---FEED-SEPARATOR---
+Club Friendly
 Birmingham vs Barcelona
 Eutelsat 7A/7B/7C @ ( 7.0E )
 12727 V 7199
