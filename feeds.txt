@@ -7,6 +7,13 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 Click to expand...
 New CW : F7 5C 4A 9D FA D1 39 04
 ---FEED-SEPARATOR---
+CARABAO CUP - PERLIMINARY ROUND
+TRANMERE ROVERS VS. ROCHDALE
+SAT : EUTELSAT 10.0°E | C-Band
+TP : 3904 V/H 3750 | DVB-S2 8PSK
+ID : OU IKOMG | H265 50FPS | 4:2:0
+CW : FTA
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0°East
 11052 H 7200 | 4:2:0 | DVB-S2 8PSK
 ID: 
@@ -37,12 +44,13 @@ Club Friendlies
 Manchester City F.C. - Inter Milan
 FTA
 ---FEED-SEPARATOR---
-7.0°E
-12675 H 7200
-4:2:0
-ID: OU2_INTERLACE
-#FTA
-Friendly Match: Cardiff - Roma
+21.6E
+11002 H 7200
+4.2.0
+ID: ITTIHAD KSA vs ORLANDO RSA
+Club Friendlies
+Real Madrid - ACF Fiorentina
+FTA
 ---FEED-SEPARATOR---
 7.0°E
 10996 V 7200
