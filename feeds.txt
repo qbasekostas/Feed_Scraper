@@ -1,0 +1,92 @@
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP :  4154 V 9705
+ID: Service 1M
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+2026 FIVB Men's Volleyball Nations League
+Click to expand...
+New CW : F7 5C 4A 9D FA D1 39 04
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+11052 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+GCUK Enc 2
+Event: 
+Club Friendly (Pre-Season):
+Chelsea FC (ENG)
+ vs. 
+Tottenham Hotspur (ENG)
+ (Live Pre-Season Broadcast)
+---FEED-SEPARATOR---
+Club Friendly
+CARDIFF CITY VS  AS ROMA
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12674 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: OU2_INTERLACE
+CW
+: FTA
+---FEED-SEPARATOR---
+7E
+11043 H 7200
+4.2.0
+ID: GCUK Enc3
+Club Friendlies
+Manchester City F.C. - Inter Milan
+FTA
+---FEED-SEPARATOR---
+7.0°E
+12675 H 7200
+4:2:0
+ID: OU2_INTERLACE
+#FTA
+Friendly Match: Cardiff - Roma
+---FEED-SEPARATOR---
+7.0°E
+10996 V 7200
+4:2:0
+ID: UKI-1462
+#FTA
+Friendly Match: Real Madrid - Fiorentina
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0°East
+11287 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+unnamed-1
+Event: 
+Club Friendly (Pre-Season):
+Manchester United F.C. (ENG)
+ vs. 
+Atlético Madrid (ESP)
+ (Live Pre-Season Broadcast from Strawberry Arena, Stockholm)
+---FEED-SEPARATOR---
+Club Friendly
+Willem II vs OFI
+16e
+12655 V 10000
+ID: WIL-OFI
+CW: BE 32 BC AC 21 3B 6F CB
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3965 H 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : Clean Feed Main
+CW : C0 10 8A 5A 8C 6E 7D 77
+Indonesia All Stars v Aston Villa
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3915 H 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : PGM Main
+CW : C0 10 8F 5F B3 6E 9A BB
+Indonesia All Stars v Aston Villa
+---FEED-SEPARATOR---
+Chelsea FC v Tottenham
+Asiasat 5 (100.5°E) C BAND
+3966 V 7500
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: Chelsea FC v Tottenham PGM (STS)
+CW: CB 43 34 42 3E 4D F3 7E
