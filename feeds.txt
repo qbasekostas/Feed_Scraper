@@ -44,6 +44,17 @@ Club Friendlies
 Manchester City F.C. - Inter Milan
 FTA
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+10986 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+E-073 MAIN
+Event: 
+Club Friendly (Pre-Season):
+CF Estrela da Amadora (POR)
+ vs. 
+Al-Nassr FC (KSA)
+ (Live Pre-Season Broadcast)
+---FEED-SEPARATOR---
 21.6E
 11002 H 7200
 4.2.0
