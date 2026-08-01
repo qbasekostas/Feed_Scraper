@@ -44,6 +44,28 @@ Club Friendlies
 Manchester City F.C. - Inter Milan
 FTA
 ---FEED-SEPARATOR---
+CECAFA FRIENDLY CUP MATCHDAY 3° ( KIGALI, RWANDA )
+RAYON SPORTS FC (RWA) vs. AL HILAL SC (SDN)
+TUSKER FC (KEN) vs. KVZ SC (TZZN)
+SAT : EUTELSAT 10.0°E | C-BAND
+ID : BUS04MAIN | 4:2:0
+TP : 3890 V/H 3750 | DVB-S2 8PSK
+ID : RBA-CECAFA-MAIN | 4:2:0
+TP : 3895 V/H 3750 | DVB-S2 8PSK
+CW: CE CA FA 92 24 07 26 51
+https://ibb.co/Q7rWQ1YR
+						Screenshot 2026 08 01 173602 hosted at ImgBB
+Image Screenshot 2026 08 01 173602 hosted on ImgBB
+					ibb.co
+---FEED-SEPARATOR---
+28,2°E
+12693 V 10000
+DVB-S2 16APSK FEC 2/3
+HD (1920*1080) 4:2:2
+ID: EDS807HD.1
+Girona v Arsenal
+Friendly Club Match - Estadi Montilivi, Girona
+---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0°East
 10986 V 7200 | 4:2:0 | DVB-S2 8PSK
 ID: 
