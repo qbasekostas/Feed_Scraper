@@ -1,4 +1,14 @@
 Liga Profesional de Fútbol Argentine
+Newells Old Boys vs Boca Juniors
+Eutelsat 7B/7C @ ( 7.0E )
+11606 V 7500
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: AFD
+CW: : B2 52 A2 A6 CC DD A1 4A
+---FEED-SEPARATOR---
+Liga Profesional de Fútbol Argentine
 Racing Club vs Tigre
 Eutelsat 7B/7C @ ( 7.0E )
 11606 V 7500
@@ -33,6 +43,21 @@ Time / Kickoff: 14.40 JKT-TH / 15.40 MY-SG / 07.40 GMT / 09.40 CET
 Match 116 / Final: USA vs Poland
 Time / Kickoff: 18.30 JKT-TH / 19.30 MY-SG / 11.30 GMT / 13.30 CET
 CW: C8 2E 33 29 9A E3 FB 78
+---FEED-SEPARATOR---
+Friendly Club Match
+Liverpool vs Leeds
+Eutelsat 7A/7B/7C @ 7.0E
+11042 Horizontal 7200.12 | 3/4 | 4:2:0
+ID: GCUK Enc 2 (GlobeCast UK)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 16.049Mb/Sec
+CW: FTA
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : Chicago- Soldier Field SVC 1 AS5
+CW : BB 18 BC 8F 14 18 DD 09
+Liverpool vs Leeds
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 4107 H 7200
