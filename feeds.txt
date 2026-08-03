@@ -1,0 +1,19 @@
+7°E KU
+11598 V 7500
+DVB-S2|1080HD
+4.2.0
+|H264
+ID: AFD
+Event: Liga Profesional River Plate VS Rosario Central
+CW: B2 52 A2 A6 CC DD A1 4A
+---FEED-SEPARATOR---
+Club Friendly
+Al Hilal vs Al Ahli Doha
+Eutelsat 7A/7B/7C @ ( 7.0E )
+10959 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ITA 415 MAIN
+CW
+: FTA
