@@ -17,12 +17,46 @@ DVB-S2 -
 ID: AFD
 CW: : B2 52 A2 A6 CC DD A1 4A
 ---FEED-SEPARATOR---
+28.2E
+12525 H 7500 
+4:2:2
+DVBS-2 8PSK
+ID: Gigatel HD
+Club Friendly
+Newport (WAL)
+ v 
+AS Roma (ITA)
+---FEED-SEPARATOR---
+Club Friendly
+Al Nassr vs Almeria
+Eutelsat 7B/7C @ ( 7.0E )
+11022 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: SINTRA 2 MN
+CW: : 5F 7A E6 BF 1C 9B 3D F4
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3915 H 7200
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 ID : TLCAT-002-1
 CW : AA 11 BB 76 23 CD EF DF
 Pathum United vs Aston Villa
+---FEED-SEPARATOR---
+UEFA Champions League, 3rd Qualifying Round (1st Leg)
+Royale Union Saint-Gilloise
+vs Bodo/Glimt
+Eutelsat 16A @ ( 16.0E )
+11099 H 3600
+ID: Unname
+11105 H 3600
+ID: Unname
+DVB-S2 -
+ 4:2:0 
+- 8PSK
+CW
+: FTA
 ---FEED-SEPARATOR---
 UEFA Champions League 
 Qualifying
@@ -35,6 +69,25 @@ DVB-S2 -
 ID: UKI-1462 MAIN
 CW
 : FTA
+---FEED-SEPARATOR---
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Olympiacos v NEC Nijmegen
+Eutelsat 16A @ ( 16.0E )
+12654 V 9600
+DVB-S2 - 4:2:0 - 8PSK
+ID: SNG ABC 1 
+CW: 55 44 AB 44 CD 55 44 66
+---FEED-SEPARATOR---
+UEFA Champions League, 
+3rd Qualifying Round (1st Leg)
+Sparta Prague vs Olympique Lyon
+Hot Bird 13F/13G @ ( 13.0E )
+12678 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: SLQ 008 M
+CW: : A2 B4 BB 11 32 D3 CA CF
 ---FEED-SEPARATOR---
 7E
 10960 V 7200 
