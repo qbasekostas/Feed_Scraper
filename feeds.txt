@@ -1,0 +1,46 @@
+Copa Sudamericana
+Hot Bird 13F/13G @ ( 13.0E )
+12697 H 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: SRT + 9MHz HOTBIRD 13F uplink + Streaming - TEST  Link#5
+CW: : AC 35 B9 9A 01 F2 F5 E8
+---FEED-SEPARATOR---
+Liga Profesional de Fútbol Argentine
+Velez Sarsfield vs Independiente
+Eutelsat 7B/7C @ ( 7.0E )
+11606 V 7500
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: AFD
+CW: : B2 52 A2 A6 CC DD A1 4A
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3915 H 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : TLCAT-002-1
+CW : AA 11 BB 76 23 CD EF DF
+Pathum United vs Aston Villa
+---FEED-SEPARATOR---
+UEFA Champions League 
+Qualifying
+Sparta Prague vs Olympique Lyon
+Hot Bird 13F/13G @ ( 13.0E )
+11612 H 14400
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: UKI-1462 MAIN
+CW
+: FTA
+---FEED-SEPARATOR---
+7E
+10960 V 7200 
+4:2:0
+DVBS2 8PSK
+ID HBeerSheva-CrvZvezda
+CW: 1C 3A 5E B4 7B 9D 2F 47
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+Hapoel Be'er Sheva v Red Star Belgrade
