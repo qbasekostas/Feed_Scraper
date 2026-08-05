@@ -1,0 +1,83 @@
+TANZANIA VOLLEYBALL NATIONAL LEAGUE 2026
+SAT : EUTELSAT 10.0°E | C-BAND
+TP : 3886 V/H 3750 | DVB-S2 8PSK
+ID : TAN-004-MAIN | 4:2:0
+CW : EB 54 4F 8E D0 B1 DA 5B
+---FEED-SEPARATOR---
+Club Friendly
+Al Ahli SC vs Al Ettifaq
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11014 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR-162 MAIN
+CW
+: FTA
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+10960 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+GCUK Enc 2
+Event: 
+Club Friendly (Pre-Season):
+Chelsea FC (ENG)
+ vs. 
+Juventus (ITA)
+ (Live Pre-Season Broadcast)
+Clear / Free-To-Air (FTA)
+---FEED-SEPARATOR---
+HBO said:
+			AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : HoyTV HKFF 2026 A
+CW : 8B F5 9A 1A 6D 19 5B E1
+Hong Kong Football Festival - HKFF ( Man City vs Inter Milan)
+Click to expand...
+New event : Chelsea vs Juventus
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3994 V 7199 C-Band
+ID: ktsat mp4 enc1
+(Provider ID: KT SAT)
+MPEG4 | DVB-S2
+1920x1080i |14,06Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: Pre Season – International Friendly Match 2026
+Teams: K-League All Stars vs Manchester City
+Time / Kickoff: 18.00 JKT-TH / 19.00 MY-SG / 11.00 GMT / 13.00 CET
+Super Saiyan said:
+#CW:
+33 DD AB BB BF 05 08 CC
+Click to expand...
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11088 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Pitch Pre Season Friendly - Manchester City v K League
+Event: 
+Club Friendly (Asia Tour):
+K-League All Stars (KOR)
+ vs. 
+Manchester City (ENG)
+ (Live Pre-Season Broadcast from Seoul)
+CW: 33 DD AB BB BF 05 08 CC
+---FEED-SEPARATOR---
+Club Friendly
+AC Milan vs Inter
+Hot Bird 13F/13G @ ( 13.0E )
+11058 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: IMG 1 EU
+CW: : 2A A1 00 CB 32 B2 1F 03
+---FEED-SEPARATOR---
+Champions League, Women
+Brann W vs Mitrovica W
+Eutelsat 16A @ ( 16.0E )
+11125 H 4936
+ID: MTVA SNG HUNGARY
+CW: 52 b5 7c 83 66 c7 40 6d
