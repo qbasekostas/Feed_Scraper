@@ -4,6 +4,12 @@ TP : 3886 V/H 3750 | DVB-S2 8PSK
 ID : TAN-004-MAIN | 4:2:0
 CW : EB 54 4F 8E D0 B1 DA 5B
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4024 V 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : HD/IKOMG4A
+Arsenal vs Real Betis
+---FEED-SEPARATOR---
 Club Friendly
 Al Ahli SC vs Al Ettifaq
 Eutelsat 7A/7B/7C @ ( 7.0E )
@@ -87,12 +93,47 @@ DVB-S2 -
 ID: IMG 1 EU
 CW: : 2A A1 00 CB 32 B2 1F 03
 ---FEED-SEPARATOR---
+Club Friendly
+Arsenal vs  Real Betis
+Eutelsat 7B/7C @ ( 7.0E )
+10978 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Arsenal v  Real Betis
+CW: : F6 A7 B8 55 C9 DB E1 85
+---FEED-SEPARATOR---
+Friendly Club Match
+Mallorca (ESP) - PSG (FRA)
+Eutelsat 7A/7B/7C @ 7.0E
+11543 Vertical 7120.164 | 3/4 | 4:2:0
+ID: E-96 FEED 1 (Overon)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.7dB | 15.870Mb/Sec
+CW: BA C4 A4 22 50 B3 23 26
+---FEED-SEPARATOR---
 Champions League, Women
 Brann W vs Mitrovica W
 Eutelsat 16A @ ( 16.0E )
 11125 H 4936
 ID: MTVA SNG HUNGARY
 CW: 52 b5 7c 83 66 c7 40 6d
+---FEED-SEPARATOR---
+36E
+11562  V 7400
+4.2.2
+ID: TUR 139-Main
+UEFA Champions League
+Fenerbahçe SK - SK Sturm Graz
+CW: D0 5A BA E4 E8 0E 26 1C
+---FEED-SEPARATOR---
+UEFA 
+Conference League - Qualification - Semi-finals  
+Panathinaikos (GRE) - CSKA 1948 Sofia (BUL)
+Eutelsat 7A/7B/7C @ 7.0E
+10959 Vertical 7200.164 | 3/4 | 4:2:0
+ID: E394 MAIN (OVERON)
+1920*1080 | DVB-S2 | 8PSK | SNR: 11.7dB | 16.049Mb/Sec
+CW: 2D 4B 6F E7 8A 9C 3E 64
 ---FEED-SEPARATOR---
 UEFA Champions League - 3rd Qualifying Round (1st Leg)
 AGF vs Sabah FK
