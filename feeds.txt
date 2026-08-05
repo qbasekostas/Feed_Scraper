@@ -27,6 +27,18 @@ Juventus (ITA)
  (Live Pre-Season Broadcast)
 Clear / Free-To-Air (FTA)
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+11080 V 7500 | 4:2:0 | DVB-S2 8PSK
+ID: 
+ITA493A
+Event: 
+Club Friendly (Pre-Season):
+SSC Napoli (ITA)
+ vs. 
+CA Osasuna (ESP)
+ (Live Pre-Season Broadcast from Castel di Sangro)
+CW: A4 1A B9 77 8B C7 0C 5E
+---FEED-SEPARATOR---
 HBO said:
 			AsiaSat 5 - 100.5 E - CBand
 TP : 3975 V 7200
@@ -81,3 +93,25 @@ Eutelsat 16A @ ( 16.0E )
 11125 H 4936
 ID: MTVA SNG HUNGARY
 CW: 52 b5 7c 83 66 c7 40 6d
+---FEED-SEPARATOR---
+UEFA Champions League - 3rd Qualifying Round (1st Leg)
+AGF vs Sabah FK
+Eutelsat 7A/7B/7C @ ( 7.0°E )
+12565 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: SWE-041 AFG-SAB
+CW: : 04 F8 B6 B2 AC 8F 06 41
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+12582 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+HUN-013 Line 1
+Event: 
+UEFA Europa League - 3rd Qualifying Round (1st Leg)
+:
+Ferencvárosi TC (HUN)
+ vs. 
+Górnik Zabrze (POL)
+CW: 20 26 05 4B 05 FF CA CE
