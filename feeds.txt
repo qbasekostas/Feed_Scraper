@@ -1,9 +1,0 @@
-Liga Profesional de Fútbol Argentine
-Boca Juniors vs Estudiantes LP
-Eutelsat 7B/7C @ ( 7.0E )
-11606 V 7500
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: AFD
-CW: : D1 68 CB 04 41 A1 DD BF
