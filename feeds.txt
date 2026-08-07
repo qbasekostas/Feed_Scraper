@@ -1,3 +1,47 @@
+7E
+11162 H 2000 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship - Week 2
+Partick Thistle v Livingston
+---FEED-SEPARATOR---
+7E
+11154 H 10000 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship - Week 2
+Partick Thistle v Livingston
+---FEED-SEPARATOR---
+7E
+11142 H 10000 4:2:0
+DVB-S2 16APSK
+ID: Uki-1592
+Scottish Championship - Week 2
+Partick Thistle v Livingston
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11069 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Pitch Carabao Cup Middlesbrough
+Event: 
+EFL Carabao Cup:
+Middlesbrough FC 
+ vs. 
+Wrexham
+CW: 13 13 DC 02 CA 11 32 0D
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11060 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Pitch Carabao Cup Wolves v Port
+Event: 
+EFL Carabao Cup:
+Wolves (ENG)
+ vs. 
+Port Vale (ENG)
+ (Live Official Contribution Broadcast)
+CW: 14 32 CC 12 AD 24 21 F2
+---FEED-SEPARATOR---
 28.2E
 12624 H 7200 
 4:2:0
