@@ -19,6 +19,35 @@ ID: Uki-1592
 Scottish Championship - Week 2
 Partick Thistle v Livingston
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3994 V 7119 C-Band
+ID: BT_SES_10_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,40Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Carabao Cup 2026/27
+Teams: Middlesbrough vs Wrexham
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+now is 
+FREE TO AIR
+, scramble available anytime
+Super Saiyan said:
+#CW:
+13 13 DC 02 CA 11 32 0D
+Click to expand...
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Wolverhampton vs Port Vale
+Hotbird 13B/13C/13G @ ( 13.0E )
+11061 V 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Pitch Carabao Cup Wolves v 
+CW: : 23 42 DD 42 AC 24 22 F2
+---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 11069 V 7120 | 4:2:0 | DVB-S2 8PSK
 ID: 
@@ -29,18 +58,6 @@ Middlesbrough FC
  vs. 
 Wrexham
 CW: 13 13 DC 02 CA 11 32 0D
----FEED-SEPARATOR---
-Hotbird 13G/13F @ 13.0°East
-11060 V 7120 | 4:2:0 | DVB-S2 8PSK
-ID: 
-Pitch Carabao Cup Wolves v Port
-Event: 
-EFL Carabao Cup:
-Wolves (ENG)
- vs. 
-Port Vale (ENG)
- (Live Official Contribution Broadcast)
-CW: 14 32 CC 12 AD 24 21 F2
 ---FEED-SEPARATOR---
 28.2E
 12624 H 7200 
