@@ -19,6 +19,14 @@ West Ham United (ENG)
  Portsmouth
  (Live Official Contribution Broadcast)
 ---FEED-SEPARATOR---
+England EFL Cup, Round 1
+Asiasat 5 (100.5°E) C BAND
+3806 V 7122
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_18_SDI (SES)
+CW: 45 21 CC 32 DD 21 31 2F
+---FEED-SEPARATOR---
 Hilal Eddine said:
 CARABAO CUP - FIRST ROUND
 ​
@@ -251,6 +259,19 @@ Eintracht Frankfurt (GER)
 Hull City AFC (ENG)
  (Live Official Contribution Broadcast)
 ---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11666 H 7400 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+TUR139-Main
+Event: 
+Club Friendly (Pre-Season):
+Galatasaray SK (TUR)
+ vs. 
+Villarreal CF (ESP)
+CW: ED F8 AA 8F 8A 0E 26 BE
+---FEED-SEPARATOR---
 sattechtips said:
 			Eutelsat 7B/7C @ 7.0°East
 10960 
@@ -342,6 +363,13 @@ DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 ID : PGM Main
 CW :  C0 80 8F CF D2 7F 3A 8B
 Chelsea vs AC Milan
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12511 Vertical 7198,422 3/4
+DVB-S2/8PSK (4:2:2)
+WPA D-322 MAIN
+Champions League Women - Qualification - Second stage - Final
+Eintracht Frankfurt vs Malmo FF
 ---FEED-SEPARATOR---
 Eutelsat 16A @ 16.0°East
 11125 H 4935 | 4:2:0 | DVB-S2 8PSK
