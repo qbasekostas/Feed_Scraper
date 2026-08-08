@@ -9,6 +9,30 @@ West Ham United (ENG)
  Portsmouth
  (Live Official Contribution Broadcast)
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3815 V 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : BT_SES_20_SDI
+CW : 24 32 CC 22 AA 24 22 F0
+Derby vs Lincoln
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3809 H 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : ENC 8
+CW: 32 21 AA FD DD 24 22 23
+Cardiff vs Swindon
+---FEED-SEPARATOR---
+England EFL Cup, Round 1 
+Gillingham Football Club
+ vs Luton Town
+Asiasat 5 (100.5°E) C BAND
+4115 H 25709
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_8_SDI (SES)
+CW: 42 11 BB 0E CC 32 55 53
+---FEED-SEPARATOR---
 Hilal Eddine said:
 CARABAO CUP - FIRST ROUND
 ​
@@ -154,6 +178,15 @@ DVB-S2 - 1080P - 8PSK
 ID:BT_SES_12_SDI (SES)
 CW: 22 41 DD 40 AA 23 22 EF
 ---FEED-SEPARATOR---
+England EFL Cup, Round 1
+Barnsley FC vs Wigan Athletic
+Asiasat 5 (100.5°E) C BAND
+4115 H 25709
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_4_SDI (SES)
+CW: 32 13 CD 12 DC 21 14 11
+---FEED-SEPARATOR---
 I check 28.2E 12642 H 7200 FTA for Fortuna vs Dortmund
 Also 7.0E 10959 V 7199 FTA for Las Palmas vs Al-Ittihad
 ---FEED-SEPARATOR---
@@ -175,6 +208,15 @@ Eintracht Frankfurt (GER)
  vs. 
 Hull City AFC (ENG)
  (Live Official Contribution Broadcast)
+---FEED-SEPARATOR---
+1W
+11490 V 7120 
+4.2.0
+DVBS-2 8PSK
+ID: No name
+CW: BA C4 A4 22 50 B3 23 26
+Friendly Club Match - Gothenburg, Sweden
+Paris St Germain v Manchester United
 ---FEED-SEPARATOR---
 7E
 11607 V 7200 
