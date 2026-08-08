@@ -1,3 +1,13 @@
+7E
+11606 V 7500
+4.2.0
+ID: AFD
+Liga Profesional de Fútbol
+Club Atlético Tigre - Club Atlético River Plate
+CW: C1 8A DA 25 14 B4 12 DA
+Note: Now
+Club Atlético Tucumán - Club Atlético Sarmiento
+---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 10866 H 7120 | 4:2:0 | DVB-S2 8PSK
 ID: 
