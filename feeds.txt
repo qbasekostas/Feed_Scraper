@@ -10,6 +10,13 @@ West Ham United (ENG)
  (Live Official Contribution Broadcast)
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
+TP : 3825 V 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : ENC 10
+CW : 24 12 CC 02 DD 24 22 23
+Stoke City vs Oldham Athletic
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
 TP : 3815 V 7120
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
 ID : BT_SES_20_SDI
