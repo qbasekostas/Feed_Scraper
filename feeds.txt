@@ -1,4 +1,14 @@
 Hotbird 13G/13F @ 13.0°East
+10866 H 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Pitch Carabao Colchester v Southampton
+Event: 
+EFL Carabao Cup:
+Colchester United (ENG)
+ vs. 
+Southampton FC (ENG)
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
 11618 V 7120 | 4:2:0 | DVB-S2 8PSK
 ID: 
 Pitch Carabao Cup West Ham
@@ -194,6 +204,17 @@ DVB-S2 - 1080P - 8PSK
 ID:BT_SES_4_SDI (SES)
 CW: 32 13 CD 12 DC 21 14 11
 ---FEED-SEPARATOR---
+Club Friendly
+Paris St Germain vs Manchester United
+Hotbird 13B/13C/13G @ ( 13.0E )
+11677 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Unname
+CW
+: FTA
+---FEED-SEPARATOR---
 I check 28.2E 12642 H 7200 FTA for Fortuna vs Dortmund
 Also 7.0E 10959 V 7199 FTA for Las Palmas vs Al-Ittihad
 ---FEED-SEPARATOR---
@@ -215,6 +236,18 @@ Eintracht Frankfurt (GER)
  vs. 
 Hull City AFC (ENG)
  (Live Official Contribution Broadcast)
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+10960 
+V
+ 7200 | 
+4:2:0
+ | DVB-S2 8PSK
+ID: 
+FTC-RMA Studio
+Event: 
+Friendly: Ferencváros vs Real Madrid
+CW: 13 57 AB 15 CD 24 68 59
 ---FEED-SEPARATOR---
 1W
 11490 V 7120 
