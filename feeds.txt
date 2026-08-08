@@ -19,6 +19,23 @@ West Ham United (ENG)
  Portsmouth
  (Live Official Contribution Broadcast)
 ---FEED-SEPARATOR---
+Hilal Eddine said:
+CARABAO CUP - FIRST ROUND
+​
+​
+Middlesbrough vs. Wrexham
+​
+SAT : EUTELSAT 10.0°E | C-Band
+​
+TP : 3900 V/H 3750 | DVB-S2 8PSK
+​
+ID : Carabao CUP | H265 50FPS | 4:2:0
+​
+CW : D2 38 F4 FE 34 AB BA 99
+​
+Click to expand...
+NOW : COLCHESTER VS. SOUTHAMPTON
+---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
 TP : 3825 V 7120
 DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
@@ -204,16 +221,13 @@ DVB-S2 - 1080P - 8PSK
 ID:BT_SES_4_SDI (SES)
 CW: 32 13 CD 12 DC 21 14 11
 ---FEED-SEPARATOR---
+28.2E
+12691 V 7500 
+4:2:0
+DVBS-2 8PSK
+ID: Path 1
 Club Friendly
-Paris St Germain vs Manchester United
-Hotbird 13B/13C/13G @ ( 13.0E )
-11677 H 7199
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: Unname
-CW
-: FTA
+Coventry City v Espanyol XI
 ---FEED-SEPARATOR---
 I check 28.2E 12642 H 7200 FTA for Fortuna vs Dortmund
 Also 7.0E 10959 V 7199 FTA for Las Palmas vs Al-Ittihad
@@ -236,6 +250,24 @@ Eintracht Frankfurt (GER)
  vs. 
 Hull City AFC (ENG)
  (Live Official Contribution Broadcast)
+---FEED-SEPARATOR---
+sattechtips said:
+			Eutelsat 7B/7C @ 7.0°East
+10960 
+V
+ 7200 | 
+4:2:0
+ | DVB-S2 8PSK
+ID: 
+FTC-RMA Studio
+Event: 
+Friendly: Ferencváros vs Real Madrid
+CW: 13 57 AB 15 CD 24 68 59
+Click to expand...
++ 10977 V 7200
+ID: FTC-RMA
+Event: 
+Friendly: Ferencváros vs Real Madrid
 ---FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0°East
 10960 
