@@ -1,0 +1,242 @@
+Hotbird 13G/13F @ 13.0°East
+11618 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Pitch Carabao Cup West Ham
+Event: 
+EFL Carabao Cup:
+West Ham United (ENG)
+ vs.
+ Portsmouth
+ (Live Official Contribution Broadcast)
+---FEED-SEPARATOR---
+Hilal Eddine said:
+CARABAO CUP - FIRST ROUND
+​
+​
+Wolverhampton vs. Port VALE
+​
+SAT : EUTELSAT 10.0°E | C-Band
+​
+TP : 3904 V/H 3750 | DVB-S2 8PSK
+​
+ID : Carabao CUP | H265 50FPS | 4:2:0
+​
+CW : D238F4FE34ABBA99
+​
+Click to expand...
+CARABAO CUP - FIRST ROUND
+SWANSEA CITY VS. BIRMINGHAM
+---FEED-SEPARATOR---
+Hilal Eddine said:
+CARABAO CUP - FIRST ROUND
+​
+​
+Middlesbrough vs. Wrexham
+​
+SAT : EUTELSAT 10.0°E | C-Band
+​
+TP : 3900 V/H 3750 | DVB-S2 8PSK
+​
+ID : Carabao CUP | H265 50FPS | 4:2:0
+​
+CW : D2 38 F4 FE 34 AB BA 99
+​
+Click to expand...
+CARABAO CUP - FIRST ROUND
+WEST HAM VS. PORTSMOUTH
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11212 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Pitch Carabao Swansea v Birmingham 
+Event: 
+EFL Carabao Cup:
+Swansea City 
+vs. 
+Birmingham City 
+CW: 13 13 DD 03 CC 13 13 F2
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11079 V 7120 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+Pitch Carabao Cup Derby v Lincoln
+Event: 
+EFL Carabao Cup:
+Derby County (ENG)
+ vs. 
+Lincoln City (ENG)
+ (Live Official Contribution Broadcast)
+CW: 24 32 CC 22 AA 24 22 F0
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11070 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Pitch Carabao Burnley v Not
+Event: 
+EFL Carabao Cup:
+Burnley FC (ENG)
+ vs. 
+Nottingham Forest (ENG)
+ (Live Official Contribution Broadcast)
+CW: 22 41 DD 40 AA 23 22 EF
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11609 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Pitch Carabao Leicester v Northampton
+Event: 
+EFL Carabao Cup:
+Leicester City (ENG)
+ vs. 
+Northampton Town (ENG)
+CW: 13 13 DD 03 CC 13 13 F2
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3867 H 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID: 1 Name: BT_SES_2_SDI Provider: SES
+CW : 23 14 CC 03 DC 22 11 0F
+Queens Park Rangers vs Millwall
+---FEED-SEPARATOR---
+Carabao Cup 
+QPR VS Milwall
+Hotbird 13°E
+11090 V 7200
+4:2:0 DVB-S2 8PSK
+ID: Pitch Carabao QPR V Milwa
+CW: 13 41 DA 2E AA 21 44 0F
+---FEED-SEPARATOR---
+England EFL Cup, Round 1
+Event: 
+EFL Carabao Cup:
+Leicester City (ENG)
+ vs. 
+Northampton Town (ENG)
+Asiasat 5 (100.5°E) C BAND
+4115 H 25709
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_10_SDI (SES)
+CW: 13 13 DD 03 CC 13 13 F2
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4134 H 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID: 1  Name: BT_SES_6_SDI  Provider: SES
+CW : 1441AD02DA245351
+Cambridge United vs Barnet
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 25710
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID: 1  Name: BT_SES_14_SDI  Provider: SES  =
+ 13 13 DD 03 CC 13 13 F2 
+( Swansea City vs. Birmingham City )
+ID: 2  Name: BT_SES_16_SDI  Provider: SES  = 
+23 13 CA 00 AC 22 11 DF
+  (Watford vs Crawley)
+ID: 3  Name: BT_SES_22_SDI  Provider: SES = 
+11 33 AD F1 DC 25 43 44
+ ( West Ham vs Portsmouth )
+ID: 4  Name: BT_SES_24_SDI  Provider: SES = 
+41 23 AA 0E BB 24 21 00  
+( Rotherham United vs West Bromwich Albion )
+ English Football League Cup
+---FEED-SEPARATOR---
+England EFL Cup, Round 1 
+Burnley v Notts Co
+Asiasat 5 (100.5°E) C BAND
+4115 H 25709
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_12_SDI (SES)
+CW: 22 41 DD 40 AA 23 22 EF
+---FEED-SEPARATOR---
+I check 28.2E 12642 H 7200 FTA for Fortuna vs Dortmund
+Also 7.0E 10959 V 7199 FTA for Las Palmas vs Al-Ittihad
+---FEED-SEPARATOR---
+Club Friendly
+Brighton H.A. vs Roma
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12675 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID:  OU2_INTERLACE 
+CW: FTA
+---FEED-SEPARATOR---
+Astra 1KR/1L/1M/1N @ 19.2°East
+11560 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+D-322 Backup
+Event: 
+Club Friendly (Pre-Season):
+Eintracht Frankfurt (GER)
+ vs. 
+Hull City AFC (ENG)
+ (Live Official Contribution Broadcast)
+---FEED-SEPARATOR---
+7E
+11607 V 7200 
+4:2:0
+DVBS2 8PSK
+ID: Chelsea vs AC Milan
+CW: C6 A4 E2 4C B1 D9 F7 81
+Event: 
+Friendly: Chelsea v Milan
+---FEED-SEPARATOR---
+AbuHaya said:
+Club Friendlies
+Juventus FC - Inter Milan
+CW: 2A A1 00 CB 32 B2 1F 03
+Click to expand...
+AsiaSat 5 @ 100.5E
+4080 V 70000
+NS4 DRM
+ID: 1GVs11 IMG1
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+11082 V 10000 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+ENC 14
+Event: 
+Friendly: Chelsea v Milan
+CW: A4 2A 01 CF BB 2C 4C 33
+---FEED-SEPARATOR---
+Hotbird 13F/13G @ ( 13.0E )
+11058 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG 1 EU
+Club Friendlies
+Juventus FC - Inter Milan
+CW: 2A A1 00 CB 32 B2 1F 03
+Thanks you 
+Red Devils
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3946 H 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : Clean Feed Main
+CW : D0 70 8C CC E2 7D 5B BA
+Chelsea vs AC Milan
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3915 H 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : PGM Main
+CW :  C0 80 8F CF D2 7F 3A 8B
+Chelsea vs AC Milan
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°East
+11125 H 4935 | 4:2:0 | DVB-S2 8PSK
+ID: 
+MTVA SNG HUNGARY
+Event: 
+UEFA Women's Champions League:
+Ferencvárosi TC Women (HUN)
+ vs. 
+KFF Mitrovica (KOS)
+ (Live Official Contribution Broadcast from Budapest)
+CW: 52 B5 7C 83 66 C7 40 6D
