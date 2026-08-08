@@ -259,6 +259,17 @@ Eintracht Frankfurt (GER)
 Hull City AFC (ENG)
  (Live Official Contribution Broadcast)
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+11081 
+V
+ 7500 | 
+4:2:0
+ | DVB-S2 8PSK
+ID: 
+ITA493A (ITA493A)
+Event: Napoli vs Celta Vigo
+CW: AA 41 BB A6 98 C7 7C DB
+---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 11666 H 7400 |
 4:2:2
