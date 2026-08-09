@@ -1,0 +1,96 @@
+omid1348 said:
+ID: AFD
+Liga Profesional de Fútbol
+CW: C1 8A DA 25 14 B4 12 DA
+Click to expand...
+7E
+11597 V 7500
+4.2.0
+Boca Juniors - Club Atlético Vélez Sarsfield
+---FEED-SEPARATOR---
+England EFL Cup
+Highlights
+Hot Bird 13.0E
+11212 V 7199
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Pitch Carabao Cup R1 Highlights
+CW: 13 11 CA EE AC 24 22 F2
+---FEED-SEPARATOR---
+England EFL Cup
+Highlights
+Asiasat 5 (100.5°E) C BAND
+3984 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_8_SDI (SES)
+CW: 44 23 DA 41 AC 33 22 01
+---FEED-SEPARATOR---
+Carabao Cup 
+Hotbired 13°E
+Mansfield  VS Sheffield UTD
+11060  V 7120
+ID: Pitch Carabao Mansfield v Sheif
+DVB-S2 8PSK 4:2:0
+CW: 44 23 DA 41 AC 33 22 01
+---FEED-SEPARATOR---
+Club Friendly
+Liverpool vs Monaco
+Ligue 1+ feed
+13E
+11677 H 7200
+DVB-S2 4:2:0 8PSK
+ID: Unname
+FTA
+---FEED-SEPARATOR---
+Club Friendly
+Liverpool vs AS Monaco
+Eutelsat 7B/7C @ 7.0E
+11598 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  Liverpool vs AS Monaco
+CW: 8E 5D 3C 27 2B 1A 9F E4
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11058 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG 1 EU
+Event: 
+Emirates Cup - Arsenal vs Borussia Dortmund
+CW: : 2A A1 00 CB 32 B2 3A 1E
+---FEED-SEPARATOR---
+Club Friendly
+Chelsea vs Johor Tigers
+Eutelsat 7B/7C @ ( 7.0E )
+11605 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Chelsea vs Johor Tigers
+CW: : B5 F3 D1 79 C9 A7 E8 58
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11088 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Pre Season Friendlies - Man City v Athletico Madrid
+Event: 
+Club Friendly (Pre-Season):
+Manchester City (ENG)
+ vs. 
+Atlético de Madrid (ESP)
+CW: DD 33 FB 0B BA 09 08 CB
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3976 V 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : MYASTRKL-M
+CW : AABC208626090837
+Johor Darul vs Chelsea
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3994 V 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : ktsat mp4 enc
+CW : DD 33 FB 0B BA 09 08 CB
+Man City vs Atletico Madrid
