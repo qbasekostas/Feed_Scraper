@@ -43,6 +43,17 @@ DVB-S2 4:2:0 8PSK
 ID: Unname
 FTA
 ---FEED-SEPARATOR---
+AhmedCeNa said:
+Club Friendly
+Liverpool vs Monaco
+Ligue 1+ feed
+13E
+11677 H 7200
+DVB-S2 4:2:0 8PSK
+ID: Unname
+FTA
+Click to expand...
+---FEED-SEPARATOR---
 Club Friendly
 Liverpool vs AS Monaco
 Eutelsat 7B/7C @ 7.0E
