@@ -1,3 +1,11 @@
+7E
+11606 V 7500
+4.2.0
+ID: AFD
+Liga Profesional de Fútbol
+San Lorenzo de Almagro - Club Atlético Huracán
+CW: C1 8A DA 25 14 B4 12 DA
+---FEED-SEPARATOR---
 omid1348 said:
 ID: AFD
 Liga Profesional de Fútbol
