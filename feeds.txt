@@ -1,6 +1,22 @@
-EFL Carabao Cup
-100.5E
-3984 V 7119
+Carabao Cup 
+Hotbired 13°E
+Plymouth VS Exeter
+11186 V 7120
+DVB-S2 8PSK 4:2:0
+ID: Pitch-Carabao Cup R1-P
+CW: 13 11 BC E0 CA 32 45 41
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3984 V 7119 C-Band
+ID: BT_SES_8_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,30Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Carabao Cup 2026/27
+Teams: Plymouth Argyle vs Exeter City
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
 CW: 13 11 BC E0 CA 32 45 41
 ---FEED-SEPARATOR---
 Euro Super Cup, Final
