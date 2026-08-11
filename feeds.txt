@@ -21,6 +21,10 @@ DVB-S2 -
 ID: IMG 1 EU
 CW: : 2A A1 00 CB 32 B2 1F 03
 ---FEED-SEPARATOR---
+7E
+12509 V 4935
+Event: UEFA Champions League (3rd Qualifying Rd, 2nd Leg): FK Crvena Zvezda (SRB)
+---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 11608 H 7200 | 4:2:0 | DVB-S2 8PSK
 ID: 
@@ -39,6 +43,17 @@ DVB-S2 -
 ID: CBC-01
 CW
 : FTA
+---FEED-SEPARATOR---
+BulgariaSat-1 @ 1.9°East
+12510 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+BUL-001
+Event: 
+UEFA Conference League (3rd Qualifying Rd, 2nd Leg - Agg 1-1):
+CSKA 1948 Sofia (BUL)
+ vs. 
+Panathinaikos FC (GRE)
+CW: 6B 4D 2F E7 9A 7C 3E 54
 ---FEED-SEPARATOR---
 UEFA Champions League, 
 3rd Qualifying
