@@ -21,6 +21,17 @@ DVB-S2 -
 ID: IMG 1 EU
 CW: : 2A A1 00 CB 32 B2 1F 03
 ---FEED-SEPARATOR---
+Super Saiyan said:
+			Hotbird 13G/13F @ 13.0°East
+11608 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+YSM 019 01
+Event: 
+UEFA Champions League (3rd Qualifying Rd, 2nd Leg):
+FK Crvena Zvezda (SRB)
+Click to expand...
+Encrypted now
+---FEED-SEPARATOR---
 7E
 12509 V 4935
 Event: UEFA Champions League (3rd Qualifying Rd, 2nd Leg): FK Crvena Zvezda (SRB)
@@ -43,6 +54,23 @@ DVB-S2 -
 ID: CBC-01
 CW
 : FTA
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11608 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: YSM 019 01
+Event: UEFA Champions League (3rd Qualifying Rd, 2nd Leg): FK Crvena Zvezda (SRB)
+CW: 12 34 AB F1 CD 56 78 9B
+---FEED-SEPARATOR---
+Eutelsat 10B @ 10.0°East
+11300 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+SLO-MJA
+Event: 
+UEFA Champions League (3rd Qualifying Rd, 2nd Leg - Agg 2-1):
+ŠK Slovan Bratislava (SVK)
+ vs. 
+Mjällby AIF (SWE)
+CW: 17 32 BA 03 AD 51 51 4F
 ---FEED-SEPARATOR---
 BulgariaSat-1 @ 1.9°East
 12510 H 7200 | 4:2:0 | DVB-S2 8PSK
