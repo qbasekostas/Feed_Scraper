@@ -1,3 +1,29 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 2
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |11,42Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana
+Teams: to be confirmed
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: 21 54 AD 22 BB 5F AD C7
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,96Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana
+Teams: to be confirmed
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: 54 DA C6 F4 FF DA CB A4
+---FEED-SEPARATOR---
 AbuHaya said:
 			Hotbird 13F/13G @ ( 13.0E )
 11058 H 7200
@@ -54,6 +80,21 @@ DVB-S2 -
 ID: CBC-01
 CW
 : FTA
+---FEED-SEPARATOR---
+double del
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+11020 V 9875 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+Service 1 (EBUER)
+Event: 
+UEFA Champions League (3rd Qualifying Rd, 2nd Leg - Agg 0-2):
+SK Sturm Graz (AUT)
+ vs. 
+Fenerbahçe SK (TUR)
+CW: 82 E9 FE 69 87 42 16 DF
 ---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 11608 H 7200 | 4:2:0 | DVB-S2 8PSK
