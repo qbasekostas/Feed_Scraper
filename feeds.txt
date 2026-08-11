@@ -1,0 +1,79 @@
+AbuHaya said:
+			Hotbird 13F/13G @ ( 13.0E )
+11058 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG 1 EU
+Club Friendlies
+Juventus FC - Inter Milan
+CW: 2A A1 00 CB 32 B2 1F 03
+Thanks you 
+Red Devils
+Click to expand...
+Juventus-Palermo today
+---FEED-SEPARATOR---
+Club Friendly
+Palermo vs Juventus
+Hot Bird 13F/13G @ ( 13.0E )
+11058 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: IMG 1 EU
+CW: : 2A A1 00 CB 32 B2 1F 03
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11608 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+YSM 019 01
+Event: 
+UEFA Champions League (3rd Qualifying Rd, 2nd Leg):
+FK Crvena Zvezda (SRB)
+---FEED-SEPARATOR---
+UEFA Champions League, 3rd Qualifying
+Sabah FK vs AGF
+Hotbird 13B/13C/13G @ ( 13.0E )
+11617 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: CBC-01
+CW
+: FTA
+---FEED-SEPARATOR---
+UEFA Champions League, 
+3rd Qualifying
+Olympique Lyonnais vs AC Sparta Praha
+Eutelsat 7A/B ( 7.0E )
+10963 V 14396
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: INTER LYON VS SPARTA
+CW: : F4 86 20 9A 26 08 11 3F
+---FEED-SEPARATOR---
+UEFA Super Cup FINAL Fan-Zone feed (Sky Sport Austria)
+Hot Bird 13.0E
+11592 H 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID:  Super cup (MTI Teleport MUC)
+CW: A8 6A 04 16 38 63 93 2E
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+12678 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+LAT-012 M
+Event: 
+FIBA U16 EuroBasket (Round of 16):
+Latvia U16 (LAT)
+ vs. 
+Serbia U16 (SRB)
+CW: AA AA 12 66 34 20 26 7A
+---FEED-SEPARATOR---
+2026 China Women's Basketball Warm-Up Match
+Asiasat 5 (100.5°E) C BAND
+4164 H 7200
+DVB-S2 -1080P- 8PSK
+4:2:0
+ID:1
+CW: 20 26 08 4E AB 12 CD 8A
