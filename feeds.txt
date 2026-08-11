@@ -81,8 +81,6 @@ ID: CBC-01
 CW
 : FTA
 ---FEED-SEPARATOR---
-double del
----FEED-SEPARATOR---
 Eutelsat 7B/7C @ 7.0°East
 11020 V 9875 |
 4:2:2
@@ -113,6 +111,16 @@ UEFA Champions League (3rd Qualifying Rd, 2nd Leg - Agg 2-1):
 Mjällby AIF (SWE)
 CW: 17 32 BA 03 AD 51 51 4F
 ---FEED-SEPARATOR---
+UEFA Champions League, 3rd Qualifying
+NEC Nijmegen vs Olympiacos FC
+Eutelsat 10A @ ( 10.0E )
+11268 V 11240
+DVB-S2 - 
+4:2:2
+ - H265
+ID: ESPN MAIN
+CW: : F3 11 DA DE 11 EB 08 04
+---FEED-SEPARATOR---
 BulgariaSat-1 @ 1.9°East
 12510 H 7200 | 4:2:0 | DVB-S2 8PSK
 ID: 
@@ -130,7 +138,7 @@ Olympique Lyonnais vs AC Sparta Praha
 Eutelsat 7A/B ( 7.0E )
 10963 V 14396
 DVB-S2 - 
-4:2:2
+4:2:0
  - 8PSK
 ID: INTER LYON VS SPARTA
 CW: : F4 86 20 9A 26 08 11 3F
