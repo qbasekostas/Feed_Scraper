@@ -1,13 +1,12 @@
-Copa Libertadores
-Fluminense (BRA) vs Independiente Rivadavia (ARG)
-Hotbird 13E
-12696 Н 7200
-DVB-S2 - 4:2:2 - 8PSK
-ID:
-  Fluminense (BRA) vs Independiente Rivadavia (ARG) - INGLES EUROPA (SES Video)
-CW: 21 54 AD 22 BB 5F AD C7
-black screen now
+13E
+12706 H 7200
+4.2.2
+ID: Boca  jRS. (ARG) vs Recoleta
+CONMEBOL Sudamericana
+Boca Juniors - Recoleta FC
+CW: 54 DA C6 F4 FF DA CB A4
 ---FEED-SEPARATOR---
+safrifulkamal said:
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OCC 2
@@ -20,162 +19,56 @@ Event: CONMEBOL – Copa Libertadores/Sudamericana
 Teams: to be confirmed
 Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
 CW: 21 54 AD 22 BB 5F AD C7
+Click to expand...
+47W SES14 C 
+3928V10000
+ID: FLU VS IND PORT
+4007 V 10000
+ID: FLU VS IND SPA
+1920x1080i |9,96Mb/Sec |8PSK 4.2.2
+CONMEBOL COPA LIBERTADORES 
+FLUMINENSE VS INDEPENDIENTE RIVADAVIA 
+CW: 21 54 AD 22 BB 5F AD C7
 ---FEED-SEPARATOR---
+Copa Libertadores
+Estudianter de la Plata (ARG) vs Universidad Catolica (CHI)
+Hot Bird 13F/13G @ ( 13.0E )
+11684 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Estudiantes de la Plata (ARG) vs Universidad Catolica (CHI)
+CW: : 21 54 AD 22 BB 5F AD C7
+---FEED-SEPARATOR---
+safrifulkamal said:
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OCC 1
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
-1920x1080i |10,96Mb/Sec |8PSK| 
+| 
 4:2:2
  FHD
 Event: CONMEBOL – Copa Libertadores/Sudamericana
 Teams: to be confirmed
 Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
 CW: 54 DA C6 F4 FF DA CB A4
----FEED-SEPARATOR---
-AbuHaya said:
-			Hotbird 13F/13G @ ( 13.0E )
-11058 H 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: IMG 1 EU
-Club Friendlies
-Juventus FC - Inter Milan
-CW: 2A A1 00 CB 32 B2 1F 03
-Thanks you 
-Red Devils
 Click to expand...
-Juventus-Palermo today
+47W SES14 C 
+4135H10000
+ID: BOC VS REC SPA ( ENCOMPASS BA) 
+DVB-S2 4.2.2 1920x1080i |19,96Mb/Sec |8PSK 
+CONMEBOL COPA SUDAMERICANA 
+BOCA JUNIORS VS DEPORTIVO RECOLETA 
+CW: 54 DA C6 F4 FF DA CB A4
 ---FEED-SEPARATOR---
-Club Friendly
-Palermo vs Juventus
+Copa Sudamericana
+Bolivar
+(BOL) vs Sao Paulo (BRA)
 Hot Bird 13F/13G @ ( 13.0E )
-11058 H 7199
+12678 H 7199
 DVB-S2 - 
-4:2:0 
+4:2:2 
 - 8PSK
-ID: IMG 1 EU
-CW: : 2A A1 00 CB 32 B2 1F 03
----FEED-SEPARATOR---
-Super Saiyan said:
-			Hotbird 13G/13F @ 13.0°East
-11608 H 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-YSM 019 01
-Event: 
-UEFA Champions League (3rd Qualifying Rd, 2nd Leg):
-FK Crvena Zvezda (SRB)
-Click to expand...
-Encrypted now
----FEED-SEPARATOR---
-7E
-12509 V 4935
-Event: UEFA Champions League (3rd Qualifying Rd, 2nd Leg): FK Crvena Zvezda (SRB)
----FEED-SEPARATOR---
-Hotbird 13G/13F @ 13.0°East
-11608 H 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-YSM 019 01
-Event: 
-UEFA Champions League (3rd Qualifying Rd, 2nd Leg):
-FK Crvena Zvezda (SRB)
----FEED-SEPARATOR---
-UEFA Champions League, 3rd Qualifying
-Sabah FK vs AGF
-Hotbird 13B/13C/13G @ ( 13.0E )
-11617 H 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: CBC-01
-CW
-: FTA
----FEED-SEPARATOR---
-Eutelsat 7B/7C @ 7.0°East
-11020 V 9875 |
-4:2:2
- | DVB-S2 8PSK
-ID: 
-Service 1 (EBUER)
-Event: 
-UEFA Champions League (3rd Qualifying Rd, 2nd Leg - Agg 0-2):
-SK Sturm Graz (AUT)
- vs. 
-Fenerbahçe SK (TUR)
-CW: 82 E9 FE 69 87 42 16 DF
----FEED-SEPARATOR---
-Hotbird 13G/13F @ 13.0°East
-11608 H 7200 | 4:2:0 | DVB-S2 8PSK
-ID: YSM 019 01
-Event: UEFA Champions League (3rd Qualifying Rd, 2nd Leg): FK Crvena Zvezda (SRB)
-CW: 12 34 AB F1 CD 56 78 9B
----FEED-SEPARATOR---
-Eutelsat 10B @ 10.0°East
-11300 H 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-SLO-MJA
-Event: 
-UEFA Champions League (3rd Qualifying Rd, 2nd Leg - Agg 2-1):
-ŠK Slovan Bratislava (SVK)
- vs. 
-Mjällby AIF (SWE)
-CW: 17 32 BA 03 AD 51 51 4F
----FEED-SEPARATOR---
-UEFA Champions League, 3rd Qualifying
-NEC Nijmegen vs Olympiacos FC
-Eutelsat 10A @ ( 10.0E )
-11268 V 11240
-DVB-S2 - 
-4:2:2
- - H265
-ID: ESPN MAIN
-CW: : F3 11 DA DE 11 EB 08 04
----FEED-SEPARATOR---
-BulgariaSat-1 @ 1.9°East
-12510 H 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-BUL-001
-Event: 
-UEFA Conference League (3rd Qualifying Rd, 2nd Leg - Agg 1-1):
-CSKA 1948 Sofia (BUL)
- vs. 
-Panathinaikos FC (GRE)
-CW: 6B 4D 2F E7 9A 7C 3E 54
----FEED-SEPARATOR---
-UEFA Champions League, 
-3rd Qualifying
-Olympique Lyonnais vs AC Sparta Praha
-Eutelsat 7A/B ( 7.0E )
-10963 V 14396
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: INTER LYON VS SPARTA
-CW: : F4 86 20 9A 26 08 11 3F
----FEED-SEPARATOR---
-UEFA Super Cup FINAL Fan-Zone feed (Sky Sport Austria)
-Hot Bird 13.0E
-11592 H 9875
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID:  Super cup (MTI Teleport MUC)
-CW: A8 6A 04 16 38 63 93 2E
----FEED-SEPARATOR---
-Hotbird 13G/13F @ 13.0°East
-12678 H 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-LAT-012 M
-Event: 
-FIBA U16 EuroBasket (Round of 16):
-Latvia U16 (LAT)
- vs. 
-Serbia U16 (SRB)
-CW: AA AA 12 66 34 20 26 7A
----FEED-SEPARATOR---
-2026 China Women's Basketball Warm-Up Match
-Asiasat 5 (100.5°E) C BAND
-4164 H 7200
-DVB-S2 -1080P- 8PSK
-4:2:0
-ID:1
-CW: 20 26 08 4E AB 12 CD 8A
+ID:  Bolivar (BOL) vs Sao Paulo (BRA) 
+CW: : 54 DA C6 F4 FF DA CB A4
