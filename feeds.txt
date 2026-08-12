@@ -25,6 +25,14 @@ DVB-S2 -
 ID: POL-058_ch1
 CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
+28.2E
+12525 H 7200 
+4:2:0
+DVBS2 8PSK
+ID: D-331 TX1
+Friendly Club Match
+FSV Frankfurt v Eintracht Frankfurt
+---FEED-SEPARATOR---
 7E
 11606 V 7200
 4.2.0
@@ -59,6 +67,18 @@ CLUB FRIENDLY WOMEN
 A-Leagues All Stars W (Aus)
 Chelsea W (Eng)
 CW: CB 43 34 42 3E 4D F3 7E
+---FEED-SEPARATOR---
+UEFA Super Cup FINAL
+PSG vs Aston Villa
+3.1E
+10960 H 7500
+10969 H 7500 (
+Later
+)
+DVB-S2 4:2:0 QPSK
+ID: beIN SPORTS HD
+ID: Service-1
+CW: 51 3B 68 F4 8C 30 5E 1A
 ---FEED-SEPARATOR---
 Mo_ha said:
 Euro Super Cup, Final
