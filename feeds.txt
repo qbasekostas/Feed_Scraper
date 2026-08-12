@@ -68,17 +68,26 @@ A-Leagues All Stars W (Aus)
 Chelsea W (Eng)
 CW: CB 43 34 42 3E 4D F3 7E
 ---FEED-SEPARATOR---
-UEFA Super Cup FINAL
-PSG vs Aston Villa
-3.1E
-10960 H 7500
-10969 H 7500 (
-Later
-)
-DVB-S2 4:2:0 QPSK
-ID: beIN SPORTS HD
-ID: Service-1
-CW: 51 3B 68 F4 8C 30 5E 1A
+Eutelsat 16A   ( 16.0E )
+10985 V 9600
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL 030
+Event: 
+Conference League - GKS Katowice vs H.Tel-Aviv
+CW: 26 CA E2 D2 60 81 24 05
+---FEED-SEPARATOR---
+𝐔𝐄𝐅𝐀 𝐒𝐔𝐏𝐄𝐑 𝐂𝐔𝐏 - 𝐅𝐈𝐍𝐀𝐋
+𝐏𝐒𝐆 𝐯 𝐀𝐬𝐭𝐨𝐧 𝐕𝐢𝐥𝐥𝐚  (𝟏𝟐/𝟎𝟖/𝟐𝟎𝟐𝟔)
+𝐄𝐮𝐭𝐞𝐥𝐬𝐚𝐭 𝟑𝐁 @ 𝟑.𝟏° 𝐄
+𝟭𝟬𝟵𝟲𝟬 𝗛 𝟳𝟱𝟬𝟬 |𝟒:𝟐:𝟎 | 𝐇.𝟐𝟔𝟒
+𝟏𝟗𝟐𝟎*𝟏𝟎𝟖𝟎 | 𝐃𝐕𝐁-𝐒𝟐 | 𝟖𝐏𝐒𝐊
+𝐈𝐃: beIN SPORTS
+𝐂𝐖: 𝟓𝟏 𝟑𝐁 𝟔𝟖 𝐅𝟒 𝟖𝐂 𝟑𝟎 𝟓𝐄 𝟏𝐀
+𝟭𝟬𝟵𝟳𝟬 𝗛 𝟳𝟱𝟬𝟬 |𝟒:𝟐:𝟎 | 𝐇.𝟐𝟔𝟒
+𝟏𝟗𝟐𝟎*𝟏𝟎𝟖𝟎 | 𝐃𝐕𝐁-𝐒𝟐 | 𝟖𝐏𝐒𝐊
+𝐈𝐃: Service-1
+𝐂𝐖: 𝟓𝟏 𝟑𝐁 𝟔𝟖 𝐅𝟒 𝟖𝐂 𝟑𝟎 𝟓𝐄 𝟏𝐀
+alpha clavier
 ---FEED-SEPARATOR---
 Mo_ha said:
 Euro Super Cup, Final
