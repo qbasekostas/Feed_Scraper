@@ -1,3 +1,21 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,56Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores (1st Leg Round of 16)
+Teams: Platense vs Coquimbo Unido
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+Mo_ha said:
+#CW
+:
+ 25 8A DC 8B B6 77 88 B5
+Click to expand...
+---FEED-SEPARATOR---
+Mo_ha said:
 Copa Sudamericana
 Tigre (ARG) vs Montevideo City (URU)
 Hotbird 13B/13C/13G @ ( 13.0E )
@@ -7,7 +25,33 @@ DVB-S2 -
 - 8PSK
 ID: Tigre (ARG) vs Montevideo City (URU)
 CW: : 21 A4 FC C1 B7 32 DA C3
+Click to expand...
+47W SES14 C 
+4160H10000
+ID:  TIG VS MON SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+TIGRE VS MONTEVIDEO CITY 
 ---FEED-SEPARATOR---
+Mo_ha said:
+Copa Sudamericana
+Bragantino (BRA) vs Atletico-MG (BRA)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12678 H 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: RB Bragantino (BRA) vs Atletico-MG (BRA)
+CW: : B6 11 CD 94 45 AD C6 B8
+Click to expand...
+47W SES14 C 
+4044V10000
+ID: BRA VS MIN SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+BRAGANTINO VS ATLETICO MINEIRO 
+---FEED-SEPARATOR---
+Mo_ha said:
 Copa Libertadores
 Platense (ARG) vs Coquimbo (CHI) 
 Hotbird 13B/13C/13G @ ( 13.0E )
@@ -17,7 +61,15 @@ DVB-S2 -
  - 8PSK
 ID: Platense (ARG) vs Coquimbo (CHI) 
 CW: : 25 8A DC 8B B6 77 88 B5
+Click to expand...
+47W SES14 C 
+4068V10000
+ID: PLA VS COQ SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA LIBERTADORES 
+PLATENSE VS COQUIMBO 
 ---FEED-SEPARATOR---
+safrifulkamal said:
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OCC 2 
@@ -30,161 +82,10 @@ Event: CONMEBOL – Copa Libertadores/Sudamericana
 Teams: to be confirmed
 Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
 CW: 35 AD CB AD 78 EE DD 43
----FEED-SEPARATOR---
-Asiasat 5 @ 100.5°E
-3840 H 30001 C-Band
-ID: OCC 1 
-(Provider ID: Servicios Audiovisuales Overon, S L)
-MPEG4 | DVB-S2
-1920x1080i |10,42Mb/Sec |8PSK| 
-4:2:2
- FHD
-Event: CONMEBOL – Copa Libertadores/Sudamericana
-Teams: to be confirmed
-Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
-CW: 21 A4 FC C1 B7 32 DA C3
----FEED-SEPARATOR---
-safrifulkamal said:
-Asiasat 5 @ 100.5°E
-3840 H 30001 C-Band
-ID: OCC 2
-(Provider ID: Servicios Audiovisuales Overon, S L)
-MPEG4 | DVB-S2
-1920x1080i |11,42Mb/Sec |8PSK| 
-4:2:2
- FHD
-Event: CONMEBOL – Copa Libertadores/Sudamericana
-Teams: to be confirmed
-Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
-CW: 21 54 AD 22 BB 5F AD C7
 Click to expand...
-SES 14 47W
-4067 H 10000
-ID.EST VS UNI SPA
-4.2.2
----FEED-SEPARATOR---
-Copa Libertadores
-Palmeiras (BRA) vs Cerro Porteno (PAR)
-Hotbird 13B/13C/13G @ ( 13.0E )
-11693 H 7199
-DVB-S2 - 
-4:2:2 
-- 8PSK
-ID: Palmeiras (BAR) vs 
-Cerro Porteno
- (PAR)
-CW: : 35 AD CB AD 78 EE DD 43
----FEED-SEPARATOR---
-Copa Sudamericana
-Bragantino (BRA) vs Atletico-MG (BRA)
-Hotbird 13B/13C/13G @ ( 13.0E )
-12678 H 7199
-DVB-S2 - 
-4:2:2 
-- 8PSK
-ID: RB Bragantino (BRA) vs Atletico-MG (BRA)
-CW: : B6 11 CD 94 45 AD C6 B8
----FEED-SEPARATOR---
-Eutelsat 7A/7B/7C @ 7.0E
-11093 V 7200
-DVB-S2 - 
-4:2:2 
-- 8PSK
-ID: POL-058_ch1
-CW: 15 58 35 A2 71 42 63 16
----FEED-SEPARATOR---
-7.0°E
-11082 V 7500
-4:2:0
-ID: ITA493A
-CW: A4 2A B7 85 7B C8 4C 8F
-Friendly Match: Napoli - Aris Salonicco
----FEED-SEPARATOR---
-Friendly Match
-Leeds United VS Manchester United 
-Eutelsat 7°E
-11598 V 7200
-DVB-S2 8PSK 4:2:0
-ID: E7B Manchester United VS Le
-CW: 7D 4C 3B 04 2A 1F 9E E7
----FEED-SEPARATOR---
-7E
-11606 V 7200
-4.2.0
-ID: EUT 7 Everton vs Newcastle
-Club Friendlies
-Everton F.C. - Newcastle United F.C.
-CW: A4 E2 C1 47 B9 F7 D6 86
----FEED-SEPARATOR---
-Hotbird 13F/13G @ ( 13.0E )
-11058 H 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: IMG 1 EU
-Club Friendly: Arsenal vs Como
-CW: 2A A1 00 CB 32 B2 4C 30
----FEED-SEPARATOR---
-100.5e
-4033 V 7200
-4:2:0
-ID: AS5 Man Utd v Leeds
-club friendly
-Manchester Utd (Eng)
-Leeds (Eng)
-CW: F3 33 B8 DE C9 DA E1 84
----FEED-SEPARATOR---
-100.5e
-4025 V 7200
-4:2:0
-ID: AS5 Everton v Newcastle
-club friendly
-Newcastle (Eng)
-Everton (Eng)
-21 64 ED 2B 4B 98 12 1D  #CW: BB B7 B8 2A C9 DA E5 88
----FEED-SEPARATOR---
-100.5e
-3965 V 7500
-4:2:0
-ID: Chelsea W FC v A-League AS
-CLUB FRIENDLY WOMEN 
-A-Leagues All Stars W (Aus)
-Chelsea W (Eng)
-CW: CB 43 34 42 3E 4D F3 7E
----FEED-SEPARATOR---
-UEFA Super Cup 
-Eutelsat 3°E
-10970 H 7500
-ID: Service-1
-DVB-S2 QPSK 4:2:0
-CW: 82 29 C6 71 5A D7 DF 10
----FEED-SEPARATOR---
-Eutelsat 16A   ( 16.0E )
-10985 V 9600
-DVB-S2 - 4:2:0 - 8PSK
-ID: POL 030
-Event: 
-Conference League - GKS Katowice vs H.Tel-Aviv
-CW: 26 CA E2 D2 60 81 24 05
----FEED-SEPARATOR---
-𝐔𝐄𝐅𝐀 𝐒𝐔𝐏𝐄𝐑 𝐂𝐔𝐏 - 𝐅𝐈𝐍𝐀𝐋
-𝐏𝐒𝐆 𝐯 𝐀𝐬𝐭𝐨𝐧 𝐕𝐢𝐥𝐥𝐚  (𝟏𝟐/𝟎𝟖/𝟐𝟎𝟐𝟔)
-𝐄𝐮𝐭𝐞𝐥𝐬𝐚𝐭 𝟑𝐁 @ 𝟑.𝟏° 𝐄
-𝟭𝟬𝟵𝟲𝟬 𝗛 𝟳𝟱𝟬𝟬 |𝟒:𝟐:𝟎 | 𝐇.𝟐𝟔𝟒
-𝟏𝟗𝟐𝟎*𝟏𝟎𝟖𝟎 | 𝐃𝐕𝐁-𝐒𝟐 | 𝟖𝐏𝐒𝐊
-𝐈𝐃: beIN SPORTS
-𝐂𝐖: 𝟓𝟏 𝟑𝐁 𝟔𝟖 𝐅𝟒 𝟖𝐂 𝟑𝟎 𝟓𝐄 𝟏𝐀
-𝟭𝟬𝟵𝟳𝟬 𝗛 𝟳𝟱𝟬𝟬 |𝟒:𝟐:𝟎 | 𝐇.𝟐𝟔𝟒
-𝟏𝟗𝟐𝟎*𝟏𝟎𝟖𝟎 | 𝐃𝐕𝐁-𝐒𝟐 | 𝟖𝐏𝐒𝐊
-𝐈𝐃: Service-1
-𝐂𝐖: 𝟓𝟏 𝟑𝐁 𝟔𝟖 𝐅𝟒 𝟖𝐂 𝟑𝟎 𝟓𝐄 𝟏𝐀
-alpha clavier
----FEED-SEPARATOR---
-UEFA Super Cup Final
-Paris Saint-Germain vs Aston Villa FC
-Hotbird 13G/13F @ 13.0°East
-11634 - H - 17136
-DVB-S2X - 4:2:2 - 1080P
-ID: UKI-1462 FEED2
-11652 - H - 17136
-DVB-S2X - 4:2:2 - 1080P
-ID: UKI-1462 FEED3
-CW: AB DA 20 A5 26 CA F2 E2
+47W SES14 C 
+4056V10000
+ID: PAL VS CER SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA LIBERTADORES 
+PALMEIRAS VS CERRO PORTEÑO
