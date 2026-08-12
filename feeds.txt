@@ -17,6 +17,22 @@ SES 14 47W
 ID.EST VS UNI SPA
 4.2.2
 ---FEED-SEPARATOR---
+Eutelsat 7A/7B/7C @ 7.0E
+11093 V 7200
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: POL-058_ch1
+CW: 15 58 35 A2 71 42 63 16
+---FEED-SEPARATOR---
+7E
+11606 V 7200
+4.2.0
+ID: EUT 7 Everton vs Newcastle
+Club Friendlies
+Everton F.C. - Newcastle United F.C.
+CW: A4 E2 C1 47 B9 F7 D6 86
+---FEED-SEPARATOR---
 100.5e
 4033 V 7200
 4:2:0
@@ -43,18 +59,6 @@ CLUB FRIENDLY WOMEN
 A-Leagues All Stars W (Aus)
 Chelsea W (Eng)
 CW: CB 43 34 42 3E 4D F3 7E
----FEED-SEPARATOR---
-Mo_ha said:
-Euro Super Cup, Final
-PSG vs Aston Villa
-CW: : AB DA 20 A5 26 CA F2 E2
-Click to expand...
-Hot Bird 13B/13C/13G @ ( 13.0E )
-11652 H 17137
-DVB-S2 - 
-4:2:2
- - H.265
-ID: UKI 1462 FEED3
 ---FEED-SEPARATOR---
 Mo_ha said:
 Euro Super Cup, Final
