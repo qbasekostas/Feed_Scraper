@@ -1,3 +1,29 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,74Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana
+Teams: to be confirmed
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: 35 AD CB AD 78 EE DD 43
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,42Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana
+Teams: to be confirmed
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: 21 A4 FC C1 B7 32 DA C3
+---FEED-SEPARATOR---
 safrifulkamal said:
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
@@ -25,13 +51,20 @@ DVB-S2 -
 ID: POL-058_ch1
 CW: 15 58 35 A2 71 42 63 16
 ---FEED-SEPARATOR---
-28.2E
-12525 H 7200 
+7.0°E
+11082 V 7500
 4:2:0
-DVBS2 8PSK
-ID: D-331 TX1
-Friendly Club Match
-FSV Frankfurt v Eintracht Frankfurt
+ID: ITA493A
+CW: A4 2A B7 85 7B C8 4C 8F
+Friendly Match: Napoli - Aris Salonicco
+---FEED-SEPARATOR---
+Friendly Match
+Leeds United VS Manchester United 
+Eutelsat 7°E
+11598 V 7200
+DVB-S2 8PSK 4:2:0
+ID: E7B Manchester United VS Le
+CW: 7D 4C 3B 04 2A 1F 9E E7
 ---FEED-SEPARATOR---
 7E
 11606 V 7200
@@ -40,6 +73,13 @@ ID: EUT 7 Everton vs Newcastle
 Club Friendlies
 Everton F.C. - Newcastle United F.C.
 CW: A4 E2 C1 47 B9 F7 D6 86
+---FEED-SEPARATOR---
+Hotbird 13F/13G @ ( 13.0E )
+11058 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG 1 EU
+Club Friendly: Arsenal vs Como
+CW: 2A A1 00 CB 32 B2 4C 30
 ---FEED-SEPARATOR---
 100.5e
 4033 V 7200
@@ -68,6 +108,13 @@ A-Leagues All Stars W (Aus)
 Chelsea W (Eng)
 CW: CB 43 34 42 3E 4D F3 7E
 ---FEED-SEPARATOR---
+UEFA Super Cup 
+Eutelsat 3°E
+10970 H 7500
+ID: Service-1
+DVB-S2 QPSK 4:2:0
+CW: 82 29 C6 71 5A D7 DF 10
+---FEED-SEPARATOR---
 Eutelsat 16A   ( 16.0E )
 10985 V 9600
 DVB-S2 - 4:2:0 - 8PSK
@@ -88,15 +135,6 @@ CW: 26 CA E2 D2 60 81 24 05
 𝐈𝐃: Service-1
 𝐂𝐖: 𝟓𝟏 𝟑𝐁 𝟔𝟖 𝐅𝟒 𝟖𝐂 𝟑𝟎 𝟓𝐄 𝟏𝐀
 alpha clavier
----FEED-SEPARATOR---
-Mo_ha said:
-Euro Super Cup, Final
-PSG vs Aston Villa
-CW: : AB DA 20 A5 26 CA F2 E2
-Click to expand...
-11651 H 17141
-4:2:2
-ID: UKI-1462 FEED3
 ---FEED-SEPARATOR---
 UEFA Super Cup Final
 Paris Saint-Germain vs Aston Villa FC
