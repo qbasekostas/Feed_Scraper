@@ -1,3 +1,23 @@
+Copa Sudamericana
+Tigre (ARG) vs Montevideo City (URU)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12687 H 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: Tigre (ARG) vs Montevideo City (URU)
+CW: : 21 A4 FC C1 B7 32 DA C3
+---FEED-SEPARATOR---
+Copa Libertadores
+Platense (ARG) vs Coquimbo (CHI) 
+Hotbird 13B/13C/13G @ ( 13.0E )
+11684 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Platense (ARG) vs Coquimbo (CHI) 
+CW: : 25 8A DC 8B B6 77 88 B5
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OCC 2 
@@ -42,6 +62,28 @@ SES 14 47W
 4067 H 10000
 ID.EST VS UNI SPA
 4.2.2
+---FEED-SEPARATOR---
+Copa Libertadores
+Palmeiras (BRA) vs Cerro Porteno (PAR)
+Hotbird 13B/13C/13G @ ( 13.0E )
+11693 H 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: Palmeiras (BAR) vs 
+Cerro Porteno
+ (PAR)
+CW: : 35 AD CB AD 78 EE DD 43
+---FEED-SEPARATOR---
+Copa Sudamericana
+Bragantino (BRA) vs Atletico-MG (BRA)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12678 H 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: RB Bragantino (BRA) vs Atletico-MG (BRA)
+CW: : B6 11 CD 94 45 AD C6 B8
 ---FEED-SEPARATOR---
 Eutelsat 7A/7B/7C @ 7.0E
 11093 V 7200
