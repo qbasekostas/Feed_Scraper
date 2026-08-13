@@ -91,6 +91,18 @@ Mo_ha said:
  25 8A DC 8B B6 77 88 B5
 Click to expand...
 ---FEED-SEPARATOR---
+Verdeoro said:
+Eutelsat 7A/7B/7C @ 7.0E
+11093 V 7200
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: POL-058_ch1
+CW: 15 58 35 A2 71 42 63 16
+Click to expand...
+Event: 
+Friendly International Women - Poland vs Italy
+---FEED-SEPARATOR---
 UEFA Europa League, 
 3rd Qualifying
 PAFOS vs SALZBURG
@@ -101,6 +113,14 @@ DVB-S2 -
  - 8PSK
 ID: PAFOSvsSALZBURG_MAIN
 CW: : AF C4 26 99 26 CB CA BB
+---FEED-SEPARATOR---
+UEFA Europa League - 3rd Qualifying Round (2nd Leg) [0-1]
+Górnik Zabrze vs Ferencváros
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11103  V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Polsat Sport (POLSAT)
+CW: 20 26 A9 EF 97 1A CA 7B
 ---FEED-SEPARATOR---
 2026 China Women's Basketball Warm-Up Match
 Asiasat 5 (100.5°E) C BAND
