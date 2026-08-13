@@ -221,6 +221,14 @@ DVB-S2 -
 ID: PAFOSvsSALZBURG_MAIN
 CW: : AF C4 26 99 26 CB CA BB
 ---FEED-SEPARATOR---
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) [3-1]
+St Gallen vs Sheriff Tiraspol
+Eutelsat 7A/7B/7C @ ( 7.0E )
+10960 V 6974
+DVB-S2 - 4:2:2 - 8PSK
+ID: David 2 (SRG SSR)
+CW: AB 23 51 1F BA C1 20 9B
+---FEED-SEPARATOR---
 7E
 12564 H 7200
 4.2.0
