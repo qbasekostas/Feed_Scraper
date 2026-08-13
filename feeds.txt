@@ -112,6 +112,30 @@ English FA Community Shield:
 Official Preview Show 
 CW: 44 5D DD 7E EE 13 08 09
 ---FEED-SEPARATOR---
+46E
+11002 H 9999
+ID: 
+CBC-01
+4:2:0
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) [0-1]
+Qarabagh vs Dynamo Kyiv
+---FEED-SEPARATOR---
+28.2E
+12703 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: SES#513827 World Feed
+UEFA Conference League - 3rd Qualifying Round (2nd Leg)
+Shelbourne v Ajax
+---FEED-SEPARATOR---
+28.2E
+12633 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: SES#513825PS FEED
+UEFA Conference League - 3rd Qualifying Round (2nd Leg)
+Shelbourne v Ajax
+---FEED-SEPARATOR---
 28.2E
 12619 V 7200 
 4.2.0
