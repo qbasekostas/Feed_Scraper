@@ -1,5 +1,44 @@
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OCC 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,77Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana (1st Leg Round of 16)
+Teams: TBC
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: B7 2D AD 91 11 BC F5 C2
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,56Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana (1st Leg Round of 16)
+Teams: TBC
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: B8 45 FC F9 A2 3D 56 35
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,42Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana (1st Leg Round of 16)
+Teams: TBC
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: 21 AD CB 99 66 87 CB B8
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OCC 2 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
@@ -112,6 +151,17 @@ English FA Community Shield:
 Official Preview Show 
 CW: 44 5D DD 7E EE 13 08 09
 ---FEED-SEPARATOR---
+omid1348 said:
+16E
+11103 H 7200
+4.2.0
+ID: Unname
+UEFA Europa League
+R.S.C. Anderlecht - PAOK FC
+FTA
+Click to expand...
+You already liked same feed posted 2 hours ago, and reposted it again now. Unbelievable
+---FEED-SEPARATOR---
 46E
 11002 H 9999
 ID: 
@@ -170,6 +220,24 @@ DVB-S2 -
  - 8PSK
 ID: PAFOSvsSALZBURG_MAIN
 CW: : AF C4 26 99 26 CB CA BB
+---FEED-SEPARATOR---
+7E
+12564 H 7200
+4.2.0
+ID: GCUK Enc 08
+UEFA Europa League
+Rangers F.C. - Jagiellonia Białystok
+CW: E4 11 CB C0 CB 4B BA D0
+---FEED-SEPARATOR---
+UEFA Europa League, 3rd Qualifying
+Heart of Midlothian vs Benfica
+Hotbird 13B/13C/13G @ ( 13.0E )
+10829 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: GUCK Enc 10
+CW: : E4 11 CB C0 CB 4B BA D0
 ---FEED-SEPARATOR---
 UEFA Conference League, 3rd Qualifying 
 Dun. Streda vs Twente
