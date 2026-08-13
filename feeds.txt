@@ -103,6 +103,39 @@ Click to expand...
 Event: 
 Friendly International Women - Poland vs Italy
 ---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+12610 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+GCUK Enc 9
+Event: 
+English FA Community Shield:
+Official Preview Show 
+CW: 44 5D DD 7E EE 13 08 09
+---FEED-SEPARATOR---
+28.2E
+12619 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: Dublin Feed
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) 
+Shelbourne v Ajax
+---FEED-SEPARATOR---
+28.2E
+12609 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: Duch Feed
+UEFA Conference League - 3rd Qualifying Round (2nd Leg) 
+Shelbourne v Ajax
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°East
+11102 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+unnamed-1
+Event: 
+UEFA Europa League - 3rd Qualifying Round (2nd Leg) [1-0]
+ Anderlecht v PAOK Thessaloniki
+---FEED-SEPARATOR---
 UEFA Europa League, 
 3rd Qualifying
 PAFOS vs SALZBURG
@@ -113,6 +146,24 @@ DVB-S2 -
  - 8PSK
 ID: PAFOSvsSALZBURG_MAIN
 CW: : AF C4 26 99 26 CB CA BB
+---FEED-SEPARATOR---
+UEFA Conference League, 3rd Qualifying 
+Dun. Streda vs Twente
+Eutelsat 10A @ ( 10.0E )
+11300 H 7199
+DVB-S2 - 
+4:2:0
+ - H265
+ID: DAC-TWE
+CW: : 57 13 BA 24 AD 57 11 15
+---FEED-SEPARATOR---
+UEFA Europa League - 3rd Qualifying Round (2nd Leg) [1-0]
+Besiktas vs Hradec Králové
+Hotbird 13G/13F @ 13.0°East
+12680 - H - 7400
+DVB-S2 - 4:2:2 - 1080i
+ID: TUR139-Main (HD-PROTEK)
+CW: ED F8 AA 8F 8A 0E 26 BE
 ---FEED-SEPARATOR---
 UEFA Europa League - 3rd Qualifying Round (2nd Leg) [0-1]
 Górnik Zabrze vs Ferencváros
