@@ -6,6 +6,22 @@ ID:
 EFL - York City v Bristol
 Event: EFL: York City vs Bristol
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3974 V 7119 C-Band
+ID: BT_SES_22_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,17Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Championship Matchday 1
+Teams: Sheffield United vs Birmingham City
+Time / Kickoff: 23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 18.30 CET
+Super Saiyan said:
+#CW:
+87 7C 23 26 49 28 02 73
+Click to expand...
+---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 11088 V 7120 |
 4:2:2
@@ -148,3 +164,10 @@ DVB-S2 - 4:2:0 - 8PSK
 ID: Pre Season Friendlies - Newcastle v Bayer Leverkusen (NEP Connect)
 Newcastle v Bayer Leverkusen
 CW: DD AA F2 79 CC 15 08 E9
+---FEED-SEPARATOR---
+Astra 2F (28.2°E)    
+Fréquence: 12609 - Pol: V - SR: 7200 - FEC: -
+Catégorie: Sport - Basketball
+Transmis en: MPEG-4 crypté
+ℹW:Germany-Spain
+A8 67 55 20 E6 C2 2A 9B  #CW:15 08 CB E8 AD 98 62 A7
