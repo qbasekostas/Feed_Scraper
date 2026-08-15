@@ -1,3 +1,13 @@
+Argentine First Division
+Estudiantes de La Plata vs Gimnasia y Esgrima
+Eutelsat 7B/7C @ ( 7.0E )
+11606 V 7500
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: AFD
+CW: : 18 4B AC 0F 14 19 4D 7A
+---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 11080 V 7120 |
 4:2:0 
