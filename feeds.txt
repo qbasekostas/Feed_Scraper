@@ -64,12 +64,13 @@ Borussia Dortmund (W)
  vs. 
 AS Roma (W)
 ---FEED-SEPARATOR---
-Friendly Match
-Fulham VS Stuttgart 
-Hotbired 13°E
-10829 H 7120
-DVB-S2 8PSK 4:2:0
-ID: GCUK ENC 4
+Club Friendly Match
+Fulham (ENG) v Stuttgart (GER)
+Hot Bird 13.0E
+10827 H 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:GCUK Enc 4 
 CW: 22 13 DD 12 CC 24 11 01
 ---FEED-SEPARATOR---
 AsiaSat 5 - 100.5 E - CBand
