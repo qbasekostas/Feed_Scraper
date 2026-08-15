@@ -7,6 +7,19 @@ EFL - York City v Bristol
 Event: EFL: York City vs Bristol
 ---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
+11088 V 7120 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+EFL - Sheffield UTD v Birmingham
+Event: 
+EFL Championship (Week 1):
+Sheffield United
+ vs. 
+Birmingham City
+CW: 87 7C 23 26 49 28 02 73
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
 11070 V 7120 | 4:2:0 | DVB-S2 8PSK
 ID: 
 EFL - Middlesbrough v Lincoln
