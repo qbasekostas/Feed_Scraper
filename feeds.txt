@@ -1,0 +1,99 @@
+Hotbird 13G/13F @ 13.0°East
+11080 V 7120 |
+4:2:0 
+| DVB-S2 8PSK
+ID: 
+EFL - York City v Bristol
+Event: EFL: York City vs Bristol
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11070 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+EFL - Middlesbrough v Lincoln
+Event: 
+EFL (English Football League):
+Middlesbrough
+ vs. 
+Lincoln City
+CW: 43 55 AF 47 24 54 1A 92
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11088 V 7120 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+EFL - Notts County v Leicester
+Event: 
+EFL (English Football League):
+Notts County
+ vs. 
+Leicester City
+Albahraniy said:
+CW: 2D D2 37 36 76 56 78 44
+Click to expand...
+---FEED-SEPARATOR---
+England League One - Round 1
+Notts County vs Leicester City
+Asiasat 5 (100.5°E) C BAND
+3975 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:BT_SES_22_SDI
+CW: 2D D2 37 36 76 56 78 44
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+12564 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+BMG-AST Dirty
+12573 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+BMG-AST Clean
+Event: 
+Club Friendly Match:
+Borussia Mönchengladbach
+ vs. 
+Aston Villa
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+12553 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+D-322 Backup
+Event: 
+Women's Club Friendly:
+Borussia Dortmund (W)
+ vs. 
+AS Roma (W)
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4033 V 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : AS5 MANCHESTER UNITED VS AC MILAN 
+CW : 3A 9B 2D 02 6F 1E 8A 17
+MU vs AC Milan
+---FEED-SEPARATOR---
+Club Friendly Match
+Brentford v Eintracht
+Hot Bird 13.0E
+11185 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Pre Season Friendlies - Brentford v Eintracht  
+CW: FE D3 AA 7B CC 15 08 E9
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°East
+10978 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+F3-1 9MHz
+Event: 
+Club Friendly Match:
+Borussia Dortmund
+ vs. 
+AS Roma
+CW: 20 25 AE F3 EA 52 02 3E
+---FEED-SEPARATOR---
+Hotbird 13F/13G @ ( 13.0E )
+11061 V 7120
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pre Season Friendlies - Newcastle v Bayer Leverkusen (NEP Connect)
+Newcastle v Bayer Leverkusen
+CW: DD AA F2 79 CC 15 08 E9
