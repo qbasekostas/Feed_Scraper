@@ -77,6 +77,13 @@ ID: BMG-AST Clean
 CW
 : FTA
 ---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4033 V 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID :  AS5  Liverpool vs Como
+CW : 6C 3B 2A D1 1F 9E 8D 4A
+Liverpool vs Como
+---FEED-SEPARATOR---
 Club Friendly Match
 Real Madrid vs 
 Schalke 
