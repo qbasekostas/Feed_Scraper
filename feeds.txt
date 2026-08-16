@@ -1,3 +1,13 @@
+Argentine First Division
+River Plate vs Argentinos Juniors
+Eutelsat 7B/7C @ ( 7.0E )
+11605 V 7500
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: AFD
+CW: : 18 4B AC 0F 14 19 4D 7A
+---FEED-SEPARATOR---
 28.2E
 12524 H 7120 
 4:2:0
