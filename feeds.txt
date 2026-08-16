@@ -32,9 +32,6 @@ Orange Club FAI cup
 Irish FAI Cup - Round of 16
 St Patrick's Athletic v Shamrock Rovers
 ---FEED-SEPARATOR---
-Arsenal - Manstester City 
-Hot Bird 13E 11067 V 14240 biss key;
----FEED-SEPARATOR---
 FA Community Shield
 Arsenal v Manchester City
 30W
@@ -80,6 +77,15 @@ DVB-S2 -
 ID: BMG-AST Clean
 CW
 : FTA
+---FEED-SEPARATOR---
+Club Friendly
+Schalke vs Real Madrid
+Asiasat 5 (100.5°E) C BAND
+4024 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: AS5 Schalke vs Real Madrid
+CW: 9F 6E 3D 4A 2C 1B 8A D1
 ---FEED-SEPARATOR---
 Club Friendly Match
 Newcastle vs Strasbourg
