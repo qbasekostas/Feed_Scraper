@@ -1,0 +1,93 @@
+Mo_ha said:
+FA Community Shield, Final
+Arsenal vs Manchester City
+Hot Bird 13B/13C/13E @ ( 13.0E )
+11066 V 14239
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: FA Community Shield Arsenal
+CW
+: FTA
+Click to expand...
+Encrypted in biss-ca now
+---FEED-SEPARATOR---
+FA Community Shield, Final
+Arsenal vs Manchester City
+Hot Bird 13B/13C/13E @ ( 13.0E )
+11066 V 14239
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: FA Community Shield Arsenal
+CW
+: FTA
+---FEED-SEPARATOR---
+28.2E
+12626 H 9875 
+4:2:2
+DVBS-2 8PSK
+ID 
+Orange Club FAI cup
+Irish FAI Cup - Round of 16
+St Patrick's Athletic v Shamrock Rovers
+---FEED-SEPARATOR---
+Arsenal - Manstester City 
+Hot Bird 13E 11067 V 14240 biss key;
+---FEED-SEPARATOR---
+FA Community Shield
+Arsenal v Manchester City
+30W
+11566 V 7200
+Id : Unname
+CW: 1B 8E B2 5B 59 82 A0 7B
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11088 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+PITCH Watford v Southampton
+Event: 
+EFL Championship:
+Watford
+ vs. 
+Southampton
+CW: 52 76 FD C5 43 42 3A BF
+---FEED-SEPARATOR---
+Hotbird 13F/13G @ ( 13.0E )
+11088 V 7120
+DVB-S2 - 4:2:0 - 8PSK
+ID: PITCH EFL Highlight
+Event: 
+EFL Highlight
+CW: 26 CC 33 25 59 E3 27 63
+---FEED-SEPARATOR---
+EFL Highlights International Show 2
+AsiaSat 5 100.5E
+3967 V 7119
+8PSK 2/3 DVB-S2 4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+Found CW: 
+26 CC 33 25 59 E3 27 63
+Search CW -- Done (9 sec.)
+---FEED-SEPARATOR---
+Club Friendly Match
+Real Madrid vs Schalke
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12574 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: BMG-AST Clean
+CW
+: FTA
+---FEED-SEPARATOR---
+Club Friendly Match
+Newcastle vs Strasbourg
+Hot Bird 13B/13C/13E ( 13.0E )
+11636 V 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Pre Season Friendlies - 
+Newcastle vs Strasbourg
+CW: : AA DD CC 53 2F 16 08 4D
