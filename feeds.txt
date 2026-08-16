@@ -1,28 +1,3 @@
-Mo_ha said:
-FA Community Shield, Final
-Arsenal vs Manchester City
-Hot Bird 13B/13C/13E @ ( 13.0E )
-11066 V 14239
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: FA Community Shield Arsenal
-CW
-: FTA
-Click to expand...
-Encrypted in biss-ca now
----FEED-SEPARATOR---
-FA Community Shield, Final
-Arsenal vs Manchester City
-Hot Bird 13B/13C/13E @ ( 13.0E )
-11066 V 14239
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: FA Community Shield Arsenal
-CW
-: FTA
----FEED-SEPARATOR---
 28.2E
 12626 H 9875 
 4:2:2
@@ -31,6 +6,14 @@ ID
 Orange Club FAI cup
 Irish FAI Cup - Round of 16
 St Patrick's Athletic v Shamrock Rovers
+---FEED-SEPARATOR---
+English Championship
+Burnley vs West Ham 
+Hotbired 13°E
+11080 V 7120
+DVB-S2 8PSK 4:2:2
+ID: EFL - Burnley v West Ham
+CW: 65 47 AD 59 AA EE 33 CB
 ---FEED-SEPARATOR---
 FA Community Shield
 Arsenal v Manchester City
@@ -49,6 +32,13 @@ Watford
  vs. 
 Southampton
 CW: 52 76 FD C5 43 42 3A BF
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3976 V 7119
+8PSK 2/3 DVB-S2 4.2.0
+PMT PID: 1001, SID: 1 @ BT_SES_22_SDI (SES)
+CW: 52 76 FD C5 43 42 3A BF
+Watford vs Southampton 
 ---FEED-SEPARATOR---
 Hotbird 13F/13G @ ( 13.0E )
 11088 V 7120
@@ -77,6 +67,17 @@ DVB-S2 -
 ID: BMG-AST Clean
 CW
 : FTA
+---FEED-SEPARATOR---
+Club Friendly Match
+Real Madrid vs 
+Schalke 
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11607 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: EUT 7 Schalke vs Real Madrid
+CW: : 9F 6E 3D 4A 2C 1B 8A D1
 ---FEED-SEPARATOR---
 Club Friendly
 Schalke vs Real Madrid
