@@ -1,3 +1,12 @@
+Championship
+Cardiff City vs Wrexham
+Asiasat 5 (100.5°E) C BAND
+3975 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:BT_SES_22_SDI (SES)
+CW: 63 4A CB 78 CB 32 A2 9F
+---FEED-SEPARATOR---
 FA Community Shield - Final re
 Arsenal vs Manchester City
 Hot Bird 13B/13C/13E ( 13.0E )
