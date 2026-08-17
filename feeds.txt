@@ -16,3 +16,13 @@ DVB-S2 -1080P- 8PSK
 4:2:0
 ID:1
 CW: 20 26 08 4E AB 17 CD 8F
+---FEED-SEPARATOR---
+Greek Football Cup
+Anagennisi Karditsas vs Aris Thessaloniki
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11044 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: E 73 MAIN
+CW: : 5B 2A 1F A4 9E 8D 7C A7
