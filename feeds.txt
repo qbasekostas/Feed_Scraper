@@ -26,6 +26,18 @@ DVB-S2 -1080P- 8PSK
 ID:1
 CW: 20 26 08 4E AB 17 CD 8F
 ---FEED-SEPARATOR---
+Mo_ha said:
+Greek Football Cup
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11044 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+Click to expand...
+Iraklis vs Volos Neos Podosfairi
+ID: E394 MAIN
+CW: 4A 1F 9E 07 8D 7C 6B 74
+---FEED-SEPARATOR---
 Greek Football Cup
 Anagennisi Karditsas vs Aris Thessaloniki
 Eutelsat 7A/7B/7C @ ( 7.0E )
