@@ -1,3 +1,13 @@
+Eutelsat 7B/7C @ ( 7.0E )
+11605 V 7500
+DVB-S2 - 4:2:0 - 8PSK
+ID: AFD
+24 75 53 90 CA 7B 39 5F  #CW: C1 8A DA 25 14 B4 12 DA
+now active old key
+CW: 18 4B AC 0F 14 19 4D 7A
+Liga Profesional - Clausura
+Lanus  vs  Independiente
+---FEED-SEPARATOR---
 13E
 11088 V 7120
 ID: PITCH Cardiff v Wrexham
