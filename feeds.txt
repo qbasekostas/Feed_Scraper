@@ -1,0 +1,16 @@
+Eutelsat Hot Bird 13 (13.0°E)
+Frequency: 
+11061
+ - Pol: 
+V
+ - SR: 
+8023
+ - FEC: 
+-
+Category: 
+Sport - Football
+Transmitted in: 
+MPEG-4 crypté
+ℹ​
+Levski Sofia-AEK
+Key Please!
