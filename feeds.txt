@@ -1,3 +1,18 @@
+CONMEBOL – Copa Libertadores/Sudamericana
+AsiaSat 5 @ 100.5E
+3841 H 30004 | 5/6 |
+4:2:2
+ID:OCC 4 (Servicios Audiovisuales Overon, S L)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | RF: 9dBm | 74.370Mb/Sec
+CW: 36 8A DF 9F CB 56 22 43
+---FEED-SEPARATOR---
+CONMEBOL – Copa Libertadores/Sudamericana
+AsiaSat 5 @ 100.5E
+3841 H 30004 | 5/6 | 4:2:2
+ID:OCC 3 (Servicios Audiovisuales Overon, S L)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | RF: 9dBm | 74.370Mb/Sec
+CW: 45 A2 CB B2 76 CE DA 1E
+---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 11693 H 7200 |
 4:2:2
