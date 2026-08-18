@@ -1,3 +1,44 @@
+UEFA Champions League - Qualification - Final
+Fenerbahce (TUR) - Lyon (FRA)
+Eutelsat 7A/7B/7C @ 7.0E
+10967 V 15002 | 5/6 |
+4:2:2 | HEVC
+ID: E363  FEEDA (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 36.340Mb/Sec
+CW: CA DA 46 EA 58 DA CA FC
+---FEED-SEPARATOR---
+UEFA Champions League - Qualification
+Din. Zagreb vs Viking
+Eutelsat 7A/7B/7C @ ( 7.0E )
+10960 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Medialink CRO-021/1
+CW: : 20 25 AB F0 CD 20 26 13
+---FEED-SEPARATOR---
+Red Devils said:
+UEFA Champions League - Qualification - Final
+Fenerbahce (TUR) - Lyon (FRA)
+Eutelsat 7A/7B/7C @ 7.0E
+10994 V 7501 | 5/6 |
+4:2:2
+ID: E363 FEEDB (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 18.170Mb/Sec
+CW: CA DA 46 EA 58 11 12 7B
+Click to expand...
++ 
+HEVC
+---FEED-SEPARATOR---
+UEFA Champions League - Qualification - Final
+Fenerbahce (TUR) - Lyon (FRA)
+Eutelsat 7A/7B/7C @ 7.0E
+10994 V 7501 | 5/6 |
+4:2:2
+ID: E363 FEEDB (Service Provider)
+1920*1080 | DVB-S2 | 8PSK | SNR: 9.5dB | 18.170Mb/Sec
+CW: CA DA 46 EA 58 11 12 7B
+---FEED-SEPARATOR---
 2610 biss 2 ca
 ---FEED-SEPARATOR---
 Eutelsat Hot Bird 13 (13.0°E)
@@ -16,3 +57,12 @@ MPEG-4 crypté
 ℹ​
 Levski Sofia-AEK
 Key Please!
+---FEED-SEPARATOR---
+Eutelsat 7B-7C @ 07.0E
+11042 H 7200 | 4:2:0 | 8PSK
+ID: 
+E394 MAIN
+Event: 
+Greek Cup - 2nd Qualifying Round
+Levadiakos v Agrotikos Asteras
+CW: F1 A2 B3 46 C4 D5 E6 7F
