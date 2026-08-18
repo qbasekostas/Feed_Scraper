@@ -1,3 +1,58 @@
+Hotbird 13G/13F @ 13.0°East
+11693 H 7200 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+Recoleta (PAR) v Boca Jrs. (ARG)
+Event: 
+CONMEBOL Copa Sudamericana (Round of 16 - 2nd Leg):
+Deportivo Recoleta
+ vs. 
+Boca Juniors
+CW: 4C B7 21 24 AD CB 78 F0
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11684 H 7200 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+Independante Fivadavia (ARG) vs Fluminense (BRA)
+Event: 
+CONMEBOL Copa Libertadores (Round of 16 - 2nd Leg):
+Independiente Rivadavia
+ vs. 
+Fluminense
+CW: 36 8A DF 9F CB 56 22 43
+---FEED-SEPARATOR---
+CONMEBOL – Copa Libertadores/Sudamericana
+AsiaSat 5 @ 100.5E
+3841 H 30004 | 5/6 |
+4:2:2
+ID: OCC 2 (Servicios Audiovisuales Overon, S L)
+1920*1080 | DVB-S2 | 8PSK | SNR: 10.0dB | RF: 9dBm | 74.370Mb/Sec
+CW: B6 11 ED B4 B6 8A A1 E1
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,52Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana (2nd Leg Round of 16)
+Teams: TBC
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: DC B1 E4 71 3A DC BB D1
+---FEED-SEPARATOR---
+UEFA Champions League instant Highlights 
+Hot Bird 13.0E
+11610 V 9875
+DVB-S2 - 1080P - 8PSK
+4.2.2
+ID: Fi01_GBIV (EBUER)
+CW: 09 DE 42 29 04 76 49 C3
+---FEED-SEPARATOR---
 Türksat 3A/4A/5B @ 42.0°East
 11460 V 6800 |
 4:2:2
