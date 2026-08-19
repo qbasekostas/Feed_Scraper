@@ -32,18 +32,6 @@ Boca Juniors
 CW: 4C B7 21 24 AD CB 78 F0
 Click to expand...
 ---FEED-SEPARATOR---
-Djuiice said:
-View attachment 111888
-28.2E
-ID:
-E268/TVE/MAIN FEED
-12690 H 7500 16 apsk
-About
-FC Barcelona - Al Ahly SC
-FTA
-Click to expand...
-Vertical !
----FEED-SEPARATOR---
 Real Sociedad vs Athletic Club
 Hispasat 30W-5/30W-6 @ 30.0W
 11673 V 14402 | 3/4 | 4:2:0
@@ -54,7 +42,7 @@ CW: FTA
 28.2E
 ID:
 E268/TVE/MAIN FEED
-12690 H 7500 16 apsk
+12690 V 7500 16 apsk
 About
 FC Barcelona - Al Ahly SC
 FTA
