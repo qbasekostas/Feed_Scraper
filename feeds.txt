@@ -1,61 +1,3 @@
-Super Saiyan said:
-			Hotbird 13G/13F @ 13.0°East
-11693 H 7200 |
-4:2:2
- | DVB-S2 8PSK
-ID: 
-Recoleta (PAR) v Boca Jrs. (ARG)
-Event: 
-CONMEBOL Copa Sudamericana (Round of 16 - 2nd Leg):
-Deportivo Recoleta
- vs. 
-Boca Juniors
-CW: 4C B7 21 24 AD CB 78 F0
-Click to expand...
-47W SES14 C 
-4123V10000
-ID: REC VS BOC SPA
-DVB-S2 4.2.2 1080I 
-CONMEBOL COPA SUDAMERICANA 
-RECOLETA VS BOCA JUNIORS 
----FEED-SEPARATOR---
-Copa Sudamericana
-Sao Paulo (BRA) vs Bolivar (BLO)
-Hotbird 13B/13C/13G @ ( 13.0E )
-12696 H 7199
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: Sao Paulo (
-BRA
-) vs Bolivar (BOL)
-Red Devils said:
-CW
-: 
-45 A2 CB B2 76 CE DA 1E
-Click to expand...
----FEED-SEPARATOR---
-Copa Libertadores
-del Valle (ECU) vs Deportes Tolima (COL)
-Hot Bird 13.0E
-12687 H 7200
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID: Independiente del Valle (ECU) vs Deportes Tolima (COL) - INGLES EUROPA
-CW: B6 11 ED B4 B6 8A A1 E1
----FEED-SEPARATOR---
-Copa Libertadores
-Universidad Catolica (CHI) vs Estudiantes de la Plata (ARG)
-Hotbird 13B/13C/13G @ ( 13.0E )
-12680 H 7199
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: Universidad Catolica (CHI) vs Estudiantes de la Plata (ARG) - INGLES EUROPA
-safrifulkamal said:
-CW: DC B1 E4 71 3A DC BB D1
-Click to expand...
----FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3966 V 7500
 DVB-S2 - 1080P - 8PSK
@@ -69,3 +11,34 @@ Deportivo Recoleta
 Boca Juniors
 CW: 4C B7 21 24 AD CB 78 F0
 Click to expand...
+---FEED-SEPARATOR---
+UEFA Champions League - Qualification
+Celtic vs LASK
+Hotbird 13B/13C/13G @ ( 13.0E )
+11079 V 8020
+DVB-S2 - 
+4:2:2
+ - H.265/HEVC
+ID: UKI1932 M3 MAIN
+CW
+: FTA
+---FEED-SEPARATOR---
+UEFA Champions League - Qualification
+Hotbird 13B/13C/13G @ ( 13.0E )
+11071 V 8020
+DVB-S2 - 
+4:2:2
+ - H.265/HEVC
+ID: NL2SAT M02 b-up
+CW
+: FTA
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0E
+11043 H 7200
+DVB-S2 - 1080P - 8PSK 
+- 
+4.2.0
+ID: E 73 MAIN
+Event: 
+Greek Cup
+CW: F2 A2 C6 5A C4 F5 A3 5C
