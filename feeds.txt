@@ -12,6 +12,15 @@ Boca Juniors
 CW: 4C B7 21 24 AD CB 78 F0
 Click to expand...
 ---FEED-SEPARATOR---
+13E
+11184 V 4937
+4.2.0
+ID: ORA - ANA
+Club Friendlies
+About
+FC Barcelona - Al Ahly SC
+FTA
+---FEED-SEPARATOR---
 UEFA Champions League - Qualification
 Celtic vs LASK
 Hotbird 13B/13C/13G @ ( 13.0E )
