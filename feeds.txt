@@ -1,3 +1,79 @@
+Copa Sudamericana
+Atl. Mineiro (BRA) vs RB Bragantino (BRA)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12679 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Atl. Mineiro (BRA) vs RB Bragantino (BRA) - INGLES EUROPA
+safrifulkamal said:
+CW: 6A F6 DC 3C F7 AD DE 82
+Click to expand...
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+12687 H 7200
+DVB-S2 -
+ 4:2:2 
+- 8PSK
+ID: 
+Flamengo (BRA) vs Cruzeiro (BRA) - INGLES EUROPA
+Event:
+CONMEBOL – Copa Libertadores
+CW: DC 11 BC A9 67 AD FF 13
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3976 V 7499 C-Band
+ID: OCC 6 
+(Provider ID: N/A)
+MPEG4 | DVB-S2
+1920x1080i |10,34Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores (2nd Leg Round of 16)
+Teams: Cerro Porteno vs Palmeiras
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+Mo_ha said:
+CW: : 57 AD CB CF 78 22 33 CD
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3966 V 7499 C-Band
+ID: OCC 5 
+(Provider ID: N/A)
+MPEG4 | DVB-S2
+1920x1080i |10,24Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores (2nd Leg Round of 16)
+Teams: Coquimbo Unido vs Platense
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+Mo_ha said:
+CW: 25 AD CB 9D 77 ED A2 06
+Click to expand...
+---FEED-SEPARATOR---
+Copa Libertadores
+Cerro Porteno (PAR) vs Palmeiras (BRA)
+Hotbird 13B/13C/13G @ ( 13.0E )
+11693 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Cerro Porten?o (PAR) vs Palmeiras (BRA)
+CW: : 57 AD CB CF 78 22 33 CD
+---FEED-SEPARATOR---
+Copa Libertadores
+Coquimbo 
+Unido
+ (CHI) vs Platense (ARG)
+Hotbird 13B/13C/13G @ ( 13.0E )
+11684 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: 
+Coquimbo Unido (CHI) vs Platense (ARG)
+CW: : 25 AD CB 9D 77 ED A2 06
+---FEED-SEPARATOR---
 47W SES14 C 
 3849H6666 
 ID: TIGENV 1
