@@ -37,6 +37,16 @@ About
 FC Barcelona - Al Ahly SC
 FTA
 ---FEED-SEPARATOR---
+Club Friendly Match
+Barcelona vs Al Ahly SC
+Eutelsat 16A @ ( 16.0E )
+12546 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: E379 PRAL
+CW: : AA BB 12 77 34 CC DD DD
+---FEED-SEPARATOR---
 UEFA Champions League - Qualification
 Celtic vs LASK
 Hotbird 13B/13C/13G @ ( 13.0E )
@@ -57,16 +67,6 @@ DVB-S2 -
 ID: NL2SAT M02 b-up
 CW
 : FTA
----FEED-SEPARATOR---
-Club Friendly Match
-Barcelona vs Al Ahly SC
-Eutelsat 16A @ ( 16.0E )
-12546 H 7199
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: E379 PRAL
-CW: : AA BB 12 77 34 CC DD DD
 ---FEED-SEPARATOR---
 Albahraniy said:
 UEFA Champions League instant Highlights 
