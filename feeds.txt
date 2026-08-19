@@ -1,3 +1,91 @@
+47W SES14 C 
+3858H6666 
+ID: ÁGUILA 
+DVB-S2 4.2.0 1080I 
+FÚTBOL COLOMBIANO SERIE A
+RIO NEGRO VS LLANEROS
+CW: 17 9A 1A CB 53 01 B1 05
+---FEED-SEPARATOR---
+safrifulkamal said:
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,47Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana (2nd Leg Round of 16)
+Teams: TBC
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: 6A F6 DC 3C F7 AD DE 82
+Click to expand...
+47W SES14 C 
+4044H10000
+ID: MIN VS BRA SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+ATLETIC MINEIRO VS BRAGANTINO 
+---FEED-SEPARATOR---
+Mo_ha said:
+Copa Libertadores
+Cerro Porteno (PAR) vs Palmeiras (BRA)
+Hotbird 13B/13C/13G @ ( 13.0E )
+11693 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Cerro Porten?o (PAR) vs Palmeiras (BRA)
+CW: : 57 AD CB CF 78 22 33 CD
+Click to expand...
+47W SES14 C 
+4055H10000
+ID: POR VS PAL SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA LIBERTADORES 
+CERRO PORTEÑO VS PALMEIRAS 
+---FEED-SEPARATOR---
+Mo_ha said:
+Copa Libertadores
+Coquimbo 
+Unido
+ (CHI) vs Platense (ARG)
+Hotbird 13B/13C/13G @ ( 13.0E )
+11684 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: 
+Coquimbo Unido (CHI) vs Platense (ARG)
+CW: : 25 AD CB 9D 77 ED A2 06
+Click to expand...
+47W SES14 C 
+4068H10000
+ID: COQ VS PLA SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA LIBERTADORES 
+COQUIMBO VS PLATENSE 
+---FEED-SEPARATOR---
+Copa Sudamericana
+Montevideo City Torque (URU) vs Tigre (ARG)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12698 H 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: Montevideo City Torque (URU) vs Tigre (ARG) - INGLES EUROPA
+CW: : 7F DA CB 24 55 DE E2 15
+---FEED-SEPARATOR---
+Copa Sudamericana
+River Plate (ARG) vs Santa Fe (COL)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12707 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: River Plate (ARG) vs Santa Fe (COL) - INGLES EUROPA
+CW: : CB 78 11 54 22 DC A4 A2
+---FEED-SEPARATOR---
 Copa Sudamericana
 Atl. Mineiro (BRA) vs RB Bragantino (BRA)
 Hotbird 13B/13C/13G @ ( 13.0E )
@@ -30,7 +118,7 @@ MPEG4 | DVB-S2
 4:2:2
  FHD
 Event: CONMEBOL – Copa Libertadores (2nd Leg Round of 16)
-Teams: Cerro Porteno vs Palmeiras
+Teams: Cerro Porteño vs Palmeiras
 Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
 Mo_ha said:
 CW: : 57 AD CB CF 78 22 33 CD
@@ -73,124 +161,3 @@ DVB-S2 -
 ID: 
 Coquimbo Unido (CHI) vs Platense (ARG)
 CW: : 25 AD CB 9D 77 ED A2 06
----FEED-SEPARATOR---
-47W SES14 C 
-3849H6666 
-ID: TIGENV 1
-DVB-S2 4.2.0 1080I 
-FÚTBOL COLOMBIANO SERIE B 
-TIGRES VS ENVIGADO 
----FEED-SEPARATOR---
-Asiasat 5 @ 100.5°E
-3840 H 30001 C-Band
-ID: OCC 2 
-(Provider ID: Servicios Audiovisuales Overon, S L)
-MPEG4 | DVB-S2
-1920x1080i |10,47Mb/Sec |8PSK| 
-4:2:2
- FHD
-Event: CONMEBOL – Copa Libertadores/Sudamericana (2nd Leg Round of 16)
-Teams: TBC
-Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
-CW: 6A F6 DC 3C F7 AD DE 82
----FEED-SEPARATOR---
-Asiasat 5 (100.5°E) C BAND
-3966 V 7500
-DVB-S2 - 1080P - 8PSK
-4.2.2
-ID: OCC 5
-Super Saiyan said:
-			Event: 
-CONMEBOL Copa Sudamericana (Round of 16 - 2nd Leg):
-Deportivo Recoleta
- vs. 
-Boca Juniors
-CW: 4C B7 21 24 AD CB 78 F0
-Click to expand...
----FEED-SEPARATOR---
-Real Sociedad vs Athletic Club
-Hispasat 30W-5/30W-6 @ 30.0W
-11673 V 14402 | 3/4 | 4:2:0
-ID: *unnamed-31* (*unnamed-31*)
-1920*1080 | DVB-S2 | 8PSK | SNR: 0.0dB | 31.360Mb/Sec
-CW: FTA
----FEED-SEPARATOR---
-28.2E
-ID:
-E268/TVE/MAIN FEED
-12690 V 7500 16 apsk
-About
-FC Barcelona - Al Ahly SC
-FTA
----FEED-SEPARATOR---
-13E
-11184 V 4937
-4.2.0
-ID: ORA - ANA
-Club Friendlies
-Joan Gamper Trophy
-About
-FC Barcelona - Al Ahly SC
-FTA
----FEED-SEPARATOR---
-Club Friendly Match
-Barcelona vs Al Ahly SC
-Eutelsat 16A @ ( 16.0E )
-12546 H 7199
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: E379 PRAL
-CW: : AA BB 12 77 34 CC DD DD
----FEED-SEPARATOR---
-UEFA Champions League - Qualification
-Celtic vs LASK
-Hotbird 13B/13C/13G @ ( 13.0E )
-11079 V 8020
-DVB-S2 - 
-4:2:2
- - H.265/HEVC
-ID: UKI1932 M3 MAIN
-CW
-: FTA
----FEED-SEPARATOR---
-UEFA Champions League - Qualification
-Hotbird 13B/13C/13G @ ( 13.0E )
-11071 V 8020
-DVB-S2 - 
-4:2:2
- - H.265/HEVC
-ID: NL2SAT M02 b-up
-CW
-: FTA
----FEED-SEPARATOR---
-UEFA Champions League, Qualification
-Slovan Bratislava vs Celje
-Eutelsat 16A @ ( 16.0E )
-11190 H 7199
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: TV MARKIZA
-CW: : 52 52 DD 81 AA 41 AB 96
----FEED-SEPARATOR---
-Albahraniy said:
-UEFA Champions League instant Highlights 
-Hot Bird 13.0E
-11610 V 9875
-DVB-S2 - 1080P - 8PSK
-4.2.2
-Click to expand...
-ID: LEUK_Fi01
-New CW:
- F9 E5 F3 D1 86 0B 81 12
----FEED-SEPARATOR---
-Eutelsat 7B/7C @ 7.0E
-11043 H 7200
-DVB-S2 - 1080P - 8PSK 
-- 
-4.2.0
-ID: E 73 MAIN
-Event: 
-Greek Cup
-CW: F2 A2 C6 5A C4 F5 A3 5C
