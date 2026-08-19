@@ -1,3 +1,23 @@
+47W SES14 C 
+3849H6666 
+ID: TIGENV 1
+DVB-S2 4.2.0 1080I 
+FÚTBOL COLOMBIANO SERIE B 
+TIGRES VS ENVIGADO 
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,47Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana (2nd Leg Round of 16)
+Teams: TBC
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: 6A F6 DC 3C F7 AD DE 82
+---FEED-SEPARATOR---
 Asiasat 5 (100.5°E) C BAND
 3966 V 7500
 DVB-S2 - 1080P - 8PSK
