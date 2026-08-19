@@ -12,11 +12,20 @@ Boca Juniors
 CW: 4C B7 21 24 AD CB 78 F0
 Click to expand...
 ---FEED-SEPARATOR---
+28.2E
+ID:
+E268/TVE/MAIN FEED
+12690 H 7500 16 apsk
+About
+FC Barcelona - Al Ahly SC
+FTA
+---FEED-SEPARATOR---
 13E
 11184 V 4937
 4.2.0
 ID: ORA - ANA
 Club Friendlies
+Joan Gamper Trophy
 About
 FC Barcelona - Al Ahly SC
 FTA
