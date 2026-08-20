@@ -1,3 +1,88 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,87Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Sudamericana (2nd Leg Round of 16)
+Teams: Montevideo City Torque vs Tigre
+Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
+Mo_ha said:
+CW: 7F DA CB 24 55 DE E2 15
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,62Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores (2nd Leg Round of 16)
+Teams: Flamengo vs Cruzeiro
+Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
+Verdeoro said:
+CW: DC 11 BC A9 67 AD FF 13
+Click to expand...
+---FEED-SEPARATOR---
+Mo_ha said:
+Copa Sudamericana
+River Plate (ARG) vs Santa Fe (COL)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12707 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: River Plate (ARG) vs Santa Fe (COL) - INGLES EUROPA
+CW: : CB 78 11 54 22 DC A4 A2
+Click to expand...
+47W SES14 C 
+4135V10000
+ID: FE VS RIV SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+SANTA FE VS RIVER
+---FEED-SEPARATOR---
+Mo_ha said:
+Copa Sudamericana
+Montevideo City Torque (URU) vs Tigre (ARG)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12698 H 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: Montevideo City Torque (URU) vs Tigre (ARG) - INGLES EUROPA
+CW: : 7F DA CB 24 55 DE E2 15
+Click to expand...
+47W SES14 C 
+4123V10000 
+ID: MON VS TIG SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+CITY TORQUE VS TIGRE
+---FEED-SEPARATOR---
+Verdeoro said:
+Hotbird 13B/13C/13G @ ( 13.0E )
+12687 H 7200
+DVB-S2 -
+ 4:2:2 
+- 8PSK
+ID: 
+Flamengo (BRA) vs Cruzeiro (BRA) - INGLES EUROPA
+Event:
+CONMEBOL – Copa Libertadores
+CW: DC 11 BC A9 67 AD FF 13
+Click to expand...
+47W SES14 C 
+3935V10000
+ID: FLA VS CRU PORT
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA LIBERTADORES 
+FLAMENGO VS CRUZEIRO 
+---FEED-SEPARATOR---
 47W SES14 C 
 3858H6666 
 ID: ÁGUILA 
@@ -66,98 +151,50 @@ DVB-S2 4.2.2 1080I
 CONMEBOL COPA LIBERTADORES 
 COQUIMBO VS PLATENSE 
 ---FEED-SEPARATOR---
-Copa Sudamericana
-Montevideo City Torque (URU) vs Tigre (ARG)
-Hotbird 13B/13C/13G @ ( 13.0E )
-12698 H 7199
-DVB-S2 - 
-4:2:2 
-- 8PSK
-ID: Montevideo City Torque (URU) vs Tigre (ARG) - INGLES EUROPA
-CW: : 7F DA CB 24 55 DE E2 15
----FEED-SEPARATOR---
-Copa Sudamericana
-River Plate (ARG) vs Santa Fe (COL)
-Hotbird 13B/13C/13G @ ( 13.0E )
-12707 H 7199
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: River Plate (ARG) vs Santa Fe (COL) - INGLES EUROPA
-CW: : CB 78 11 54 22 DC A4 A2
----FEED-SEPARATOR---
-Copa Sudamericana
-Atl. Mineiro (BRA) vs RB Bragantino (BRA)
-Hotbird 13B/13C/13G @ ( 13.0E )
-12679 H 7199
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: Atl. Mineiro (BRA) vs RB Bragantino (BRA) - INGLES EUROPA
-safrifulkamal said:
-CW: 6A F6 DC 3C F7 AD DE 82
-Click to expand...
----FEED-SEPARATOR---
-Hotbird 13B/13C/13G @ ( 13.0E )
-12687 H 7200
-DVB-S2 -
- 4:2:2 
-- 8PSK
-ID: 
-Flamengo (BRA) vs Cruzeiro (BRA) - INGLES EUROPA
-Event:
-CONMEBOL – Copa Libertadores
-CW: DC 11 BC A9 67 AD FF 13
----FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
-3976 V 7499 C-Band
-ID: OCC 6 
-(Provider ID: N/A)
+3840 H 30001 C-Band
+ID: OCC 4 
+(Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
-1920x1080i |10,34Mb/Sec |8PSK| 
+1920x1080i |10,68Mb/Sec |8PSK| 
 4:2:2
  FHD
-Event: CONMEBOL – Copa Libertadores (2nd Leg Round of 16)
-Teams: Cerro Porteño vs Palmeiras
-Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+Event: CONMEBOL – Copa Sudamericana (2nd Leg Round of 16)
+Teams: Santa Fe vs River Plate
+Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
 Mo_ha said:
-CW: : 57 AD CB CF 78 22 33 CD
+CW: CB 78 11 54 22 DC A4 A2
 Click to expand...
 ---FEED-SEPARATOR---
-Asiasat 5 @ 100.5°E
-3966 V 7499 C-Band
-ID: OCC 5 
-(Provider ID: N/A)
-MPEG4 | DVB-S2
-1920x1080i |10,24Mb/Sec |8PSK| 
-4:2:2
- FHD
-Event: CONMEBOL – Copa Libertadores (2nd Leg Round of 16)
-Teams: Coquimbo Unido vs Platense
-Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
-Mo_ha said:
-CW: 25 AD CB 9D 77 ED A2 06
-Click to expand...
+AVC Women's Volleyball Continental 2026
+Tianjin, China
+Asiasat 5 (100.5°E) C BAND
+4189 V 9704
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  Fi10_GNVE
+CW: 68 45 A7 54 0B 55 6E CE
 ---FEED-SEPARATOR---
-Copa Libertadores
-Cerro Porteno (PAR) vs Palmeiras (BRA)
-Hotbird 13B/13C/13G @ ( 13.0E )
-11693 H 7199
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: Cerro Porten?o (PAR) vs Palmeiras (BRA)
-CW: : 57 AD CB CF 78 22 33 CD
+CEV Trendyol EuroVolley Women 2026
+Hot Bird 13.0E
+12609 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:SWE-043 VOLLEYBALL TEST
+CW: FF AE D0 7D 82 0E 52 E2
 ---FEED-SEPARATOR---
-Copa Libertadores
-Coquimbo 
-Unido
- (CHI) vs Platense (ARG)
-Hotbird 13B/13C/13G @ ( 13.0E )
-11684 H 7199
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: 
-Coquimbo Unido (CHI) vs Platense (ARG)
-CW: : 25 AD CB 9D 77 ED A2 06
+CEV Trendyol EuroVolley Women 2026
+Hot Bird 13.0E
+10838 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: TUR 143 A (TRT)
+CW: 5B BD 6E 86 C4 6A 4F 7D
+---FEED-SEPARATOR---
+Hotbird 13F/13G @ ( 13.0E )
+10827 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: SWE-043 MJA-SAL
+Event: 
+Uefa Europa League - Mjallby vs RB Salzburg
+CW: 00 4A 7F C9 3E 6E 1E CA
