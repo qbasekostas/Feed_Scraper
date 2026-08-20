@@ -266,7 +266,27 @@ Event:
 Uefa Europa League - Mjallby vs RB Salzburg
 CW: 00 4A 7F C9 3E 6E 1E CA
 ---FEED-SEPARATOR---
-Eutelsat ( 16.0E )
+UEFA Conference League, Qualifying
+PAOK vs Brann
+Eutelsat 7A/7B/7C @ ( 7.0E )
+10958 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: paok vs dran
+CW: : 30 21 12 63 12 20 93 C5
+---FEED-SEPARATOR---
+UEFA Europa League, Qualifying
+Lech Poznań vs FC Thun
+Eutelsat 16A ( 16.0E )
+10972 V 9600
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: POL-141 ENC1
+CW: : 20 CA E2 CC 02 60 81 E3
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
 12631 V 10000
 DVB-S2 - 4:2:0 - 8PSK
 ID: SNG 022 MAIN
