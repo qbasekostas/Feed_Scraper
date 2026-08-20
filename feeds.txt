@@ -198,6 +198,28 @@ DVB-S2 - 1080P - 8PSK
 ID: TUR 143 A (TRT)
 CW: 5B BD 6E 86 C4 6A 4F 7D
 ---FEED-SEPARATOR---
+sattechtips said:
+			UEFA Europa League - Play-Off (1st Leg)
+Besiktas vs Kauno Zalgiris
+Hotbird 13G/13F @ 13.0°East
+12678 - H - 7400
+DVB-S2 - 4:2:2 - 1080i
+ID: TUR-062 A (*unnamed-1*)
+CW: ED 20 AA B7 8A 0E 26 BE
+Reported as fta.
+Click to expand...
+4.2.0
+---FEED-SEPARATOR---
+UEFA Europa League, Qualifying
+OFI Crete vs CSKA Sofia
+Eutelsat 16A @ ( 16.0E )
+11152 H 9874
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: SNG ABC 1
+CW: : AF F0 BF 5E 76 05 D5 50
+---FEED-SEPARATOR---
 satsatan1 said:
 UEFA Europa League, 4rd Qualifying Round
 Jagiellonia Białystok vs Iberia 1999
@@ -243,3 +265,37 @@ ID: SWE-043 MJA-SAL
 Event: 
 Uefa Europa League - Mjallby vs RB Salzburg
 CW: 00 4A 7F C9 3E 6E 1E CA
+---FEED-SEPARATOR---
+Eutelsat ( 16.0E )
+12631 V 10000
+DVB-S2 - 4:2:0 - 8PSK
+ID: SNG 022 MAIN
+Event: 
+Uefa Europa League - U Craiova vs Ararat Armenia
+CW: C9 D8 E7 88 F6 5A 34 84
+---FEED-SEPARATOR---
+UEFA Europa League - Play Offs
+OFI vs CSKA Sofia
+Hotbired 13°E
+11204 V 7200
+DVB-S2 8PSK 4:2:0
+ID: Fi16_GNVE
+CW: AF F0 BF 5E 76 05 D5 50
+---FEED-SEPARATOR---
+UEFA Europa League - Play-Off (1st Leg)
+Trabzonspor vs Ferencváros
+42E
+10980 V 7500
+4:2:2
+ID: ATV SNG 4 MAIN (ATV)
+CW: AA CB 63 D8 85 EE 54 C7
+---FEED-SEPARATOR---
+UEFA Europa League, Qualifying
+Crvena zvezda vs Plzen
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12520 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: YSM-016 MAIN
+CW: : 20 10 20 50 25 20 26 6B
