@@ -153,6 +153,32 @@ COQUIMBO VS PLATENSE
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
+ID: OCC 3 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,68Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana (2nd Leg Round of 16)
+Teams: TBC
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: B6 7A DE 0E FF C3 AD 6F
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 4 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,71Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores/Sudamericana (2nd Leg Round of 16)
+Teams: TBC
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: B7 11 43 0B ED FC CD B6
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
 ID: OCC 4 
 (Provider ID: Servicios Audiovisuales Overon, S L)
 MPEG4 | DVB-S2
@@ -197,6 +223,42 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: TUR 143 A (TRT)
 CW: 5B BD 6E 86 C4 6A 4F 7D
+---FEED-SEPARATOR---
+safrifulkamal said:
+Asiasat 5 @ 100.5°E
+3994 V 7119 C-Band
+ID: BT_SES_22_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,97Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL League One Matchday 2
+Teams:
+ Sheffield Wednesday vs 
+Bradford City
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+#CW:
+22 90 FA AC 13 15 4D 75
+Click to expand...
++
+13E
+11089 V 7120
+ Pitch EFL - Sheffield Wed v Bradford (NEP Connect
+---FEED-SEPARATOR---
+England League One
+Sheffield Wednesday vs Bradford City
+Hot Bird 13.0E
+11088  V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Pitch EFL - Sheffield Wed v Bradford
+Asiasat 5 (100.5°E) C BAND
+3993 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI (SES)
+CW: 22 90 FA AC 13 15 4D 75
 ---FEED-SEPARATOR---
 UEFA Europa League, Qualifying
 OFI Crete vs CSKA Sofia
@@ -264,6 +326,45 @@ Event:
 Uefa Europa League - Mjallby vs RB Salzburg
 CW: 00 4A 7F C9 3E 6E 1E CA
 ---FEED-SEPARATOR---
+Mo_ha said:
+UEFA Europa League, Qualifying
+OFI Crete vs CSKA Sofia
+Eutelsat 16A @ ( 16.0E )
+11152 H 9874
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: SNG ABC 1
+CW: : AF F0 BF 5E 76 05 D5 50
+Click to expand...
+16E
+12654 V 9600
+4:2:0
+CW: 43 21 BB 1F AA 43 21 0E
+---FEED-SEPARATOR---
+UEFA Conference League, Qualifying
+Rangers vs Jablonec
+Hotbird 13B/13C/13G @ ( 13.0E )
+10838 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: GCUK Enc 9
+CW: : CB AA 13 88 44 EE AA DC
+---FEED-SEPARATOR---
+Mo_ha said:
+UEFA Europa League, Qualifying
+OFI Crete vs CSKA Sofia
+Eutelsat 16A @ ( 16.0E )
+11152 H 9874
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: SNG ABC 1
+CW: : AF F0 BF 5E 76 05 D5 50
+Click to expand...
+Black screen
+---FEED-SEPARATOR---
 UEFA Conference League, Qualifying
 Panathinaikos vs Hradec Kralove
 Eutelsat 7A/7B/7C @ ( 7.0E )
@@ -273,6 +374,16 @@ DVB-S2 -
  - 8PSK
 ID: E349 MAIN
 CW: : 1E 4B 6F D8 22 9C 3B F9
+---FEED-SEPARATOR---
+UEFA Conference League, Qualifying
+Atalanta vs Hapoel Tel Aviv
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12594 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Service_ 01
+CW: : AC DC 24 AC 31 BB DD C9
 ---FEED-SEPARATOR---
 UEFA Conference League, Qualifying
 HEART OF MIFLOTHIAN vs SK RAPID WIEN
@@ -329,6 +440,12 @@ DVB-S2 -
  - 8PSK
 ID: YSM-016 MAIN
 CW: : 20 10 20 50 25 20 26 6B
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+11103 Horizontal 7198,454 3/4
+DVB-S2/8PSK (4:2:0)
+CRO-024 WF/1
+3x3 Sprite Cup
 ---FEED-SEPARATOR---
 Mo_ha said:
 FRIENDLY GAME
