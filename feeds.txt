@@ -198,18 +198,6 @@ DVB-S2 - 1080P - 8PSK
 ID: TUR 143 A (TRT)
 CW: 5B BD 6E 86 C4 6A 4F 7D
 ---FEED-SEPARATOR---
-sattechtips said:
-			UEFA Europa League - Play-Off (1st Leg)
-Besiktas vs Kauno Zalgiris
-Hotbird 13G/13F @ 13.0°East
-12678 - H - 7400
-DVB-S2 - 4:2:2 - 1080i
-ID: TUR-062 A (*unnamed-1*)
-CW: ED 20 AA B7 8A 0E 26 BE
-Reported as fta.
-Click to expand...
-4.2.0
----FEED-SEPARATOR---
 UEFA Europa League, Qualifying
 OFI Crete vs CSKA Sofia
 Eutelsat 16A @ ( 16.0E )
@@ -232,6 +220,16 @@ Click to expand...
 16E 12551 V 9600
 ID: POL-058_ch1 (POLSAT)
 Same CW
+---FEED-SEPARATOR---
+UEFA Europa League, Qualifying
+OFI Crete vs CSKA Sofia
+Hotbird 13B/13C/13G @ ( 13.0E )
+11203 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi16_GNVE
+CW: : AF F0 BF 5E 76 05 D5 50
 ---FEED-SEPARATOR---
 UEFA Conference League - Play-Off (1st Leg)
 Górnik Zabrze v Monaco
@@ -267,6 +265,26 @@ Uefa Europa League - Mjallby vs RB Salzburg
 CW: 00 4A 7F C9 3E 6E 1E CA
 ---FEED-SEPARATOR---
 UEFA Conference League, Qualifying
+Panathinaikos vs Hradec Kralove
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11041 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: E349 MAIN
+CW: : 1E 4B 6F D8 22 9C 3B F9
+---FEED-SEPARATOR---
+UEFA Conference League, Qualifying
+HEART OF MIFLOTHIAN vs SK RAPID WIEN
+Hotbird 13B/13C/13G @ ( 13.0E )
+10829 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: GCUK Enc 10
+CW: : A4 12 DB 91 C1 44 BA BF
+---FEED-SEPARATOR---
+UEFA Conference League, Qualifying
 PAOK vs Brann
 Eutelsat 7A/7B/7C @ ( 7.0E )
 10958 V 7199
@@ -294,14 +312,6 @@ Event:
 Uefa Europa League - U Craiova vs Ararat Armenia
 CW: C9 D8 E7 88 F6 5A 34 84
 ---FEED-SEPARATOR---
-UEFA Europa League - Play Offs
-OFI vs CSKA Sofia
-Hotbired 13°E
-11204 V 7200
-DVB-S2 8PSK 4:2:0
-ID: Fi16_GNVE
-CW: AF F0 BF 5E 76 05 D5 50
----FEED-SEPARATOR---
 UEFA Europa League - Play-Off (1st Leg)
 Trabzonspor vs Ferencváros
 42E
@@ -318,4 +328,27 @@ DVB-S2 -
 4:2:0
  - 8PSK
 ID: YSM-016 MAIN
+CW: : 20 10 20 50 25 20 26 6B
+---FEED-SEPARATOR---
+Mo_ha said:
+FRIENDLY GAME
+SARBIA vs FRANCE
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12509 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: YSM-013M
+CW: : 20 10 20 50 25 20 26 6B
+Click to expand...
+FTA
+---FEED-SEPARATOR---
+FRIENDLY GAME
+SARBIA vs FRANCE
+Eutelsat 7A/7B/7C @ ( 7.0E )
+12509 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: YSM-013M
 CW: : 20 10 20 50 25 20 26 6B
