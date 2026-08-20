@@ -166,6 +166,13 @@ Mo_ha said:
 CW: CB 78 11 54 22 DC A4 A2
 Click to expand...
 ---FEED-SEPARATOR---
+25.5E
+11130 V 8800
+4.2.0
+ID: ADM SNG 06
+Fatima Bint Mubarak Academy Volleyball Cup for Ladies
+CW: 29 10 62 9B 63 64 65 2C
+---FEED-SEPARATOR---
 AVC Women's Volleyball Continental 2026
 Tianjin, China
 Asiasat 5 (100.5°E) C BAND
@@ -190,6 +197,36 @@ DVB-S2 - 1080P - 8PSK
 4.2.0
 ID: TUR 143 A (TRT)
 CW: 5B BD 6E 86 C4 6A 4F 7D
+---FEED-SEPARATOR---
+satsatan1 said:
+UEFA Europa League, 4rd Qualifying Round
+Jagiellonia Białystok vs Iberia 1999
+Eutelsat 7C @ ( 7E )
+11095 V 7200
+DVB-S2 - 4:2:2 - 8PSK
+ID: POL-058_ch1
+CW: 20 26 A9 EF 97 AB DA 1C
+Click to expand...
+16E 12551 V 9600
+ID: POL-058_ch1 (POLSAT)
+Same CW
+---FEED-SEPARATOR---
+UEFA Conference League - Play-Off (1st Leg)
+Górnik Zabrze v Monaco
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11103 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Polsat Sport (POLSAT)
+CW: 20 26 AB F1 CD 1E CA B5
+---FEED-SEPARATOR---
+UEFA Europa League - Play-Off (1st Leg)
+Besiktas vs Kauno Zalgiris
+Hotbird 13G/13F @ 13.0°East
+12678 - H - 7400
+DVB-S2 - 4:2:2 - 1080i
+ID: TUR-062 A (*unnamed-1*)
+CW: ED 20 AA B7 8A 0E 26 BE
+Reported as fta.
 ---FEED-SEPARATOR---
 UEFA Europa League, 4rd Qualifying Round
 Jagiellonia Białystok vs Iberia 1999
