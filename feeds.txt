@@ -191,6 +191,14 @@ DVB-S2 - 1080P - 8PSK
 ID: TUR 143 A (TRT)
 CW: 5B BD 6E 86 C4 6A 4F 7D
 ---FEED-SEPARATOR---
+UEFA Europa League, 4rd Qualifying Round
+Jagiellonia Białystok vs Iberia 1999
+Eutelsat 7C @ ( 7E )
+11095 V 7200
+DVB-S2 - 4:2:2 - 8PSK
+ID: POL-058_ch1
+CW: 20 26 A9 EF 97 AB DA 1C
+---FEED-SEPARATOR---
 Hotbird 13F/13G @ ( 13.0E )
 10827 H 7200
 DVB-S2 - 4:2:0 - 8PSK
