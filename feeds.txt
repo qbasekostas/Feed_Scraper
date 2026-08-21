@@ -49,6 +49,32 @@ Teams: Corinthians vs Rosario Central
 Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
 CW: DF C5 67 0B 43 AD E3 D3
 ---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+Hotbird 13B/13C/13G @ ( 13.0E )
+10829 V 7200
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR122A
+CW: : E5 2F FC 10 FD 08 21 26
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+10829 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR122 A
+Event: 
+CEV EuroVolley Championship Women
+CW: E5 2F FC 10 FD 08 21 26
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+Hotbird 13B/13C/13G @ ( 13.0E )
+10839 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR 143 A
+CW: : 4D 68 4F 04 56 93 DE C7
+---FEED-SEPARATOR---
 xachik said:
 Hotbird 13B/13C/13G @ ( 13.0E )
 10848 V 7200
