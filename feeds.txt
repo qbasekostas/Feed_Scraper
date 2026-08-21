@@ -52,7 +52,9 @@ CW: DF C5 67 0B 43 AD E3 D3
 xachik said:
 Hotbird 13B/13C/13G @ ( 13.0E )
 10848 V 7200
-DVB-S2 - 4:2:2 - 8PSK
+DVB-S2 - 
+4:2:0
+ - 8PSK
 ID: CZE 001/1
 Click to expand...
 CEV EuroVolley Championship Women
@@ -81,18 +83,6 @@ Event
 CEV EuroVolley Championship Women - Croatia vs Italy
 New CW: 
 E5 2F FD 11 CD 08 21 F6
----FEED-SEPARATOR---
-Super Saiyan said:
-			Hotbird 13G/13F @ 13.0°East
-12526 H 7200 | 4:2:0 | DVB-S2 8PSK
-ID: 
-SWE-043 EUROVOLLEY FRA-SLO
-Event: 
-CEV EuroVolley Championship Women
-France W - Slovakia W (13:00)
-CW: E5 2F FC 10 DD 08 21 06
-Click to expand...
-new cw pls?
 ---FEED-SEPARATOR---
 25.5E
 11128 V 4400
