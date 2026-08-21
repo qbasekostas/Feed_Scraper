@@ -51,6 +51,20 @@ CW: DF C5 67 0B 43 AD E3 D3
 ---FEED-SEPARATOR---
 Ferari3000 said:
 			Hotbird 13F/13G (13.0E)
+10847 V 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: CZE 001/1
+Provider: CTV Praha
+CEV EuroVolley Championship Women from Brno (Czech Republic)
+Group Phase
+Czech Republic W - Greece W (20:00)
+Please new key
+Biss Encrypt?
+Click to expand...
+CW: E5 2F FB 0F AD 08 21 D6
+---FEED-SEPARATOR---
+Ferari3000 said:
+			Hotbird 13F/13G (13.0E)
 12526 H 7200
 MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
 ID: SWE-043 EUROVOLLEY FRA-SLO
@@ -172,6 +186,14 @@ Asian Championship Women
 Chinese Taipei W - Iran W
 New  ID: 
 Backup
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12692 Vertical 9997,077 2/3
+DVB-S2/16APSK (4:2:0)
+Uki-1592
+Scottland Championship
+Inverness vs Patrick Thistle
+20:30 CET
 ---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 11666 H 7186 | 4:2:0 | DVB-S2 8PSK
