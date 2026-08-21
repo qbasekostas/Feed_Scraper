@@ -172,3 +172,13 @@ Asian Championship Women
 Chinese Taipei W - Iran W
 New  ID: 
 Backup
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11666 H 7186 | 4:2:0 | DVB-S2 8PSK
+ID: 
+ita315main
+Event: 
+Women's Basketball International Friendly:
+Italy (W)
+ vs. 
+Cina (W)
