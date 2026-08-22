@@ -9,6 +9,20 @@ Germany (W)
 Slovenia (W)
 CW: D0 82 2E 80 52 FF BD 0E
 ---FEED-SEPARATOR---
+Ferari3000 said:
+			Hotbird 13F/13G (13.0E)
+12544 H 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: CZE 001/1
+Provider: CTV Praha
+CEV EuroVolley Championship Women from Brno (Czech Republic)
+Group Phase
+Austria W - Czech Republic W (19:00)
+Please new key
+Biss Encrypt?
+Click to expand...
+CW: D0 82 2E 80 52 FF DF 30
+---FEED-SEPARATOR---
 Super Saiyan said:
 			Hotbird 13G/13F @ 13.0°East
 11666 H 7200 | 4:2:0 | DVB-S2 8PSK
