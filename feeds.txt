@@ -147,6 +147,20 @@ DVB-S2 -
 ID:  EFL Lincoln v Portsmouth
 CW: : 52 DE F2 22 FF 22 66 87
 ---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11061 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+ita315main
+International Friendly:  Italy vs Estonia
+FTA
+---FEED-SEPARATOR---
+Frindly Int: Greece vs Poland
+39E
+12642 V 7200
+ID: E399 main
+4:2:0
+CW: 22 08 20 4A 26 FE DA FE
+---FEED-SEPARATOR---
 Astra 2E/2F/2G @ 28.2°East
 12702 V 7200 | 4:2:0 | DVB-S2 8PSK
 ID: 
