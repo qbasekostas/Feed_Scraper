@@ -1,0 +1,99 @@
+Hotbird 13G/13F @ 13.0°East
+12535 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+TUR122A
+Event: 
+CEV Women's EuroVolley (Group Phase - Istanbul):
+Germany (W)
+ vs. 
+Slovenia (W)
+CW: D0 82 2E 80 52 FF BD 0E
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+12544 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+CZE 001/2
+Event: 
+CEV Women's EuroVolley (Pool Phase):
+Ukraine (W)
+ vs. 
+Greece (W)
+CW: D0 82 2E 80 52 FF DE 2F
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11666 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+TUR 143 A
+Event: 
+CEV Women's EuroVolley (Pool Phase):
+Germany (W)
+ vs. 
+Slovenia (W)
+CW: DE 28 EF F5 EA 75 89 E8
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+12553 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+SWE-043 EUROVOLLEY POOL
+Event: 
+CEV Women's EuroVolley (Pool Phase):
+Italy (W)
+ vs. 
+Montenegro (W)
+CW: D0 82 2E 80 52 FF FD 4E
+---FEED-SEPARATOR---
+Hotbird @ 13.0E
+11636 V 7120 | 4:2:0 | 8PSK
+ID:
+ EFL West Ham v Charlton
+HBO said:
+CW: BA CE 24 AC 55 24 D3 4C
+West Ham vs Charlton
+Click to expand...
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID:  BT_SES_22_SDI
+CW : BA CE 24 AC 55 24 D3 4C
+West Ham vs Charlton
+---FEED-SEPARATOR---
+Satfun2017 said:
+100.5°
+ C 
+@ Asiasat 5
+3975 H 7120
+MPEG 4 - 4:2:0
+DVB-S2 - 8PSK -1080P
+ID:  BT_SES_22_SDI (SES)
+Click to expand...
+3975 V 7120
+Post in thread 'Biss Feeds With Incomplete Information. Please Request A Mod To Move If Completed.'
+Today at 13:33
+England Championship
+Lincoln vs Portsmouth
+Asiasat 5 (100.5°E) C BAND
+3975 V 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:BT_SES_20_SDI (SES)
+CW: 52 DE F2 22 FF 22 66 87
+Albahraniy
+---FEED-SEPARATOR---
+Championship
+Lincoln vs Portsmouth
+Hotbird 13B/13C/13G @ ( 13.0E )
+11212 V 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID:  EFL Lincoln v Portsmouth
+CW: : 52 DE F2 22 FF 22 66 87
+---FEED-SEPARATOR---
+AsiaSat 5 100.5E
+3716 H 22499
+8PSK 3/4 DVB-S2 4.2.0
+4K
+PMT PID: 32, SID: 1 @ CH1-DSNG-4K (Service Provider)
+Found CW: 
+20 CC AB 97 CD 2E F6 F1
