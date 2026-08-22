@@ -9,6 +9,49 @@ Germany (W)
 Slovenia (W)
 CW: D0 82 2E 80 52 FF BD 0E
 ---FEED-SEPARATOR---
+Super Saiyan said:
+			Hotbird 13G/13F @ 13.0°East
+11666 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+TUR 143 A
+Event: 
+CEV Women's EuroVolley (Pool Phase):
+Germany (W)
+ vs. 
+Slovenia (W)
+CW: DE 28 EF F5 EA 75 89 E8
+Click to expand...
+CW: E4 79 7C D9 93 7A 8B 98
+---FEED-SEPARATOR---
+Ferari3000 said:
+			Hotbird 13F/13G (13.0E)
+12553 H 7200
+MPEG-4 CRYPTÉ DVB-S2 8PSK,4:2:0
+ID: SWE-043 EUROVOLLEY POOL D
+Provider: Mobilelinks
+CEV EuroVolley Championship Women from Göteborg (Sweden)
+Group Phase
+Slovakia W - Sweden W (18:00)
+Please new key
+Biss Encrypt?
+Click to expand...
+CW: D0 82 2E 80 52 FF AC FD
+---FEED-SEPARATOR---
+Super Saiyan said:
+			Hotbird 13G/13F @ 13.0°East
+12535 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+TUR122A
+Event: 
+CEV Women's EuroVolley (Group Phase - Istanbul):
+Germany (W)
+ vs. 
+Slovenia (W)
+CW: D0 82 2E 80 52 FF BD 0E
+Click to expand...
+New CW:  
+D0 82 2E 80 52 FF DE 2F
+---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 12544 H 7200 | 4:2:0 | DVB-S2 8PSK
 ID: 
