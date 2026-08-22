@@ -152,6 +152,15 @@ PMT PID: 32, SID: 1 @ CH1-DSNG-4K (Service Provider)
 Found CW: 
 20 CC AB 97 CD 2E F6 F1
 ---FEED-SEPARATOR---
+Greece Stoiximan GBL, Round 22
+AEK BC vs Iraklis BC
+Eutelsat 7B/7C @ 7.0E
+11488 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:  AEK VS IRAKLIS
+CW: 3F AA E7 D0 1B A8 51 14
+---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 1
 Kalamata vs Aris
 39e
