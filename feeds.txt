@@ -180,6 +180,17 @@ PMT PID: 32, SID: 1 @ CH1-DSNG-4K (Service Provider)
 Found CW: 
 20 CC AB 97 CD 2E F6 F1
 ---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+10830 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+TANDBERG
+Event: 
+Greek Super League 1 (Week 1):
+Olympiacos FC
+ vs. 
+Atromitos FC
+CW: 01 36 24 5B 98 7E 62 78
+---FEED-SEPARATOR---
 Greece Stoiximan GBL, Round 22
 AEK BC vs Iraklis BC
 Eutelsat 7B/7C @ 7.0E
