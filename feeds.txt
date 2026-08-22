@@ -90,6 +90,17 @@ DVB-S2 -
 ID:  EFL Lincoln v Portsmouth
 CW: : 52 DE F2 22 FF 22 66 87
 ---FEED-SEPARATOR---
+Astra 2E/2F/2G @ 28.2°East
+12702 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+D-361
+Event: 
+Basketball (DBB Supercup):
+Turkey
+ vs. 
+Czech Republic
+CW: 21 22 FC 3F DD 95 47 B9
+---FEED-SEPARATOR---
 AsiaSat 5 100.5E
 3716 H 22499
 8PSK 3/4 DVB-S2 4.2.0
@@ -97,3 +108,10 @@ AsiaSat 5 100.5E
 PMT PID: 32, SID: 1 @ CH1-DSNG-4K (Service Provider)
 Found CW: 
 20 CC AB 97 CD 2E F6 F1
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 1
+Kalamata vs Aris
+39e
+12634 V 7200
+ID: E394 MAIN
+CW: 6E 44 A9 5B DD F1 EA B8
