@@ -173,3 +173,12 @@ France
  vs. 
 Serbia
 CW: 20 26 E2 28 1E 23 08 49
+---FEED-SEPARATOR---
+Greece Stoiximan Super League, Round 1
+PAOK vs APO Levadiakos
+Hot Bird 13.0E
+10800 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: PAOK VS LEVADIAKOS
+CW: A3 46 23 0C 51 30 8E 0F
