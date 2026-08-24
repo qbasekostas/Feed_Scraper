@@ -47,6 +47,19 @@ CW: : E5 2F FA 0E AD 08 24 D9
 CEV EuroVolley Championship Women
 TURKIYE vs HUNGARY
 Hot Bird 13B/13C/13E ( 13.0E )
+10838 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR 143 A
+New CW:
+ 75 27 C3 5F 35 DD BE D0
+---FEED-SEPARATOR---
+Tur143a new cw
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+TURKIYE vs HUNGARY
+Hot Bird 13B/13C/13E ( 13.0E )
 10829 V 7199
 DVB-S2 - 
 4:2:0
