@@ -43,3 +43,37 @@ DVB-S2 -
  - 8PSK
 ID: TUR122A
 CW: : E5 2F FA 0E AD 08 24 D9
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+TURKIYE vs HUNGARY
+Hot Bird 13B/13C/13E ( 13.0E )
+10829 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR122A
+New CW: 
+E5 2F FF 13 ED 08 24 19
+---FEED-SEPARATOR---
+Tur122a new cw
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+10847 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: CZE 001/1 
+New CW:
+ E5 2F
+ FD 11
+BD
+ 08 24 
+E9
+---FEED-SEPARATOR---
+Friendly International
+Greece vs Cyprus
+39e
+12643 V 7200
+ID: E399 main
+CW: 24 08 20 4c 26 FE DA FE
