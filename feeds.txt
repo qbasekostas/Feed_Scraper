@@ -1,3 +1,19 @@
+Mo_ha said:
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+10829 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: TUR122A
+CW: : D0 82 5E B0 52 FF FD 4E
+Click to expand...
+NEW CW
+: 
+D0 82 5E B0 52 FF DF 30
+---FEED-SEPARATOR---
+Tur143a i tur122a new cw
+---FEED-SEPARATOR---
 CEV EuroVolley Championship Women
 Hot Bird 13B/13C/13E ( 13.0E )
 12609 V 7199
@@ -32,6 +48,14 @@ DVB-S2 -
 - 8PSK
 ID: TUR122A
 CW: : D0 82 5E B0 52 FF FD 4E
+---FEED-SEPARATOR---
+36E
+12656 H 7200
+4.2.0
+ID: SAU-030A
+2026 FIFA Intercontinental Cup / Tomorrow​
+ Al-Ahli Saudi FC - Auckland FC
+CW: 7D B1 02 30 CB E9 07 BB
 ---FEED-SEPARATOR---
 Zhejiang City Basketball League
 Asiasat 5 (100.5°E) C BAND
