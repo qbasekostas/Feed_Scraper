@@ -112,6 +112,64 @@ ID: Notts Forest v Leeda
 CW
 : FTA
 ---FEED-SEPARATOR---
+28.2E
+12703 V  7200 
+4:2:0
+DVB-S2 - 8PSK
+ID ITV Nottingham v Leeds 
+CW: C7 23 A1 8B B3 C5 D3 4B
+English League Cup - 2nd Round
+Nottingham Forest v Leeds United
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3993 V 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : BT_SES_22_SDI
+CW : 23 11 CC 00 CD 12 31 10
+English Football League Cup : Ipswich Town vs Leicester City
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3984 V 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : BT_SES_2_SDI
+CW : 24 51 AA 1F DD 24 11 12
+English Football League Cup : Plymouth Argyle vs Coventry City
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : BT_SES_4_SDI
+CW : 45 51 CC 62 AA 22 13 DF
+English Football League Cup : Sheffield Wednesday vs Wolverhampton Wanderers
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3966 V 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : BT_SES_20_SDI
+CW : 14 11 DC 01 CA 22 21 0D
+English Football League Cup : Southampton vs West Ham United
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4106 H 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : BT_SES_08_SDI
+CW : 34 15 BB 04 AA 24 44 12
+English Football League Cup : Stoke City vs Hull City
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4116 H 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : BT_SES_10_SDI
+CW : 12 31 CC 0F DD 22 54 53
+English Football League Cup : Birmingham City vs Brentford
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4124 H 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID : BT_SES_12_SDI
+CW : 11 54 AA 0F BB 24 22 01
+English Football League Cup : Nottingham Forest vs Leeds United
+---FEED-SEPARATOR---
 English Football League Cup
 Birmingham vs Brentford
 Hotbird 13B/13C/13G @ ( 13.0E )
@@ -125,7 +183,8 @@ CW: : 12 31 CC 0F DD 22 54 53
 Hotbird @ 13.0E
 11589 H 7120 | 4:2:0 | 8PSK
 ID: Carabao Cup R2 - Southampton
-Event:
+Event: 
+Carabao Cup - Southampton v West Ham
 CW: 14 11 DC 01 CA 22 21 0D
 ---FEED-SEPARATOR---
 Hotbird @ 13.0E
@@ -133,8 +192,6 @@ Hotbird @ 13.0E
 ID: Carabao Cup R2 - Stoke v Hull
 Event:
 CW: 34 15 BB 04 AA 24 44 12
----FEED-SEPARATOR---
-.
 ---FEED-SEPARATOR---
 English Football League Cup
 Sheffield Wednesday vs Wolverhampton Wanderers
@@ -167,15 +224,6 @@ DVB-S2 - 1080P - 8PSK
 ID: Carabao Cup R2 - Ipswich v Leicester
 CW: 23 11 CC 00 CD 12 31 10
 ---FEED-SEPARATOR---
-28.2E
-12703 V  7200 
-4:2:0
-DVB-S2 - 8PSK
-ID ITV Nottingham v Leeds 
-CW: C7 23 A1 8B B3 C5 D3 4B
-English League Cup - 2nd Round
-Nottingham Forest v Leeds United
----FEED-SEPARATOR---
 36E
 12656 H 7200
 4.2.0
@@ -183,6 +231,15 @@ ID: SAU-030A
 2026 FIFA Intercontinental Cup / Tomorrow​
  Al-Ahli Saudi FC - Auckland FC
 CW: 7D B1 02 30 CB E9 07 BB
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11612 V 9876
+ID:GVA_Fi01 (EUROVISION SA)
+1920x1080 |21,510Mb/Sec 8PSK |4:2:0 HD
+UEFA Champion League HCL
+International Clubs, UEFA Champions League, Playoff Round
+Sabah Masazir vs. Hapoel Beer Sheva
+CW: 27 6D 4A DE EA 15 71 70
 ---FEED-SEPARATOR---
 Zhejiang City Basketball League
 Asiasat 5 (100.5°E) C BAND
