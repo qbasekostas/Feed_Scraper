@@ -1,3 +1,25 @@
+Mo_ha said:
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+12609 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: SWE-043 EUROVOLLEY POOL D
+CW: : D0 82 5E B0 52 FF DA 2B
+Click to expand...
+new cwpls?
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+10848 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: CZE 001/1
+New CW
+: D0 82 5E B0 52 FF AB FC
+---FEED-SEPARATOR---
 Verdeoro said:
 Hot Bird 13B/13C/13E ( 13.0E )
 10848 V 7200
@@ -73,6 +95,15 @@ DVB-S2 -
 - 8PSK
 ID: TUR122A
 CW: : D0 82 5E B0 52 FF FD 4E
+---FEED-SEPARATOR---
+28.2E
+12703 V  7200 
+4:2:0
+DVB-S2 - 8PSK
+ID ITV Nottingham v Leeds 
+CW: C7 23 A1 8B B3 C5 D3 4B
+English League Cup - 2nd Round
+Nottingham Forest v Leeds United
 ---FEED-SEPARATOR---
 36E
 12656 H 7200
