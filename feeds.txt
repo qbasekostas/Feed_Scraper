@@ -1,3 +1,16 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,68Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores (2nd Leg Round of 16)
+Teams: Independiente del Valle vs Deportes Tolima
+Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
+CW: 5F AD 32 3E A1 B6 54 AB
+---FEED-SEPARATOR---
 Mo_ha said:
 CEV EuroVolley Championship Women
 Hot Bird 13B/13C/13E ( 13.0E )
