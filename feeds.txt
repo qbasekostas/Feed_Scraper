@@ -8,7 +8,12 @@ DVB-S2 -
 ID: SWE-043 EUROVOLLEY POOL D
 CW: : D0 82 5E B0 52 FF DA 2B
 Click to expand...
-new cwpls?
+New CW:
+ D0 82 5E B0 52 FF 
+C
+A 
+1
+B
 ---FEED-SEPARATOR---
 CEV EuroVolley Championship Women
 Hot Bird 13B/13C/13E ( 13.0E )
