@@ -101,6 +101,72 @@ DVB-S2 -
 ID: TUR122A
 CW: : D0 82 5E B0 52 FF FD 4E
 ---FEED-SEPARATOR---
+English Football League Cup
+Nottingham Forest vs Leeds United
+Hotbird 13B/13C/13G @ ( 13.0E )
+11617 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Notts Forest v Leeda
+CW
+: FTA
+---FEED-SEPARATOR---
+English Football League Cup
+Birmingham vs Brentford
+Hotbird 13B/13C/13G @ ( 13.0E )
+11608 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Pitch Birmingham v Brentford
+CW: : 12 31 CC 0F DD 22 54 53
+---FEED-SEPARATOR---
+Hotbird @ 13.0E
+11589 H 7120 | 4:2:0 | 8PSK
+ID: Carabao Cup R2 - Southampton
+Event:
+CW: 14 11 DC 01 CA 22 21 0D
+---FEED-SEPARATOR---
+Hotbird @ 13.0E
+11598 H 7120 | 4:2:0 | 8PSK
+ID: Carabao Cup R2 - Stoke v Hull
+Event:
+CW: 34 15 BB 04 AA 24 44 12
+---FEED-SEPARATOR---
+.
+---FEED-SEPARATOR---
+English Football League Cup
+Sheffield Wednesday vs Wolverhampton Wanderers
+Hotbird 13B/13C/13G @ ( 13.0E )
+11088 V 7119
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Pitch Sheff Wed v Wolves
+CW: : 45 51 CC 62 AA 22 13 DF
+---FEED-SEPARATOR---
+England, EFL Cup
+Plymouth vs. 
+Coventr
+Hot Bird 13B/13C/13E @ 13.0E
+​
+11195 V 7120
+​
+ID:   Carabao Cup R2 - Plymouth v Coventry (NEP Connect)
+​
+1920x1080 |13,780Mb/Sec 8PSK |4:2:0 HD
+CW: 24 51 AA 1F DD 24 11 12
+---FEED-SEPARATOR---
+Carabao Cup R2
+Ipswich v Leicester
+Hot Bird 13.0E
+11185 V 7119
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Carabao Cup R2 - Ipswich v Leicester
+CW: 23 11 CC 00 CD 12 31 10
+---FEED-SEPARATOR---
 28.2E
 12703 V  7200 
 4:2:0
