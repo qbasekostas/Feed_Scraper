@@ -52,6 +52,29 @@ DVB-S2 4.2.2 1080I
 CONMEBOL COPA LIBERTADORES 
 INDEPENDIENTE DEL VALLE VS DEPORTES TOLIMA
 ---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird 13B/13C/13E ( 13.0E )
+10838 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR 143 A
+Event: 
+EuroVolley Championship Women - Slovenia vs Latvia
+CW: 7C C7 8C CF 38 55 F9 86
+Click to expand...
+New CW: E4 D3 3D F4 65 49 4E FC
+---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird 13B/13C/13E ( 13.0E )
+10838 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR 143 A
+Click to expand...
+Event: 
+EuroVolley Championship Women - 
+Germany vs Turkey
+New CW: 
+E4 D3 3D F4 65 49 4E FC
+---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E ( 13.0E )
 12610 V 7200
 DVB-S2 - 4:2:0 - 8PSK
@@ -85,6 +108,20 @@ Event:
 EuroVolley Championship Women - Slovenia vs Latvia
 CW: 7C C7 8C CF 38 55 F9 86
 ---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird 13B/13C/13E ( 13.0E )
+10829 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR122A
+Click to expand...
+Event: 
+EuroVolley Championship Women - 
+Germany vs Turkey
+New CW: 
+FF EC D0 
+B
+B 82 6E 52 42
+---FEED-SEPARATOR---
 21.6E
 11588 V 6666
 4.2.0
@@ -93,6 +130,19 @@ ID: TUR-041 MAIN
  Al-Ahli Saudi FC - Auckland FC
 CW: D2 41 57 6A EB C0 0C B7
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°East
+11045 H 9875 |
+4:2:2
+ | DVB-S2 8PSK
+ID: 
+Service 1
+Event: 
+UEFA Conference League (Play-Off 2nd Leg - Agg 2-2):
+SK Rapid Wien
+ vs. 
+Heart of Midlothian
+CW: 26 08 FE 2C ED 20 26 33
+---FEED-SEPARATOR---
 rmcf1902bg said:
 			Eutelsat 13e
 11061 V 8023 8PSK
@@ -100,8 +150,3 @@ Event: AEK -Levski
 Please Key!
 Click to expand...
 2610 Biss 2 CA
----FEED-SEPARATOR---
-Eutelsat 13e
-11061 V 8023 8PSK
-Event: AEK -Levski
-Please Key!
