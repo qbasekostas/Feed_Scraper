@@ -1,3 +1,37 @@
+Copa Libertadores
+Independiente del Valle (ECU) vs 
+Deportes Tolima 
+(COL)
+Hotbird 13B/13C/13G @ ( 13.0E )
+11694 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: 
+Independiente del Valle (ECU) vs 
+Deportes Tolima 
+(COL)
+safrifulkamal said:
+CW: 5F AD 32 3E A1 B6 54 AB
+Click to expand...
+---FEED-SEPARATOR---
+47W SES14 C 
+3857H6666 
+ID: PATATL 2
+DVB-S2 4.2.0 1080I 
+FÚTBOL COLOMBIANO 
+SANTA FE VS JAGUARES 
+CW: ED 52 FC 3B C0 D0 ED 7D
+---FEED-SEPARATOR---
+47W SES14 C 
+3849H6666 
+ID: CUCALI
+DVB-S2 4.2.0 1080I 
+FÚTBOL COLOMBIANO SERIE A
+CÚCUTA VS ALIANZA 
+CW: 70 9F 63 72 BD 0A AC 73
+---FEED-SEPARATOR---
+safrifulkamal said:
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OCC 1 
@@ -10,254 +44,64 @@ Event: CONMEBOL – Copa Libertadores (2nd Leg Round of 16)
 Teams: Independiente del Valle vs Deportes Tolima
 Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
 CW: 5F AD 32 3E A1 B6 54 AB
----FEED-SEPARATOR---
-Mo_ha said:
-CEV EuroVolley Championship Women
-Hot Bird 13B/13C/13E ( 13.0E )
-12609 V 7199
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: SWE-043 EUROVOLLEY POOL D
-CW: : D0 82 5E B0 52 FF DA 2B
 Click to expand...
-New CW:
- D0 82 5E B0 52 FF 
-C
-A 
-1
-B
+47W SES14 C 
+4006H10000
+ID: IND VS TOL SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA LIBERTADORES 
+INDEPENDIENTE DEL VALLE VS DEPORTES TOLIMA
 ---FEED-SEPARATOR---
-CEV EuroVolley Championship Women
 Hot Bird 13B/13C/13E ( 13.0E )
-10848 V 7199
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: CZE 001/1
-New CW
-: D0 82 5E B0 52 FF AB FC
----FEED-SEPARATOR---
-Verdeoro said:
-Hot Bird 13B/13C/13E ( 13.0E )
-10848 V 7200
+12610 V 7200
 DVB-S2 - 4:2:0 - 8PSK
-ID: CZE 001/1
-Event: 
-EuroVolley Championship Women - Greece vs Austria
-CW: D0 82 5E B0 52 FF DC 2D
-Click to expand...
-new cw pls?
----FEED-SEPARATOR---
-Mo_ha said:
-CEV EuroVolley Championship Women
-Hot Bird 13B/13C/13E ( 13.0E )
-10838 V 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: TUR 143 A
-CW: : AC 29 3D 12 F3 4D 76 B6
-Click to expand...
-New CW
-: 
-92 83 77 8C 96 F7 E4 71
----FEED-SEPARATOR---
-Mo_ha said:
-CEV EuroVolley Championship Women
-Hot Bird 13B/13C/13E ( 13.0E )
-10829 V 7199
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: TUR122A
-CW: : D0 82 5E B0 52 FF FD 4E
-Click to expand...
-NEW CW
-: 
-D0 82 5E B0 52 FF DF 30
----FEED-SEPARATOR---
-Tur143a i tur122a new cw
----FEED-SEPARATOR---
-CEV EuroVolley Championship Women
-Hot Bird 13B/13C/13E ( 13.0E )
-12609 V 7199
-DVB-S2 - 
-4:2:0 
-- 8PSK
 ID: SWE-043 EUROVOLLEY POOL D
-CW: : D0 82 5E B0 52 FF DA 2B
+Event: 
+EuroVolley Championship Women - France vs Italy
+CW: FF DC D0 AB 82 6E 52 42
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E ( 13.0E )
 10848 V 7200
 DVB-S2 - 4:2:0 - 8PSK
 ID: CZE 001/1
-Event: 
-EuroVolley Championship Women - Greece vs Austria
-CW: D0 82 5E B0 52 FF DC 2D
----FEED-SEPARATOR---
-CEV EuroVolley Championship Women
-Hot Bird 13B/13C/13E ( 13.0E )
-10838 V 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: TUR 143 A
-CW: : AC 29 3D 12 F3 4D 76 B6
----FEED-SEPARATOR---
-CEV EuroVolley Championship Women
-Hot Bird 13B/13C/13E ( 13.0E )
-10829 V 7199
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: TUR122A
-CW: : D0 82 5E B0 52 FF FD 4E
----FEED-SEPARATOR---
-English Football League Cup
-Nottingham Forest vs Leeds United
-Hotbird 13B/13C/13G @ ( 13.0E )
-11617 H 7119
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: Notts Forest v Leeda
-CW
-: FTA
----FEED-SEPARATOR---
-28.2E
-12703 V  7200 
-4:2:0
-DVB-S2 - 8PSK
-ID ITV Nottingham v Leeds 
-CW: C7 23 A1 8B B3 C5 D3 4B
-English League Cup - 2nd Round
-Nottingham Forest v Leeds United
----FEED-SEPARATOR---
-AsiaSat 5 - 100.5 E - CBand
-TP : 3993 V 7120
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-ID : BT_SES_22_SDI
-CW : 23 11 CC 00 CD 12 31 10
-English Football League Cup : Ipswich Town vs Leicester City
----FEED-SEPARATOR---
-AsiaSat 5 - 100.5 E - CBand
-TP : 3984 V 7120
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-ID : BT_SES_2_SDI
-CW : 24 51 AA 1F DD 24 11 12
-English Football League Cup : Plymouth Argyle vs Coventry City
----FEED-SEPARATOR---
-AsiaSat 5 - 100.5 E - CBand
-TP : 3975 V 7120
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-ID : BT_SES_4_SDI
-CW : 45 51 CC 62 AA 22 13 DF
-English Football League Cup : Sheffield Wednesday vs Wolverhampton Wanderers
----FEED-SEPARATOR---
-AsiaSat 5 - 100.5 E - CBand
-TP : 3966 V 7120
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-ID : BT_SES_20_SDI
-CW : 14 11 DC 01 CA 22 21 0D
-English Football League Cup : Southampton vs West Ham United
----FEED-SEPARATOR---
-AsiaSat 5 - 100.5 E - CBand
-TP : 4106 H 7120
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-ID : BT_SES_08_SDI
-CW : 34 15 BB 04 AA 24 44 12
-English Football League Cup : Stoke City vs Hull City
----FEED-SEPARATOR---
-AsiaSat 5 - 100.5 E - CBand
-TP : 4116 H 7120
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-ID : BT_SES_10_SDI
-CW : 12 31 CC 0F DD 22 54 53
-English Football League Cup : Birmingham City vs Brentford
----FEED-SEPARATOR---
-AsiaSat 5 - 100.5 E - CBand
-TP : 4124 H 7120
-DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
-ID : BT_SES_12_SDI
-CW : 11 54 AA 0F BB 24 22 01
-English Football League Cup : Nottingham Forest vs Leeds United
----FEED-SEPARATOR---
-English Football League Cup
-Birmingham vs Brentford
-Hotbird 13B/13C/13G @ ( 13.0E )
-11608 H 7119
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: Pitch Birmingham v Brentford
-CW: : 12 31 CC 0F DD 22 54 53
----FEED-SEPARATOR---
-Hotbird @ 13.0E
-11589 H 7120 | 4:2:0 | 8PSK
-ID: Carabao Cup R2 - Southampton
-Event: 
-Carabao Cup - Southampton v West Ham
-CW: 14 11 DC 01 CA 22 21 0D
----FEED-SEPARATOR---
-Hotbird @ 13.0E
-11598 H 7120 | 4:2:0 | 8PSK
-ID: Carabao Cup R2 - Stoke v Hull
 Event:
-CW: 34 15 BB 04 AA 24 44 12
+ EuroVolley Championship Women - Austria vs Bulgaria
+CW: FF AF D0 7E 82 6E 52 42
 ---FEED-SEPARATOR---
-English Football League Cup
-Sheffield Wednesday vs Wolverhampton Wanderers
-Hotbird 13B/13C/13G @ ( 13.0E )
-11088 V 7119
-DVB-S2 - 
-4:2:0 
-- 8PSK
-ID: Pitch Sheff Wed v Wolves
-CW: : 45 51 CC 62 AA 22 13 DF
+Hot Bird 13B/13C/13E ( 13.0E )
+10829 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR122A
+Event: 
+EuroVolley Championship Women - 
+Slovenia vs Latvia
+CW: FF FC D0 CB 82 6E 52 42
 ---FEED-SEPARATOR---
-England, EFL Cup
-Plymouth vs. 
-Coventr
-Hot Bird 13B/13C/13E @ 13.0E
-​
-11195 V 7120
-​
-ID:   Carabao Cup R2 - Plymouth v Coventry (NEP Connect)
-​
-1920x1080 |13,780Mb/Sec 8PSK |4:2:0 HD
-CW: 24 51 AA 1F DD 24 11 12
+Hot Bird 13B/13C/13E ( 13.0E )
+10838 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR 143 A
+Event: 
+EuroVolley Championship Women - Slovenia vs Latvia
+CW: 7C C7 8C CF 38 55 F9 86
 ---FEED-SEPARATOR---
-Carabao Cup R2
-Ipswich v Leicester
-Hot Bird 13.0E
-11185 V 7119
-DVB-S2 - 1080P - 8PSK
+21.6E
+11588 V 6666
 4.2.0
-ID: Carabao Cup R2 - Ipswich v Leicester
-CW: 23 11 CC 00 CD 12 31 10
----FEED-SEPARATOR---
-36E
-12656 H 7200
-4.2.0
-ID: SAU-030A
+ID: TUR-041 MAIN
 2026 FIFA Intercontinental Cup / Tomorrow​
  Al-Ahli Saudi FC - Auckland FC
-CW: 7D B1 02 30 CB E9 07 BB
+CW: D2 41 57 6A EB C0 0C B7
 ---FEED-SEPARATOR---
-Hot Bird 13B/13C/13E @ 13.0E
-11612 V 9876
-ID:GVA_Fi01 (EUROVISION SA)
-1920x1080 |21,510Mb/Sec 8PSK |4:2:0 HD
-UEFA Champion League HCL
-International Clubs, UEFA Champions League, Playoff Round
-Sabah Masazir vs. Hapoel Beer Sheva
-CW: 27 6D 4A DE EA 15 71 70
+rmcf1902bg said:
+			Eutelsat 13e
+11061 V 8023 8PSK
+Event: AEK -Levski
+Please Key!
+Click to expand...
+2610 Biss 2 CA
 ---FEED-SEPARATOR---
-Zhejiang City Basketball League
-Asiasat 5 (100.5°E) C BAND
-3866 H 7200
-DVB-S2 - 1080P - 8PSK
-4:2:0
-ID: CH1-CCTV
-CW: 20 CC AB 97 CD 2E F6 F1
+Eutelsat 13e
+11061 V 8023 8PSK
+Event: AEK -Levski
+Please Key!
