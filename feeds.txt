@@ -15,6 +15,28 @@ safrifulkamal said:
 CW: 5F AD 32 3E A1 B6 54 AB
 Click to expand...
 ---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,84Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Sudamericana (2nd Leg Round of 16)
+Teams: River Plate vs Santa Fe
+Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
+CW: 45 CC 5F 70 AD 22 11 E0
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°East
+12511 V 7500 | 4:2:0 | DVB-S2 8PSK
+ID: 
+TEST UPLINK LPF D E16A
+Event: 
+Argentine Premier League (Liga Profesional de Fútbol):
+Test Feed
+CW: 21 5B 49 C5 AC A2 41 8F
+---FEED-SEPARATOR---
 47W SES14 C 
 3857H6666 
 ID: PATATL 2
@@ -108,6 +130,16 @@ Event:
 EuroVolley Championship Women - Slovenia vs Latvia
 CW: 7C C7 8C CF 38 55 F9 86
 ---FEED-SEPARATOR---
+FIPAV CUP MEN ELITE
+ITALY vs GERMANY
+Hot Bird 13B/13C/13E ( 13.0E )
+12583 V 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: ITA451
+CW: : 1B 2A BC 01 3C AA 12 F8
+---FEED-SEPARATOR---
 Verdeoro said:
 Hot Bird 13B/13C/13E ( 13.0E )
 12610 V 7200
@@ -150,23 +182,102 @@ C D0
 B
 B 82 6E 52 42
 ---FEED-SEPARATOR---
-FIFA Intercontinental Cup, 2026
-Al-Ahli vs Auckland FC
-Eutelsat 36 @ ( 36.0E )
-12656 H 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: SAU-030A
-CW: : 7D B1 02 30 CB E9 07 BB
+Hotbird 13G/13F @ 13.0°East
+11204 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Carabao Cup R2 - PNE v Everton
+Event: 
+English EFL League Cup (Carabao Cup - Round 2):
+Preston North End
+ vs. 
+Everton FC
+Albahraniy said:
+CW: 22 41 BB 1E AD 22 42 11
+Click to expand...
 ---FEED-SEPARATOR---
-21.6E
-11588 V 6666
-4.2.0
-ID: TUR-041 MAIN
-2026 FIFA Intercontinental Cup / Tomorrow​
- Al-Ahli Saudi FC - Auckland FC
-CW: D2 41 57 6A EB C0 0C B7
+English EFL League Cup
+Preston North End
+ vs
+Everton FC
+Asiasat 5 (100.5°E) C BAND
+4115 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_6_SDI (SES)
+CW: 22 41 BB 1E AD 22 42 11
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+4106 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_8_SDI
+Super Saiyan said:
+			Event: 
+English EFL League Cup (Carabao Cup - Round 2):
+ Newcastle VS West Brom
+CW: 32 11 CC 0F DD 21 11 0F
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+4124 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_12_SDI (SES)
+Super Saiyan said:
+			Event: 
+English EFL League Cup (Carabao Cup - Round 2):
+Tottenham Hotspur
+ vs. 
+Charlton Athletic
+CW: 45 13 CC 24 AA 13 14 D1
+Click to expand...
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11194 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Carabao Cup R2 - Tottenham  v Charlton
+Event: 
+English EFL League Cup (Carabao Cup - Round 2):
+Tottenham Hotspur
+ vs. 
+Charlton Athletic
+CW: 45 13 CC 24 AA 13 14 D1
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11185 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Carabao Cup R2 - Newcastle v West Brom
+Event: 
+English EFL League Cup (Carabao Cup - Round 2):
+Newcastle United
+ vs. 
+West Bromwich Albion
+CW: 32 11 CC 0F DD 21 11 0F
+---FEED-SEPARATOR---
+Dear admin, my post should not have been deleted. Anyway, this was another feed from the competition. Could you add the explanation to my post? Now, whoever reported it made a mistake. Thanks.
+---FEED-SEPARATOR---
+Eutelsat 16A @ 16.0°East
+12656 V 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+D-331 TX1
+Event: 
+UEFA Women's Champions League Qualification:
+Eintracht Frankfurt Women
+ vs. 
+PSG Féminine
+CW: 26 08 BC EA CE 79 84 CB
+---FEED-SEPARATOR---
+faisal6 said:
+Hot Bird 13B/13C/13E @ 13.0E
+11612 V 9876
+ID:GVA_Fi01 (EUROVISION SA)
+1920x1080 |21,510Mb/Sec 8PSK |4:2:0 HD
+UEFA Champion League HCL
+International Clubs, UEFA Champions League, Playoff Round
+Sabah Masazir vs. Hapoel Beer Sheva
+CW: 27 6D 4A DE EA 15 71 70
+Click to expand...
+CW : C7 E8 74 23 81 69 C9 B3
 ---FEED-SEPARATOR---
 Hotbird 13G/13F @ 13.0°East
 12679 H 7200 |
@@ -193,3 +304,11 @@ SK Rapid Wien
  vs. 
 Heart of Midlothian
 CW: 26 08 FE 2C ED 20 26 33
+---FEED-SEPARATOR---
+36E
+12516 V 7200
+4.2.0
+ID: SAU-031 BAK
+Saudi Basketball League (2026-2027
+)
+CW: CC DD 99 42 88 11 EE 87
