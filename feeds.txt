@@ -1,0 +1,132 @@
+Verdeoro said:
+Eutelsat 7B / 7C (7°0 E)
+11093 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Polsat Sport
+Event: 
+Hubert Wagner Memorial Poland-USA
+Click to expand...
+BA 26 08 E8 CD 29 CC C2
+---FEED-SEPARATOR---
+Verdeoro said:
+Eutelsat 7B / 7C (7°0 E)
+11093 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Polsat Sport
+CW: BA 26 08 E8 CD 28 BC B1
+Click to expand...
+Event: 
+Hubert Wagner Memorial - France vs Slovenia
+---FEED-SEPARATOR---
+Hot Bird 13.0E
+11694 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:Giochi MEDiterraneo
+CW: 26 29 DA 29 DA 02 80 5C
+---FEED-SEPARATOR---
+AVC Women's Volleball Continental China 2026
+Asiasat 5 (100.5°E) C BAND
+3820 V 9704
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: Main
+CW: 68 45 A7 54 0B 55 6E CE
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3833 V 9705 C-Band
+ID: Main 
+(Provider ID: Service Provider)
+MPEG4 | DVB-S2
+1920x1080i |13,83Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: AVC Women's Volleball Continental China 2026 – Tianjin
+Semi-final 1: Japan vs Thailand
+Time / Kickoff: 16.15 JKT-TH / 17.15 MY-SG / 09.15 GMT / 11.15 CET
+Semi-final 2: China vs Iran
+Time / Kickoff: 19.20 JKT-TH / 20.20 MY-SG / 12.20 GMT / 14.20 CET
+#CW:
+68 45 A7 54 0B 55 6E CE
+---FEED-SEPARATOR---
+28.2E
+12633 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish League 1 
+Ross County v East Kilbride
+---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+11088 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Carabao Cup R2 - Newcastle
+Event: 
+English Football League Championship (Week 3):
+Middlesbrough FC
+ vs. 
+West Bromwich Albion
+CW: 90 90 47 67 92 F2 3D C1
+---FEED-SEPARATOR---
+28.2E
+12703 V 7200 
+4:2:0
+DVB-S2 - 8PSK
+ID UKI-1493 
+Middlesbrough v WB
+CW: C7 2B A1 93 B3 A5 C4 1C
+English Championship - Week 3
+Middlesbrough v West Bromwich Albion
+---FEED-SEPARATOR---
+English premier league 
+Coventry Vs Hull
+1 west
+10978 V 15000
+A3 F7 C9 63 D2 E8 B4 6E
+---FEED-SEPARATOR---
+BLACKCRUSADER said:
+CW: 25 93 54 0C 76 FE A3 17
+Click to expand...
+Hotbird 13G/13F @ 13.0°East
+11062 V 7120 | 4:2:0 | DVB-S2 8PSK
+ID: 
+Pitch - EFL - Cardiff v Sheffield Utd (NEP Connect)
+English Championship - Week 3 - Cardiff City v Sheffield United
+---FEED-SEPARATOR---
+Albahraniy said:
+England Championship
+Asiasat 5 (100.5°E) C BAND
+4124 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  BT_SES_20_SDI (SES)
+#CW:
+Click to expand...
+CW: 25 93 54 0C 76 FE A3 17
+---FEED-SEPARATOR---
+England Championship
+Cardiff City vs Sheffield United
+Asiasat 5 (100.5°E) C BAND
+4124 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:  BT_SES_20_SDI (SES)
+CW: 25 93 54 0C 76 FE A3 17
+---FEED-SEPARATOR---
+omid1348 said:
+16E
+10998 V 10000
+4.2.0
+ID: POL022 TVN24 WAW p2 ASI
+CW: 77 93 52 5C 99 08 86 27
+Click to expand...
+All-Star Match: Poland vs. France 
+(Start 17.00)
+---FEED-SEPARATOR---
+25.5E
+11144 V 4400
+4.2.0
+ID: SNG 06 A
+Basketball cup
+ CW 29 10 62 9B 63 64 65 2C
