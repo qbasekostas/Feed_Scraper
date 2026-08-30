@@ -1,0 +1,150 @@
+10E
+11273 H 7500
+4.2.0
+ID: AFD-LPF
+Liga Profesional de Fútbol
+Club Atlético Banfield - Club Atlético River Plate
+CW: 54 46 BB 55 1C CC 34 1C
+---FEED-SEPARATOR---
+Mo_ha said:
+CEV EuroVolley Championship Women
+FRANCE vs GREECE
+Hot Bird 13B/13C/13E ( 13.0E )
+11646 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: CZE 001/1
+CW: : E5 2F FF 13 FD 08 30 35
+Click to expand...
+New CW: E5 2F FD 11 ED 08 30 25
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+FRANCE vs GREECE
+Hot Bird 13B/13C/13E ( 13.0E )
+11646 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: CZE 001/1
+CW: : E5 2F FF 13 FD 08 30 35
+---FEED-SEPARATOR---
+Eutelsat 7B / 7C (7°0 E)
+11093 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Polsat Sport
+Event: 
+Hubert Wagner Memorial
+DF 48 BE E7 58 AC FA 57  #CW: BA 26 08 E8 CD 30 DA D7
+---FEED-SEPARATOR---
+28.2E
+12524 H 7120 
+4:2:0
+DVBS-2 8PSK
+ID 
+Cloudbass
+Scottish SWPL 1
+Hearts v Rangers
+---FEED-SEPARATOR---
+FIBA Basketball World Cup qualification, Europe
+Slovenia vs Hungary
+Hot Bird 13B/13C/13E ( 13.0E )
+12706 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: SLO-008 Tx 1 (*unnamed-1*)
+CW: A0 A5 95 DA D0 CB EE 89
+---FEED-SEPARATOR---
+FIBA Basketball World Cup qualification, Europe
+Estonia vs Finland
+Hot Bird 13B/13C/13E ( 13.0E )
+12698 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: EST-003 M
+CW: : F0 94 9A 1E F9 13 60 6C
+---FEED-SEPARATOR---
+Mo_ha said:
+FIBA Basketball World Cup qualification, Europe
+Estonia vs Finland
+Hot Bird 13B/13C/13E ( 13.0E )
+12679 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: LAT-012 M
+CW: : CF F0 A3 62 97 E5 C3 3F
+member noted it could be LATVIA- ISRAEL
+Click to expand...
+Latvia
+Israel
+---FEED-SEPARATOR---
+oleg_slobodyanuk1 said:
+			19.2E
+11574 V 7200
+ID: POL-033 OUT 2 (audio - FTA)
+CW?
+Click to expand...
+CW: 19 7E D5 6C 8B 57 05 E7
+2027 FIBA Basketball World Cup qualification (Europe)
+Germany - Poland
+---FEED-SEPARATOR---
+FIBA World Cup, European Qualifiers Round 2
+Sweden vs France
+Hot Bird 13.0E
+12687 H 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:SWE-043 FIBA SWE-FRA 
+CW: C9 AC 12 87 0F C4 E1 B4
+---FEED-SEPARATOR---
+Event: Men's Basketball: World Cup Qualifiers - Match: Poland vs. Germany
+Eutelsat 16A  16° E
+10985 V 9601
+ID: POL-78 ENC 2
+4.2.2
+ DVB-S2 - 8PSK
+CW: AB BA 26 8B DC AE 08 92
+---FEED-SEPARATOR---
+19.2e
+11560 V 7200
+4:2:0
+ID: HOL-110 Main
+2027 FIBA Basketball World Cup qualification (Europe)
+Netherlands
+Croatia
+CW: 97 DA E7 58 C2 E4 D6 7C
+---FEED-SEPARATOR---
+FIBA World Cup, Asian & Oceanian Qualifiers
+New Zealand 
+vs Syria
+Asiasat 5 (100.5°E) C BAND
+3975 V 7200
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: FIBA WORLD CUP 2027 - MAIN
+CW: 22 FF 95 B6 95 88 DE FB
+---FEED-SEPARATOR---
+Greece Stoiximan Super League
+AE Kifisia vs AEK Athens
+Hot Bird 13B/13C/13E ( 13.0E )
+10810 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: AEK VS IRAKLIS
+CW: : 12 19 A4 CF E6 44 FD 27
+---FEED-SEPARATOR---
+13.0°E
+10819 H 7200
+4:2:0
+ID: ASTERAS VS OSFP
+CW: AD C7 9C 10 5E DA 6C A4
+Asteras - Olympiacos
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 2
+Asteras Tripolis vs Olympiacos
+39е
+12634 V 7200
+ID: E394 MAIN
+CW: AA 61 92 9D E4 FF 45 28
