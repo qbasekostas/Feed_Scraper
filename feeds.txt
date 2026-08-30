@@ -7,6 +7,24 @@ Club Atlético Banfield - Club Atlético River Plate
 CW: 54 46 BB 55 1C CC 34 1C
 ---FEED-SEPARATOR---
 Mo_ha said:
+FIPAV CUP MEN ELITE
+ITALY vs CUBA
+Hot Bird 13B/13C/13E ( 13.0E )
+12608 V 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: ITA451
+CW: : 1B 2A BC 01 3C AA 12 F8
+Click to expand...
+13E
+11675 H 7200
+4:2:2
+Same ID and CW
+FIPAV CUP MEN ELITE
+ITALY vs Brazil
+---FEED-SEPARATOR---
+Mo_ha said:
 CEV EuroVolley Championship Women
 FRANCE vs GREECE
 Hot Bird 13B/13C/13E ( 13.0E )
@@ -141,6 +159,16 @@ CW: : 12 19 A4 CF E6 44 FD 27
 ID: ASTERAS VS OSFP
 CW: AD C7 9C 10 5E DA 6C A4
 Asteras - Olympiacos
+---FEED-SEPARATOR---
+SlippyGes said:
+Greek Super League 1 - Matchday 2
+Asteras Tripolis vs Olympiacos
+39е
+12634 V 7200
+ID: E394 MAIN
+CW: AA 61 92 9D E4 FF 45 28
+Click to expand...
+NEW CW: AA 61 92 9D E4 FF 42 25
 ---FEED-SEPARATOR---
 Greek Super League 1 - Matchday 2
 Asteras Tripolis vs Olympiacos
