@@ -38,3 +38,25 @@ Hot Bird 13B/13C/13E ( 13.0E )
 DVB-S2 - 4:2:0 - 8PSK
 ID: TUR122B
 CW: FF BC D0 8B 90 1E 52 00
+---FEED-SEPARATOR---
+Albahraniy said:
+Championship, Round 4
+Stoke City vs Norwich City
+ID:   BT_SES_22_SDI (SES)
+CW: 37 A3 32 0C 5C 43 25 C4
+Click to expand...
+13E
+11088  
+V
+ 7120
+ID: 
+Pitch - EFL -Stoke v Norwich
+---FEED-SEPARATOR---
+Championship, Round 4
+Stoke City vs Norwich City
+Asiasat 5 (100.5°E) C BAND
+4124 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID:   BT_SES_22_SDI (SES)
+CW: 37 A3 32 0C 5C 43 25 C4
