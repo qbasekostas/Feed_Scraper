@@ -5,3 +5,36 @@ ID: AFD Estudiantes vs Newell's
 Liga Profesional de Fútbol
 Estudiantes de La Plata - Newell's Old Boys
 CW: 54 46 BB 55 1C CC 34 1C
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+10838 V 72
+00
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR 143 B
+Event:
+EuroVolley Championship Women - Turkey vs Azerbaijan
+CW: 4D D6 D3 F6 98 57 E5 D4
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+10829 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR122B
+New CW:
+ FF FC D0 CB 90 1E 52 00
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+10838 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR 143 B
+CW: FF BC D0 8B 90 1E 52 00
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+10828 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR122B
+CW: FF BC D0 8B 90 1E 52 00
