@@ -1,0 +1,48 @@
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+10848 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: CZE 001/1
+New CW: 
+E5 2F FA 0E AD 09 02 B8
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+10848 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: CZE 001/1
+Event: 
+EuroVolley Championship Women - Serbia vs Greece
+CW: E5 2F FD 11 DD 09 02 E8
+---FEED-SEPARATOR---
+England Championship, Round 4
+Burnley vs Middlesbrough
+Asiasat 5 (100.5°E) C BAND
+4124 H 7119
+DVB-S2 - 1080P - 8PSK
+4:2:0
+ID: BT_SES_22_SDI (SES)
+CW: 27 89 DB 8B 41 35 2B A1
+---FEED-SEPARATOR---
+10E
+11246 H 6974
+4.2.2
+ID: FB Servette - Sparta
+UEFA Women's Champions League
+Servette FC Chênois Féminin - AC Sparta Praha
+CW: AB 45 C1 B1 68 C1 92 BB
+---FEED-SEPARATOR---
+Greek Cup, League Phase - Matchday 1
+Marko vs Kifisia
+13e
+11666 H 7200
+ID: E399 MAIN
+CW: BA 1F 9E 77 8D 7C 6B 74
+---FEED-SEPARATOR---
+Greek Cup, League Phase - Matchday 1
+Nestos Chrysoupolis vs AEK
+13e
+11676 H 7200
+ID: E 73 MAIN
+CW: BA 1C AE 84 AA 7C 6B 91
