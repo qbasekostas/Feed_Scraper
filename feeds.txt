@@ -199,6 +199,17 @@ Mali W
 Spain W
 CW: 61 A7 18 20 B4 42 43 39
 ---FEED-SEPARATOR---
+Hotbird 13G/13F @ 13.0°East
+10800 H 7200 | 4:2:0 | DVB-S2 8PSK
+ID: 
+TANDBERG
+Event: 
+Greek Super League 1 (Week 3):
+AEK Athens
+ vs. 
+Aris Thessaloniki
+CW: 1F 5E 66 E3 C5 94 80 D9
+---FEED-SEPARATOR---
 10E
 10744 V 7200
 4.2.0
