@@ -1,3 +1,11 @@
+10E
+11246 H 7500
+4.2.0
+ID: AFD-LPF
+Liga Profesional de Fútbol
+Gimnasia y Esgrima de Mendoza - Boca Juniors
+CW: A1 26 62 29 C1 31 CD BF
+---FEED-SEPARATOR---
 Super Saiyan said:
 			Hotbird 13G/13F @ 13.0°East
 10838 H 7200 | 4:2:0 | DVB-S2 8PSK
@@ -51,6 +59,14 @@ DVBS-2 8PSK
 ID St Pats
 Irish FAI Cup - Quarter Final
 St Patrick's Athletic v  Bohemians
+---FEED-SEPARATOR---
+13E
+11079 V 7120
+4.2.0
+ID: Pitch EFL Swansea v Wrexham
+EFL Championship
+Swansea City A.F.C. - Wrexham A.F.C.
+CW: 35 46 B7 32 77 A7 77 95
 ---FEED-SEPARATOR---
 Thor 5/6/7 & Intelsat 10-02 @ 0.8°/1.0°West
 10964 V 7200 |
