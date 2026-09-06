@@ -1,32 +1,10 @@
-CEV EuroVolley Championship Women
-Hot Bird 13B/13C/13E ( 13.0E )
-11061 V 7199
-DVB-S2 - 4:2:0 - 8PSK
-ID: TUR122B
-New CW: D0 90 6E CE 52 FF EF 40
----FEED-SEPARATOR---
-Mo_ha said:
-CEV EuroVolley Championship Women
-Hot Bird 13B/13C/13E ( 13.0E )
-11061 V 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: TUR122B
-CW: : D0 90 6E CE 52 FF FC
-Click to expand...
----FEED-SEPARATOR---
-Mo_ha said:
-CEV EuroVolley Championship Women
-Hot Bird 13B/13C/13E ( 13.0E )
-11638 V 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: TUR 143 A
-CW: : 4A 54 B4 52 6F E6 3D 92
-Click to expand...
-New CW: 35 AF CB AF 37 FA 76 A7
+10E
+11246 H 7500
+4.2.0
+ID: AFD
+Liga Profesional de Fútbol
+Club Atlético Rosario Central - Newell's Old Boys
+CW: A1 26 62 29 C1 31 CD BF
 ---FEED-SEPARATOR---
 CEV EuroVolley Championship Women
 Hot Bird 13B/13C/13E ( 13.0E )
@@ -167,3 +145,10 @@ ID: E-95 BK
 Turkey - Australia
 China - Czech Republic
 CW: EC 88 A3 17 59 7F F6 CE
+---FEED-SEPARATOR---
+Greek Super League 1 - Matchday 3
+Levadiakos vs Panetolikos
+39e
+12634 V 7200
+ID: E399 MAIN
+CW: A8 1E FF C5 74 46 CA 84
