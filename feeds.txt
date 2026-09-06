@@ -1,0 +1,169 @@
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+11061 V 7199
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR122B
+New CW: D0 90 6E CE 52 FF EF 40
+---FEED-SEPARATOR---
+Mo_ha said:
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+11061 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR122B
+CW: : D0 90 6E CE 52 FF FC
+Click to expand...
+---FEED-SEPARATOR---
+Mo_ha said:
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+11638 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR 143 A
+CW: : 4A 54 B4 52 6F E6 3D 92
+Click to expand...
+New CW: 35 AF CB AF 37 FA 76 A7
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+11638 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR 143 A
+CW: : 4A 54 B4 52 6F E6 3D 92
+---FEED-SEPARATOR---
+CEV EuroVolley Championship Women
+Hot Bird 13B/13C/13E ( 13.0E )
+11061 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR122B
+CW: : D0 90 6E CE 52 FF FC 4D
+---FEED-SEPARATOR---
+EFL Highlights
+Hotbird 13B/13C/13G @ ( 13.0E )
+11088 V 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: EFL Highlights
+CW
+: FTA
+---FEED-SEPARATOR---
+English Premier League - Matchday 3
+Everton vs. Manchester United
+Eutelsat 3B @ 3.1°E
+10960 - H - 7500 
+|
+4:2:0
+ | H.264
+1920*1080 | QPSK | DVB-S2
+ID:
+ beIN SPORTS
+CW: 51 3B 68 F4 8C 30 5E 1A
+10969 - H - 7500 
+|
+4:2:0
+ | H.264
+1920*1080 | QPSK | DVB-S2
+ID:
+ Service-1
+CW: 82 29 C6 71 5A D7 DF 10
+---FEED-SEPARATOR---
+English Championship League
+Birmingham City vs Wolverhampton Wanderers
+Hotbird 13B/13C/13G @ ( 13.0E )
+11079 V 7119
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Pitch 
+Birmingham v Wolverhampton 
+HBO said:
+CW: : 31 25 43 99 DA 35 64 73
+Click to expand...
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4115 H 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID: BT_SES_20_SDI
+CW : 31 25 43 99 DA 35 64 73
+Birmingham City vs Wolverhampton Wanderers
+---FEED-SEPARATOR---
+Event: Jubilee Match Marking Legia Warsaw's 110th Anniversary
+Eutelsat 7C  7° E
+10983 H 9600
+ID: POL-90a
+4.2.2
+- DVB-S2 - 8PSK
+CW: AB BA 26 8B DC AE 09 93
+---FEED-SEPARATOR---
+Mo_ha said:
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+12536 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Main E-285
+CW: : 3A 42 D4 50 1B 00 6E 89
+Click to expand...
+CW: 2A 16 6F AF 27 E0 6D 74
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+12536 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Main E-285
+CW: : 3A 42 D4 50 1B 00 6E 89
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+12527 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: FIFA U20 SOSNOW
+CW: : 2B 29 36 8A E0 FB 16 F1
+---FEED-SEPARATOR---
+Womens U - 20 World Cup
+Hot Bird 13.0E
+11608 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID: Fi17GNVE
+CW: 2A 16 6F AF 27 E0 6D 74
+---FEED-SEPARATOR---
+Womens U - 20 World Cup
+Hot Bird 13.0E
+11617 V 7200
+DVB-S2 - 1080P - 8PSK
+4.2.0
+ID:   Fi18_GNVE
+CW: 2B 29 36 8A E0 FB 16 F1
+---FEED-SEPARATOR---
+36E
+12620 H 7200
+4.2.0
+ID: E-95 MAIN
+2026 FIBA Women's Basketball World Cup
+Turkey - Australia
+China - Czech Republic
+CW: 93 A8 93 CE 4F 99 3E 26
+---FEED-SEPARATOR---
+36E
+12611 H 7200
+4.2.0
+ID: E-95 BK
+2026 FIBA Women's Basketball World Cup
+Turkey - Australia
+China - Czech Republic
+CW: EC 88 A3 17 59 7F F6 CE
