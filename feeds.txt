@@ -1,3 +1,16 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,54Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores (1st Leg Quarter-final)
+Teams: Fluminense vs Platense
+Time / Kickoff: 05.00 JKT-TH / 06.00 MY-SG / 22.00 GMT / 00.00 CET
+CW: D2 1C 4B 39 55 CB 65 85
+---FEED-SEPARATOR---
 47W SES14 C 
 3857H6666 
 ID: NACCAL
@@ -28,6 +41,148 @@ Hot Bird 13B/13C/13E @ 13.0E
 ID: CEV RO ROU-038 BACKUP (ROSVA)
 MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
 CW: E6 0F FD F2 DD 09 08 EE
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Bournemouth vs Lincoln
+Hotbird 13B/13C/13G @ ( 13.0E )
+11646 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Bournemouth V Lincoln
+CW
+: FTA
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4134 H 7119 C-Band
+ID: BT_SES_12_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,10Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Carabao Cup 2026/27
+Teams: AFC Bournemouth vs Lincoln City
+Time / Kickoff: 01.45 JKT-TH / 02.45 MY-SG / 18.45 GMT / 20.45 CET
+CW: 11 33 AA EE CC 34 23 23
+---FEED-SEPARATOR---
+England Championship
+Bolton vs Westham
+Hotbird 13B/13C/13G @ ( 13.0E )
+12679 H 7119
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: PITCH EFL Bolton V Westham
+CW: : 42 35 66 DD 6A 21 21 AC
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4124 H 7119 C-Band
+ID: BT_SES_20_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,32Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Championship Matchday 6
+Teams: Bolton Wanderers vs West Ham United
+Time / Kickoff: 0
+2.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00
+ CET
+#CW:
+42 35 66 DD 6A 21 21 AC
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4114 H 7119 C-Band
+ID: BT_SES_6_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,30Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Carabao Cup 2026/27
+Teams: Crystal Palace vs Middlesbrough
+Time / Kickoff: 01.45 JKT-TH / 02.45 MY-SG / 18.45 GMT / 20.45 CET
+CW: 24 22 CC 12 DD 42 42 61
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4104 H 7119 C-Band
+ID: BT_SES_10_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,41Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Carabao Cup 2026/27
+Teams: Millwall vs Newcastle United
+Time / Kickoff: 02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00 CET
+CW: 14 31 DD 22 CC 24 21 11
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3976 V 7119 C-Band
+ID: BT_SES_8_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,32Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Carabao Cup 2026/27
+Teams: Leyton Orient vs Bradford City
+Time / Kickoff: 01.45 JKT-TH / 02.45 MY-SG / 18.45 GMT / 20.45 CET
+CW: 42 14 DA 30 AD 32 21 00
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3966 V 7119 C-Band
+ID: BT_SES_4_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,98Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Carabao Cup 2026/27
+Teams: Sunderland vs Hull City
+Time / Kickoff: 01.45 JKT-TH / 02.45 MY-SG / 18.45 GMT / 20.45 CET
+CW: 24 11 DD 12 AA 23 42 0F
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Carabao Millwall vs Newcastle
+Hotbird 13B/13C/13G @ ( 13.0E )
+12707 H 7119
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Carabao Millwall V Newcastle
+CW: : 14 31 DD 22 CC 24 21 11
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Leyton vs Bradford
+Hotbird 13B/13C/13G @ ( 13.0E )
+11656 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Carabao Leyton V Bradford
+CW: : 42 14 DA 30 AD 32 21 00
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Sunderland vs Hull
+Hotbird 13B/13C/13G @ ( 13.0E )
+11637 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: PITCH - Carabao Cup R3 - Sunderland v Hull
+CW: : 24 11 DD 12 AA 23 42 0F
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Crystal Palace vs Middlesbrough
+Hotbird 13B/13C/13G @ ( 13.0E )
+11628 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: PITCH - Carabao Cup R3 - Crystal Palace v Middlesbrough
+CW: : 24 22 CC 12 DD 42 42 61
 ---FEED-SEPARATOR---
 Event: Women's Football: U-20 World Cup – Poland 2026 – Match: Poland vs. Mexico
 Eutelsat 16A  16° E
@@ -69,25 +224,6 @@ ID: FIFA U20 BB PATH2
 Event: 
 FIFA U-20 Women’s World Cup 
 CW: 4B D4 41 60 52 3E 5F EF
----FEED-SEPARATOR---
-dj999 said:
-			Gone off now
-Click to expand...
-Feed is working
----FEED-SEPARATOR---
-Mo_ha said:
-UEFA Champions League - Round 1
-Club Brugge KV vs Aston Villa
-Eutelsat 16A @ ( 16.0E )
-11101 H 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: Unname
-CW
-: FTA
-Click to expand...
-Gone off now
 ---FEED-SEPARATOR---
 UEFA Champions League - Round 1
 Club Brugge KV vs Aston Villa
@@ -157,6 +293,19 @@ ID: Fi13_GNVE (EBUER)
 MPEG4-4:2:0 HD 1920x1080 |22.680 Mbit/Sec|8PSK DVB-S2 HD 
 CW: AB A8 E6 39 51 EA F9 34
 ---FEED-SEPARATOR---
+3.1E
+10960 H 7500
+4.2.0
+ID: beIN SPORTS
+CW: 51 3B 68 F4 8C 30 5E 1A
+=======================
+10968 H 7500
+4.2.0
+ID: Service-1
+CW: 82 29 C6 71 5A D7 DF 10
+UEFA Champions League
+Real Madrid - Inter Milan
+---FEED-SEPARATOR---
 UEFA Champions League - Round 1
 Liverpool FC vs Atlético Madrid
 Hot Bird 13B/13C/13E ( 13.0E )
@@ -167,20 +316,11 @@ DVB-S2 -
 ID:UKI-1852 C1
 CW: : 22 5B DC 59 A1 FE FD 9C
 ---FEED-SEPARATOR---
-UEFA Champions League - Round 1
-Borussia Dortmund vs Villarreal CF
-Eutelsat 16A @ ( 16.0E )
-12546 H 7199
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: E458  BACKUP
-CW: : BC 55 AC BD 62 CB 22 4F
----FEED-SEPARATOR---
 16E
 12555 H 7200
 4.2.0
 ID: E458 MAIN
+About
 UEFA Champions League
 Borussia Dortmund - Villarreal CF
 CW: BC 55 AC BD 62 CB 22 4F
