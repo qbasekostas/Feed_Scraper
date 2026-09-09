@@ -20,6 +20,26 @@ Santa Fe (COL)
 vs Vasco Da Gama (BRA)
 CW: : D2 1C 4B 39 55 CB 65 85
 ---FEED-SEPARATOR---
+Copa Sudamericana
+Santos (BRA) vs Atletico Mineiro (BRA)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12707 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Santos (BRA) vs Atletico Mineiro (BRA) - INGLES EUROPA
+CW: : 31 A3 45 19 CB DA 22 C7
+---FEED-SEPARATOR---
+Copa Libertadores
+Palmeiras (BRA) vs LDU Quito (ECU)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12689 H 7199
+DVB-S2 -
+ 4:2:2 
+- 8PSK
+ID: Palmeiras (BRA) vs LDU Quito (ECU) - INGLES EUROPA
+CW: : 6B A1 4C 58 2A 56 55 D5
+---FEED-SEPARATOR---
 47W SES14 C 
 4068H10000 
 ID: BOC VS SAO SPA
@@ -80,6 +100,16 @@ Click to expand...
 new cw: 
 D0 90 9E FE 60 FF BD 1C 
 ---FEED-SEPARATOR---
+verlock said:
+			After searching for Polsat Sport again. Please cw
+Click to expand...
+ Eutelsat Hotbird 13B/13C/13G @ 13.0°E
+ 12592 V 7200
+ 1920×1080 | H.264/AVC
+ 4:2:0 | 15.23 Mb/s
+ Polsat Sport
+CW: 4D 4C 56 EF FA 11 8C 97
+---FEED-SEPARATOR---
 Verdeoro said:
 Hotbird 13B/13C/13G @ ( 13.0E )
 12592 V 7200
@@ -118,6 +148,49 @@ ID: Fi11_GNVE
 Asian Championship
 67 2F 93 1C 13 B6 41 15  #CW: 
 0C C0 61 2D F1 01 27 19
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Chelsea vs Leeds
+Hotbird 13B/13C/13G @ ( 13.0E )
+12698 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Carabao - Chelsea V Leeds
+CW: : 54 24 CC 44 AA 34 31 0F
+---FEED-SEPARATOR---
+England Championship
+Charlton Athletic vs QPR
+Hotbird 13B/13C/13G @ ( 13.0E )
+12679 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: PITCH - EFL - Pitch EFL CharltonAthletic V QPR
+CW: : 74 37 7F 2A 4B 32 22 9F
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3976 V 7119 C-Band
+ID: BT_SES_8_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,32Mb/Sec |8PSK| 4:2:0 FHD
+EFL Cup
+Chelsea  vs Leeds
+FA F1 3F 38 F7 3E 04 B4  #CW:
+54 24 CC 44 AA 34 31 0F
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4125 H 7119 C-Band
+ID:
+ BT_SES_20_SDI
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,32Mb/Sec |8PSK| 4:2:0 FHD
+Championship 
+Charlton  vs  QPR
+8B 2F 52 97 7E 71 C4 44  #CW: 
+74 37 7F 2A 4B 32 22 9F
 ---FEED-SEPARATOR---
 FIFA U-20 Women’s World Cup Poland 2026
 Eutelsat 16A @ ( 16.0E )
