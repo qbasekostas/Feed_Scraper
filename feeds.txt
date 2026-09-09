@@ -20,6 +20,35 @@ Santa Fe (COL)
 vs Vasco Da Gama (BRA)
 CW: : D2 1C 4B 39 55 CB 65 85
 ---FEED-SEPARATOR---
+47W SES14 C 
+4068H10000 
+ID: BOC VS SAO SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+BOCA JUNIORS VS SSAN PABLO 
+CW: D2 1C 4B 39 55 CB 65 85
+---FEED-SEPARATOR---
+67W SES10 KU 
+12037V7200
+ID: TORNEOS1 M7
+DVB-S2 - 4:2:0 - 8PSK
+CONMEBOL COPA SUDAMERICANA
+Boca Juniors (ARG) vs Sao Paulo (BRA)
+CW: 89 04 55 E2 51 BA BC C7
+@
+sattechtips
+​
+Thanks for the key. 
+​
+---FEED-SEPARATOR---
+Copa Libertadores
+Fluminense (BRA) vs Platense (ARG)
+58.0W Intelsat 21
+3987 H 10000
+DVB-S2 - 4:2:2 - 8PSK
+ID: FLU VS PLA CL BU 
+CW: ED 23 45 55 CA 22 11 FD
+---FEED-SEPARATOR---
 Copa Sudamericana
 Independiente Santa Fe (COL) vs Vasco da Gama (BRA)
 58.0W  Intelsat 21
@@ -37,3 +66,145 @@ DVB-S2 -
  - 8PSK
 ID: Boca Juniors (ARG) vs Sao Paulo (BRA)
 CW: : D2 1C 4B 39 55 CB 65 85
+---FEED-SEPARATOR---
+Abo Saeid Satellite said:
+CEV Eurovolley European Championship 
+ 2026/2027
+Hot Bird 13B/13C/13E @ 13.0E 
+( KU-BAND )
+12584  Vertical  7199.957
+ID: CEV RO ROU-038 BACKUP (ROSVA)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+CW: E6 0F FD F2 DD 09 08 EE
+Click to expand...
+new cw: 
+D0 90 9E FE 60 FF BD 1C 
+---FEED-SEPARATOR---
+Verdeoro said:
+Hotbird 13B/13C/13G @ ( 13.0E )
+12592 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE-MCR
+Event:
+CEV Eurovolley 2026 - Finland vs Denmark
+CW: D0 90 9E FE 60 FF BA 19
+Click to expand...
+After searching for Polsat Sport again. Please cw
+---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird 13B/13C/13E ( 13.0E )
+12610 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR-161 Main
+Event: 
+CEV Eurovolley European Championship - Bulgaria vs North Macedonia
+CW: E6 0F FF F4 BD 09 08 CE
+Click to expand...
+new cw: 
+D0 90 9E FE 60 FF CB 2A
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+12592 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE-MCR
+Event:
+CEV Eurovolley 2026 - Finland vs Denmark
+CW: D0 90 9E FE 60 FF BA 19
+---FEED-SEPARATOR---
+100.5e
+3860 V 30000
+4:2:0
+ID: Fi11_GNVE
+Asian Championship
+67 2F 93 1C 13 B6 41 15  #CW: 
+0C C0 61 2D F1 01 27 19
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+11125 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: FIFA U20SOSN 2B
+CW: : 5B 00 3C 97 2A CB DC D1
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+11636 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi18_GNVE
+Event: 
+Women's Football: U-20 World Cup
+CW: 5B 00 3C 97 2A CB DC D1
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+11627 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi17_GNVE
+Event: 
+Women's Football: U-20 World Cup
+CW: 5A 3A 63 F7 CA 77 05 46
+---FEED-SEPARATOR---
+Eutelsat 16A   ( 16.0E )
+11153 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: Main E-285
+Event: 
+FIFA U-20 Women’s World Cup 
+CW: 5A 3A 63 F7 CA 77 05 46
+---FEED-SEPARATOR---
+UEFA Champions League - Round 1
+PSV Eindhoven vs Shakhtar Donetsk
+Hotbird 13B/13C/13G @ ( 13.0E )
+11089 V 8020
+DVB-S2 - 
+4:2:2
+ - H.265/HEVC
+ID: NL2SAT M02 main
+CW
+: FTA
+---FEED-SEPARATOR---
+UEFA Champions League instant Highlights
+Hot Bird 13B/13C/13E ( 13.0E )
+11611 V 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: GVA_Fi01
+CW: : B0 A3 6E C1 B5 A9 19 77
+---FEED-SEPARATOR---
+ 42.0°E
+ 11478 V 6799
+ 1920*1080 | 8PSK | 4:2:2
+ TUR 123 A
+ UCL Round 1 - Fenerbahçe vs Roma
+ 42 45 00 87 00 42 45 87
+---FEED-SEPARATOR---
+UEFA Champions League - Round 1
+Liverpool FC vs Atlético Madrid
+Hotbird 13B/13C/13G @ ( 13.0E )
+11078 V 4938
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Unname
+CW: : A1 5A 0B 06 07 0B 3D 4F
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+11642 H 9875
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi13_GNVE
+Event: 
+UEFA YOUTH League - Liverpool U19's vs Athletico Madrid U19's
+CW: 35 94 2A F3 FA DE 62 3A
+---FEED-SEPARATOR---
+FIBA WOMEN BASKETBALL
+​
+SAT : EUTELSAT 36.0°E | KU-BAND
+TP : 12620 H 7200 | DVB-S2 8PSK
+ID : E-95 MAIN | 4:2:0
+CW : A9 EF 2C C4 8E 46 D9 AD
+​
+TP : 12611 H 7200 | DVB-S2 8PSK
+ID : E-95 BK | 4:2:0
+CW : 20 15 B4 E9 E0 6F D2 21
+​
