@@ -1,283 +1,45 @@
 Copa Libertadores
-Fluminense (BRA) vs Platense (ARG)
+Estudiantesda 
+de 
+la Plata
+(ARG) vs Corinthians (BRA) 
 Hotbird 13B/13C/13G @ ( 13.0E )
 12696 H 7199
 DVB-S2 - 
 4:2:2
  - 8PSK
-ID: Fluminense (BRA) vs Platense (ARG)
-CW: : 34 5A DC 6A B7 23 DA B4
----FEED-SEPARATOR---
-Copa Sudamericana
-Independiente Santa Fe (COL) vs Vasco da Gama (BRA)
-Hotbird 13B/13C/13G @ ( 13.0E )
-12687 H 7199
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: 
-Santa Fe (COL) 
-vs Vasco Da Gama (BRA)
-CW: : D2 1C 4B 39 55 CB 65 85
----FEED-SEPARATOR---
-Copa Sudamericana
-Santos (BRA) vs Atletico Mineiro (BRA)
-Hotbird 13B/13C/13G @ ( 13.0E )
-12707 H 7199
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: Santos (BRA) vs Atletico Mineiro (BRA) - INGLES EUROPA
-CW: : 31 A3 45 19 CB DA 22 C7
+ID: Estudiantesda de la Plata (ARG) vs Corinthians (BRA) 
+CW: : 6B A1 4C 58 2A 56 55 D5
 ---FEED-SEPARATOR---
 Copa Libertadores
 Palmeiras (BRA) vs LDU Quito (ECU)
-Hotbird 13B/13C/13G @ ( 13.0E )
-12689 H 7199
-DVB-S2 -
- 4:2:2 
-- 8PSK
-ID: Palmeiras (BRA) vs LDU Quito (ECU) - INGLES EUROPA
-CW: : 6B A1 4C 58 2A 56 55 D5
----FEED-SEPARATOR---
-47W SES14 C 
-4068H10000 
-ID: BOC VS SAO SPA
-DVB-S2 4.2.2 1080I 
-CONMEBOL COPA SUDAMERICANA 
-BOCA JUNIORS VS SSAN PABLO 
-CW: D2 1C 4B 39 55 CB 65 85
----FEED-SEPARATOR---
-67W SES10 KU 
-12037V7200
-ID: TORNEOS1 M7
-DVB-S2 - 4:2:0 - 8PSK
-CONMEBOL COPA SUDAMERICANA
-Boca Juniors (ARG) vs Sao Paulo (BRA)
-CW: 89 04 55 E2 51 BA BC C7
-@
-sattechtips
-​
-Thanks for the key. 
-​
----FEED-SEPARATOR---
-Copa Libertadores
-Fluminense (BRA) vs Platense (ARG)
 58.0W Intelsat 21
 3987 H 10000
 DVB-S2 - 4:2:2 - 8PSK
-ID: FLU VS PLA CL BU 
-CW: ED 23 45 55 CA 22 11 FD
+ID: TX BU Palmeiras (BRA) vs L.D.U Quito (ECU)
+CW: B6 12 DF A7 C7 2D AE A2
 ---FEED-SEPARATOR---
 Copa Sudamericana
-Independiente Santa Fe (COL) vs Vasco da Gama (BRA)
-58.0W  Intelsat 21
-4011 H 10000
+Santos (BRA) vs Atletico Mineiro (BRA)
+58.0W Intelsat 21
+3998 H 10000
 DVB-S2 - 4:2:2 - 8PSK
-ID: FE VS GAM CL MAIN
-CW: : 3A 4D 56 DD FA 22 DD F9
+ID: SAN VS MIN CL BU
+CW: BC 67 88 AB 54 DA 23 51
 ---FEED-SEPARATOR---
-Copa Sudamericana
-Boca Juniors (ARG) vs São Paulo (BRA)
-Hotbird 13B/13C/13G @ ( 13.0E )
-12678 H 7199
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: Boca Juniors (ARG) vs Sao Paulo (BRA)
-CW: : D2 1C 4B 39 55 CB 65 85
----FEED-SEPARATOR---
-Abo Saeid Satellite said:
-CEV Eurovolley European Championship 
- 2026/2027
-Hot Bird 13B/13C/13E @ 13.0E 
-( KU-BAND )
-12584  Vertical  7199.957
-ID: CEV RO ROU-038 BACKUP (ROSVA)
-MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
-CW: E6 0F FD F2 DD 09 08 EE
-Click to expand...
-new cw: 
-D0 90 9E FE 60 FF BD 1C 
----FEED-SEPARATOR---
-verlock said:
-			After searching for Polsat Sport again. Please cw
-Click to expand...
- Eutelsat Hotbird 13B/13C/13G @ 13.0°E
- 12592 V 7200
- 1920×1080 | H.264/AVC
- 4:2:0 | 15.23 Mb/s
- Polsat Sport
-CW: 4D 4C 56 EF FA 11 8C 97
----FEED-SEPARATOR---
-Verdeoro said:
-Hotbird 13B/13C/13G @ ( 13.0E )
-12592 V 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: YLE-MCR
-Event:
-CEV Eurovolley 2026 - Finland vs Denmark
-CW: D0 90 9E FE 60 FF BA 19
-Click to expand...
-After searching for Polsat Sport again. Please cw
----FEED-SEPARATOR---
-Verdeoro said:
-Hot Bird 13B/13C/13E ( 13.0E )
-12610 V 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: TUR-161 Main
-Event: 
-CEV Eurovolley European Championship - Bulgaria vs North Macedonia
-CW: E6 0F FF F4 BD 09 08 CE
-Click to expand...
-new cw: 
-D0 90 9E FE 60 FF CB 2A
----FEED-SEPARATOR---
-Hotbird 13B/13C/13G @ ( 13.0E )
-12592 V 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: YLE-MCR
-Event:
-CEV Eurovolley 2026 - Finland vs Denmark
-CW: D0 90 9E FE 60 FF BA 19
----FEED-SEPARATOR---
-100.5e
-3860 V 30000
-4:2:0
-ID: Fi11_GNVE
-Asian Championship
-67 2F 93 1C 13 B6 41 15  #CW: 
-0C C0 61 2D F1 01 27 19
----FEED-SEPARATOR---
-EFL Carabao Cup
-Chelsea vs Leeds
-Hotbird 13B/13C/13G @ ( 13.0E )
-12698 H 7119
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: Carabao - Chelsea V Leeds
-CW: : 54 24 CC 44 AA 34 31 0F
----FEED-SEPARATOR---
-England Championship
-Charlton Athletic vs QPR
-Hotbird 13B/13C/13G @ ( 13.0E )
-12679 H 7119
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: PITCH - EFL - Pitch EFL CharltonAthletic V QPR
-CW: : 74 37 7F 2A 4B 32 22 9F
----FEED-SEPARATOR---
-Asiasat 5 @ 100.5°E
-3976 V 7119 C-Band
-ID: BT_SES_8_SDI 
-(Provider ID: SES)
-MPEG4 | DVB-S2
-1920x1080i |12,32Mb/Sec |8PSK| 4:2:0 FHD
-EFL Cup
-Chelsea  vs Leeds
-FA F1 3F 38 F7 3E 04 B4  #CW:
-54 24 CC 44 AA 34 31 0F
----FEED-SEPARATOR---
-Asiasat 5 @ 100.5°E
-4125 H 7119 C-Band
-ID:
- BT_SES_20_SDI
-(Provider ID: SES)
-MPEG4 | DVB-S2
-1920x1080i |11,32Mb/Sec |8PSK| 4:2:0 FHD
-Championship 
-Charlton  vs  QPR
-8B 2F 52 97 7E 71 C4 44  #CW: 
-74 37 7F 2A 4B 32 22 9F
+47W SES14 C 
+3849H6666 
+SANCAL 1
+DVB-S2 4.2.0 1080I 
+FÚTBOL COLOMBIANO 
+FFEMENINO 
+CW: 28 87 81 30 9B 06 DF 80
 ---FEED-SEPARATOR---
 FIFA U-20 Women’s World Cup Poland 2026
-Eutelsat 16A @ ( 16.0E )
-11125 H 7199
+Hotbird 13B/13C/13G @ ( 13.0E )
+11628 V 7199
 DVB-S2 - 
-4:2:0
- - 8PSK
-ID: FIFA U20SOSN 2B
-CW: : 5B 00 3C 97 2A CB DC D1
----FEED-SEPARATOR---
-Hotbird 13B/13C/13G @ ( 13.0E )
-11636 V 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: Fi18_GNVE
-Event: 
-Women's Football: U-20 World Cup
-CW: 5B 00 3C 97 2A CB DC D1
----FEED-SEPARATOR---
-Hotbird 13B/13C/13G @ ( 13.0E )
-11627 V 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: Fi17_GNVE
-Event: 
-Women's Football: U-20 World Cup
-CW: 5A 3A 63 F7 CA 77 05 46
----FEED-SEPARATOR---
-Eutelsat 16A   ( 16.0E )
-11153 H 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: Main E-285
-Event: 
-FIFA U-20 Women’s World Cup 
-CW: 5A 3A 63 F7 CA 77 05 46
----FEED-SEPARATOR---
-UEFA Champions League - Round 1
-PSV Eindhoven vs Shakhtar Donetsk
-Hotbird 13B/13C/13G @ ( 13.0E )
-11089 V 8020
-DVB-S2 - 
-4:2:2
- - H.265/HEVC
-ID: NL2SAT M02 main
-CW
-: FTA
----FEED-SEPARATOR---
-UEFA Champions League instant Highlights
-Hot Bird 13B/13C/13E ( 13.0E )
-11611 V 9874
-DVB-S2 - 
-4:2:2
- - 8PSK
-ID: GVA_Fi01
-CW: : B0 A3 6E C1 B5 A9 19 77
----FEED-SEPARATOR---
- 42.0°E
- 11478 V 6799
- 1920*1080 | 8PSK | 4:2:2
- TUR 123 A
- UCL Round 1 - Fenerbahçe vs Roma
- 42 45 00 87 00 42 45 87
----FEED-SEPARATOR---
-UEFA Champions League - Round 1
-Liverpool FC vs Atlético Madrid
-Hotbird 13B/13C/13G @ ( 13.0E )
-11078 V 4938
-DVB-S2 - 
-4:2:0
- - 8PSK
-ID: Unname
-CW: : A1 5A 0B 06 07 0B 3D 4F
----FEED-SEPARATOR---
-Hotbird 13B/13C/13G @ ( 13.0E )
-11642 H 9875
-DVB-S2 - 4:2:0 - 8PSK
-ID: Fi13_GNVE
-Event: 
-UEFA YOUTH League - Liverpool U19's vs Athletico Madrid U19's
-CW: 35 94 2A F3 FA DE 62 3A
----FEED-SEPARATOR---
-FIBA WOMEN BASKETBALL
-​
-SAT : EUTELSAT 36.0°E | KU-BAND
-TP : 12620 H 7200 | DVB-S2 8PSK
-ID : E-95 MAIN | 4:2:0
-CW : A9 EF 2C C4 8E 46 D9 AD
-​
-TP : 12611 H 7200 | DVB-S2 8PSK
-ID : E-95 BK | 4:2:0
-CW : 20 15 B4 E9 E0 6F D2 21
-​
+4:2:0 
+- 8PSK
+ID: Fi17GNVE
+CW: : 6A 77 CA AB 48 76 31 EF
