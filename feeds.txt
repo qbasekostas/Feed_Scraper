@@ -1,3 +1,31 @@
+47W SES14 C 
+4068H7500
+AMEPER MAIN
+DVB-S2 4.2.0 1080I 
+FÚTBOL COLOMBIANO 
+CW: E4 36 71 8B F0 13 14 17
+---FEED-SEPARATOR---
+Mo_ha said:
+Copa Libertadores
+Estudiantesda 
+de 
+la Plata
+(ARG) vs Corinthians (BRA) 
+Hotbird 13B/13C/13G @ ( 13.0E )
+12696 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Estudiantesda de la Plata (ARG) vs Corinthians (BRA) 
+CW: : 6B A1 4C 58 2A 56 55 D5
+Click to expand...
+47W SES14 C 
+4056H10000
+ID: EST VS COR SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA LIBERTADORES 
+ESTUDIANTES VS CORINTHIANS 
+---FEED-SEPARATOR---
 Copa Libertadores
 Estudiantesda 
 de 
@@ -35,6 +63,106 @@ FÚTBOL COLOMBIANO
 FFEMENINO 
 CW: 28 87 81 30 9B 06 DF 80
 ---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°E
+11607 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE-MCE
+Event:
+Men's European Volleyball Championship
+- 
+Finland vs Denmark
+CW: FF AD D0 7C 91 0E 60 FF
+---FEED-SEPARATOR---
+omid1348 said:
+NEW
+CW: FF FA D0 C9 91 0E 60 FF
+Finland - Denmark
+Click to expand...
+Germany - Turkey
+---FEED-SEPARATOR---
+omid1348 said:
+7E
+11526 H 7200
+4.2.0
+ID: CEV RO ROU-038 MAIN
+Men's European Volleyball Championship
+France - Switzerland
+CW: FF AB D0 7A 91 0E 60 FF
+Click to expand...
+NEW
+CW: FF FA D0 C9 91 0E 60 FF
+Germany - Turkey
+---FEED-SEPARATOR---
+Mo_ha said:
+CEV Eurovolley 2026
+POLAND vs PORTUGAL
+Eutelsat 10A @ ( 10.0E )
+10746 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR-161 Main
+CW: : FF FE D0 CD 91 0E 60 FF
+Click to expand...
+new cw: 
+FF FA D0 C9 91 0E 60 FF 
+---FEED-SEPARATOR---
+7E
+11526 H 7200
+4.2.0
+ID: CEV RO ROU-038 MAIN
+Men's European Volleyball Championship
+France - Switzerland
+CW: FF AB D0 7A 91 0E 60 FF
+---FEED-SEPARATOR---
+Event: Europe European Championships
+Teams : Czech Republic 
+ Greece 11.09.2026 17:00
+Hot Bird 13B/13C/13E @ 13.0E
+ ( KU-BAND )
+12601 V 7198
+ID:ITA349 CEV MODENA (Service Provider)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+CW: FF AD D0 7C 91 0E 60 FF
+---FEED-SEPARATOR---
+CEV Eurovolley 2026
+POLAND vs PORTUGAL
+Eutelsat 10A @ ( 10.0E )
+10746 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR-161 Main
+CW: : FF FE D0 CD 91 0E 60 FF
+---FEED-SEPARATOR---
+EFL Championship Highlights
+Hotbird 13B/13C/13G @ ( 13.0E )
+10866 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: 
+PITCH - EFL Highlights 2026
+CW: : 26 CC 33 25 59 E3 27 63
+---FEED-SEPARATOR---
+Mo_ha said:
+FIFA U-20 Women’s World Cup Poland 2026
+Hotbird 13B/13C/13G @ ( 13.0E )
+11636 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi18_GNVE
+CW: : 6B 33 E4 82 C1 1C D1 AE
+Click to expand...
+16E
+11126 H 7200
+4.2.0
+ID: FIFA U20 SOSNOW
+Spain - NEW Caledonia
+North Korea - Costa Rica
+---FEED-SEPARATOR---
+Mo_ha said:
 FIFA U-20 Women’s World Cup Poland 2026
 Hotbird 13B/13C/13G @ ( 13.0E )
 11628 V 7199
@@ -43,3 +171,115 @@ DVB-S2 -
 - 8PSK
 ID: Fi17GNVE
 CW: : 6A 77 CA AB 48 76 31 EF
+Click to expand...
+16E
+11154 H 7200
+4.2.0
+ID: Main E-285
+Spain - NEW Caledonia
+North Korea - Costa Rica
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Hotbird 13B/13C/13G @ ( 13.0E )
+11636 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi18_GNVE
+CW
+: 
+6B 33 E4 82 C1 1C D1 AE
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Hotbird 13B/13C/13G @ ( 13.0E )
+11628 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Fi17GNVE
+CW: : 6A 77 CA AB 48 76 31 EF
+---FEED-SEPARATOR---
+3.1E
+10960 H 7500
+4.2.0
+ID: beIN SPORTS
+CW: 51 3B 68 F4 8C 30 5E 1A
+=======================
+10968 H 7500
+4.2.0
+ID: Service-1
+CW: 82 29 C6 71 5A D7 DF 10 Later
+UEFA Champions League
+FC Bayern Munich - FK Bodø/Glimt
+---FEED-SEPARATOR---
+UEFA Champions League instant Highlights
+Hot Bird 13B/13C/13E ( 13.0E )
+11611 V 9874
+DVB-S2 - 4:2:2 - 8PSK
+ID: LEUK_Fi01
+CW: D9 07 5A 3A F1 5F DD 2D
+---FEED-SEPARATOR---
+𝐔𝐄𝐅𝐀 𝐂𝐡𝐚𝐦𝐩𝐢𝐨𝐧𝐬 𝐋𝐞𝐚𝐠𝐮𝐞 
+𝐁𝐚𝐲𝐞𝐫𝐧 𝐌ü𝐧𝐜𝐡𝐞𝐧  𝐯 𝐁𝐨𝐝𝐨/𝐆𝐥𝐢𝐦𝐭
+𝐄𝐮𝐭𝐞𝐥𝐬𝐚𝐭 𝟑𝐁 @ 𝟑.𝟏° 𝐄
+𝟭𝟬𝟵𝟲𝟬 𝗛 𝟳𝟱𝟬𝟬 |𝟒:𝟐:𝟎 | 𝐇.𝟐𝟔𝟒
+𝟏𝟗𝟐𝟎*𝟏𝟎𝟖𝟎 | 𝐃𝐕𝐁-𝐒𝟐 | 𝟖𝐏𝐒𝐊
+𝐈𝐃: beIN SPORTS
+𝐂𝐖: 𝟓𝟏 𝟑𝐁 𝟔𝟖 𝐅𝟒 𝟖𝐂 𝟑𝟎 𝟓𝐄 𝟏𝐀
+𝟭𝟬𝟵𝟳𝟬 𝗛 𝟳𝟱𝟬𝟬 |𝟒:𝟐:𝟎 | 𝐇.𝟐𝟔𝟒
+𝟏𝟗𝟐𝟎*𝟏𝟎𝟖𝟎 | 𝐃𝐕𝐁-𝐒𝟐 | 𝟖𝐏𝐒𝐊
+𝐈𝐃: Service-1
+𝐂𝐖: 𝟖𝟐 𝟐𝟗 𝐂𝟔 𝟕𝟏 𝟓𝐀 𝐃𝟕 𝐃𝐅 𝟏𝟎
+---FEED-SEPARATOR---
+21.6E
+11667 H 6666
+4.2.0
+ID: BEIN-MAIN_UvSABAH
+About
+UEFA Champions League
+Manchester United F.C. - Sabah FK
+CW: DA 51 9B C6 77 FC 29 9C
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+11642 H 9875
+DVB-S2 - 4:2:0 - 8PSK
+ID: Fi13_GNVE
+Event: 
+UEFA YOUTH League - FC Bayern Munich  - FK Bodo/Glimt
+CW: F7 B2 EC 95 87 39 FB BB
+---FEED-SEPARATOR---
+UEFA YOUTH League - Barcelona U19 - Feyenoord U19
+16E
+12545 H 7200
+ID: 
+YOUTH LEAGUE MAIN FEED E362
+CW:
+42 DE AC CC 22 1B 4A 87
+---FEED-SEPARATOR---
+12611 H 7200
+4.2.0
+ID: E-95 Domestic
+2026 FIBA Women's Basketball World Cup / Quarter-Final
+USA - Hungary
+CW: 66 84 5B 45 0F 5F 99 07
+---FEED-SEPARATOR---
+28.2E
+12633 V 7200 
+4:2:2
+DVBS2 8PSK
+ID: BBL Pokal Crailsheim vs Hagen
+CW: 43 21 DC 40 BA 20 26 00
+GERMANY: German Cup
+ Crailsheim  
+Merlins
+ vs 
+Phoenix 
+Hagen
+---FEED-SEPARATOR---
+13E
+12620 H 7200
+4.2.0
+ID: E-95 International
+2026 FIBA Women's Basketball World Cup / Quarter-Final
+USA - Hungary
+CW: 6A 00 45 AF 5B 24 DA 59
