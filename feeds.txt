@@ -1,3 +1,29 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 2 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,88Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores / Sudamericana (1st Leg Quarter-final)
+Teams: TBC
+Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
+CW: 32 A1 E4 B7 AA BC 56 BC
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,74Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Libertadores / Sudamericana (1st Leg Quarter-final)
+Teams: TBC
+Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
+CW: CB 61 AD D9 41 3C B6 33
+---FEED-SEPARATOR---
 47W SES14 C 
 4068H7500
 AMEPER MAIN
@@ -135,6 +161,32 @@ DVB-S2 -
 ID: TUR-161 Main
 CW: : FF FE D0 CD 91 0E 60 FF
 ---FEED-SEPARATOR---
+EFL League One 
+Stevenage vs Luton Town
+Hotbird 13B/13C/13G @ ( 13.0E )
+12679 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: PITCH - EFL - Stevenage v Luton Town
+CW: : 53 52 DD 82 D7 54 3A 65
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+4133 H 7119 C-Band
+ID: BT_SES_20_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,19Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL League One Matchday 6
+Teams: Stevenage vs Luton Town
+Time / Kickoff: 0
+2.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00
+ CET
+#CW:
+53 52 DD 82 D7 54 3A 65
+---FEED-SEPARATOR---
 EFL Championship Highlights
 Hotbird 13B/13C/13G @ ( 13.0E )
 10866 H 7119
@@ -199,19 +251,6 @@ DVB-S2 -
 ID: Fi17GNVE
 CW: : 6A 77 CA AB 48 76 31 EF
 ---FEED-SEPARATOR---
-3.1E
-10960 H 7500
-4.2.0
-ID: beIN SPORTS
-CW: 51 3B 68 F4 8C 30 5E 1A
-=======================
-10968 H 7500
-4.2.0
-ID: Service-1
-CW: 82 29 C6 71 5A D7 DF 10 Later
-UEFA Champions League
-FC Bayern Munich - FK Bodø/Glimt
----FEED-SEPARATOR---
 UEFA Champions League instant Highlights
 Hot Bird 13B/13C/13E ( 13.0E )
 11611 V 9874
@@ -262,6 +301,14 @@ ID: E-95 Domestic
 2026 FIBA Women's Basketball World Cup / Quarter-Final
 USA - Hungary
 CW: 66 84 5B 45 0F 5F 99 07
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+11666 H 7200
+DVB-S2 - 4:2:2 - 8PSK
+ID: D 571 BBL Bremen
+Event: 
+BBL Pokal - Bremerhaven vs Braunschweig
+CW: 43 21 DC 40 BA 20 26 00
 ---FEED-SEPARATOR---
 28.2E
 12633 V 7200 
