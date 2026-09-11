@@ -112,16 +112,6 @@ Gevs999 said:
 Click to expand...
 E6 0F FC F1 CD 09 11 E7
 ---FEED-SEPARATOR---
-jsc5 said:
-			Eutelsat 10E
-10746 V 7200
-ID: TUR-161 Main
-Volleyall World Championship in Sofia
-Ukraina vs Macedonia
-CW : E6 0F FE F3 BD 09 11 D7
-Click to expand...
-new cw pls?
----FEED-SEPARATOR---
 Hot Bird 13B/13C/13E ( 13.0E )
 10847 V 7200
 DVB-S2 - 4:2:0 - 8PSK
@@ -144,6 +134,62 @@ ID: TUR-161 Main
 Volleyall World Championship in Sofia
 Ukraina vs Macedonia
 CW : E6 0F FE F3 BD 09 11 D7
+---FEED-SEPARATOR---
+League Cup
+Stenhousemuir vs Hearts
+Hotbird 13B/13C/13G @ ( 13.0E )
+11071 V 7199
+11213 V 7200
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Cloudbass
+CW
+: FTA
+---FEED-SEPARATOR---
+16E
+12712 V 2000
+ 4:2:0
+DVB-S2 16APSK
+ID: Service01
+Scottish Championship
+Greenock Morton v Livingston
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12691 Vertical 9997,095 2/3
+DVB-S2/16APSK (4:2:0)
+Uki-1592
+Eutelsat 16A (16.0 E)
+12704 Vertical 9997,964 2/3
+DVB-S2/16APSK (4:2:0)
+Service 01
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3966 V 7119 C-Band
+ID: BT_SES_20_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,32Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Championship Matchday 7
+Teams: West Ham United vs Wrexham
+Time / Kickoff: 0
+2.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00
+ CET
+#CW:
+43 79 06 C2 34 DE 01 13
+---FEED-SEPARATOR---
+safrifulkamal said:
+#CW:
+43 79 06 C2 34 DE 01 13
+Click to expand...
+Hotbird 13B/13C/13G @ ( 13.0E )
+11204 V 7120
+DVB-S2 - 4:2:0 - 8PSK
+ID: PITCH EFL Westham V Wrexham
+Event: 
+England - EFL Championship Matchday 7 - West Ham vs Wrexham
 ---FEED-SEPARATOR---
 FIFA U-20 Women’s World Cup
 ARGENTINA VS MEXICO
@@ -204,6 +250,12 @@ FIFA U-20 Women's World Cup
 Tanzania - Canada
 England - Brazil
 CW: 7A CC BB 01 1E 63 AB 2C
+---FEED-SEPARATOR---
+16E
+12718 H 4935 420 HD MPEG4 FTA
+ID: YSM-012M | DSNG
+FRIENDLY MATCH
+PARTIZAN | FUENLABRADA
 ---FEED-SEPARATOR---
 16e
 11126 H 7200
