@@ -1,0 +1,284 @@
+10E
+10721 H 7500
+4.2.0
+ID: 
+AFD-LPF
+Liga Profesional - Clausura
+Boca Juniors  vs  Central Cordoba
+CW: A1 26 62 29 C1 31 CD BF
+---FEED-SEPARATOR---
+omid1348 said:
+10E
+10745 V 7200
+4.2.0
+ID: TUR-161 Main
+Men's European Volleyball Championship
+Poland - Israel
+CW: D0 91 2E 8F 60 FF BB 1A
+Click to expand...
+new sw pls?
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+10676 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA349 CEV MODENA
+Event: 
+Men's European Volleyball Championship - 
+Sweden vs Czech Republic
+CW: D0 91 2E 8F 60 FF DB 3A
+---FEED-SEPARATOR---
+Verdeoro said:
+Eutelsat 7B/7C @ 7.0°E
+11606 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE-MCR
+Event: 
+Men's European Volleyball Championship - Denmark vs Netherlands
+CW: D0 91 2E 8F 60 FF BB 1A
+Note Denmark - Netherlands
+Click to expand...
+Event: 
+Men's European Volleyball Championship - Belgium vs Finland
+New CW: 
+D0 91 2E 8F 60 FF 
+DC 3B
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°E
+10984 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: RAI ITA 498 A
+Event: 
+Men's European Volleyball Championship - Sweden vs Czech Republic
+CW: EE 68 93 E9 07 C1 5D 25
+---FEED-SEPARATOR---
+7E
+11526 H 7200
+4.2.0
+ID: CEV RO ROU-038 MAIN
+Men's European Volleyball Championship
+France - Turkey
+CW: D0 91 2E 8F 60 FF AB 0A
+---FEED-SEPARATOR---
+10E
+10745 V 7200
+4.2.0
+ID: TUR-161 Main
+Men's European Volleyball Championship
+Poland - Israel
+CW: D0 91 2E 8F 60 FF BB 1A
+---FEED-SEPARATOR---
+Eutelsat 7B/7C @ 7.0°E
+11606 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE-MCR
+Event: 
+Men's European Volleyball Championship - Denmark vs Netherlands
+CW: D0 91 2E 8F 60 FF BB 1A
+Note Denmark - Netherlands
+---FEED-SEPARATOR---
+omid1348 said:
+7E
+11526 H 7200
+4.2.0
+ID: CEV RO ROU-038 MAIN
+Men's European Volleyball Championship
+France - Turkey
+CW: D0 91 2E 8F 60 FF AB 0A
+Click to expand...
+NEW CW: D0 91 2E 8F 60 FF FB 5A
+Romania - Germany
+---FEED-SEPARATOR---
+omid1348 said:
+7E
+11526 H 7200
+4.2.0
+ID: CEV RO ROU-038 MAIN
+Men's European Volleyball Championship
+France - Turkey
+CW: D0 91 2E 8F 60 FF AB 0A
+Click to expand...
+new cw pls?
+---FEED-SEPARATOR---
+omid1348 said:
+10E
+10745 V 7200
+4.2.0
+ID: TUR-161 Main
+Men's European Volleyball Championship
+Poland - Israel
+CW: D0 91 2E 8F 60 FF BB 1A
+Click to expand...
+NEW CW: D0 91 2E 8F 60 FF CB 2A
+Bulgaria - Ukraine
+---FEED-SEPARATOR---
+English Premier League - Matchday 4
+Crystal Palace vs. Ipswich Town
+Intelsat 10-02 @ 1.0°W
+11631 - V - 7200 
+|
+4:2:2
+ | H.265 
+HEVC
+1920*1080 | 8PSK | DVB-S2
+ID: UKI1932-M5-Main
+CW: 13 D2 92 77 95 88 34 51
+---FEED-SEPARATOR---
+English Premier League - Matchday 4
+Bournemouth vs. Brentford
+Intelsat 10-02 @ 1.0°W
+11086 - V - 7200 
+|
+4:2:2
+ | H.265 
+HEVC
+1920*1080 | 8PSK | DVB-S2
+ID: Unname
+CW: 13 D2 92 77 95 88 34 51
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3984 V 7119 C-Band
+ID: BT_SES_8_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,31Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Championship Matchday 7
+Teams: 
+Watford vs Stoke City
+Time / Kickoff: 
+21
+.00 JKT-TH / 22.00 MY-SG / 14.00 GMT / 16.00
+ CET
+Mo_ha said:
+CW: 22 54 43 B9 BB 32 50 3D
+Click to expand...
+---FEED-SEPARATOR---
+England Championship
+Watford vs Stoke City
+Hotbird 13B/13C/13G @ ( 13.0E )
+11079 V 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: PITCH - EFL Watford v 
+Stoke City
+CW: : 22 54 43 B9 BB 32 50 3D
+---FEED-SEPARATOR---
+English Premier League 
+Chelsea vs Hull City
+Eutelsat 3B @ ( 3.1E )
+10960 H 7500
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: beIN SPORTS
+CW: 51 3B 68 F4 8C 30 5E 1A
+10969 H 7500
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Service-1
+CW: : 82 29 C6 71 5A D7 DF 10
+---FEED-SEPARATOR---
+Mo_ha said:
+England Championship
+Derby vs Birmingham
+Hotbird 13B/13C/13G @ ( 13.0E )
+11204 V 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: PITCH - EFL -EFL Derby v Birmingham
+CW: : 11 DF 43 33 25 75 89 23
+Click to expand...
+Asiasat 5 @ 100.5°E
+4104 
+Horizontal 
+7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: 
+BT_SES_20_SDI
+Event: 
+England - Championship, Derby vs Birmingham
+CW: 11 DF 43 33 25 75 89 23
+---FEED-SEPARATOR---
+England Championship
+Derby vs Birmingham
+Hotbird 13B/13C/13G @ ( 13.0E )
+11204 V 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: PITCH - EFL -EFL Derby v Birmingham
+CW: : 11 DF 43 33 25 75 89 23
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Hot Bird 13B/13C/13E ( 13.0E )
+11608 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi17GNVE
+CW
+: 
+8A D5 E3 42 EF 9B 6C F6
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Hot Bird 13B/13C/13E ( 13.0E )
+11618 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: LK ENC8
+CW
+: 
+8B 5F 34 1E B3 2D 0C EC
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+12527 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: FIFA U20 SOSNOW
+CW: : 8B 5F 34 1E B3 2D 0C EC
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+12536 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Main E-285
+CW: : 8A D5 E3 42 EF 9B 6C F6
+---FEED-SEPARATOR---
+36E
+12620 H 7200
+4.2.0
+ID: E-95 International
+2026 FIBA Women's Basketball World Cup / Quarter-Final
+France - Germany
+USA - Spain
+CW: 6A 90 25 1F A2 ED F9 88
+---FEED-SEPARATOR---
+36E
+12611 H 7200
+4.2.0
+ID: E-95 Domestic
+2026 FIBA Women's Basketball World Cup / Quarter-Final
+France - Germany
+USA - Spain
+CW: 2B 88 25 D8 44 5B DB 7A
+---FEED-SEPARATOR---
+Greece Super League
+Olympiacos FC vs OFI Crete
+Hot Bird 13B/13C/13E ( 13.0E )
+12544 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: OSFP VS OFI M
+CW: : 06 78 03 81 97 5F 4C 42
