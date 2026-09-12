@@ -19,7 +19,7 @@ Click to expand...
 new sw pls?
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E ( 13.0E )
-10676 H 7200
+11676 H 7200
 DVB-S2 - 4:2:0 - 8PSK
 ID: ITA349 CEV MODENA
 Event: 
@@ -87,17 +87,6 @@ CW: D0 91 2E 8F 60 FF AB 0A
 Click to expand...
 NEW CW: D0 91 2E 8F 60 FF FB 5A
 Romania - Germany
----FEED-SEPARATOR---
-omid1348 said:
-7E
-11526 H 7200
-4.2.0
-ID: CEV RO ROU-038 MAIN
-Men's European Volleyball Championship
-France - Turkey
-CW: D0 91 2E 8F 60 FF AB 0A
-Click to expand...
-new cw pls?
 ---FEED-SEPARATOR---
 omid1348 said:
 10E
@@ -254,6 +243,35 @@ DVB-S2 -
  - 8PSK
 ID: Main E-285
 CW: : 8A D5 E3 42 EF 9B 6C F6
+---FEED-SEPARATOR---
+vakula said:
+			16E
+12718 H 4935 420 HD MPEG4 FTA
+ID: YSM-012M | DSNG
+FRIENDLY MATCH
+PARTIZAN | FUENLABRADA
+Click to expand...
+FUENLABRADA | BESIKTAS
+---FEED-SEPARATOR---
+German Cup
+Gottingen vs Syntainics MBC
+Hotbird 13B/13C/13G @ ( 13.0E )
+11617 H 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: WPA D-322 MAIN
+CW: : 32 14 DC 22 BA 20 26 00
+---FEED-SEPARATOR---
+BBL Pokal
+Gießen 46ers vs BV Chemnitz 99
+Hotbird 13B/13C/13G @ ( 13.0E )
+10867 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: AKK BBL Pokal
+CW: : 32 14 DC 22 BA 20 26 00
 ---FEED-SEPARATOR---
 36E
 12620 H 7200
