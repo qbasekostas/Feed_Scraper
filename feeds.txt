@@ -1,0 +1,113 @@
+Eutelsat 7B/7C @ 7.0°E
+11124 V 7200
+DVB-S2 - 4:2:0 - 8PSK - H265
+ID: RAI ITA 887 A
+Event: 
+Men's European Volleyball Championship - Czech Republic vs Italy
+CW: D8 F5 61 2E 07 C1 59 21
+---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird 13B/13C/13E ( 13.0E )
+12592 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE
+Event: 
+Men's European Volleyball Championship - Belgium vs Denmark
+CW: D0 91 5E BF 60 FF DB 3A
+Click to expand...
+Event: 
+Men's European Volleyball Championship - Netherlands vs Finland
+New CW: 
+D0 91 5E BF 60 FF 
+CB 
+2A
+---FEED-SEPARATOR---
+Verdeoro said:
+			Event: 
+Men's European Volleyball Championship - Romania vs Turkey
+New CW: 
+E6 0F 
+FC F1 BD
+ 09 14 
+DA
+Click to expand...
+new cw: 
+D0 91 5E BF 60 FF 31 90
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+12601 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA349 CEV MODENA
+Event: 
+Men's European Volleyball Championship - Greece vs Sweden
+CW: D0 91 5E BF 60 FF 99 F8
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+12592 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE
+Event: 
+Men's European Volleyball Championship - Belgium vs Denmark
+CW: D0 91 5E BF 60 FF DB 3A
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+12610 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR-161 Main
+Event: 
+Men's European Volleyball Championship - North Macedonia vs Portugal
+CW: D0 91 5E BF 60 FF 77 D6
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Peterborough vs Barnsley
+Hotbird 13B/13C/13G @ ( 13.0E )
+11061 V 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Pitch Carabao Peterborough
+CW: : 21 31 DD 2F CC 24 22 12
+---FEED-SEPARATOR---
+28.2E
+12507 H 7200 4:2:0
+DVB-S2 - 8PSK
+ID 
+Liverpool v Spurs BU
+CW: 6B 14 AA 29 52 CD 24 43
+English League Cup - Round of 32
+Liverpool v Tottenham Hotspur
+---FEED-SEPARATOR---
+England EFL Cup, Round 3
+Asiasat 5 (100.5°E) C BAND
+3993 V 7119
+4:2:0
+ - DVB-S2 - 1080P - 8PSK
+ID:BT_SES_2_SDI (SES)
+CW: 33 14 AD F4 AD 41 22 10
+---FEED-SEPARATOR---
+England EFL Cup, Round 3
+Peterborough vs Barnsley
+Asiasat 5 (100.5°E) C BAND
+4124 H 7119
+4:2:0
+ - DVB-S2 - 1080P - 8PSK
+ID: BT_SES_12_SDI (SES)
+CW: 21 31 AA FC AC 24 21 F1
+---FEED-SEPARATOR---
+England EFL Cup, Round 3
+West Ham United vs Fulham
+Asiasat 5 (100.5°E) C BAND
+3975 V 7119
+4:2:0
+ - DVB-S2 - 1080P - 8PSK
+ID:BT_SES_6_SDI (SES)
+CW: 21 31 DD 2F CC 24 22 12
+---FEED-SEPARATOR---
+England EFL Cup, Round 3
+Ipswich Town vs Arsenal
+Asiasat 5 (100.5°E) C BAND
+4133 H 7119
+4:2:0
+ - DVB-S2 - 1080P - 8PSK
+ID:BT_SES_10_SDI (SES)
+CW: 55 32 DD 64 CC 24 21 11
