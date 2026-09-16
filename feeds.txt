@@ -1,3 +1,36 @@
+Asiasat 5 @ 100.5°E
+3840 H 30001 C-Band
+ID: OCC 1 
+(Provider ID: Servicios Audiovisuales Overon, S L)
+MPEG4 | DVB-S2
+1920x1080i |10,89Mb/Sec |8PSK| 
+4:2:2
+ FHD
+Event: CONMEBOL – Copa Sudamericana (2nd Leg Quarterfinals)
+Teams: São Paulo vs Boca Juniors
+Time / Kickoff: 07.30 JKT-TH / 08.30 MY-SG / 00.30 GMT / 02.30 CET
+Mo_ha said:
+CW: D4 A2 23 99 CB 67 BB ED
+Click to expand...
+---FEED-SEPARATOR---
+Mo_ha said:
+Copa Sudamericana
+São Paulo (BRA) vs Boca Juniors (ARG) 
+Hotbird 13B/13C/13G @ ( 13.0E )
+12707 H 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: Sao Paulo (BRA) vs Boca Juniors (ARG) - INGLES EUROPA
+CW: : D4 A2 23 99 CB 67 BB ED
+Click to expand...
+47W SES14 C 
+4135V10000
+SAO VS BOC SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+SAO PABLO VS BOCA JUNIORS 
+---FEED-SEPARATOR---
 Copa Sudamericana
 Vasco da Gama (BRA) vs Independiente Santa Fe (COL)
 58.0W Intelsat 21
@@ -20,3 +53,190 @@ BARIND
 DVB-S2 4.2.0 1080I 
 FÚTBOL COLOMBIANO SERIE B 
 CW: 08 15 F7 14 60 A0 D1 D1
+---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird 13B/13C/13E ( 13.0E )
+11676 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE
+Event: 
+Men's European Volleyball Championship - Denmark vs Serbia
+CW: FF FE D0 CD 91 6E 60 5F
+Click to expand...
+Event: 
+Men's European Volleyball Championship - Netherlands vs Estonia
+New CW: 
+FF 
+FA
+ D0 
+C9
+ 91 6E 60 5F
+---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird 13B/13C/13E ( 13.0E )
+11676 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE
+Event: 
+Men's European Volleyball Championship - Denmark vs Serbia
+CW: FF FE D0 CD 91 6E 60 5F
+Click to expand...
+new cw pls?
+---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird 13B/13C/13E ( 13.0E )
+12601 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA349 CEV MODENA
+Event: 
+Men's European Volleyball Championship - Greece vs Sweden
+CW: D0 91 5E BF 60 FF 99 F8
+Click to expand...
+new cw pls?
+---FEED-SEPARATOR---
+Men's European Volleyball Championship
+Türkiye vs Latvia 
+Hot Bird 13.0E
+10838 V 7200
+4.2.0
+ - DVB-S2 - 8PSK
+ID:  CEV RO ROU-038 MAIN
+CW: FF 31 D0 00 91 6E 60 5F
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+11676 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: YLE
+Event: 
+Men's European Volleyball Championship - Denmark vs Serbia
+CW: FF FE D0 CD 91 6E 60 5F
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+12610 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: TUR-161 Main
+Event: 
+Men's European Volleyball Championship - Israel vs North Macedonia
+CW: FF 77 D0 46 91 6E 60 5F
+---FEED-SEPARATOR---
+England EFL Cup, Round 3
+Asiasat 5 (100.5°E) C BAND
+4124 H 7119
+4:2:0
+ - DVB-S2 - 1080P - 8PSK
+ID:  BT_SES_10_SDI (SES)
+CW: 33 14 BB 02 AC 24 22 F2
+---FEED-SEPARATOR---
+England EFL Cup, Round 3
+Asiasat 5 (100.5°E) C BAND
+4133 H 7119
+4:2:0
+ - DVB-S2 - 1080P - 8PSK
+ID:   BT_SES_4_SDI (SES)
+CW: 33 31 AB 0F DD 24 22 23
+---FEED-SEPARATOR---
+28.2E
+12507 H 7200 4:2:0
+DVB-S2 - 8PSK
+ID UKI-1797 ITV Sport Man U v 
+Brighton Backup
+CW: AB 12 AD 6A 52 CD 25 44
+English League Cup - Round of 32
+Manchester United v Brighton H.A.
+---FEED-SEPARATOR---
+archiesat said:
+			28.2E
+12507 H 7200 4:2:0
+DVB-S2 - 8PSK
+ID 
+Liverpool v Spurs BU
+CW: 6B 14 AA 29 52 CD 24 43
+English League Cup - Round of 32
+Liverpool v Tottenham Hotspur
+Click to expand...
+Back 16/09/26 need new CW
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3815 V 7199 C-Band
+ID: Fi18_GNVE 
+(Provider ID: EBUER)
+MPEG4 | DVB-S2
+1920x1080i |13,60Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: FIFA U-20 Women's World Cup Poland 2026™
+Teams: Argentina U20 vs South Korea U20
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 15.00 CET
+Mo_ha said:
+CW: 10 B6 51 17 03 0E 7F 90
+Click to expand...
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Asiasat 5 (100.5°E) C BAND
+3806 V 7200
+4:2:0 - DVB-S2 - 1080P - 8PSK
+ID: Fi17GNVE
+CW: 10 A3 08 BB AF 7F 20 4E
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Asiasat 5 (100.5°E) C BAND
+3814 V 7200
+4:2:0 
+- DVB-S2 - 1080P - 8PSK
+ID: Fi18_GNVE
+CW: 10 B6 51 17 03 0E 7F 90
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+12527 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: FIFA U20SOSN 2B
+CW: : 10 B6 51 17 03 0E 7F 90
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+12536 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: FIFAU20 BB PATH2 BU
+CW: : 10 A3 08 BB AF 7F 20 4E
+---FEED-SEPARATOR---
+UEFA Europa League
+Anderlecht vs Lyon
+Hotbird 13B/13C/13G @ ( 13.0E )
+11213 V 7200
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: Anderlecht-OL Bi
+CW: : DC AA 45 CB 67 11 12 8A
+---FEED-SEPARATOR---
+ 42.0°E
+ 11460 V 6799
+ 1920*1080 | 8PSK | 4:2:2
+ tur 141 a
+ UEL Round 1 | Beşiktaş-Marseille
+ 42 97 00 D9 00 42 97 D9
+---FEED-SEPARATOR---
+UEFA Europa League
+Anderlecht vs Lyon
+Hotbird 13B/13C/13G @ ( 13.0E )
+11614 V 17140
+DVB-S2 - 
+4:2:2
+ - H.264/AVC
+ID: Anderlecht-OL
+CW: : DC AA 45 CB 67 11 13 8B
+---FEED-SEPARATOR---
+Superbet Greek Cup
+GS Niki Volou vs Asteras Tripolis
+Hotbird 13B/13C/13G @ ( 13.0E )
+11061 V 7199 
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: E 73 MAIN
+CW: : AD 24 69 3A F2 A8 3C D6
