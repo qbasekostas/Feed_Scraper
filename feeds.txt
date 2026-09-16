@@ -1,3 +1,21 @@
+47W SES14 C 
+4044H10000
+ATL VS SAN SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA SUDAMERICANA 
+ATLETICO MINEIRO VS SANTOS 
+CW: C6 7A DC 1C B9 DA DE 71
+---FEED-SEPARATOR---
+Copa Libertadores
+LDU Quito (ECU) vs Palmeiras (BRA)
+Hotbird 13B/13C/13G @ ( 13.0E )
+12689 H 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: LDU Quito (ECU) vs Palmeiras (BRA)
+CW: : E4 21 CB D0 7A DA C5 19
+---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3840 H 30001 C-Band
 ID: OCC 1 
@@ -54,45 +72,13 @@ DVB-S2 4.2.0 1080I
 FÚTBOL COLOMBIANO SERIE B 
 CW: 08 15 F7 14 60 A0 D1 D1
 ---FEED-SEPARATOR---
-Verdeoro said:
-Hot Bird 13B/13C/13E ( 13.0E )
-11676 H 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: YLE
-Event: 
-Men's European Volleyball Championship - Denmark vs Serbia
-CW: FF FE D0 CD 91 6E 60 5F
-Click to expand...
-Event: 
-Men's European Volleyball Championship - Netherlands vs Estonia
-New CW: 
-FF 
-FA
- D0 
-C9
- 91 6E 60 5F
----FEED-SEPARATOR---
-Verdeoro said:
-Hot Bird 13B/13C/13E ( 13.0E )
-11676 H 7200
-DVB-S2 - 4:2:0 - 8PSK
-ID: YLE
-Event: 
-Men's European Volleyball Championship - Denmark vs Serbia
-CW: FF FE D0 CD 91 6E 60 5F
-Click to expand...
-new cw pls?
----FEED-SEPARATOR---
-Verdeoro said:
 Hot Bird 13B/13C/13E ( 13.0E )
 12601 V 7200
 DVB-S2 - 4:2:0 - 8PSK
 ID: ITA349 CEV MODENA
 Event: 
-Men's European Volleyball Championship - Greece vs Sweden
-CW: D0 91 5E BF 60 FF 99 F8
-Click to expand...
-new cw pls?
+Men's European Volleyball Championship - Czech Republic vs Slovenia
+CW: FF 99 D0 68 91 6E 60 5F
 ---FEED-SEPARATOR---
 Men's European Volleyball Championship
 Türkiye vs Latvia 
@@ -109,7 +95,7 @@ DVB-S2 - 4:2:0 - 8PSK
 ID: YLE
 Event: 
 Men's European Volleyball Championship - Denmark vs Serbia
-CW: FF FE D0 CD 91 6E 60 5F
+CW: FF FA D0 C9 91 6E 60 5F
 ---FEED-SEPARATOR---
 Hot Bird 13B/13C/13E ( 13.0E )
 12610 V 7200
@@ -119,7 +105,78 @@ Event:
 Men's European Volleyball Championship - Israel vs North Macedonia
 CW: FF 77 D0 46 91 6E 60 5F
 ---FEED-SEPARATOR---
+EFL Carabao Cup
+Coventry City vs Aston Villa
+Hotbird 13B/13C/13G @ ( 13.0E )
+12680 H 7119
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Pitch Carabao Coventry City V Aston Villa
+CW: : 12 32 CC 10 AA 24 21 EF
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Manchester United vs Brighton 
+Hotbird 13B/13C/13G @ ( 13.0E )
+12698 H 7119
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Pitch Man United v Brighton Carabao R3
+CW: : 33 14 BB 02 AC 24 22 F2
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Fleetwood vs Sheffield Utd
+Hotbird 13B/13C/13G @ ( 13.0E )
+11694 H 7119
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Pitch Carabao Cup R3 - Fleetwood v Sheffield United
+CW: : 42 45 DA 61 AA 24 21 EF
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Everton vs Wolverhampton Wanderers
+Hotbird 13B/13C/13G @ ( 13.0E )
+11685 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Pitch Carabao Everton v Wolves
+CW: : 33 31 AB 0F DD 24 22 23
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3994 V 7119 C-Band
+ID: BT_SES_2_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,20Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Carabao Cup 2026/27
+Teams: Coventry City vs Aston Villa
+Time / Kickoff: 
+02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00
+ CET
+CW: 12 32 CC 10 AA 24 21 EF
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3985 V 7119 C-Band
+ID: BT_SES_6_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,26Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Carabao Cup 2026/27
+Teams: Fleetwood Town vs Sheffield United
+Time / Kickoff: 
+01.45 JKT-TH / 02.45 MY-SG / 18.45 GMT / 20.45
+ CET
+CW: 42 45 DA 61 AA 24 21 EF
+---FEED-SEPARATOR---
 England EFL Cup, Round 3
+Manchester United vs Brighton & Hove Albion
 Asiasat 5 (100.5°E) C BAND
 4124 H 7119
 4:2:0
@@ -128,6 +185,7 @@ ID:  BT_SES_10_SDI (SES)
 CW: 33 14 BB 02 AC 24 22 F2
 ---FEED-SEPARATOR---
 England EFL Cup, Round 3
+Everton vs Wolverhampton Wanderers
 Asiasat 5 (100.5°E) C BAND
 4133 H 7119
 4:2:0
@@ -143,18 +201,6 @@ Brighton Backup
 CW: AB 12 AD 6A 52 CD 25 44
 English League Cup - Round of 32
 Manchester United v Brighton H.A.
----FEED-SEPARATOR---
-archiesat said:
-			28.2E
-12507 H 7200 4:2:0
-DVB-S2 - 8PSK
-ID 
-Liverpool v Spurs BU
-CW: 6B 14 AA 29 52 CD 24 43
-English League Cup - Round of 32
-Liverpool v Tottenham Hotspur
-Click to expand...
-Back 16/09/26 need new CW
 ---FEED-SEPARATOR---
 Asiasat 5 @ 100.5°E
 3815 V 7199 C-Band
