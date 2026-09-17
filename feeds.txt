@@ -37,6 +37,16 @@ Traffic: 12.96 Mbps)
 ID: Corinthians (BRA) vs Estudiantes de la Plata (ARG) - INGLES EU
 CW: CB 71 AD E9 45 DD C6 E8
 ---FEED-SEPARATOR---
+Verdeoro said:
+CW: D8 F5 61 2E 07 C1 59 21
+Click to expand...
+Eutelsat 7B/7C @ 7.0°E
+11124 V 7200
+DVB-S2 - 4:2:0 - 8PSK - H265
+ID: RAI ITA 887 A
+Event: 
+Men's European Volleyball Championship - Italy vs Slovenia
+---FEED-SEPARATOR---
 Albahraniy said:
 Men's European Volleyball Championship
 Serbia vs Belgium
@@ -82,6 +92,24 @@ Hot Bird 13.0E
  - DVB-S2 - 8PSK
 ID: YLE
 CW: E6 0F FC F1 BD 09 17 DD
+---FEED-SEPARATOR---
+England League One
+AFC Wimbledon vs Milton Keynes Dons
+Hotbird 13B/13C/13G @ ( 13.0E )
+12680 H 7119
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: EFL Wimbledon v MK Dons
+CW: : 26 78 65 03 43 32 57 CC
+---FEED-SEPARATOR---
+EFL
+AFC Wimbledon VS Milton Keynes Dons
+AsiaSat 5 - 100.5 E - CBand
+TP : 3967 V 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID: BT_SES_2_SDI
+CW : 26 78 65 03 43 32 57 CC
 ---FEED-SEPARATOR---
 EFL Carabao Cup
 Manchester City vs Norwich
@@ -166,6 +194,38 @@ DVB-S2 -
 - 8PSK
 ID: FIFAU20 BB PATH2 MN 
 CW: : 11 B4 3C 01 E3 E3 BD 83
+---FEED-SEPARATOR---
+UEFA Europa League - Matchday 1
+Beşiktaş JK vs Olympique de Marseille
+Celtic vs Ferencváros
+Hot Bird 13B/13C/13E ( 13.0E )
+12424 H 7500
+DVB-
+S2
+ -
+4:2:0
+ - 8PSK
+ID: Ring A ENC-23
+ID: Ring B EN-24
+CW
+: FTA
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+11614 V 10000
+DVB-S2 - 4:2:2 - 8PSK - H265
+ID: E363 FEEDA
+Event: 
+Uefa Europa League - Besiktas vs Olympique Marsiglia
+CW: BA DA 85 19 46 DA BA DA
+---FEED-SEPARATOR---
+1W
+11464 V 7200 
+4.2.0
+DVBS-2 8PSK
+ID: ITV Racing Haydock Main
+CW: 94 67 F6 F1 E3 D8 44 FF
+UEFA Europa League - League Phase: Round 1
+Celtic v Ferencváros
 ---FEED-SEPARATOR---
 Euroleague, Round 1
 Eutelsat 16A @ 16.0E
