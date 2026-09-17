@@ -1,4 +1,12 @@
 47W SES14 C 
+4055H10000
+COR VS EST SPA
+DVB-S2 4.2.2 1080I 
+CONMEBOL COPA LIBERTADORES 
+CORINTHIANS VS ESTUDIANTES 
+CW: CB 71 AD E9 45 DD C6 E8
+---FEED-SEPARATOR---
+47W SES14 C 
 3849H6666 
 NACCAL
 DVB-S2 4.2.0 1080I 
@@ -15,3 +23,154 @@ DVB-S2 -
  - 8PSK
 ID: Atletico Mineiro (BRA) vs Santos (BRA) 
 CW: : 28 AA 29 FB 1C DE E6 E0
+---FEED-SEPARATOR---
+Eutelsat Hot Bird 13 (13.0°E)
+Freq: 
+12696
+ Pol: 
+H
+ SR: 
+7200
+Yuv: 
+MPEG-4 4:2:2 (
+Traffic: 12.96 Mbps)
+ID: Corinthians (BRA) vs Estudiantes de la Plata (ARG) - INGLES EU
+CW: CB 71 AD E9 45 DD C6 E8
+---FEED-SEPARATOR---
+Albahraniy said:
+Men's European Volleyball Championship
+Serbia vs Belgium
+Hot Bird 13.0E
+12591 V 7200
+4.2.0
+ - DVB-S2 - 8PSK
+ID: YLE
+CW: E6 0F FC F1 BD 09 17 DD
+Click to expand...
+Event: 
+Men's European Volleyball Championship - Finland vs Estonia
+New CW: 
+E6 0F FF F4 FD 09 17 1D
+---FEED-SEPARATOR---
+Albahraniy said:
+Men's European Volleyball Championship
+Serbia vs 
+Belgium
+Hot Bird 13.0E
+12591 V 7200
+4.2.0
+ - DVB-S2 - 8PSK
+ID: YLE
+CW: E6 0F FC F1 BD 09 17 DD
+Click to expand...
+New cw
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+12601 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA349 CEV MODENA
+Event: 
+Men's European Volleyball Championship - Slovakia vs Greece
+CW: E6 0F F9 EE 9D 09 17 BD
+---FEED-SEPARATOR---
+Men's European Volleyball Championship
+Serbia vs 
+Belgium
+Hot Bird 13.0E
+12591 V 7200
+4.2.0
+ - DVB-S2 - 8PSK
+ID: YLE
+CW: E6 0F FC F1 BD 09 17 DD
+---FEED-SEPARATOR---
+EFL Carabao Cup
+Manchester City vs Norwich
+Hotbird 13B/13C/13G @ ( 13.0E )
+12705 H 7119
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: Pitch Carabao Man City V Norwich
+CW: : 23 14 AA E1 CC 24 22 12
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 3975 V 7120
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID: BT_SES_4_SDI
+CW : 23 14 AA E1 CC 24 22 12
+Manchester City vs Norwich
+---FEED-SEPARATOR---
+World Cup Qualifiers 2025, Replay 
+Czech Republic vs Croatia 
+Hot Bird 13B/13C/13E @ ( 13.0E )
+11696 H 3600
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: SLQ-010
+CW
+: FTA
+---FEED-SEPARATOR---
+Event: Women's Football: U-20 World Cup – Poland 2026 – Round of 16 match: Poland vs. Colombia
+Eutelsat 16A 16° E
+10973 V 9601
+ID: POL 030
+4.2.0
+- DVB-S2 - 8PSK
+CW: AB BA 26 8B DC AE 09 93
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3815 V 7199 C-Band
+ID: Fi18_GNVE 
+(Provider ID: EBUER)
+MPEG4 | DVB-S2
+1920x1080i |13,30Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: FIFA U-20 Women's World Cup Poland 2026™ (Round of 16)
+Teams: England U20 vs Nigeria U20
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 15.00 CET
+Mo_ha said:
+CW: 11 B4 3C 01 E3 E3 BD 83
+Click to expand...
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3806 V 7199 C-Band
+ID: Fi17GNVE 
+(Provider ID: EBUER)
+MPEG4 | DVB-S2
+1920x1080i |13,56Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: FIFA U-20 Women's World Cup Poland 2026™ (Round of 16)
+Teams: France U20 vs Canada U20
+Time / Kickoff: 20.00 JKT-TH / 21.00 MY-SG / 13.00 GMT / 15.00 CET
+Mo_ha said:
+CW: 11 A0 39 EA 1C 78 32 C6
+Click to expand...
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+12536 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: backup - E-285
+CW: : 11 A0 39 EA 1C 78 32 C6
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+12527 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: FIFAU20 BB PATH2 MN 
+CW: : 11 B4 3C 01 E3 E3 BD 83
+---FEED-SEPARATOR---
+Euroleague, Round 1
+Eutelsat 16A @ 16.0E
+12506 H 7200
+4.2.0
+ - DVB-S2 - 8PSK
+ID:  Cubic073-A
+CW: 9C 7C C2 DA 50 58 4A F2
