@@ -65,6 +65,46 @@ Event:
 Volleyball - Torneo Mimmo Fusco 
 CW: 4A 20 73 DD 07 C1 D1 99
 ---FEED-SEPARATOR---
+Scottish Championship
+Queen's Park FC vs Ayr United
+Eutelsat 16A ( 16.0E )
+12693 V 10000
+ID: Uki-1592
+12705 V 10000
+ID: Service 01
+12713 V 2000
+ID: Service 01
+DVB-S2 - 
+4:2:0
+ - 8PSK
+CW
+: FTA
+---FEED-SEPARATOR---
+safrifulkamal said:
+CW: 38 56 FE 8C 59 25 11 8F
+Click to expand...
+Hotbird 13B/13C/13G @ ( 13.0E )
+11088 V 7120
+DVB-S2 - 4:2:0 - 8PSK
+ID: Pitch EFL - Bristol City v Watford
+Event: 
+England - EFL Championship - Bristol City vs Watford
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3966 V 7119 C-Band
+ID: BT_SES_24_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |12,19Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL Championship Matchday 8
+Teams: Bristol City vs Watford
+Time / Kickoff: 
+02.00 JKT-TH / 03.00 MY-SG / 19.00 GMT / 21.00
+ CET
+CW: 38 56 FE 8C 59 25 11 8F
+---FEED-SEPARATOR---
 U20 Intercontinental Cup
 Real Madrid vs Santiago Wanderers
 Hotbird 13B/13C/13G @ ( 13.0E )
