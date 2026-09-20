@@ -1,3 +1,11 @@
+10E
+10721 H 7500
+4.2.0
+ID: AFD
+Liga Profesional de Fútbol
+San Lorenzo de Almagro - Boca Juniors
+CW: C6 66 D1 FD A4 73 9B B2
+---FEED-SEPARATOR---
 Argentine First Division
 River Plate vs Huracán
 Eutelsat 10A @ ( 10.0E )
@@ -15,6 +23,14 @@ ID: TUR-161 Main
 Men's European Volleyball Championship
 Ukraine - Romania
 CW: E6 0F F7 EC 7D 09 20 A6
+---FEED-SEPARATOR---
+10E
+11246 H 7200
+4.2.0
+ID: ITA349 CEV TORINO
+Men's European Volleyball Championship
+Italy - Denmark
+CW: B3 0F F2 B4 6D 09 20 96
 ---FEED-SEPARATOR---
 10E
 10744 V 7200
@@ -105,6 +121,18 @@ DVB-S2 -
 - 8PSK
 ID: Fi01 ACB
 CW: : D3 36 A4 AD 1A 3C B6 0C
+---FEED-SEPARATOR---
+N
+Post in thread 'Encrypted Feeds (Requests for Keys Only. DO NOT POST KEYS IN THIS THREAD!!! USE THE KEYS SECTION)'
+Today at 19:32
+Hotbird 13B/13C/13G @ 13.0°E
+10802 H 7200
+ID: TANDBERG
+Keys please? Thank you
+ntkon130
+SUPER LEAGUE
+KALAMATA | PANATHINAIKOS 
+CW: 49 10 6D C6 C5 E4 FE A7
 ---FEED-SEPARATOR---
 Greece Super League
 LEVADIAKOS FC VS OLIMPIAKOS FC
