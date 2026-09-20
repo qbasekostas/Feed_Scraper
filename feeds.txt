@@ -1,0 +1,117 @@
+Argentine First Division
+River Plate vs Huracán
+Eutelsat 10A @ ( 10.0E )
+11246 H 7500
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: AFD-LPF
+CW: : C6 66 D1 FD A4 73 9B B2
+---FEED-SEPARATOR---
+10E
+10744 V 7200
+4.2.0
+ID: TUR-161 Main
+Men's European Volleyball Championship
+Ukraine - Romania
+CW: E6 0F F7 EC 7D 09 20 A6
+---FEED-SEPARATOR---
+10E
+10744 V 7200
+4.2.0
+ID: TUR-161 Main
+Men's European Volleyball Championship
+France - Portugal
+CW: C5 0F F7 CB 7D 09 20 A6
+---FEED-SEPARATOR---
+10E
+11246 H 7200
+4.2.0
+ID: ITA
+Men's European Volleyball Championship
+Finland - Greece
+CW: E6 0F F2 E7 6D 09 20 96
+now encrypted
+---FEED-SEPARATOR---
+28.2E 
+12619 V 7119 420 MPEG4 HD FTA 
+ID: Cloudbass | UKI38
+SWPL 1 WOMEN
+RANGERS | ABERDEEN 
+KO 17:10 CET
+---FEED-SEPARATOR---
+Premier League
+Manchester City
+Sunderland
+Eutelsat 3E
+10960 H 7500
+10970 H 7500 
+BeiN Sport
+Service 
+CW: 51 3B 68 F4 8C 30 5E 1A
+CW: 82 29 C6 71 5A D7 DF 10
+---FEED-SEPARATOR---
+1.0°W
+11086 V 7200
+4:2:2
+ID: UKI1866 M8 main
+CW: C0 70 27 57 2A A5 2D FC
+EPL: AFC Bournemouth - Liverpool
+---FEED-SEPARATOR---
+England Championship
+Wolverhampton vs West Bromwich Albion
+Hotbird 13B/13C/13G @ ( 13.0E )
+11088 V 7119
+DVB-S2 -
+ 4:2:0 
+- 8PSK
+ID: Pitch EFL Wolves v West Brom
+CW: : 32 02 FA 2E DE 21 34 33
+---FEED-SEPARATOR---
+1W
+11465 V 7200
+ 4:2:0
+DVBS2 8PSK
+ID: No name
+CW: F1 83 1B 8F F4 A9 16 B3
+Scotland Premiership
+Celtic vs Rangers
+---FEED-SEPARATOR---
+100.5e
+3967 V 7120
+4:2:0
+ID: 
+BT_SES_20_SDI
+Championship
+Wolves  vs  West Brom
+B9 86 4C 79 D8 BB 6E C7  #CW: 
+32 02 FA 2E DE 21 34 33
+---FEED-SEPARATOR---
+16E
+12537 H 7200
+4.2.0
+ID: Main E-285
+FIFA U-20 Women's World Cup
+Nigeria - Colombia 
+North Korea - Canada
+CW: 13 A8 E5 A0 B1 E2 A3 36
+---FEED-SEPARATOR---
+Supercopa ACB, Spain
+Joventut Badalona vs Barcelona
+Hot Bird 13B/13C/13E ( 13.0E )
+11618 V 7199
+DVB-S2 -
+ 4:2:0 
+- 8PSK
+ID: Fi01 ACB
+CW: : D3 36 A4 AD 1A 3C B6 0C
+---FEED-SEPARATOR---
+Greece Super League
+LEVADIAKOS FC VS OLIMPIAKOS FC
+Hot Bird 13B/13C/13E ( 13.0E )
+11667 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: LEVADIAKOS VS OLIMPIAKOS
+CW: : CE 39 1F 26 03 ED 24 14
