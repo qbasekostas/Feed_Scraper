@@ -1,0 +1,29 @@
+Men's European Volleyball Championship 
+Serbia vs Slovenia
+Hot Bird 13B/13C/13E ( 13.0E )
+12600 V 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ITA349 CEV TORINO
+New CW:
+ E0 53 1E 51 60 FF 26 85
+---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird 13B/13C/13E ( 13.0E )
+12601 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA349 CEV MODENA
+Event: 
+Men's European Volleyball Championship - Belgium vs Czech Republic
+CW: D0 92 1E 80 60 FF 26 85
+Click to expand...
+Back on. New cw
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+12601 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA349 CEV MODENA
+Event: 
+Men's European Volleyball Championship - Belgium vs Czech Republic
+CW: D0 92 1E 80 60 FF 26 85
