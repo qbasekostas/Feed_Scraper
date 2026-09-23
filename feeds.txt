@@ -1,0 +1,155 @@
+Eutelsat 7B/7C @ 7.0°E
+11133 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA396
+Event: 
+Men's European Volleyball Championship - 
+Belgium vs Slovenia
+CW: E6 81 25 8C 07 C2 41 0A
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+12601 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA349 CEV TORINO
+Event: 
+Men's European Volleyball Championship - Belgium vs Slovenia
+CW: E6 0F F2 E7 6D 09 23 99
+---FEED-SEPARATOR---
+16E
+12537 H 7200
+4.2.0
+ID: Main E-285
+FIFA U-20 Women's World Cup
+Italy - Spain 
+North Korea - Colombia
+CW: 14 AB 11 D0 89 28 8F 40
+---FEED-SEPARATOR---
+Intl' Friendly
+Gibraltar vs Sao Tome and Principe
+k/off 17:00pm UK Time
+Hotbird 13B/13C/13G @ ( 13.0E )
+11209 V 14400
+DVB-S2 -
+4:2:2
+- 8PSK
+ID: E-95 International
+CW: : 23 C1 9B 7F AB 9A 09 4E
+---FEED-SEPARATOR---
+INTL' Friendly Football
+Azerbaijan vs Tajikistan
+k/off 
+17:00pm UK Time
+Hotbird 13B/13C/13G @ ( 13.0E )
+11066 V 14400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: AZE-013 MAIN
+CW: : 23 C1 9B 7F AB 9A 09 4E
+---FEED-SEPARATOR---
+Asiasat 5 (100.5°E) C BAND
+4145 V 7200
+4:2:0
+ - DVB-S2 - 1080P - 8PSK
+ID:  Fi17GNVE (EBUER)
+omid1348 said:
+FIFA U-20 Women's World Cup
+Italy - Spain 
+North Korea - Colombia
+CW: 14 AB 11 D0 89 28 8F 40
+Click to expand...
+---FEED-SEPARATOR---
+UEFA Women's Europa Cup - Second qualifying round, 1st leg
+PAOK W - Spartak Myjava W
+39e
+12634 V 7200
+ID: ATLAS-SAT SNG 1
+FTA
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+12687 H 7200
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 6
+UEFA Champions League Women - League phase
+Servette Geneve FC W  VS  OL Lyonnes W
+CW: B0 04 F9 AD C4 9F A5 08
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+12679 H 7200
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 5
+UEFA Champions League Women - League phase
+Leuven W  vs  AS Roma W
+CW: 2F BB 9C 86 F0 4E 6F AD
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+11187 V 9875
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID:  UWCL_M4_Fi12_GNVE
+UEFA Champions League Women - League phase
+Barcelona W  vs  Paris FC W
+CW: 15 6B 0D 8D 6E FE 7F EB
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+11087 V 9875
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: UWCL Match03 main
+UEFA Champions League Women - League phase
+Chelsea W  vs  Austria Vienna W
+FE 2A 15 8E B9 C8 20 11  #CW: 
+75 99 49 57 8B 0A 91 26
+---FEED-SEPARATOR---
+UEFA Women's Champions League
+Oud-Heverlee Leuven VS Roma W
+K/OFF 
+17:45pm UK TIME
+Hotbird 13B/13C/13G @ ( 13.0E )
+11623 V 9875
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: BEL-095 M1 MAIN
+CW: : 17 05 5A 76 15 B4 8C 55
+---FEED-SEPARATOR---
+UEFA Women's Champions League
+Servette W VS Lyon W
+K/OFF 17:45pm UK Time
+Hotbird 13B/13C/13G @ ( 13.0E )
+11635 V 9875
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: SUI25 MD1MATCH2
+CW: : 61 95 34 2A 23 D2 54 49
+---FEED-SEPARATOR---
+UEFA Women's Champions League
+Chelsea vs Austria Vienna 
+Hot Bird 13B/13C/13E ( 13.0E )
+11695 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 4
+CW: : FC C9 34 F9 EC 02 B3 A1
+---FEED-SEPARATOR---
+UEFA Women's Champions League
+Barcelona vs Paris FC 
+Hot Bird 13B/13C/13E ( 13.0E )
+12707 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ENC 7
+CW: : AB 44 41 30 B1 A4 58 AD
+---FEED-SEPARATOR---
+.
+---FEED-SEPARATOR---
+del
