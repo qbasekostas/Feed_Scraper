@@ -27,6 +27,37 @@ ID: POL 030
  DVB-S2 - 8PSK
 CW: AB BA 26 8B DC AE 09 93
 ---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+12610 V 9700
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA349 CEV Milano
+Event: 
+Men's European Volleyball Championship - 
+France vs Poland
+CW: D5 0F F2 D6 6D 09 26 9C
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+10829 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: ITA465 M
+Event: 
+Men's European Volleyball Championship - France vs Poland
+New CW: 
+B7 0F F2 B8 6D 09 26 9C
+---FEED-SEPARATOR---
+Mo_ha said:
+Men's European Volleyball Championship
+FINLAND vs SLOVEINA
+Hot Bird 13B/13C/13E ( 13.0E )
+10829 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ITA465 M
+CW: : E6 0F F2 E7 6D 09 26 9C
+Click to expand...
+New cw
+---FEED-SEPARATOR---
 Men's European Volleyball Championship
 FINLAND vs SLOVEINA
 Hot Bird 13B/13C/13E ( 13.0E )
@@ -76,6 +107,20 @@ Football League Two
 Oldham Athletic A.F.C. - Salford City F.C.
 CW: 21 99 31 EB  35 15 05 4F
 ---FEED-SEPARATOR---
+47W SES14 C 
+4067H10000
+ID: CHI VS CAN
+DVB-S2 4.2.2 1080I 
+CHILE VS CANADA
+CW: ED 45 AD DF C7 88 55 A4
+---FEED-SEPARATOR---
+47W SES14 C 
+4123V10000
+ID: PERU VS EEUU
+DVB-S2 4.2.2 1080I 
+PERU VS ESTADOS UNIDOS 
+CW: AF 45 AC A0 C7 88 56 A5
+---FEED-SEPARATOR---
 FIFA U-20 Women’s World Cup Poland 2026
 Eutelsat 16A @ ( 16.0E )
 12537 H 7199
@@ -84,6 +129,18 @@ DVB-S2 -
  - 8PSK
 ID: Main E-285
 CW: : 15 A4 4A 03 8C E0 89 F5
+---FEED-SEPARATOR---
+UEFA Nations League - League C Group 3 Round 1
+Slovakia vs. Moldova
+Eutelsat 16D @ 16.0°E
+12611 - H - 7200 
+|
+4:2:2
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID
+: HUN022-2-UNLM03
+CW: 13 57 AB 15 CD 24 68 59
 ---FEED-SEPARATOR---
 U21 Euro, Qualification
 Ukraine U21 vs Türkiye U21
@@ -251,6 +308,23 @@ ID: LN23/E266 BILBOko SUAK Via# | 8MM
 SUPERCOPA LF ENDESA 
 1ST SEMIFINAL
 ZARAGOZA | VALENCIA
+---FEED-SEPARATOR---
+ACB, Spain
+Barcelona vs Leyma Coruna
+Hot Bird 13B/13C/13E ( 13.0E )
+10867 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Fi01 ACB
+CW: : AD 80 51 7E 03 FE F1 F2
+---FEED-SEPARATOR---
+28.2E
+12625 H 9598 420 MPEG4 HD BISS
+ID: G19 MAIN | AVP 1080
+LIGA ENDESA
+MORABANC ANDORRA | MONBUS OBRADOIRO
+CW: 13 57 AB 15 CD 24 68 59
 ---FEED-SEPARATOR---
 16E
 12637 H 4937
