@@ -1,0 +1,282 @@
+47W SES14 C 
+3857H6666 
+ID: ONCAT
+DVB-S2 4.2.0 1080I 
+FÚTBOL COLOMBIANO 
+ONCE CALDAS VS ATLETICO BUCARAMANGA 
+CW: 21 CF 89 79 89 E2 29 94
+---FEED-SEPARATOR---
+vakula said:
+			13E
+10829 V 7200 420 MPEG4 HD BISS
+ID: ITA465 M
+2ND SEMIFINAL GAME
+FINLAND | FRANCE
+KO 21:00 CET
+NEW
+CW: BB 26 D0 B1 92 5E 60 50
+Click to expand...
+Back on.  New cw
+---FEED-SEPARATOR---
+Event: Match for the 3rd place of the women's tournament LOTTO Volleyball Giants in Twardogóra: Zeren Ankara – HAOK Mladost Zagreb
+Then the final of ŁKS Commercecon Łódź and KS DevelopRes Rzeszów
+Eutelsat 16A  16° E
+10985 V 9601
+ID: POL 030
+4.2.0
+ DVB-S2 - 8PSK
+CW: AB BA 26 8B DC AE 09 93
+---FEED-SEPARATOR---
+Men's European Volleyball Championship
+FINLAND vs SLOVEINA
+Hot Bird 13B/13C/13E ( 13.0E )
+10829 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ITA465 M
+CW: : E6 0F F2 E7 6D 09 26 9C
+---FEED-SEPARATOR---
+Mo_ha said:
+Men's European Volleyball Championship
+Hot Bird 13B/13C/13E ( 13.0E )
+12609 V 9700
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ITA349 CEV Milano
+New CW
+: AB 26 D0 A1 92 5E 60 50
+Click to expand...
+New cw:A80FF2A96D09269C
+---FEED-SEPARATOR---
+Asiasat 5 @ 100.5°E
+3985 V 7119 C-Band
+ID: BT_SES_14_SDI 
+(Provider ID: SES)
+MPEG4 | DVB-S2
+1920x1080i |11,92Mb/Sec |8PSK| 
+4:2:0
+ FHD
+Event: England - EFL League Two Matchday 8
+Teams: 
+Oldham Athletic vs Salford City
+Time / Kickoff: 
+23.30 JKT-TH / 00.30 MY-SG / 16.30 GMT / 18.30
+ CET
+omid1348 said:
+CW: 21 99 31 EB  35 15 05 4F
+Click to expand...
+---FEED-SEPARATOR---
+13E
+11656 H 7120
+4.2.0
+ID: Pitch EFL Oldham v Stlford
+Football League Two
+Oldham Athletic A.F.C. - Salford City F.C.
+CW: 21 99 31 EB  35 15 05 4F
+---FEED-SEPARATOR---
+FIFA U-20 Women’s World Cup Poland 2026
+Eutelsat 16A @ ( 16.0E )
+12537 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Main E-285
+CW: : 15 A4 4A 03 8C E0 89 F5
+---FEED-SEPARATOR---
+U21 Euro, Qualification
+Ukraine U21 vs Türkiye U21
+Eutelsat 16A @ ( 16.0E )
+12648 V 7199
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: SLQ-010 Main
+CW: : 26 09 BB EA 32 DA CA D6
+---FEED-SEPARATOR---
+U21 Euro, Qualification
+Latvia U21 vs Germany U21
+Hotbird 13B/13C/13G @ ( 13.0E )
+11061 V 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: LAT-002
+CW: : BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
+UEFA Nations League
+Faroe Islands vs Kazakhstan
+Hot Bird 13.0E
+11613 V 14400
+4.2.2
+ - DVB-S2 - 1080P - 8PSK
+ID: CZE-012 M07 BACKUP
+CW: 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League
+England vs Spain
+Eutelsat 16A @ ( 16.0E )
+11139 H 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: UKI1956 Match08 Backup
+CW: : 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League
+Czech Republic vs Croatia
+Eutelsat 16A @ ( 16.0E )
+11127 H 9874
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: CZE041 M UNLM7
+CW: : 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League
+North Macedonia vs Switzerland
+Hotbird 13B/13C/13G @ ( 13.0E )
+11632 V 14400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: YSM-012-M9-BU
+CW: : 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League
+North Macedonia vs Switzerland
+Eutelsat 16A @ ( 16.0E )
+11151 H 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: YSM-016-1-UNLM1
+CW: : 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League
+Albania vs Belarus
+Hotbird 13B/13C/13G @ ( 13.0E )
+11612 H 14400
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: BUL007 UNL M6 Main
+CW: : 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League
+Slovakia vs Moldova
+Hotbird 13B/13C/13G @ ( 13.0E )
+11633 H 14400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: SLQ-008 M10 BU
+CW: : 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League
+Bulgaria vs Luxembourg
+Hot Bird 13F/13G @ ( 13.0E )
+11084 V 14400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: UNL MD1 M2 BUL006 main
+CW: : 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+13.0°E
+11208 V 14400
+4:2:2
+ID: ISL-RKS-002-M04-MAIN
+Nations League
+Iceland
+Estonia
+CW: 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League
+San Marino vs Finland
+Hot Bird 13.0E
+11594 H 14400
+4.2.2
+ - DVB-S2 - 1080P - 8PSK
+ID:ITA198 NTF M5 Main 
+CW: 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League
+Bulgaria vs Luxembourg
+Hot Bird 13.0E
+11183 V 14400
+4.2.2
+ - DVB-S2 - 1080P - 8PSK
+ID: UNL MD1 M2 BUL006 backup
+CW: 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+omid1348 said:
+19.2E
+11502 V 9875
+11515 V 9875
+4.2.2
+ID: UKI-1324 BCK
+ID: UKI-1324 Path 1
+UEFA Nations League
+Slovenia vs Scotland (
+TOMORROW
+)
+CW: DB 7
+8 
+D0 23 8A A1 20 4B
+Click to expand...
+NEW CW
+: DC EB AF 76 E3 10 39 2C
+---FEED-SEPARATOR---
+13.0°E
+11190 V 14400
+4:2:2
+ID:  HOL311-2-UNL-M3
+Nations League
+Faroe Islands
+Kazakhstan
+CW: 26 C1 9B 82 AB 9A 09 4E
+---FEED-SEPARATOR---
+13.0°E
+11066 V 14400
+4:2:2
+ID: UKI-1462-M1-MAIN
+CW: 26 C1 9B 82 AB 9A 09 4E
+Nations League: Slovenia - Scotland
+---FEED-SEPARATOR---
+28.2E 
+12643 H 7199 420 MPEG4 HD FTA
+ID: LN23/E266 BILBOko SUAK Via# | 8MM 
+SUPERCOPA LF ENDESA 
+1ST SEMIFINAL
+ZARAGOZA | VALENCIA
+---FEED-SEPARATOR---
+16E
+12637 H 4937
+4.2.0
+ID: HUN-013 Line 1
+women's basketball league
+ in 
+Hungary
+KSC Szekszárd - NKA Universitas Pecs
+CW: CC BD 63 EC 49 DB CF F3
+---FEED-SEPARATOR---
+21.6E
+11580 H 4937
+4.2.0
+ID: Grapefruit
+FIBA West Asia Super League
+Ittihad Club - Al Kuwait SC
+⁠Al Riyadi Beirut Club - Indian Railways
+CW: 00 D2 91 63 77 C8 88 C7
+---FEED-SEPARATOR---
+Event: Men's basketball: Polish Super Cup - semi-final match: Legia Warszawa - Energa Trefl Sopot next Men's basketball: Polish Super Cup - semi-final match: Dziki Warszawa - Zastal Zielona Góra
+Eutelsat 7C  7° E
+11103 V  7200
+ID: POL-058_ch1
+4.2.2
+- DVB-S2 - 8PSK
+CW: A1 B2 C3 16 D4 E5 F6 AF
+thank you 
+@Verdeoro
