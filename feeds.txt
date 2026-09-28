@@ -1,0 +1,196 @@
+16E
+12593 H 7200
+4.2.0
+ID: Unname
+UEFA Nations League
+Belgium - France
+FTA
+---FEED-SEPARATOR---
+UEFA Nations League 
+Northern Ireland vs Hungary
+Eutelsat 16D @ ( 16.0E )
+12705 V 10000
+ID: NI HUNGARY CLEAN RESERVE
+12693 V 10000
+ID: BBC DIRTY NI HUNGARY
+DVB-S2 - 
+4:2:2
+ - 8PSK
+CW
+: FTA
+---FEED-SEPARATOR---
+U21 Friendly Games
+North Macedonia U21 vs Russia U21
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11607 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: EN8000
+CW: : 20 26 AA F0 DD 20 26 23
+---FEED-SEPARATOR---
+AsiaSat 5 - 100.5 E - CBand
+TP : 4147 H 7200
+DVB S2 - 8PSK - 1080i - H.264 - 4:2:0
+ID: TXout-1 RXout-9
+CW : BC2619FB80A92851
+South Korea vs Uruguay
+---FEED-SEPARATOR---
+UEFA Nations League
+Belgium vs France
+Eutelsat 10A @ ( 10.0E )
+11263 V 14400
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TF1 MAIN
+CW: : 20 26 09 4F 28 FE ED 13
+---FEED-SEPARATOR---
+UEFA Nations League - League B Group 4 Round 1
+Sweden vs. Poland
+Eutelsat 16D @ 16.0°E
+11140 - H - 9875 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: SWE-043 - M07 - B Backup
+CW: 28 C1 9B 84 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League - League A Group 1 Round 1
+Belgium vs. France
+Eutelsat 16D @ 16.0°E
+11128 - H - 9875 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: BEL-095 - M4 - MAIN
+CW: 28 C1 9B 84 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League - League A Group 1 Round 1
+Türkiye vs. Italy
+Hot Bird 13F/13G @ 13.0°E
+11613 - H - 14400 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: TUR-057 M8 M MAIN
+CW: 28 C1 9B 84 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League - League B Group 2 Round 1
+Northern Ireland vs. Hungary
+Hot Bird 13F/13G @ 13.0°E
+11208 - V - 14400 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: IRL015 M5EUR MAIN
+CW: 28 C1 9B 84 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League - League A Group 1 Round 1
+Türkiye vs. Italy
+Eutelsat 16D @ 16.0°E
+11152 - H - 9875 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: TUR-034 M8 B MAIN
+CW: 28 C1 9B 84 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League - League B Group 4 Round 1
+Romania vs. Bosnia-Herzegovina
+Hot Bird 13F/13G @ 13.0°E
+11595 - H - 14400 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: ROU-038 - 2 - UNLM6
+CW: 28 C1 9B 84 AB 9A 09 4E
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11190 - V - 14400 |
+4:2:2
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID: LTU-005 -M3 -Main
+Event: 
+UEFA Nations League - Latvia vs Cyprus
+CW: 28 C1 9B 84 AB 9A 09 4E
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11084 - V - 14400 |
+4:2:2
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID: E 363 UNL M2 M
+Event: 
+UEFA Nations League - Georgia vs Ukraine
+CW: 28 C1 9B 84 AB 9A 09 4E
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11065 - V - 14400 |
+4:2:2
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID: E360 UNL-M1 M
+Event: 
+UEFA Nations League - 
+Armenia vs Montenegro
+CW: 28 C1 9B 84 AB 9A 09 4E
+---FEED-SEPARATOR---
+UEFA Nations League A - League Group 1 Round 2
+Belgium vs. France
+Eutelsat 7C @ 7.0°E
+10998 - H - 7200 
+|
+4:2:0
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID
+: 2Sat HOL318 Main
+CW: 20 26 09 4F 28 FE ED 13
+---FEED-SEPARATOR---
+UEFA Nations League A - League Group 1 Round 2
+Türkiye vs. Italy
+Eutelsat 7C @ 7.0°E
+11127 - V - 14400 
+|
+4:2:0
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID
+: TUR139-Main
+CW: DC 65 F7 38 10 D3 5E 41
+---FEED-SEPARATOR---
+Eutelsat 16A (16.0 E)
+12520 Horizontal 4936,163 3/4
+DVB-S2/8PSK (4:2:0)
+YSM-013M
+---FEED-SEPARATOR---
+42E
+10974 V 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Manisa - Esenler Erokspor
+CW: 83 54 C3 9A 1A 4C DC 42
+---FEED-SEPARATOR---
+21.6E
+11580 H 4937
+4.2.0
+ID: Grapefruit
+FIBA West Asia Super League
+Indian Railways - Al Ittihad
+Kuwait SC - Al-Riyadi
+CW: 58 27 A2 21 27 A5 70 3C
