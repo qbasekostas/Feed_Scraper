@@ -5,3 +5,312 @@ DVB-S2 4.2.0 1080I
 FÚTBOL COLOMBIANO SERIE A 
 DEPORTIVO PEREIRA VS SANTA FE
 CW: 2F 07 C8 FE 23 12 F7 2C
+---FEED-SEPARATOR---
+U21 Euro, Qualification
+Romania U21 vs Finland U21
+Eutelsat 16D @ ( 16.0E )
+11104 H 10000 
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: SNG 022 MAIN
+CW
+: FTA
+---FEED-SEPARATOR---
+U21 Euro, Qualification
+Malta U21 vs Germany U21
+Hotbird 13B/13C/13G @ ( 13.0E )
+11188 V 9874
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: MLT-001 MAIN
+CW
+: FTA
+---FEED-SEPARATOR---
+ 42.0°E
+ 11460 V 6799
+ 1920*1080 | 8PSK | 4:2:2
+ TUR-125-A
+ Friendly Game | Konyaspor-Palestine 
+ 42 97 00 D9 00 42 97 D9
+---FEED-SEPARATOR---
+47W SES14 C 
+4067H10000 
+PERU VS MEXICO PR
+DVB-S2 4.2.2 1080I 
+PERU VS MEXICO 
+CW: EF56B1F62CBAC3A9
+---FEED-SEPARATOR---
+47W SES14 C 
+4007H9998 
+CHI VS EEUU PR
+DVB-S2 4.2.2 1080I 
+CHILE VS ESTADOS UNIDOS 
+CW: DF56114622DAC4C0
+@sattechtips
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+11623 V 9875
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: SWE-043 - M02 - MAIN
+Event: 
+UEFA Champions League Women - Bollkubben Hacken vs Juventus Women
+CW: C2 C6 64 EC 26 8E B5 69
+---FEED-SEPARATOR---
+UEFA Champions League Women
+AS Roma W vs Barcelona W
+Hot Bird 13B/13C/13E ( 13.0E )
+11612 V 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: ITA548 UWCL M1 Main
+CW: : 10 AD 67 24 C7 96 E3 40
+---FEED-SEPARATOR---
+Friendly International
+Lithuania vs Andorra
+Hot Bird 13B/13C/13E ( 13.0E )
+11066 V 14400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: LTU-005 -M1 -BU
+CW: : 30 C1 9B 8C AB 9A 09 4E
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+11628 V 9875
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: SWE-043 - M02 - MAIN
+Event:
+UEFA Women's Champions League - 
+BK Häcken FF vs Juventus
+CW: : C2 C6 64 EC 26 8E B5 69
+---FEED-SEPARATOR---
+Event: U-21 European Championship Qualifiers - Match: Poland - Sweden
+Eutelsat 16A  16° E
+10985 V 9601
+ID: POL 030
+4.2.0 
+DVB-S2 - 8PSK
+CW: DC AE 11 9B 50 50 EF 8F
+Thanks 
+@Verdeoro
+---FEED-SEPARATOR---
+UEFA Champions League Women
+Paris FC W vs Arsenal W
+Hot Bird 13B/13C/13E ( 13.0E )
+11635 V 9874
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: F563/FLY4/Encoder 4.3A/MAIN
+CW: : A7 E9 2A BA 17 11 FF 27
+---FEED-SEPARATOR---
+16E
+12555 H 7200
+4.2.0
+ID: Unname
+UEFA Women's Europa Cup​
+Hearts vs Real Sociedad
+FTA
+---FEED-SEPARATOR---
+UEFA Champions League Women
+OL Lyonnes vs Chelsea 
+Hot Bird 13B/13C/13E ( 13.0E )
+10857 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 4
+CW: : 06 A1 A8 4F F4 58 C7 13
+---FEED-SEPARATOR---
+UEFA Champions League Women
+Benfica vs FC Bayern München
+Hot Bird 13B/13C/13E ( 13.0E )
+10866 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 5
+CW: : 93 94 39 60 F7 AD 9F 43
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Round 2
+AS Roma vs Fútbol Club Barcelona
+Hot Bird 13.0E
+12678 H 7200
+4.2.0
+ - DVB-S2 - 1080P - 8PSK
+ID: ENC 2 (SES)
+CW: 5C 91 6F 5C BB DC 40 D7
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Round 2
+BK Häcken FF vs Juventus
+Hot Bird 13.0E
+11685 H 7200
+4.2.0
+ - DVB-S2 - 1080P - 8PSK
+ID: ENC 1 (SES)
+CW: BB 1E AD 86 8F 63 A4 96
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Round 2
+Paris FC vs Arsenal 
+Hot Bird 13.0E
+11694 H 7200
+4.2.0
+ - DVB-S2 - 1080P - 8PSK
+ID: ENC 3 (SES)
+CW: D0 CB 26 C1 4A 78 0A CC
+---FEED-SEPARATOR---
+Event: 
+UEFA Champions League Women
+Teams :OL Lyonnes W 
+ Chelsea W
+Eutelsat 16A @ 16.0E ( KU-BAND )
+12512 H 9873
+ID:F503/5/Lyonnes vs Chelsea/MAIN (OER)
+MPEG4-4:2:0 HD 1920x1080 |16.680 Mbit/Sec|8PSK DVB-S2 HD 
+AF 6E 09 FF 3A E0 C6 C3 
+CW: DE 81 BC 1B 8D BE 82 CD
+---FEED-SEPARATOR---
+UEFA Champions League, Women, Round 2
+Benfica vs FC Bayern München
+Eutelsat 16A @ 16.0E
+12523 H 9875
+4.2.2
+ - DVB-S2 - 1080P - 8PSK
+ID: E-94 - M05 - MAIN
+CW: 4A D6 C8 E8 F0 61 4B 9C
+---FEED-SEPARATOR---
+28.2E 
+12524 V 7498 420 MPEG4 HD FTA
+ID: EDS807HD.1 
+EUROLEAGUE WOMEN 
+SPAR GIRONA | EMLAK KONUT 
+KO 20:15 CET
+---FEED-SEPARATOR---
+16E
+12546 H 7200
+4.2.0
+ID: E-229 Main
+EuroCup
+Tenerife - Turk Telekom
+FTA
+---FEED-SEPARATOR---
+21.6E
+11580 H 4937
+4.2.0
+ID: Grapefruit
+FIBA West Asia Super League
+Kuwait SC - Indian Railways
+Al-Riyadi - Al Ittihad
+CW: A9 53 A9 A5 BC 07 1F E2
+---FEED-SEPARATOR---
+BKT EUROCUP
+COSEA JL BOURG vs JOVENTUT
+Hotbird 13B/13C/13G @ ( 13.0E )
+12689 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: LAT-002 
+CW: : BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+11067 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: IMG 2 EU
+Euroleague basketball
+Panathinaikos-Villeurbanne
+CW: D5 34 8B 94 DD F8 44 19
+---FEED-SEPARATOR---
+16E
+12656 H 7200
+4.2.0
+ID: ITA633_A
+EuroCup
+Maxima Roma - U-Banca Transilvania
+CW: 30 09 20 59 26 AC EF C1
+---FEED-SEPARATOR---
+BKT EuroCup
+Slask Wroclaw vs Buducnost
+Eutelsat 7A/7B/7C @ ( 7.0E )
+11093 V 7199
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: POL-068_ch1
+CW: : 60 24 33 B7 28 62 38 C2
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+11088 V 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: E115 G19 Via 1 Main
+Event: 
+BKT EuroCup - Burgos vs Olimpija Ljubljana
+CW: 13 11 AA CE CC 20 23 0F
+---FEED-SEPARATOR---
+BKT EuroCup
+Basket Napoli vs JL Bourg
+Eutelsat 16D @ ( 16.0E )
+12648 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ita _81B
+CW: : 30 09 20 59 26 AC EF C1
+---FEED-SEPARATOR---
+BKT EuroCup
+Ulm vs Balkan
+Hot Bird 13B/13C/13E ( 13.0E )
+12553 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Ulm-Botevgrad
+CW: : EC CE 09 C3 30 20 26 76
+---FEED-SEPARATOR---
+13E 11067 H 7200 8PSK 
+4:2:0
+ID:IMG 2 EU
+Panathinaikos Aktor - Asvel Lyon Villeurbanne
+CW: D5 34 8B 94 DD F8 44 19
+---FEED-SEPARATOR---
+BKT EuroCup
+Bahcesehir Kol. vs BC Roma
+Hot Bird 13B/13C/13E ( 13.0E )
+10839 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: TUR-142
+CW: : 4E 5B 29 D2 6D D1 9A D8
+---FEED-SEPARATOR---
+10E
+10744 V 7200
+4.2.0
+ID: PAOK VS MANRESA
+EuroCup Basketball
+​
+PAOK Thessaloniki vs Kids&Us Manresa
+CW: F1 3D AA D8 58 B2 A2 AC
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+12696 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: LAT-001 M
+Event: 
+BKT EuroCup - Riga Zelli vs Derthona
+CW: BA 23 DE BB 81 CD 72 C0
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+12706 H 7200
+DVB-S2 - 4:2:0 - 8PSK
+ID: POL-102 MAIN
+Event: 
+BKT EuroCup - Lietkabelis Panevezys vs BOSNA BH Telecom Sarajevo
+CW: BA 23 DE BB 81 CD 72 C0
