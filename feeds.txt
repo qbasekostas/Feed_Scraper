@@ -6,6 +6,17 @@ FÚTBOL COLOMBIANO SERIE A
 ATLETICO NACIONAL VS JUNIORS
 CW: 5A BC CF E5 76 99 72 81
 ---FEED-SEPARATOR---
+UEFA Nations League
+Azerbaigian vs Liechtenstein
+Eutelsat 16D @ ( 16.0E )
+12594 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: CBC-01
+CW
+: FTA
+---FEED-SEPARATOR---
 Friendly International
 Argentina vs Bolivia
 Hotbird 13B/13C/13G @ ( 13.0E )
@@ -16,3 +27,357 @@ DVB-S2 -
 ID: Fi09_GNVE
 CW
 : FTA
+---FEED-SEPARATOR---
+UEFA Nations League  
+Wales vs Norway
+Eutelsat 16D @ ( 16.0E )
+12691 V 8000
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: Unname
+CW
+: FTA
+---FEED-SEPARATOR---
+tuvalo said:
+			19.2°E - 11217 H 14400 8PSK DVB-S2
+ID: ZDF DSNG
+Nation League - Germany vs Serbia
+Biss key please
+Click to expand...
+Key in now known. And it's in 422
+---FEED-SEPARATOR---
+28.2 E
+12525 H 7499 422 MPEG4 HD FTA
+ID: Gigatel HD | Gigatel
+NATIONS LEAGUE
+WALES | NORWAY
+KO 20:45 CET
+---FEED-SEPARATOR---
+19.2°E - 11217 H 14400 8PSK DVB-S2
+ID: ZDF DSNG
+Nation League - Germany vs Serbia
+Biss key please
+---FEED-SEPARATOR---
+8W
+12524 V 9798 420 MPEG4 HD FTA
+ID: ORION FEED 1
+NATIONS LEAGUE
+FRANCE | ITALY 
+(test for tomorrow game)
+---FEED-SEPARATOR---
+100.5e
+3832 V 9873
+4:2:0
+ID: Fi11_GNVE
+Kirin CUP
+Japan vs Equador
+0F 7F 93 3F AD AA 45 69  #CW: 
+07 BC 80 43 38 93 DE A9
+---FEED-SEPARATOR---
+40.5W SES6
+4162V7200
+ID: SERVICE1
+DVB-S2 4.2.0 1080I 
+ARGENTINA VS BOLIVIA 
+CW: D5128C73C964A1CE
+---FEED-SEPARATOR---
+tuvalo said:
+			19.2°E - 11217 H 14400 8PSK DVB-S2
+ID: ZDF DSNG
+Nation League - Germany vs Serbia
+Biss key please
+Click to expand...
+4:2:2
+CW: CA 01 BE 89 10 26 DC 12
+---FEED-SEPARATOR---
+10E
+10769 H 7200
+4.2.0
+ID: ARM004
+UEFA European Under-21 Championship
+Armenia U21 - Italy U21
+CW: A2 3B CD AA 9E 3A BC 94
+---FEED-SEPARATOR---
+7E 
+11122 V 7200 420 MPEG4 HD BISS
+ID: ITA 491 A 9A1 | LIVESAT 
+NATIONS LEAGUE 
+FRANCE | ITALY (TOMORROW)
+CW: B1 28 57 30 07 C4 66 31
+---FEED-SEPARATOR---
+U23 Friendly Games​
+Morocco vs  Mali
+​
+21.6E
+- Name:           MRC004-MAIN (*unnamed-1*)
+- Freq: 11579,329
+- Pol: Horizontal
+- SR: 5000,078
+- Mod: 8PSK
+- FEC: 3/4
+- Std: DVB-S2
+48 B5 70 C3 8B 89 73 EC  
+CW: FE ED 01 EC 10 20 26 56
+#[E] PID:0200h
+---FEED-SEPARATOR---
+UEFA Nations League
+Greece vs Netherlands
+Eutelsat 16D @ ( 16.0E )
+11152 H 9874
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: UKI_1371_M04_Main
+CW: : 01 C1 9B 5D AB 9A 10 55
+---FEED-SEPARATOR---
+UEFA Nations League - League A Group 2 Round 3
+Germany vs. Serbia
+Eutelsat 16D @ 16.0°E
+11140 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID
+: D565 M3 B UP
+CW: 01 C1 9B 5D AB 9A 10 55
+---FEED-SEPARATOR---
+UEFA Nations League
+Kazakhstan vs Moldova
+Hot Bird 13B/13C/13E ( 13.0E )
+11633 H 14400
+DVB-S2 -
+ 4:2:2 
+- 8PSK
+ID: KAZ008M
+CW: : 02 C1 9B 5E AB 9A 10 55
+---FEED-SEPARATOR---
+UEFA Nations League - League A Group 4 Round 3
+Wales vs. Norway
+Eutelsat 16D @ 16.0°E
+11164 - H - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID
+: UKI 1965 UNL match 8 B main
+CW: 01 C1 9B 5D AB 9A 10 55
+---FEED-SEPARATOR---
+UEFA Nations League - League A Group 4 Round 3
+Denmark vs. Portugal
+Eutelsat 16D @ 16.0°E
+11128 - H - 9875 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: DNK83_1_UNLM2_MAIN
+CW: 01 C1 9B 5D AB 9A 10 55
+---FEED-SEPARATOR---
+UEFA Nations League - League A Group 4 Round 3
+Wales vs. Norway
+Hot Bird 13F/13G @ 13.0°E
+11613 - H - 14400 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: Wales v Norway FEED A Main
+CW: 01 C1 9B 5D AB 9A 10 55
+---FEED-SEPARATOR---
+UEFA Nations League
+Israel vs Kosovo
+Hot Bird 13B/13C/13E @ ( 13.0E )
+11190 V 14400
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: HUN-022 UNLM05 M
+CW: : 01 C1 9B 5D AB 9A 10 55
+---FEED-SEPARATOR---
+UEFA Nations League - League A Group 2 Round 3
+Greece vs. Netherlands
+Hot Bird 13F/13G @ 13.0°E
+11084 - V - 14400 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: E394 UNL MD4 BACK
+CW: 01 C1 9B 5D AB 9A 10 55
+---FEED-SEPARATOR---
+UEFA Nations League - League B Group 3 Round 3
+Ireland vs. Austria
+Hot Bird 13F/13G @ 13.0°E
+11595 - H - 14400 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: UKI1482 2 UNLM7
+CW: 01 C1 9B 5D AB 9A 10 55
+---FEED-SEPARATOR---
+UEFA Nations League - League D Group 1 Round 3
+Malta vs. Gibraltar
+Hot Bird 13F/13G @ 13.0°E
+11208 - V - 14400 
+|
+4:2:2
+ | H.264 
+1920*1080 | 8PSK | DVB-S2
+ID
+: ITA 689 M06 M
+CW: 01 C1 9B 5D AB 9A 10 55
+---FEED-SEPARATOR---
+Uefa Nations League..Greece vs Netherlands
+Hot Bird 13B/13C/13E ( 13.0E )
+11655 H 9874
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: E399 - UNL M4 VBR MAIN
+CW: : 3B 06 81 C2 8F 61 DA CA
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11065 - V - 14400 |
+4:2:2
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID: AZE-013_MAIN_CHAIN
+Event: 
+UEFA Nations League - Azerbaigian vs Liechtenstein
+CW: 01 C1 9B 5D AB 9A 10 55
+---FEED-SEPARATOR---
+.del
+---FEED-SEPARATOR---
+UEFA Champions League Women
+Paris Saint-Germain vs Oud-Heverlee Leuven
+Hot Bird 13B/13C/13E ( 13.0E )
+11684 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 2
+CW: : 1E A2 12 D2 B1 2F 85 65
+---FEED-SEPARATOR---
+UEFA Champions League Women
+Servette Geneve FC W vs Koge W
+Hot Bird 13B/13C/13E ( 13.0E )
+12696 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 4
+CW: : BF C8 72 F9 98 73 2E 39
+---FEED-SEPARATOR---
+UEFA Champions League Women
+Austria Vienna W vs Inter W
+Hot Bird 13B/13C/13E ( 13.0E )
+12687 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 3
+CW: : D5 2C 1A 1B C0 FF 3E FD
+---FEED-SEPARATOR---
+UEFA Champions League Women
+Paris Saint-Germain vs Oud-Heverlee Leuven
+Eutelsat 16D @ ( 16.0E )
+12513 H 9874
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: F563/5/FEED PSG FOOT FEMININ MAIN
+CW: : 59 CF 7D A5 9A 6A E4 E8
+---FEED-SEPARATOR---
+UEFA Champions League Women
+Manchester City W vs Real Madrid W
+Hot Bird 13B/13C/13E ( 13.0E )
+11635 V 9874
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: UKI1980 M4 Main
+CW: : 1B 4E 1E 87 49 30 86 FF
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E ( 13.0E )
+11611 V 9875
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: AUT34M01 M
+Event: 
+UEFA Champions League Women -
+CW: 22 88 3D E7 43 24 89 F0
+---FEED-SEPARATOR---
+UEFA Champions League Women
+Hot Bird 13B/13C/13E ( 13.0E )
+Servette Geneve FC W vs Koge W
+11624 V 9874
+DVB-S2 - 
+4:2:2 
+- 8PSK
+ID: SWE-043 - M02 - MAIN
+CW: : F7 60 D4 2B FA EF 8D 76
+---FEED-SEPARATOR---
+UEFA Champions League Women
+Manchester City W vs Real Madrid W
+Hot Bird 13B/13C/13E ( 13.0E )
+12707 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ENC 1
+CW: : BC 6C C6 EE EF 60 D3 22
+---FEED-SEPARATOR---
+EuroLeague
+Virtus Bologna vs Olympiacos
+Hot Bird 13B/13C/13E ( 13.0E )
+11638 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: ITA340 A
+CW: : AF DA F8 81 F0 D5 F5 BA
+---FEED-SEPARATOR---
+SAT : EUTELSAT 10.0°E | C-Band
+​
+ID : TAN-004-MAIN | 4:2:0
+​
+TP : 3890 H/V 3750 | DVB-S2 8PSK
+​
+CW : EB 54 4F 8E D0 B1 DA 5B
+​
+---FEED-SEPARATOR---
+30.5E
+11085 V 4800
+4.2.0
+ID: SNG MK2
+FIBA West Asia Super League
+Shahrdari Gorgan - AlUla
+Al Arabi - Sagesse Beirut
+CW: 10 12 09 2B 32 12 22 66
+---FEED-SEPARATOR---
+21.6E
+11580 H 4937
+4.2.0
+ID: Grapefruit
+FIBA West Asia Super League
+Shahrdari Gorgan - AlUla
+Al Arabi - Sagesse Beirut
+CW: 01 A1 D7 79 E3 35 ED 05
+---FEED-SEPARATOR---
+Hotbird 13B/13C/13G @ ( 13.0E )
+11068 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: IMG 2 EU
+CW: : 11 A3 7F 33 3F 36 BA 2F
+Euroleague Basketball Hapoel Tel Aviv-Real Madrid
