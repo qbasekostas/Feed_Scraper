@@ -1,3 +1,10 @@
+47W SES14 C 
+3849H6666 
+ID AGUJAG
+DVB-S2 4.2.0 1080I 
+FÚTBOL COLOMBIANO 
+CW: 09 BE 5A 21 B6 BD AB 1E
+---FEED-SEPARATOR---
 Argentine First Division
 CA Independiente vs Instituto De Córdoba
 Eutelsat 10A @ ( 10.0E )
@@ -7,3 +14,302 @@ DVB-S2 -
  - 8PSK
 ID: AFD
 CW: : A5 A7 11 5D DC 22 10 0E
+---FEED-SEPARATOR---
+SuperTaca de Futsal
+Benfica vs Sporting
+Hot Bird 13B/13C/13E ( 13.0E )
+11213 H 7199
+DVB-S2 - 
+4:2:0
+ - 8PSK
+ID: POR 21
+CW: : 96 8D B5 D8 31 B3 97 7B
+---FEED-SEPARATOR---
+42e
+11460 V 6800
+4:2:2
+ID: 
+TUR-M25-B
+Turkey
+Sultanlar Ligi Women
+Vakifbank W  vs  Besiktas W
+2F 6B D3 7B 88 68 5A 75  #CW: 
+42 97 00 D9 00 42 97 D9
+---FEED-SEPARATOR---
+28.2E 
+12702 V 7118 420 MPEG4 HD FTA
+ID: Cloudbass  | UKI38-R1BW 
+SCOTTISH LEAGUE ONE 
+HAMILTON | PETERHEAD 
+KO 18:30 CET
+---FEED-SEPARATOR---
+Albahraniy said:
+League Two, Round 9
+Chesterfield vs Tranmere Rovers
+Hot Bird 13.0E
+11655 H 7119
+4.2.0
+ - DVB-S2 - 1080P - 8PSK
+ID: Pitch EFL - Chesterfield v Tranmere
+CW: 11 0F 52 72 2E FF 23 50
+Click to expand...
+AsiaSat 5 100.E
+TP: 3887 V 7119
+ID: BT_SES_2_SDI
+CW: 11 0F 52 72 2E FF 23 50
+---FEED-SEPARATOR---
+League Two, Round 9
+Chesterfield vs Tranmere Rovers
+Hot Bird 13.0E
+11655 H 7119
+4.2.0
+ - DVB-S2 - 1080P - 8PSK
+ID: Pitch EFL - Chesterfield v Tranmere
+CW: 11 0F 52 72 2E FF 23 50
+---FEED-SEPARATOR---
+47W SES14 C 
+4123V10000 
+ID: CAN VS PER PR
+DVB-S2 4.2.2 1080I 
+International Friendly
+CANADA VS PERU
+CW: 11 56 11 78 22 DA C3 BF
+---FEED-SEPARATOR---
+International Friendly
+Morocco vs Mali (
+TOMORROW
+)
+3.1E
+11662 H 7200
+DVB-S2 4:2:0 8PSK
+ID: MRC004-MAIN
+CW: FE ED 04 EF 10 20 26 56
+---FEED-SEPARATOR---
+UEFA Nations League
+Spain vs Czech Republic
+Eutelsat 16D @ ( 16.0E )
+11150 H 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: LK ENC 01_NTF_M07
+CW: : 03 C1 9B 5F AB 9A 10 55
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11212 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID: E-467 NTF M7 MAIN
+Event: 
+UEFA Nations League - Spain vs Czech Republic
+CW: 03 C1 9B 5F AB 9A 10 55
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11595 - H - 14400 |
+4:2:2
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID: YSM021m M06
+Event: 
+UEFA Nations League - North Macedonia vs Scotland 
+CW: 03 C1 9B 5F AB 9A 10 55
+---FEED-SEPARATOR---
+Eutelsat 16D @ 16.0E
+11140 - H - 9875 |
+4:2:2
+| H.264
+1920*1080 | 8PSK | DVB-S2
+ID: CRO-025 NTF M03 MAIN
+Event: 
+UEFA Nations League - Croatia vs England
+CW: 03 C1 9B 5F AB 9A 10 55
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11065 - V - 14400 |
+4:2:2
+| H.264
+1920*1080 | 8PSK | DVB-S2
+ID: HUN022-UNLM02 B
+Event: 
+UEFA Nations League - Belarus vs San Marino
+CW: 03 C1 9B 5F AB 9A 10 55
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11084 - V - 14400 |
+4:2:2
+| H.264
+1920*1080 | 8PSK | DVB-S2
+ID: EST-010 BU UNLM4
+Event: 
+UEFA Nations League - Estonia vs Luxembourg
+CW: 03 C1 9B 5F AB 9A 10 55
+---FEED-SEPARATOR---
+Hot Bird 13B/13C/13E @ 13.0E
+11190 - V - 14400 |
+4:2:2
+| H.264
+1920*1080 | 8PSK | DVB-S2
+ID: ISL-RKS-002 - 3-BUP
+Event: 
+UEFA Nations League - Iceland vs Bulgaria
+CW: 03 C1 9B 5F AB 9A 10 55
+---FEED-SEPARATOR---
+UEFA Nations League
+Finland vs Albania
+Eutelsat 16D @ 16.0E
+11127 H 9875
+4.2.2
+ - DVB-S2 - 1080P - 8PSK
+ID:  M01 - MAIN
+CW: 03 C1 9B 5F AB 9A 10 55
+---FEED-SEPARATOR---
+Mo_ha said:
+UEFA Nations League
+Spain vs Czech Republic
+Eutelsat 16D @ ( 16.0E )
+11150 H 9874
+DVB-S2 - 
+4:2:2
+ - 8PSK
+ID: LK ENC 01_NTF_M07
+CW: : 03 C1 9B 5F AB 9A 10 55
+Click to expand...
+4.2.0
+​
+---FEED-SEPARATOR---
+Event: Friendly match: Arka Gdynia - IFK Gothenburg
+Eutelsat 16D  16° E
+10985 V 9601
+ID: POL 48 ENC1
+4.2.2
+ DVB-S2 - 8PSK
+CW: 20 26 CA 10 E0 31 01 12
+Thank you 
+@vakula
+---FEED-SEPARATOR---
+Verdeoro said:
+Hot Bird 13B/13C/13E @ 13.0E
+11212 - V - 9875 
+|
+4:2:2
+ | H.264
+1920*1080 | 8PSK | DVB-S2
+ID: E-467 NTF M7 MAIN
+Event: 
+UEFA Nations League - Spain vs Czech Republic
+CW: 03 C1 9B 5F AB 9A 10 55
+Click to expand...
+11634 V 9873 now
+---FEED-SEPARATOR---
+Hot Bird 13.0E
+12552 H 7200
+4.2.2 - DVB-S2 - 1080P - 8PSK
+ID: RTL  Return 2
+Albahraniy said:
+UEFA Nations League
+Greece vs Germany ( Preparations and training )
+CW: 20 AC AB 77 26 16 1D 59
+Click to expand...
+---FEED-SEPARATOR---
+Albahraniy said:
+UEFA Nations League
+Greece vs Germany
+CW
+:
+20 AC AB 77 26 16 1D 59
+Click to expand...
+Hot Bird 13B/13C/13E ( 13.0E )
+12526 H 7199
+DVB-S2 - 
+4:2:0 
+- 8PSK
+ID: ATLAS-SAT SNG 1
+---FEED-SEPARATOR---
+UEFA Nations League
+Greece vs Germany ( Preparations and training )
+Hot Bird 13.0E
+12534 H 7200
+4.2.0
+ - DVB-S2 - 1080P - 8PSK
+ID: ATLAS-SAT SNG 1
+CW: 20 AC AB 77 26 16 1D 59
+---FEED-SEPARATOR---
+omid1348 said:
+19.2E
+11502 V 9875
+11515 V 9875
+4.2.2
+ID: UKI-1324 SKOPJE A
+UEFA Nations League - Tomorrow
+North Macedonia - Scotland
+CW: 44 8C 13 E3 33 72 60 05
+Click to expand...
+NEW CW
+: 14 9C FC AC 12 6D 8C 0B
+---FEED-SEPARATOR---
+Eutelsat 16D @ 16.0E
+11164 - H - 9875 
+|
+4:2:2 
+| H.264
+1920*1080 | 8PSK | DVB-S2
+ID: SUI76-1 UNLM3 main
+Event: 
+UEFA Nations League -
+Switzerland vs Slovenia
+CW: 03 C1 9B 5F AB 9A 10 55
+---FEED-SEPARATOR---
+42E
+10965 V 7500
+4.2.2
+ID: E333 M
+Basketbol Süper Ligi
+Merkezefendi Belediyesi Denizli - Tofaş S.K.
+CW: 5B E0 62 9D F5 84 E1 5A
+---FEED-SEPARATOR---
+Albahraniy said:
+Liga ACB, Spain
+Hot Bird 13.0E
+11618 V 7200
+4.2.0
+ - DVB-S2 - 1080P - 8PSK
+ID: Fi01 ACB
+CW: 1A 17 96 C7 37 FE FF 34
+Click to expand...
+ Unicaja v Tenerife
+---FEED-SEPARATOR---
+16E
+12718 H 4938 420 MPEG4 HD BISS
+ID: BIH007 M | AVC Sarajevo
+ADMIRALBET ABA LEAGUE
+IGOKEA | SLOVAN BRATISLAVA 
+CW: 20 10 20 50 25 20 26 6B
+---FEED-SEPARATOR---
+21.6E
+11475 H 4937
+4.2.0
+ID: Grapefruit
+FIBA West Asia Super League
+Al-Riyadi - AlUla
+Sagesse Beirut - Kuwait SC
+CW: 3A 5C 6C 02 D9 50 E7 10
+---FEED-SEPARATOR---
+30.5E
+11085 V 4800
+4.2.0
+ID: SNG MK2
+FIBA West Asia Super League
+Al-Riyadi - AlUla
+Sagesse Beirut - Kuwait SC
+CW: AB CD EF 67 45 67 89 35
+---FEED-SEPARATOR---
+Liga ACB, 
+Spain
+Hot Bird 13.0E
+11618 V 7200
+4.2.0
+ - DVB-S2 - 1080P - 8PSK
+ID: Fi01 ACB
+CW: 1A 17 96 C7 37 FE FF 34
